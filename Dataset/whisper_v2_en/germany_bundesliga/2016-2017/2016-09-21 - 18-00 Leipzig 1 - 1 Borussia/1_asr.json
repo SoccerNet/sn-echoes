@@ -1,0 +1,2619 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            3.0,
+            "The ball is placed in possession."
+        ],
+        "1": [
+            3.98,
+            5.98,
+            "First with Christensen in midfield."
+        ],
+        "2": [
+            6.0,
+            7.0,
+            "Next to Kramer."
+        ],
+        "3": [
+            7.98,
+            9.98,
+            "Leipzig stays in the first round."
+        ],
+        "4": [
+            10.0,
+            12.0,
+            "The direction of play is from left to right."
+        ],
+        "5": [
+            30.98,
+            32.98,
+            "Wonderful conditions."
+        ],
+        "6": [
+            33.0,
+            35.0,
+            "It's still warm, a light wind."
+        ],
+        "7": [
+            39.98,
+            43.98,
+            "The grass is opening up, you have to mention that here and there these days."
+        ],
+        "8": [
+            53.0,
+            56.0,
+            "It was pretty good to see how Christensen got involved back there."
+        ],
+        "9": [
+            56.0,
+            57.0,
+            "Next to Westergaard."
+        ],
+        "10": [
+            57.0,
+            59.98,
+            "Kramer goes between the two central defenders, I'll call them."
+        ],
+        "11": [
+            61.0,
+            63.0,
+            "The grass is opening up, you have to do that every now and then in the days"
+        ],
+        "12": [
+            63.0,
+            64.0,
+            "mention."
+        ],
+        "13": [
+            65.0,
+            68.0,
+            "The grass is opening up, you have to do that every now and then in the days"
+        ],
+        "14": [
+            68.0,
+            69.0,
+            "mention."
+        ],
+        "15": [
+            70.0,
+            72.98,
+            "This is Leipzig, they play a very good pressing game."
+        ],
+        "16": [
+            73.0,
+            74.0,
+            "They attack right at the front."
+        ],
+        "17": [
+            74.98,
+            76.98,
+            "You're immediately building up the game."
+        ],
+        "18": [
+            79.0,
+            81.0,
+            "They pull towards the center line."
+        ],
+        "19": [
+            81.98,
+            84.98,
+            "It's difficult for the opponent to adjust to it."
+        ],
+        "20": [
+            86.0,
+            88.0,
+            "Now the quarters of four."
+        ],
+        "21": [
+            89.0,
+            92.0,
+            "Now the foursome quarters I mentioned earlier."
+        ],
+        "22": [
+            92.98,
+            94.0,
+            "At Borussia Mönchengladbach."
+        ],
+        "23": [
+            119.0,
+            120.0,
+            "That was a good ball."
+        ],
+        "24": [
+            122.0,
+            123.0,
+            "That was a good ball."
+        ],
+        "25": [
+            125.0,
+            126.0,
+            "Bernardo."
+        ],
+        "26": [
+            130.0,
+            133.0,
+            "A numerous former Salzburg player."
+        ],
+        "27": [
+            135.0,
+            137.0,
+            "Marvin Komper, former Gladbacher."
+        ],
+        "28": [
+            139.0,
+            142.0,
+            "One variant is exactly that, with breaks, fixing the ball,"
+        ],
+        "29": [
+            142.0,
+            143.0,
+            "Keep playing."
+        ],
+        "30": [
+            143.0,
+            145.0,
+            "Losing was not in the cards."
+        ],
+        "31": [
+            149.0,
+            150.0,
+            "That was a good ball."
+        ],
+        "32": [
+            152.0,
+            153.0,
+            "You have to secure that."
+        ],
+        "33": [
+            155.0,
+            156.0,
+            "That was a tunnel."
+        ],
+        "34": [
+            158.0,
+            159.0,
+            "But then too imprecise."
+        ],
+        "35": [
+            161.0,
+            164.0,
+            "Only if Traore is behind Halstenberg,"
+        ],
+        "36": [
+            164.98,
+            167.0,
+            "Gladbach has what they want."
+        ],
+        "37": [
+            167.0,
+            169.0,
+            "Lots of space and a quick man."
+        ],
+        "38": [
+            179.0,
+            180.0,
+            "Paul Südwerner."
+        ],
+        "39": [
+            201.0,
+            204.0,
+            "But it's also easy to see on the other side,"
+        ],
+        "40": [
+            205.0,
+            208.0,
+            "That the four-man chain pushes far back."
+        ],
+        "41": [
+            210.0,
+            212.0,
+            "Hasan and Hahn are on their way,"
+        ],
+        "42": [
+            212.98,
+            214.0,
+            "just like the outer chain."
+        ],
+        "43": [
+            223.0,
+            224.0,
+            "Traore."
+        ],
+        "44": [
+            225.0,
+            226.0,
+            "Very good idea."
+        ],
+        "45": [
+            228.0,
+            231.0,
+            "In the middle, Hahn is a little too far in the back."
+        ],
+        "46": [
+            234.0,
+            236.0,
+            "That was a good ball."
+        ],
+        "47": [
+            265.0,
+            266.0,
+            "That was a good ball."
+        ],
+        "48": [
+            268.0,
+            269.0,
+            "That was a good ball."
+        ],
+        "49": [
+            284.0,
+            287.0,
+            "The weight class is about the same."
+        ],
+        "50": [
+            288.0,
+            290.0,
+            "The body is of course clearly in the front."
+        ],
+        "51": [
+            290.0,
+            291.0,
+            "That's a good ball."
+        ],
+        "52": [
+            294.0,
+            295.0,
+            "That was a good ball."
+        ],
+        "53": [
+            297.0,
+            299.0,
+            "But no active movement."
+        ],
+        "54": [
+            300.0,
+            301.0,
+            "No punch."
+        ],
+        "55": [
+            304.0,
+            308.0,
+            "Unfortunately, this does not alleviate Westergatten's pain significantly."
+        ],
+        "56": [
+            321.0,
+            322.0,
+            "That was a good ball."
+        ],
+        "57": [
+            323.0,
+            324.0,
+            "That was a good ball."
+        ],
+        "58": [
+            332.0,
+            333.0,
+            "Now it's the other way around."
+        ],
+        "59": [
+            335.0,
+            336.0,
+            "The show goal is Werner."
+        ],
+        "60": [
+            338.0,
+            340.0,
+            "There's still Paulsen on the other side."
+        ],
+        "61": [
+            341.0,
+            342.0,
+            "Da ist Werner."
+        ],
+        "62": [
+            343.0,
+            344.0,
+            "And again."
+        ],
+        "63": [
+            345.0,
+            346.0,
+            "The thing is inside."
+        ],
+        "64": [
+            351.0,
+            352.0,
+            "That was a good ball."
+        ],
+        "65": [
+            353.0,
+            354.0,
+            "That was a good ball."
+        ],
+        "66": [
+            357.0,
+            358.0,
+            "A lot of movement to the goal."
+        ],
+        "67": [
+            360.0,
+            363.0,
+            "But of course also the misunderstanding in defense."
+        ],
+        "68": [
+            366.0,
+            367.0,
+            "Paulsen is doing great."
+        ],
+        "69": [
+            369.0,
+            371.0,
+            "He can't be separated from the ball."
+        ],
+        "70": [
+            372.0,
+            373.0,
+            "The eye has no offside."
+        ],
+        "71": [
+            375.0,
+            377.0,
+            "Now Werner and two men in green."
+        ],
+        "72": [
+            377.0,
+            378.0,
+            "That was a good ball."
+        ],
+        "73": [
+            381.0,
+            382.0,
+            "That was a good ball."
+        ],
+        "74": [
+            387.0,
+            389.0,
+            "Carried to the goal with a lot of effort."
+        ],
+        "75": [
+            396.0,
+            398.0,
+            "The records will just keep coming."
+        ],
+        "76": [
+            401.0,
+            403.0,
+            "The fastest Bundesliga goal so far."
+        ],
+        "77": [
+            404.0,
+            406.0,
+            "But it's also the first one before the break."
+        ],
+        "78": [
+            407.0,
+            408.0,
+            "That was a good ball."
+        ],
+        "79": [
+            411.0,
+            412.0,
+            "That was a good ball."
+        ],
+        "80": [
+            417.0,
+            418.0,
+            "That was a good ball."
+        ],
+        "81": [
+            421.0,
+            424.0,
+            "That doesn't make the situation any easier for the guests."
+        ],
+        "82": [
+            426.0,
+            428.0,
+            "Although it's an early goal."
+        ],
+        "83": [
+            429.0,
+            430.0,
+            "If it has an advantage,"
+        ],
+        "84": [
+            431.0,
+            434.0,
+            "It's that you have a lot of time to correct it."
+        ],
+        "85": [
+            437.0,
+            438.0,
+            "That was a good ball."
+        ],
+        "86": [
+            441.0,
+            442.0,
+            "That was a good ball."
+        ],
+        "87": [
+            452.0,
+            455.0,
+            "You can just imagine how this started."
+        ],
+        "88": [
+            456.0,
+            458.0,
+            "He moved the ball up a lot."
+        ],
+        "89": [
+            459.0,
+            461.0,
+            "The people of Leipzig have solved that."
+        ],
+        "90": [
+            467.0,
+            468.0,
+            "That was a good ball."
+        ],
+        "91": [
+            471.0,
+            472.0,
+            "That was a good ball."
+        ],
+        "92": [
+            482.0,
+            484.0,
+            "Then we'll have the paper gone."
+        ],
+        "93": [
+            485.0,
+            487.0,
+            "The first goal conceded before the break."
+        ],
+        "94": [
+            488.0,
+            489.0,
+            "For Borussia Mönchengladbach."
+        ],
+        "95": [
+            492.0,
+            494.0,
+            "In this Bundesliga season."
+        ],
+        "96": [
+            497.0,
+            498.0,
+            "That was a good ball."
+        ],
+        "97": [
+            528.0,
+            529.0,
+            "That was a good ball."
+        ],
+        "98": [
+            533.0,
+            534.0,
+            "There is no teammate."
+        ],
+        "99": [
+            537.0,
+            538.0,
+            "Strobe, Traore, Kramer."
+        ],
+        "100": [
+            539.0,
+            540.0,
+            "They are not here."
+        ],
+        "101": [
+            541.0,
+            542.0,
+            "Strobe."
+        ],
+        "102": [
+            549.0,
+            550.0,
+            "Both worked well."
+        ],
+        "103": [
+            552.0,
+            553.0,
+            "Strobe that stops."
+        ],
+        "104": [
+            558.0,
+            559.0,
+            "Traore, who remains standing."
+        ],
+        "105": [
+            561.0,
+            562.0,
+            "Strobe that stays still."
+        ],
+        "106": [
+            577.0,
+            579.0,
+            "They hold the second balls well."
+        ],
+        "107": [
+            588.0,
+            589.0,
+            "That was a good ball."
+        ],
+        "108": [
+            591.0,
+            592.0,
+            "That was a good ball."
+        ],
+        "109": [
+            597.0,
+            598.0,
+            "Did I mention that?"
+        ],
+        "110": [
+            601.0,
+            602.0,
+            "Ja."
+        ],
+        "111": [
+            606.0,
+            607.0,
+            "Kaiser im Zentrum."
+        ],
+        "112": [
+            609.0,
+            611.0,
+            "Now there's the free kick."
+        ],
+        "113": [
+            612.0,
+            614.0,
+            "The captain heard about the Stindel."
+        ],
+        "114": [
+            618.0,
+            619.0,
+            "That was a good ball."
+        ],
+        "115": [
+            621.0,
+            622.0,
+            "That was a good ball."
+        ],
+        "116": [
+            627.0,
+            629.0,
+            "Four men are applying."
+        ],
+        "117": [
+            631.0,
+            634.0,
+            "To take the free kick from 38 m in front of the goal."
+        ],
+        "118": [
+            635.0,
+            636.0,
+            "Of course Dominic Kaiser."
+        ],
+        "119": [
+            648.0,
+            649.0,
+            "That was a good ball."
+        ],
+        "120": [
+            651.0,
+            652.0,
+            "That was a good ball."
+        ],
+        "121": [
+            654.0,
+            655.0,
+            "That was a good ball."
+        ],
+        "122": [
+            657.0,
+            658.0,
+            "The idea is good."
+        ],
+        "123": [
+            660.0,
+            661.0,
+            "Bernardo slipped through."
+        ],
+        "124": [
+            666.0,
+            667.0,
+            "Fabian Johnson."
+        ],
+        "125": [
+            678.0,
+            681.0,
+            "Fabian Johnson didn't put the ball in the middle."
+        ],
+        "126": [
+            682.0,
+            684.0,
+            "The penalty is a story in itself."
+        ],
+        "127": [
+            685.0,
+            686.0,
+            "But it doesn't fit in."
+        ],
+        "128": [
+            687.0,
+            688.0,
+            "Kaiser flat on the fiver."
+        ],
+        "129": [
+            696.0,
+            698.0,
+            "Now there's the next corner."
+        ],
+        "130": [
+            699.0,
+            701.0,
+            "There are seven people in the front again."
+        ],
+        "131": [
+            702.0,
+            704.0,
+            "The penalty is a story in itself."
+        ],
+        "132": [
+            707.0,
+            709.0,
+            "The penalty is a story in itself."
+        ],
+        "133": [
+            712.0,
+            714.0,
+            "Kaiser to the second post."
+        ],
+        "134": [
+            715.0,
+            716.0,
+            "Bernardo ist da."
+        ],
+        "135": [
+            717.0,
+            718.0,
+            "The Stindel is open."
+        ],
+        "136": [
+            725.0,
+            726.0,
+            "Abseits."
+        ],
+        "137": [
+            732.0,
+            733.0,
+            "That was a good ball."
+        ],
+        "138": [
+            735.0,
+            736.0,
+            "That was a good ball."
+        ],
+        "139": [
+            741.0,
+            744.0,
+            "A defensive mistake in front of Leipzig's goal."
+        ],
+        "140": [
+            745.0,
+            747.0,
+            "That shouldn't diminish their quality."
+        ],
+        "141": [
+            748.0,
+            750.0,
+            "Christensen shoots Westergarten."
+        ],
+        "142": [
+            751.0,
+            753.0,
+            "Werner is where he needs to be."
+        ],
+        "143": [
+            754.0,
+            756.0,
+            "It was a little different with the goal."
+        ],
+        "144": [
+            757.0,
+            759.0,
+            "But they force their opponent to make mistakes."
+        ],
+        "145": [
+            759.0,
+            760.0,
+            "It's a good ball."
+        ],
+        "146": [
+            762.0,
+            763.0,
+            "That was a good ball."
+        ],
+        "147": [
+            764.0,
+            765.0,
+            "That was a good ball."
+        ],
+        "148": [
+            766.0,
+            767.0,
+            "That was a good ball."
+        ],
+        "149": [
+            768.0,
+            769.0,
+            "That was a good ball."
+        ],
+        "150": [
+            770.0,
+            771.0,
+            "That was a good ball."
+        ],
+        "151": [
+            772.0,
+            773.0,
+            "That was a good ball."
+        ],
+        "152": [
+            779.0,
+            782.0,
+            "That's also one reason why I was sure,"
+        ],
+        "153": [
+            783.0,
+            785.0,
+            "that they play with a back four."
+        ],
+        "154": [
+            786.0,
+            789.0,
+            "There is no room in the middle to combine."
+        ],
+        "155": [
+            790.0,
+            792.0,
+            "Why put two there?"
+        ],
+        "156": [
+            793.0,
+            795.0,
+            "Werner works, breaks work."
+        ],
+        "157": [
+            797.0,
+            800.0,
+            "He doesn't have to concentrate on the opponents."
+        ],
+        "158": [
+            801.0,
+            802.0,
+            "That was a good ball."
+        ],
+        "159": [
+            803.0,
+            804.0,
+            "That was a good ball."
+        ],
+        "160": [
+            807.0,
+            809.0,
+            "A very fine ball from Christensen."
+        ],
+        "161": [
+            810.0,
+            811.0,
+            "Wonderfully done by Johnson."
+        ],
+        "162": [
+            819.0,
+            821.0,
+            "But not against Demme."
+        ],
+        "163": [
+            822.0,
+            823.0,
+            "That was a good ball."
+        ],
+        "164": [
+            827.0,
+            828.0,
+            "That was a good ball."
+        ],
+        "165": [
+            858.0,
+            859.0,
+            "That was a good ball."
+        ],
+        "166": [
+            860.0,
+            861.0,
+            "That was a good ball."
+        ],
+        "167": [
+            862.0,
+            863.0,
+            "That was a good ball."
+        ],
+        "168": [
+            864.0,
+            865.0,
+            "That was a good ball."
+        ],
+        "169": [
+            866.0,
+            867.0,
+            "That was a good ball."
+        ],
+        "170": [
+            868.0,
+            869.0,
+            "That was a good ball."
+        ],
+        "171": [
+            870.0,
+            871.0,
+            "That was a good ball."
+        ],
+        "172": [
+            872.0,
+            873.0,
+            "That was a good ball."
+        ],
+        "173": [
+            874.0,
+            875.0,
+            "That was a good ball."
+        ],
+        "174": [
+            876.0,
+            877.0,
+            "That was a good ball."
+        ],
+        "175": [
+            878.0,
+            879.0,
+            "That was a good ball."
+        ],
+        "176": [
+            880.0,
+            881.0,
+            "That was a good ball."
+        ],
+        "177": [
+            882.0,
+            883.0,
+            "That was a good ball."
+        ],
+        "178": [
+            884.0,
+            885.0,
+            "That was a good ball."
+        ],
+        "179": [
+            885.0,
+            886.0,
+            "That was a good ball."
+        ],
+        "180": [
+            887.0,
+            888.0,
+            "That was a good ball."
+        ],
+        "181": [
+            889.0,
+            890.0,
+            "That was a good ball."
+        ],
+        "182": [
+            891.0,
+            892.0,
+            "That was a good ball."
+        ],
+        "183": [
+            893.0,
+            894.0,
+            "That was a good ball."
+        ],
+        "184": [
+            895.0,
+            896.0,
+            "He's the center forward."
+        ],
+        "185": [
+            897.0,
+            899.0,
+            "He fights 15 meters in his own half."
+        ],
+        "186": [
+            900.0,
+            901.0,
+            "Strobel vor Werner."
+        ],
+        "187": [
+            902.0,
+            903.0,
+            "Strobel vor Werner."
+        ],
+        "188": [
+            904.0,
+            905.0,
+            "Well done."
+        ],
+        "189": [
+            906.0,
+            907.0,
+            "Well done."
+        ],
+        "190": [
+            908.0,
+            909.0,
+            "Christensen."
+        ],
+        "191": [
+            910.0,
+            911.0,
+            "Christensen."
+        ],
+        "192": [
+            911.0,
+            912.0,
+            "Christensen."
+        ],
+        "193": [
+            914.0,
+            915.0,
+            "Christensen."
+        ],
+        "194": [
+            916.0,
+            917.0,
+            "Christensen."
+        ],
+        "195": [
+            925.0,
+            926.0,
+            "Traore caught."
+        ],
+        "196": [
+            927.0,
+            928.0,
+            "Traore caught."
+        ],
+        "197": [
+            929.0,
+            930.0,
+            "Diego Demme."
+        ],
+        "198": [
+            931.0,
+            932.0,
+            "Die Kaiser."
+        ],
+        "199": [
+            933.0,
+            934.0,
+            "Die Kaiser."
+        ],
+        "200": [
+            935.0,
+            936.0,
+            "Die Kaiser."
+        ],
+        "201": [
+            937.0,
+            939.0,
+            "Gladbach is in with all the elves."
+        ],
+        "202": [
+            940.0,
+            942.0,
+            "Gladbach is in with all the elves."
+        ],
+        "203": [
+            943.0,
+            944.0,
+            "Abstoß."
+        ],
+        "204": [
+            945.0,
+            946.0,
+            "Abstoß."
+        ],
+        "205": [
+            947.0,
+            948.0,
+            "Very well defended too."
+        ],
+        "206": [
+            949.0,
+            950.0,
+            "Very well defended too."
+        ],
+        "207": [
+            951.0,
+            952.0,
+            "To score goals."
+        ],
+        "208": [
+            953.0,
+            954.0,
+            "To score goals."
+        ],
+        "209": [
+            955.0,
+            956.0,
+            "You have the chance,"
+        ],
+        "210": [
+            957.0,
+            958.0,
+            "You have the chance,"
+        ],
+        "211": [
+            958.0,
+            960.0,
+            "Difficult to concede the chance."
+        ],
+        "212": [
+            961.0,
+            962.0,
+            "the player."
+        ],
+        "213": [
+            963.0,
+            964.0,
+            "the player."
+        ],
+        "214": [
+            965.0,
+            966.0,
+            "The top game is 3:25 p.m."
+        ],
+        "215": [
+            969.0,
+            970.0,
+            "The top game is 3:25 p.m."
+        ],
+        "216": [
+            971.0,
+            972.0,
+            "He must have everything right."
+        ],
+        "217": [
+            973.0,
+            974.0,
+            "He must have everything right."
+        ],
+        "218": [
+            977.0,
+            978.0,
+            "You are lost alone."
+        ],
+        "219": [
+            979.0,
+            980.0,
+            "You are lost alone."
+        ],
+        "220": [
+            981.0,
+            982.0,
+            "You are lost alone."
+        ],
+        "221": [
+            983.0,
+            984.0,
+            "They are 2000 euros."
+        ],
+        "222": [
+            985.0,
+            986.0,
+            "They are 2000 euros."
+        ],
+        "223": [
+            1016.0,
+            1034.0,
+            "Now it's time for Schubert and Blattbach to continue to fight back aggressively."
+        ],
+        "224": [
+            1034.0,
+            1039.0,
+            "They saw what can happen if you risk too much because others are like that"
+        ],
+        "225": [
+            1039.0,
+            1041.0,
+            "Smoke-proof and fast."
+        ],
+        "226": [
+            1041.0,
+            1047.0,
+            "But Hahn and Hazard have to come into play somehow."
+        ],
+        "227": [
+            1047.0,
+            1053.0,
+            "You can't do that yourself, you have to use the waves."
+        ],
+        "228": [
+            1063.0,
+            1067.0,
+            "Now the situation is that Kramer and Christensen are at the center."
+        ],
+        "229": [
+            1069.0,
+            1071.0,
+            "Now it's very hopeful again."
+        ],
+        "230": [
+            1087.0,
+            1090.0,
+            "Bernardo with the mistake, on the monitor the cocktail player is the same."
+        ],
+        "231": [
+            1090.0,
+            1092.0,
+            "The team is in the first round."
+        ],
+        "232": [
+            1104.98,
+            1106.98,
+            "Number one for Borussia."
+        ],
+        "233": [
+            1115.98,
+            1117.98,
+            "Four men in five."
+        ],
+        "234": [
+            1120.0,
+            1124.0,
+            "Then Florian Quezada is the first person to own property in Bavaria."
+        ],
+        "235": [
+            1154.0,
+            1179.36,
+            "RB's resistance now starts around the halfway line."
+        ],
+        "236": [
+            1179.36,
+            1188.36,
+            "That makes it a little easier for Glacwarth to combine from their own defense."
+        ],
+        "237": [
+            1188.36,
+            1192.36,
+            "Getting through remains almost impossible at the moment."
+        ],
+        "238": [
+            1192.36,
+            1198.36,
+            "So maybe."
+        ],
+        "239": [
+            1198.36,
+            1203.36,
+            "Very well received by Hahn."
+        ],
+        "240": [
+            1203.36,
+            1205.36,
+            "It was also a good idea to go around there."
+        ],
+        "241": [
+            1233.36,
+            1249.36,
+            "Now he has the chance for one of the so-called second balls that André Schubert mentioned earlier."
+        ],
+        "242": [
+            1249.36,
+            1279.36,
+            "He's got the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance , the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the Chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance \"The chance, the chance, the chance, the chance, the chance, the chance, the chance, the chance"
+        ],
+        "243": [
+            1279.36,
+            1286.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "244": [
+            1286.36,
+            1293.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "245": [
+            1293.36,
+            1300.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "246": [
+            1300.36,
+            1307.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "247": [
+            1307.36,
+            1314.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "248": [
+            1314.36,
+            1321.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "249": [
+            1321.36,
+            1328.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "250": [
+            1328.36,
+            1335.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "251": [
+            1335.36,
+            1342.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "252": [
+            1342.36,
+            1349.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "253": [
+            1349.36,
+            1356.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "254": [
+            1356.36,
+            1363.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance, die Chance,"
+        ],
+        "255": [
+            1363.36,
+            1371.36,
+            "die Chance, die Chance, die Chance, die Chance, die Chance, die Chance."
+        ],
+        "256": [
+            1371.36,
+            1395.72,
+            "Now is the chance to change."
+        ],
+        "257": [
+            1425.72,
+            1427.34,
+            "Veral going around and too yankee."
+        ],
+        "258": [
+            1451.1,
+            1454.06,
+            "Jeans and Darnado will be shot immediately by God Believe us."
+        ],
+        "259": [
+            1485.72,
+            1487.72,
+            "He's seen it before."
+        ],
+        "260": [
+            1488.72,
+            1490.72,
+            "He's seen it before."
+        ],
+        "261": [
+            1491.72,
+            1493.72,
+            "He's seen it before."
+        ],
+        "262": [
+            1494.72,
+            1496.72,
+            "He's seen it before."
+        ],
+        "263": [
+            1497.72,
+            1499.72,
+            "He's seen it before."
+        ],
+        "264": [
+            1500.72,
+            1502.72,
+            "He's seen it before."
+        ],
+        "265": [
+            1503.72,
+            1505.72,
+            "He's seen it before."
+        ],
+        "266": [
+            1506.72,
+            1508.72,
+            "He's seen it before."
+        ],
+        "267": [
+            1509.72,
+            1511.72,
+            "He's seen it before."
+        ],
+        "268": [
+            1512.72,
+            1514.72,
+            "He's seen it before."
+        ],
+        "269": [
+            1515.72,
+            1517.72,
+            "He's seen it before."
+        ],
+        "270": [
+            1518.72,
+            1520.72,
+            "He's seen it before."
+        ],
+        "271": [
+            1521.72,
+            1523.72,
+            "He's seen it before."
+        ],
+        "272": [
+            1524.72,
+            1527.72,
+            "But he has more offside positions in the 16s."
+        ],
+        "273": [
+            1528.72,
+            1531.72,
+            "As the shooting actions in the opposing heel."
+        ],
+        "274": [
+            1532.72,
+            1534.72,
+            "He is correctly punishable."
+        ],
+        "275": [
+            1535.72,
+            1537.72,
+            "And no shot on goal yet."
+        ],
+        "276": [
+            1538.72,
+            1540.72,
+            "And not a single action in the 16s yet."
+        ],
+        "277": [
+            1541.72,
+            1543.72,
+            "On the other hand."
+        ],
+        "278": [
+            1545.72,
+            1547.72,
+            "It's about the next round."
+        ],
+        "279": [
+            1548.72,
+            1550.72,
+            "And it's about the next round."
+        ],
+        "280": [
+            1557.72,
+            1559.72,
+            "Be very careful."
+        ],
+        "281": [
+            1560.72,
+            1562.72,
+            "Von Ilsankar."
+        ],
+        "282": [
+            1563.72,
+            1565.72,
+            "Stand."
+        ],
+        "283": [
+            1568.72,
+            1570.72,
+            "He wants to take Hahn with him."
+        ],
+        "284": [
+            1571.72,
+            1573.72,
+            "He can take it with him too."
+        ],
+        "285": [
+            1573.72,
+            1575.72,
+            "He can take it with him too."
+        ],
+        "286": [
+            1576.72,
+            1578.72,
+            "He can take it with him too."
+        ],
+        "287": [
+            1579.72,
+            1581.72,
+            "With speed and conviction."
+        ],
+        "288": [
+            1582.72,
+            1584.72,
+            "An artistic preparation."
+        ],
+        "289": [
+            1585.72,
+            1587.72,
+            "By André Hahn and Aluminum Pech."
+        ],
+        "290": [
+            1595.72,
+            1597.72,
+            "A few centimeters were missing."
+        ],
+        "291": [
+            1603.72,
+            1605.72,
+            "This is a signal for Mönchengladbach."
+        ],
+        "292": [
+            1606.72,
+            1608.72,
+            "This is a signal for Mönchengladbach."
+        ],
+        "293": [
+            1609.72,
+            1611.72,
+            "To risk a little more."
+        ],
+        "294": [
+            1612.72,
+            1614.72,
+            "To risk a little more."
+        ],
+        "295": [
+            1633.72,
+            1635.72,
+            "That was a good ball."
+        ],
+        "296": [
+            1636.72,
+            1638.72,
+            "That was a good ball."
+        ],
+        "297": [
+            1639.72,
+            1641.72,
+            "That was a good ball."
+        ],
+        "298": [
+            1642.72,
+            1644.72,
+            "The ball just gone."
+        ],
+        "299": [
+            1645.72,
+            1647.72,
+            "There are five in front again in red and white."
+        ],
+        "300": [
+            1648.72,
+            1650.72,
+            "There are five in front again in red and white."
+        ],
+        "301": [
+            1651.72,
+            1653.72,
+            "Kaiser."
+        ],
+        "302": [
+            1663.72,
+            1665.72,
+            "That was a good ball."
+        ],
+        "303": [
+            1666.72,
+            1668.72,
+            "That was a good ball."
+        ],
+        "304": [
+            1669.72,
+            1671.72,
+            "That was a good ball."
+        ],
+        "305": [
+            1672.72,
+            1674.72,
+            "Played through quickly."
+        ],
+        "306": [
+            1675.72,
+            1677.72,
+            "Played through quickly."
+        ],
+        "307": [
+            1678.72,
+            1681.72,
+            "For the second time in a home game, the aluminum saves."
+        ],
+        "308": [
+            1682.72,
+            1685.72,
+            "For the second time in a home game, the aluminum saves."
+        ],
+        "309": [
+            1686.72,
+            1688.72,
+            "That was near the end."
+        ],
+        "310": [
+            1689.72,
+            1691.72,
+            "That was near the end."
+        ],
+        "311": [
+            1691.72,
+            1693.72,
+            "That was near the end."
+        ],
+        "312": [
+            1694.72,
+            1696.72,
+            "That was near the end."
+        ],
+        "313": [
+            1697.72,
+            1699.72,
+            "That was near the end."
+        ],
+        "314": [
+            1700.72,
+            1702.72,
+            "Mönchengladbach is playing in the last minutes"
+        ],
+        "315": [
+            1703.72,
+            1705.72,
+            "Mönchengladbach is playing in the last minutes"
+        ],
+        "316": [
+            1706.72,
+            1708.72,
+            "clearly with a three-man chain."
+        ],
+        "317": [
+            1709.72,
+            1711.72,
+            "The rest is nonsense."
+        ],
+        "318": [
+            1712.72,
+            1714.72,
+            "The rest is nonsense."
+        ],
+        "319": [
+            1715.72,
+            1717.72,
+            "They stay in midfield."
+        ],
+        "320": [
+            1721.72,
+            1723.72,
+            "They stay in midfield."
+        ],
+        "321": [
+            1724.72,
+            1726.72,
+            "They stay in midfield."
+        ],
+        "322": [
+            1727.72,
+            1729.72,
+            "It's rare to be able to control the ball."
+        ],
+        "323": [
+            1730.72,
+            1732.72,
+            "It's rare to be able to control the ball."
+        ],
+        "324": [
+            1733.72,
+            1735.72,
+            "Then you have the chance to move up."
+        ],
+        "325": [
+            1736.72,
+            1738.72,
+            "Then you have the chance to move up."
+        ],
+        "326": [
+            1751.72,
+            1753.72,
+            "The last minutes."
+        ],
+        "327": [
+            1770.72,
+            1772.72,
+            "The break, Werner, the break."
+        ],
+        "328": [
+            1777.72,
+            1779.72,
+            "Pausen."
+        ],
+        "329": [
+            1780.72,
+            1782.72,
+            "Pausen."
+        ],
+        "330": [
+            1783.72,
+            1785.72,
+            "Pausen."
+        ],
+        "331": [
+            1786.72,
+            1788.72,
+            "Never lost a ball."
+        ],
+        "332": [
+            1789.72,
+            1791.72,
+            "Never lost a ball."
+        ],
+        "333": [
+            1810.72,
+            1812.72,
+            "Never lost a ball."
+        ],
+        "334": [
+            1813.72,
+            1815.72,
+            "Never lost a ball."
+        ],
+        "335": [
+            1816.72,
+            1818.72,
+            "Never lost a ball."
+        ],
+        "336": [
+            1821.72,
+            1823.72,
+            "Briefly about Sabica."
+        ],
+        "337": [
+            1825.72,
+            1827.72,
+            "Briefly about Sabica."
+        ],
+        "338": [
+            1828.72,
+            1830.72,
+            "That was for summer."
+        ],
+        "339": [
+            1831.72,
+            1833.72,
+            "That was for summer."
+        ],
+        "340": [
+            1834.72,
+            1836.72,
+            "That was for summer."
+        ],
+        "341": [
+            1839.72,
+            1841.72,
+            "That was for summer."
+        ],
+        "342": [
+            1842.72,
+            1844.72,
+            "That was for summer."
+        ],
+        "343": [
+            1845.72,
+            1847.72,
+            "That was for summer."
+        ],
+        "344": [
+            1847.72,
+            1849.72,
+            "That was for summer."
+        ],
+        "345": [
+            1850.72,
+            1852.72,
+            "That was for summer."
+        ],
+        "346": [
+            1852.72,
+            1856.72,
+            "The Emperor now from the right."
+        ],
+        "347": [
+            1856.72,
+            1859.72,
+            "Back to the fiver."
+        ],
+        "348": [
+            1859.72,
+            1864.52,
+            "The angle was extremely unfavorable for Marcel Sabica."
+        ],
+        "349": [
+            1864.52,
+            1870.12,
+            "But you can also see that they are thinking about something."
+        ],
+        "350": [
+            1870.12,
+            1876.16,
+            "And these assists from his captain, they're almost spot-on."
+        ],
+        "351": [
+            1876.16,
+            1903.16,
+            "Hase, too many inaccuracies in his passing game up front."
+        ],
+        "352": [
+            1904.16,
+            1913.84,
+            "A little more than half an hour has passed, he's been leading since the sixth minute"
+        ],
+        "353": [
+            1913.84,
+            1915.56,
+            "Timo Werner with 1 to 0."
+        ],
+        "354": [
+            1915.56,
+            1919.16,
+            "Gladbach are now much more aggressive and present in this game."
+        ],
+        "355": [
+            1919.16,
+            1924.28,
+            "They got through once, otherwise it's very difficult, because of course"
+        ],
+        "356": [
+            1924.28,
+            1929.08,
+            "Ralf Hase-Nöttl's team realized, okay, this is the pressure phase now, then do it"
+        ],
+        "357": [
+            1929.08,
+            1931.16,
+            "We do what we practiced so much in training."
+        ],
+        "358": [
+            1931.16,
+            1934.16,
+            "We'll defend very compactly with everything we have."
+        ],
+        "359": [
+            1934.16,
+            1938.16,
+            "And we'll show you what fast switching is when we get the chance."
+        ],
+        "360": [
+            1951.16,
+            1953.16,
+            "Werner Wendt, Sommer."
+        ],
+        "361": [
+            1961.92,
+            1963.92,
+            "fraud."
+        ],
+        "362": [
+            1972.92,
+            1975.12,
+            "Werner Morock."
+        ],
+        "363": [
+            1987.12,
+            1989.12,
+            "Eli Jaydi."
+        ],
+        "364": [
+            1991.16,
+            1994.16,
+            "The team is in the second half."
+        ],
+        "365": [
+            2007.14,
+            2009.14,
+            "Westergaard won't get through."
+        ],
+        "366": [
+            2015.16,
+            2017.16,
+            "Werner is on the right."
+        ],
+        "367": [
+            2022.16,
+            2024.16,
+            "The team is in the third half."
+        ],
+        "368": [
+            2025.16,
+            2027.16,
+            "The team is in the third half."
+        ],
+        "369": [
+            2028.16,
+            2030.16,
+            "The team is in the third half."
+        ],
+        "370": [
+            2031.16,
+            2033.16,
+            "The team is in the third half."
+        ],
+        "371": [
+            2035.16,
+            2037.16,
+            "The team is in the third half."
+        ],
+        "372": [
+            2042.16,
+            2045.16,
+            "From Thursday we have Sky Cinema Family."
+        ],
+        "373": [
+            2049.16,
+            2052.16,
+            "From little to my age there is something for everyone."
+        ],
+        "374": [
+            2053.16,
+            2055.16,
+            "The well-known blockbusters."
+        ],
+        "375": [
+            2056.16,
+            2058.16,
+            "But also a few new films."
+        ],
+        "376": [
+            2060.16,
+            2062.16,
+            "They've already had a year."
+        ],
+        "377": [
+            2063.16,
+            2065.16,
+            "We'll still see."
+        ],
+        "378": [
+            2066.16,
+            2068.16,
+            "No worries."
+        ],
+        "379": [
+            2074.16,
+            2076.16,
+            "Kramer."
+        ],
+        "380": [
+            2077.16,
+            2079.16,
+            "Let's take a look at this."
+        ],
+        "381": [
+            2079.16,
+            2081.16,
+            "He's on the ground again."
+        ],
+        "382": [
+            2082.16,
+            2084.16,
+            "He's on the ground again."
+        ],
+        "383": [
+            2086.16,
+            2088.16,
+            "He's on the ground again."
+        ],
+        "384": [
+            2093.16,
+            2095.16,
+            "Kramer is much more present."
+        ],
+        "385": [
+            2097.16,
+            2099.16,
+            "Johnson is granted him to quarrel."
+        ],
+        "386": [
+            2100.16,
+            2102.16,
+            "But it's a question of body language."
+        ],
+        "387": [
+            2103.16,
+            2105.16,
+            "It looks like this on the other side."
+        ],
+        "388": [
+            2110.16,
+            2112.16,
+            "It's a question of body language."
+        ],
+        "389": [
+            2113.16,
+            2115.16,
+            "It's a question of body language."
+        ],
+        "390": [
+            2128.16,
+            2130.16,
+            "Stindl wasn't offside."
+        ],
+        "391": [
+            2131.16,
+            2133.16,
+            "Christian Singel did that well too."
+        ],
+        "392": [
+            2140.16,
+            2142.16,
+            "He got better in the second half"
+        ],
+        "393": [
+            2143.16,
+            2145.16,
+            "The second half also held up well."
+        ],
+        "394": [
+            2146.16,
+            2148.16,
+            "But out here,"
+        ],
+        "395": [
+            2149.16,
+            2152.16,
+            "Oscar Wendt is stuck in his defensive duties."
+        ],
+        "396": [
+            2153.16,
+            2155.16,
+            "He has so much offensive potential."
+        ],
+        "397": [
+            2156.16,
+            2159.16,
+            "He hasn't come down the line even once."
+        ],
+        "398": [
+            2169.16,
+            2172.16,
+            "He also held up well in the second half."
+        ],
+        "399": [
+            2173.16,
+            2176.16,
+            "He also held up well in the second half."
+        ],
+        "400": [
+            2179.16,
+            2181.16,
+            "It was a dream pass for André Hahn."
+        ],
+        "401": [
+            2182.16,
+            2184.16,
+            "It's still fake."
+        ],
+        "402": [
+            2187.16,
+            2189.16,
+            "Class switched."
+        ],
+        "403": [
+            2190.16,
+            2192.16,
+            "A great pass from Lars Stindl."
+        ],
+        "404": [
+            2193.16,
+            2195.16,
+            "It fits perfectly."
+        ],
+        "405": [
+            2196.16,
+            2198.16,
+            "Now go over to the right."
+        ],
+        "406": [
+            2199.16,
+            2201.16,
+            "That was a good pass."
+        ],
+        "407": [
+            2202.16,
+            2204.16,
+            "That was a good pass."
+        ],
+        "408": [
+            2217.16,
+            2219.16,
+            "Traoré Assa mit der Hacke."
+        ],
+        "409": [
+            2224.16,
+            2226.16,
+            "Traoré brings him back."
+        ],
+        "410": [
+            2226.16,
+            2228.16,
+            "That was a good pass."
+        ],
+        "411": [
+            2228.16,
+            2230.16,
+            "That was a good pass."
+        ],
+        "412": [
+            2231.16,
+            2233.16,
+            "That was a good pass."
+        ],
+        "413": [
+            2233.16,
+            2235.16,
+            "That was a good pass."
+        ],
+        "414": [
+            2236.16,
+            2238.16,
+            "That was a good pass."
+        ],
+        "415": [
+            2255.16,
+            2257.16,
+            "It's getting too tight."
+        ],
+        "416": [
+            2258.16,
+            2260.16,
+            "Werner against Elwini."
+        ],
+        "417": [
+            2263.16,
+            2265.16,
+            "That was a good pass."
+        ],
+        "418": [
+            2266.16,
+            2268.16,
+            "That was a good pass."
+        ],
+        "419": [
+            2269.16,
+            2271.16,
+            "Halstenberg."
+        ],
+        "420": [
+            2272.16,
+            2274.16,
+            "Halstenberg drives the camp with everyone."
+        ],
+        "421": [
+            2275.16,
+            2277.16,
+            "Still."
+        ],
+        "422": [
+            2278.16,
+            2280.16,
+            "Traoré dran."
+        ],
+        "423": [
+            2281.16,
+            2283.16,
+            "Advantage, chop, attempt by Dominic Kaiser."
+        ],
+        "424": [
+            2294.16,
+            2296.16,
+            "That was a good pass."
+        ],
+        "425": [
+            2297.16,
+            2299.16,
+            "That was a good pass."
+        ],
+        "426": [
+            2300.16,
+            2302.16,
+            "That was a good pass."
+        ],
+        "427": [
+            2303.16,
+            2305.16,
+            "That was a good pass."
+        ],
+        "428": [
+            2306.16,
+            2308.16,
+            "On the whole, a game will only be good."
+        ],
+        "429": [
+            2309.16,
+            2311.16,
+            "If there are at least a lot of chances to score."
+        ],
+        "430": [
+            2312.16,
+            2315.16,
+            "I really enjoyed the last ten minutes."
+        ],
+        "431": [
+            2316.16,
+            2318.16,
+            "Leipzig a little more cautious."
+        ],
+        "432": [
+            2319.16,
+            2321.16,
+            "But if possible, they are there."
+        ],
+        "433": [
+            2321.16,
+            2323.16,
+            "They're very defensive."
+        ],
+        "434": [
+            2351.16,
+            2353.16,
+            "That was a good pass."
+        ],
+        "435": [
+            2354.16,
+            2356.16,
+            "That was a good pass."
+        ],
+        "436": [
+            2357.16,
+            2359.16,
+            "That was a good pass."
+        ],
+        "437": [
+            2360.16,
+            2362.16,
+            "You can live with that."
+        ],
+        "438": [
+            2363.16,
+            2365.16,
+            "You can live with that."
+        ],
+        "439": [
+            2381.16,
+            2383.16,
+            "The sports director celebrated himself."
+        ],
+        "440": [
+            2384.16,
+            2386.16,
+            "He celebrated himself."
+        ],
+        "441": [
+            2387.16,
+            2389.16,
+            "Congratulations."
+        ],
+        "442": [
+            2390.16,
+            2394.16,
+            "Not just the work he has done in recent years."
+        ],
+        "443": [
+            2395.16,
+            2398.16,
+            "Today only for his 43rd birthday."
+        ],
+        "444": [
+            2399.16,
+            2401.16,
+            "Alles Gute."
+        ],
+        "445": [
+            2402.16,
+            2404.16,
+            "RB is happy to accept that now."
+        ],
+        "446": [
+            2405.16,
+            2408.16,
+            "They spent the last few minutes on the defensive"
+        ],
+        "447": [
+            2408.16,
+            2410.16,
+            "Waited."
+        ],
+        "448": [
+            2411.16,
+            2414.16,
+            "But they also stayed on the offensive."
+        ],
+        "449": [
+            2415.16,
+            2417.16,
+            "You run a lot."
+        ],
+        "450": [
+            2418.16,
+            2420.16,
+            "Again today."
+        ],
+        "451": [
+            2421.16,
+            2423.16,
+            "It's the end of the week."
+        ],
+        "452": [
+            2424.16,
+            2426.16,
+            "Wieder Kaiser."
+        ],
+        "453": [
+            2427.16,
+            2429.16,
+            "Of course Emperor."
+        ],
+        "454": [
+            2430.16,
+            2432.16,
+            "Werner Paulsen."
+        ],
+        "455": [
+            2433.16,
+            2435.16,
+            "Alstenberg was snowed in from behind."
+        ],
+        "456": [
+            2438.16,
+            2440.16,
+            "The ball is out of hand."
+        ],
+        "457": [
+            2441.16,
+            2443.16,
+            "No offside."
+        ],
+        "458": [
+            2445.16,
+            2447.16,
+            "Alstenberg doesn't play the ball."
+        ],
+        "459": [
+            2448.16,
+            2450.16,
+            "Everything else doesn't work."
+        ],
+        "460": [
+            2463.16,
+            2465.16,
+            "Alstenberg."
+        ],
+        "461": [
+            2465.16,
+            2467.16,
+            "That was a good ball."
+        ],
+        "462": [
+            2468.16,
+            2470.16,
+            "Correct! Well done."
+        ],
+        "463": [
+            2479.16,
+            2482.16,
+            "Johnson and Traore have swapped sides."
+        ],
+        "464": [
+            2489.16,
+            2491.16,
+            "Elwedi Han."
+        ],
+        "465": [
+            2496.16,
+            2498.16,
+            "That was a good ball."
+        ],
+        "466": [
+            2499.16,
+            2501.16,
+            "That was a good ball."
+        ],
+        "467": [
+            2502.16,
+            2504.16,
+            "Zapica."
+        ],
+        "468": [
+            2519.16,
+            2521.16,
+            "Johnson."
+        ],
+        "469": [
+            2525.16,
+            2527.16,
+            "That was a good ball."
+        ],
+        "470": [
+            2528.16,
+            2530.16,
+            "That was a good ball."
+        ],
+        "471": [
+            2531.16,
+            2533.16,
+            "The inner lane is clear."
+        ],
+        "472": [
+            2534.16,
+            2536.16,
+            "You accept that."
+        ],
+        "473": [
+            2537.16,
+            2539.16,
+            "RB has decided,"
+        ],
+        "474": [
+            2540.16,
+            2542.16,
+            "Come into the break compactly."
+        ],
+        "475": [
+            2555.16,
+            2557.16,
+            "That was a good ball."
+        ],
+        "476": [
+            2586.16,
+            2588.16,
+            "That was a good ball."
+        ],
+        "477": [
+            2589.16,
+            2591.16,
+            "That was a good ball."
+        ],
+        "478": [
+            2592.16,
+            2595.16,
+            "The Handball Champions League is starting again with us."
+        ],
+        "479": [
+            2596.16,
+            2598.16,
+            "It goes on."
+        ],
+        "480": [
+            2599.16,
+            2601.16,
+            "Wasprin from Hungary."
+        ],
+        "481": [
+            2602.16,
+            2604.16,
+            "On Saturday from 5 p.m.."
+        ],
+        "482": [
+            2605.16,
+            2607.16,
+            "It continues on Sunday."
+        ],
+        "483": [
+            2608.16,
+            2610.16,
+            "With Piszczek against the Rhein-Neckar Löwen."
+        ],
+        "484": [
+            2611.16,
+            2613.16,
+            "And Théa Wickel against Paris Saint-Germain."
+        ],
+        "485": [
+            2613.16,
+            2615.16,
+            "That was a good ball."
+        ],
+        "486": [
+            2616.16,
+            2618.16,
+            "That was a good ball."
+        ],
+        "487": [
+            2619.16,
+            2621.16,
+            "Stand."
+        ],
+        "488": [
+            2622.16,
+            2624.16,
+            "Kramer."
+        ],
+        "489": [
+            2625.16,
+            2627.16,
+            "Johnson."
+        ],
+        "490": [
+            2628.16,
+            2631.16,
+            "You're back with seven men behind the ball."
+        ],
+        "491": [
+            2632.16,
+            2634.16,
+            "Traore is coming over."
+        ],
+        "492": [
+            2635.16,
+            2637.16,
+            "He chooses the inside option."
+        ],
+        "493": [
+            2638.16,
+            2640.16,
+            "Now the threat is unmade."
+        ],
+        "494": [
+            2640.16,
+            2642.16,
+            "He's right behind."
+        ],
+        "495": [
+            2643.16,
+            2645.16,
+            "He had a clear view."
+        ],
+        "496": [
+            2650.16,
+            2652.16,
+            "We're talking about a yellow one, of course."
+        ],
+        "497": [
+            2653.16,
+            2655.16,
+            "Nothing else."
+        ],
+        "498": [
+            2659.16,
+            2661.16,
+            "That needs to be decided."
+        ],
+        "499": [
+            2662.16,
+            2664.16,
+            "They say it was more like the case or the hand."
+        ],
+        "500": [
+            2665.16,
+            2667.16,
+            "But the hand comes out clearly."
+        ],
+        "501": [
+            2667.16,
+            2669.16,
+            "That was a good ball."
+        ],
+        "502": [
+            2670.16,
+            2672.16,
+            "The hand goes away."
+        ],
+        "503": [
+            2673.16,
+            2675.16,
+            "Werner is through."
+        ],
+        "504": [
+            2676.16,
+            2678.16,
+            "He has to position the ball differently."
+        ],
+        "505": [
+            2679.16,
+            2681.16,
+            "He gets a yellow card."
+        ],
+        "506": [
+            2682.16,
+            2684.16,
+            "That was a very fair game."
+        ],
+        "507": [
+            2698.16,
+            2700.16,
+            "That was a good ball."
+        ],
+        "508": [
+            2701.16,
+            2703.16,
+            "That was a good ball."
+        ],
+        "509": [
+            2704.16,
+            2706.16,
+            "That was a good ball."
+        ],
+        "510": [
+            2707.16,
+            2709.16,
+            "That was a good ball."
+        ],
+        "511": [
+            2710.16,
+            2712.16,
+            "There's a lot of space missing."
+        ],
+        "512": [
+            2713.16,
+            2715.16,
+            "Accept calmly."
+        ],
+        "513": [
+            2716.16,
+            2718.16,
+            "A minute."
+        ],
+        "514": [
+            2719.16,
+            2721.16,
+            "It's over the top."
+        ],
+        "515": [
+            2727.16,
+            2729.16,
+            "It's over the top."
+        ],
+        "516": [
+            2730.16,
+            2732.16,
+            "Another best ball."
+        ],
+        "517": [
+            2733.16,
+            2735.16,
+            "Another best ball."
+        ],
+        "518": [
+            2736.16,
+            2738.16,
+            "Top eight."
+        ],
+        "519": [
+            2739.16,
+            2741.16,
+            "Shortly after the yellow card."
+        ],
+        "520": [
+            2741.16,
+            2743.16,
+            "It's going to be a good ball."
+        ],
+        "521": [
+            2744.16,
+            2746.16,
+            "It's going to be a good ball."
+        ],
+        "522": [
+            2759.16,
+            2761.16,
+            "Paul Senn is unchallenged."
+        ]
+    }
+}

@@ -1,0 +1,2349 @@
+{
+    "segments": {
+        "0": [
+            31.0,
+            34.0,
+            "Das ist ein"
+        ],
+        "1": [
+            34.0,
+            36.0,
+            "das ist ein"
+        ],
+        "2": [
+            36.0,
+            39.0,
+            "das ist ein"
+        ],
+        "3": [
+            39.0,
+            42.0,
+            "das ist ein"
+        ],
+        "4": [
+            42.0,
+            45.0,
+            "das ist ein"
+        ],
+        "5": [
+            45.0,
+            48.0,
+            "das ist ein"
+        ],
+        "6": [
+            48.0,
+            51.0,
+            "das ist ein"
+        ],
+        "7": [
+            51.0,
+            54.0,
+            "das ist ein"
+        ],
+        "8": [
+            54.0,
+            57.0,
+            "das ist ein"
+        ],
+        "9": [
+            57.0,
+            59.0,
+            "der kommt von Quadra Platz für den Be Ferin ist er?"
+        ],
+        "10": [
+            60.0,
+            61.0,
+            "er kommt von Quadra Platz für den Be"
+        ],
+        "11": [
+            61.0,
+            63.0,
+            "e i"
+        ],
+        "12": [
+            63.0,
+            65.0,
+            "Matadjorna jetzt erst da"
+        ],
+        "13": [
+            95.0,
+            101.08,
+            "Die Ersatzspieler von Borussia Dortmund gehen jetzt hinter das Tor von Roman Weidenfeller."
+        ],
+        "14": [
+            101.08,
+            107.12,
+            "In der Pause war auch Sebastian Rohde relativ intensiv mit dem Aufwärmprogramm beschäftigt."
+        ],
+        "15": [
+            107.12,
+            109.04,
+            "Später kam auch Mario Götze noch mit dazu."
+        ],
+        "16": [
+            109.04,
+            110.04,
+            "Dembélé."
+        ],
+        "17": [
+            110.04,
+            123.4,
+            "Jetzt fehlt im Moment noch die Präzision."
+        ],
+        "18": [
+            123.4,
+            128.12,
+            "Er war ja im ersten Durchgang fast nie auf dieser Linksoffensivposition."
+        ],
+        "19": [
+            153.4,
+            157.92,
+            "Der Besitz Borussia Dortmund."
+        ],
+        "20": [
+            183.4,
+            201.44,
+            "Das war für ihn eine leichte Aufgabe im ersten Durchgang."
+        ],
+        "21": [
+            201.44,
+            203.52,
+            "Park war meistens sehr links außen."
+        ],
+        "22": [
+            203.52,
+            204.52,
+            "Den hatte er im Griff."
+        ],
+        "23": [
+            204.52,
+            209.8,
+            "Jetzt könnte sich das, was die Arbeit angeht, deutlich verschärfen."
+        ],
+        "24": [
+            209.8,
+            211.92,
+            "Wegen dem Dembélé."
+        ],
+        "25": [
+            212.64,
+            215.64,
+            "Aber er kriegt Unterstützung von Moritz Hartmann bis hierher."
+        ],
+        "26": [
+            215.64,
+            237.64,
+            "Jetzt geht es los."
+        ],
+        "27": [
+            237.64,
+            238.64,
+            "Dembélé erneut."
+        ],
+        "28": [
+            238.64,
+            239.64,
+            "Dembélé über die Mitte."
+        ],
+        "29": [
+            239.64,
+            240.64,
+            "Pulisic."
+        ],
+        "30": [
+            241.64,
+            246.64,
+            "Das Schuh hatte an wie die anderen."
+        ],
+        "31": [
+            246.64,
+            247.64,
+            "Es ist auch leicht weggerutscht."
+        ],
+        "32": [
+            270.64,
+            286.64,
+            "Ginter, der passt."
+        ],
+        "33": [
+            286.64,
+            290.64,
+            "Man ist über links im Moment."
+        ],
+        "34": [
+            290.64,
+            291.64,
+            "Dembélé."
+        ],
+        "35": [
+            291.64,
+            292.64,
+            "Castro."
+        ],
+        "36": [
+            292.64,
+            294.64,
+            "Gonzalo Castro."
+        ],
+        "37": [
+            295.64,
+            296.64,
+            "Das ist auch wieder ein Distanzschuss."
+        ],
+        "38": [
+            296.64,
+            298.64,
+            "Aber der ist schon mal 5 m näher dran als die aus dem ersten Durchgang."
+        ],
+        "39": [
+            324.64,
+            326.64,
+            "Der ist schon mal 5 m näher dran als die aus dem ersten Durchgang."
+        ],
+        "40": [
+            355.64,
+            357.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "41": [
+            357.64,
+            359.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "42": [
+            359.64,
+            361.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "43": [
+            361.64,
+            363.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "44": [
+            363.64,
+            365.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "45": [
+            365.64,
+            367.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "46": [
+            367.64,
+            369.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "47": [
+            369.64,
+            371.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "48": [
+            371.64,
+            373.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "49": [
+            373.64,
+            375.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "50": [
+            375.64,
+            377.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "51": [
+            377.64,
+            379.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "52": [
+            379.64,
+            381.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "53": [
+            381.64,
+            383.64,
+            "Die sind jetzt 2-0 vorne."
+        ],
+        "54": [
+            384.64,
+            387.66,
+            "Damian Barthes hat mich in den Hinter geared."
+        ],
+        "55": [
+            396.64,
+            398.64,
+            "Bardra mit dem Stiel der Dembélé."
+        ],
+        "56": [
+            398.66,
+            400.64,
+            "Bardra mit dem Stiel der Dembélé."
+        ],
+        "57": [
+            400.66,
+            403.64,
+            "Sie kamen etwas zu ungenau."
+        ],
+        "58": [
+            408.66,
+            410.66,
+            "Atletomar Beutel."
+        ],
+        "59": [
+            410.66,
+            417.66,
+            "Und den nimmt er."
+        ],
+        "60": [
+            440.66,
+            444.66,
+            "Und dann ist es noch eine Runde."
+        ],
+        "61": [
+            444.66,
+            448.66,
+            "Und dann ist es noch eine Runde."
+        ],
+        "62": [
+            448.66,
+            452.66,
+            "Ganz viel Zeit."
+        ],
+        "63": [
+            452.66,
+            456.66,
+            "Obermeyer zu kurz."
+        ],
+        "64": [
+            456.66,
+            460.66,
+            "Dembele."
+        ],
+        "65": [
+            460.66,
+            464.66,
+            "7 Minuten sind rum."
+        ],
+        "66": [
+            464.66,
+            468.66,
+            "Dortmund nähert sich."
+        ],
+        "67": [
+            468.66,
+            471.66,
+            "Wer will gewinnen, der kann natürlich einfach des Urteil gegeben werden."
+        ],
+        "68": [
+            501.66,
+            505.9,
+            "Noch mal gegen Groß."
+        ],
+        "69": [
+            505.9,
+            508.06,
+            "Piszczek, Dembélé."
+        ],
+        "70": [
+            508.06,
+            517.38,
+            "Er wollte unbedingt den Abstoß verhindern und einen Einwurf zu machen."
+        ],
+        "71": [
+            517.38,
+            525.58,
+            "Politic will da halt auch weitermachen, nimmt nicht das bisschen an Kontakt, um zu versuchen"
+        ],
+        "72": [
+            525.58,
+            526.94,
+            "einen Elfmeter rauszuholen."
+        ],
+        "73": [
+            526.94,
+            529.26,
+            "Das muss man ja auch immer mal positiv erwähnen."
+        ],
+        "74": [
+            530.26,
+            535.34,
+            "Einwurf, das heißt auf der anderen Seite für Dortmund, sie können rausrücken, zustellen."
+        ],
+        "75": [
+            535.34,
+            536.34,
+            "Bartra."
+        ],
+        "76": [
+            536.34,
+            540.46,
+            "Ja, hat den Ball gespielt."
+        ],
+        "77": [
+            540.46,
+            543.42,
+            "Ramos, Vorteil, das wird aber nicht lange gut gehen."
+        ],
+        "78": [
+            559.26,
+            578.86,
+            "Mit einem echten Flügelmann wie Politic ist das gleich eine ganz andere Geschichte da"
+        ],
+        "79": [
+            578.86,
+            579.86,
+            "draußen."
+        ],
+        "80": [
+            579.86,
+            580.98,
+            "Über die rechte Seite."
+        ],
+        "81": [
+            580.98,
+            585.7,
+            "Piszczek, Castro, Cargava in der Mitte, das Kopfballungeheuer."
+        ],
+        "82": [
+            586.18,
+            590.38,
+            "Und hinten Ramos, Marteb dazwischen."
+        ],
+        "83": [
+            590.38,
+            591.5,
+            "Der Druck wird größer."
+        ],
+        "84": [
+            591.5,
+            611.38,
+            "Castro, Bartra."
+        ],
+        "85": [
+            611.38,
+            626.66,
+            "Jetzt beginnt so eine Zeit bei den Trainern, wo man überlegt, muss ich überhaupt was"
+        ],
+        "86": [
+            626.66,
+            628.14,
+            "machen, muss ich nochmal was machen."
+        ],
+        "87": [
+            628.14,
+            631.46,
+            "Bei Ingolstadt in der Defensive nein, wenn sich da keiner verletzt."
+        ],
+        "88": [
+            631.46,
+            635.42,
+            "Nach vorne ist irgendwann mal ein schneller Mann, wie zum Beispiel Mateo Lecki natürlich"
+        ],
+        "89": [
+            635.42,
+            636.74,
+            "eine Option, keine Frage."
+        ],
+        "90": [
+            636.74,
+            642.86,
+            "Auf der Bank neben Martin Hansen im zweiten Torwart, Alfredo Morales, ein Mittelfeldkämpfer"
+        ],
+        "91": [
+            642.86,
+            646.18,
+            "Mateo Lecki, wie gesagt, der feitschnelle Australier."
+        ],
+        "92": [
+            646.18,
+            651.82,
+            "Stefan Lex für die Offensive, Romain Brégerie, falls hinten mal noch einer mitverteidigen"
+        ],
+        "93": [
+            651.82,
+            657.94,
+            "muss, Max Christiansen fürs offensive Mittelfeld und der erfahrene Tobias Lewels, wenn es bei"
+        ],
+        "94": [
+            657.94,
+            661.54,
+            "Haddad Jonai, der sein erstes Pflichtspiel gemacht hat, nicht mehr geht."
+        ],
+        "95": [
+            661.54,
+            665.38,
+            "Und Dortmund muss sich dann gleich ganz schnell hinterher schieben."
+        ],
+        "96": [
+            665.38,
+            668.74,
+            "Da geht es ja nur darum, vorne noch Kreativität irgendwie reinzubekommen."
+        ],
+        "97": [
+            668.74,
+            672.06,
+            "Mario Götze ist gerade zur Bank raus."
+        ],
+        "98": [
+            672.06,
+            679.06,
+            "Hermann Bürki sitzt da draußen, Mario Götze, Sebastian Rohde, wenn nochmal gekämpft werden"
+        ],
+        "99": [
+            679.06,
+            687.74,
+            "muss, Mikkel Merino, Felix Paslack und der ganz junge Dennis Burnic."
+        ],
+        "100": [
+            687.74,
+            691.78,
+            "Aber wie gesagt, es läuft jetzt auf Mario Götze hinaus."
+        ],
+        "101": [
+            691.78,
+            719.98,
+            "Über Meyang kriegt er den Freistoß gegen Marcel Tisseron."
+        ],
+        "102": [
+            719.98,
+            728.86,
+            "Und Castro, so sind die Informationen von unten, wird wahrscheinlich den Platz verlassen"
+        ],
+        "103": [
+            728.86,
+            731.54,
+            "müssen, hat sich sofort den Ball geschnappt."
+        ],
+        "104": [
+            731.54,
+            734.22,
+            "Über Meyang durfte ja vorhin schon mal aus ähnlicher Position."
+        ],
+        "105": [
+            734.22,
+            744.38,
+            "Castro hat auch schon einen Freistoß drauf geschossen, aber nicht aus so zentraler Stelle."
+        ],
+        "106": [
+            744.38,
+            752.5,
+            "Das ist eher ein Anlauf für eine Flanke, oder?"
+        ],
+        "107": [
+            752.5,
+            753.5,
+            "So schräg?"
+        ],
+        "108": [
+            753.5,
+            762.18,
+            "Ginter zeigt an, da ist ein Riesenloch, spielen wir den da rein?"
+        ],
+        "109": [
+            762.18,
+            765.3,
+            "Es geht eher so rum, Ramos kurz hängen geblieben an Matip."
+        ],
+        "110": [
+            765.3,
+            774.9,
+            "So, und jetzt also tatsächlich Castro, das war seine letzte Aktion."
+        ],
+        "111": [
+            774.9,
+            782.98,
+            "Mario Götze kommt, Kagawa bleibt drauf, der unter der Woche noch mit Unwohlsein und Übelkeit"
+        ],
+        "112": [
+            782.98,
+            784.82,
+            "zu tun hatte, aber das scheint zu reichen."
+        ],
+        "113": [
+            784.82,
+            789.9,
+            "Und jetzt hat er halt da im zentralen Mittelfeld mit Kagawa und Götze zwei technisch gute"
+        ],
+        "114": [
+            789.9,
+            792.38,
+            "Fußballer gegen dieses Bollwerk von Ingolstadt."
+        ],
+        "115": [
+            793.38,
+            795.7,
+            "Gleich auch in der ersten Kombination zusammen dabei."
+        ],
+        "116": [
+            795.7,
+            801.86,
+            "Dembélé, Ramos durch, Obermeyang ist da und der Ball ist drin."
+        ],
+        "117": [
+            801.86,
+            807.14,
+            "Und er macht wieder sein Tor und bringt Dortmund in der 59. heran."
+        ],
+        "118": [
+            817.14,
+            820.46,
+            "Wenn es sein muss und wenn man ihnen den Ball ergibt, dann ist er zur Stelle."
+        ],
+        "119": [
+            821.46,
+            827.9,
+            "Ausgerechnet gegen die Großen da hinten setzt er sich durch und macht sein Kopfballtor"
+        ],
+        "120": [
+            827.9,
+            830.78,
+            "eingeleitet, bis sich zu hoch hängt von Götze und Kagawa."
+        ],
+        "121": [
+            830.78,
+            837.42,
+            "Und dann Dembélé mit dem Auge, kein Abseits und zu einfach."
+        ],
+        "122": [
+            837.42,
+            845.22,
+            "Auf der anderen Seite, Haradzsóna, Ilískano, im Gegenzug, die Antwort vom FC Ingolstadt."
+        ],
+        "123": [
+            845.22,
+            847.82,
+            "Heute ein Spiel ohne Abwehrreihen."
+        ],
+        "124": [
+            850.46,
+            866.3,
+            "40 Sekunden zwischen dem Anschlusstor und der erneuten Zwei-Tore-Führung."
+        ],
+        "125": [
+            866.3,
+            872.02,
+            "Nicht vernünftig zugefasst, super zurückgespielt, ein erneuter Ausrutscher in der Mitte und"
+        ],
+        "126": [
+            872.02,
+            875.38,
+            "so ist dann Ilískano wieder mal total blank."
+        ],
+        "127": [
+            875.38,
+            879.26,
+            "Haradzsóna mit seiner ersten direkten Torbeteiligung in der Liga."
+        ],
+        "128": [
+            880.26,
+            887.74,
+            "Weige sitzt auf dem Hosenboden und Ilískano macht sein zweites Tor."
+        ],
+        "129": [
+            897.18,
+            902.94,
+            "Das waren auch drei Tore, genau wie Lukas Hinterseer, die beiden Top-Torschützen beim"
+        ],
+        "130": [
+            903.1,
+            907.82,
+            "FCI und nachdem es ewig nicht geklappt hat, drei in einem Spiel und das Ganze auch noch"
+        ],
+        "131": [
+            907.82,
+            908.82,
+            "gegen Dortmund."
+        ],
+        "132": [
+            908.82,
+            909.82,
+            "Pulisic."
+        ],
+        "133": [
+            909.82,
+            928.82,
+            "Kagawa macht sich auf den Weg, spät, aber er ist da."
+        ],
+        "134": [
+            928.82,
+            929.82,
+            "Pulisic."
+        ],
+        "135": [
+            929.82,
+            933.62,
+            "Auch da nichts."
+        ],
+        "136": [
+            933.62,
+            937.18,
+            "Auch hier nicht."
+        ],
+        "137": [
+            937.18,
+            942.94,
+            "Da drüben ist Moritz Hartmann frei, den haben sie komplett vergessen."
+        ],
+        "138": [
+            942.94,
+            944.86,
+            "Ginter ist rausgerutscht, Hartmann ist da."
+        ],
+        "139": [
+            944.86,
+            949.94,
+            "Moritz Hartmann, Pfosten, bei dem will es einfach nicht laufen."
+        ],
+        "140": [
+            959.82,
+            971.9,
+            "Ein total offenes Spiel, hin und her, viele Lücken in den jeweiligen Defensivreihen."
+        ],
+        "141": [
+            971.9,
+            978.7,
+            "Hartmann an die Brust, kein Handspiel, hat Zweier sofort signalisiert."
+        ],
+        "142": [
+            989.82,
+            1003.7,
+            "Nochmal Bartra, Lamos mit der Ilískano."
+        ],
+        "143": [
+            1003.7,
+            1009.46,
+            "Erstmal zwei Tore in einem Spiel, den der Bundesliga in der Winterpause gekommen ist."
+        ],
+        "144": [
+            1019.82,
+            1028.9,
+            "Klar kann man auch so relativ früh am Nachmittag, ist ja erst kurz vor fünf, nicht alles weg"
+        ],
+        "145": [
+            1028.9,
+            1033.78,
+            "verteidigen aus Sicht von Borussia Dortmund, wenn man den Fokus auf die Offensive setzt."
+        ],
+        "146": [
+            1033.78,
+            1038.38,
+            "Aber da waren genug Leute hinter dem Ball, genug Leute mit dabei und zwei Mann, Hada"
+        ],
+        "147": [
+            1038.38,
+            1043.62,
+            "Csonay und Lískano beschäftigen alle anderen, inklusive des Ausrutschers von Julian Weigl."
+        ],
+        "148": [
+            1043.62,
+            1063.98,
+            "Roger, da kehrt Weigl, Groß, auch vorne mit drin."
+        ],
+        "149": [
+            1063.98,
+            1069.62,
+            "Aber jetzt trauen sie sich, dieses frühe Pressing zu spielen, was in den ersten Partien total"
+        ],
+        "150": [
+            1069.62,
+            1071.18,
+            "nach hinten losgegangen ist."
+        ],
+        "151": [
+            1071.74,
+            1075.18,
+            "Wenn man zu offen und zu sorglos war, das Ganze haben sie jetzt hier wirklich 30, fast"
+        ],
+        "152": [
+            1075.18,
+            1076.74,
+            "40 Meter tiefer gemacht."
+        ],
+        "153": [
+            1076.74,
+            1084.06,
+            "Aber wenn man schon mal da ist und diesen Schwung gerade drin hat, dann klappt auch das."
+        ],
+        "154": [
+            1084.06,
+            1106.14,
+            "Borussia, Hinterseer, Badrada zwischen Cohen."
+        ],
+        "155": [
+            1106.14,
+            1117.74,
+            "Lukas Hinterseer liegt auf dem Boden, im Gegner ist 16 Meter Raum, aber Ingolstadt hat ja den"
+        ],
+        "156": [
+            1117.74,
+            1121.3,
+            "Ball, also sie könnten ihn auch dann selber ausspielen, machen sie aber nicht."
+        ],
+        "157": [
+            1121.3,
+            1126.1,
+            "Das wird ja nicht an allen vorbeigelaufen sein, Cohen, jetzt."
+        ],
+        "158": [
+            1126.1,
+            1138.5,
+            "Das ist der Treffer von Aubameyang, im Stehen übrigens, das ist kein Kompliment für eine"
+        ],
+        "159": [
+            1138.5,
+            1143.62,
+            "Defensivreihe, wenn ein Kopfertor quasi im Stand erzielt wird, die beiden Langen waren"
+        ],
+        "160": [
+            1143.62,
+            1146.78,
+            "da viel zu weit weg, aber was soll's, dann ärgert man sich mal 40 Sekunden."
+        ],
+        "161": [
+            1146.78,
+            1153.74,
+            "Einfach so ein bisschen springt er hoch, aber das war's dann auch schon."
+        ],
+        "162": [
+            1153.74,
+            1162.66,
+            "Wenn er auf dem Feld ist und Dortmund trifft, ist er immer mit dabei, siebtes Saisontor."
+        ],
+        "163": [
+            1162.66,
+            1168.26,
+            "In Darmstadt hat er nicht gespielt, da hat Dortmund getroffen, die anderen Partien waren"
+        ],
+        "164": [
+            1168.26,
+            1169.26,
+            "zu null."
+        ],
+        "165": [
+            1170.26,
+            1180.62,
+            "So, und das ist die Aktion mit Hinterseer, Bartra, aber kein Foul, weil die Aktion geht"
+        ],
+        "166": [
+            1180.62,
+            1185.82,
+            "dann klar vom Ingolstädter aus und Moritz Hartmann, der im vergangenen Jahr mit 12 Toren"
+        ],
+        "167": [
+            1185.82,
+            1190.54,
+            "in der Debüt-Saison so stark war, komplett Alleinunterhalter, das war jetzt glaube ich"
+        ],
+        "168": [
+            1190.54,
+            1196.78,
+            "sein vierter Torschuss in dieser Saison und es will bis jetzt nicht funktionieren."
+        ],
+        "169": [
+            1196.78,
+            1200.14,
+            "Ob er geschlagen ist, steht da irgend so eine Stange im Wald."
+        ],
+        "170": [
+            1208.14,
+            1209.42,
+            "Der Seemus erstmal runter."
+        ],
+        "171": [
+            1220.14,
+            1224.82,
+            "Ingolstadt, ein Mann, ein Stürmer weniger, aber was für einer, ein großer, der die Kopfballduelle"
+        ],
+        "172": [
+            1224.86,
+            1226.38,
+            "und den Ball festmachen kann."
+        ],
+        "173": [
+            1232.38,
+            1234.86,
+            "Er möchte gern zurück und darf auch wieder zurück."
+        ],
+        "174": [
+            1238.86,
+            1239.86,
+            "Ja, gut gesehen von Cohen."
+        ],
+        "175": [
+            1241.86,
+            1244.38,
+            "Hartmann, jetzt ist Hinterseer weggerutscht."
+        ],
+        "176": [
+            1247.38,
+            1249.38,
+            "Nochmal, Hartmann, Harder-Jonai kommt mit."
+        ],
+        "177": [
+            1251.38,
+            1252.38,
+            "Harder-Jonai, feine Flanke."
+        ],
+        "178": [
+            1255.38,
+            1270.86,
+            "Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann,"
+        ],
+        "179": [
+            1270.9,
+            1271.9,
+            "Harder-Jonai, Feine Flanke."
+        ],
+        "180": [
+            1272.9,
+            1273.9,
+            "Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann, Hartmann."
+        ],
+        "181": [
+            1286.9,
+            1287.9,
+            "Jetzt eine Nummer zu spät für Cagava."
+        ],
+        "182": [
+            1289.9,
+            1291.9,
+            "Jetzt muss es ein bisschen Tempoverlust, mit sehr viel Tempoverlust über Piszczek und"
+        ],
+        "183": [
+            1293.9,
+            1294.9,
+            "Cagava gehen."
+        ],
+        "184": [
+            1294.9,
+            1304.58,
+            "Immer noch unglaublich laufintensive Spiel für Ingolstadt, aber die lassen nicht locker."
+        ],
+        "185": [
+            1304.58,
+            1306.58,
+            "Auch Götze in Mann-Deckung von Coan gerade."
+        ],
+        "186": [
+            1306.58,
+            1309.38,
+            "Bartra mit Ramos, Götze, Coan ist wieder da."
+        ],
+        "187": [
+            1309.38,
+            1326.14,
+            "Und Ginter muss den so klären, damit da nichts anbrennt gegen einen Mann."
+        ],
+        "188": [
+            1326.14,
+            1343.86,
+            "Naja, ist natürlich kein Ball da, auch wenn das jetzt eine große Aufgabe ist, jetzt schon"
+        ],
+        "189": [
+            1343.86,
+            1345.5,
+            "anzufangen, hier auf Zeit zu spielen."
+        ],
+        "190": [
+            1356.14,
+            1366.06,
+            "So, und mit der Neuen links am Bildrand trottet gerade Moritz Hartmann zurück, über den"
+        ],
+        "191": [
+            1366.06,
+            1367.78,
+            "ich gesagt habe, bei dem willst du nicht laufen."
+        ],
+        "192": [
+            1367.78,
+            1368.78,
+            "Da geht es um die Offensive."
+        ],
+        "193": [
+            1368.78,
+            1373.7,
+            "Ich glaube, der macht heute eines vielleicht sein bestes Spiel in der Defensive, weil der"
+        ],
+        "194": [
+            1373.7,
+            1379.34,
+            "hinten total hilft, weil der Hadar Csonay immer zur Verfügung steht, weil er die Seite"
+        ],
+        "195": [
+            1379.34,
+            1382.34,
+            "mit zu macht und auf der anderen Seite dann immer in Offensiv."
+        ],
+        "196": [
+            1382.34,
+            1386.3,
+            "Bartra beschäftigt, hier sein Ball, Moritz Hartmann."
+        ],
+        "197": [
+            1386.3,
+            1396.9,
+            "Und läuft, obwohl er große Konkurrenz hat, was viel Laufen angeht, nämlich Pascal Groß"
+        ],
+        "198": [
+            1396.9,
+            1400.98,
+            "auf der anderen Seite im Moment am meisten in dieser Partie."
+        ],
+        "199": [
+            1400.98,
+            1412.3,
+            "Dembélé, Zentral, Ramos, drüben Pulisic, genau da, Kagaba kommt mit."
+        ],
+        "200": [
+            1412.3,
+            1421.22,
+            "Pulisic, Ramos, ja und jetzt geht es ab hier, 2 zu 3, 69."
+        ],
+        "201": [
+            1421.22,
+            1428.46,
+            "Adrian Ramos trifft, Ingolstadt hat keine Zeit, sich in Sicherheit zu wiegen, weil Dortmund"
+        ],
+        "202": [
+            1428.46,
+            1432.78,
+            "nicht aufgibt und tatsächlich noch eine Lücke findet."
+        ],
+        "203": [
+            1432.78,
+            1436.14,
+            "Pulisic, ja mit etwas Glück und eiskalt Ramos."
+        ],
+        "204": [
+            1436.14,
+            1448.18,
+            "Und macht die Bewegung in die andere Richtung, Nülanz, da sieht man dann halt blöd aus,"
+        ],
+        "205": [
+            1448.18,
+            1449.18,
+            "das weiß er auch."
+        ],
+        "206": [
+            1462.78,
+            1471.94,
+            "So, Mathieu Lecky, den habe ich ja vorhin angesprochen, wird es gleich der erste Wechsel"
+        ],
+        "207": [
+            1471.94,
+            1473.7,
+            "sein beim FC Ingolstadt."
+        ],
+        "208": [
+            1473.7,
+            1479.62,
+            "Und alles andere als einer der beiden Stürmer da vorne würde mich wundern, aber ich lasse"
+        ],
+        "209": [
+            1479.62,
+            1484.94,
+            "mich auch verwundern, wenn es sein muss, wenn Hinterseer nicht verletzt ist, ist das unwahrscheinlich."
+        ],
+        "210": [
+            1484.94,
+            1487.02,
+            "Wieder der Freischuss von Sutner, diesmal nicht ganz so stark."
+        ],
+        "211": [
+            1487.02,
+            1496.7,
+            "Groß, ja hinten kommt noch Leskano, Batra."
+        ],
+        "212": [
+            1496.7,
+            1509.74,
+            "Der Tunnel gegen Ramos, es gibt die erste gelbe Karte in diesem Spiel."
+        ],
+        "213": [
+            1509.74,
+            1518.22,
+            "Was schon mit Körpereinsatz geführt worden ist, aber null unfair, es geht für beide."
+        ],
+        "214": [
+            1518.22,
+            1525.54,
+            "Der Torschütze zum 2-3, Adrian Ramos sieht die Karte."
+        ],
+        "215": [
+            1525.54,
+            1532.5,
+            "Und jetzt gibt es den Wechsel, den Applaus will ich ihm nicht rauben, denn es geht der"
+        ],
+        "216": [
+            1532.5,
+            1537.78,
+            "Doppeltorschütze bis hierher, es geht Dario Lescano und er hat sich ganz links nach draußen"
+        ],
+        "217": [
+            1537.78,
+            1542.34,
+            "rausgestohlen, weil er auch weiß, jede Sekunde, die ich jetzt hier noch mitnehmen kann, die"
+        ],
+        "218": [
+            1542.34,
+            1549.54,
+            "ist wichtig, aber sein Plan geht nicht auf, weil Hada Csonayda noch auf dem Boden liegt."
+        ],
+        "219": [
+            1549.54,
+            1552.86,
+            "So, das sind seine Tore."
+        ],
+        "220": [
+            1552.86,
+            1561.18,
+            "Und jetzt macht er sich gemächtig auf den Weg."
+        ],
+        "221": [
+            1561.18,
+            1575.62,
+            "Viele Argumente für das mit zwei Spitzen, anders als bei Borussia Dortmund."
+        ],
+        "222": [
+            1575.62,
+            1582.22,
+            "Soweit der paraguayische Nationalspieler, der viel unterwegs ist, geht und für den"
+        ],
+        "223": [
+            1582.22,
+            1586.54,
+            "australischer, der auch viel unterwegs ist, der ist ohnehin schon schnell, der ist jetzt"
+        ],
+        "224": [
+            1586.54,
+            1593.3,
+            "noch frisch, wird die Lescano-Position einnehmen und ist vor allen Dingen dann bei Kontern"
+        ],
+        "225": [
+            1593.3,
+            1595.54,
+            "natürlich herzlich willkommen da beim FC Ingolstadt."
+        ],
+        "226": [
+            1595.54,
+            1604.38,
+            "Und auch Dortmund bringt noch einen frischen Mann mit Felix Passlack."
+        ],
+        "227": [
+            1604.38,
+            1630.74,
+            "Fischek."
+        ],
+        "228": [
+            1630.74,
+            1634.94,
+            "Bartha."
+        ],
+        "229": [
+            1634.94,
+            1644.06,
+            "Zu weit oben von Christian Pulisic gegen Roger."
+        ],
+        "230": [
+            1644.06,
+            1648.38,
+            "So, letzter Wechsel."
+        ],
+        "231": [
+            1648.38,
+            1653.26,
+            "Shinji Kagawa geht und Felix Passlack kommt."
+        ],
+        "232": [
+            1653.26,
+            1655.7,
+            "18 Jahre jung."
+        ],
+        "233": [
+            1655.7,
+            1658.7,
+            "Der neue Mann."
+        ],
+        "234": [
+            1659.62,
+            1680.34,
+            "Ohja, Hinterseer, Hinterseer."
+        ],
+        "235": [
+            1680.34,
+            1685.02,
+            "Große Übersetzung, Hinterseer."
+        ],
+        "236": [
+            1685.02,
+            1687.18,
+            "Drüben war Pascal Groß."
+        ],
+        "237": [
+            1687.18,
+            1689.66,
+            "Kurzes Beratschlagen bei den Unparteiischen."
+        ],
+        "238": [
+            1689.66,
+            1692.02,
+            "Am Ende kommt Abstoß raus."
+        ],
+        "239": [
+            1692.02,
+            1704.14,
+            "So, jetzt mischen gerade die Dortmunder neu."
+        ],
+        "240": [
+            1704.14,
+            1708.5,
+            "Ramos geht auf die rechte Seite, Pulisic ist links."
+        ],
+        "241": [
+            1708.5,
+            1709.9,
+            "Aubameyang vorne drin."
+        ],
+        "242": [
+            1709.9,
+            1713.14,
+            "Götze und Dembélé tauschen auf den Achterpositionen die Seiten."
+        ],
+        "243": [
+            1713.14,
+            1723.5,
+            "Götze, Hassler kommt über links und Piszczek über rechts."
+        ],
+        "244": [
+            1723.5,
+            1739.38,
+            "Batra mit Aubameyang."
+        ],
+        "245": [
+            1739.38,
+            1740.38,
+            "Leicht gestoppt von Cowen."
+        ],
+        "246": [
+            1740.38,
+            1751.34,
+            "Weigel hinterher."
+        ],
+        "247": [
+            1751.34,
+            1753.74,
+            "Anlauf ist mit der Taktik beim Handball deutlich einfacher."
+        ],
+        "248": [
+            1753.74,
+            1758.02,
+            "Meistens 6-0-Deckung, aber auch da draufschauen, das tun wir für sie."
+        ],
+        "249": [
+            1758.02,
+            1761.34,
+            "Rothera Vekiel spielt heute bei den Kadetten aus Schaffhausen."
+        ],
+        "250": [
+            1761.34,
+            1767.78,
+            "Die sind bislang leichter Gegner für die Konterhänden."
+        ],
+        "251": [
+            1767.78,
+            1769.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "252": [
+            1769.78,
+            1771.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "253": [
+            1771.78,
+            1773.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "254": [
+            1773.78,
+            1775.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "255": [
+            1775.78,
+            1777.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "256": [
+            1777.78,
+            1779.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "257": [
+            1779.78,
+            1781.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "258": [
+            1781.78,
+            1783.78,
+            "Die beiden sind in der zweiten Halbzeit."
+        ],
+        "259": [
+            1783.78,
+            1785.78,
+            "Dembélé, alle rutschen weg, die weg rutschen können."
+        ],
+        "260": [
+            1785.78,
+            1787.78,
+            "Dembélé, alle rutschen weg, die weg rutschen können."
+        ],
+        "261": [
+            1787.78,
+            1789.78,
+            "Lecky ist auf dem Weg, aber der kommt nicht durch."
+        ],
+        "262": [
+            1789.78,
+            1791.78,
+            "Lecky ist auf dem Weg, aber der kommt nicht durch."
+        ],
+        "263": [
+            1791.78,
+            1793.78,
+            "Dem kann man mal einen Ball in den Lauf servieren."
+        ],
+        "264": [
+            1793.78,
+            1795.78,
+            "Dem kann man mal einen Ball in den Lauf servieren."
+        ],
+        "265": [
+            1796.78,
+            1798.78,
+            "Er kommt fast in der Mitte her."
+        ],
+        "266": [
+            1798.78,
+            1800.78,
+            "Er kommt fast in der Mitte her."
+        ],
+        "267": [
+            1800.78,
+            1802.78,
+            "Er kommt fast in der Mitte her."
+        ],
+        "268": [
+            1812.78,
+            1814.78,
+            "Felix Pastler hat sich wiederholt."
+        ],
+        "269": [
+            1814.78,
+            1816.78,
+            "Felix Pastler hat sich wiederholt."
+        ],
+        "270": [
+            1816.78,
+            1818.78,
+            "Felix Pastler hat sich wiederholt."
+        ],
+        "271": [
+            1821.78,
+            1823.78,
+            "Kurz vor Ende ist es ausgewechselt worden."
+        ],
+        "272": [
+            1823.78,
+            1827.78,
+            "Spielt auf der linken seite links verteidiger in lissabon vorher"
+        ],
+        "273": [
+            1828.46,
+            1832.34,
+            "Als sehr guter vertreter für lukas bisseck auf der rechten seite"
+        ],
+        "274": [
+            1838.58,
+            1839.86,
+            "Pulisic"
+        ],
+        "275": [
+            1839.86,
+            1841.86,
+            "da dazwischen roger"
+        ],
+        "276": [
+            1842.86,
+            1849.42,
+            "Warum auch immer jetzt schicken sie mal mehr die lecke ins lauftuell und weigel ja der steht schon länger auf dem platz aber auch nicht der"
+        ],
+        "277": [
+            1849.42,
+            1852.54,
+            "Langsamste nichtsdestotrotz das ist eine"
+        ],
+        "278": [
+            1854.14,
+            1860.22,
+            "Gefahr die sie da vorne reingebracht haben für die stunde noch zu spielen eins hinten für borussia dortmund in ingolstadt"
+        ],
+        "279": [
+            1879.82,
+            1882.62,
+            "Da junei jetzt gerade mal keiner"
+        ],
+        "280": [
+            1883.78,
+            1886.34,
+            "Jo36"
+        ],
+        "281": [
+            1913.78,
+            1920.78,
+            "etwas mehr Platz hat."
+        ],
+        "282": [
+            1926.38,
+            1930.98,
+            "Obermeyer eine ganz feine Technik, Cohen liegt auf dem Boden, Götze"
+        ],
+        "283": [
+            1930.98,
+            1932.62,
+            "immer noch Götze"
+        ],
+        "284": [
+            1932.62,
+            1936.66,
+            "versucht ihn durchzuschnippeln, Pulisic"
+        ],
+        "285": [
+            1936.66,
+            1940.06,
+            "und jetzt gibt's Eckball, aber auch die Frage, was da mit Almop Cohen"
+        ],
+        "286": [
+            1940.06,
+            1947.06,
+            "und was war bei der Aktion vorhin los?"
+        ],
+        "287": [
+            1953.54,
+            1957.86,
+            "Aber er wünscht offensichtlich, doch jetzt kommt die medizinische Betreuung"
+        ],
+        "288": [
+            1957.86,
+            1963.26,
+            "und das Gefühl, er will das gar nicht, nein"
+        ],
+        "289": [
+            1963.26,
+            1966.3,
+            "auf jeden Fall keine Absicht, aber natürlich eine"
+        ],
+        "290": [
+            1966.34,
+            1970.38,
+            "unglückliche Berührung, hat er offensichtlich den Finger ins Auge bekommen von"
+        ],
+        "291": [
+            1970.38,
+            1977.38,
+            "Peer Emerick Obermeyang"
+        ],
+        "292": [
+            1987.98,
+            1993.58,
+            "ist jetzt auch kurz raus"
+        ],
+        "293": [
+            1993.58,
+            2000.58,
+            "nein, die Ellenbogen war's nicht, was er da gerade gezeigt hat"
+        ],
+        "294": [
+            2011.9,
+            2014.14,
+            "Götze, Paslak"
+        ],
+        "295": [
+            2014.14,
+            2015.98,
+            "Paslak, Felix Paslak!"
+        ],
+        "296": [
+            2015.98,
+            2021.3,
+            "Ein riesen Ding und eine super Tat von Oerjan Nyland"
+        ],
+        "297": [
+            2021.3,
+            2025.58,
+            "neben dem Pfostenschuss von Hartmann auch eine spektakuläre Aktion auf der"
+        ],
+        "298": [
+            2025.58,
+            2032.26,
+            "anderen Seite"
+        ],
+        "299": [
+            2032.26,
+            2034.38,
+            "Dembélé"
+        ],
+        "300": [
+            2034.38,
+            2038.1,
+            "Dembélé"
+        ],
+        "301": [
+            2038.1,
+            2045.1,
+            "ich freu mich jetzt auf die letzten zehn Minuten plus Nachspielzeit"
+        ],
+        "302": [
+            2051.86,
+            2058.86,
+            "Hartmann, Hartmann, Hartmann, Hartmann!"
+        ],
+        "303": [
+            2063.46,
+            2064.46,
+            "Hinterseher"
+        ],
+        "304": [
+            2064.46,
+            2067.3,
+            "Bartran in den Rücken bekommen Hartmann"
+        ],
+        "305": [
+            2067.3,
+            2068.74,
+            "Hartmann"
+        ],
+        "306": [
+            2068.74,
+            2075.74,
+            "knapp vorbei an Pascal Groß"
+        ],
+        "307": [
+            2076.34,
+            2079.5,
+            "so jetzt"
+        ],
+        "308": [
+            2079.5,
+            2081.54,
+            "spielt Hartmann den Ball ins Aus"
+        ],
+        "309": [
+            2081.54,
+            2085.58,
+            "die Frage, dass da ein Kontakt war, ist für mich unbeschritten, aber sitzt jetzt nicht"
+        ],
+        "310": [
+            2085.58,
+            2089.86,
+            "jeder einzelne Ingolstädter etwas zu lange auf dem Rasen, natürlich versuchen"
+        ],
+        "311": [
+            2089.86,
+            2090.54,
+            "sie"
+        ],
+        "312": [
+            2090.54,
+            2094.62,
+            "den Druck und den Rhythmus wegzubringen bei Borussia Dortmund, das doofe daran ist"
+        ],
+        "313": [
+            2094.62,
+            2095.98,
+            "oftmals"
+        ],
+        "314": [
+            2095.98,
+            2099.18,
+            "fair zurückgegeben von Dembélé nimmt man selber"
+        ],
+        "315": [
+            2099.18,
+            2106.18,
+            "den Schwung aus dem eigenen Spiel"
+        ],
+        "316": [
+            2113.38,
+            2115.38,
+            "Dembélé"
+        ],
+        "317": [
+            2115.38,
+            2120.02,
+            "natürlich, dem bieten sie die linke Seite an"
+        ],
+        "318": [
+            2120.02,
+            2124.62,
+            "Pulisic"
+        ],
+        "319": [
+            2124.62,
+            2126.34,
+            "Pulisic gegen Cohen"
+        ],
+        "320": [
+            2126.34,
+            2128.1,
+            "Vorteil, ganz stark"
+        ],
+        "321": [
+            2128.1,
+            2131.42,
+            "ganz stark von Pulisic, immer noch stark"
+        ],
+        "322": [
+            2131.42,
+            2133.26,
+            "Sutner dazwischen"
+        ],
+        "323": [
+            2133.26,
+            2134.98,
+            "und jetzt Handspiel"
+        ],
+        "324": [
+            2134.98,
+            2141.98,
+            "des Dortmunders"
+        ],
+        "325": [
+            2146.42,
+            2148.7,
+            "mit ihm ist das Spiel aus Dortmunder Sicht"
+        ],
+        "326": [
+            2148.7,
+            2151.38,
+            "ganz anders und besser geworden, ja das ist"
+        ],
+        "327": [
+            2151.38,
+            2153.78,
+            "immer so eine Nummer mit diesen Handspielen"
+        ],
+        "328": [
+            2153.78,
+            2157.46,
+            "weil er wird aus aller kürzester Distanz angeschossen, bei einem Abwehrspieler"
+        ],
+        "329": [
+            2157.46,
+            2160.7,
+            "wird man dann sagen, ja kann er nichts machen, bei einem Offensivspieler tut man sich"
+        ],
+        "330": [
+            2160.7,
+            2163.06,
+            "deutlich leichter so etwas zurück zu pfeifen"
+        ],
+        "331": [
+            2163.06,
+            2166.1,
+            "zumal ich die Armhaltung jetzt beim Laufen noch nicht ungewöhnlich fand, aber"
+        ],
+        "332": [
+            2166.1,
+            2170.02,
+            "ich hoffe, dass es nicht die spielentscheidende Szene war"
+        ],
+        "333": [
+            2170.02,
+            2172.26,
+            "denn den kann man natürlich auch genau so"
+        ],
+        "334": [
+            2172.26,
+            2179.26,
+            "werten, wie es Felix Zweier getan hat"
+        ],
+        "335": [
+            2187.46,
+            2194.46,
+            "Götze, Pulisic, Pulisic, Thesseron"
+        ],
+        "336": [
+            2202.58,
+            2204.02,
+            "pumpt die Backen auf"
+        ],
+        "337": [
+            2204.02,
+            2206.86,
+            "reicht nicht, mindestens genauso unterhaltsam"
+        ],
+        "338": [
+            2206.86,
+            2211.54,
+            "und atemberaubend, morgen Sky 90, die KIA-Fußballdebatte ab 19.30 Uhr bei uns"
+        ],
+        "339": [
+            2211.54,
+            2215.78,
+            "mit Max Eber von Borussia Mönchengladbach, mit Horst Held, dem ehemaligen"
+        ],
+        "340": [
+            2215.78,
+            2217.18,
+            "Manager unter anderem"
+        ],
+        "341": [
+            2217.22,
+            2219.14,
+            "von Schalke und dazu"
+        ],
+        "342": [
+            2219.14,
+            2223.54,
+            "Kollegen Heiko Ostendorff des Sportbilds und Marco Fenske"
+        ],
+        "343": [
+            2223.54,
+            2229.9,
+            "aus dem Redaktionsnetzwerk Deutschland, das alles auch noch mit Patrick Wasserzieher"
+        ],
+        "344": [
+            2229.9,
+            2234.9,
+            "da bin ich dabei"
+        ],
+        "345": [
+            2234.9,
+            2235.94,
+            "Dembélé"
+        ],
+        "346": [
+            2235.94,
+            2237.22,
+            "gut vorbei an Cohen"
+        ],
+        "347": [
+            2237.22,
+            2239.66,
+            "Dembélé wieder innen durch, Dembélé"
+        ],
+        "348": [
+            2239.66,
+            2243.02,
+            "Ramos über links"
+        ],
+        "349": [
+            2243.02,
+            2250.02,
+            "Passlacker Zeit, Passlack"
+        ],
+        "350": [
+            2250.94,
+            2257.94,
+            "Christian Pulisic, der knallt sich da voll mit rein"
+        ],
+        "351": [
+            2263.46,
+            2267.1,
+            "und es geht ja bei diesem Anrennen von Borussia Dortmund im Moment erst mal"
+        ],
+        "352": [
+            2267.1,
+            2268.82,
+            "überhaupt einen Punkt"
+        ],
+        "353": [
+            2268.82,
+            2270.74,
+            "um nicht zu viel liegen zu lassen"
+        ],
+        "354": [
+            2270.74,
+            2274.22,
+            "in der Liga, auch wenn Hans-Joachim Watzke schon gesagt hat, wir sind so jung"
+        ],
+        "355": [
+            2274.22,
+            2276.1,
+            "Bayern-Jäger, wir entwickeln uns"
+        ],
+        "356": [
+            2276.1,
+            2279.94,
+            "aber klar hofft die Liga und hofft natürlich auch Borussia Dortmund auf die Rolle, die"
+        ],
+        "357": [
+            2279.94,
+            2283.86,
+            "ihnen da zugeteilt worden ist"
+        ],
+        "358": [
+            2283.86,
+            2287.18,
+            "als Spitzenteam und großer Konkurrent"
+        ],
+        "359": [
+            2287.18,
+            2294.18,
+            "um die ersten beiden Plätze"
+        ],
+        "360": [
+            2294.94,
+            2296.9,
+            "und die Personaldecke kenne ich natürlich auch"
+        ],
+        "361": [
+            2297.02,
+            2301.42,
+            "und die vielen Verletzungssorgen, nur so wie die Gegentore gefallen sind"
+        ],
+        "362": [
+            2301.42,
+            2306.42,
+            "finde ich ist der Anteil da jetzt nicht bei 100 Prozent"
+        ],
+        "363": [
+            2306.42,
+            2313.02,
+            "Götze und Pulisic"
+        ],
+        "364": [
+            2313.02,
+            2316.26,
+            "und da hinten ist Götze"
+        ],
+        "365": [
+            2316.26,
+            2319.78,
+            "hat auch schon hier und da ein Kopfvolltor gemacht, wobei das schwierig ist"
+        ],
+        "366": [
+            2319.78,
+            2323.14,
+            "zuerst mit dem Rücken zum Tor, sich dann umdrehen und irgendwie versuchen den da"
+        ],
+        "367": [
+            2323.14,
+            2330.14,
+            "drauf zu löffeln"
+        ],
+        "368": [
+            2342.78,
+            2349.78,
+            "Foul hinter Seer Weigel"
+        ],
+        "369": [
+            2354.14,
+            2356.14,
+            "und dann das Tor"
+        ],
+        "370": [
+            2356.14,
+            2363.14,
+            "und dann das Tor"
+        ],
+        "371": [
+            2373.94,
+            2377.34,
+            "und bislang dieses blödsinnige Experiment, diese Aufstellung von Tuchel"
+        ],
+        "372": [
+            2377.34,
+            2379.34,
+            "man darf da ja immer"
+        ],
+        "373": [
+            2379.34,
+            2381.46,
+            "wenn man hinterher keinen Ärger kriegen will"
+        ],
+        "374": [
+            2381.46,
+            2385.7,
+            "wenig drüber sagen, aber das war bislang"
+        ],
+        "375": [
+            2385.7,
+            2389.34,
+            "in diesen zwei Spitzen nicht das, was er sich erhofft hat"
+        ],
+        "376": [
+            2389.34,
+            2391.02,
+            "Paslak nochmal"
+        ],
+        "377": [
+            2391.02,
+            2398.02,
+            "Hada Csonay dazwischen"
+        ],
+        "378": [
+            2399.22,
+            2403.82,
+            "Pulisic, Götze in Position, Pulisic"
+        ],
+        "379": [
+            2403.82,
+            2410.82,
+            "unerhörter Druck jetzt von Borussia Dortmund"
+        ],
+        "380": [
+            2411.46,
+            2418.46,
+            "Ramos"
+        ],
+        "381": [
+            2433.26,
+            2435.1,
+            "Batra, Ramos"
+        ],
+        "382": [
+            2435.1,
+            2436.5,
+            "Aubameyang"
+        ],
+        "383": [
+            2436.5,
+            2439.94,
+            "der gehört natürlich in den 16 Meter Raum und nicht da irgendwo auf den Flügel"
+        ],
+        "384": [
+            2439.94,
+            2441.02,
+            "Paslak"
+        ],
+        "385": [
+            2441.02,
+            2445.14,
+            "Dembélé"
+        ],
+        "386": [
+            2445.14,
+            2447.38,
+            "Neun Mann in Rot"
+        ],
+        "387": [
+            2447.38,
+            2454.06,
+            "verriegeln den 16er"
+        ],
+        "388": [
+            2454.06,
+            2458.78,
+            "Ramos stark gespielt, Götze schaut nochmal"
+        ],
+        "389": [
+            2458.78,
+            2460.74,
+            "und dann fehlt ihm da"
+        ],
+        "390": [
+            2460.74,
+            2464.3,
+            "der Wille den da durchzuschießen, der guckt ob da noch irgendwer kommt und dann"
+        ],
+        "391": [
+            2464.3,
+            2466.14,
+            "will er es glaube ich zulässig machen"
+        ],
+        "392": [
+            2466.14,
+            2473.14,
+            "das weiß man dann, wenn man die Chance vergeben hat, allein vor Nüland"
+        ],
+        "393": [
+            2474.78,
+            2479.26,
+            "vielleicht hat er auch geschaut, ob das Abseits war, wie auch immer"
+        ],
+        "394": [
+            2479.26,
+            2481.62,
+            "Leky, Hinterseer kommt, Cohn ist mit da"
+        ],
+        "395": [
+            2481.62,
+            2484.34,
+            "Leky auf der anderen Seite, Hinterseer, ganz alleine"
+        ],
+        "396": [
+            2484.34,
+            2485.82,
+            "immer noch ganz alleine"
+        ],
+        "397": [
+            2485.82,
+            2490.02,
+            "eine Drehung"
+        ],
+        "398": [
+            2490.02,
+            2495.74,
+            "das Tempo ist weg, jemand zum Anspielen ist auch nicht da, aber er hat noch den Ball"
+        ],
+        "399": [
+            2495.78,
+            2502.78,
+            "und es will auch niemand mehr wirklich den Ball da hinten, jetzt kommt Sutner und der ist im Aus"
+        ],
+        "400": [
+            2507.34,
+            2509.46,
+            "so jetzt nochmal, Götze"
+        ],
+        "401": [
+            2509.46,
+            2514.94,
+            "ja da bei Abseits schaut man eher auf den Assistenten, ob der die Fahne oben hat"
+        ],
+        "402": [
+            2514.94,
+            2519.26,
+            "und dann ist da einfach zu wenig Power mit dahinter"
+        ],
+        "403": [
+            2519.26,
+            2523.9,
+            "oder dann zu wenig Raffinessi in den durch die Beine zu schieben"
+        ],
+        "404": [
+            2523.9,
+            2529.74,
+            "Stefan Leks wird gleich noch kommen, auf Seiten von Ingolstadt"
+        ],
+        "405": [
+            2529.74,
+            2531.78,
+            "Aubameyang, Ramos"
+        ],
+        "406": [
+            2531.78,
+            2533.66,
+            "Dembélé, versucht das"
+        ],
+        "407": [
+            2533.66,
+            2536.62,
+            "Dembélé nimmt Aubameyang mit, der ist da"
+        ],
+        "408": [
+            2536.62,
+            2539.66,
+            "Nüland ist noch nicht weg, jetzt erst"
+        ],
+        "409": [
+            2539.66,
+            2546.66,
+            "Florent Hara-Dzunay"
+        ],
+        "410": [
+            2547.78,
+            2552.5,
+            "dass man am Ende in Dortmund dann über die Chancenverwertung redet, aber"
+        ],
+        "411": [
+            2552.5,
+            2559.5,
+            "noch sind 2,5 Minuten plus Nachspielzeit"
+        ],
+        "412": [
+            2560.78,
+            2564.82,
+            "Götze, Badrachi, Badrach ist mit da"
+        ],
+        "413": [
+            2564.82,
+            2571.82,
+            "und Hartmann, kein Handspiel"
+        ],
+        "414": [
+            2575.74,
+            2579.9,
+            "Dembélé"
+        ],
+        "415": [
+            2579.98,
+            2586.98,
+            "Alfredo Morales ist übrigens der Erste, Dembélé"
+        ],
+        "416": [
+            2588.14,
+            2589.7,
+            "und jetzt drüben Lecky"
+        ],
+        "417": [
+            2589.7,
+            2595.38,
+            "hier ist Hinterseer"
+        ],
+        "418": [
+            2595.38,
+            2599.34,
+            "Cohen, drüben groß auf der linken Seite, Hartmann will nicht"
+        ],
+        "419": [
+            2599.34,
+            2600.22,
+            "muss aber"
+        ],
+        "420": [
+            2600.22,
+            2601.26,
+            "macht das sehr gut"
+        ],
+        "421": [
+            2601.26,
+            2604.26,
+            "Cohen, Ginter muss hinterher"
+        ],
+        "422": [
+            2604.26,
+            2606.94,
+            "keiner rückt mehr nach, zwei Mann im Sechzehner"
+        ],
+        "423": [
+            2606.94,
+            2608.54,
+            "Hartmann holt sich"
+        ],
+        "424": [
+            2608.58,
+            2612.3,
+            "gerade mal eine Verschnaufpause, das kann ich gut verstehen, der ist so viel gerannt"
+        ],
+        "425": [
+            2612.3,
+            2615.02,
+            "aber das geben sie zu leicht ab, jetzt haben sie aber noch"
+        ],
+        "426": [
+            2615.02,
+            2618.26,
+            "die Chance mit dem Wechsel mal ein bisschen Tempo rauszunehmen"
+        ],
+        "427": [
+            2618.26,
+            2621.1,
+            "Lukas Hinterseer geht, der ein paar Eier gesteckt hat"
+        ],
+        "428": [
+            2621.1,
+            2624.22,
+            "der ist nicht in diesem System, aber das war hier, glaube ich, ganz gut zu sehen"
+        ],
+        "429": [
+            2624.22,
+            2627.3,
+            "ganz gut wohlfühlt da vorne mit einem zweiten Mann an seiner Seite"
+        ],
+        "430": [
+            2627.3,
+            2630.3,
+            "auch wenn er heute nicht getroffen hat, der zieht zwei auf sich"
+        ],
+        "431": [
+            2630.3,
+            2632.86,
+            "und dann sind die anderen da, ein Stürmer geht"
+        ],
+        "432": [
+            2632.9,
+            2635.9,
+            "und ein Mittelfeldspieler kommt"
+        ],
+        "433": [
+            2646.42,
+            2649.42,
+            "vorne jetzt Lecky ganz alleine"
+        ],
+        "434": [
+            2657.54,
+            2661.22,
+            "Morales ist es, das Pflichtspiel Nummer 100 im Trikot von Ingolstadt"
+        ],
+        "435": [
+            2661.26,
+            2663.34,
+            "auch der passt, Tisseron"
+        ],
+        "436": [
+            2663.34,
+            2665.34,
+            "von Aubameyang, Piszczek"
+        ],
+        "437": [
+            2665.34,
+            2668.34,
+            "mit Götze"
+        ],
+        "438": [
+            2674.34,
+            2675.7,
+            "nix"
+        ],
+        "439": [
+            2675.7,
+            2676.82,
+            "Piszczek"
+        ],
+        "440": [
+            2676.82,
+            2678.54,
+            "Roger sitzt auf dem Boden"
+        ],
+        "441": [
+            2678.54,
+            2681.54,
+            "Kurlisic"
+        ],
+        "442": [
+            2682.18,
+            2684.74,
+            "Batra"
+        ],
+        "443": [
+            2684.74,
+            2687.74,
+            "Ramos"
+        ],
+        "444": [
+            2687.98,
+            2690.98,
+            "und übers Tribündach"
+        ],
+        "445": [
+            2691.18,
+            2693.34,
+            "früher war das 5 Minuten Pause"
+        ],
+        "446": [
+            2693.34,
+            2698.34,
+            "jetzt ist sofort ein Ball da, 4 Minuten Nachspielzeit, das haut auch hin von der Bemessung"
+        ],
+        "447": [
+            2715.46,
+            2717.18,
+            "wieder von Götze"
+        ],
+        "448": [
+            2717.18,
+            2720.18,
+            "der Ball liegt frei"
+        ],
+        "449": [
+            2728.34,
+            2731.34,
+            "zum ersten Mal ist die Stimmung wieder richtig im Stadion, wenn die Großen da sind"
+        ],
+        "450": [
+            2731.94,
+            2733.94,
+            "wie Dortmund, wie Bayern"
+        ],
+        "451": [
+            2733.94,
+            2736.94,
+            "dann gibt's das, Nüland ist auf dem Weg"
+        ],
+        "452": [
+            2738.14,
+            2740.66,
+            "und Ingolstadt hat ein sehr gutes Spiel in München gemacht"
+        ],
+        "453": [
+            2740.66,
+            2741.74,
+            "und jetzt"
+        ],
+        "454": [
+            2741.74,
+            2744.74,
+            "wieder Nüland und jetzt ist der Ball drin, Kurlisic"
+        ],
+        "455": [
+            2744.94,
+            2747.94,
+            "3-3"
+        ],
+        "456": [
+            2753.5,
+            2757.3,
+            "und Tuchel steht unten und schickt sie sofort in die Mitte"
+        ],
+        "457": [
+            2757.3,
+            2761.02,
+            "hier sind noch 3 Minuten zu gehen und jetzt will er logischerweise"
+        ],
+        "458": [
+            2761.02,
+            2764.46,
+            "mehr als diesen einen Punkt, den er im Moment hat"
+        ],
+        "459": [
+            2764.46,
+            2766.98,
+            "den moralischen Moment will er nutzen"
+        ],
+        "460": [
+            2766.98,
+            2769.98,
+            "alles korrekt"
+        ],
+        "461": [
+            2769.98,
+            2772.98,
+            "und das ist der Punkt, den er jetzt noch nicht hat"
+        ],
+        "462": [
+            2772.98,
+            2775.98,
+            "und das ist der Punkt, den er jetzt noch nicht hat"
+        ],
+        "463": [
+            2775.98,
+            2778.98,
+            "und ich glaube, er steht direkt dahinter, Kurlisic"
+        ],
+        "464": [
+            2778.98,
+            2781.98,
+            "und nicht im Strafband abseits, weil ein abgewehrter Ball vom Torwart"
+        ],
+        "465": [
+            2781.98,
+            2784.98,
+            "keine neue Spielsituation ist"
+        ],
+        "466": [
+            2787.98,
+            2789.98,
+            "Piszczek haut sich rein"
+        ],
+        "467": [
+            2789.98,
+            2792.98,
+            "und Kurlisic schaltet am schnellsten"
+        ],
+        "468": [
+            2799.98,
+            2802.98,
+            "und das ist der Punkt, den er jetzt noch nicht hat"
+        ]
+    }
+}

@@ -1,0 +1,4234 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            4.0,
+            "So off we go at Selhurst Park, Crystal Palace in the red and blue strikes,"
+        ],
+        "1": [
+            4.0,
+            8.0,
+            "beaten by West Ham and Leicester in their last two matches,"
+        ],
+        "2": [
+            8.0,
+            13.0,
+            "Liverpool in their change strip on a ten-match unbeaten run in all competitions,"
+        ],
+        "3": [
+            13.0,
+            17.0,
+            "and with top spot in the Premier League in their sights."
+        ],
+        "4": [
+            17.0,
+            20.0,
+            "Owen Hargreaves, good afternoon, what are you expecting from this one today?"
+        ],
+        "5": [
+            20.0,
+            23.0,
+            "I think this is what we're going to see for the majority of the game,"
+        ],
+        "6": [
+            23.0,
+            26.0,
+            "Palace dropping in, try and play on the counter-attack,"
+        ],
+        "7": [
+            26.0,
+            29.0,
+            "but Liverpool have a terrific start to the season."
+        ],
+        "8": [
+            30.0,
+            34.0,
+            "So great to watch, attacking football,"
+        ],
+        "9": [
+            34.0,
+            38.0,
+            "expect Liverpool to try and match Man City in Arsenal and get a big important win."
+        ],
+        "10": [
+            39.0,
+            41.0,
+            "Sadio Mane's nicked it back here for Liverpool,"
+        ],
+        "11": [
+            41.0,
+            44.0,
+            "Clyne with the first chance to cross against his old side,"
+        ],
+        "12": [
+            44.0,
+            51.0,
+            "and Firmino was in a dangerous area as far as Liverpool were concerned as an attacking unit."
+        ],
+        "13": [
+            51.0,
+            55.0,
+            "Palace have won three of the last four meetings between the teams,"
+        ],
+        "14": [
+            55.0,
+            59.0,
+            "the sole Liverpool success during that run was here in March."
+        ],
+        "15": [
+            59.0,
+            63.0,
+            "Liverpool have won four of their last five games away from home,"
+        ],
+        "16": [
+            63.0,
+            67.0,
+            "including a 2-1 win at Chelsea the last time they were in London."
+        ],
+        "17": [
+            67.0,
+            72.0,
+            "Jurgen Klopp delighted with the way his team have started the Premier League season."
+        ],
+        "18": [
+            73.0,
+            74.0,
+            "Zaha."
+        ],
+        "19": [
+            76.0,
+            79.0,
+            "First bit of defending for Moreno to do,"
+        ],
+        "20": [
+            79.0,
+            82.0,
+            "and it's in towards Ben Teke who got up there for the knockdown."
+        ],
+        "21": [
+            83.0,
+            87.0,
+            "Emre Can had covered a bit of ground from midfield to get in there and make the clearance,"
+        ],
+        "22": [
+            87.0,
+            92.0,
+            "Liverpool of course, Glenn, know exactly what the strength of Christiano is."
+        ],
+        "23": [
+            93.0,
+            95.0,
+            "And it's in for the goalkeeper,"
+        ],
+        "24": [
+            95.0,
+            97.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "25": [
+            97.0,
+            99.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "26": [
+            99.0,
+            101.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "27": [
+            101.0,
+            103.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "28": [
+            103.0,
+            105.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "29": [
+            105.0,
+            107.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "30": [
+            107.0,
+            109.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "31": [
+            109.0,
+            111.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "32": [
+            111.0,
+            113.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "33": [
+            113.0,
+            115.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "34": [
+            115.0,
+            117.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "35": [
+            117.0,
+            119.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "36": [
+            119.0,
+            121.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "37": [
+            121.0,
+            123.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "38": [
+            123.0,
+            125.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "39": [
+            125.0,
+            127.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "40": [
+            127.0,
+            129.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "41": [
+            129.0,
+            131.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "42": [
+            131.0,
+            133.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "43": [
+            133.0,
+            135.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "44": [
+            135.0,
+            137.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "45": [
+            137.0,
+            139.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "46": [
+            139.0,
+            141.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "47": [
+            141.0,
+            143.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "48": [
+            143.0,
+            145.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "49": [
+            145.0,
+            147.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "50": [
+            147.0,
+            149.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "51": [
+            149.0,
+            151.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "52": [
+            151.0,
+            153.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "53": [
+            153.0,
+            155.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "54": [
+            155.0,
+            157.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "55": [
+            157.0,
+            159.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "56": [
+            159.0,
+            161.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "57": [
+            161.0,
+            163.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "58": [
+            163.0,
+            165.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "59": [
+            165.0,
+            167.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "60": [
+            167.0,
+            169.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "61": [
+            169.0,
+            171.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "62": [
+            171.0,
+            173.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "63": [
+            173.0,
+            175.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "64": [
+            175.0,
+            177.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "65": [
+            177.0,
+            179.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "66": [
+            179.0,
+            181.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "67": [
+            181.0,
+            183.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "68": [
+            183.0,
+            185.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "69": [
+            185.0,
+            187.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "70": [
+            187.0,
+            189.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "71": [
+            189.0,
+            191.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "72": [
+            191.0,
+            193.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "73": [
+            193.0,
+            195.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "74": [
+            195.0,
+            197.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "75": [
+            197.0,
+            199.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "76": [
+            199.0,
+            201.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "77": [
+            201.0,
+            203.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "78": [
+            203.0,
+            205.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "79": [
+            205.0,
+            207.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "80": [
+            207.0,
+            209.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "81": [
+            209.0,
+            211.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "82": [
+            211.0,
+            213.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "83": [
+            213.0,
+            215.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "84": [
+            215.0,
+            217.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "85": [
+            217.0,
+            219.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "86": [
+            219.0,
+            221.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "87": [
+            221.0,
+            223.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "88": [
+            223.0,
+            225.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "89": [
+            225.0,
+            227.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "90": [
+            227.0,
+            229.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "91": [
+            229.0,
+            231.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "92": [
+            231.0,
+            233.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "93": [
+            233.0,
+            235.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "94": [
+            235.0,
+            237.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "95": [
+            237.0,
+            239.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "96": [
+            239.0,
+            241.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "97": [
+            241.0,
+            243.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "98": [
+            243.0,
+            245.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "99": [
+            245.0,
+            247.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "100": [
+            247.0,
+            249.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "101": [
+            249.0,
+            251.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "102": [
+            251.0,
+            253.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "103": [
+            253.0,
+            255.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "104": [
+            255.0,
+            257.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "105": [
+            257.0,
+            259.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "106": [
+            259.0,
+            261.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "107": [
+            261.0,
+            263.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "108": [
+            263.0,
+            265.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "109": [
+            265.0,
+            267.0,
+            "and it's in for the goalkeeper,"
+        ],
+        "110": [
+            267.0,
+            269.0,
+            "and it's in for the goalkeeper."
+        ],
+        "111": [
+            297.0,
+            299.0,
+            "So flexible, so versatile."
+        ],
+        "112": [
+            299.0,
+            301.0,
+            "Such a great attack, so well-balanced."
+        ],
+        "113": [
+            327.0,
+            329.0,
+            "As a teenager from Tottenham,"
+        ],
+        "114": [
+            329.0,
+            331.0,
+            "and his debut in the first team."
+        ],
+        "115": [
+            331.0,
+            333.0,
+            "A 17-year-old, and it's a tight one there."
+        ],
+        "116": [
+            333.0,
+            335.0,
+            "It's very tight. He's got to go in behind,"
+        ],
+        "117": [
+            335.0,
+            337.0,
+            "hasn't he? He made a great run originally for Henderson."
+        ],
+        "118": [
+            337.0,
+            339.0,
+            "Henderson gave it to Lallana,"
+        ],
+        "119": [
+            339.0,
+            341.0,
+            "but it was fractions, wasn't it?"
+        ],
+        "120": [
+            343.0,
+            345.0,
+            "The full-backs for Liverpool,"
+        ],
+        "121": [
+            345.0,
+            347.0,
+            "they're playing like they're at Anfield. They're so high."
+        ],
+        "122": [
+            347.0,
+            349.0,
+            "Moreno's on the ball down the left-hand side."
+        ],
+        "123": [
+            349.0,
+            351.0,
+            "Kline is like a winger."
+        ],
+        "124": [
+            351.0,
+            353.0,
+            "He's on the shoulder of the full-back,"
+        ],
+        "125": [
+            353.0,
+            355.0,
+            "and that drags the wingers back."
+        ],
+        "126": [
+            355.0,
+            357.0,
+            "They're having to come all the way back,"
+        ],
+        "127": [
+            357.0,
+            359.0,
+            "and it's very difficult for Palace"
+        ],
+        "128": [
+            359.0,
+            361.0,
+            "when they do win the ball."
+        ],
+        "129": [
+            361.0,
+            363.0,
+            "Are they able to get out on the ball?"
+        ],
+        "130": [
+            377.0,
+            379.0,
+            "Andre Marriner in charge of this game today."
+        ],
+        "131": [
+            379.0,
+            381.0,
+            "He refereed the match last season"
+        ],
+        "132": [
+            381.0,
+            383.0,
+            "between the sides as well."
+        ],
+        "133": [
+            383.0,
+            385.0,
+            "He's been a referee for red cards as well,"
+        ],
+        "134": [
+            385.0,
+            387.0,
+            "not wanting to tempt fate here."
+        ],
+        "135": [
+            387.0,
+            389.0,
+            "He's shown five red cards"
+        ],
+        "136": [
+            389.0,
+            391.0,
+            "in eight matches this season,"
+        ],
+        "137": [
+            391.0,
+            393.0,
+            "including three in a game"
+        ],
+        "138": [
+            393.0,
+            395.0,
+            "in one of the European fixtures that he's had."
+        ],
+        "139": [
+            409.0,
+            411.0,
+            "As Johan Cabal is a very good defender,"
+        ],
+        "140": [
+            411.0,
+            413.0,
+            "as Johan Cabal"
+        ],
+        "141": [
+            415.0,
+            417.0,
+            "Henderson in the way for Liverpool."
+        ],
+        "142": [
+            417.0,
+            419.0,
+            "Firmino to"
+        ],
+        "143": [
+            419.0,
+            421.0,
+            "Emre Can, who's keeping"
+        ],
+        "144": [
+            421.0,
+            423.0,
+            "Jorginho Wijnaldum on the Liverpool"
+        ],
+        "145": [
+            423.0,
+            425.0,
+            "bench."
+        ],
+        "146": [
+            425.0,
+            427.0,
+            "He's going to get the free kick here as well."
+        ],
+        "147": [
+            431.0,
+            433.0,
+            "That's the type of thing Liverpool"
+        ],
+        "148": [
+            433.0,
+            435.0,
+            "have got to be aware of."
+        ],
+        "149": [
+            435.0,
+            437.0,
+            "Palace, that ball was given away."
+        ],
+        "150": [
+            437.0,
+            439.0,
+            "It was a free kick given, but that ball"
+        ],
+        "151": [
+            439.0,
+            441.0,
+            "was Zaha's feet running"
+        ],
+        "152": [
+            441.0,
+            443.0,
+            "that. That's a problem"
+        ],
+        "153": [
+            443.0,
+            445.0,
+            "to them."
+        ],
+        "154": [
+            445.0,
+            447.0,
+            "Lallana pulls it back to Firmino, and now Can."
+        ],
+        "155": [
+            449.0,
+            451.0,
+            "Coutinho,"
+        ],
+        "156": [
+            451.0,
+            453.0,
+            "some defending for Ward to do."
+        ],
+        "157": [
+            453.0,
+            455.0,
+            "And in the end, he did enough."
+        ],
+        "158": [
+            457.0,
+            459.0,
+            "It's already clear to see though, isn't it Owen?"
+        ],
+        "159": [
+            459.0,
+            461.0,
+            "They're going to pack the penalty area, Palace, when Liverpool"
+        ],
+        "160": [
+            461.0,
+            463.0,
+            "have got it."
+        ],
+        "161": [
+            463.0,
+            465.0,
+            "They're getting so many bodies forward."
+        ],
+        "162": [
+            465.0,
+            467.0,
+            "Look how many bodies Palace are back."
+        ],
+        "163": [
+            467.0,
+            469.0,
+            "Having"
+        ],
+        "164": [
+            469.0,
+            471.0,
+            "the full-backs"
+        ],
+        "165": [
+            471.0,
+            473.0,
+            "provide Liverpool with that width, that means the wingers can"
+        ],
+        "166": [
+            473.0,
+            475.0,
+            "come inside, pick up positions"
+        ],
+        "167": [
+            475.0,
+            477.0,
+            "inside, support Firmino."
+        ],
+        "168": [
+            477.0,
+            479.0,
+            "Just see from"
+        ],
+        "169": [
+            479.0,
+            481.0,
+            "the possession stats there."
+        ],
+        "170": [
+            481.0,
+            483.0,
+            "Liverpool dominating so far."
+        ],
+        "171": [
+            497.0,
+            499.0,
+            "You can see the scores from the afternoon"
+        ],
+        "172": [
+            499.0,
+            501.0,
+            "fixtures in the Premier League going through the screen."
+        ],
+        "173": [
+            501.0,
+            503.0,
+            "At the bottom, a big win for Arsenal."
+        ],
+        "174": [
+            503.0,
+            505.0,
+            "Manchester United down to 10 men"
+        ],
+        "175": [
+            505.0,
+            507.0,
+            "held at home by Burnley."
+        ],
+        "176": [
+            507.0,
+            509.0,
+            "Leicester City with a point away from home"
+        ],
+        "177": [
+            509.0,
+            511.0,
+            "at Tottenham, and a big win for Manchester City"
+        ],
+        "178": [
+            511.0,
+            513.0,
+            "at the Hawthorns"
+        ],
+        "179": [
+            513.0,
+            515.0,
+            "against West Bromwich Albion, which has"
+        ],
+        "180": [
+            515.0,
+            517.0,
+            "solidified their place at the top of the table."
+        ],
+        "181": [
+            517.0,
+            519.0,
+            "We'll talk about all of those fixtures"
+        ],
+        "182": [
+            519.0,
+            521.0,
+            "on Premier League tonight from"
+        ],
+        "183": [
+            521.0,
+            523.0,
+            "eight o'clock on Sunday."
+        ],
+        "184": [
+            523.0,
+            525.0,
+            "We'll talk about the"
+        ],
+        "185": [
+            525.0,
+            527.0,
+            "Premier League tonight from eight o'clock"
+        ],
+        "186": [
+            527.0,
+            529.0,
+            "on BT Sport."
+        ],
+        "187": [
+            537.0,
+            539.0,
+            "Intercepted by Johan Kabay."
+        ],
+        "188": [
+            541.0,
+            543.0,
+            "It's a case of"
+        ],
+        "189": [
+            543.0,
+            545.0,
+            "plugging the gaps, isn't it, for Crystal Palace"
+        ],
+        "190": [
+            545.0,
+            547.0,
+            "so far in the match, and they've"
+        ],
+        "191": [
+            547.0,
+            549.0,
+            "done it successfully up to now."
+        ],
+        "192": [
+            551.0,
+            553.0,
+            "This is Cheung Yong Lee"
+        ],
+        "193": [
+            553.0,
+            555.0,
+            "who's been brought in to add a bit of"
+        ],
+        "194": [
+            555.0,
+            557.0,
+            "defensive guile"
+        ],
+        "195": [
+            557.0,
+            559.0,
+            "to the Palace side in place of Andros Townsend"
+        ],
+        "196": [
+            559.0,
+            561.0,
+            "today."
+        ],
+        "197": [
+            561.0,
+            563.0,
+            "Coutinho sends it forward."
+        ],
+        "198": [
+            563.0,
+            565.0,
+            "It was awkward"
+        ],
+        "199": [
+            565.0,
+            567.0,
+            "for Kelly."
+        ],
+        "200": [
+            567.0,
+            569.0,
+            "Mane couldn't control it, and then Joe Ledley"
+        ],
+        "201": [
+            569.0,
+            571.0,
+            "can get back in there"
+        ],
+        "202": [
+            571.0,
+            573.0,
+            "for Crystal Palace."
+        ],
+        "203": [
+            579.0,
+            581.0,
+            "They've followed up that sequence of three straight"
+        ],
+        "204": [
+            581.0,
+            583.0,
+            "Premier League wins before the international break"
+        ],
+        "205": [
+            583.0,
+            585.0,
+            "with a point from games against"
+        ],
+        "206": [
+            585.0,
+            587.0,
+            "Everton, West Ham and Leicester."
+        ],
+        "207": [
+            587.0,
+            589.0,
+            "Although Alan Pardew"
+        ],
+        "208": [
+            589.0,
+            591.0,
+            "felt they deserved more from the game at the King Power"
+        ],
+        "209": [
+            591.0,
+            593.0,
+            "Stadium, certainly last weekend, where they created"
+        ],
+        "210": [
+            593.0,
+            595.0,
+            "lots of opportunities."
+        ],
+        "211": [
+            599.0,
+            601.0,
+            "Joel Matip for Liverpool."
+        ],
+        "212": [
+            603.0,
+            605.0,
+            "False here for Sane Omane,"
+        ],
+        "213": [
+            605.0,
+            607.0,
+            "and then Matip had stayed forward."
+        ],
+        "214": [
+            611.0,
+            613.0,
+            "Azarhar."
+        ],
+        "215": [
+            635.0,
+            637.0,
+            "Here's Benteke. Moreno"
+        ],
+        "216": [
+            637.0,
+            639.0,
+            "was onto it quickly."
+        ],
+        "217": [
+            639.0,
+            641.0,
+            "Heavy first touch from Benteke"
+        ],
+        "218": [
+            641.0,
+            643.0,
+            "helping Liverpool out. Now Coutinho."
+        ],
+        "219": [
+            643.0,
+            645.0,
+            "And away by Tompkins."
+        ],
+        "220": [
+            649.0,
+            651.0,
+            "Alberto Moreno."
+        ],
+        "221": [
+            651.0,
+            653.0,
+            "Now Coutinho."
+        ],
+        "222": [
+            657.0,
+            659.0,
+            "Henderson to Mane."
+        ],
+        "223": [
+            659.0,
+            661.0,
+            "Now Chan."
+        ],
+        "224": [
+            661.0,
+            663.0,
+            "And then intercepted"
+        ],
+        "225": [
+            663.0,
+            665.0,
+            "and cleared away"
+        ],
+        "226": [
+            665.0,
+            667.0,
+            "by Tompkins."
+        ],
+        "227": [
+            667.0,
+            669.0,
+            "Coutinho in firmly on"
+        ],
+        "228": [
+            669.0,
+            671.0,
+            "MacArthur. Now Henderson."
+        ],
+        "229": [
+            671.0,
+            673.0,
+            "Sane Omane."
+        ],
+        "230": [
+            673.0,
+            675.0,
+            "Nathaniel Clines"
+        ],
+        "231": [
+            675.0,
+            677.0,
+            "made his way forward from right back"
+        ],
+        "232": [
+            677.0,
+            679.0,
+            "for Liverpool, and Martin Kelly, the"
+        ],
+        "233": [
+            679.0,
+            681.0,
+            "Liverpool old boy, over there to clear it away"
+        ],
+        "234": [
+            681.0,
+            683.0,
+            "for Crystal Palace."
+        ],
+        "235": [
+            683.0,
+            685.0,
+            "You can see how narrow"
+        ],
+        "236": [
+            685.0,
+            687.0,
+            "the Liverpool's front three are playing."
+        ],
+        "237": [
+            687.0,
+            689.0,
+            "And it's a very"
+        ],
+        "238": [
+            689.0,
+            691.0,
+            "difficult thing for Palace"
+        ],
+        "239": [
+            691.0,
+            693.0,
+            "when they get position."
+        ],
+        "240": [
+            693.0,
+            695.0,
+            "Struggling just to keep it."
+        ],
+        "241": [
+            695.0,
+            697.0,
+            "Benteke's very isolated."
+        ],
+        "242": [
+            703.0,
+            705.0,
+            "Goodbye challenge by Chan."
+        ],
+        "243": [
+            705.0,
+            707.0,
+            "No foul. Andre Marriner was"
+        ],
+        "244": [
+            707.0,
+            709.0,
+            "pretty much on the spot for that one."
+        ],
+        "245": [
+            719.0,
+            721.0,
+            "It's giving that ball away"
+        ],
+        "246": [
+            721.0,
+            723.0,
+            "Palace, aren't they?"
+        ],
+        "247": [
+            723.0,
+            725.0,
+            "It's just not enough angles there."
+        ],
+        "248": [
+            725.0,
+            727.0,
+            "The full-backs can't get out because they're being asked"
+        ],
+        "249": [
+            727.0,
+            729.0,
+            "to defend. The wide men, Lee and Zaha"
+        ],
+        "250": [
+            729.0,
+            731.0,
+            "are almost coming back like full-backs."
+        ],
+        "251": [
+            731.0,
+            733.0,
+            "When they get the ball, there's no options"
+        ],
+        "252": [
+            733.0,
+            735.0,
+            "on the ball."
+        ],
+        "253": [
+            735.0,
+            737.0,
+            "Here's a counter-attack opportunity."
+        ],
+        "254": [
+            737.0,
+            739.0,
+            "Ward to Benteke."
+        ],
+        "255": [
+            739.0,
+            741.0,
+            "Ledley's made the run."
+        ],
+        "256": [
+            743.0,
+            745.0,
+            "In he goes towards Christian Benteke."
+        ],
+        "257": [
+            745.0,
+            747.0,
+            "And he's got it."
+        ],
+        "258": [
+            747.0,
+            749.0,
+            "Towards Christian Benteke."
+        ],
+        "259": [
+            749.0,
+            751.0,
+            "And the left-back Moreno there for Liverpool."
+        ],
+        "260": [
+            751.0,
+            753.0,
+            "Klein in there on the follow-up"
+        ],
+        "261": [
+            753.0,
+            755.0,
+            "challenge."
+        ],
+        "262": [
+            757.0,
+            759.0,
+            "Now Kelly."
+        ],
+        "263": [
+            759.0,
+            761.0,
+            "Johan Kabay."
+        ],
+        "264": [
+            761.0,
+            763.0,
+            "And Matip had spotted that"
+        ],
+        "265": [
+            763.0,
+            765.0,
+            "one that was on its way towards Benteke."
+        ],
+        "266": [
+            765.0,
+            767.0,
+            "Zaha working hard"
+        ],
+        "267": [
+            767.0,
+            769.0,
+            "on Chan."
+        ],
+        "268": [
+            769.0,
+            771.0,
+            "Andre Marriner happy for the game to carry on."
+        ],
+        "269": [
+            777.0,
+            779.0,
+            "Tompkins out to Kelly."
+        ],
+        "270": [
+            779.0,
+            781.0,
+            "Away by Matip."
+        ],
+        "271": [
+            793.0,
+            795.0,
+            "There's Scott down."
+        ],
+        "272": [
+            795.0,
+            797.0,
+            "He's back at centre-half alongside"
+        ],
+        "273": [
+            797.0,
+            799.0,
+            "James Tompkins for Crystal Palace today."
+        ],
+        "274": [
+            799.0,
+            801.0,
+            "Got a goal at Anfield last season."
+        ],
+        "275": [
+            801.0,
+            803.0,
+            "He's missed the last four matches."
+        ],
+        "276": [
+            803.0,
+            805.0,
+            "Alan Pardew was talking in the building"
+        ],
+        "277": [
+            805.0,
+            807.0,
+            "for the match about his threat from set-pieces."
+        ],
+        "278": [
+            807.0,
+            809.0,
+            "But very, very happy."
+        ],
+        "279": [
+            809.0,
+            811.0,
+            "The Crystal Palace manager to have Scott down."
+        ],
+        "280": [
+            811.0,
+            813.0,
+            "Back at centre-half today."
+        ],
+        "281": [
+            813.0,
+            815.0,
+            "Especially against a side who"
+        ],
+        "282": [
+            815.0,
+            817.0,
+            "score as many goals and create as many chances"
+        ],
+        "283": [
+            817.0,
+            819.0,
+            "as Liverpool do."
+        ],
+        "284": [
+            823.0,
+            825.0,
+            "There's a good solid defenders in there."
+        ],
+        "285": [
+            825.0,
+            827.0,
+            "For me that's Kabay just over-hits that one."
+        ],
+        "286": [
+            827.0,
+            829.0,
+            "But they've got to get Kabay on the ball."
+        ],
+        "287": [
+            829.0,
+            831.0,
+            "Every time he gets the ball he looks forward."
+        ],
+        "288": [
+            831.0,
+            833.0,
+            "And if you're going to counter-attack"
+        ],
+        "289": [
+            833.0,
+            835.0,
+            "you've got to play that ball forward."
+        ],
+        "290": [
+            835.0,
+            837.0,
+            "First pass."
+        ],
+        "291": [
+            837.0,
+            839.0,
+            "Kabay has already done it a couple of times."
+        ],
+        "292": [
+            839.0,
+            841.0,
+            "In this game."
+        ],
+        "293": [
+            841.0,
+            843.0,
+            "And that's what Palace have got to look for."
+        ],
+        "294": [
+            863.0,
+            865.0,
+            "That's Emre Can."
+        ],
+        "295": [
+            865.0,
+            867.0,
+            "The Urugu Klopp has just been having a"
+        ],
+        "296": [
+            867.0,
+            869.0,
+            "with Sadio Mane on the other side of the pitch"
+        ],
+        "297": [
+            869.0,
+            871.0,
+            "for Liverpool."
+        ],
+        "298": [
+            871.0,
+            873.0,
+            "Just indicating for him to stay a little bit wider."
+        ],
+        "299": [
+            873.0,
+            875.0,
+            "And try and create one or two gaps"
+        ],
+        "300": [
+            875.0,
+            877.0,
+            "that Liverpool might be able to exploit"
+        ],
+        "301": [
+            877.0,
+            879.0,
+            "in the Palace back-line."
+        ],
+        "302": [
+            879.0,
+            881.0,
+            "They're just moving the ball a little bit too slowly."
+        ],
+        "303": [
+            881.0,
+            883.0,
+            "Too many touches."
+        ],
+        "304": [
+            883.0,
+            885.0,
+            "Pass really well organised."
+        ],
+        "305": [
+            885.0,
+            887.0,
+            "Just need to move the ball quicker."
+        ],
+        "306": [
+            887.0,
+            889.0,
+            "Make those runs in behind."
+        ],
+        "307": [
+            889.0,
+            891.0,
+            "Mane is so terrific at it."
+        ],
+        "308": [
+            891.0,
+            893.0,
+            "Just stretch this Crystal Palace team."
+        ],
+        "309": [
+            895.0,
+            897.0,
+            "Coutinho to Moreno."
+        ],
+        "310": [
+            897.0,
+            899.0,
+            "Zaha across for Palace."
+        ],
+        "311": [
+            899.0,
+            901.0,
+            "That's an example there."
+        ],
+        "312": [
+            901.0,
+            903.0,
+            "Fletcher, the back four staying in there."
+        ],
+        "313": [
+            903.0,
+            905.0,
+            "Moreno's carried on running forward."
+        ],
+        "314": [
+            905.0,
+            907.0,
+            "And Emre Can's coming through!"
+        ],
+        "315": [
+            907.0,
+            909.0,
+            "And it took a deflection in Liverpool lead."
+        ],
+        "316": [
+            909.0,
+            911.0,
+            "And it was the slick one-touch passing"
+        ],
+        "317": [
+            911.0,
+            913.0,
+            "from Liverpool to open up Crystal Palace."
+        ],
+        "318": [
+            913.0,
+            915.0,
+            "And Emre Can was there to finish it off"
+        ],
+        "319": [
+            915.0,
+            917.0,
+            "for his first goal of the season."
+        ],
+        "320": [
+            917.0,
+            919.0,
+            "Just said it, make forward runs."
+        ],
+        "321": [
+            919.0,
+            921.0,
+            "Forward runs and forward passes."
+        ],
+        "322": [
+            923.0,
+            925.0,
+            "And Liverpool do just that."
+        ],
+        "323": [
+            925.0,
+            927.0,
+            "Moreno giving great width to his Liverpool team."
+        ],
+        "324": [
+            927.0,
+            929.0,
+            "Look how many bodies Liverpool get forward."
+        ],
+        "325": [
+            929.0,
+            931.0,
+            "Quick play. That's a terrific ball."
+        ],
+        "326": [
+            933.0,
+            935.0,
+            "Very tight, but Moreno makes a terrific run."
+        ],
+        "327": [
+            935.0,
+            937.0,
+            "That's a great take from Can."
+        ],
+        "328": [
+            937.0,
+            939.0,
+            "Might be a bit too much for Liverpool."
+        ],
+        "329": [
+            939.0,
+            941.0,
+            "But it's a great run."
+        ],
+        "330": [
+            941.0,
+            943.0,
+            "And Liverpool are in the lead."
+        ],
+        "331": [
+            943.0,
+            945.0,
+            "And Liverpool are in the lead."
+        ],
+        "332": [
+            945.0,
+            947.0,
+            "And that's a great take from Can."
+        ],
+        "333": [
+            947.0,
+            949.0,
+            "Might just take a deflection."
+        ],
+        "334": [
+            949.0,
+            951.0,
+            "And that comes off Scott Dann."
+        ],
+        "335": [
+            951.0,
+            953.0,
+            "But this little ball here is when Zahara"
+        ],
+        "336": [
+            953.0,
+            955.0,
+            "has been asked to play almost like a right-back."
+        ],
+        "337": [
+            955.0,
+            957.0,
+            "Just switches off for a second."
+        ],
+        "338": [
+            957.0,
+            959.0,
+            "Moreno gets in there, in behind the defence"
+        ],
+        "339": [
+            959.0,
+            961.0,
+            "and pulls it back. And that kills you."
+        ],
+        "340": [
+            961.0,
+            963.0,
+            "But when you're asking your wingers"
+        ],
+        "341": [
+            963.0,
+            965.0,
+            "to come back there and concentrate as a defender"
+        ],
+        "342": [
+            965.0,
+            967.0,
+            "they've only got to switch off for a second."
+        ],
+        "343": [
+            969.0,
+            971.0,
+            "And Moreno gives you that. Such a great athlete."
+        ],
+        "344": [
+            971.0,
+            973.0,
+            "So quick. Giving them great width."
+        ],
+        "345": [
+            975.0,
+            977.0,
+            "That's one of the most beautiful moments"
+        ],
+        "346": [
+            977.0,
+            979.0,
+            "of a game."
+        ],
+        "347": [
+            997.0,
+            999.0,
+            "The final touch on that."
+        ],
+        "348": [
+            999.0,
+            1001.0,
+            "Emery Chan shot off Scott Dann."
+        ],
+        "349": [
+            1001.0,
+            1003.0,
+            "Not an awful lot that he could do about it."
+        ],
+        "350": [
+            1003.0,
+            1008.2,
+            "positions. It's a familiar situation but not a happy one for Alan Pardew and"
+        ],
+        "351": [
+            1008.2,
+            1012.72,
+            "Crystal Palace. They've now been behind in nine of the 12 games they played this"
+        ],
+        "352": [
+            1012.72,
+            1018.64,
+            "season and it extends the run in the Premier League to 15 matches now"
+        ],
+        "353": [
+            1018.64,
+            1023.24,
+            "without a clean sheet. They are so susceptible to conceding goals and you"
+        ],
+        "354": [
+            1023.24,
+            1027.04,
+            "make life very difficult for yourself when you concede the first one against"
+        ],
+        "355": [
+            1027.04,
+            1032.36,
+            "this level of opposition and here's Sane Omane running through and Mondanda"
+        ],
+        "356": [
+            1032.36,
+            1035.48,
+            "but it was all about the vision of Philippe Coutinho again to set him free."
+        ],
+        "357": [
+            1035.48,
+            1040.2,
+            "Well terrific vision look at this for a run, willing run Omane just so quick"
+        ],
+        "358": [
+            1040.2,
+            1044.4,
+            "Tompkins does so well just to get a touch on that. I think for Crystal Palace"
+        ],
+        "359": [
+            1044.4,
+            1048.4,
+            "and Alan Pardew game plan that he had to change two of his best attackers are on"
+        ],
+        "360": [
+            1048.4,
+            1052.44,
+            "the bench. It was a mistake by Dave."
+        ],
+        "361": [
+            1052.44,
+            1056.44,
+            "And there's the goal for Crystal Palace from MacArthur."
+        ],
+        "362": [
+            1056.92,
+            1063.64,
+            "Well it was awful defending by Lovren. Had an open goal for James MacArthur and"
+        ],
+        "363": [
+            1063.64,
+            1066.96,
+            "Crystal Palace are level."
+        ],
+        "364": [
+            1074.44,
+            1079.84,
+            "It's just poor defending from Liverpool. Ball just bounces. It's awful from Lovren."
+        ],
+        "365": [
+            1079.84,
+            1085.12,
+            "Straight to MacArthur. He's carried in a difficult position. Doesn't know whether to"
+        ],
+        "366": [
+            1085.12,
+            1091.72,
+            "come or stay. Just from nothing. One long ball. Lovren makes a mess of that."
+        ],
+        "367": [
+            1091.72,
+            1096.28,
+            "That's brave from MacArthur. That's his third goal of the season. Getting forward."
+        ],
+        "368": [
+            1096.28,
+            1100.92,
+            "Karius just stays on his line. Doesn't know whether to come or stay."
+        ],
+        "369": [
+            1100.92,
+            1104.4,
+            "For Lovren for me it's there's a time to try and play football and a time to clear"
+        ],
+        "370": [
+            1104.4,
+            1107.96,
+            "your area. Just get rid of the ball and they've just scored. The last thing they"
+        ],
+        "371": [
+            1107.96,
+            1113.12,
+            "want to do is give the goal away and it's horses for courses. Doing the"
+        ],
+        "372": [
+            1113.12,
+            1118.96,
+            "right thing at the right time. Moreno with the ball in towards Firmino."
+        ],
+        "373": [
+            1118.96,
+            1123.28,
+            "Now Henderson. Wide open field to the game all of a sudden. In towards Firmino again."
+        ],
+        "374": [
+            1123.28,
+            1129.44,
+            "And Ward was there doing enough for Palace. He'll now get the goal kick."
+        ],
+        "375": [
+            1129.44,
+            1135.36,
+            "I remember one of my managers said to me never play square in Lovren."
+        ],
+        "376": [
+            1135.36,
+            1142.68,
+            "It's a square header from Matip and it's awful from Lovren. MacArthur does well."
+        ],
+        "377": [
+            1142.68,
+            1149.08,
+            "He just gambles and he needed that Alapardju. Gets him back in this game."
+        ],
+        "378": [
+            1149.08,
+            1151.72,
+            "Lovren can't believe it."
+        ],
+        "379": [
+            1154.52,
+            1158.8,
+            "The look on Jurgen Klopp's face tells the story. He can't believe it. He does finish it"
+        ],
+        "380": [
+            1158.8,
+            1162.72,
+            "with a smile but it was a smile of irony more than anything else."
+        ],
+        "381": [
+            1162.72,
+            1167.76,
+            "Liverpool who had got the lead. Through Emre Can's deflected shot. Pegged back"
+        ],
+        "382": [
+            1167.8,
+            1172.84,
+            "Almost straight away by Crystal Palace. It's been so frustrating for him because"
+        ],
+        "383": [
+            1172.84,
+            1177.6,
+            "Liverpool play such fantastic football. Open football. Technical football."
+        ],
+        "384": [
+            1177.6,
+            1182.36,
+            "And the opponent's halves, they have to earn a lot to get their goals and suddenly they just"
+        ],
+        "385": [
+            1182.36,
+            1186.44,
+            "give something away like that. And that must be so frustrating for them."
+        ],
+        "386": [
+            1186.44,
+            1190.72,
+            "They've got to eradicate these poor goals they're giving away."
+        ],
+        "387": [
+            1190.72,
+            1194.44,
+            "You mentioned the fact that Crystal Palace have gone 15 games in the league since a clean sheet."
+        ],
+        "388": [
+            1194.44,
+            1198.52,
+            "Liverpool have only kept one so far this season in the league."
+        ],
+        "389": [
+            1198.52,
+            1203.72,
+            "There's good defending by Tompkins again on Sadio Mane who seems to be operating a bit more"
+        ],
+        "390": [
+            1203.72,
+            1206.88,
+            "through the middle doesn't he? In the early stages here for Liverpool."
+        ],
+        "391": [
+            1206.88,
+            1210.44,
+            "He just has terrific awareness. Just realising the space they're running behind."
+        ],
+        "392": [
+            1210.44,
+            1216.04,
+            "Senior always looking to pick players out. Tompkins again does terrific just to get a body on him."
+        ],
+        "393": [
+            1216.04,
+            1224.44,
+            "I think with Mane, the word was start wide and then arrive in there."
+        ],
+        "394": [
+            1224.44,
+            1228.0,
+            "He's arriving through the centre. We gave him the game, he was in there too early."
+        ],
+        "395": [
+            1228.0,
+            1231.08,
+            "Liverpool's in there with a chance to maybe make amends."
+        ],
+        "396": [
+            1231.08,
+            1235.88,
+            "Coutinho's corner cleared away and then Kovayev with a tackle for Palace."
+        ],
+        "397": [
+            1235.88,
+            1247.08,
+            "It's very rare that there are goals when these two meet."
+        ],
+        "398": [
+            1247.08,
+            1251.12,
+            "A couple inside the opening 21 minutes have certainly got us started on the right track."
+        ],
+        "399": [
+            1251.12,
+            1253.88,
+            "Here's Parkham, there's another one!"
+        ],
+        "400": [
+            1253.88,
+            1255.88,
+            "And Lovren has made amends!"
+        ],
+        "401": [
+            1255.88,
+            1259.88,
+            "With a bullet head of the game, Mondonder no chance at all."
+        ],
+        "402": [
+            1259.88,
+            1264.88,
+            "I love that. That's just brilliant for Lovren."
+        ],
+        "403": [
+            1264.88,
+            1268.88,
+            "Making such a dreadful mistake, you feel awful for your team-mates."
+        ],
+        "404": [
+            1268.88,
+            1270.88,
+            "Liverpool started so well."
+        ],
+        "405": [
+            1272.88,
+            1275.88,
+            "Brilliant. Great character from Lovren."
+        ],
+        "406": [
+            1275.88,
+            1278.88,
+            "He's trying to get on the end of this, terrific delivery."
+        ],
+        "407": [
+            1278.88,
+            1281.88,
+            "Lovren, he just wants it more."
+        ],
+        "408": [
+            1281.88,
+            1283.88,
+            "Great determination again."
+        ],
+        "409": [
+            1283.88,
+            1286.88,
+            "And Scott-Dan, right through the legs of Mondonder."
+        ],
+        "410": [
+            1286.88,
+            1290.88,
+            "It's just a brilliant ball in, and such a powerful header."
+        ],
+        "411": [
+            1290.88,
+            1293.88,
+            "Brilliant goal from Lovren."
+        ],
+        "412": [
+            1293.88,
+            1297.88,
+            "You never thought he had him marked, he didn't really get himself in the correct position."
+        ],
+        "413": [
+            1297.88,
+            1301.88,
+            "There was a little bit of a gap, but we were talking about Liverpool conceding set-plays."
+        ],
+        "414": [
+            1301.88,
+            1302.88,
+            "My word."
+        ],
+        "415": [
+            1304.88,
+            1307.88,
+            "It's been quite the start here at Selhurst Park."
+        ],
+        "416": [
+            1307.88,
+            1310.88,
+            "Crystal Palace 1-2 Liverpool."
+        ],
+        "417": [
+            1310.88,
+            1316.88,
+            "And that's Dejan Lovren's first goal in the Liverpool shirt since he scored that unbelievably dramatic goal"
+        ],
+        "418": [
+            1316.88,
+            1320.88,
+            "against Borussia Dortmund in the Europa League towards the end of last season."
+        ],
+        "419": [
+            1320.88,
+            1323.88,
+            "Just some beautiful football from Liverpool."
+        ],
+        "420": [
+            1323.88,
+            1325.88,
+            "That was wonderful, wasn't it?"
+        ],
+        "421": [
+            1325.88,
+            1328.88,
+            "Playing in their own great touches, 1-2, they're just so good, Liverpool."
+        ],
+        "422": [
+            1328.88,
+            1332.88,
+            "Liverpool! Liverpool!"
+        ],
+        "423": [
+            1332.88,
+            1334.88,
+            "Liverpool!"
+        ],
+        "424": [
+            1334.88,
+            1336.88,
+            "Liverpool!"
+        ],
+        "425": [
+            1336.88,
+            1338.88,
+            "Salah!"
+        ],
+        "426": [
+            1338.88,
+            1339.88,
+            "Goal for Liverpool!"
+        ],
+        "427": [
+            1339.88,
+            1341.88,
+            "Salah!"
+        ],
+        "428": [
+            1341.88,
+            1342.88,
+            "Goal for Liverpool!"
+        ],
+        "429": [
+            1342.88,
+            1344.88,
+            "Salah!"
+        ],
+        "430": [
+            1344.88,
+            1345.88,
+            "Goal for Liverpool!"
+        ],
+        "431": [
+            1345.88,
+            1346.88,
+            "Messi!"
+        ],
+        "432": [
+            1346.88,
+            1347.88,
+            "Goal for Liverpool!"
+        ],
+        "433": [
+            1347.88,
+            1348.88,
+            "Messi!"
+        ],
+        "434": [
+            1348.88,
+            1349.88,
+            "Goal for Liverpool!"
+        ],
+        "435": [
+            1349.88,
+            1353.88,
+            "Three attempts on target, and all of them converted so far."
+        ],
+        "436": [
+            1353.88,
+            1355.88,
+            "And we'll take that over 90 minutes, won't we?"
+        ],
+        "437": [
+            1355.88,
+            1356.88,
+            "Goal for Liverpool!"
+        ],
+        "438": [
+            1356.88,
+            1358.88,
+            "Goal for Liverpool!"
+        ],
+        "439": [
+            1358.88,
+            1361.88,
+            "Headed out by Kelly for a Liverpool throw-in."
+        ],
+        "440": [
+            1361.88,
+            1362.88,
+            "Goal for Liverpool!"
+        ],
+        "441": [
+            1362.88,
+            1363.88,
+            "Goal for Liverpool!"
+        ],
+        "442": [
+            1363.88,
+            1364.88,
+            "Goal for Liverpool!"
+        ],
+        "443": [
+            1364.88,
+            1365.88,
+            "Goal for Liverpool!"
+        ],
+        "444": [
+            1365.88,
+            1366.88,
+            "Goal for Liverpool!"
+        ],
+        "445": [
+            1366.88,
+            1367.88,
+            "Goal for Liverpool!"
+        ],
+        "446": [
+            1367.88,
+            1368.88,
+            "Away by Tompkins."
+        ],
+        "447": [
+            1369.88,
+            1374.88,
+            "Henderson finds Coutinho, who's popping up in a variety of positions already,"
+        ],
+        "448": [
+            1374.88,
+            1378.88,
+            "who's sensational, wasn't he, last weekend against West Brom,"
+        ],
+        "449": [
+            1378.88,
+            1381.88,
+            "particularly in the first half, Liverpool's number 10."
+        ],
+        "450": [
+            1381.88,
+            1383.88,
+            "Goal for Liverpool!"
+        ],
+        "451": [
+            1383.88,
+            1384.88,
+            "Goal for Liverpool!"
+        ],
+        "452": [
+            1385.88,
+            1388.88,
+            "Huge week of Champions League football coming up,"
+        ],
+        "453": [
+            1388.88,
+            1390.88,
+            "Tuesday night's an absolute cracker,"
+        ],
+        "454": [
+            1390.88,
+            1393.88,
+            "Manchester City have got four at West Brom this afternoon,"
+        ],
+        "455": [
+            1393.88,
+            1395.88,
+            "looking for revenge against Barcelona,"
+        ],
+        "456": [
+            1395.88,
+            1400.88,
+            "Tuesday seven o'clock, BT Sport 2HD and 4K UHD."
+        ],
+        "457": [
+            1400.88,
+            1404.88,
+            "Here's Firmino for Liverpool, who are threatening another."
+        ],
+        "458": [
+            1408.88,
+            1411.88,
+            "Liverpool just keep coming, just attacking in waves."
+        ],
+        "459": [
+            1412.88,
+            1415.88,
+            "In the end it's just a brilliant block from Joe Ward,"
+        ],
+        "460": [
+            1415.88,
+            1417.88,
+            "just get a body on it."
+        ],
+        "461": [
+            1421.88,
+            1425.88,
+            "Here's Matip, who's looking to get forward from centre-back,"
+        ],
+        "462": [
+            1425.88,
+            1428.88,
+            "with a fair bit of regularity in the game."
+        ],
+        "463": [
+            1430.88,
+            1433.88,
+            "Tense to leave at Lovren, one-on-one against Beneteco,"
+        ],
+        "464": [
+            1433.88,
+            1435.88,
+            "Henderson dropping in."
+        ],
+        "465": [
+            1435.88,
+            1436.88,
+            "Here's Mane."
+        ],
+        "466": [
+            1442.88,
+            1444.88,
+            "Still Savio Mane."
+        ],
+        "467": [
+            1444.88,
+            1446.88,
+            "Firmino, Lallana."
+        ],
+        "468": [
+            1448.88,
+            1452.88,
+            "A bit away by Kelly, but not very far, Nathaniel Kline."
+        ],
+        "469": [
+            1453.88,
+            1455.88,
+            "Henderson swings it in."
+        ],
+        "470": [
+            1457.88,
+            1458.88,
+            "Moreno."
+        ],
+        "471": [
+            1459.88,
+            1460.88,
+            "Coutinho."
+        ],
+        "472": [
+            1460.88,
+            1463.88,
+            "Moreno's made another run in behind Zaha here,"
+        ],
+        "473": [
+            1463.88,
+            1467.88,
+            "and he's delivered a tantalising ball in towards Firmino."
+        ],
+        "474": [
+            1475.88,
+            1477.88,
+            "Henderson to Mane."
+        ],
+        "475": [
+            1477.88,
+            1479.88,
+            "Breaks now for Chan."
+        ],
+        "476": [
+            1480.88,
+            1481.88,
+            "Coutinho."
+        ],
+        "477": [
+            1482.88,
+            1484.88,
+            "Chan was looking to play it back in,"
+        ],
+        "478": [
+            1484.88,
+            1487.88,
+            "and then Dan got across to get the block on Emre Can."
+        ],
+        "479": [
+            1487.88,
+            1491.88,
+            "Liverpool asking plenty of questions here at the Palace defence."
+        ],
+        "480": [
+            1491.88,
+            1495.88,
+            "Crystal Palace can't get out, Liverpool literally camped in their half."
+        ],
+        "481": [
+            1501.88,
+            1503.88,
+            "Goodbye there for Palace this time."
+        ],
+        "482": [
+            1505.88,
+            1506.88,
+            "Here's Mane."
+        ],
+        "483": [
+            1507.88,
+            1509.88,
+            "Goodbye there for Palace this time."
+        ],
+        "484": [
+            1512.88,
+            1516.88,
+            "And at last John Wall can play the ball to relative safety,"
+        ],
+        "485": [
+            1516.88,
+            1518.88,
+            "to James McArthur."
+        ],
+        "486": [
+            1537.88,
+            1539.88,
+            "Here's Lallana."
+        ],
+        "487": [
+            1542.88,
+            1544.88,
+            "Chan to Coutinho."
+        ],
+        "488": [
+            1544.88,
+            1546.88,
+            "Spun away from Ledley."
+        ],
+        "489": [
+            1546.88,
+            1550.88,
+            "Kline arrives in towards Firmino, away by Martin Kelly."
+        ],
+        "490": [
+            1550.88,
+            1554.88,
+            "Ledley just able to reach it, but Henderson was in there quickly."
+        ],
+        "491": [
+            1554.88,
+            1556.88,
+            "It's fantastic pressing from Liverpool,"
+        ],
+        "492": [
+            1556.88,
+            1558.88,
+            "when they've lost the ball in the last third,"
+        ],
+        "493": [
+            1558.88,
+            1560.88,
+            "they're pressing Henderson."
+        ],
+        "494": [
+            1560.88,
+            1563.88,
+            "He's intercepted three or four already this half."
+        ],
+        "495": [
+            1564.88,
+            1567.88,
+            "Lovren's played like a man possessed since he gave the goal away."
+        ],
+        "496": [
+            1570.88,
+            1571.88,
+            "Now Mane."
+        ],
+        "497": [
+            1574.88,
+            1577.88,
+            "Most things have been going right for Sadio Mane"
+        ],
+        "498": [
+            1577.88,
+            1580.88,
+            "since he arrived from Southampton, but not that time."
+        ],
+        "499": [
+            1580.88,
+            1585.88,
+            "Just a wonderful player, fits in perfectly with this Liverpool team."
+        ],
+        "500": [
+            1585.88,
+            1587.88,
+            "It is again Coutinho at the heart of everything,"
+        ],
+        "501": [
+            1587.88,
+            1589.88,
+            "Mourinho making a terrific run again."
+        ],
+        "502": [
+            1589.88,
+            1591.88,
+            "He's getting in behind Zaha."
+        ],
+        "503": [
+            1592.88,
+            1594.88,
+            "Defending from Kelly."
+        ],
+        "504": [
+            1594.88,
+            1596.88,
+            "He's got a body off Firmino."
+        ],
+        "505": [
+            1596.88,
+            1599.88,
+            "Tempted to say the kind of cross that Christian Benteke"
+        ],
+        "506": [
+            1599.88,
+            1602.88,
+            "didn't see anywhere near enough when he was wearing a Liverpool shirt."
+        ],
+        "507": [
+            1602.88,
+            1604.88,
+            "Pretty much so, yes."
+        ],
+        "508": [
+            1604.88,
+            1606.88,
+            "But actually you look at Zaha and you think,"
+        ],
+        "509": [
+            1606.88,
+            1608.88,
+            "well, he's going to take on Mourinho."
+        ],
+        "510": [
+            1608.88,
+            1611.88,
+            "Mourinho's not greatest at defending, but it's the other way around at the moment."
+        ],
+        "511": [
+            1611.88,
+            1613.88,
+            "Mourinho's the one forcing him back."
+        ],
+        "512": [
+            1613.88,
+            1615.88,
+            "He's attacking and getting on the outside of Zaha."
+        ],
+        "513": [
+            1615.88,
+            1618.88,
+            "And players have got to let Zaha sit out sometimes."
+        ],
+        "514": [
+            1618.88,
+            1620.88,
+            "Lallana's made a really good run here, found by Chan,"
+        ],
+        "515": [
+            1620.88,
+            1623.88,
+            "flicks it in towards Coutinho and Mane."
+        ],
+        "516": [
+            1628.88,
+            1630.88,
+            "That's a difficult thing for Palace."
+        ],
+        "517": [
+            1630.88,
+            1632.88,
+            "So many players making forward runs, Lallana, Mane,"
+        ],
+        "518": [
+            1632.88,
+            1634.88,
+            "can never know who to pick up."
+        ],
+        "519": [
+            1634.88,
+            1636.88,
+            "So difficult for the Palace defenders."
+        ],
+        "520": [
+            1637.88,
+            1639.88,
+            "They've almost got to say to Zaha sometimes on occasions,"
+        ],
+        "521": [
+            1639.88,
+            1643.88,
+            "let one of the central midfield players go across and help you fall back."
+        ],
+        "522": [
+            1643.88,
+            1645.88,
+            "You just sit out. It's not cheating, it's clever."
+        ],
+        "523": [
+            1645.88,
+            1646.88,
+            "I agree."
+        ],
+        "524": [
+            1646.88,
+            1648.88,
+            "Sit out and Mourinho then has to think about things."
+        ],
+        "525": [
+            1648.88,
+            1650.88,
+            "Well, they're not keeping the ball well enough, Palace,"
+        ],
+        "526": [
+            1650.88,
+            1652.88,
+            "so Liverpool can just keep coming."
+        ],
+        "527": [
+            1652.88,
+            1655.88,
+            "Mane, and that was awkward, wasn't it, for Dan."
+        ],
+        "528": [
+            1656.88,
+            1659.88,
+            "They gave the ball away just outside their own penalty area again."
+        ],
+        "529": [
+            1659.88,
+            1661.88,
+            "Johan Cabaye was the culprit this time."
+        ],
+        "530": [
+            1679.88,
+            1680.88,
+            "He's in there."
+        ],
+        "531": [
+            1699.88,
+            1700.88,
+            "It's Lee."
+        ],
+        "532": [
+            1701.88,
+            1702.88,
+            "Henderson was in there."
+        ],
+        "533": [
+            1702.88,
+            1704.88,
+            "Firmino beat Tompkins to it."
+        ],
+        "534": [
+            1711.88,
+            1712.88,
+            "Now Joel Ward."
+        ],
+        "535": [
+            1718.88,
+            1721.88,
+            "Wilfried Zaha ran into Jordan Henderson."
+        ],
+        "536": [
+            1721.88,
+            1724.88,
+            "Fair tackle according to Andre Mariner."
+        ],
+        "537": [
+            1725.88,
+            1727.88,
+            "Lallana can bring Liverpool the other way."
+        ],
+        "538": [
+            1727.88,
+            1728.88,
+            "And now Coutinho."
+        ],
+        "539": [
+            1728.88,
+            1730.88,
+            "Lots and lots of power."
+        ],
+        "540": [
+            1730.88,
+            1732.88,
+            "Just slightly off target."
+        ],
+        "541": [
+            1733.88,
+            1734.88,
+            "Vintage Liverpool."
+        ],
+        "542": [
+            1734.88,
+            1735.88,
+            "Win the ball back on the press."
+        ],
+        "543": [
+            1735.88,
+            1736.88,
+            "Look how many bodies break."
+        ],
+        "544": [
+            1737.88,
+            1740.88,
+            "Coutinho, he's just popped up all over the pitch."
+        ],
+        "545": [
+            1740.88,
+            1741.88,
+            "Just great patience."
+        ],
+        "546": [
+            1741.88,
+            1742.88,
+            "Come inside."
+        ],
+        "547": [
+            1742.88,
+            1744.88,
+            "Bit of awareness to pick out Mourinho."
+        ],
+        "548": [
+            1744.88,
+            1745.88,
+            "He's been terrific."
+        ],
+        "549": [
+            1745.88,
+            1747.88,
+            "Just smashes it off the post."
+        ],
+        "550": [
+            1747.88,
+            1748.88,
+            "Liverpool are dominant."
+        ],
+        "551": [
+            1750.88,
+            1751.88,
+            "And now, Mourinho."
+        ],
+        "552": [
+            1751.88,
+            1752.88,
+            "He's got to be careful."
+        ],
+        "553": [
+            1752.88,
+            1753.88,
+            "He's got to be careful."
+        ],
+        "554": [
+            1753.88,
+            1754.88,
+            "He's got to be careful."
+        ],
+        "555": [
+            1754.88,
+            1755.88,
+            "He's got to be careful."
+        ],
+        "556": [
+            1755.88,
+            1756.88,
+            "He's got to be careful."
+        ],
+        "557": [
+            1756.88,
+            1757.88,
+            "Liverpool are dominant."
+        ],
+        "558": [
+            1760.88,
+            1764.88,
+            "There's never been any doubt at all about Mourinho as an attacking player."
+        ],
+        "559": [
+            1764.88,
+            1766.88,
+            "It's the holes he sometimes leaves at the other end."
+        ],
+        "560": [
+            1766.88,
+            1770.88,
+            "But he brings a dimension, doesn't he, down the left of Liverpool when he plays as an attacker."
+        ],
+        "561": [
+            1770.88,
+            1771.88,
+            "Certainly."
+        ],
+        "562": [
+            1771.88,
+            1776.88,
+            "When you've got this amount of possession as well, it encourages him to get forward and show his ability."
+        ],
+        "563": [
+            1776.88,
+            1779.88,
+            "But we all know he's at Killings Hill, he's defending."
+        ],
+        "564": [
+            1780.88,
+            1783.88,
+            "But again, that attack from Liverpool comes from Henderson."
+        ],
+        "565": [
+            1783.88,
+            1785.88,
+            "Pressing, winning the ball, playing forward and then breaking."
+        ],
+        "566": [
+            1787.88,
+            1789.88,
+            "Coutinho is looking to nick it back from Kabai there."
+        ],
+        "567": [
+            1789.88,
+            1790.88,
+            "Of course, no Milner on the side today."
+        ],
+        "568": [
+            1790.88,
+            1795.88,
+            "He's been very consistent and solid at left-back, but he's suffering with an illness."
+        ],
+        "569": [
+            1796.88,
+            1799.88,
+            "Liverpool deciding not to bring him with the travelling party today."
+        ],
+        "570": [
+            1799.88,
+            1803.88,
+            "Hence why Mourinho is starting in the Premier League since the opening weekend."
+        ],
+        "571": [
+            1803.88,
+            1806.88,
+            "He got 90 minutes under his belt in midweek against Tottenham."
+        ],
+        "572": [
+            1808.88,
+            1809.88,
+            "Moyapur's side, Pali."
+        ],
+        "573": [
+            1809.88,
+            1811.88,
+            "Trying to come inside, hasn't had many touches."
+        ],
+        "574": [
+            1811.88,
+            1815.88,
+            "We've got some Europa League football for you this week as well as the Champions League."
+        ],
+        "575": [
+            1815.88,
+            1818.88,
+            "Fenerbahce, Manchester United, half-past five on Thursday."
+        ],
+        "576": [
+            1818.88,
+            1820.88,
+            "A big game that for United."
+        ],
+        "577": [
+            1821.88,
+            1826.88,
+            "And Southampton against Inter Milan, the rematch of those two as well."
+        ],
+        "578": [
+            1834.88,
+            1839.88,
+            "You can see the Southampton-Inter Milan match on BT Sport 2HD and 4K UHD."
+        ],
+        "579": [
+            1840.88,
+            1841.88,
+            "On Thursday."
+        ],
+        "580": [
+            1844.88,
+            1847.88,
+            "Lee's come over to the right side to have a go at Moreno."
+        ],
+        "581": [
+            1848.88,
+            1849.88,
+            "I think he's come over this side."
+        ],
+        "582": [
+            1849.88,
+            1852.88,
+            "I think Alan Pardew's put him over here more for the defensive side."
+        ],
+        "583": [
+            1852.88,
+            1856.88,
+            "Moreno getting in, as we've been saying, but now he's going back over there, swapping again."
+        ],
+        "584": [
+            1856.88,
+            1860.88,
+            "Wouldn't be a bad idea to let Zaha go the other side, have a go at Clyne."
+        ],
+        "585": [
+            1861.88,
+            1864.88,
+            "Moreno, just so quick, never going to beat him for pace."
+        ],
+        "586": [
+            1864.88,
+            1866.88,
+            "I think it's just more little things, little decisions in moments."
+        ],
+        "587": [
+            1866.88,
+            1868.88,
+            "Knowing when to clear the ball, clear your lines."
+        ],
+        "588": [
+            1868.88,
+            1870.88,
+            "I think he could be a terrific left-back."
+        ],
+        "589": [
+            1870.88,
+            1873.88,
+            "Just needs to cut out some of those errors, I think, offensively."
+        ],
+        "590": [
+            1873.88,
+            1875.88,
+            "Against Liverpool, so much."
+        ],
+        "591": [
+            1896.88,
+            1909.88,
+            "Jürgen Klopp asking the question there of the fourth official as to why the free-kick was given."
+        ],
+        "592": [
+            1909.88,
+            1913.88,
+            "It didn't seem too much wrong with the challenge."
+        ],
+        "593": [
+            1917.88,
+            1919.88,
+            "On by Benteke."
+        ],
+        "594": [
+            1919.88,
+            1923.88,
+            "Here's Zaha, Palace have got plenty in the box for this attack."
+        ],
+        "595": [
+            1923.88,
+            1925.88,
+            "And they've got a goal as well."
+        ],
+        "596": [
+            1925.88,
+            1929.88,
+            "And it's come off the head of James McArthur for the second time in the game."
+        ],
+        "597": [
+            1931.88,
+            1934.88,
+            "He's made some terrific runs all season."
+        ],
+        "598": [
+            1934.88,
+            1937.88,
+            "These late runs from midfield."
+        ],
+        "599": [
+            1937.88,
+            1940.88,
+            "It's just brilliant play from McArthur."
+        ],
+        "600": [
+            1940.88,
+            1942.88,
+            "Just gambling."
+        ],
+        "601": [
+            1942.88,
+            1944.88,
+            "And Zaha does so well."
+        ],
+        "602": [
+            1947.88,
+            1949.88,
+            "Really good play."
+        ],
+        "603": [
+            1949.88,
+            1951.88,
+            "Benteke wins that header."
+        ],
+        "604": [
+            1951.88,
+            1953.88,
+            "Moreno just stands off Zaha."
+        ],
+        "605": [
+            1953.88,
+            1956.88,
+            "That's just a brilliant header."
+        ],
+        "606": [
+            1956.88,
+            1959.88,
+            "Just behind Lovren, I don't think he sees him."
+        ],
+        "607": [
+            1959.88,
+            1961.88,
+            "And he just times it beautifully."
+        ],
+        "608": [
+            1961.88,
+            1964.88,
+            "And gets a stunning goal from McArthur."
+        ],
+        "609": [
+            1964.88,
+            1966.88,
+            "Against his fourth of the season."
+        ],
+        "610": [
+            1966.88,
+            1968.88,
+            "It's a lovely little cross from Zaha, isn't it?"
+        ],
+        "611": [
+            1968.88,
+            1970.88,
+            "He's just cut across the ball, lovely."
+        ],
+        "612": [
+            1970.88,
+            1972.88,
+            "He's not gone for Benteke."
+        ],
+        "613": [
+            1972.88,
+            1976.88,
+            "He's put it in early, but again, we've said how well Moreno's played going forward."
+        ],
+        "614": [
+            1976.88,
+            1977.88,
+            "But he's got to get tighter."
+        ],
+        "615": [
+            1977.88,
+            1979.88,
+            "I said at the beginning, stop crosses."
+        ],
+        "616": [
+            1979.88,
+            1981.88,
+            "He's got to stop crosses."
+        ],
+        "617": [
+            1984.88,
+            1986.88,
+            "So 2-2."
+        ],
+        "618": [
+            1986.88,
+            1991.88,
+            "And McArthur, who's not renowned as a goal scorer in the Premier League,"
+        ],
+        "619": [
+            1991.88,
+            1994.88,
+            "has got four goals in his last six matches now."
+        ],
+        "620": [
+            1994.88,
+            1996.88,
+            "Two headers."
+        ],
+        "621": [
+            1996.88,
+            2000.88,
+            "And two attacks, essentially, from Crystal Palace."
+        ],
+        "622": [
+            2000.88,
+            2002.88,
+            "It draws a goal for them on both occasions."
+        ],
+        "623": [
+            2002.88,
+            2004.88,
+            "I think they need him to gamble from midfield."
+        ],
+        "624": [
+            2004.88,
+            2006.88,
+            "Make those forward runs."
+        ],
+        "625": [
+            2006.88,
+            2008.88,
+            "I'm going to play with the number 10 today."
+        ],
+        "626": [
+            2008.88,
+            2010.88,
+            "Ledley, Kabaye, just sitting him in for you,"
+        ],
+        "627": [
+            2010.88,
+            2013.88,
+            "allows him to get forward and just gamble."
+        ],
+        "628": [
+            2013.88,
+            2014.88,
+            "Again."
+        ],
+        "629": [
+            2017.88,
+            2021.88,
+            "It's interesting in the week that Jurgen Klopp felt the need to defend this centre-back,"
+        ],
+        "630": [
+            2021.88,
+            2023.88,
+            "Matip and Lovren."
+        ],
+        "631": [
+            2023.88,
+            2025.88,
+            "And they've got more work to do here."
+        ],
+        "632": [
+            2025.88,
+            2027.88,
+            "Lovren more comfortable that time with the ball on the ground."
+        ],
+        "633": [
+            2027.88,
+            2030.88,
+            "That's not a handball against Zaha, according to the officials."
+        ],
+        "634": [
+            2030.88,
+            2032.88,
+            "Kabaye."
+        ],
+        "635": [
+            2032.88,
+            2034.88,
+            "And then in towards Zaha, who is offside."
+        ],
+        "636": [
+            2035.88,
+            2037.88,
+            "It was Joe Ledley's fall in."
+        ],
+        "637": [
+            2039.88,
+            2043.88,
+            "Moreno's had an exceptional 30 minutes for the last three or four."
+        ],
+        "638": [
+            2043.88,
+            2045.88,
+            "Just starting to see him make a couple of errors."
+        ],
+        "639": [
+            2045.88,
+            2047.88,
+            "Again, decision-making in that area."
+        ],
+        "640": [
+            2047.88,
+            2048.88,
+            "Just clear your lines."
+        ],
+        "641": [
+            2048.88,
+            2049.88,
+            "Trying to play."
+        ],
+        "642": [
+            2049.88,
+            2050.88,
+            "Again, another one."
+        ],
+        "643": [
+            2052.88,
+            2053.88,
+            "Zaha's just offside."
+        ],
+        "644": [
+            2059.88,
+            2061.88,
+            "We've just seen the good and the bad of Moreno, haven't we?"
+        ],
+        "645": [
+            2061.88,
+            2064.88,
+            "And when you're playing against a side that maybe might have more control in the game,"
+        ],
+        "646": [
+            2064.88,
+            2067.88,
+            "your opponents, that's where it's a problem to him."
+        ],
+        "647": [
+            2067.88,
+            2068.88,
+            "You have to defend more."
+        ],
+        "648": [
+            2070.88,
+            2074.88,
+            "It's been a fantastic opening 35 minutes here at Selhurst Park."
+        ],
+        "649": [
+            2074.88,
+            2077.88,
+            "And now it's Liverpool's turn to come forward looking for a goal."
+        ],
+        "650": [
+            2079.88,
+            2080.88,
+            "In it goes from Klein."
+        ],
+        "651": [
+            2091.88,
+            2092.88,
+            "And it's in."
+        ],
+        "652": [
+            2098.88,
+            2101.88,
+            "Plenty of possession and goal attempts from Liverpool."
+        ],
+        "653": [
+            2101.88,
+            2106.88,
+            "But Crystal Palace haven't had the ball a lot, but when they have, it's quite clear there they've made it count."
+        ],
+        "654": [
+            2107.88,
+            2109.88,
+            "And that's the worrying thing for Liverpool."
+        ],
+        "655": [
+            2109.88,
+            2110.88,
+            "Offensively, they've played so well."
+        ],
+        "656": [
+            2110.88,
+            2113.88,
+            "Only two attacks from Palace and they scored on both."
+        ],
+        "657": [
+            2114.88,
+            2116.88,
+            "Seem to cut out those mistakes, Liverpool."
+        ],
+        "658": [
+            2116.88,
+            2119.88,
+            "Offensively, it just looks like they can score it every time."
+        ],
+        "659": [
+            2121.88,
+            2122.88,
+            "It's great for the neutral, isn't it?"
+        ],
+        "660": [
+            2122.88,
+            2126.88,
+            "There's so many teams in the Premier League in the early weeks of the season finding it hard at the back."
+        ],
+        "661": [
+            2127.88,
+            2129.88,
+            "Seeing examples here again today."
+        ],
+        "662": [
+            2130.88,
+            2131.88,
+            "Here's McArthur."
+        ],
+        "663": [
+            2131.88,
+            2134.88,
+            "Ben Teke's in there waiting for the cross."
+        ],
+        "664": [
+            2134.88,
+            2135.88,
+            "Lee as well."
+        ],
+        "665": [
+            2135.88,
+            2137.88,
+            "It's away by Mane for Liverpool."
+        ],
+        "666": [
+            2140.88,
+            2141.88,
+            "Now Kelly."
+        ],
+        "667": [
+            2145.88,
+            2146.88,
+            "Matip let it bounce."
+        ],
+        "668": [
+            2146.88,
+            2148.88,
+            "He's going to get the free kick."
+        ],
+        "669": [
+            2148.88,
+            2151.88,
+            "The assistance flag has been raised."
+        ],
+        "670": [
+            2153.88,
+            2156.88,
+            "Well, in the same way, Coutinho's causing Crystal Palace problems."
+        ],
+        "671": [
+            2156.88,
+            2159.88,
+            "McArthur is popping up so many dangerous areas."
+        ],
+        "672": [
+            2161.88,
+            2162.88,
+            "Offside there."
+        ],
+        "673": [
+            2166.88,
+            2167.88,
+            "And again, that's the ball."
+        ],
+        "674": [
+            2167.88,
+            2169.88,
+            "Just standing up again from Zaha."
+        ],
+        "675": [
+            2169.88,
+            2171.88,
+            "It's just a wonderful head up from McArthur."
+        ],
+        "676": [
+            2171.88,
+            2174.88,
+            "He's already doubled last season's total for goals."
+        ],
+        "677": [
+            2174.88,
+            2176.88,
+            "He only got two the whole of last season."
+        ],
+        "678": [
+            2176.88,
+            2180.88,
+            "He's got four before Halloween this time around."
+        ],
+        "679": [
+            2180.88,
+            2181.88,
+            "James McArthur."
+        ],
+        "680": [
+            2182.88,
+            2183.88,
+            "He's doing a different job."
+        ],
+        "681": [
+            2183.88,
+            2186.88,
+            "He used to sit last season more in front of that back four."
+        ],
+        "682": [
+            2187.88,
+            2188.88,
+            "Here's Firmino."
+        ],
+        "683": [
+            2189.88,
+            2190.88,
+            "Coutinho's in there."
+        ],
+        "684": [
+            2191.88,
+            2193.88,
+            "Mondanda got something on it."
+        ],
+        "685": [
+            2193.88,
+            2194.88,
+            "So did the post."
+        ],
+        "686": [
+            2195.88,
+            2198.88,
+            "Not often you see Philippe Coutinho threatening with his own."
+        ],
+        "687": [
+            2199.88,
+            2201.88,
+            "That's a wonderful save, isn't it?"
+        ],
+        "688": [
+            2201.88,
+            2203.88,
+            "Coutinho comes in there and from nowhere, really,"
+        ],
+        "689": [
+            2203.88,
+            2205.88,
+            "no one's really picking him up."
+        ],
+        "690": [
+            2205.88,
+            2207.88,
+            "They're not expecting him to take the head up."
+        ],
+        "691": [
+            2207.88,
+            2211.88,
+            "But again, Liverpool showing how good they are offensively."
+        ],
+        "692": [
+            2212.88,
+            2213.88,
+            "Coutinho to Firmino."
+        ],
+        "693": [
+            2219.88,
+            2220.88,
+            "Coutinho."
+        ],
+        "694": [
+            2221.88,
+            2223.88,
+            "Tomkins was there and then Clyde Jamali!"
+        ],
+        "695": [
+            2223.88,
+            2224.88,
+            "And he's got it."
+        ],
+        "696": [
+            2224.88,
+            2225.88,
+            "Coutinho."
+        ],
+        "697": [
+            2226.88,
+            2228.88,
+            "Tomkins was there and then Clyde Jamali!"
+        ],
+        "698": [
+            2228.88,
+            2229.88,
+            "And he's missed the sitter."
+        ],
+        "699": [
+            2231.88,
+            2234.88,
+            "Some of the football Liverpool have played has been exceptional."
+        ],
+        "700": [
+            2234.88,
+            2237.88,
+            "Just one and two touch, beautiful to watch."
+        ],
+        "701": [
+            2238.88,
+            2241.88,
+            "Even this attack, Mane's got a score."
+        ],
+        "702": [
+            2241.88,
+            2243.88,
+            "Coutinho just been magnificent."
+        ],
+        "703": [
+            2245.88,
+            2246.88,
+            "Great ball from Clyde."
+        ],
+        "704": [
+            2246.88,
+            2248.88,
+            "Just a bit of composure."
+        ],
+        "705": [
+            2248.88,
+            2250.88,
+            "Just hit the target, it's in."
+        ],
+        "706": [
+            2250.88,
+            2252.88,
+            "Look how many bodies Liverpool get forward."
+        ],
+        "707": [
+            2253.88,
+            2255.88,
+            "Coutinho's been the heart of everything."
+        ],
+        "708": [
+            2255.88,
+            2257.88,
+            "That's a great pick-up from Clyde."
+        ],
+        "709": [
+            2257.88,
+            2258.88,
+            "He's got a score."
+        ],
+        "710": [
+            2259.88,
+            2262.88,
+            "Didn't quite work hard enough to stay over the top of the ball."
+        ],
+        "711": [
+            2262.88,
+            2264.88,
+            "It's come for him in the..."
+        ],
+        "712": [
+            2264.88,
+            2265.88,
+            "This is the..."
+        ],
+        "713": [
+            2265.88,
+            2268.88,
+            "Coutinho's shown what a great save, double save actually."
+        ],
+        "714": [
+            2269.88,
+            2272.88,
+            "First one with his right, then his second with his left hand."
+        ],
+        "715": [
+            2272.88,
+            2275.88,
+            "But Liverpool, fantastic to watch, they really are."
+        ],
+        "716": [
+            2275.88,
+            2277.88,
+            "Of all the teams at the moment in the Premier League,"
+        ],
+        "717": [
+            2277.88,
+            2279.88,
+            "they're the team that you'd pay money to go and watch play."
+        ],
+        "718": [
+            2279.88,
+            2280.88,
+            "Fantastic."
+        ],
+        "719": [
+            2283.88,
+            2285.88,
+            "Go on, go on, go on!"
+        ],
+        "720": [
+            2289.88,
+            2292.88,
+            "Sane Omane, caught there by Ledley."
+        ],
+        "721": [
+            2294.88,
+            2296.88,
+            "It's the kind of first half that you don't want to end"
+        ],
+        "722": [
+            2296.88,
+            2299.88,
+            "because it's hard to work out what's going to happen next."
+        ],
+        "723": [
+            2305.88,
+            2308.88,
+            "Here's Moreno, it's been a real threat down the left-hand side"
+        ],
+        "724": [
+            2308.88,
+            2310.88,
+            "for Liverpool as an attacking player so far."
+        ],
+        "725": [
+            2310.88,
+            2313.88,
+            "Now Chan, Firmino..."
+        ],
+        "726": [
+            2313.88,
+            2317.88,
+            "And at last, a relatively comfortable moment for Mondanda."
+        ],
+        "727": [
+            2320.88,
+            2323.88,
+            "I think he's going to want this first half to end."
+        ],
+        "728": [
+            2324.88,
+            2326.88,
+            "That's a brilliant ball from Firmino."
+        ],
+        "729": [
+            2327.88,
+            2329.88,
+            "Coutinho just popped up all over the game."
+        ],
+        "730": [
+            2329.88,
+            2331.88,
+            "See, that just comes off Ward's hand, he's got his head up in the air."
+        ],
+        "731": [
+            2331.88,
+            2335.88,
+            "But it's a terrific save from Mondanda, such great reflexes."
+        ],
+        "732": [
+            2335.88,
+            2337.88,
+            "You saw him in the warm-up, not the biggest keeper,"
+        ],
+        "733": [
+            2337.88,
+            2339.88,
+            "just great reactions."
+        ],
+        "734": [
+            2341.88,
+            2343.88,
+            "Go on, go on!"
+        ],
+        "735": [
+            2350.88,
+            2351.88,
+            "Izaha."
+        ],
+        "736": [
+            2355.88,
+            2357.88,
+            "Kavai lifts one in, Matip away."
+        ],
+        "737": [
+            2358.88,
+            2360.88,
+            "There's a bit of space behind Kelly."
+        ],
+        "738": [
+            2361.88,
+            2365.88,
+            "For Mane, goes to Lallana, and then to Coutinho."
+        ],
+        "739": [
+            2367.88,
+            2368.88,
+            "And then Adam Lallana!"
+        ],
+        "740": [
+            2370.88,
+            2372.88,
+            "That's a confident defending from Tompkins,"
+        ],
+        "741": [
+            2372.88,
+            2375.88,
+            "knew exactly where he was, and did the right thing."
+        ],
+        "742": [
+            2375.88,
+            2377.88,
+            "It's just an unbelievable counter-attack."
+        ],
+        "743": [
+            2378.88,
+            2382.88,
+            "Liverpool break so quickly, surprise that Palace are so open."
+        ],
+        "744": [
+            2382.88,
+            2386.88,
+            "But Coutinho always seems to just know where all the players are."
+        ],
+        "745": [
+            2386.88,
+            2387.88,
+            "Great reverse pass."
+        ],
+        "746": [
+            2388.88,
+            2390.88,
+            "And you're right, that's terrific defending from Tompkins."
+        ],
+        "747": [
+            2390.88,
+            2391.88,
+            "Firmino..."
+        ],
+        "748": [
+            2392.88,
+            2394.88,
+            "Let's have a look at this header here, Owen."
+        ],
+        "749": [
+            2394.88,
+            2396.88,
+            "Is there a handball in there from Ward?"
+        ],
+        "750": [
+            2396.88,
+            2398.88,
+            "Yeah, it just comes off his hand there."
+        ],
+        "751": [
+            2398.88,
+            2401.88,
+            "Probably brings it back on target, almost looked like he was going wide."
+        ],
+        "752": [
+            2401.88,
+            2404.88,
+            "His hand's in an awkward position, no question."
+        ],
+        "753": [
+            2406.88,
+            2409.88,
+            "And it's just enough to bring it back towards the goalkeeper"
+        ],
+        "754": [
+            2409.88,
+            2410.88,
+            "to make the save."
+        ],
+        "755": [
+            2413.88,
+            2415.88,
+            "And that break from Liverpool, what football."
+        ],
+        "756": [
+            2415.88,
+            2418.88,
+            "And the overlap from Lallana, just making the spare man,"
+        ],
+        "757": [
+            2418.88,
+            2420.88,
+            "identifying when you make that spare man."
+        ],
+        "758": [
+            2420.88,
+            2421.88,
+            "Brilliant play."
+        ],
+        "759": [
+            2421.88,
+            2423.88,
+            "Howard Webber is with us at Selhurst Park,"
+        ],
+        "760": [
+            2423.88,
+            2426.88,
+            "he's made it here for the BT Scores studio this afternoon,"
+        ],
+        "761": [
+            2426.88,
+            2428.88,
+            "he's had a look at that and he says quite rightly"
+        ],
+        "762": [
+            2428.88,
+            2431.88,
+            "that had Andre Marriner or one of the assistants seen that,"
+        ],
+        "763": [
+            2431.88,
+            2434.88,
+            "he would have given a penalty to Liverpool for the handball by Ward."
+        ],
+        "764": [
+            2434.88,
+            2437.88,
+            "Just to clear that up, that's a poor pass by Carrières."
+        ],
+        "765": [
+            2447.88,
+            2448.88,
+            "There's Lee."
+        ],
+        "766": [
+            2449.88,
+            2451.88,
+            "Loughran was out there quickly."
+        ],
+        "767": [
+            2457.88,
+            2460.88,
+            "A couple of interesting Premier League matches on the horizon"
+        ],
+        "768": [
+            2460.88,
+            2461.88,
+            "next weekend for you."
+        ],
+        "769": [
+            2461.88,
+            2463.88,
+            "Saturday, five o'clock, the usual time,"
+        ],
+        "770": [
+            2463.88,
+            2467.88,
+            "Chelsea against Everton, BT Sport, 1HD, 4K UHD."
+        ],
+        "771": [
+            2467.88,
+            2470.88,
+            "And a bonus for you on Sunday, the North London derby"
+        ],
+        "772": [
+            2470.88,
+            2474.88,
+            "with Premier League title implications, Arsenal against Tottenham,"
+        ],
+        "773": [
+            2474.88,
+            2476.88,
+            "and the coverage starts at a quarter past eleven."
+        ],
+        "774": [
+            2482.88,
+            2485.88,
+            "Got a save, Glenn, just going back to the James Tomkins defending"
+        ],
+        "775": [
+            2485.88,
+            2488.88,
+            "with a game being played as frantically as this one,"
+        ],
+        "776": [
+            2488.88,
+            2491.88,
+            "to show that kind of good posture was really impressive."
+        ],
+        "777": [
+            2491.88,
+            2495.88,
+            "There's Liverpool defending to do here, which Carrières is able to do."
+        ],
+        "778": [
+            2495.88,
+            2498.88,
+            "It was, Fletcher, we talk about midfield players and creative players,"
+        ],
+        "779": [
+            2498.88,
+            2502.88,
+            "their awareness, but sometimes you've got to give credit to defenders."
+        ],
+        "780": [
+            2502.88,
+            2506.88,
+            "He's awareness, he was aware exactly where the attacker was on his shoulder,"
+        ],
+        "781": [
+            2506.88,
+            2508.88,
+            "knew what he was doing, great defending."
+        ],
+        "782": [
+            2509.88,
+            2511.88,
+            "Here's Adam Lallana for Liverpool."
+        ],
+        "783": [
+            2511.88,
+            2513.88,
+            "Clynes made another run from right back,"
+        ],
+        "784": [
+            2513.88,
+            2515.88,
+            "he was tracked this time, though, by Zaha."
+        ],
+        "785": [
+            2516.88,
+            2519.88,
+            "Now Chan, Kabai got a foot in."
+        ],
+        "786": [
+            2520.88,
+            2523.88,
+            "Zaha can bring Crystal Pallis forward the other way."
+        ],
+        "787": [
+            2524.88,
+            2528.88,
+            "Skips away from Henderson, Benteke on the move in the middle."
+        ],
+        "788": [
+            2528.88,
+            2532.88,
+            "Zaha had the option to put it in there, didn't he, towards Christian Benteke."
+        ],
+        "789": [
+            2533.88,
+            2535.88,
+            "It's been a brilliant half of football."
+        ],
+        "790": [
+            2536.88,
+            2538.88,
+            "Both teams attacking every opportunity."
+        ],
+        "791": [
+            2538.88,
+            2542.88,
+            "It's Coutinho, so hard to find in this Liverpool team"
+        ],
+        "792": [
+            2542.88,
+            2544.88,
+            "because of the positions he takes up."
+        ],
+        "793": [
+            2545.88,
+            2549.88,
+            "Mane to Cline, and that's a Liverpool corner."
+        ],
+        "794": [
+            2550.88,
+            2554.88,
+            "Coutinho's been exceptional, his awareness on the football pitch is remarkable."
+        ],
+        "795": [
+            2554.88,
+            2557.88,
+            "He just always seems to know where every player's going to be."
+        ],
+        "796": [
+            2558.88,
+            2561.88,
+            "He just dictates the tempo, as good as anyone in the Premier League."
+        ],
+        "797": [
+            2562.88,
+            2565.88,
+            "Liverpool's two centre-backs have made their way forward."
+        ],
+        "798": [
+            2565.88,
+            2568.88,
+            "Lovren's already left his mark on the game."
+        ],
+        "799": [
+            2569.88,
+            2571.88,
+            "From a Liverpool corner, this one from the other side."
+        ],
+        "800": [
+            2573.88,
+            2575.88,
+            "In towards Matip!"
+        ],
+        "801": [
+            2575.88,
+            2577.88,
+            "And they've got another one, Liverpool!"
+        ],
+        "802": [
+            2577.88,
+            2580.88,
+            "And both centre-backs on the score sheet."
+        ],
+        "803": [
+            2581.88,
+            2583.88,
+            "And it's a goal for Liverpool."
+        ],
+        "804": [
+            2584.88,
+            2586.88,
+            "And it's a goal for Liverpool."
+        ],
+        "805": [
+            2586.88,
+            2588.88,
+            "And they've got another one, Liverpool!"
+        ],
+        "806": [
+            2588.88,
+            2592.88,
+            "And both centre-backs on the score sheet from corners."
+        ],
+        "807": [
+            2593.88,
+            2595.88,
+            "Joel Matip's first goal for Liverpool,"
+        ],
+        "808": [
+            2595.88,
+            2597.88,
+            "powered in at Selhurst Park."
+        ],
+        "809": [
+            2602.88,
+            2604.88,
+            "Well, again, it's just a brilliant ball in."
+        ],
+        "810": [
+            2605.88,
+            2607.88,
+            "Exception delivery from Coutinho."
+        ],
+        "811": [
+            2608.88,
+            2610.88,
+            "And that's as free a header as you like from Matip."
+        ],
+        "812": [
+            2612.88,
+            2614.88,
+            "And Danda does well to react."
+        ],
+        "813": [
+            2615.88,
+            2617.88,
+            "Nobody near him whatsoever."
+        ],
+        "814": [
+            2617.88,
+            2618.88,
+            "Tompkins is chasing him."
+        ],
+        "815": [
+            2619.88,
+            2621.88,
+            "Crystal Palace offensively all over the place."
+        ],
+        "816": [
+            2621.88,
+            2623.88,
+            "Yeah, you see it again, Tompkins is marking him,"
+        ],
+        "817": [
+            2623.88,
+            2625.88,
+            "but he gets caught with a group of players"
+        ],
+        "818": [
+            2625.88,
+            2628.88,
+            "and tries to get round the back of the group of players"
+        ],
+        "819": [
+            2628.88,
+            2630.88,
+            "to mark his man, and it is poor defending."
+        ],
+        "820": [
+            2630.88,
+            2632.88,
+            "We praised him a minute ago, Tompkins,"
+        ],
+        "821": [
+            2632.88,
+            2634.88,
+            "but this time it was down to him."
+        ],
+        "822": [
+            2634.88,
+            2636.88,
+            "Great delivery as well from Coutinho."
+        ],
+        "823": [
+            2636.88,
+            2637.88,
+            "Beautifully flighted in."
+        ],
+        "824": [
+            2639.88,
+            2642.88,
+            "Well, it's been the first half of the season so far, Haslund,"
+        ],
+        "825": [
+            2642.88,
+            2644.88,
+            "in the Premier League, five goals,"
+        ],
+        "826": [
+            2644.88,
+            2648.88,
+            "and Liverpool ahead for the third time in 44 minutes."
+        ],
+        "827": [
+            2648.88,
+            2650.88,
+            "I'm almost certain he's not going to finish 3-2."
+        ],
+        "828": [
+            2651.88,
+            2653.88,
+            "Definitely more goals than this."
+        ],
+        "829": [
+            2653.88,
+            2655.88,
+            "He won't be happy defensively, or offensively."
+        ],
+        "830": [
+            2655.88,
+            2657.88,
+            "They've been magnificent, Liverpool."
+        ],
+        "831": [
+            2659.88,
+            2661.88,
+            "He'll be even less happy defensively in the moment,"
+        ],
+        "832": [
+            2661.88,
+            2662.88,
+            "won't he, Alan Pardew?"
+        ],
+        "833": [
+            2664.88,
+            2666.88,
+            "Sure he'll be saying to his players at half-time"
+        ],
+        "834": [
+            2666.88,
+            2668.88,
+            "that you can legislate for Liverpool scoring goals"
+        ],
+        "835": [
+            2668.88,
+            2670.88,
+            "with a slick football,"
+        ],
+        "836": [
+            2670.88,
+            2672.88,
+            "but the fact they've conceded two from corners"
+        ],
+        "837": [
+            2672.88,
+            2674.88,
+            "will infuriate him."
+        ],
+        "838": [
+            2674.88,
+            2676.88,
+            "They've got quite a significant height advantage as well,"
+        ],
+        "839": [
+            2676.88,
+            2678.88,
+            "Crystal Palace, as a team here today."
+        ],
+        "840": [
+            2679.88,
+            2681.88,
+            "They've just been second best on set pieces."
+        ],
+        "841": [
+            2681.88,
+            2683.88,
+            "The delivery's been exceptional from Liverpool."
+        ],
+        "842": [
+            2683.88,
+            2686.88,
+            "But have people willing to go win the ball?"
+        ],
+        "843": [
+            2686.88,
+            2688.88,
+            "Liverpool have been better in that phase."
+        ],
+        "844": [
+            2694.88,
+            2695.88,
+            "Scott down on his way in,"
+        ],
+        "845": [
+            2695.88,
+            2698.88,
+            "and no defender got more goals in the league than he did last season."
+        ]
+    }
+}

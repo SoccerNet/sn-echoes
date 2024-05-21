@@ -1,0 +1,3439 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            5.0,
+            "VfB has the chance to spend half the season."
+        ],
+        "1": [
+            5.0,
+            7.0,
+            "Half the game time."
+        ],
+        "2": [
+            7.0,
+            9.02,
+            "Half the game time."
+        ],
+        "3": [
+            9.02,
+            11.02,
+            "Half the game time."
+        ],
+        "4": [
+            11.02,
+            13.02,
+            "Half the game time."
+        ],
+        "5": [
+            13.02,
+            15.02,
+            "Half the game time."
+        ],
+        "6": [
+            15.02,
+            17.02,
+            "Half the game time."
+        ],
+        "7": [
+            17.02,
+            19.02,
+            "Half the game time."
+        ],
+        "8": [
+            19.02,
+            21.02,
+            "Half the game time."
+        ],
+        "9": [
+            21.02,
+            23.02,
+            "Half the game time."
+        ],
+        "10": [
+            23.02,
+            25.02,
+            "Half the game time."
+        ],
+        "11": [
+            25.02,
+            27.02,
+            "Half the game time."
+        ],
+        "12": [
+            27.02,
+            29.02,
+            "Half the game time."
+        ],
+        "13": [
+            29.02,
+            31.02,
+            "Half the game time."
+        ],
+        "14": [
+            31.02,
+            33.02,
+            "Half the game time."
+        ],
+        "15": [
+            33.02,
+            35.02,
+            "Half the game time."
+        ],
+        "16": [
+            35.02,
+            37.02,
+            "Half the game time."
+        ],
+        "17": [
+            37.02,
+            39.02,
+            "Half the game time."
+        ],
+        "18": [
+            39.02,
+            41.02,
+            "Half the game time."
+        ],
+        "19": [
+            41.02,
+            43.02,
+            "Half the game time."
+        ],
+        "20": [
+            43.02,
+            45.02,
+            "Half the game time."
+        ],
+        "21": [
+            45.02,
+            47.02,
+            "Half the game time."
+        ],
+        "22": [
+            47.02,
+            49.02,
+            "Half the game time."
+        ],
+        "23": [
+            49.02,
+            51.02,
+            "Half the game time."
+        ],
+        "24": [
+            51.02,
+            53.02,
+            "Half the game time."
+        ],
+        "25": [
+            53.02,
+            55.02,
+            "Half the game time."
+        ],
+        "26": [
+            55.02,
+            57.02,
+            "Half the game time."
+        ],
+        "27": [
+            57.02,
+            59.02,
+            "Half the game time."
+        ],
+        "28": [
+            59.02,
+            61.02,
+            "Half the game time."
+        ],
+        "29": [
+            61.02,
+            63.02,
+            "Half the game time."
+        ],
+        "30": [
+            63.02,
+            65.02,
+            "Half the game time."
+        ],
+        "31": [
+            65.02,
+            67.02,
+            "Half the game time."
+        ],
+        "32": [
+            67.02,
+            69.02,
+            "Half the game time."
+        ],
+        "33": [
+            69.02,
+            71.02,
+            "Half the game time."
+        ],
+        "34": [
+            71.02,
+            73.02,
+            "Half the game time."
+        ],
+        "35": [
+            73.02,
+            75.02,
+            "Half the game time."
+        ],
+        "36": [
+            75.02,
+            77.02,
+            "Half the game time."
+        ],
+        "37": [
+            77.02,
+            79.02,
+            "Half the game time."
+        ],
+        "38": [
+            79.02,
+            81.02,
+            "Half the game time."
+        ],
+        "39": [
+            81.02,
+            83.02,
+            "Half the game time."
+        ],
+        "40": [
+            83.02,
+            85.02,
+            "Half the game time."
+        ],
+        "41": [
+            85.02,
+            87.02,
+            "Half the game time."
+        ],
+        "42": [
+            87.02,
+            89.02,
+            "Half the game time."
+        ],
+        "43": [
+            89.02,
+            91.02,
+            "Half the game time."
+        ],
+        "44": [
+            91.02,
+            93.02,
+            "Half the game time."
+        ],
+        "45": [
+            93.02,
+            95.02,
+            "Half the game time."
+        ],
+        "46": [
+            95.02,
+            97.02,
+            "Half the game time."
+        ],
+        "47": [
+            97.02,
+            99.02,
+            "Half the game time."
+        ],
+        "48": [
+            99.02,
+            101.02,
+            "Half the game time."
+        ],
+        "49": [
+            101.02,
+            103.02,
+            "Half the game time."
+        ],
+        "50": [
+            103.02,
+            105.02,
+            "Half the game time."
+        ],
+        "51": [
+            105.02,
+            107.02,
+            "Half the game time."
+        ],
+        "52": [
+            107.02,
+            109.02,
+            "Half the game time."
+        ],
+        "53": [
+            109.02,
+            111.02,
+            "Half the game time."
+        ],
+        "54": [
+            111.02,
+            113.02,
+            "Half the game time."
+        ],
+        "55": [
+            113.02,
+            115.02,
+            "There are already 3 home defeats today."
+        ],
+        "56": [
+            117.02,
+            119.02,
+            "All Away."
+        ],
+        "57": [
+            119.02,
+            121.02,
+            "All without their own goal."
+        ],
+        "58": [
+            123.02,
+            125.02,
+            "0.3 at Bayern."
+        ],
+        "59": [
+            125.02,
+            127.02,
+            "0.1 at Borussia Dortmund."
+        ],
+        "60": [
+            127.02,
+            129.02,
+            "Is there the first home defeat today?"
+        ],
+        "61": [
+            143.02,
+            149.66,
+            "Overall a decent game."
+        ],
+        "62": [
+            149.66,
+            155.02,
+            "Timo Werner received a single yellow card from Sascha Stegemann."
+        ],
+        "63": [
+            155.02,
+            159.62,
+            "But it was okay because he kept the sock on it."
+        ],
+        "64": [
+            159.62,
+            162.42,
+            "Otherwise a very fair football game."
+        ],
+        "65": [
+            162.42,
+            166.38,
+            "Forsberg with the free kick for RB Leipzig."
+        ],
+        "66": [
+            167.38,
+            169.38,
+            "Werner Adler."
+        ],
+        "67": [
+            172.98,
+            174.98,
+            "And offside."
+        ],
+        "68": [
+            181.38,
+            183.38,
+            "Ilsanca."
+        ],
+        "69": [
+            196.38,
+            206.38,
+            "One of Wallacey's few mistakes."
+        ],
+        "70": [
+            206.38,
+            210.38,
+            "That also fits Wallacey and Jung in the center."
+        ],
+        "71": [
+            214.38,
+            216.38,
+            "Keita Halstenberg."
+        ],
+        "72": [
+            219.38,
+            221.38,
+            "First leg, by the way, 4 to 0."
+        ],
+        "73": [
+            221.38,
+            223.38,
+            "Forsberg with a full penalty."
+        ],
+        "74": [
+            223.38,
+            225.38,
+            "Then three more joker goals."
+        ],
+        "75": [
+            225.38,
+            228.38,
+            "Werner, who came off the bench at the time, scored twice."
+        ],
+        "76": [
+            228.38,
+            230.38,
+            "Selke."
+        ],
+        "77": [
+            230.38,
+            232.38,
+            "A goal scored 0 to 0."
+        ],
+        "78": [
+            232.38,
+            234.38,
+            "Stood at halftime in the Voxburg Stadium."
+        ],
+        "79": [
+            240.38,
+            242.38,
+            "Offside, yes."
+        ],
+        "80": [
+            251.38,
+            254.38,
+            "That was the right decision."
+        ],
+        "81": [
+            282.38,
+            284.38,
+            "That was the right decision."
+        ],
+        "82": [
+            292.38,
+            294.38,
+            "From Zscholek."
+        ],
+        "83": [
+            295.38,
+            297.38,
+            "For Woods."
+        ],
+        "84": [
+            297.38,
+            299.38,
+            "Against Orban."
+        ],
+        "85": [
+            299.38,
+            301.38,
+            "Keita."
+        ],
+        "86": [
+            302.38,
+            304.38,
+            "And then the goalkeeper."
+        ],
+        "87": [
+            304.38,
+            306.38,
+            "Against Ilsanca."
+        ],
+        "88": [
+            306.38,
+            308.38,
+            "The one who makes it strong."
+        ],
+        "89": [
+            308.38,
+            311.38,
+            "Against the fast Hamburg center forward."
+        ],
+        "90": [
+            315.38,
+            317.38,
+            "He scored four goals."
+        ],
+        "91": [
+            317.38,
+            319.38,
+            "On matchday 9."
+        ],
+        "92": [
+            319.38,
+            321.38,
+            "Away game."
+        ],
+        "93": [
+            321.38,
+            325.38,
+            "He saw red because of something Dominic Heinz did."
+        ],
+        "94": [
+            325.38,
+            327.38,
+            "He was suspended for three games."
+        ],
+        "95": [
+            327.38,
+            329.38,
+            "Keita."
+        ],
+        "96": [
+            331.38,
+            333.38,
+            "So he has the goalkeeping style."
+        ],
+        "97": [
+            333.38,
+            335.38,
+            "So that was the penalty ban."
+        ],
+        "98": [
+            335.38,
+            337.38,
+            "That was not good."
+        ],
+        "99": [
+            337.38,
+            339.38,
+            "That could be something."
+        ],
+        "100": [
+            339.38,
+            341.38,
+            "Miller."
+        ],
+        "101": [
+            341.38,
+            344.38,
+            "Müller and Kostic are on the side."
+        ],
+        "102": [
+            344.38,
+            347.38,
+            "But the passes have to be more precise."
+        ],
+        "103": [
+            347.38,
+            350.38,
+            "Basically the only flaw in the HSV game."
+        ],
+        "104": [
+            350.38,
+            352.38,
+            "That's the situation from before."
+        ],
+        "105": [
+            352.38,
+            354.38,
+            "Ilsanca was great."
+        ],
+        "106": [
+            354.38,
+            356.38,
+            "Against Bobby Wood."
+        ],
+        "107": [
+            356.38,
+            359.38,
+            "The only flaw in the HSV game."
+        ],
+        "108": [
+            359.38,
+            361.38,
+            "Be played forward."
+        ],
+        "109": [
+            369.38,
+            371.38,
+            "Keita Forsberg."
+        ],
+        "110": [
+            373.38,
+            380.38,
+            "We can go through the reserve benches from right to left for you, ladies and gentlemen."
+        ],
+        "111": [
+            380.38,
+            383.38,
+            "Ralf Hasenüttl can only change once more."
+        ],
+        "112": [
+            384.38,
+            391.38,
+            "Berg was certainly someone who could enrich the offensive with his speed Müller for the goal,"
+        ],
+        "113": [
+            391.38,
+            399.38,
+            "Kedirer for the central midfield, Berg the addressed for the attack, Schmitz full-back and Kaiseroffensive midfielder,"
+        ],
+        "114": [
+            399.38,
+            401.38,
+            "The captain of this team."
+        ],
+        "115": [
+            403.38,
+            407.38,
+            "And HSV and its coach Markus Gieswald still have all the options."
+        ],
+        "116": [
+            407.38,
+            412.38,
+            "Let's first look at Keita, Papadopoulos in between and another double situation for HSV."
+        ],
+        "117": [
+            413.38,
+            416.38,
+            "Good came from offside, that's also correct."
+        ],
+        "118": [
+            416.38,
+            420.38,
+            "HSV, Martenia for goal, Diekmeier right defender, Djuru for central defense,"
+        ],
+        "119": [
+            420.38,
+            427.38,
+            "Douglas Santos left-back, Lazorga clear for the attack center, Hand for the ten and Ekdal for the defensive midfield."
+        ],
+        "120": [
+            442.38,
+            463.38,
+            "Bernardo, past Kostic, Faustberg, he's good, he's good, he's good, he's good,"
+        ],
+        "121": [
+            464.38,
+            477.38,
+            "Bernardo, past Kostic, Faustberg, here on the left is Keita square first, Keita goes through the center with Faustberg,"
+        ],
+        "122": [
+            477.38,
+            480.38,
+            "There's Werner and then there's no forward meter."
+        ],
+        "123": [
+            480.38,
+            492.38,
+            "Faustberg, past Müller, Faustberg with Keita, Keita deflected, Keita again,"
+        ],
+        "124": [
+            492.38,
+            504.38,
+            "Arnzenberg, Sabitzer moved over to the left side, one for Werner and that's the chance, the follow-up chance for Demme."
+        ],
+        "125": [
+            505.38,
+            514.38,
+            "For the first time, a kind of power play situation for Leipzig and HSV's counter-attack opportunity would have to be out of bounds again."
+        ],
+        "126": [
+            514.38,
+            521.38,
+            "Ilsanke and Aubahn do that very skillfully and that is ultimately the only weapon,"
+        ],
+        "127": [
+            521.38,
+            526.38,
+            "To get the fast Hanseatics under control to some extent."
+        ],
+        "128": [
+            526.38,
+            530.38,
+            "Aubahn took two or three steps in the right direction in good time."
+        ],
+        "129": [
+            544.38,
+            552.38,
+            "It's always fun, Ralf Hasenruther said, to wear ourselves out at every home game and give the people here in the city a nice weekend."
+        ],
+        "130": [
+            553.38,
+            559.38,
+            "It's been like that so far. Eight wins, one draw against Borussia Mönchengladbach."
+        ],
+        "131": [
+            559.38,
+            572.38,
+            "And Papadopoulos with a tactical foul, for which he gets yellow, apologizes to Faustberg after he had previously thanked Sascha Stegemann."
+        ],
+        "132": [
+            573.38,
+            575.38,
+            "Decision okay."
+        ],
+        "133": [
+            578.38,
+            581.38,
+            "Here's Sakai versus Keita again."
+        ],
+        "134": [
+            584.38,
+            587.38,
+            "The ball had something to do with this situation on the edge."
+        ],
+        "135": [
+            587.38,
+            593.38,
+            "HSV shouldn't have complained if Sascha Stegemann had assessed this situation differently."
+        ],
+        "136": [
+            593.38,
+            598.38,
+            "Because he didn't play the ball, Sakai, blocked the opponent and brought him down."
+        ],
+        "137": [
+            599.38,
+            601.38,
+            "Keita."
+        ],
+        "138": [
+            614.38,
+            618.38,
+            "Another chance to counterattack, but the ball was difficult to control for Bobby Wood."
+        ],
+        "139": [
+            619.38,
+            623.38,
+            "HSV survived the first ten minutes since the restart without any damage."
+        ],
+        "140": [
+            623.38,
+            626.38,
+            "Without conceding a goal, Selke hasn't had any action yet."
+        ],
+        "141": [
+            626.38,
+            635.38,
+            "The audience is there, realizes that today could be a special day and that the team, the host team, needs all the support they can get."
+        ],
+        "142": [
+            635.38,
+            637.38,
+            "And that's what we see here in the city."
+        ],
+        "143": [
+            637.38,
+            639.38,
+            "And that's what we see here in the city."
+        ],
+        "144": [
+            640.38,
+            648.38,
+            "The audience is there, realizes that today could be a special day and that the team, the host team, needs all the support they can get."
+        ],
+        "145": [
+            648.38,
+            650.38,
+            "Against an extremely strong opponent."
+        ],
+        "146": [
+            670.38,
+            672.38,
+            "Selke."
+        ],
+        "147": [
+            672.38,
+            674.38,
+            "Report Obolos."
+        ],
+        "148": [
+            674.38,
+            676.38,
+            "With the pike."
+        ],
+        "149": [
+            680.38,
+            682.38,
+            "There's room for Werner here."
+        ],
+        "150": [
+            683.38,
+            685.38,
+            "Now Sakai back against Werner."
+        ],
+        "151": [
+            685.38,
+            687.38,
+            "Forsberg getting stronger."
+        ],
+        "152": [
+            689.38,
+            691.38,
+            "Forsberg prevails against Wallace here."
+        ],
+        "153": [
+            691.38,
+            693.38,
+            "And then it will be a goal for HSV."
+        ],
+        "154": [
+            693.38,
+            695.38,
+            "And then it will be a goal for HSV."
+        ],
+        "155": [
+            695.38,
+            697.38,
+            "And then it will be a goal for HSV."
+        ],
+        "156": [
+            697.38,
+            699.38,
+            "Forsberg prevails against Wallace here."
+        ],
+        "157": [
+            715.38,
+            719.38,
+            "Another new one, Mergey Mavray, who came from Cologne."
+        ],
+        "158": [
+            720.38,
+            726.38,
+            "And today and currently, Ralf Hasenhüttl's team is very worried."
+        ],
+        "159": [
+            728.38,
+            735.38,
+            "The Bulls still had no chance to score in the second half."
+        ],
+        "160": [
+            737.38,
+            739.38,
+            "Kostic after Bernardo's mistake."
+        ],
+        "161": [
+            741.38,
+            744.38,
+            "That he can then make up for himself."
+        ],
+        "162": [
+            745.38,
+            747.38,
+            "Together with Ilsanca Keita."
+        ],
+        "163": [
+            747.38,
+            750.38,
+            "Very risky but made strong by Keita."
+        ],
+        "164": [
+            751.38,
+            753.38,
+            "Forsberg."
+        ],
+        "165": [
+            757.38,
+            764.38,
+            "Merber handball when receiving the ball from Marcel Halstenberg."
+        ],
+        "166": [
+            787.38,
+            789.38,
+            "And then the leadership of Sakai."
+        ],
+        "167": [
+            790.38,
+            792.38,
+            "And then the leadership of Sakai."
+        ],
+        "168": [
+            817.38,
+            819.38,
+            "And then the leadership of Sakai."
+        ],
+        "169": [
+            819.38,
+            821.38,
+            "And then the leadership of Sakai."
+        ],
+        "170": [
+            821.38,
+            823.38,
+            "And then the leadership of Sakai."
+        ],
+        "171": [
+            823.38,
+            825.38,
+            "And then the leadership of Sakai."
+        ],
+        "172": [
+            825.38,
+            827.38,
+            "And then the leadership of Sakai."
+        ],
+        "173": [
+            827.38,
+            829.38,
+            "And then the leadership of Sakai."
+        ],
+        "174": [
+            829.38,
+            831.38,
+            "And then the leadership of Sakai."
+        ],
+        "175": [
+            831.38,
+            833.38,
+            "And then the leadership of Sakai."
+        ],
+        "176": [
+            833.38,
+            835.38,
+            "And then the leadership of Sakai."
+        ],
+        "177": [
+            835.38,
+            837.38,
+            "And then the leadership of Sakai."
+        ],
+        "178": [
+            837.38,
+            839.38,
+            "And then the leadership of Sakai."
+        ],
+        "179": [
+            839.38,
+            841.38,
+            "And then the leadership of Sakai."
+        ],
+        "180": [
+            841.38,
+            843.38,
+            "And then the leadership of Sakai."
+        ],
+        "181": [
+            843.38,
+            845.38,
+            "And then the leadership of Sakai."
+        ],
+        "182": [
+            845.38,
+            847.38,
+            "And then the leadership of Sakai."
+        ],
+        "183": [
+            875.38,
+            877.38,
+            "And then the leadership of Sakai."
+        ],
+        "184": [
+            877.38,
+            879.38,
+            "And then the leadership of Sakai."
+        ],
+        "185": [
+            879.38,
+            881.38,
+            "And then the leadership of Sakai."
+        ],
+        "186": [
+            881.38,
+            883.38,
+            "And then the leadership of Sakai."
+        ],
+        "187": [
+            883.38,
+            885.38,
+            "And then the leadership of Sakai."
+        ],
+        "188": [
+            885.38,
+            887.38,
+            "And then the leadership of Sakai."
+        ],
+        "189": [
+            887.38,
+            889.38,
+            "And then the leadership of Sakai."
+        ],
+        "190": [
+            889.38,
+            891.38,
+            "And then the leadership of Sakai."
+        ],
+        "191": [
+            891.38,
+            893.38,
+            "And then the leadership of Sakai."
+        ],
+        "192": [
+            893.38,
+            895.38,
+            "And then the leadership of Sakai."
+        ],
+        "193": [
+            895.38,
+            897.38,
+            "And then the leadership of Sakai."
+        ],
+        "194": [
+            897.38,
+            899.38,
+            "And then the leadership of Sakai."
+        ],
+        "195": [
+            899.38,
+            901.38,
+            "And then the leadership of Sakai."
+        ],
+        "196": [
+            901.38,
+            903.38,
+            "And then the leadership of Sakai."
+        ],
+        "197": [
+            903.38,
+            905.38,
+            "And then the leadership of Sakai."
+        ],
+        "198": [
+            905.38,
+            907.38,
+            "And then the leadership of Sakai."
+        ],
+        "199": [
+            907.38,
+            909.38,
+            "And then the leadership of Sakai."
+        ],
+        "200": [
+            909.38,
+            911.38,
+            "And then the leadership of Sakai."
+        ],
+        "201": [
+            911.38,
+            913.38,
+            "And then the leadership of Sakai."
+        ],
+        "202": [
+            913.38,
+            915.38,
+            "And then the leadership of Sakai."
+        ],
+        "203": [
+            915.38,
+            917.38,
+            "And then the leadership of Sakai."
+        ],
+        "204": [
+            917.38,
+            919.38,
+            "And then the leadership of Sakai."
+        ],
+        "205": [
+            919.38,
+            921.38,
+            "And then the leadership of Sakai."
+        ],
+        "206": [
+            921.38,
+            923.38,
+            "And then the leadership of Sakai."
+        ],
+        "207": [
+            923.38,
+            925.38,
+            "And then the leadership of Sakai."
+        ],
+        "208": [
+            925.38,
+            927.38,
+            "And then the leadership of Sakai."
+        ],
+        "209": [
+            927.38,
+            929.38,
+            "And then the leadership of Sakai."
+        ],
+        "210": [
+            929.38,
+            931.38,
+            "And then the leadership of Sakai."
+        ],
+        "211": [
+            931.38,
+            933.38,
+            "And then the leadership of Sakai."
+        ],
+        "212": [
+            933.38,
+            935.38,
+            "And then the leadership of Sakai."
+        ],
+        "213": [
+            935.38,
+            937.38,
+            "And then the leadership of Sakai."
+        ],
+        "214": [
+            937.38,
+            939.38,
+            "And then the leadership of Sakai."
+        ],
+        "215": [
+            939.38,
+            941.38,
+            "And then the leadership of Sakai."
+        ],
+        "216": [
+            941.38,
+            943.38,
+            "And then the leadership of Sakai."
+        ],
+        "217": [
+            943.38,
+            945.38,
+            "And then the leadership of Sakai."
+        ],
+        "218": [
+            945.38,
+            947.38,
+            "And then the leadership of Sakai."
+        ],
+        "219": [
+            947.38,
+            949.38,
+            "And then the leadership of Sakai."
+        ],
+        "220": [
+            949.38,
+            951.38,
+            "And then the leadership of Sakai."
+        ],
+        "221": [
+            951.38,
+            953.38,
+            "And then the leadership of Sakai."
+        ],
+        "222": [
+            953.38,
+            955.38,
+            "And then the leadership of Sakai."
+        ],
+        "223": [
+            955.38,
+            957.38,
+            "And then the leadership of Sakai."
+        ],
+        "224": [
+            957.38,
+            959.38,
+            "And then the leadership of Sakai."
+        ],
+        "225": [
+            959.38,
+            961.38,
+            "And then the leadership of Sakai."
+        ],
+        "226": [
+            961.38,
+            963.38,
+            "And then the leadership of Sakai."
+        ],
+        "227": [
+            963.38,
+            965.38,
+            "And then the leadership of Sakai."
+        ],
+        "228": [
+            965.38,
+            967.38,
+            "And then the leadership of Sakai."
+        ],
+        "229": [
+            967.38,
+            969.38,
+            "And then the leadership of Sakai."
+        ],
+        "230": [
+            969.38,
+            971.38,
+            "And then the leadership of Sakai."
+        ],
+        "231": [
+            971.38,
+            973.38,
+            "And then the leadership of Sakai."
+        ],
+        "232": [
+            973.38,
+            975.38,
+            "And then the leadership of Sakai."
+        ],
+        "233": [
+            975.38,
+            977.38,
+            "And then the leadership of Sakai."
+        ],
+        "234": [
+            977.38,
+            979.38,
+            "And then the leadership of Sakai."
+        ],
+        "235": [
+            979.38,
+            981.38,
+            "And then the leadership of Sakai."
+        ],
+        "236": [
+            981.38,
+            983.38,
+            "And then the leadership of Sakai."
+        ],
+        "237": [
+            983.38,
+            985.38,
+            "And then the leadership of Sakai."
+        ],
+        "238": [
+            985.38,
+            987.38,
+            "And then the leadership of Sakai."
+        ],
+        "239": [
+            987.38,
+            989.38,
+            "And then the leadership of Sakai."
+        ],
+        "240": [
+            989.38,
+            991.38,
+            "And then the leadership of Sakai."
+        ],
+        "241": [
+            991.38,
+            993.38,
+            "And then the leadership of Sakai."
+        ],
+        "242": [
+            993.38,
+            995.38,
+            "And then the leadership of Sakai."
+        ],
+        "243": [
+            995.38,
+            997.38,
+            "And then the leadership of Sakai."
+        ],
+        "244": [
+            997.38,
+            999.38,
+            "And then the leadership of Sakai."
+        ],
+        "245": [
+            999.38,
+            1001.38,
+            "And then the leadership of Sakai."
+        ],
+        "246": [
+            1001.38,
+            1003.38,
+            "And then the leadership of Sakai."
+        ],
+        "247": [
+            1003.38,
+            1005.38,
+            "And then the leadership of Sakai."
+        ],
+        "248": [
+            1005.38,
+            1007.38,
+            "And then the leadership of Sakai."
+        ],
+        "249": [
+            1007.38,
+            1009.38,
+            "And then the leadership of Sakai."
+        ],
+        "250": [
+            1009.38,
+            1011.38,
+            "And then the leadership of Sakai."
+        ],
+        "251": [
+            1011.38,
+            1013.38,
+            "And then the leadership of Sakai."
+        ],
+        "252": [
+            1013.38,
+            1015.38,
+            "And then the leadership of Sakai."
+        ],
+        "253": [
+            1015.38,
+            1017.38,
+            "And then the leadership of Sakai."
+        ],
+        "254": [
+            1017.38,
+            1019.38,
+            "And then the leadership of Sakai."
+        ],
+        "255": [
+            1019.38,
+            1021.38,
+            "And then the leadership of Sakai."
+        ],
+        "256": [
+            1021.38,
+            1023.38,
+            "And then the leadership of Sakai."
+        ],
+        "257": [
+            1023.38,
+            1025.38,
+            "And then the leadership of Sakai."
+        ],
+        "258": [
+            1025.38,
+            1027.38,
+            "And then the leadership of Sakai."
+        ],
+        "259": [
+            1027.38,
+            1029.38,
+            "And then the leadership of Sakai."
+        ],
+        "260": [
+            1029.38,
+            1031.38,
+            "And then the leadership of Sakai."
+        ],
+        "261": [
+            1031.38,
+            1033.38,
+            "And then the leadership of Sakai."
+        ],
+        "262": [
+            1033.38,
+            1035.38,
+            "And then the leadership of Sakai."
+        ],
+        "263": [
+            1035.38,
+            1037.38,
+            "And then the leadership of Sakai."
+        ],
+        "264": [
+            1037.38,
+            1039.38,
+            "And then the leadership of Sakai."
+        ],
+        "265": [
+            1039.38,
+            1041.38,
+            "And then the leadership of Sakai."
+        ],
+        "266": [
+            1041.38,
+            1043.38,
+            "And then the leadership of Sakai."
+        ],
+        "267": [
+            1043.38,
+            1045.38,
+            "And then the leadership of Sakai."
+        ],
+        "268": [
+            1045.38,
+            1047.38,
+            "And then the leadership of Sakai."
+        ],
+        "269": [
+            1047.38,
+            1049.38,
+            "And then the leadership of Sakai."
+        ],
+        "270": [
+            1049.38,
+            1051.38,
+            "And then the leadership of Sakai."
+        ],
+        "271": [
+            1051.38,
+            1053.38,
+            "And then the leadership of Sakai."
+        ],
+        "272": [
+            1053.38,
+            1055.38,
+            "And then the leadership of Sakai."
+        ],
+        "273": [
+            1055.38,
+            1057.38,
+            "And then the leadership of Sakai."
+        ],
+        "274": [
+            1057.38,
+            1059.38,
+            "And then the leadership of Sakai."
+        ],
+        "275": [
+            1059.38,
+            1061.38,
+            "And then the leadership of Sakai."
+        ],
+        "276": [
+            1061.38,
+            1063.38,
+            "And then the leadership of Sakai."
+        ],
+        "277": [
+            1063.38,
+            1065.38,
+            "And then the leadership of Sakai."
+        ],
+        "278": [
+            1065.38,
+            1067.38,
+            "And then the leadership of Sakai."
+        ],
+        "279": [
+            1067.38,
+            1069.38,
+            "And then the leadership of Sakai."
+        ],
+        "280": [
+            1069.38,
+            1071.38,
+            "And then the leadership of Sakai."
+        ],
+        "281": [
+            1071.38,
+            1073.38,
+            "And then the leadership of Sakai."
+        ],
+        "282": [
+            1073.38,
+            1075.38,
+            "And then the leadership of Sakai."
+        ],
+        "283": [
+            1075.38,
+            1077.38,
+            "And then the leadership of Sakai."
+        ],
+        "284": [
+            1077.38,
+            1079.38,
+            "And then the leadership of Sakai."
+        ],
+        "285": [
+            1079.38,
+            1081.38,
+            "And then the leadership of Sakai."
+        ],
+        "286": [
+            1081.38,
+            1083.38,
+            "And then the leadership of Sakai."
+        ],
+        "287": [
+            1083.38,
+            1085.38,
+            "And then the leadership of Sakai."
+        ],
+        "288": [
+            1085.38,
+            1087.38,
+            "And then the leadership of Sakai."
+        ],
+        "289": [
+            1087.38,
+            1089.38,
+            "And then the leadership of Sakai."
+        ],
+        "290": [
+            1089.38,
+            1091.38,
+            "And then the leadership of Sakai."
+        ],
+        "291": [
+            1091.38,
+            1093.38,
+            "And then the leadership of Sakai."
+        ],
+        "292": [
+            1093.38,
+            1095.38,
+            "And then the leadership of Sakai."
+        ],
+        "293": [
+            1095.38,
+            1097.38,
+            "And then the leadership of Sakai."
+        ],
+        "294": [
+            1097.38,
+            1099.38,
+            "And then the leadership of Sakai."
+        ],
+        "295": [
+            1099.38,
+            1101.38,
+            "And then the leadership of Sakai."
+        ],
+        "296": [
+            1102.36,
+            1104.36,
+            "And then the leadership of Sakai."
+        ],
+        "297": [
+            1112.38,
+            1114.38,
+            "Jens Mavrei."
+        ],
+        "298": [
+            1114.38,
+            1116.38,
+            "Jens Mavrei."
+        ],
+        "299": [
+            1117.36,
+            1118.38,
+            "Werner, Sabitzer and Selk,"
+        ],
+        "300": [
+            1119.36,
+            1121.38,
+            "Werner, Sabitzer and Selk,"
+        ],
+        "301": [
+            1121.38,
+            1123.38,
+            "now in the center."
+        ],
+        "302": [
+            1123.38,
+            1125.38,
+            "now in the center."
+        ],
+        "303": [
+            1125.38,
+            1127.38,
+            "Ceuta is moving up."
+        ],
+        "304": [
+            1127.38,
+            1130.38,
+            "He's no longer on the map."
+        ],
+        "305": [
+            1130.38,
+            1133.38,
+            "He's no longer on the map."
+        ],
+        "306": [
+            1133.38,
+            1136.38,
+            "He's no longer on the map."
+        ],
+        "307": [
+            1136.38,
+            1139.38,
+            "He's no longer on the map."
+        ],
+        "308": [
+            1139.38,
+            1142.38,
+            "He's no longer on the map."
+        ],
+        "309": [
+            1142.38,
+            1145.38,
+            "He's no longer on the map."
+        ],
+        "310": [
+            1145.38,
+            1148.38,
+            "He's no longer on the map."
+        ],
+        "311": [
+            1148.38,
+            1151.38,
+            "He's no longer on the map."
+        ],
+        "312": [
+            1151.38,
+            1154.38,
+            "He's no longer on the map."
+        ],
+        "313": [
+            1154.38,
+            1157.38,
+            "He's no longer on the map."
+        ],
+        "314": [
+            1157.38,
+            1160.38,
+            "He's no longer on the map."
+        ],
+        "315": [
+            1160.38,
+            1163.38,
+            "He's no longer on the map."
+        ],
+        "316": [
+            1163.38,
+            1166.38,
+            "He's no longer on the map."
+        ],
+        "317": [
+            1166.38,
+            1169.38,
+            "He's no longer on the map."
+        ],
+        "318": [
+            1169.38,
+            1172.38,
+            "He's no longer on the map."
+        ],
+        "319": [
+            1172.38,
+            1175.38,
+            "He's no longer on the map."
+        ],
+        "320": [
+            1175.38,
+            1178.38,
+            "He's no longer on the map."
+        ],
+        "321": [
+            1178.38,
+            1181.38,
+            "He's no longer on the map."
+        ],
+        "322": [
+            1182.38,
+            1185.38,
+            "Berlin is exactly the opposite of Leipzig."
+        ],
+        "323": [
+            1185.38,
+            1188.38,
+            "Berlin is exactly the opposite of Leipzig."
+        ],
+        "324": [
+            1192.38,
+            1195.38,
+            "Halstenberg with the left, Vosberg with the right."
+        ],
+        "325": [
+            1195.38,
+            1198.38,
+            "Halstenberg with the left, Vosberg with the right."
+        ],
+        "326": [
+            1198.38,
+            1206.38,
+            "If of course a number for the Leipzig native René Adler, whose family in the"
+        ],
+        "327": [
+            1206.38,
+            1212.86,
+            "The stadium is normally, as you could read, all RB Leipzig fans, today they are pressing"
+        ],
+        "328": [
+            1212.86,
+            1216.38,
+            "Logically the fingers are crossed for the Filius and thus for the HSV."
+        ],
+        "329": [
+            1228.38,
+            1232.38,
+            "From Zscholecki."
+        ],
+        "330": [
+            1232.38,
+            1254.38,
+            "It became interesting again for Kulacsi."
+        ],
+        "331": [
+            1254.38,
+            1258.38,
+            "But it was already out in the goal."
+        ],
+        "332": [
+            1258.38,
+            1261.38,
+            "Cross ball from Kostic."
+        ],
+        "333": [
+            1261.38,
+            1278.38,
+            "He was injured during this mission against Selke."
+        ],
+        "334": [
+            1278.38,
+            1289.38,
+            "Walcy again."
+        ],
+        "335": [
+            1289.38,
+            1300.38,
+            "So Leipzig, the best promoted team of all time in the Bundesliga until"
+        ],
+        "336": [
+            1300.38,
+            1301.38,
+            "13."
+        ],
+        "337": [
+            1301.38,
+            1302.38,
+            "Game day without defeat."
+        ],
+        "338": [
+            1302.38,
+            1306.38,
+            "Ten wins, three draws, then it was 0-1 in Ingolstadt."
+        ],
+        "339": [
+            1307.38,
+            1310.38,
+            "And then in the defeat there was Selke again against Mavra."
+        ],
+        "340": [
+            1310.38,
+            1313.38,
+            "I think he's going to get the heel off."
+        ],
+        "341": [
+            1313.38,
+            1316.38,
+            "Unintentionally by Davy Selke."
+        ],
+        "342": [
+            1316.38,
+            1321.38,
+            "Then between the 6th and the 13th."
+        ],
+        "343": [
+            1321.38,
+            1324.38,
+            "Leipzig had eight wins in a row on match day."
+        ],
+        "344": [
+            1324.38,
+            1330.38,
+            "Everything went great, except for the Pokalhaus in the first round against Dynamo Dresden."
+        ],
+        "345": [
+            1330.38,
+            1334.38,
+            "And initially it was the away defeats in the last few weeks that were a bit"
+        ],
+        "346": [
+            1334.38,
+            1335.38,
+            "Aur made."
+        ],
+        "347": [
+            1335.38,
+            1341.38,
+            "There may be one today at the end and after the game against HSV"
+        ],
+        "348": [
+            1341.38,
+            1343.38,
+            "Other thematic mix."
+        ],
+        "349": [
+            1343.38,
+            1348.38,
+            "It would then be the first home defeat since April last year."
+        ],
+        "350": [
+            1348.38,
+            1359.38,
+            "And to be honest, Halstenberg from a distance in the second round so far, but above that"
+        ],
+        "351": [
+            1360.38,
+            1366.38,
+            "There was no situation where you would have had to worry about HSV."
+        ],
+        "352": [
+            1366.38,
+            1369.38,
+            "There was once a tricky scene in the 16 meter room."
+        ],
+        "353": [
+            1369.38,
+            1371.38,
+            "Was it a foul by Sakai?"
+        ],
+        "354": [
+            1371.38,
+            1373.38,
+            "Was there no foul play?"
+        ],
+        "355": [
+            1373.38,
+            1381.38,
+            "But Leipzig not with the force, not with the playing class, with the hard pace,"
+        ],
+        "356": [
+            1381.38,
+            1386.38,
+            "With which Ralf Hasenüttel's team usually works at home."
+        ],
+        "357": [
+            1390.38,
+            1394.38,
+            "Papadopoulos and Timo Werner."
+        ],
+        "358": [
+            1404.38,
+            1408.38,
+            "So he's doing it with so much passion, with so much soul."
+        ],
+        "359": [
+            1408.38,
+            1412.38,
+            "You actually want a player like that in your own jersey."
+        ],
+        "360": [
+            1412.38,
+            1418.38,
+            "And I think to myself, if Ralf Hasenüttel sees him playing football here today, maybe"
+        ],
+        "361": [
+            1418.38,
+            1421.38,
+            "He also has a tear in his eye."
+        ],
+        "362": [
+            1421.38,
+            1425.38,
+            "So you want to have a central defender like that on the pitch."
+        ],
+        "363": [
+            1448.38,
+            1450.38,
+            "Mavrai against Selke again."
+        ],
+        "364": [
+            1455.38,
+            1458.38,
+            "Sabitzer versus Wallersee."
+        ],
+        "365": [
+            1460.38,
+            1462.38,
+            "Demme, he's good for Forsberg."
+        ],
+        "366": [
+            1462.38,
+            1466.38,
+            "And there is Selke, who is then hindered by his own husband and that was exactly the crux of the matter."
+        ],
+        "367": [
+            1466.38,
+            1483.38,
+            "That was a really nice combination with one or two passes, then played to the front"
+        ],
+        "368": [
+            1483.38,
+            1485.38,
+            "and then they hinder each other."
+        ],
+        "369": [
+            1485.38,
+            1490.38,
+            "So maybe it's a day when it's just not supposed to be."
+        ],
+        "370": [
+            1497.38,
+            1499.38,
+            "Well struck."
+        ],
+        "371": [
+            1506.38,
+            1510.38,
+            "Fight for three and a half million last summer from Union Berlin."
+        ],
+        "372": [
+            1510.38,
+            1511.38,
+            "Here we look again."
+        ],
+        "373": [
+            1511.38,
+            1513.38,
+            "There's Bernardo's hand outside."
+        ],
+        "374": [
+            1515.38,
+            1517.38,
+            "And then Selke's hand."
+        ],
+        "375": [
+            1517.38,
+            1519.38,
+            "And then Bernardo's hand."
+        ],
+        "376": [
+            1519.38,
+            1521.38,
+            "And then Bernardo's hand."
+        ],
+        "377": [
+            1521.38,
+            1523.38,
+            "And then Bernardo's hand."
+        ],
+        "378": [
+            1523.38,
+            1525.38,
+            "There's Bernardo's hand outside."
+        ],
+        "379": [
+            1526.38,
+            1530.38,
+            "At these temperatures, even a wiper can be uncomfortable."
+        ],
+        "380": [
+            1530.38,
+            1532.38,
+            "But he shouldn't make more of it now than it was."
+        ],
+        "381": [
+            1533.38,
+            1535.38,
+            "Last change that Ralf Hasenröthl can make."
+        ],
+        "382": [
+            1535.38,
+            1539.38,
+            "He changes his full-back, takes Bernardo down."
+        ],
+        "383": [
+            1543.38,
+            1546.38,
+            "And he brings Benno Schmitz into the team."
+        ],
+        "384": [
+            1547.38,
+            1549.38,
+            "There's the full-back."
+        ],
+        "385": [
+            1549.38,
+            1552.38,
+            "He is 22 years old, born in Munich."
+        ],
+        "386": [
+            1552.38,
+            1555.38,
+            "When I was younger, I played for FC Bayern."
+        ],
+        "387": [
+            1564.38,
+            1566.38,
+            "A change in position."
+        ],
+        "388": [
+            1566.38,
+            1569.38,
+            "Now it goes straight to Schmitz's right defensive side."
+        ],
+        "389": [
+            1569.38,
+            1571.38,
+            "He's missing."
+        ],
+        "390": [
+            1571.38,
+            1573.38,
+            "Holpi is here."
+        ],
+        "391": [
+            1573.38,
+            1575.38,
+            "And then Keita."
+        ],
+        "392": [
+            1575.38,
+            1577.38,
+            "Marginal chance for Kostic."
+        ],
+        "393": [
+            1580.38,
+            1582.38,
+            "And then the shot."
+        ],
+        "394": [
+            1582.38,
+            1584.38,
+            "That was unnecessary now."
+        ],
+        "395": [
+            1598.38,
+            1600.38,
+            "That was unnecessary now."
+        ],
+        "396": [
+            1600.38,
+            1602.38,
+            "By Stefan Ilsanker."
+        ],
+        "397": [
+            1602.38,
+            1604.38,
+            "Into the One Philipp Kostic."
+        ],
+        "398": [
+            1610.38,
+            1612.38,
+            "And now is the chance for Kostic."
+        ],
+        "399": [
+            1612.38,
+            1614.38,
+            "He already said it."
+        ],
+        "400": [
+            1614.38,
+            1616.38,
+            "You can show yellow."
+        ],
+        "401": [
+            1616.38,
+            1618.38,
+            "But he moderates that too."
+        ],
+        "402": [
+            1618.38,
+            1620.38,
+            "That's right."
+        ],
+        "403": [
+            1620.38,
+            1622.38,
+            "A good 20 more minutes."
+        ],
+        "404": [
+            1640.38,
+            1643.38,
+            "Every interruption is good for HSV."
+        ],
+        "405": [
+            1643.38,
+            1646.38,
+            "Every interruption is poison for the flow of the game."
+        ],
+        "406": [
+            1646.38,
+            1649.38,
+            "And RB Leipzig's need for combinations."
+        ],
+        "407": [
+            1658.38,
+            1660.38,
+            "Deme Keita."
+        ],
+        "408": [
+            1660.38,
+            1662.38,
+            "Stick with Wallacey."
+        ],
+        "409": [
+            1662.38,
+            1664.38,
+            "Force back."
+        ],
+        "410": [
+            1665.38,
+            1667.38,
+            "The ball is gone."
+        ],
+        "411": [
+            1667.38,
+            1669.38,
+            "The ball is gone."
+        ],
+        "412": [
+            1669.38,
+            1671.38,
+            "The ball is gone."
+        ],
+        "413": [
+            1671.38,
+            1673.38,
+            "Werner versus Sakai."
+        ],
+        "414": [
+            1673.38,
+            1675.38,
+            "Werner versus Müller."
+        ],
+        "415": [
+            1675.38,
+            1677.38,
+            "The decision was an advantage."
+        ],
+        "416": [
+            1677.38,
+            1679.38,
+            "Schmitz with his first offensive action."
+        ],
+        "417": [
+            1679.38,
+            1681.38,
+            "Schmitz."
+        ],
+        "418": [
+            1681.38,
+            1683.38,
+            "Selke."
+        ],
+        "419": [
+            1683.38,
+            1685.38,
+            "Selke over."
+        ],
+        "420": [
+            1685.38,
+            1687.38,
+            "To Mavrai."
+        ],
+        "421": [
+            1687.38,
+            1689.38,
+            "Again nothing."
+        ],
+        "422": [
+            1694.38,
+            1696.38,
+            "The ball is gone."
+        ],
+        "423": [
+            1696.38,
+            1698.38,
+            "The ball is gone."
+        ],
+        "424": [
+            1698.38,
+            1700.38,
+            "The ball is gone."
+        ],
+        "425": [
+            1700.38,
+            1702.38,
+            "The ball is gone."
+        ],
+        "426": [
+            1702.38,
+            1704.38,
+            "The ball is gone."
+        ],
+        "427": [
+            1704.38,
+            1706.38,
+            "The ball is gone."
+        ],
+        "428": [
+            1706.38,
+            1708.38,
+            "The ball is gone."
+        ],
+        "429": [
+            1708.38,
+            1710.38,
+            "The ball is gone."
+        ],
+        "430": [
+            1710.38,
+            1712.38,
+            "The ball is gone."
+        ],
+        "431": [
+            1712.38,
+            1714.38,
+            "The ball is gone."
+        ],
+        "432": [
+            1714.38,
+            1716.38,
+            "The ball is gone."
+        ],
+        "433": [
+            1716.38,
+            1718.38,
+            "The ball is gone."
+        ],
+        "434": [
+            1718.38,
+            1720.38,
+            "The ball is gone."
+        ],
+        "435": [
+            1720.38,
+            1722.38,
+            "The ball is gone."
+        ],
+        "436": [
+            1722.38,
+            1724.38,
+            "The ball is gone."
+        ],
+        "437": [
+            1724.38,
+            1726.38,
+            "The ball is gone."
+        ],
+        "438": [
+            1726.38,
+            1728.38,
+            "The ball is gone."
+        ],
+        "439": [
+            1728.38,
+            1730.38,
+            "The ball is gone."
+        ],
+        "440": [
+            1730.38,
+            1732.38,
+            "That was a good shot."
+        ],
+        "441": [
+            1732.38,
+            1734.38,
+            "That was a good shot."
+        ],
+        "442": [
+            1734.38,
+            1736.38,
+            "The club was thrilled."
+        ],
+        "443": [
+            1736.38,
+            1738.38,
+            "The club was thrilled."
+        ],
+        "444": [
+            1738.38,
+            1740.38,
+            "That cost him a regular place."
+        ],
+        "445": [
+            1740.38,
+            1742.38,
+            "That cost him a regular place."
+        ],
+        "446": [
+            1742.38,
+            1744.38,
+            "The two central defenders."
+        ],
+        "447": [
+            1744.38,
+            1746.38,
+            "That's what they wanted."
+        ],
+        "448": [
+            1746.38,
+            1748.38,
+            "That's what they wanted."
+        ],
+        "449": [
+            1748.38,
+            1750.38,
+            "The club has fulfilled the wishes."
+        ],
+        "450": [
+            1750.38,
+            1756.38,
+            "And the players seem to work immediately."
+        ],
+        "451": [
+            1763.38,
+            1765.38,
+            "At Borussia Dortmund we'll certainly just have to wait and see."
+        ],
+        "452": [
+            1765.38,
+            1772.38,
+            "Comes from a completely different climate zone, so you'll have to wait two or three games,"
+        ],
+        "453": [
+            1772.38,
+            1774.38,
+            "Whether he might then fall into a performance hole."
+        ],
+        "454": [
+            1774.38,
+            1777.38,
+            "But he was already strong in the cup against 1. FC Köln."
+        ],
+        "455": [
+            1777.38,
+            1781.38,
+            "He only had to be replaced after a good hour because he was in danger of receiving a yellow card."
+        ],
+        "456": [
+            1781.38,
+            1785.38,
+            "Mavray was basically full of energy at 1. FC Köln."
+        ],
+        "457": [
+            1785.38,
+            1786.38,
+            "Papadopoulos hardly played."
+        ],
+        "458": [
+            1786.38,
+            1792.38,
+            "And that's surprising that he's doing so well and playing so strong and stable."
+        ],
+        "459": [
+            1792.38,
+            1808.38,
+            "Fosberg, Halstenberg."
+        ],
+        "460": [
+            1808.38,
+            1813.38,
+            "It's just played right in the middle."
+        ],
+        "461": [
+            1813.38,
+            1814.38,
+            "Then it won't arrive."
+        ],
+        "462": [
+            1814.38,
+            1816.38,
+            "It continues via Keita."
+        ],
+        "463": [
+            1817.38,
+            1820.38,
+            "And Schmitz."
+        ],
+        "464": [
+            1820.38,
+            1824.38,
+            "And in the center Fosberg was lying on the ground, but didn't complain."
+        ],
+        "465": [
+            1824.38,
+            1828.38,
+            "I take that as an indication that there was nothing there either."
+        ],
+        "466": [
+            1829.38,
+            1847.38,
+            "Slight increase in chances for the RB from Leipzig in the second half."
+        ],
+        "467": [
+            1847.38,
+            1849.38,
+            "Halstenberg, Selke."
+        ],
+        "468": [
+            1849.38,
+            1851.38,
+            "Opportunities approaching."
+        ],
+        "469": [
+            1851.38,
+            1853.38,
+            "There was no clear opportunity."
+        ],
+        "470": [
+            1854.38,
+            1856.38,
+            "Holk like for HSV on the other side."
+        ],
+        "471": [
+            1856.38,
+            1861.38,
+            "And the continued shortcoming of Markus Gießloh's team."
+        ],
+        "472": [
+            1861.38,
+            1866.38,
+            "If there is one thing on an afternoon when a lot of things are going well for HSV,"
+        ],
+        "473": [
+            1866.38,
+            1871.38,
+            "It's the counterattacks that don't reach the goal."
+        ],
+        "474": [
+            1871.38,
+            1873.38,
+            "Otherwise they would probably be at peace."
+        ],
+        "475": [
+            1873.38,
+            1876.38,
+            "So there’s still an exciting final phase left."
+        ],
+        "476": [
+            1877.38,
+            1883.38,
+            "From Leipzig's point of view, there is a backlog that still needs to be dealt with in terms of time."
+        ],
+        "477": [
+            1883.38,
+            1886.38,
+            "But is it enough to be sporty, is it enough to be playful?"
+        ],
+        "478": [
+            1886.38,
+            1890.38,
+            "Or will there be a Hanseatic counterattack at some point?"
+        ],
+        "479": [
+            1890.38,
+            1891.38,
+            "There's Kostic."
+        ],
+        "480": [
+            1892.38,
+            1893.38,
+            "Craziness."
+        ],
+        "481": [
+            1893.38,
+            1894.38,
+            "Season."
+        ],
+        "482": [
+            1894.38,
+            1896.38,
+            "Twelve games from the start without a win."
+        ],
+        "483": [
+            1896.38,
+            1898.38,
+            "In the table since the third matchday."
+        ],
+        "484": [
+            1898.38,
+            1899.38,
+            "16."
+        ],
+        "485": [
+            1899.38,
+            1900.38,
+            "Or worse on the way."
+        ],
+        "486": [
+            1900.38,
+            1902.38,
+            "Otherwise it's a good chance for HSV."
+        ],
+        "487": [
+            1902.38,
+            1904.38,
+            "This is a good opportunity for HSV."
+        ],
+        "488": [
+            1904.38,
+            1906.38,
+            "This is a good opportunity for HSV."
+        ],
+        "489": [
+            1906.38,
+            1908.38,
+            "This is a good opportunity for HSV."
+        ],
+        "490": [
+            1908.38,
+            1910.38,
+            "This is a good opportunity for HSV."
+        ],
+        "491": [
+            1910.38,
+            1912.38,
+            "This is a good opportunity for HSV."
+        ],
+        "492": [
+            1912.38,
+            1914.38,
+            "This is a good opportunity for HSV."
+        ],
+        "493": [
+            1914.38,
+            1916.38,
+            "This is a good opportunity for HSV."
+        ],
+        "494": [
+            1916.38,
+            1918.38,
+            "This is a good opportunity for HSV."
+        ],
+        "495": [
+            1918.38,
+            1920.38,
+            "This is a good opportunity for HSV."
+        ],
+        "496": [
+            1921.38,
+            1923.38,
+            "On the fifth match day."
+        ],
+        "497": [
+            1923.38,
+            1924.38,
+            "A strong game."
+        ],
+        "498": [
+            1924.38,
+            1926.38,
+            "At home against Bayern."
+        ],
+        "499": [
+            1926.38,
+            1927.38,
+            "Narrowly lost."
+        ],
+        "500": [
+            1927.38,
+            1930.38,
+            "Then the dismissal of Bruno Labbadia."
+        ],
+        "501": [
+            1930.38,
+            1933.38,
+            "And the signing of Markus Gisdol."
+        ],
+        "502": [
+            1933.38,
+            1936.38,
+            "Who has won four times at HSV so far."
+        ],
+        "503": [
+            1936.38,
+            1937.38,
+            "Three draws."
+        ],
+        "504": [
+            1937.38,
+            1938.38,
+            "Lost seven times."
+        ],
+        "505": [
+            1938.38,
+            1941.38,
+            "Today that would be the right step."
+        ],
+        "506": [
+            1941.38,
+            1943.38,
+            "Today that would be the right step."
+        ],
+        "507": [
+            1943.38,
+            1947.38,
+            "Herbert Bruchhagen will certainly agree that too."
+        ],
+        "508": [
+            1950.38,
+            1953.38,
+            "Now comes the free shot."
+        ],
+        "509": [
+            1953.38,
+            1956.38,
+            "Now comes the free shot."
+        ],
+        "510": [
+            1956.38,
+            1958.38,
+            "The free shot."
+        ],
+        "511": [
+            1958.38,
+            1960.38,
+            "The free shot."
+        ],
+        "512": [
+            1960.38,
+            1962.38,
+            "The free shot."
+        ],
+        "513": [
+            1962.38,
+            1965.38,
+            "It's about the goal."
+        ],
+        "514": [
+            1965.38,
+            1969.38,
+            "It's about the goal."
+        ],
+        "515": [
+            1969.38,
+            1972.38,
+            "That wasn't a good chance."
+        ],
+        "516": [
+            1972.38,
+            1975.38,
+            "That wasn't a good chance."
+        ],
+        "517": [
+            1975.38,
+            1978.38,
+            "A clear shot."
+        ],
+        "518": [
+            1978.38,
+            1980.38,
+            "The man is in the middle."
+        ],
+        "519": [
+            1980.38,
+            1982.38,
+            "The man is in the middle."
+        ],
+        "520": [
+            1983.36,
+            1985.36,
+            "The man is in the middle."
+        ],
+        "521": [
+            1985.38,
+            1987.38,
+            "The man is in the middle."
+        ],
+        "522": [
+            1988.36,
+            1990.36,
+            "The man is in the middle."
+        ],
+        "523": [
+            1990.38,
+            1992.38,
+            "The man is in the middle."
+        ],
+        "524": [
+            1993.36,
+            1995.36,
+            "The man is in the middle."
+        ],
+        "525": [
+            1995.38,
+            1997.38,
+            "The man is in the middle."
+        ],
+        "526": [
+            1998.36,
+            2000.36,
+            "The man is in the middle."
+        ],
+        "527": [
+            2000.38,
+            2002.38,
+            "The man is in the middle."
+        ],
+        "528": [
+            2003.36,
+            2005.36,
+            "The man is in the middle."
+        ],
+        "529": [
+            2005.38,
+            2007.38,
+            "The man is in the middle."
+        ],
+        "530": [
+            2009.38,
+            2011.38,
+            "The man is in the middle."
+        ],
+        "531": [
+            2014.36,
+            2016.36,
+            "The man is in the middle."
+        ],
+        "532": [
+            2032.38,
+            2034.38,
+            "The man is in the middle."
+        ],
+        "533": [
+            2034.38,
+            2036.38,
+            "The man is in the middle."
+        ],
+        "534": [
+            2037.38,
+            2039.38,
+            "The man is in the middle."
+        ],
+        "535": [
+            2040.36,
+            2042.36,
+            "The man is in the middle."
+        ],
+        "536": [
+            2044.38,
+            2047.38,
+            "He also has to get back to competition practice first."
+        ],
+        "537": [
+            2048.36,
+            2050.38,
+            "It's his first game in 2017."
+        ],
+        "538": [
+            2051.36,
+            2053.38,
+            "On the 16th matchday, just before Christmas,"
+        ],
+        "539": [
+            2054.36,
+            2056.38,
+            "He left the pitch with a red card."
+        ],
+        "540": [
+            2057.36,
+            2059.38,
+            "He was suspended for three games."
+        ],
+        "541": [
+            2065.38,
+            2068.36,
+            "He kept laying down on the pitch."
+        ],
+        "542": [
+            2068.38,
+            2071.38,
+            "He kept laying down on the pitch."
+        ],
+        "543": [
+            2084.36,
+            2087.38,
+            "There is Nikolai Müller on the right edge of the picture."
+        ],
+        "544": [
+            2088.36,
+            2091.36,
+            "He kept laying down on the pitch."
+        ],
+        "545": [
+            2094.38,
+            2096.38,
+            "He had muscular problems."
+        ],
+        "546": [
+            2097.36,
+            2100.36,
+            "He kept laying down on the pitch."
+        ],
+        "547": [
+            2102.38,
+            2104.38,
+            "He's an edgy central defender."
+        ],
+        "548": [
+            2105.38,
+            2108.36,
+            "He kept laying down on the pitch."
+        ],
+        "549": [
+            2110.38,
+            2113.36,
+            "He kept laying down on the pitch."
+        ],
+        "550": [
+            2115.38,
+            2117.38,
+            "He is HSV's full-back."
+        ],
+        "551": [
+            2118.36,
+            2121.38,
+            "It's the first change among the guests."
+        ],
+        "552": [
+            2122.36,
+            2125.38,
+            "Markus Giesthol will use all three options."
+        ],
+        "553": [
+            2126.36,
+            2128.36,
+            "He's smart enough for that."
+        ],
+        "554": [
+            2135.38,
+            2138.36,
+            "He kept laying down on the pitch."
+        ],
+        "555": [
+            2140.38,
+            2143.36,
+            "He kept laying down on the pitch."
+        ],
+        "556": [
+            2145.38,
+            2148.36,
+            "He kept laying down on the pitch."
+        ],
+        "557": [
+            2150.38,
+            2152.38,
+            "That's not appropriate."
+        ],
+        "558": [
+            2153.36,
+            2156.38,
+            "That didn't happen quickly enough for the captain of RB Leipzig."
+        ],
+        "559": [
+            2157.36,
+            2160.38,
+            "That's why he threw the medical kit outwards."
+        ],
+        "560": [
+            2161.38,
+            2163.38,
+            "This is the 5th game."
+        ],
+        "561": [
+            2166.36,
+            2168.36,
+            "This is the 5th game."
+        ],
+        "562": [
+            2170.38,
+            2174.36,
+            "Sascha Schneegemann explains that this is not appropriate."
+        ],
+        "563": [
+            2174.38,
+            2176.38,
+            "This is the 5th game."
+        ],
+        "564": [
+            2179.36,
+            2181.36,
+            "That's stupid."
+        ],
+        "565": [
+            2181.38,
+            2183.36,
+            "That's stupid."
+        ],
+        "566": [
+            2183.38,
+            2185.36,
+            "That's stupid."
+        ],
+        "567": [
+            2185.38,
+            2187.36,
+            "That's stupid."
+        ],
+        "568": [
+            2187.38,
+            2189.36,
+            "That's stupid."
+        ],
+        "569": [
+            2190.38,
+            2192.36,
+            "That's stupid."
+        ],
+        "570": [
+            2195.36,
+            2197.38,
+            "That was VfB von Vorsberg."
+        ],
+        "571": [
+            2203.36,
+            2205.38,
+            "Very chic from Vorsberg."
+        ],
+        "572": [
+            2208.38,
+            2210.38,
+            "Werner tries to pass to Selke."
+        ],
+        "573": [
+            2212.38,
+            2214.38,
+            "And Papadopoulos in between."
+        ],
+        "574": [
+            2220.38,
+            2224.94,
+            "And here so much happens on the field."
+        ],
+        "575": [
+            2224.94,
+            2229.06,
+            "He's waving his arms around, wanting to change for a few moments."
+        ],
+        "576": [
+            2229.06,
+            2230.46,
+            "Dennis Diekmeier is standing by."
+        ],
+        "577": [
+            2230.46,
+            2234.7,
+            "And who will get them back together?"
+        ],
+        "578": [
+            2234.7,
+            2235.7,
+            "Papadopoulos."
+        ],
+        "579": [
+            2235.7,
+            2240.34,
+            "So Papadopoulos is also responsible for the hygiene in the team, for the unity in the team"
+        ],
+        "580": [
+            2240.34,
+            2241.78,
+            "Actually, you don't have to pay at all."
+        ],
+        "581": [
+            2241.78,
+            2245.5,
+            "Always there, always high fives."
+        ],
+        "582": [
+            2245.5,
+            2252.18,
+            "Here, for my taste, Wannessi goes in with the studs first, but gives right away"
+        ],
+        "583": [
+            2252.18,
+            2253.78,
+            "Probably a free kick for Hamburg."
+        ],
+        "584": [
+            2253.78,
+            2256.78,
+            "And that's Papadopoulos' rescue operation again."
+        ],
+        "585": [
+            2256.78,
+            2260.5,
+            "A primal force made flesh."
+        ],
+        "586": [
+            2260.5,
+            2264.82,
+            "Kostic is leaving."
+        ],
+        "587": [
+            2264.82,
+            2266.66,
+            "Defensive change, sure."
+        ],
+        "588": [
+            2266.66,
+            2274.74,
+            "And for the Serbian international striker, who played well, he also has an opportunity"
+        ],
+        "589": [
+            2274.74,
+            2276.02,
+            "To score a goal."
+        ],
+        "590": [
+            2276.02,
+            2281.38,
+            "Now Dennis Diekmeier."
+        ],
+        "591": [
+            2281.38,
+            2284.34,
+            "Nikolaj Müller changes sides, plays in the Kostic position."
+        ],
+        "592": [
+            2284.34,
+            2287.94,
+            "Diekmeier went to the right, plays in front of Sakai."
+        ],
+        "593": [
+            2287.94,
+            2289.78,
+            "This is Dennis Diekmeier's first action."
+        ],
+        "594": [
+            2304.74,
+            2314.7,
+            "Yes, and he can also throw in far, Dennis Diekmeier."
+        ],
+        "595": [
+            2314.7,
+            2322.1,
+            "But don't do that."
+        ],
+        "596": [
+            2322.1,
+            2323.1,
+            "Six and a half minutes left."
+        ],
+        "597": [
+            2323.1,
+            2333.98,
+            "After the 2-0 win in Darmstadt last autumn, HSV is heading towards its"
+        ],
+        "598": [
+            2334.22,
+            2336.62,
+            "Second away win this season."
+        ],
+        "599": [
+            2336.62,
+            2338.58,
+            "And that's second in the table."
+        ],
+        "600": [
+            2338.58,
+            2339.58,
+            "So that would be a statement."
+        ],
+        "601": [
+            2339.58,
+            2349.14,
+            "Just like the fact, ladies and gentlemen, that we broadcast tennis, the ATP Master Series."
+        ],
+        "602": [
+            2349.14,
+            2353.26,
+            "We'll start our broadcast in Rotterdam next Monday."
+        ],
+        "603": [
+            2353.26,
+            2362.26,
+            "It will be a great tournament, even if Wawrinka and Nadal have canceled."
+        ],
+        "604": [
+            2362.26,
+            2365.14,
+            "Monday from 12.30 p.m., Sky Sport 1 HD."
+        ],
+        "605": [
+            2392.26,
+            2415.5,
+            "Halstenberg and Forstberg."
+        ],
+        "606": [
+            2416.5,
+            2423.5,
+            "Werner against Jung, who then holds."
+        ],
+        "607": [
+            2423.5,
+            2425.5,
+            "Tactical command yellow against the hamburger."
+        ],
+        "608": [
+            2446.5,
+            2452.5,
+            "Forstberg with this free kick."
+        ],
+        "609": [
+            2465.5,
+            2468.5,
+            "I'm thinking about René Adler again."
+        ],
+        "610": [
+            2469.5,
+            2475.5,
+            "In an interview read with him before his return to his native town, he said,"
+        ],
+        "611": [
+            2475.5,
+            2478.5,
+            "We're playing to win, we want the three points in Leipzig."
+        ],
+        "612": [
+            2478.5,
+            2482.5,
+            "One or two people probably thought, tell me, how are you going to do that?"
+        ],
+        "613": [
+            2482.5,
+            2485.5,
+            "And now it will soon be a reality."
+        ],
+        "614": [
+            2487.5,
+            2490.5,
+            "Two standard goals have been enough so far."
+        ],
+        "615": [
+            2490.5,
+            2493.5,
+            "Attention, let's look at Wutt again, this time not offside."
+        ],
+        "616": [
+            2493.5,
+            2495.5,
+            "And Diekmeyer, Diekmeyer can finalize it."
+        ],
+        "617": [
+            2495.5,
+            2498.5,
+            "Diekmeyer against Gulaschi, Latte."
+        ],
+        "618": [
+            2507.5,
+            2512.5,
+            "Diekmeyer has the opportunity to finally decide this game."
+        ],
+        "619": [
+            2514.5,
+            2521.5,
+            "And for Dennis Diekmeyer it would certainly have been historic, in his 169th Bundesliga game,"
+        ],
+        "620": [
+            2521.5,
+            2524.5,
+            "This would have been the first goal."
+        ],
+        "621": [
+            2526.5,
+            2528.5,
+            "Three more minutes."
+        ],
+        "622": [
+            2532.5,
+            2535.5,
+            "So before this game, Leipzig is second in the table, 42 points."
+        ],
+        "623": [
+            2535.5,
+            2538.5,
+            "Attention Selke, Adler is here."
+        ],
+        "624": [
+            2540.5,
+            2543.5,
+            "And now the people of Leipzig are demanding 11 meters."
+        ],
+        "625": [
+            2544.5,
+            2547.5,
+            "And the question is, who brought down who?"
+        ],
+        "626": [
+            2547.5,
+            2552.5,
+            "I think, but I'm saying this now without having seen slow motion, that Selke rushed into Adler."
+        ],
+        "627": [
+            2553.5,
+            2558.5,
+            "We're now looking at the Hanseatic League's counterattack with Diekmeyer and Müller, who wants to let through."
+        ],
+        "628": [
+            2558.5,
+            2560.5,
+            "But it doesn't work."
+        ],
+        "629": [
+            2560.5,
+            2566.5,
+            "And Selke is lying back there and needs to be treated. Adler is there, but he doesn't have a medical kit with him."
+        ],
+        "630": [
+            2577.5,
+            2580.5,
+            "So, now the Leipzig supervisors are coming."
+        ],
+        "631": [
+            2583.5,
+            2587.5,
+            "A tough contact between Adler and Selke."
+        ],
+        "632": [
+            2587.5,
+            2590.5,
+            "Selke is better than Papadopoulos."
+        ],
+        "633": [
+            2590.5,
+            2594.5,
+            "Then Adler comes, plays the ball and then he hits Selke."
+        ],
+        "634": [
+            2595.5,
+            2599.5,
+            "It's a tough effort, but Adler plays the ball."
+        ],
+        "635": [
+            2600.5,
+            2603.5,
+            "And we don't need to talk about that at 11 meters."
+        ],
+        "636": [
+            2604.5,
+            2607.5,
+            "But there's no question that it hurt."
+        ],
+        "637": [
+            2608.5,
+            2612.5,
+            "Adler is a fair sportsman and is immediately with Davy Selke."
+        ],
+        "638": [
+            2612.5,
+            2618.5,
+            "And Markus Gisdol will bring Ektar in a few moments, understanding this as a tactical measure."
+        ],
+        "639": [
+            2618.5,
+            2623.5,
+            "This is another opportunity for Dennis Diekmeyer, who basically does everything right."
+        ],
+        "640": [
+            2623.5,
+            2626.5,
+            "I also find the signal from the Leipzig fans remarkable."
+        ],
+        "641": [
+            2626.5,
+            2643.5,
+            "No one here is angry, no one is depressed and no one was amused,"
+        ],
+        "642": [
+            2643.5,
+            2646.5,
+            "Milk Alaska, w 32 of the Eenougglees."
+        ],
+        "643": [
+            2648.5,
+            2651.5,
+            "The Jerome Albas then in ready."
+        ],
+        "644": [
+            2651.5,
+            2653.9,
+            "No one is angry, no one is depressed."
+        ],
+        "645": [
+            2653.9,
+            2658.4,
+            "They jump, they celebrate the team, because Ralf Hasenhüttl's team logically"
+        ],
+        "646": [
+            2658.4,
+            2663.5,
+            "has achieved extraordinary things this season and will certainly do so again."
+        ],
+        "647": [
+            2663.5,
+            2665.9,
+            "But today was HSV's day."
+        ],
+        "648": [
+            2665.9,
+            2668.26,
+            "It's the 90th minute."
+        ],
+        "649": [
+            2668.26,
+            2673.9,
+            "Hamburg will do really well with this 2-0 win."
+        ],
+        "650": [
+            2673.9,
+            2680.18,
+            "After a 1-0 win against Leverkusen in the cup, they reached the quarter-finals"
+        ],
+        "651": [
+            2680.18,
+            2682.02,
+            "a 2 to 0 against the 1."
+        ],
+        "652": [
+            2682.02,
+            2685.18,
+            "FC Köln and a win today against second in the table."
+        ],
+        "653": [
+            2685.18,
+            2687.18,
+            "So that's a big point."
+        ],
+        "654": [
+            2687.18,
+            2688.18,
+            "Without question."
+        ],
+        "655": [
+            2688.18,
+            2695.26,
+            "In addition, HSV's new home strength."
+        ],
+        "656": [
+            2695.26,
+            2698.3,
+            "Four competitive game wins in a row at the Volksbankstadion."
+        ],
+        "657": [
+            2698.3,
+            2702.7,
+            "Now let's take another look at Forstberg."
+        ],
+        "658": [
+            2702.7,
+            2703.7,
+            "Papadopoulos to the corner."
+        ],
+        "659": [
+            2703.7,
+            2706.78,
+            "And then when we look at the HSV program."
+        ],
+        "660": [
+            2706.78,
+            2712.3,
+            "Next 5 games, 4 are at home."
+        ],
+        "661": [
+            2712.3,
+            2716.94,
+            "Freiburg next Saturday, Bayern away and then Mönchengladbach quarter-finals too"
+        ],
+        "662": [
+            2716.94,
+            2720.1,
+            "Home, Hertha at home and Mönchengladbach Renner Liga at home."
+        ],
+        "663": [
+            2720.1,
+            2728.3,
+            "Holtby played a great game for me."
+        ],
+        "664": [
+            2728.3,
+            2735.3,
+            "Run a lot, fight a lot, recognize the spaces, create a lot of counterattacks."
+        ],
+        "665": [
+            2735.3,
+            2740.34,
+            "As I said, that's the only drawback in the HSV game, which didn't end properly."
+        ],
+        "666": [
+            2740.34,
+            2741.34,
+            "had been played."
+        ],
+        "667": [
+            2741.34,
+            2747.46,
+            "3 minutes of stoppage time and Eckdahl for Holtby."
+        ],
+        "668": [
+            2747.46,
+            2759.7,
+            "And then HSV immediately got a strong defensive player at this corner, the Forstberg"
+        ],
+        "669": [
+            2759.7,
+            2760.7,
+            "Now bring in."
+        ],
+        "670": [
+            2761.7,
+            2768.3,
+            "Papadopoulos, one with an asterisk today for the Greek national defender."
+        ],
+        "671": [
+            2783.3,
+            2789.42,
+            "And Leipzig next week on Sunday 3.30 p.m. in Mönchengladbach, then Cologne at home,"
+        ],
+        "672": [
+            2790.14,
+            2795.74,
+            "Augsburg away, Wolfsburg at home, Bremen away, Darmstadt at home."
+        ],
+        "673": [
+            2795.74,
+            2801.94,
+            "I told you, Markus Giestolp changes three times, it's logical."
+        ],
+        "674": [
+            2801.94,
+            2811.46,
+            "Now goes Wuth, who had good opportunities to score four, five, six times when he was offside"
+        ],
+        "675": [
+            2811.46,
+            2816.58,
+            "And he's now making way for Aaron Hunt, who was in the starting line-up in the cup and was really good"
+        ],
+        "676": [
+            2816.58,
+            2818.14,
+            "played on the ten."
+        ],
+        "677": [
+            2818.86,
+            2824.38,
+            "And that was also an experience for HSV this week when they had to take four or five breaks."
+        ],
+        "678": [
+            2824.38,
+            2829.38,
+            "There is no loss of quality in the supposed starting eleven."
+        ],
+        "679": [
+            2829.38,
+            2833.5,
+            "What a see with this ball, now Nikolaj Müller can put the lid on it."
+        ],
+        "680": [
+            2833.5,
+            2835.74,
+            "Müller and then it's over."
+        ],
+        "681": [
+            2835.74,
+            2839.5,
+            "3-0 and it's Hunt with his first touch."
+        ],
+        "682": [
+            2849.14,
+            2857.5,
+            "A bitter defeat for Ralf Asenhütl and a great victory for Markus Giestolp, who"
+        ],
+        "683": [
+            2857.5,
+            2862.38,
+            "With Ralf Rangnick at Schalke in 2011, they won the German Cup with Schalke."
+        ],
+        "684": [
+            2862.38,
+            2863.46,
+            "It's not offside here."
+        ],
+        "685": [
+            2863.46,
+            2872.46,
+            "And when Müller passes, Hunt stands behind the ball, everything is clean."
+        ],
+        "686": [
+            2872.46,
+            2879.94,
+            "Müller does it well after the long ball from What a see and Hunt scores his first."
+        ]
+    }
+}

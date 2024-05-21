@@ -1,0 +1,5014 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            2.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "1": [
+            30.0,
+            32.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "2": [
+            60.0,
+            62.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "3": [
+            90.0,
+            92.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "4": [
+            120.0,
+            122.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "5": [
+            150.0,
+            152.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "6": [
+            180.0,
+            182.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "7": [
+            210.0,
+            212.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "8": [
+            212.0,
+            214.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "9": [
+            214.0,
+            216.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "10": [
+            216.0,
+            218.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "11": [
+            218.0,
+            220.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "12": [
+            220.0,
+            222.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "13": [
+            222.0,
+            224.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "14": [
+            224.0,
+            226.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "15": [
+            226.0,
+            228.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "16": [
+            228.0,
+            230.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "17": [
+            230.0,
+            232.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "18": [
+            232.0,
+            234.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "19": [
+            234.0,
+            236.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "20": [
+            236.0,
+            238.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "21": [
+            238.0,
+            240.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "22": [
+            240.0,
+            242.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "23": [
+            242.0,
+            244.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "24": [
+            244.0,
+            246.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "25": [
+            246.0,
+            248.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "26": [
+            248.0,
+            250.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "27": [
+            250.0,
+            252.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "28": [
+            252.0,
+            254.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "29": [
+            254.0,
+            256.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "30": [
+            256.0,
+            257.5,
+            "Dünya şampiyonlarıyla"
+        ],
+        "31": [
+            257.5,
+            259.5,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "32": [
+            260.0,
+            261.0,
+            "Marşın Sokakları"
+        ],
+        "33": [
+            263.0,
+            265.0,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "34": [
+            265.0,
+            266.88,
+            "İstanbul'da 2. yarı başlıyor"
+        ],
+        "35": [
+            266.88,
+            268.88,
+            "İngilizce Altyazı"
+        ],
+        "36": [
+            296.88,
+            298.88,
+            "İngilizce Altyazı"
+        ],
+        "37": [
+            326.88,
+            328.88,
+            "İngilizce Altyazı"
+        ],
+        "38": [
+            356.88,
+            358.88,
+            "İngilizce Altyazı"
+        ],
+        "39": [
+            386.88,
+            388.88,
+            "İngilizce Altyazı"
+        ],
+        "40": [
+            416.88,
+            418.88,
+            "İngilizce Altyazı"
+        ],
+        "41": [
+            418.88,
+            420.88,
+            "İngilizce Altyazı"
+        ],
+        "42": [
+            420.88,
+            422.88,
+            "İngilizce Altyazı"
+        ],
+        "43": [
+            422.88,
+            424.88,
+            "İngilizce Altyazı"
+        ],
+        "44": [
+            424.88,
+            426.88,
+            "İngilizce Altyazı"
+        ],
+        "45": [
+            426.88,
+            428.88,
+            "İngilizce Altyazı"
+        ],
+        "46": [
+            428.88,
+            430.88,
+            "İngilizce Altyazı"
+        ],
+        "47": [
+            430.88,
+            432.88,
+            "İngilizce Altyazı"
+        ],
+        "48": [
+            432.88,
+            434.88,
+            "İngilizce Altyazı"
+        ],
+        "49": [
+            434.88,
+            436.88,
+            "İngilizce Altyazı"
+        ],
+        "50": [
+            436.88,
+            438.88,
+            "İngilizce Altyazı"
+        ],
+        "51": [
+            438.88,
+            440.88,
+            "İngilizce Altyazı"
+        ],
+        "52": [
+            440.88,
+            442.88,
+            "İngilizce Altyazı"
+        ],
+        "53": [
+            442.88,
+            444.88,
+            "İngilizce Altyazı"
+        ],
+        "54": [
+            444.88,
+            446.88,
+            "İngilizce Altyazı"
+        ],
+        "55": [
+            446.88,
+            448.88,
+            "İngilizce Altyazı"
+        ],
+        "56": [
+            448.88,
+            450.88,
+            "İngilizce Altyazı"
+        ],
+        "57": [
+            450.88,
+            452.88,
+            "İngilizce Altyazı"
+        ],
+        "58": [
+            452.88,
+            454.88,
+            "İngilizce Altyazı"
+        ],
+        "59": [
+            454.88,
+            456.88,
+            "İngilizce Altyazı"
+        ],
+        "60": [
+            456.88,
+            458.88,
+            "İngilizce Altyazı"
+        ],
+        "61": [
+            458.88,
+            460.88,
+            "İngilizce Altyazı"
+        ],
+        "62": [
+            460.88,
+            462.88,
+            "İngilizce Altyazı"
+        ],
+        "63": [
+            462.88,
+            464.88,
+            "İngilizce Altyazı"
+        ],
+        "64": [
+            464.88,
+            466.88,
+            "İngilizce Altyazı"
+        ],
+        "65": [
+            466.88,
+            468.88,
+            "İngilizce Altyazı"
+        ],
+        "66": [
+            468.88,
+            470.88,
+            "İngilizce Altyazı"
+        ],
+        "67": [
+            470.88,
+            472.88,
+            "İngilizce Altyazı"
+        ],
+        "68": [
+            472.88,
+            474.88,
+            "İngilizce Altyazı"
+        ],
+        "69": [
+            474.88,
+            476.88,
+            "İngilizce Altyazı"
+        ],
+        "70": [
+            476.88,
+            478.88,
+            "İngilizce Altyazı"
+        ],
+        "71": [
+            478.88,
+            480.88,
+            "İngilizce Altyazı"
+        ],
+        "72": [
+            480.88,
+            482.88,
+            "İngilizce Altyazı"
+        ],
+        "73": [
+            482.88,
+            484.88,
+            "İngilizce Altyazı"
+        ],
+        "74": [
+            484.88,
+            486.88,
+            "İngilizce Altyazı"
+        ],
+        "75": [
+            486.88,
+            488.88,
+            "İngilizce Altyazı"
+        ],
+        "76": [
+            488.88,
+            490.88,
+            "İngilizce Altyazı"
+        ],
+        "77": [
+            490.88,
+            492.88,
+            "İngilizce Altyazı"
+        ],
+        "78": [
+            492.88,
+            494.88,
+            "İngilizce Altyazı"
+        ],
+        "79": [
+            494.88,
+            496.88,
+            "İngilizce Altyazı"
+        ],
+        "80": [
+            496.88,
+            498.88,
+            "İngilizce Altyazı"
+        ],
+        "81": [
+            498.88,
+            500.88,
+            "İngilizce Altyazı"
+        ],
+        "82": [
+            500.88,
+            502.88,
+            "İngilizce Altyazı"
+        ],
+        "83": [
+            502.88,
+            504.88,
+            "İngilizce Altyazı"
+        ],
+        "84": [
+            504.88,
+            506.88,
+            "İngilizce Altyazı"
+        ],
+        "85": [
+            506.88,
+            508.88,
+            "İngilizce Altyazı"
+        ],
+        "86": [
+            508.88,
+            510.88,
+            "İngilizce Altyazı"
+        ],
+        "87": [
+            510.88,
+            512.88,
+            "İngilizce Altyazı"
+        ],
+        "88": [
+            512.88,
+            514.88,
+            "İngilizce Altyazı"
+        ],
+        "89": [
+            514.88,
+            516.88,
+            "İngilizce Altyazı"
+        ],
+        "90": [
+            516.88,
+            518.88,
+            "İngilizce Altyazı"
+        ],
+        "91": [
+            518.88,
+            520.88,
+            "İngilizce Altyazı"
+        ],
+        "92": [
+            520.88,
+            522.88,
+            "İngilizce Altyazı"
+        ],
+        "93": [
+            522.88,
+            524.88,
+            "İngilizce Altyazı"
+        ],
+        "94": [
+            524.88,
+            526.88,
+            "İngilizce Altyazı"
+        ],
+        "95": [
+            526.88,
+            528.88,
+            "İngilizce Altyazı"
+        ],
+        "96": [
+            528.88,
+            530.88,
+            "İngilizce Altyazı"
+        ],
+        "97": [
+            530.88,
+            532.88,
+            "İngilizce Altyazı"
+        ],
+        "98": [
+            532.88,
+            534.88,
+            "İngilizce Altyazı"
+        ],
+        "99": [
+            534.88,
+            536.88,
+            "İngilizce Altyazı"
+        ],
+        "100": [
+            536.88,
+            538.88,
+            "İngilizce Altyazı"
+        ],
+        "101": [
+            538.88,
+            540.88,
+            "İngilizce Altyazı"
+        ],
+        "102": [
+            540.88,
+            542.88,
+            "İngilizce Altyazı"
+        ],
+        "103": [
+            542.88,
+            544.88,
+            "İngilizce Altyazı"
+        ],
+        "104": [
+            544.88,
+            546.88,
+            "İngilizce Altyazı"
+        ],
+        "105": [
+            546.88,
+            548.88,
+            "İngilizce Altyazı"
+        ],
+        "106": [
+            548.88,
+            550.88,
+            "İngilizce Altyazı"
+        ],
+        "107": [
+            550.88,
+            552.88,
+            "İngilizce Altyazı"
+        ],
+        "108": [
+            552.88,
+            554.88,
+            "İngilizce Altyazı"
+        ],
+        "109": [
+            554.88,
+            556.88,
+            "İngilizce Altyazı"
+        ],
+        "110": [
+            556.88,
+            558.88,
+            "İngilizce Altyazı"
+        ],
+        "111": [
+            558.88,
+            560.88,
+            "İngilizce Altyazı"
+        ],
+        "112": [
+            560.88,
+            562.88,
+            "İngilizce Altyazı"
+        ],
+        "113": [
+            562.88,
+            564.88,
+            "İngilizce Altyazı"
+        ],
+        "114": [
+            564.88,
+            566.88,
+            "İngilizce Altyazı"
+        ],
+        "115": [
+            566.88,
+            568.88,
+            "İngilizce Altyazı"
+        ],
+        "116": [
+            568.88,
+            570.88,
+            "İngilizce Altyazı"
+        ],
+        "117": [
+            570.88,
+            572.88,
+            "İngilizce Altyazı"
+        ],
+        "118": [
+            572.88,
+            574.88,
+            "İngilizce Altyazı"
+        ],
+        "119": [
+            574.88,
+            576.88,
+            "İngilizce Altyazı"
+        ],
+        "120": [
+            576.88,
+            578.88,
+            "İngilizce Altyazı"
+        ],
+        "121": [
+            578.88,
+            580.88,
+            "İngilizce Altyazı"
+        ],
+        "122": [
+            580.88,
+            582.88,
+            "İngilizce Altyazı"
+        ],
+        "123": [
+            582.88,
+            584.88,
+            "İngilizce Altyazı"
+        ],
+        "124": [
+            584.88,
+            586.88,
+            "İngilizce Altyazı"
+        ],
+        "125": [
+            586.88,
+            588.88,
+            "İngilizce Altyazı"
+        ],
+        "126": [
+            588.88,
+            590.88,
+            "İngilizce Altyazı"
+        ],
+        "127": [
+            590.88,
+            592.88,
+            "İngilizce Altyazı"
+        ],
+        "128": [
+            592.88,
+            594.88,
+            "İngilizce Altyazı"
+        ],
+        "129": [
+            594.88,
+            596.88,
+            "İngilizce Altyazı"
+        ],
+        "130": [
+            596.88,
+            598.88,
+            "İngilizce Altyazı"
+        ],
+        "131": [
+            598.88,
+            600.88,
+            "İngilizce Altyazı"
+        ],
+        "132": [
+            600.88,
+            602.88,
+            "İngilizce Altyazı"
+        ],
+        "133": [
+            602.88,
+            604.88,
+            "İngilizce Altyazı"
+        ],
+        "134": [
+            604.88,
+            606.88,
+            "İngilizce Altyazı"
+        ],
+        "135": [
+            606.88,
+            608.88,
+            "İngilizce Altyazı"
+        ],
+        "136": [
+            608.88,
+            610.88,
+            "İngilizce Altyazı"
+        ],
+        "137": [
+            610.88,
+            612.88,
+            "İngilizce Altyazı"
+        ],
+        "138": [
+            612.88,
+            614.88,
+            "İngilizce Altyazı"
+        ],
+        "139": [
+            614.88,
+            616.88,
+            "İngilizce Altyazı"
+        ],
+        "140": [
+            616.88,
+            618.88,
+            "İngilizce Altyazı"
+        ],
+        "141": [
+            618.88,
+            620.88,
+            "İngilizce Altyazı"
+        ],
+        "142": [
+            620.88,
+            622.88,
+            "İngilizce Altyazı"
+        ],
+        "143": [
+            622.88,
+            624.88,
+            "İngilizce Altyazı"
+        ],
+        "144": [
+            624.88,
+            626.88,
+            "İngilizce Altyazı"
+        ],
+        "145": [
+            626.88,
+            628.88,
+            "İngilizce Altyazı"
+        ],
+        "146": [
+            628.88,
+            630.88,
+            "İngilizce Altyazı"
+        ],
+        "147": [
+            630.88,
+            632.88,
+            "İngilizce Altyazı"
+        ],
+        "148": [
+            632.88,
+            634.88,
+            "İngilizce Altyazı"
+        ],
+        "149": [
+            634.88,
+            636.88,
+            "İngilizce Altyazı"
+        ],
+        "150": [
+            636.88,
+            638.88,
+            "İngilizce Altyazı"
+        ],
+        "151": [
+            638.88,
+            640.88,
+            "İngilizce Altyazı"
+        ],
+        "152": [
+            640.88,
+            642.88,
+            "İngilizce Altyazı"
+        ],
+        "153": [
+            642.88,
+            644.88,
+            "İngilizce Altyazı"
+        ],
+        "154": [
+            644.88,
+            646.88,
+            "İngilizce Altyazı"
+        ],
+        "155": [
+            646.88,
+            648.88,
+            "İngilizce Altyazı"
+        ],
+        "156": [
+            648.88,
+            650.88,
+            "İngilizce Altyazı"
+        ],
+        "157": [
+            650.88,
+            652.88,
+            "İngilizce Altyazı"
+        ],
+        "158": [
+            652.88,
+            654.88,
+            "İngilizce Altyazı"
+        ],
+        "159": [
+            654.88,
+            656.88,
+            "İngilizce Altyazı"
+        ],
+        "160": [
+            656.88,
+            658.88,
+            "İngilizce Altyazı"
+        ],
+        "161": [
+            658.88,
+            660.88,
+            "İngilizce Altyazı"
+        ],
+        "162": [
+            660.88,
+            662.88,
+            "İngilizce Altyazı"
+        ],
+        "163": [
+            662.88,
+            664.88,
+            "İngilizce Altyazı"
+        ],
+        "164": [
+            664.88,
+            666.88,
+            "İngilizce Altyazı"
+        ],
+        "165": [
+            666.88,
+            668.88,
+            "İngilizce Altyazı"
+        ],
+        "166": [
+            668.88,
+            670.88,
+            "İngilizce Altyazı"
+        ],
+        "167": [
+            670.88,
+            672.88,
+            "İngilizce Altyazı"
+        ],
+        "168": [
+            672.88,
+            674.88,
+            "İngilizce Altyazı"
+        ],
+        "169": [
+            674.88,
+            676.88,
+            "İngilizce Altyazı"
+        ],
+        "170": [
+            676.88,
+            678.88,
+            "İngilizce Altyazı"
+        ],
+        "171": [
+            678.88,
+            680.88,
+            "İngilizce Altyazı"
+        ],
+        "172": [
+            680.88,
+            682.88,
+            "İngilizce Altyazı"
+        ],
+        "173": [
+            682.88,
+            684.88,
+            "İngilizce Altyazı"
+        ],
+        "174": [
+            684.88,
+            686.88,
+            "İngilizce Altyazı"
+        ],
+        "175": [
+            686.88,
+            688.88,
+            "İngilizce Altyazı"
+        ],
+        "176": [
+            688.88,
+            690.88,
+            "İngilizce Altyazı"
+        ],
+        "177": [
+            690.88,
+            692.88,
+            "İngilizce Altyazı"
+        ],
+        "178": [
+            692.88,
+            694.88,
+            "İngilizce Altyazı"
+        ],
+        "179": [
+            694.88,
+            696.88,
+            "İngilizce Altyazı"
+        ],
+        "180": [
+            696.88,
+            698.88,
+            "İngilizce Altyazı"
+        ],
+        "181": [
+            698.88,
+            700.88,
+            "İngilizce Altyazı"
+        ],
+        "182": [
+            700.88,
+            702.88,
+            "İngilizce Altyazı"
+        ],
+        "183": [
+            702.88,
+            704.88,
+            "İngilizce Altyazı"
+        ],
+        "184": [
+            704.88,
+            706.88,
+            "İngilizce Altyazı"
+        ],
+        "185": [
+            706.88,
+            708.88,
+            "İngilizce Altyazı"
+        ],
+        "186": [
+            708.88,
+            710.88,
+            "İngilizce Altyazı"
+        ],
+        "187": [
+            710.88,
+            712.88,
+            "İngilizce Altyazı"
+        ],
+        "188": [
+            712.88,
+            714.88,
+            "İngilizce Altyazı"
+        ],
+        "189": [
+            714.88,
+            716.88,
+            "İngilizce Altyazı"
+        ],
+        "190": [
+            716.88,
+            718.88,
+            "İngilizce Altyazı"
+        ],
+        "191": [
+            718.88,
+            720.88,
+            "İngilizce Altyazı"
+        ],
+        "192": [
+            720.88,
+            722.88,
+            "İngilizce Altyazı"
+        ],
+        "193": [
+            722.88,
+            724.88,
+            "İngilizce Altyazı"
+        ],
+        "194": [
+            724.88,
+            726.88,
+            "İngilizce Altyazı"
+        ],
+        "195": [
+            726.88,
+            728.88,
+            "İngilizce Altyazı"
+        ],
+        "196": [
+            728.88,
+            730.88,
+            "İngilizce Altyazı"
+        ],
+        "197": [
+            730.88,
+            732.88,
+            "İngilizce Altyazı"
+        ],
+        "198": [
+            732.88,
+            734.88,
+            "İngilizce Altyazı"
+        ],
+        "199": [
+            734.88,
+            736.88,
+            "İngilizce Altyazı"
+        ],
+        "200": [
+            736.88,
+            738.88,
+            "İngilizce Altyazı"
+        ],
+        "201": [
+            738.88,
+            740.88,
+            "İngilizce Altyazı"
+        ],
+        "202": [
+            740.88,
+            742.88,
+            "İngilizce Altyazı"
+        ],
+        "203": [
+            742.88,
+            744.88,
+            "İngilizce Altyazı"
+        ],
+        "204": [
+            744.88,
+            746.88,
+            "İngilizce Altyazı"
+        ],
+        "205": [
+            746.88,
+            748.88,
+            "İngilizce Altyazı"
+        ],
+        "206": [
+            748.88,
+            750.88,
+            "İngilizce Altyazı"
+        ],
+        "207": [
+            750.88,
+            752.88,
+            "İngilizce Altyazı"
+        ],
+        "208": [
+            752.88,
+            754.88,
+            "İngilizce Altyazı"
+        ],
+        "209": [
+            754.88,
+            756.88,
+            "İngilizce Altyazı"
+        ],
+        "210": [
+            756.88,
+            758.88,
+            "İngilizce Altyazı"
+        ],
+        "211": [
+            758.88,
+            760.88,
+            "İngilizce Altyazı"
+        ],
+        "212": [
+            760.88,
+            762.88,
+            "İngilizce Altyazı"
+        ],
+        "213": [
+            762.88,
+            764.88,
+            "İngilizce Altyazı"
+        ],
+        "214": [
+            764.88,
+            766.88,
+            "İngilizce Altyazı"
+        ],
+        "215": [
+            766.88,
+            768.88,
+            "İngilizce Altyazı"
+        ],
+        "216": [
+            768.88,
+            770.88,
+            "İngilizce Altyazı"
+        ],
+        "217": [
+            770.88,
+            772.88,
+            "İngilizce Altyazı"
+        ],
+        "218": [
+            772.88,
+            774.88,
+            "İngilizce Altyazı"
+        ],
+        "219": [
+            774.88,
+            776.88,
+            "İngilizce Altyazı"
+        ],
+        "220": [
+            776.88,
+            778.88,
+            "İngilizce Altyazı"
+        ],
+        "221": [
+            778.88,
+            780.88,
+            "İngilizce Altyazı"
+        ],
+        "222": [
+            780.88,
+            782.88,
+            "İngilizce Altyazı"
+        ],
+        "223": [
+            782.88,
+            784.88,
+            "İngilizce Altyazı"
+        ],
+        "224": [
+            784.88,
+            786.88,
+            "İngilizce Altyazı"
+        ],
+        "225": [
+            786.88,
+            788.88,
+            "İngilizce Altyazı"
+        ],
+        "226": [
+            788.88,
+            790.88,
+            "İngilizce Altyazı"
+        ],
+        "227": [
+            790.88,
+            792.88,
+            "İngilizce Altyazı"
+        ],
+        "228": [
+            792.88,
+            794.88,
+            "İngilizce Altyazı"
+        ],
+        "229": [
+            794.88,
+            796.88,
+            "İngilizce Altyazı"
+        ],
+        "230": [
+            796.88,
+            798.88,
+            "İngilizce Altyazı"
+        ],
+        "231": [
+            798.88,
+            800.88,
+            "İngilizce Altyazı"
+        ],
+        "232": [
+            800.88,
+            802.88,
+            "İngilizce Altyazı"
+        ],
+        "233": [
+            802.88,
+            804.88,
+            "İngilizce Altyazı"
+        ],
+        "234": [
+            804.88,
+            806.88,
+            "İngilizce Altyazı"
+        ],
+        "235": [
+            806.88,
+            808.88,
+            "İngilizce Altyazı"
+        ],
+        "236": [
+            808.88,
+            810.88,
+            "İngilizce Altyazı"
+        ],
+        "237": [
+            810.88,
+            812.88,
+            "İngilizce Altyazı"
+        ],
+        "238": [
+            812.88,
+            814.88,
+            "İngilizce Altyazı"
+        ],
+        "239": [
+            814.88,
+            816.88,
+            "İngilizce Altyazı"
+        ],
+        "240": [
+            816.88,
+            818.88,
+            "İngilizce Altyazı"
+        ],
+        "241": [
+            818.88,
+            820.88,
+            "İngilizce Altyazı"
+        ],
+        "242": [
+            820.88,
+            822.88,
+            "İngilizce Altyazı"
+        ],
+        "243": [
+            822.88,
+            824.88,
+            "İngilizce Altyazı"
+        ],
+        "244": [
+            824.88,
+            826.88,
+            "İngilizce Altyazı"
+        ],
+        "245": [
+            826.88,
+            828.88,
+            "İngilizce Altyazı"
+        ],
+        "246": [
+            828.88,
+            830.88,
+            "İngilizce Altyazı"
+        ],
+        "247": [
+            830.88,
+            832.88,
+            "İngilizce Altyazı"
+        ],
+        "248": [
+            832.88,
+            834.88,
+            "İngilizce Altyazı"
+        ],
+        "249": [
+            834.88,
+            836.88,
+            "İngilizce Altyazı"
+        ],
+        "250": [
+            836.88,
+            838.88,
+            "İngilizce Altyazı"
+        ],
+        "251": [
+            838.88,
+            840.88,
+            "İngilizce Altyazı"
+        ],
+        "252": [
+            840.88,
+            842.88,
+            "İngilizce Altyazı"
+        ],
+        "253": [
+            842.88,
+            844.88,
+            "İngilizce Altyazı"
+        ],
+        "254": [
+            844.88,
+            846.88,
+            "İngilizce Altyazı"
+        ],
+        "255": [
+            846.88,
+            848.88,
+            "İngilizce Altyazı"
+        ],
+        "256": [
+            848.88,
+            850.88,
+            "İngilizce Altyazı"
+        ],
+        "257": [
+            850.88,
+            852.88,
+            "İngilizce Altyazı"
+        ],
+        "258": [
+            852.88,
+            854.88,
+            "İngilizce Altyazı"
+        ],
+        "259": [
+            854.88,
+            856.88,
+            "İngilizce Altyazı"
+        ],
+        "260": [
+            856.88,
+            858.88,
+            "İngilizce Altyazı"
+        ],
+        "261": [
+            858.88,
+            860.88,
+            "İngilizce Altyazı"
+        ],
+        "262": [
+            860.88,
+            862.88,
+            "İngilizce Altyazı"
+        ],
+        "263": [
+            862.88,
+            864.88,
+            "İngilizce Altyazı"
+        ],
+        "264": [
+            864.88,
+            866.88,
+            "İngilizce Altyazı"
+        ],
+        "265": [
+            866.88,
+            868.88,
+            "İngilizce Altyazı"
+        ],
+        "266": [
+            868.88,
+            870.88,
+            "İngilizce Altyazı"
+        ],
+        "267": [
+            870.88,
+            872.88,
+            "İngilizce Altyazı"
+        ],
+        "268": [
+            872.88,
+            874.88,
+            "İngilizce Altyazı"
+        ],
+        "269": [
+            874.88,
+            876.88,
+            "İngilizce Altyazı"
+        ],
+        "270": [
+            876.88,
+            878.88,
+            "İngilizce ALtyazı"
+        ],
+        "271": [
+            878.88,
+            880.88,
+            "İngilizce Altyazı"
+        ],
+        "272": [
+            908.88,
+            910.88,
+            "İngilizce Altyazı"
+        ],
+        "273": [
+            938.88,
+            940.88,
+            "İngilizce Altyazı"
+        ],
+        "274": [
+            968.88,
+            970.88,
+            "İngilizce Altyazı"
+        ],
+        "275": [
+            998.88,
+            1000.88,
+            "İngilizce Altyazı"
+        ],
+        "276": [
+            1000.88,
+            1002.88,
+            "İngilizce Altyazı"
+        ],
+        "277": [
+            1002.88,
+            1004.88,
+            "İngilizce Altyazı"
+        ],
+        "278": [
+            1004.88,
+            1006.88,
+            "İngilizce Altyazı"
+        ],
+        "279": [
+            1006.88,
+            1008.88,
+            "İngilizce Altyazı"
+        ],
+        "280": [
+            1008.88,
+            1010.88,
+            "İngilizce Altyazı"
+        ],
+        "281": [
+            1010.88,
+            1012.88,
+            "İngilizce Altyazı"
+        ],
+        "282": [
+            1012.88,
+            1014.88,
+            "İngilizce Altyazı"
+        ],
+        "283": [
+            1014.88,
+            1016.88,
+            "İngilizce Altyazı"
+        ],
+        "284": [
+            1016.88,
+            1018.88,
+            "İngilizce Altyazı"
+        ],
+        "285": [
+            1018.88,
+            1020.88,
+            "İngilizce Altyazı"
+        ],
+        "286": [
+            1020.88,
+            1022.88,
+            "İngilizce Altyazı"
+        ],
+        "287": [
+            1022.88,
+            1024.88,
+            "İngilizce Altyazı"
+        ],
+        "288": [
+            1024.88,
+            1026.88,
+            "İngilizce Altyazı"
+        ],
+        "289": [
+            1026.88,
+            1028.88,
+            "İngilizce Altyazı"
+        ],
+        "290": [
+            1028.88,
+            1030.88,
+            "İngilizce Altyazı"
+        ],
+        "291": [
+            1030.88,
+            1032.88,
+            "İngilizce Altyazı"
+        ],
+        "292": [
+            1032.88,
+            1034.88,
+            "İngilizce Altyazı"
+        ],
+        "293": [
+            1034.88,
+            1036.88,
+            "İngilizce Altyazı"
+        ],
+        "294": [
+            1036.88,
+            1038.88,
+            "İngilizce Altyazı"
+        ],
+        "295": [
+            1038.88,
+            1040.88,
+            "İngilizce Altyazı"
+        ],
+        "296": [
+            1040.88,
+            1042.88,
+            "İngilizce Altyazı"
+        ],
+        "297": [
+            1042.88,
+            1044.88,
+            "İngilizce Altyazı"
+        ],
+        "298": [
+            1044.88,
+            1046.88,
+            "İngilizce Altyazı"
+        ],
+        "299": [
+            1046.88,
+            1048.88,
+            "İngilizce Altyazı"
+        ],
+        "300": [
+            1048.88,
+            1050.88,
+            "İngilizce Altyazı"
+        ],
+        "301": [
+            1050.88,
+            1052.88,
+            "İngilizce Altyazı"
+        ],
+        "302": [
+            1052.88,
+            1054.88,
+            "İngilizce Altyazı"
+        ],
+        "303": [
+            1054.88,
+            1056.88,
+            "İngilizce Altyazı"
+        ],
+        "304": [
+            1056.88,
+            1058.88,
+            "İngilizce Altyazı"
+        ],
+        "305": [
+            1058.88,
+            1060.88,
+            "İngilizce Altyazı"
+        ],
+        "306": [
+            1060.88,
+            1062.88,
+            "İngilizce Altyazı"
+        ],
+        "307": [
+            1062.88,
+            1064.88,
+            "İngilizce Altyazı"
+        ],
+        "308": [
+            1064.88,
+            1066.88,
+            "İngilizce Altyazı"
+        ],
+        "309": [
+            1066.88,
+            1068.88,
+            "İngilizce Altyazı"
+        ],
+        "310": [
+            1068.88,
+            1070.88,
+            "İngilizce Altyazı"
+        ],
+        "311": [
+            1070.88,
+            1072.88,
+            "İngilizce Altyazı"
+        ],
+        "312": [
+            1072.88,
+            1074.88,
+            "İngilizce Altyazı"
+        ],
+        "313": [
+            1074.88,
+            1076.88,
+            "İngilizce Altyazı"
+        ],
+        "314": [
+            1076.88,
+            1078.88,
+            "İngilizce Altyazı"
+        ],
+        "315": [
+            1078.88,
+            1080.88,
+            "İngilizce Altyazı"
+        ],
+        "316": [
+            1080.88,
+            1082.88,
+            "İngilizce Altyazı"
+        ],
+        "317": [
+            1082.88,
+            1084.88,
+            "İngilizce Altyazı"
+        ],
+        "318": [
+            1084.88,
+            1086.88,
+            "İngilizce Altyazı"
+        ],
+        "319": [
+            1086.88,
+            1088.88,
+            "İngilizce Altyazı"
+        ],
+        "320": [
+            1088.88,
+            1090.88,
+            "İngilizce Altyazı"
+        ],
+        "321": [
+            1090.88,
+            1092.88,
+            "İngilizce Altyazı"
+        ],
+        "322": [
+            1092.88,
+            1094.88,
+            "İngilizce Altyazı"
+        ],
+        "323": [
+            1094.88,
+            1096.88,
+            "İngilizce Altyazı"
+        ],
+        "324": [
+            1096.88,
+            1098.88,
+            "İngilizce Altyazı"
+        ],
+        "325": [
+            1098.88,
+            1100.88,
+            "İngilizce Altyazı"
+        ],
+        "326": [
+            1100.88,
+            1102.88,
+            "İngilizce Altyazı"
+        ],
+        "327": [
+            1102.88,
+            1104.88,
+            "İngilizce Altyazı"
+        ],
+        "328": [
+            1104.88,
+            1106.88,
+            "İngilizce Altyazı"
+        ],
+        "329": [
+            1106.88,
+            1108.88,
+            "İngilizce Altyazı"
+        ],
+        "330": [
+            1108.88,
+            1110.88,
+            "İngilizce Altyazı"
+        ],
+        "331": [
+            1110.88,
+            1112.88,
+            "İngilizce Altyazı"
+        ],
+        "332": [
+            1112.88,
+            1114.88,
+            "İngilizce Altyazı"
+        ],
+        "333": [
+            1114.88,
+            1116.88,
+            "İngilizce Altyazı"
+        ],
+        "334": [
+            1116.88,
+            1118.88,
+            "İngilizce Altyazı"
+        ],
+        "335": [
+            1118.88,
+            1120.88,
+            "İngilizce Altyazı"
+        ],
+        "336": [
+            1120.88,
+            1122.88,
+            "İngilizce Altyazı"
+        ],
+        "337": [
+            1122.88,
+            1124.88,
+            "İngilizce Altyazı"
+        ],
+        "338": [
+            1124.88,
+            1126.88,
+            "İngilizce Altyazı"
+        ],
+        "339": [
+            1126.88,
+            1128.88,
+            "İngilizce Altyazı"
+        ],
+        "340": [
+            1128.88,
+            1130.88,
+            "İngilizce Altyazı"
+        ],
+        "341": [
+            1130.88,
+            1132.88,
+            "İngilizce Altyazı"
+        ],
+        "342": [
+            1132.88,
+            1134.88,
+            "İngilizce Altyazı"
+        ],
+        "343": [
+            1134.88,
+            1136.88,
+            "İngilizce Altyazı"
+        ],
+        "344": [
+            1136.88,
+            1138.88,
+            "İngilizce Altyazı"
+        ],
+        "345": [
+            1138.88,
+            1140.88,
+            "İngilizce Altyazı"
+        ],
+        "346": [
+            1140.88,
+            1142.88,
+            "İngilizce Altyazı"
+        ],
+        "347": [
+            1142.88,
+            1144.88,
+            "İngilizce Altyazı"
+        ],
+        "348": [
+            1144.88,
+            1146.88,
+            "İngilizce Altyazı"
+        ],
+        "349": [
+            1146.88,
+            1148.88,
+            "İngilizce Altyazı"
+        ],
+        "350": [
+            1148.88,
+            1150.88,
+            "İngilizce Altyazı"
+        ],
+        "351": [
+            1150.88,
+            1152.88,
+            "İngilizce Altyazı"
+        ],
+        "352": [
+            1152.88,
+            1154.88,
+            "İngilizce Altyazı"
+        ],
+        "353": [
+            1154.88,
+            1156.88,
+            "İngilizce Altyazı"
+        ],
+        "354": [
+            1156.88,
+            1158.88,
+            "İngilizce Altyazı"
+        ],
+        "355": [
+            1158.88,
+            1160.88,
+            "İngilizce Altyazı"
+        ],
+        "356": [
+            1160.88,
+            1162.88,
+            "İngilizce Altyazı"
+        ],
+        "357": [
+            1162.88,
+            1164.88,
+            "İngilizce Altyazı"
+        ],
+        "358": [
+            1164.88,
+            1166.88,
+            "İngilizce Altyazı"
+        ],
+        "359": [
+            1166.88,
+            1168.88,
+            "İngilizce Altyazı"
+        ],
+        "360": [
+            1168.88,
+            1170.88,
+            "İngilizce Altyazı"
+        ],
+        "361": [
+            1170.88,
+            1172.88,
+            "İngilizce Altyazı"
+        ],
+        "362": [
+            1172.88,
+            1174.88,
+            "İngilizce Altyazı"
+        ],
+        "363": [
+            1174.88,
+            1176.88,
+            "İngilizce Altyazı"
+        ],
+        "364": [
+            1176.88,
+            1178.88,
+            "İngilizce Altyazı"
+        ],
+        "365": [
+            1178.88,
+            1180.88,
+            "İngilizce Altyazı"
+        ],
+        "366": [
+            1180.88,
+            1182.88,
+            "İngilizce Altyazı"
+        ],
+        "367": [
+            1182.88,
+            1184.88,
+            "İngilizce Altyazı"
+        ],
+        "368": [
+            1184.88,
+            1186.88,
+            "İngilizce Altyazı"
+        ],
+        "369": [
+            1186.88,
+            1188.88,
+            "İngilizce Altyazı"
+        ],
+        "370": [
+            1188.88,
+            1190.88,
+            "İngilizce Altyazı"
+        ],
+        "371": [
+            1190.88,
+            1192.88,
+            "İngilizce Altyazı"
+        ],
+        "372": [
+            1192.88,
+            1194.88,
+            "İngilizce Altyazı"
+        ],
+        "373": [
+            1194.88,
+            1196.88,
+            "İngilizce Altyazı"
+        ],
+        "374": [
+            1196.88,
+            1198.88,
+            "İngilizce Altyazı"
+        ],
+        "375": [
+            1198.88,
+            1200.88,
+            "İngilizce Altyazı"
+        ],
+        "376": [
+            1200.88,
+            1202.88,
+            "İngilizce Altyazı"
+        ],
+        "377": [
+            1202.88,
+            1204.88,
+            "İngilizce Altyazı"
+        ],
+        "378": [
+            1204.88,
+            1206.88,
+            "İngilizce Altyazı"
+        ],
+        "379": [
+            1206.88,
+            1208.88,
+            "İngilizce Altyazı"
+        ],
+        "380": [
+            1208.88,
+            1210.88,
+            "İngilizce Altyazı"
+        ],
+        "381": [
+            1210.88,
+            1212.88,
+            "İngilizce Altyazı"
+        ],
+        "382": [
+            1212.88,
+            1214.88,
+            "İngilizce Altyazı"
+        ],
+        "383": [
+            1214.88,
+            1216.88,
+            "İngilizce Altyazı"
+        ],
+        "384": [
+            1216.88,
+            1218.88,
+            "İngilizce Altyazı"
+        ],
+        "385": [
+            1218.88,
+            1220.88,
+            "İngilizce Altyazı"
+        ],
+        "386": [
+            1220.88,
+            1222.88,
+            "İngilizce Altyazı"
+        ],
+        "387": [
+            1222.88,
+            1224.88,
+            "İngilizce Altyazı"
+        ],
+        "388": [
+            1224.88,
+            1226.88,
+            "İngilizce Altyazı"
+        ],
+        "389": [
+            1226.88,
+            1228.88,
+            "İngilizce Altyazı"
+        ],
+        "390": [
+            1228.88,
+            1230.88,
+            "İngilizce Altyazı"
+        ],
+        "391": [
+            1230.88,
+            1232.88,
+            "İngilizce Altyazı"
+        ],
+        "392": [
+            1232.88,
+            1234.88,
+            "İngilizce Altyazı"
+        ],
+        "393": [
+            1234.88,
+            1236.88,
+            "İngilizce Altyazı"
+        ],
+        "394": [
+            1236.88,
+            1238.88,
+            "İngilizce Altyazı"
+        ],
+        "395": [
+            1238.88,
+            1240.88,
+            "İngilizce Altyazı"
+        ],
+        "396": [
+            1240.88,
+            1242.88,
+            "İngilizce Altyazı"
+        ],
+        "397": [
+            1242.88,
+            1244.88,
+            "İngilizce Altyazı"
+        ],
+        "398": [
+            1244.88,
+            1246.88,
+            "İngilizce Altyazı"
+        ],
+        "399": [
+            1246.88,
+            1248.88,
+            "İngilizce Altyazı"
+        ],
+        "400": [
+            1248.88,
+            1250.88,
+            "İngilizce Altyazı"
+        ],
+        "401": [
+            1250.88,
+            1252.88,
+            "İngilizce Altyazı"
+        ],
+        "402": [
+            1252.88,
+            1254.88,
+            "İngilizce Altyazı"
+        ],
+        "403": [
+            1254.88,
+            1256.88,
+            "İngilizce Altyazı"
+        ],
+        "404": [
+            1256.88,
+            1258.88,
+            "İngilizce Altyazı"
+        ],
+        "405": [
+            1258.88,
+            1260.88,
+            "İngilizce Altyazı"
+        ],
+        "406": [
+            1260.88,
+            1262.88,
+            "İngilizce Altyazı"
+        ],
+        "407": [
+            1262.88,
+            1264.88,
+            "İngilizce Altyazı"
+        ],
+        "408": [
+            1264.88,
+            1266.88,
+            "İngilizce Altyazı"
+        ],
+        "409": [
+            1266.88,
+            1268.88,
+            "İngilizce Altyazı"
+        ],
+        "410": [
+            1268.88,
+            1270.88,
+            "İngilizce Altyazı"
+        ],
+        "411": [
+            1270.88,
+            1272.88,
+            "İngilizce Altyazı"
+        ],
+        "412": [
+            1272.88,
+            1274.88,
+            "İngilizce Altyazı"
+        ],
+        "413": [
+            1274.88,
+            1276.88,
+            "İngilizce Altyazı"
+        ],
+        "414": [
+            1276.88,
+            1278.88,
+            "İngilizce Altyazı"
+        ],
+        "415": [
+            1278.88,
+            1280.88,
+            "İngilizce Altyazı"
+        ],
+        "416": [
+            1280.88,
+            1282.88,
+            "İngilizce Altyazı"
+        ],
+        "417": [
+            1282.88,
+            1284.88,
+            "İngilizce Altyazı"
+        ],
+        "418": [
+            1284.88,
+            1286.88,
+            "İngilizce Altyazı"
+        ],
+        "419": [
+            1286.88,
+            1288.88,
+            "İngilizce Altyazı"
+        ],
+        "420": [
+            1288.88,
+            1290.88,
+            "İngilizce Altyazı"
+        ],
+        "421": [
+            1290.88,
+            1292.88,
+            "İngilizce Altyazı"
+        ],
+        "422": [
+            1292.88,
+            1294.88,
+            "İngilizce Altyazı"
+        ],
+        "423": [
+            1294.88,
+            1296.88,
+            "İngilizce Altyazı"
+        ],
+        "424": [
+            1296.88,
+            1298.88,
+            "İngilizce Altyazı"
+        ],
+        "425": [
+            1298.88,
+            1300.88,
+            "İngilizce Altyazı"
+        ],
+        "426": [
+            1300.88,
+            1302.88,
+            "İngilizce Altyazı"
+        ],
+        "427": [
+            1302.88,
+            1304.88,
+            "İngilizce Altyazı"
+        ],
+        "428": [
+            1304.88,
+            1306.88,
+            "İngilizce Altyazı"
+        ],
+        "429": [
+            1306.88,
+            1308.88,
+            "İngilizce Altyazı"
+        ],
+        "430": [
+            1308.88,
+            1310.88,
+            "İngilizce Altyazı"
+        ],
+        "431": [
+            1310.88,
+            1312.88,
+            "İngilizce Altyazı"
+        ],
+        "432": [
+            1312.88,
+            1314.88,
+            "İngilizce Altyazı"
+        ],
+        "433": [
+            1314.88,
+            1316.88,
+            "İngilizce Altyazı"
+        ],
+        "434": [
+            1316.88,
+            1318.88,
+            "İngilizce Altyazı"
+        ],
+        "435": [
+            1318.88,
+            1320.88,
+            "İngilizce Altyazı"
+        ],
+        "436": [
+            1320.88,
+            1322.88,
+            "İngilizce Altyazı"
+        ],
+        "437": [
+            1322.88,
+            1324.88,
+            "İngilizce Altyazı"
+        ],
+        "438": [
+            1324.88,
+            1326.88,
+            "İngilizce Altyazı"
+        ],
+        "439": [
+            1326.88,
+            1328.88,
+            "İngilizce Altyazı"
+        ],
+        "440": [
+            1328.88,
+            1330.88,
+            "İngilizce Altyazı"
+        ],
+        "441": [
+            1330.88,
+            1332.88,
+            "İngilizce Altyazı"
+        ],
+        "442": [
+            1332.88,
+            1334.88,
+            "İngilizce Altyazı"
+        ],
+        "443": [
+            1335.12,
+            1337.12,
+            "İngilizce Altyazı"
+        ],
+        "444": [
+            1337.12,
+            1338.66,
+            "İngilizce Altyazı"
+        ],
+        "445": [
+            1338.66,
+            1340.62,
+            "İngilizce Altyazı"
+        ],
+        "446": [
+            1340.62,
+            1342.2,
+            "İngilizce Altyazı"
+        ],
+        "447": [
+            1342.2,
+            1343.88,
+            "İngilizce Altyazı"
+        ],
+        "448": [
+            1351.38,
+            1353.88,
+            "Briz HARALDI"
+        ],
+        "449": [
+            1356.88,
+            1358.44,
+            "İngilizce Altyazı"
+        ],
+        "450": [
+            1360.14,
+            1362.22,
+            "İngilizce Altyazı"
+        ],
+        "451": [
+            1362.22,
+            1363.22,
+            "Topla buluştu"
+        ],
+        "452": [
+            1365.74,
+            1366.74,
+            "Juanfran"
+        ],
+        "453": [
+            1369.82,
+            1371.3,
+            "Juanfran'ın pası"
+        ],
+        "454": [
+            1371.82,
+            1372.82,
+            "Gabi ortaladı"
+        ],
+        "455": [
+            1372.82,
+            1374.42,
+            "Mustera deli kebap"
+        ],
+        "456": [
+            1374.42,
+            1375.86,
+            "Dönüyor Diniayer'dan"
+        ],
+        "457": [
+            1377.14,
+            1379.14,
+            "Vuruşu yapan Ligoyes Diniayer"
+        ],
+        "458": [
+            1380.38,
+            1381.38,
+            "Top ona çarptı"
+        ],
+        "459": [
+            1384.1,
+            1386.7,
+            "68 dakikayı bitirdik"
+        ],
+        "460": [
+            1387.38,
+            1389.74,
+            "Pozisyonu tekrar izleyelim"
+        ],
+        "461": [
+            1390.62,
+            1393.46,
+            "Bokasaray Kalesi'nde 3. gol keyfi kesildi"
+        ],
+        "462": [
+            1397.66,
+            1398.66,
+            "Selçuk"
+        ],
+        "463": [
+            1417.14,
+            1418.14,
+            "Semih"
+        ],
+        "464": [
+            1419.02,
+            1420.02,
+            "Umut"
+        ],
+        "465": [
+            1420.94,
+            1421.94,
+            "Tekrar Selçuk"
+        ],
+        "466": [
+            1424.14,
+            1426.14,
+            "Tüm hatlarıyla yaralanında Atletico Madrid"
+        ],
+        "467": [
+            1427.58,
+            1428.58,
+            "Schneider"
+        ],
+        "468": [
+            1431.42,
+            1432.42,
+            "Umut"
+        ],
+        "469": [
+            1432.62,
+            1433.62,
+            "Karol solda"
+        ],
+        "470": [
+            1435.38,
+            1436.38,
+            "Karol"
+        ],
+        "471": [
+            1439.66,
+            1441.18,
+            "Umut'tan geriye doğru"
+        ],
+        "472": [
+            1441.42,
+            1442.78,
+            "Selçuk, Hakan"
+        ],
+        "473": [
+            1442.94,
+            1443.94,
+            "Tek top"
+        ],
+        "474": [
+            1444.22,
+            1446.14,
+            "Diniayer alkış alıyor bu paslaşma"
+        ],
+        "475": [
+            1446.14,
+            1447.14,
+            "Şimdi"
+        ],
+        "476": [
+            1447.14,
+            1448.14,
+            "Yasin"
+        ],
+        "477": [
+            1448.7,
+            1450.5,
+            "Yasin orta yapmadı ilk anda"
+        ],
+        "478": [
+            1450.86,
+            1452.34,
+            "Şimdi o şansı buldu"
+        ],
+        "479": [
+            1452.78,
+            1454.14,
+            "Podolski yükselemedi"
+        ],
+        "480": [
+            1455.14,
+            1456.14,
+            "Torres"
+        ],
+        "481": [
+            1458.26,
+            1461.02,
+            "Araya girme çabasında Diniayer çok şükür hareketlerini aldı"
+        ],
+        "482": [
+            1461.38,
+            1462.38,
+            "Schneider"
+        ],
+        "483": [
+            1462.38,
+            1463.38,
+            "Ondan Karol'e"
+        ],
+        "484": [
+            1463.38,
+            1464.38,
+            "Organize gelişiyor"
+        ],
+        "485": [
+            1464.38,
+            1465.38,
+            "Dercen atak"
+        ],
+        "486": [
+            1466.34,
+            1467.78,
+            "Top kaybı Karol'den"
+        ],
+        "487": [
+            1470.46,
+            1471.46,
+            "Gabi"
+        ],
+        "488": [
+            1472.26,
+            1474.1,
+            "Burak'ın ve Umut'un baskısı var"
+        ],
+        "489": [
+            1474.78,
+            1476.26,
+            "Val yapıyor Burak Yılmaz"
+        ],
+        "490": [
+            1479.1,
+            1480.1,
+            "Karol"
+        ],
+        "491": [
+            1481.06,
+            1482.06,
+            "Karol"
+        ],
+        "492": [
+            1483.1,
+            1484.1,
+            "Karol"
+        ],
+        "493": [
+            1484.94,
+            1485.94,
+            "Karol"
+        ],
+        "494": [
+            1486.78,
+            1487.78,
+            "Karol"
+        ],
+        "495": [
+            1489.22,
+            1490.22,
+            "Karol"
+        ],
+        "496": [
+            1491.06,
+            1492.06,
+            "Kokey"
+        ],
+        "497": [
+            1493.1,
+            1495.5,
+            "20 dakika kaldı maçın tamamlanmasına"
+        ],
+        "498": [
+            1498.94,
+            1500.46,
+            "Uzun mesafeli bir pas"
+        ],
+        "499": [
+            1500.62,
+            1501.98,
+            "Torres iyi kontrol edebiliyor"
+        ],
+        "500": [
+            1501.98,
+            1502.98,
+            "Açıyı kaybediyor"
+        ],
+        "501": [
+            1502.98,
+            1503.98,
+            "Semih yakın"
+        ],
+        "502": [
+            1503.98,
+            1505.7,
+            "Fal yapıyor Fernando Torres"
+        ],
+        "503": [
+            1509.1,
+            1510.1,
+            "Sarı Kımızılar"
+        ],
+        "504": [
+            1510.1,
+            1511.1,
+            "Son değişikliğini yapacak"
+        ],
+        "505": [
+            1511.1,
+            1513.1,
+            "Hamza Hamzaoğlu'nun yanında Sinan Gümüş var"
+        ],
+        "506": [
+            1513.1,
+            1515.1,
+            "Oyuna girme hazırlığında Sinan"
+        ],
+        "507": [
+            1515.1,
+            1516.1,
+            "Burak"
+        ],
+        "508": [
+            1516.1,
+            1518.1,
+            "Bu dakikaya kadar"
+        ],
+        "509": [
+            1518.1,
+            1520.1,
+            "O misyon bulmakta çok ama çok zorlandı"
+        ],
+        "510": [
+            1520.1,
+            1521.1,
+            "Burak Yılmaz"
+        ],
+        "511": [
+            1521.1,
+            1522.1,
+            "Schneider"
+        ],
+        "512": [
+            1522.1,
+            1523.1,
+            "Selçuk"
+        ],
+        "513": [
+            1525.1,
+            1526.1,
+            "Tekrar Schneider"
+        ],
+        "514": [
+            1529.1,
+            1530.1,
+            "Pas iyi değil"
+        ],
+        "515": [
+            1530.1,
+            1531.1,
+            "Pesli Schneider'da"
+        ],
+        "516": [
+            1531.1,
+            1532.1,
+            "Bu da"
+        ],
+        "517": [
+            1532.1,
+            1533.1,
+            "Bu da"
+        ],
+        "518": [
+            1533.1,
+            1534.1,
+            "Bu da"
+        ],
+        "519": [
+            1534.1,
+            1535.1,
+            "Bu da"
+        ],
+        "520": [
+            1535.1,
+            1536.1,
+            "Bu da"
+        ],
+        "521": [
+            1536.1,
+            1537.1,
+            "Bu da"
+        ],
+        "522": [
+            1537.1,
+            1538.1,
+            "Bu da"
+        ],
+        "523": [
+            1538.1,
+            1539.1,
+            "Bu da"
+        ],
+        "524": [
+            1539.1,
+            1540.1,
+            "Bu da"
+        ],
+        "525": [
+            1540.1,
+            1542.1,
+            "Bu da"
+        ],
+        "526": [
+            1542.1,
+            1543.1,
+            "Bu da"
+        ],
+        "527": [
+            1543.1,
+            1544.1,
+            "Bu da"
+        ],
+        "528": [
+            1544.1,
+            1545.1,
+            "Bu da"
+        ],
+        "529": [
+            1545.1,
+            1546.1,
+            "Bu da"
+        ],
+        "530": [
+            1546.1,
+            1553.1,
+            "Burak Yılmaz"
+        ],
+        "531": [
+            1553.1,
+            1561.62,
+            "Özge"
+        ],
+        "532": [
+            1561.62,
+            1563.62,
+            "Bir fırsattı farkı biri indirmek adına"
+        ],
+        "533": [
+            1569.12,
+            1569.62,
+            "Bugünün"
+        ],
+        "534": [
+            1570.38,
+            1572.88,
+            "Ayağı kırıklığı yaratan isimlerinden biri olduğu"
+        ],
+        "535": [
+            1573.72,
+            1574.72,
+            "Lukas Podolski"
+        ],
+        "536": [
+            1576.3,
+            1576.8,
+            "Diniers"
+        ],
+        "537": [
+            1577.22,
+            1579.22,
+            "Kontrolsüz dışında yüklendiğini işaret ediyor"
+        ],
+        "538": [
+            1579.22,
+            1580.22,
+            "Bolonyalı haken"
+        ],
+        "539": [
+            1580.22,
+            1582.22,
+            "Rakibinin üzerine Diniers'in"
+        ],
+        "540": [
+            1591.62,
+            1605.62,
+            "Top kaybı Antonyo Maldite şans getirecek"
+        ],
+        "541": [
+            1605.62,
+            1607.62,
+            "Niko Ezi'yi kontrol edemedi"
+        ],
+        "542": [
+            1607.62,
+            1609.62,
+            "Hüseyin Ert"
+        ],
+        "543": [
+            1609.62,
+            1611.62,
+            "Selçuk"
+        ],
+        "544": [
+            1611.62,
+            1613.62,
+            "Bir far daha"
+        ],
+        "545": [
+            1621.62,
+            1631.62,
+            "Semih"
+        ],
+        "546": [
+            1631.62,
+            1633.62,
+            "Umut kendini gösterdi"
+        ],
+        "547": [
+            1633.62,
+            1635.62,
+            "Selçuk"
+        ],
+        "548": [
+            1635.62,
+            1637.62,
+            "Schneider"
+        ],
+        "549": [
+            1637.62,
+            1641.62,
+            "Özellikle 2.yerde oyuna girdikten sonra sağ kanada hareketleri kazandırmıştı ama onda da bir düşme vardı"
+        ],
+        "550": [
+            1641.62,
+            1643.62,
+            "Yasin pastayı sabitliyor mu?"
+        ],
+        "551": [
+            1643.62,
+            1665.62,
+            "Bir kart daha çıkacak bu kezde Yasin baştaki 3.sarı kart gazasarayda 2. oyuncu sarı kart gören"
+        ],
+        "552": [
+            1665.62,
+            1667.62,
+            "İzmir'e"
+        ],
+        "553": [
+            1667.62,
+            1669.62,
+            "İzmir'e"
+        ],
+        "554": [
+            1669.62,
+            1671.62,
+            "İzmir'e"
+        ],
+        "555": [
+            1671.62,
+            1673.62,
+            "İzmir'e"
+        ],
+        "556": [
+            1673.62,
+            1675.62,
+            "İzmir'e"
+        ],
+        "557": [
+            1675.62,
+            1677.62,
+            "İzmir'e"
+        ],
+        "558": [
+            1677.62,
+            1679.62,
+            "İzmir'e"
+        ],
+        "559": [
+            1679.62,
+            1681.62,
+            "İzmir'e"
+        ],
+        "560": [
+            1681.62,
+            1683.62,
+            "İzmir'e"
+        ],
+        "561": [
+            1683.62,
+            1685.62,
+            "İzmir'e"
+        ],
+        "562": [
+            1685.62,
+            1687.62,
+            "İzmir'e"
+        ],
+        "563": [
+            1687.62,
+            1689.62,
+            "İzmir'e"
+        ],
+        "564": [
+            1689.62,
+            1691.62,
+            "İzmir'e"
+        ],
+        "565": [
+            1691.62,
+            1693.62,
+            "İzmir'e"
+        ],
+        "566": [
+            1693.62,
+            1695.62,
+            "İzmir'e"
+        ],
+        "567": [
+            1695.62,
+            1697.62,
+            "İzmir'e"
+        ],
+        "568": [
+            1697.62,
+            1699.62,
+            "İzmir'e"
+        ],
+        "569": [
+            1699.62,
+            1701.62,
+            "İzmir'e"
+        ],
+        "570": [
+            1701.62,
+            1703.62,
+            "İzmir'e"
+        ],
+        "571": [
+            1703.62,
+            1705.62,
+            "İzmir'e"
+        ],
+        "572": [
+            1705.62,
+            1707.62,
+            "İzmir'e"
+        ],
+        "573": [
+            1707.62,
+            1709.62,
+            "İzmir'e"
+        ],
+        "574": [
+            1709.62,
+            1711.62,
+            "İzmir'e"
+        ],
+        "575": [
+            1711.62,
+            1713.62,
+            "İzmir'e"
+        ],
+        "576": [
+            1713.62,
+            1715.62,
+            "İzmir'e"
+        ],
+        "577": [
+            1715.62,
+            1717.62,
+            "İzmir'e"
+        ],
+        "578": [
+            1717.62,
+            1719.62,
+            "İzmir'e"
+        ],
+        "579": [
+            1719.62,
+            1721.62,
+            "İzmir'e"
+        ],
+        "580": [
+            1721.62,
+            1723.62,
+            "İzmir'e"
+        ],
+        "581": [
+            1723.62,
+            1725.62,
+            "İzmir'e"
+        ],
+        "582": [
+            1725.62,
+            1727.62,
+            "İzmir'e"
+        ],
+        "583": [
+            1727.62,
+            1729.62,
+            "İzmir'e"
+        ],
+        "584": [
+            1729.62,
+            1731.62,
+            "İzmir'e"
+        ],
+        "585": [
+            1731.62,
+            1733.62,
+            "İzmir'e"
+        ],
+        "586": [
+            1733.62,
+            1735.62,
+            "İzmir'e"
+        ],
+        "587": [
+            1735.62,
+            1737.62,
+            "İzmir'e"
+        ],
+        "588": [
+            1737.62,
+            1739.62,
+            "İzmir'e"
+        ],
+        "589": [
+            1739.62,
+            1741.62,
+            "İzmir'e"
+        ],
+        "590": [
+            1741.62,
+            1743.62,
+            "İzmir'e"
+        ],
+        "591": [
+            1743.62,
+            1745.62,
+            "İzmir'e"
+        ],
+        "592": [
+            1745.62,
+            1747.62,
+            "İzmir'e"
+        ],
+        "593": [
+            1747.62,
+            1749.62,
+            "İzmir'e"
+        ],
+        "594": [
+            1749.62,
+            1751.62,
+            "İzmir'e"
+        ],
+        "595": [
+            1751.62,
+            1753.62,
+            "İzmir'e"
+        ],
+        "596": [
+            1753.62,
+            1755.62,
+            "İzmir'e"
+        ],
+        "597": [
+            1755.62,
+            1757.62,
+            "İzmir'e"
+        ],
+        "598": [
+            1757.62,
+            1759.62,
+            "İzmir'e"
+        ],
+        "599": [
+            1759.62,
+            1761.62,
+            "İzmir'e"
+        ],
+        "600": [
+            1761.62,
+            1763.62,
+            "İzmir'e"
+        ],
+        "601": [
+            1763.62,
+            1765.62,
+            "İzmir'e"
+        ],
+        "602": [
+            1765.62,
+            1767.62,
+            "İzmir'e"
+        ],
+        "603": [
+            1767.62,
+            1769.62,
+            "İzmir'e"
+        ],
+        "604": [
+            1769.62,
+            1771.62,
+            "İzmir'e"
+        ],
+        "605": [
+            1771.62,
+            1773.62,
+            "İzmir'e"
+        ],
+        "606": [
+            1773.62,
+            1775.62,
+            "İzmir'e"
+        ],
+        "607": [
+            1775.62,
+            1777.62,
+            "İzmir'e"
+        ],
+        "608": [
+            1777.62,
+            1779.62,
+            "İzmir'e"
+        ],
+        "609": [
+            1779.62,
+            1781.62,
+            "İzmir'e"
+        ],
+        "610": [
+            1781.62,
+            1783.62,
+            "İzmir'e"
+        ],
+        "611": [
+            1783.62,
+            1785.62,
+            "İzmir'e"
+        ],
+        "612": [
+            1785.62,
+            1787.62,
+            "İzmir'e"
+        ],
+        "613": [
+            1787.62,
+            1789.62,
+            "İzmir'e"
+        ],
+        "614": [
+            1789.62,
+            1791.62,
+            "İzmir'e"
+        ],
+        "615": [
+            1791.62,
+            1793.62,
+            "İzmir'e"
+        ],
+        "616": [
+            1793.62,
+            1795.62,
+            "İzmir'e"
+        ],
+        "617": [
+            1795.62,
+            1797.62,
+            "İzmir'e"
+        ],
+        "618": [
+            1797.62,
+            1799.62,
+            "İzmir'e"
+        ],
+        "619": [
+            1799.62,
+            1801.62,
+            "İzmir'e"
+        ],
+        "620": [
+            1801.62,
+            1803.62,
+            "İzmir'e"
+        ],
+        "621": [
+            1803.62,
+            1805.62,
+            "İzmir'e"
+        ],
+        "622": [
+            1805.62,
+            1807.62,
+            "İzmir'e"
+        ],
+        "623": [
+            1807.62,
+            1809.62,
+            "İzmir'e"
+        ],
+        "624": [
+            1809.62,
+            1811.62,
+            "İzmir'e"
+        ],
+        "625": [
+            1811.62,
+            1813.62,
+            "İzmir'e"
+        ],
+        "626": [
+            1813.62,
+            1815.62,
+            "İzmir'e"
+        ],
+        "627": [
+            1815.62,
+            1817.62,
+            "İzmir'e"
+        ],
+        "628": [
+            1817.62,
+            1819.62,
+            "İzmir'e"
+        ],
+        "629": [
+            1819.62,
+            1821.62,
+            "İzmir'e"
+        ],
+        "630": [
+            1821.62,
+            1823.62,
+            "İzmir'e"
+        ],
+        "631": [
+            1823.62,
+            1825.62,
+            "İzmir'e"
+        ],
+        "632": [
+            1825.62,
+            1827.62,
+            "İzmir'e"
+        ],
+        "633": [
+            1827.62,
+            1829.62,
+            "İzmir'e"
+        ],
+        "634": [
+            1829.62,
+            1831.62,
+            "İzmir'e"
+        ],
+        "635": [
+            1831.62,
+            1833.62,
+            "İzmir'e"
+        ],
+        "636": [
+            1833.62,
+            1835.62,
+            "İzmir'e"
+        ],
+        "637": [
+            1835.62,
+            1837.62,
+            "İzmir'e"
+        ],
+        "638": [
+            1837.62,
+            1839.62,
+            "İzmir'e"
+        ],
+        "639": [
+            1839.62,
+            1841.62,
+            "İzmir'e"
+        ],
+        "640": [
+            1841.62,
+            1843.62,
+            "İzmir'e"
+        ],
+        "641": [
+            1843.62,
+            1845.62,
+            "İzmir'e"
+        ],
+        "642": [
+            1845.62,
+            1847.62,
+            "İzmir'e"
+        ],
+        "643": [
+            1847.62,
+            1849.62,
+            "İzmir'e"
+        ],
+        "644": [
+            1849.62,
+            1851.62,
+            "İzmir'e"
+        ],
+        "645": [
+            1851.62,
+            1853.62,
+            "İzmir'e"
+        ],
+        "646": [
+            1853.62,
+            1855.62,
+            "İzmir'e"
+        ],
+        "647": [
+            1855.62,
+            1857.62,
+            "İzmir'e"
+        ],
+        "648": [
+            1857.62,
+            1859.62,
+            "İzmir'e"
+        ],
+        "649": [
+            1859.62,
+            1861.62,
+            "İzmir'e"
+        ],
+        "650": [
+            1861.62,
+            1863.62,
+            "İzmir'e"
+        ],
+        "651": [
+            1863.62,
+            1865.62,
+            "İzmir'e"
+        ],
+        "652": [
+            1865.62,
+            1867.62,
+            "İzmir'e"
+        ],
+        "653": [
+            1867.62,
+            1869.62,
+            "İzmir'e"
+        ],
+        "654": [
+            1869.62,
+            1871.62,
+            "İzmir'e"
+        ],
+        "655": [
+            1871.62,
+            1873.62,
+            "İzmir'e"
+        ],
+        "656": [
+            1873.62,
+            1875.62,
+            "İzmir'e"
+        ],
+        "657": [
+            1875.62,
+            1877.62,
+            "İzmir'e"
+        ],
+        "658": [
+            1877.62,
+            1879.62,
+            "İzmir'e"
+        ],
+        "659": [
+            1879.62,
+            1881.62,
+            "İzmir'e"
+        ],
+        "660": [
+            1881.62,
+            1883.62,
+            "İzmir'e"
+        ],
+        "661": [
+            1883.62,
+            1885.62,
+            "İzmir'e"
+        ],
+        "662": [
+            1885.62,
+            1887.62,
+            "İzmir'e"
+        ],
+        "663": [
+            1887.62,
+            1889.62,
+            "İzmir'e"
+        ],
+        "664": [
+            1889.62,
+            1891.62,
+            "İzmir'e"
+        ],
+        "665": [
+            1891.62,
+            1893.62,
+            "İzmir'e"
+        ],
+        "666": [
+            1893.62,
+            1895.62,
+            "İzmir'e"
+        ],
+        "667": [
+            1895.62,
+            1897.62,
+            "İzmir'e"
+        ],
+        "668": [
+            1897.62,
+            1899.62,
+            "İzmir'e"
+        ],
+        "669": [
+            1899.62,
+            1901.62,
+            "İzmir'e"
+        ],
+        "670": [
+            1901.62,
+            1903.62,
+            "İzmir'e"
+        ],
+        "671": [
+            1903.62,
+            1905.62,
+            "İzmir'e"
+        ],
+        "672": [
+            1905.62,
+            1907.62,
+            "İzmir'e"
+        ],
+        "673": [
+            1907.62,
+            1909.62,
+            "İzmir'e"
+        ],
+        "674": [
+            1909.62,
+            1911.62,
+            "İzmir'e"
+        ],
+        "675": [
+            1911.62,
+            1913.62,
+            "İzmir'e"
+        ],
+        "676": [
+            1913.62,
+            1915.62,
+            "İzmir'e"
+        ],
+        "677": [
+            1915.62,
+            1917.62,
+            "İzmir'e"
+        ],
+        "678": [
+            1917.62,
+            1919.62,
+            "İzmir'e"
+        ],
+        "679": [
+            1919.62,
+            1921.62,
+            "İzmir'e"
+        ],
+        "680": [
+            1921.62,
+            1923.62,
+            "İzmir'e"
+        ],
+        "681": [
+            1923.62,
+            1925.62,
+            "İzmir'e"
+        ],
+        "682": [
+            1925.62,
+            1927.62,
+            "İzmir'e"
+        ],
+        "683": [
+            1927.62,
+            1929.62,
+            "İzmir'e"
+        ],
+        "684": [
+            1929.62,
+            1931.62,
+            "İzmir'e"
+        ],
+        "685": [
+            1931.62,
+            1933.62,
+            "İzmir'e"
+        ],
+        "686": [
+            1933.62,
+            1935.62,
+            "İzmir'e"
+        ],
+        "687": [
+            1935.62,
+            1937.62,
+            "İzmir'e"
+        ],
+        "688": [
+            1937.62,
+            1939.62,
+            "İzmir'e"
+        ],
+        "689": [
+            1939.62,
+            1941.62,
+            "İzmir'e"
+        ],
+        "690": [
+            1941.62,
+            1943.62,
+            "İzmir'e"
+        ],
+        "691": [
+            1943.62,
+            1945.62,
+            "İzmir'e"
+        ],
+        "692": [
+            1945.62,
+            1947.62,
+            "İzmir'e"
+        ],
+        "693": [
+            1947.62,
+            1949.62,
+            "İzmir'e"
+        ],
+        "694": [
+            1949.62,
+            1951.62,
+            "İzmir'e"
+        ],
+        "695": [
+            1951.62,
+            1953.62,
+            "İzmir'e"
+        ],
+        "696": [
+            1953.62,
+            1955.62,
+            "İzmir'e"
+        ],
+        "697": [
+            1955.62,
+            1957.62,
+            "İzmir'e"
+        ],
+        "698": [
+            1957.62,
+            1959.62,
+            "İzmir'e"
+        ],
+        "699": [
+            1959.62,
+            1961.62,
+            "İzmir'e"
+        ],
+        "700": [
+            1961.62,
+            1963.62,
+            "İzmir'e"
+        ],
+        "701": [
+            1963.62,
+            1965.62,
+            "İzmir'e"
+        ],
+        "702": [
+            1965.62,
+            1967.62,
+            "İzmir'e"
+        ],
+        "703": [
+            1967.62,
+            1969.62,
+            "İzmir'e"
+        ],
+        "704": [
+            1969.62,
+            1971.62,
+            "İzmir'e"
+        ],
+        "705": [
+            1971.62,
+            1973.62,
+            "İzmir'e"
+        ],
+        "706": [
+            1973.62,
+            1975.62,
+            "İzmir'e"
+        ],
+        "707": [
+            1975.62,
+            1977.62,
+            "İzmir'e"
+        ],
+        "708": [
+            1977.62,
+            1979.62,
+            "İzmir'e"
+        ],
+        "709": [
+            1979.62,
+            1981.62,
+            "İzmir'e"
+        ],
+        "710": [
+            1981.62,
+            1983.62,
+            "İzmir'e"
+        ],
+        "711": [
+            1983.62,
+            1985.62,
+            "İzmir'e"
+        ],
+        "712": [
+            1985.62,
+            1987.62,
+            "İzmir'e"
+        ],
+        "713": [
+            1987.62,
+            1989.62,
+            "İzmir'e"
+        ],
+        "714": [
+            1989.62,
+            1991.62,
+            "İzmir'e"
+        ],
+        "715": [
+            1991.62,
+            1993.62,
+            "İzmir'e"
+        ],
+        "716": [
+            1993.62,
+            1995.62,
+            "İzmir'e"
+        ],
+        "717": [
+            1995.62,
+            1997.62,
+            "İzmir'e"
+        ],
+        "718": [
+            1997.62,
+            1999.62,
+            "İzmir'e"
+        ],
+        "719": [
+            1999.62,
+            2001.62,
+            "İzmir'e"
+        ],
+        "720": [
+            2001.62,
+            2003.62,
+            "İzmir'e"
+        ],
+        "721": [
+            2003.62,
+            2005.62,
+            "İzmir'e"
+        ],
+        "722": [
+            2005.62,
+            2007.62,
+            "İzmir'e"
+        ],
+        "723": [
+            2007.62,
+            2009.62,
+            "İzmir'e"
+        ],
+        "724": [
+            2009.62,
+            2011.62,
+            "İzmir'e"
+        ],
+        "725": [
+            2011.62,
+            2013.62,
+            "İzmir'e"
+        ],
+        "726": [
+            2013.62,
+            2015.62,
+            "İzmir'e"
+        ],
+        "727": [
+            2015.62,
+            2017.62,
+            "İzmir'e"
+        ],
+        "728": [
+            2017.62,
+            2019.62,
+            "İzmir'e"
+        ],
+        "729": [
+            2019.62,
+            2021.62,
+            "İzmir'e"
+        ],
+        "730": [
+            2021.62,
+            2023.62,
+            "İzmir'e"
+        ],
+        "731": [
+            2023.62,
+            2025.62,
+            "İzmir'e"
+        ],
+        "732": [
+            2025.62,
+            2027.62,
+            "İzmir'e"
+        ],
+        "733": [
+            2027.62,
+            2029.62,
+            "İzmir'e"
+        ],
+        "734": [
+            2029.62,
+            2031.62,
+            "İzmir'e"
+        ],
+        "735": [
+            2031.62,
+            2033.62,
+            "İzmir'e"
+        ],
+        "736": [
+            2033.62,
+            2035.62,
+            "İzmir'e"
+        ],
+        "737": [
+            2035.62,
+            2037.62,
+            "İzmir'e"
+        ],
+        "738": [
+            2037.62,
+            2039.62,
+            "İzmir'e"
+        ],
+        "739": [
+            2039.62,
+            2041.62,
+            "İzmir'e"
+        ],
+        "740": [
+            2041.62,
+            2043.62,
+            "İzmir'e"
+        ],
+        "741": [
+            2043.62,
+            2045.62,
+            "İzmir'e"
+        ],
+        "742": [
+            2045.62,
+            2047.62,
+            "İzmir'e"
+        ],
+        "743": [
+            2047.62,
+            2049.62,
+            "İzmir'e"
+        ],
+        "744": [
+            2049.62,
+            2051.62,
+            "İzmir'e"
+        ],
+        "745": [
+            2051.62,
+            2053.62,
+            "İzmir'e"
+        ],
+        "746": [
+            2053.62,
+            2055.62,
+            "İzmir'e"
+        ],
+        "747": [
+            2055.62,
+            2057.62,
+            "İzmir'e"
+        ],
+        "748": [
+            2057.62,
+            2059.62,
+            "İzmir'e"
+        ],
+        "749": [
+            2059.62,
+            2061.62,
+            "İzmir'e"
+        ],
+        "750": [
+            2061.62,
+            2063.62,
+            "İzmir'e"
+        ],
+        "751": [
+            2063.62,
+            2065.62,
+            "İzmir'e"
+        ],
+        "752": [
+            2065.62,
+            2067.62,
+            "İzmir'e"
+        ],
+        "753": [
+            2067.62,
+            2069.62,
+            "İzmir'e"
+        ],
+        "754": [
+            2069.62,
+            2071.62,
+            "İzmir'e"
+        ],
+        "755": [
+            2071.62,
+            2073.62,
+            "İzmir'e"
+        ],
+        "756": [
+            2073.62,
+            2075.62,
+            "İzmir'e"
+        ],
+        "757": [
+            2075.62,
+            2077.62,
+            "İzmir'e"
+        ],
+        "758": [
+            2077.62,
+            2079.62,
+            "İzmir'e"
+        ],
+        "759": [
+            2079.62,
+            2081.62,
+            "İzmir'e"
+        ],
+        "760": [
+            2081.62,
+            2083.62,
+            "İzmir'e"
+        ],
+        "761": [
+            2083.62,
+            2085.62,
+            "İzmir'e"
+        ],
+        "762": [
+            2085.62,
+            2087.62,
+            "İzmir'e"
+        ],
+        "763": [
+            2087.62,
+            2089.62,
+            "İzmir'e"
+        ],
+        "764": [
+            2089.62,
+            2091.62,
+            "İzmir'e"
+        ],
+        "765": [
+            2091.62,
+            2093.62,
+            "İzmir'e"
+        ],
+        "766": [
+            2093.62,
+            2095.62,
+            "İzmir'e"
+        ],
+        "767": [
+            2095.62,
+            2097.62,
+            "İzmir'e"
+        ],
+        "768": [
+            2097.62,
+            2099.62,
+            "İzmir'e"
+        ],
+        "769": [
+            2099.62,
+            2101.62,
+            "İzmir'e"
+        ],
+        "770": [
+            2101.62,
+            2103.62,
+            "İzmir'e"
+        ],
+        "771": [
+            2103.62,
+            2105.62,
+            "İzmir'e"
+        ],
+        "772": [
+            2105.62,
+            2107.62,
+            "İzmir'e"
+        ],
+        "773": [
+            2107.62,
+            2109.62,
+            "İzmir'e"
+        ],
+        "774": [
+            2109.62,
+            2111.62,
+            "İzmir'e"
+        ],
+        "775": [
+            2111.62,
+            2113.62,
+            "İzmir'e"
+        ],
+        "776": [
+            2113.62,
+            2115.62,
+            "İzmir'e"
+        ],
+        "777": [
+            2115.62,
+            2117.62,
+            "İzmir'e"
+        ],
+        "778": [
+            2117.62,
+            2119.62,
+            "İzmir'e"
+        ],
+        "779": [
+            2119.62,
+            2121.62,
+            "İzmir'e"
+        ],
+        "780": [
+            2121.62,
+            2123.62,
+            "İzmir'e"
+        ],
+        "781": [
+            2123.62,
+            2125.62,
+            "İzmir'e"
+        ],
+        "782": [
+            2125.62,
+            2127.62,
+            "İzmir'e"
+        ],
+        "783": [
+            2127.62,
+            2129.62,
+            "İzmir'e"
+        ],
+        "784": [
+            2129.62,
+            2131.62,
+            "İzmir'e"
+        ],
+        "785": [
+            2131.62,
+            2133.62,
+            "İzmir'e"
+        ],
+        "786": [
+            2133.62,
+            2135.62,
+            "İzmir'e"
+        ],
+        "787": [
+            2135.62,
+            2137.62,
+            "İzmir'e"
+        ],
+        "788": [
+            2137.62,
+            2139.62,
+            "İzmir'e"
+        ],
+        "789": [
+            2139.62,
+            2141.62,
+            "İzmir'e"
+        ],
+        "790": [
+            2141.62,
+            2143.62,
+            "İzmir'e"
+        ],
+        "791": [
+            2143.62,
+            2145.62,
+            "İzmir'e"
+        ],
+        "792": [
+            2145.62,
+            2147.62,
+            "İzmir'e"
+        ],
+        "793": [
+            2147.62,
+            2149.62,
+            "İzmir'e"
+        ],
+        "794": [
+            2149.62,
+            2151.62,
+            "İzmir'e"
+        ],
+        "795": [
+            2151.62,
+            2153.62,
+            "İzmir'e"
+        ],
+        "796": [
+            2153.62,
+            2155.62,
+            "İzmir'e"
+        ],
+        "797": [
+            2155.62,
+            2157.62,
+            "İzmir'e"
+        ],
+        "798": [
+            2157.62,
+            2159.62,
+            "İzmir'e"
+        ],
+        "799": [
+            2159.62,
+            2161.62,
+            "İzmir'e"
+        ],
+        "800": [
+            2161.62,
+            2163.62,
+            "İzmir'e"
+        ],
+        "801": [
+            2163.62,
+            2165.62,
+            "İzmir'e"
+        ],
+        "802": [
+            2165.62,
+            2167.62,
+            "İzmir'e"
+        ],
+        "803": [
+            2167.62,
+            2169.62,
+            "İzmir'e"
+        ],
+        "804": [
+            2169.62,
+            2171.62,
+            "İzmir'e"
+        ],
+        "805": [
+            2171.62,
+            2173.62,
+            "İzmir'e"
+        ],
+        "806": [
+            2173.62,
+            2175.62,
+            "İzmir'e"
+        ],
+        "807": [
+            2175.62,
+            2177.62,
+            "İzmir'e"
+        ],
+        "808": [
+            2177.62,
+            2179.62,
+            "İzmir'e"
+        ],
+        "809": [
+            2179.62,
+            2181.62,
+            "İzmir'e"
+        ],
+        "810": [
+            2181.62,
+            2183.62,
+            "İzmir'e"
+        ],
+        "811": [
+            2183.62,
+            2185.62,
+            "İzmir'e"
+        ],
+        "812": [
+            2185.62,
+            2187.62,
+            "İzmir'e"
+        ],
+        "813": [
+            2187.62,
+            2189.62,
+            "İzmir'e"
+        ],
+        "814": [
+            2189.62,
+            2191.62,
+            "İzmir'e"
+        ],
+        "815": [
+            2191.62,
+            2193.62,
+            "İzmir'e"
+        ],
+        "816": [
+            2193.62,
+            2195.62,
+            "İzmir'e"
+        ],
+        "817": [
+            2195.62,
+            2197.62,
+            "İzmir'e"
+        ],
+        "818": [
+            2197.62,
+            2199.62,
+            "İzmir'e"
+        ],
+        "819": [
+            2199.62,
+            2201.62,
+            "İzmir'e"
+        ],
+        "820": [
+            2201.62,
+            2203.62,
+            "İzmir'e"
+        ],
+        "821": [
+            2203.62,
+            2205.62,
+            "İzmir'e"
+        ],
+        "822": [
+            2205.62,
+            2207.62,
+            "İzmir'e"
+        ],
+        "823": [
+            2207.62,
+            2209.62,
+            "İzmir'e"
+        ],
+        "824": [
+            2209.62,
+            2211.62,
+            "İzmir'e"
+        ],
+        "825": [
+            2211.62,
+            2213.62,
+            "İzmir'e"
+        ],
+        "826": [
+            2213.62,
+            2215.62,
+            "İzmir'e"
+        ],
+        "827": [
+            2215.62,
+            2217.62,
+            "İzmir'e"
+        ],
+        "828": [
+            2217.62,
+            2219.62,
+            "İzmir'e"
+        ],
+        "829": [
+            2219.62,
+            2221.62,
+            "İzmir'e"
+        ],
+        "830": [
+            2221.62,
+            2223.62,
+            "İzmir'e"
+        ],
+        "831": [
+            2223.62,
+            2225.62,
+            "İzmir'e"
+        ],
+        "832": [
+            2225.62,
+            2227.62,
+            "İzmir'e"
+        ],
+        "833": [
+            2227.62,
+            2229.62,
+            "İzmir'e"
+        ],
+        "834": [
+            2229.62,
+            2231.62,
+            "İzmir'e"
+        ],
+        "835": [
+            2231.62,
+            2233.62,
+            "İzmir'e"
+        ],
+        "836": [
+            2233.62,
+            2235.62,
+            "İzmir'e"
+        ],
+        "837": [
+            2235.62,
+            2237.62,
+            "İzmir'e"
+        ],
+        "838": [
+            2237.62,
+            2239.62,
+            "İzmir'e"
+        ],
+        "839": [
+            2239.62,
+            2241.62,
+            "İzmir'e"
+        ],
+        "840": [
+            2241.62,
+            2243.62,
+            "İzmir'e"
+        ],
+        "841": [
+            2243.62,
+            2245.62,
+            "İzmir'e"
+        ],
+        "842": [
+            2245.62,
+            2247.62,
+            "İzmir'e"
+        ],
+        "843": [
+            2247.62,
+            2249.62,
+            "İzmir'e"
+        ],
+        "844": [
+            2249.62,
+            2251.62,
+            "İzmir'e"
+        ],
+        "845": [
+            2251.62,
+            2253.62,
+            "İzmir'e"
+        ],
+        "846": [
+            2253.62,
+            2255.62,
+            "İzmir'e"
+        ],
+        "847": [
+            2255.62,
+            2257.62,
+            "İzmir'e"
+        ],
+        "848": [
+            2257.62,
+            2259.62,
+            "İzmir'e"
+        ],
+        "849": [
+            2259.62,
+            2261.62,
+            "İzmir'e"
+        ],
+        "850": [
+            2261.62,
+            2263.62,
+            "İzmir'e"
+        ],
+        "851": [
+            2263.62,
+            2265.62,
+            "İzmir'e"
+        ],
+        "852": [
+            2265.62,
+            2267.62,
+            "İzmir'e"
+        ],
+        "853": [
+            2267.62,
+            2269.62,
+            "İzmir'e"
+        ],
+        "854": [
+            2269.62,
+            2271.62,
+            "İzmir'e"
+        ],
+        "855": [
+            2271.62,
+            2273.62,
+            "İzmir'e"
+        ],
+        "856": [
+            2273.62,
+            2275.62,
+            "İzmir'e"
+        ],
+        "857": [
+            2275.62,
+            2277.62,
+            "İzmir'e"
+        ],
+        "858": [
+            2277.62,
+            2279.62,
+            "İzmir'e"
+        ],
+        "859": [
+            2279.62,
+            2281.62,
+            "İzmir'e"
+        ],
+        "860": [
+            2281.62,
+            2283.62,
+            "İzmir'e"
+        ],
+        "861": [
+            2283.62,
+            2285.62,
+            "İzmir'e"
+        ],
+        "862": [
+            2285.62,
+            2287.62,
+            "İzmir'e"
+        ],
+        "863": [
+            2287.62,
+            2289.62,
+            "İzmir'e"
+        ],
+        "864": [
+            2289.62,
+            2291.62,
+            "İzmir'e"
+        ],
+        "865": [
+            2291.62,
+            2293.62,
+            "İzmir'e"
+        ],
+        "866": [
+            2293.62,
+            2295.62,
+            "İzmir'e"
+        ],
+        "867": [
+            2295.62,
+            2297.62,
+            "İzmir'e"
+        ],
+        "868": [
+            2297.62,
+            2299.62,
+            "İzmir'e"
+        ],
+        "869": [
+            2299.62,
+            2301.62,
+            "İzmir'e"
+        ],
+        "870": [
+            2301.62,
+            2303.62,
+            "İzmir'e"
+        ],
+        "871": [
+            2303.62,
+            2305.62,
+            "İzmir'e"
+        ],
+        "872": [
+            2305.62,
+            2307.62,
+            "İzmir'e"
+        ],
+        "873": [
+            2307.62,
+            2309.62,
+            "İzmir'e"
+        ],
+        "874": [
+            2309.62,
+            2311.62,
+            "İzmir'e"
+        ],
+        "875": [
+            2311.62,
+            2313.62,
+            "İzmir'e"
+        ],
+        "876": [
+            2313.62,
+            2315.62,
+            "İzmir'e"
+        ],
+        "877": [
+            2315.62,
+            2317.62,
+            "İzmir'e"
+        ],
+        "878": [
+            2317.62,
+            2319.62,
+            "İzmir'e"
+        ],
+        "879": [
+            2319.62,
+            2321.62,
+            "İzmir'e"
+        ],
+        "880": [
+            2321.62,
+            2323.62,
+            "İzmir'e"
+        ],
+        "881": [
+            2323.62,
+            2325.62,
+            "İzmir'e"
+        ],
+        "882": [
+            2325.62,
+            2327.62,
+            "İzmir'e"
+        ],
+        "883": [
+            2327.62,
+            2329.62,
+            "İzmir'e"
+        ],
+        "884": [
+            2329.62,
+            2331.62,
+            "İzmir'e"
+        ],
+        "885": [
+            2331.62,
+            2333.62,
+            "İzmir'e"
+        ],
+        "886": [
+            2333.62,
+            2335.62,
+            "İzmir'e"
+        ],
+        "887": [
+            2335.62,
+            2337.62,
+            "İzmir'e"
+        ],
+        "888": [
+            2337.62,
+            2339.62,
+            "İzmir'e"
+        ],
+        "889": [
+            2339.62,
+            2341.62,
+            "İzmir'e"
+        ],
+        "890": [
+            2341.62,
+            2343.62,
+            "İzmir'e"
+        ],
+        "891": [
+            2343.62,
+            2345.62,
+            "İzmir'e"
+        ],
+        "892": [
+            2345.62,
+            2347.62,
+            "İzmir'e"
+        ],
+        "893": [
+            2347.62,
+            2349.62,
+            "İzmir'e"
+        ],
+        "894": [
+            2349.62,
+            2351.62,
+            "İzmir'e"
+        ],
+        "895": [
+            2351.62,
+            2353.62,
+            "İzmir'e"
+        ],
+        "896": [
+            2353.62,
+            2355.62,
+            "İzmir'e"
+        ],
+        "897": [
+            2355.62,
+            2357.62,
+            "İzmir'e"
+        ],
+        "898": [
+            2357.62,
+            2359.62,
+            "İzmir'e"
+        ],
+        "899": [
+            2359.62,
+            2361.62,
+            "İzmir'e"
+        ],
+        "900": [
+            2361.62,
+            2363.62,
+            "İzmir'e"
+        ],
+        "901": [
+            2363.62,
+            2365.62,
+            "İzmir'e"
+        ],
+        "902": [
+            2365.62,
+            2367.62,
+            "İzmir'e"
+        ],
+        "903": [
+            2367.62,
+            2369.62,
+            "İzmir'e"
+        ],
+        "904": [
+            2369.62,
+            2371.62,
+            "İzmir'e"
+        ],
+        "905": [
+            2371.62,
+            2373.62,
+            "İzmir'e"
+        ],
+        "906": [
+            2373.62,
+            2375.62,
+            "İzmir'e"
+        ],
+        "907": [
+            2375.62,
+            2377.62,
+            "İzmir'e"
+        ],
+        "908": [
+            2377.62,
+            2379.62,
+            "İzmir'e"
+        ],
+        "909": [
+            2379.62,
+            2381.62,
+            "İzmir'e"
+        ],
+        "910": [
+            2381.62,
+            2383.62,
+            "İzmir'e"
+        ],
+        "911": [
+            2383.62,
+            2385.62,
+            "İzmir'e"
+        ],
+        "912": [
+            2385.62,
+            2387.62,
+            "İzmir'e"
+        ],
+        "913": [
+            2387.62,
+            2389.62,
+            "İzmir'e"
+        ],
+        "914": [
+            2389.62,
+            2391.62,
+            "İzmir'e"
+        ],
+        "915": [
+            2391.62,
+            2393.62,
+            "İzmir'e"
+        ],
+        "916": [
+            2393.62,
+            2395.62,
+            "İzmir'e"
+        ],
+        "917": [
+            2395.62,
+            2397.62,
+            "İzmir'e"
+        ],
+        "918": [
+            2397.62,
+            2399.62,
+            "İzmir'e"
+        ],
+        "919": [
+            2399.62,
+            2401.62,
+            "İzmir'e"
+        ],
+        "920": [
+            2401.62,
+            2403.62,
+            "İzmir'e"
+        ],
+        "921": [
+            2403.62,
+            2405.62,
+            "İzmir'e"
+        ],
+        "922": [
+            2405.62,
+            2407.62,
+            "İzmir'e"
+        ],
+        "923": [
+            2407.62,
+            2409.62,
+            "İzmir'e"
+        ],
+        "924": [
+            2409.62,
+            2411.62,
+            "İzmir'e"
+        ],
+        "925": [
+            2411.62,
+            2413.62,
+            "İzmir'e"
+        ],
+        "926": [
+            2413.62,
+            2415.62,
+            "İzmir'e"
+        ],
+        "927": [
+            2415.62,
+            2417.62,
+            "İzmir'e"
+        ],
+        "928": [
+            2417.62,
+            2419.62,
+            "İzmir'e"
+        ],
+        "929": [
+            2419.62,
+            2421.62,
+            "İzmir'e"
+        ],
+        "930": [
+            2421.62,
+            2423.62,
+            "İzmir'e"
+        ],
+        "931": [
+            2423.62,
+            2425.62,
+            "İzmir'e"
+        ],
+        "932": [
+            2425.62,
+            2427.62,
+            "İzmir'e"
+        ],
+        "933": [
+            2427.62,
+            2429.62,
+            "İzmir'e"
+        ],
+        "934": [
+            2429.62,
+            2431.62,
+            "İzmir'e"
+        ],
+        "935": [
+            2431.62,
+            2433.62,
+            "İzmir'e"
+        ],
+        "936": [
+            2433.62,
+            2435.62,
+            "İzmir'e"
+        ],
+        "937": [
+            2435.62,
+            2437.62,
+            "İzmir'e"
+        ],
+        "938": [
+            2437.62,
+            2439.62,
+            "İzmir'e"
+        ],
+        "939": [
+            2439.62,
+            2441.62,
+            "İzmir'e"
+        ],
+        "940": [
+            2441.62,
+            2443.62,
+            "İzmir'e"
+        ],
+        "941": [
+            2443.62,
+            2445.62,
+            "İzmir'e"
+        ],
+        "942": [
+            2445.62,
+            2447.62,
+            "İzmir'e"
+        ],
+        "943": [
+            2447.62,
+            2449.62,
+            "İzmir'e"
+        ],
+        "944": [
+            2449.62,
+            2451.62,
+            "İzmir'e"
+        ],
+        "945": [
+            2451.62,
+            2453.62,
+            "İzmir'e"
+        ],
+        "946": [
+            2453.62,
+            2455.62,
+            "İzmir'e"
+        ],
+        "947": [
+            2455.62,
+            2457.62,
+            "İzmir'e"
+        ],
+        "948": [
+            2457.62,
+            2459.62,
+            "İzmir'e"
+        ],
+        "949": [
+            2459.62,
+            2461.62,
+            "İzmir'e"
+        ],
+        "950": [
+            2461.62,
+            2463.62,
+            "İzmir'e"
+        ],
+        "951": [
+            2463.62,
+            2465.62,
+            "İzmir'e"
+        ],
+        "952": [
+            2465.62,
+            2467.62,
+            "İzmir'e"
+        ],
+        "953": [
+            2467.62,
+            2469.62,
+            "İzmir'e"
+        ],
+        "954": [
+            2469.62,
+            2471.62,
+            "İzmir'e"
+        ],
+        "955": [
+            2471.62,
+            2473.62,
+            "İzmir'e"
+        ],
+        "956": [
+            2473.62,
+            2475.62,
+            "İzmir'e"
+        ],
+        "957": [
+            2475.62,
+            2477.62,
+            "İzmir'e"
+        ],
+        "958": [
+            2477.62,
+            2479.62,
+            "Karol"
+        ],
+        "959": [
+            2481.62,
+            2483.62,
+            "Snider baskı altında"
+        ],
+        "960": [
+            2483.62,
+            2485.62,
+            "Kaç atışı"
+        ],
+        "961": [
+            2485.62,
+            2487.62,
+            "Sarıkabızlıların"
+        ],
+        "962": [
+            2489.62,
+            2491.62,
+            "Karol"
+        ],
+        "963": [
+            2495.62,
+            2497.62,
+            "Semih"
+        ],
+        "964": [
+            2507.62,
+            2509.62,
+            "Semih"
+        ],
+        "965": [
+            2511.62,
+            2513.62,
+            "Selçuk"
+        ],
+        "966": [
+            2525.62,
+            2527.62,
+            "Burak"
+        ],
+        "967": [
+            2527.62,
+            2529.62,
+            "Fiyako"
+        ],
+        "968": [
+            2533.62,
+            2535.62,
+            "Yasin"
+        ],
+        "969": [
+            2535.62,
+            2537.62,
+            "Yasin"
+        ],
+        "970": [
+            2539.62,
+            2541.62,
+            "Karol"
+        ],
+        "971": [
+            2547.62,
+            2549.62,
+            "Snider"
+        ],
+        "972": [
+            2549.62,
+            2551.62,
+            "Top"
+        ],
+        "973": [
+            2551.62,
+            2553.62,
+            "Fiyako"
+        ],
+        "974": [
+            2553.62,
+            2555.62,
+            "Fiyako"
+        ],
+        "975": [
+            2555.62,
+            2557.62,
+            "Fiyako"
+        ],
+        "976": [
+            2557.62,
+            2559.62,
+            "Fiyako"
+        ],
+        "977": [
+            2559.62,
+            2561.62,
+            "Fiyako"
+        ],
+        "978": [
+            2561.62,
+            2563.62,
+            "Fiyako"
+        ],
+        "979": [
+            2563.62,
+            2565.62,
+            "Sarıkabızlıların"
+        ],
+        "980": [
+            2569.62,
+            2571.62,
+            "Top"
+        ],
+        "981": [
+            2571.62,
+            2573.62,
+            "Sarıkabızlıların"
+        ],
+        "982": [
+            2573.62,
+            2575.62,
+            "Top"
+        ],
+        "983": [
+            2579.62,
+            2581.62,
+            "Top"
+        ],
+        "984": [
+            2581.62,
+            2583.62,
+            "Top"
+        ],
+        "985": [
+            2585.62,
+            2587.62,
+            "Top"
+        ],
+        "986": [
+            2587.62,
+            2589.62,
+            "Top"
+        ],
+        "987": [
+            2589.62,
+            2591.62,
+            "Top"
+        ],
+        "988": [
+            2621.62,
+            2622.62,
+            "Karol."
+        ],
+        "989": [
+            2624.62,
+            2626.62,
+            "Snyder'den içeriye doğru."
+        ],
+        "990": [
+            2628.62,
+            2630.62,
+            "Al. Burak Yılmaz."
+        ],
+        "991": [
+            2640.62,
+            2644.62,
+            "Maçın bitiminde TRT Spor ekranlarında maç sonu özel yayını başlayacak."
+        ],
+        "992": [
+            2644.62,
+            2646.62,
+            "Bu hatırlatmayı yapalım."
+        ],
+        "993": [
+            2646.62,
+            2654.62,
+            "Teknik adamların ve futbolcuların görüşlerini maç sonu özel yayınımızda bulabileceksiniz sevgili seyirciler."
+        ],
+        "994": [
+            2662.62,
+            2663.62,
+            "Snyder."
+        ],
+        "995": [
+            2664.62,
+            2667.62,
+            "İkinci amnesi. Yasin araya girmek istiyor, başaramadı."
+        ],
+        "996": [
+            2672.62,
+            2673.62,
+            "Gabi."
+        ],
+        "997": [
+            2674.62,
+            2675.62,
+            "Griezmann."
+        ],
+        "998": [
+            2676.62,
+            2677.62,
+            "Yılmaz."
+        ],
+        "999": [
+            2685.62,
+            2686.62,
+            "Yılmaz."
+        ],
+        "1000": [
+            2688.62,
+            2689.62,
+            "Yılmaz."
+        ],
+        "1001": [
+            2691.62,
+            2692.62,
+            "Yılmaz."
+        ]
+    }
+}

@@ -1,0 +1,4239 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.0,
+            "Los geht's!"
+        ],
+        "1": [
+            60.0,
+            61.0,
+            "Schieber."
+        ],
+        "2": [
+            61.0,
+            77.0,
+            "Im Fußballfachjargon spricht man von sogenannten Wandspielern, also Akteuren, die man hoch"
+        ],
+        "3": [
+            77.0,
+            81.72,
+            "anspielen kann, die dann den Ball halten, abschirmen und verteilen."
+        ],
+        "4": [
+            81.72,
+            96.92,
+            "Im Moment hängt Schieber auch noch ein Stück hinter Ibisiewicz und im Moment verbleibt"
+        ],
+        "5": [
+            96.92,
+            99.44,
+            "Niklas Stark auch im defensiven Mittelfeld."
+        ],
+        "6": [
+            99.44,
+            105.16,
+            "Also Hertha beginnt mit der Viererkette."
+        ],
+        "7": [
+            105.16,
+            117.68,
+            "Naguchi steht zu weit drin und wird durch dieses unsaubere Zuspiel von Ibisiewicz daran"
+        ],
+        "8": [
+            117.68,
+            124.0,
+            "erinnert, dass er gefälligst den Flügel zu besetzen hat."
+        ],
+        "9": [
+            124.0,
+            134.24,
+            "Ibisiewicz Kapitän dieser Mannschaft, wichtige, tragende Säule von Hertha BSC in dieser Saison."
+        ],
+        "10": [
+            135.16,
+            136.16,
+            "Weiser."
+        ],
+        "11": [
+            136.16,
+            137.16,
+            "Haaland."
+        ],
+        "12": [
+            137.16,
+            138.16,
+            "Geht hinten über Jarstein."
+        ],
+        "13": [
+            138.16,
+            139.16,
+            "In der vergangenen Woche geheiratet."
+        ],
+        "14": [
+            139.16,
+            140.16,
+            "Plattenharz."
+        ],
+        "15": [
+            140.16,
+            141.16,
+            "Gute Hinrunde von Martin."
+        ],
+        "16": [
+            141.16,
+            142.16,
+            "Bis hierhin."
+        ],
+        "17": [
+            142.16,
+            143.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "18": [
+            143.16,
+            144.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "19": [
+            144.16,
+            145.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "20": [
+            145.16,
+            146.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "21": [
+            146.16,
+            147.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "22": [
+            147.16,
+            148.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "23": [
+            148.16,
+            149.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "24": [
+            149.16,
+            150.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "25": [
+            150.16,
+            151.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "26": [
+            151.16,
+            152.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "27": [
+            152.16,
+            153.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "28": [
+            153.16,
+            154.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "29": [
+            171.16,
+            172.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "30": [
+            172.16,
+            173.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "31": [
+            173.16,
+            174.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "32": [
+            174.16,
+            175.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "33": [
+            175.16,
+            176.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "34": [
+            176.16,
+            177.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "35": [
+            177.16,
+            178.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "36": [
+            178.16,
+            179.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "37": [
+            179.16,
+            180.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "38": [
+            180.16,
+            181.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "39": [
+            181.16,
+            182.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "40": [
+            182.16,
+            183.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "41": [
+            183.16,
+            184.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "42": [
+            184.16,
+            185.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "43": [
+            185.16,
+            186.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "44": [
+            186.16,
+            187.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "45": [
+            187.16,
+            188.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "46": [
+            188.16,
+            189.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "47": [
+            189.16,
+            190.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "48": [
+            190.16,
+            191.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "49": [
+            191.16,
+            192.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "50": [
+            192.16,
+            193.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "51": [
+            193.16,
+            194.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "52": [
+            194.16,
+            195.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "53": [
+            195.16,
+            196.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "54": [
+            196.16,
+            197.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "55": [
+            197.16,
+            198.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "56": [
+            198.16,
+            199.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "57": [
+            199.16,
+            200.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "58": [
+            200.16,
+            201.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "59": [
+            201.16,
+            202.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "60": [
+            202.16,
+            203.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "61": [
+            203.16,
+            204.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "62": [
+            204.16,
+            205.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "63": [
+            205.16,
+            206.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "64": [
+            206.16,
+            207.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "65": [
+            207.16,
+            208.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "66": [
+            208.16,
+            209.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "67": [
+            209.16,
+            210.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "68": [
+            210.16,
+            211.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "69": [
+            211.16,
+            212.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "70": [
+            212.16,
+            213.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "71": [
+            213.16,
+            214.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "72": [
+            214.16,
+            215.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "73": [
+            215.16,
+            216.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "74": [
+            216.16,
+            217.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "75": [
+            217.16,
+            218.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "76": [
+            218.16,
+            219.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "77": [
+            219.16,
+            220.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "78": [
+            220.16,
+            221.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "79": [
+            221.16,
+            222.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "80": [
+            222.16,
+            223.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "81": [
+            223.16,
+            224.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "82": [
+            224.16,
+            225.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "83": [
+            225.16,
+            226.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "84": [
+            226.16,
+            227.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "85": [
+            227.16,
+            228.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "86": [
+            228.16,
+            229.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "87": [
+            229.16,
+            230.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "88": [
+            230.16,
+            231.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "89": [
+            231.16,
+            232.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "90": [
+            232.16,
+            233.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "91": [
+            233.16,
+            234.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "92": [
+            234.16,
+            235.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "93": [
+            235.16,
+            236.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "94": [
+            236.16,
+            237.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "95": [
+            237.16,
+            238.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "96": [
+            238.16,
+            239.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "97": [
+            239.16,
+            240.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "98": [
+            240.16,
+            241.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "99": [
+            241.16,
+            242.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "100": [
+            242.16,
+            243.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "101": [
+            243.16,
+            244.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "102": [
+            244.16,
+            245.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "103": [
+            245.16,
+            246.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "104": [
+            246.16,
+            247.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "105": [
+            247.16,
+            248.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "106": [
+            248.16,
+            249.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "107": [
+            249.16,
+            250.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "108": [
+            250.16,
+            251.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "109": [
+            251.16,
+            252.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "110": [
+            252.16,
+            253.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "111": [
+            253.16,
+            254.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "112": [
+            254.16,
+            255.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "113": [
+            255.16,
+            256.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "114": [
+            256.16,
+            257.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "115": [
+            257.16,
+            258.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "116": [
+            258.16,
+            259.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "117": [
+            259.16,
+            260.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "118": [
+            260.16,
+            261.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "119": [
+            261.16,
+            262.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "120": [
+            262.16,
+            263.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "121": [
+            263.16,
+            264.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "122": [
+            264.16,
+            265.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "123": [
+            265.16,
+            266.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "124": [
+            266.16,
+            267.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "125": [
+            267.16,
+            268.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "126": [
+            268.16,
+            269.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "127": [
+            269.16,
+            270.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "128": [
+            270.16,
+            271.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "129": [
+            271.16,
+            272.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "130": [
+            272.16,
+            273.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "131": [
+            273.16,
+            274.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "132": [
+            274.16,
+            275.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "133": [
+            275.16,
+            276.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "134": [
+            276.16,
+            277.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "135": [
+            277.16,
+            278.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "136": [
+            278.16,
+            279.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "137": [
+            279.16,
+            280.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "138": [
+            280.16,
+            281.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "139": [
+            281.16,
+            282.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "140": [
+            282.16,
+            283.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "141": [
+            283.16,
+            284.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "142": [
+            284.16,
+            285.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "143": [
+            285.16,
+            286.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "144": [
+            286.16,
+            287.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "145": [
+            287.16,
+            288.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "146": [
+            288.16,
+            289.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "147": [
+            289.16,
+            290.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "148": [
+            290.16,
+            291.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "149": [
+            291.16,
+            292.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "150": [
+            292.16,
+            293.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "151": [
+            293.16,
+            294.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "152": [
+            294.16,
+            295.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "153": [
+            295.16,
+            296.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "154": [
+            296.16,
+            297.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "155": [
+            297.16,
+            298.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "156": [
+            298.16,
+            299.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "157": [
+            299.16,
+            300.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "158": [
+            300.16,
+            301.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "159": [
+            301.16,
+            302.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "160": [
+            302.16,
+            303.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "161": [
+            303.16,
+            304.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "162": [
+            304.16,
+            305.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "163": [
+            305.16,
+            306.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "164": [
+            306.16,
+            307.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "165": [
+            307.16,
+            308.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "166": [
+            308.16,
+            309.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "167": [
+            309.16,
+            310.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "168": [
+            310.16,
+            311.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "169": [
+            311.16,
+            312.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "170": [
+            312.16,
+            313.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "171": [
+            313.16,
+            314.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "172": [
+            314.16,
+            315.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "173": [
+            315.16,
+            316.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "174": [
+            316.16,
+            317.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "175": [
+            317.16,
+            318.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "176": [
+            318.16,
+            319.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "177": [
+            319.16,
+            320.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "178": [
+            320.16,
+            321.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "179": [
+            321.16,
+            322.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "180": [
+            322.16,
+            323.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "181": [
+            323.16,
+            324.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "182": [
+            324.16,
+            325.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "183": [
+            325.16,
+            326.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "184": [
+            326.16,
+            327.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "185": [
+            327.16,
+            328.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "186": [
+            328.16,
+            329.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "187": [
+            329.16,
+            330.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "188": [
+            330.16,
+            331.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "189": [
+            331.16,
+            332.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "190": [
+            332.16,
+            333.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "191": [
+            333.16,
+            334.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "192": [
+            334.16,
+            335.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "193": [
+            335.16,
+            336.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "194": [
+            336.16,
+            337.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "195": [
+            337.16,
+            338.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "196": [
+            338.16,
+            339.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "197": [
+            339.16,
+            340.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "198": [
+            340.16,
+            341.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "199": [
+            341.16,
+            342.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "200": [
+            342.16,
+            343.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "201": [
+            343.16,
+            344.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "202": [
+            344.16,
+            345.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "203": [
+            345.16,
+            346.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "204": [
+            346.16,
+            347.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "205": [
+            347.16,
+            348.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "206": [
+            348.16,
+            349.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "207": [
+            349.16,
+            350.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "208": [
+            350.16,
+            351.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "209": [
+            351.16,
+            352.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "210": [
+            352.16,
+            353.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "211": [
+            353.16,
+            354.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "212": [
+            354.16,
+            355.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "213": [
+            355.16,
+            356.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "214": [
+            356.16,
+            357.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "215": [
+            357.16,
+            358.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "216": [
+            358.16,
+            359.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "217": [
+            359.16,
+            360.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "218": [
+            360.16,
+            361.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "219": [
+            361.16,
+            362.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "220": [
+            362.16,
+            363.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "221": [
+            363.16,
+            364.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "222": [
+            364.16,
+            365.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "223": [
+            365.16,
+            366.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "224": [
+            366.16,
+            367.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "225": [
+            367.16,
+            368.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "226": [
+            368.16,
+            369.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "227": [
+            369.16,
+            370.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "228": [
+            370.16,
+            371.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "229": [
+            371.16,
+            372.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "230": [
+            372.16,
+            373.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "231": [
+            373.16,
+            374.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "232": [
+            374.16,
+            375.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "233": [
+            375.16,
+            376.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "234": [
+            376.16,
+            377.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "235": [
+            377.16,
+            378.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "236": [
+            378.16,
+            379.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "237": [
+            379.16,
+            380.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "238": [
+            380.16,
+            381.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "239": [
+            381.16,
+            382.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "240": [
+            382.16,
+            383.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "241": [
+            383.16,
+            384.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "242": [
+            384.16,
+            385.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "243": [
+            385.16,
+            386.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "244": [
+            386.16,
+            387.16,
+            "Das war der erste Mal, dass der Mannschaft so gut gespielt hat."
+        ],
+        "245": [
+            387.16,
+            391.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "246": [
+            391.16,
+            392.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "247": [
+            392.16,
+            393.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "248": [
+            393.16,
+            394.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "249": [
+            394.16,
+            395.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "250": [
+            395.16,
+            396.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "251": [
+            396.16,
+            397.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "252": [
+            397.16,
+            398.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "253": [
+            398.16,
+            399.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "254": [
+            399.16,
+            400.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "255": [
+            400.16,
+            401.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "256": [
+            401.16,
+            402.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "257": [
+            402.16,
+            403.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "258": [
+            403.16,
+            404.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "259": [
+            404.16,
+            405.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "260": [
+            405.16,
+            406.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "261": [
+            406.16,
+            407.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "262": [
+            407.16,
+            408.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "263": [
+            408.16,
+            409.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "264": [
+            409.16,
+            410.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "265": [
+            410.16,
+            411.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "266": [
+            411.16,
+            412.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "267": [
+            412.16,
+            413.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "268": [
+            413.16,
+            414.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "269": [
+            414.16,
+            415.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "270": [
+            415.16,
+            416.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "271": [
+            416.16,
+            417.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "272": [
+            417.16,
+            418.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "273": [
+            418.16,
+            419.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "274": [
+            419.16,
+            420.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "275": [
+            420.16,
+            421.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "276": [
+            421.16,
+            422.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "277": [
+            422.16,
+            423.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "278": [
+            423.16,
+            424.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "279": [
+            424.16,
+            425.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "280": [
+            425.16,
+            426.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "281": [
+            426.16,
+            427.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "282": [
+            427.16,
+            428.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "283": [
+            428.16,
+            429.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "284": [
+            429.16,
+            430.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "285": [
+            430.16,
+            431.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "286": [
+            431.16,
+            432.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "287": [
+            432.16,
+            433.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "288": [
+            433.16,
+            434.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "289": [
+            434.16,
+            435.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "290": [
+            435.16,
+            436.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "291": [
+            436.16,
+            437.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "292": [
+            437.16,
+            438.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "293": [
+            438.16,
+            439.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "294": [
+            439.16,
+            440.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "295": [
+            440.16,
+            441.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "296": [
+            441.16,
+            442.16,
+            "Aber wenn man genau darüber nachdenkt, hat er vollkommen recht."
+        ],
+        "297": [
+            442.16,
+            449.16,
+            "Nur so verhindert er Nachschusschancen für zwei Leipziger Spieler."
+        ],
+        "298": [
+            472.16,
+            492.16,
+            "Das Tempo, das Leipzig spielen kann, ist atemberaubend."
+        ],
+        "299": [
+            522.16,
+            524.16,
+            "Das ist der Weg, den der FC Bayern haben will."
+        ],
+        "300": [
+            524.16,
+            526.16,
+            "Das ist der Weg, den der FC Bayern haben will."
+        ],
+        "301": [
+            526.16,
+            527.16,
+            "Er will klare Bälle."
+        ],
+        "302": [
+            527.16,
+            528.16,
+            "Er will klare Bälle."
+        ],
+        "303": [
+            528.16,
+            529.16,
+            "Er will lange Bälle."
+        ],
+        "304": [
+            529.16,
+            530.16,
+            "Er will hoch und hinten raus."
+        ],
+        "305": [
+            530.16,
+            531.16,
+            "Er will lange Bälle."
+        ],
+        "306": [
+            531.16,
+            532.16,
+            "Er will hoch und hinten raus."
+        ],
+        "307": [
+            532.16,
+            533.16,
+            "Aber keine Harakiri-Läufe."
+        ],
+        "308": [
+            533.16,
+            534.16,
+            "Aber keine Harakiri-Läufe."
+        ],
+        "309": [
+            534.16,
+            535.16,
+            "Aber keine Harakiri-Läufe."
+        ],
+        "310": [
+            536.16,
+            538.16,
+            "Aber keine Harakiri-Läufe."
+        ],
+        "311": [
+            547.16,
+            549.16,
+            "Mit Gretl und Kapsaloff, Alsobald ..."
+        ],
+        "312": [
+            549.16,
+            551.16,
+            "Mit Gretl und Kapsaloff, Alsobald ..."
+        ],
+        "313": [
+            558.16,
+            559.84,
+            "mit Bo spectrums der"
+        ],
+        "314": [
+            559.84,
+            564.84,
+            "zum Mitspielen erzogen und demzufolge wird er auch von den Kollegen gesucht."
+        ],
+        "315": [
+            564.84,
+            565.84,
+            "Ohne Herrstein."
+        ],
+        "316": [
+            565.84,
+            568.84,
+            "Fünfmal zu null gespielt in dieser Saison."
+        ],
+        "317": [
+            568.84,
+            571.84,
+            "Häufiger nur die Bayern und Eintracht Frankfurt."
+        ],
+        "318": [
+            602.84,
+            607.84,
+            "Also Fakt ist, wenn Herthardt es so weiterspielt, geht es nicht lange gut."
+        ],
+        "319": [
+            607.84,
+            609.84,
+            "Tor jetzt der Wechsel."
+        ],
+        "320": [
+            631.84,
+            644.84,
+            "Ja, verschwindet sofort in die Kabine."
+        ],
+        "321": [
+            644.84,
+            646.84,
+            "Physio geht hinterher zur Behandlung."
+        ],
+        "322": [
+            646.84,
+            652.84,
+            "Also sobald wir da was wissen, Jens Westen ist in der Spur, sind sie die Ersten, die es erfahren."
+        ],
+        "323": [
+            661.84,
+            677.84,
+            "Platnath, Ibizovic."
+        ],
+        "324": [
+            678.84,
+            690.84,
+            "Herthardt bleibt bei der Viererkette."
+        ],
+        "325": [
+            690.84,
+            696.84,
+            "Gegen den Ball 4-4-2."
+        ],
+        "326": [
+            696.84,
+            698.84,
+            "Paulsen."
+        ],
+        "327": [
+            698.84,
+            704.84,
+            "Weil wir über Wandspieler gesprochen haben."
+        ],
+        "328": [
+            704.84,
+            729.84,
+            "Also Paulsen ist derjenige, der dieses Phänomen bei RB verkörpert."
+        ],
+        "329": [
+            730.84,
+            733.84,
+            "Neue Marschroute von Paul Dardai."
+        ],
+        "330": [
+            733.84,
+            736.84,
+            "Wir werden es beobachten."
+        ],
+        "331": [
+            736.84,
+            738.84,
+            "Unabhängig vom Ausgang dieses Spiels."
+        ],
+        "332": [
+            738.84,
+            740.84,
+            "Paul Dardai ist das Beste, was Herthardt passieren konnte."
+        ],
+        "333": [
+            740.84,
+            748.84,
+            "Er lebt diesen Klub mit jeder Faser."
+        ],
+        "334": [
+            748.84,
+            750.84,
+            "Sportliche Expertise ist sowieso unbestritten."
+        ],
+        "335": [
+            750.84,
+            752.84,
+            "Werner."
+        ],
+        "336": [
+            752.84,
+            753.84,
+            "Hinten haben sie sich aufgepasst."
+        ],
+        "337": [
+            753.84,
+            756.84,
+            "Jetzt kommt Stark hinten rein."
+        ],
+        "338": [
+            757.84,
+            767.84,
+            "Der war wichtig."
+        ],
+        "339": [
+            767.84,
+            777.84,
+            "Ilsacker."
+        ],
+        "340": [
+            778.84,
+            784.84,
+            "Davidsson, Forsberg."
+        ],
+        "341": [
+            784.84,
+            792.84,
+            "Forsberg kriegen sie nicht in den Griff."
+        ],
+        "342": [
+            792.84,
+            798.84,
+            "Werner startet durch."
+        ],
+        "343": [
+            798.84,
+            804.84,
+            "Stark klärt ihn."
+        ],
+        "344": [
+            805.84,
+            811.84,
+            "Da ist es wohl passiert."
+        ],
+        "345": [
+            811.84,
+            817.84,
+            "Weißer an den linken Oberschenkel gepackt."
+        ],
+        "346": [
+            817.84,
+            823.84,
+            "Da ist es wohl passiert."
+        ],
+        "347": [
+            824.84,
+            830.84,
+            "Da ist es wohl passiert."
+        ],
+        "348": [
+            830.84,
+            834.84,
+            "Werner."
+        ],
+        "349": [
+            834.84,
+            838.84,
+            "Käthe."
+        ],
+        "350": [
+            838.84,
+            844.84,
+            "Demme."
+        ],
+        "351": [
+            845.84,
+            851.84,
+            "Da ist es wohl passiert."
+        ],
+        "352": [
+            851.84,
+            855.84,
+            "Aber Werner ist da."
+        ],
+        "353": [
+            855.84,
+            859.84,
+            "Stockfähler."
+        ],
+        "354": [
+            859.84,
+            863.84,
+            "Bernardo."
+        ],
+        "355": [
+            863.84,
+            867.84,
+            "Den haben sie zu Saisonbeginn für 6 Millionen."
+        ],
+        "356": [
+            868.84,
+            874.84,
+            "Werner."
+        ],
+        "357": [
+            874.84,
+            878.84,
+            "Werner."
+        ],
+        "358": [
+            878.84,
+            882.84,
+            "Werner."
+        ],
+        "359": [
+            882.84,
+            886.84,
+            "Werner."
+        ],
+        "360": [
+            886.84,
+            890.84,
+            "Werner."
+        ],
+        "361": [
+            890.84,
+            894.84,
+            "Werner."
+        ],
+        "362": [
+            895.84,
+            899.84,
+            "Werner."
+        ],
+        "363": [
+            899.84,
+            903.84,
+            "Werner."
+        ],
+        "364": [
+            903.84,
+            907.84,
+            "Käthe."
+        ],
+        "365": [
+            907.84,
+            911.84,
+            "Forsberg."
+        ],
+        "366": [
+            911.84,
+            915.84,
+            "Alstenberg."
+        ],
+        "367": [
+            915.84,
+            919.84,
+            "Alan."
+        ],
+        "368": [
+            920.84,
+            924.84,
+            "Werner."
+        ],
+        "369": [
+            924.84,
+            928.84,
+            "Alan."
+        ],
+        "370": [
+            928.84,
+            932.84,
+            "Wir haben unseren besten Mann in der Spur."
+        ],
+        "371": [
+            932.84,
+            936.84,
+            "Er hat frische Informationen."
+        ],
+        "372": [
+            936.84,
+            940.84,
+            "Er ist schneller als ich."
+        ],
+        "373": [
+            940.84,
+            944.84,
+            "Ich bin ihm hinterher."
+        ],
+        "374": [
+            945.84,
+            949.84,
+            "Er hat Probleme mit dem linken Oberschenkel."
+        ],
+        "375": [
+            949.84,
+            953.84,
+            "So sieht es aus."
+        ],
+        "376": [
+            953.84,
+            957.84,
+            "Er hat eine Freistoß-Version."
+        ],
+        "377": [
+            957.84,
+            961.84,
+            "Er ist ein Freistoß-Mann."
+        ],
+        "378": [
+            961.84,
+            965.84,
+            "Er ist ein Freistoß-Mann."
+        ],
+        "379": [
+            965.84,
+            969.84,
+            "Er ist ein Freistoß-Mann."
+        ],
+        "380": [
+            970.84,
+            974.84,
+            "Er hat eine gute Freistoß-Position."
+        ],
+        "381": [
+            988.84,
+            992.84,
+            "Er tut sich auch."
+        ],
+        "382": [
+            992.84,
+            996.84,
+            "Er tut sich auch."
+        ],
+        "383": [
+            997.84,
+            1001.84,
+            "Er tut sich auch."
+        ],
+        "384": [
+            1001.84,
+            1005.84,
+            "Er tut sich auch."
+        ],
+        "385": [
+            1005.84,
+            1009.84,
+            "Plattnath."
+        ],
+        "386": [
+            1009.84,
+            1013.84,
+            "Plattnath."
+        ],
+        "387": [
+            1013.84,
+            1017.84,
+            "In die Mauer."
+        ],
+        "388": [
+            1017.84,
+            1021.84,
+            "Das Spiel wird reklamiert."
+        ],
+        "389": [
+            1022.84,
+            1026.84,
+            "Er hat den Ball in die Mauer geschossen."
+        ],
+        "390": [
+            1026.84,
+            1030.84,
+            "Er hat den Ball in die Mauer geschossen."
+        ],
+        "391": [
+            1030.84,
+            1034.84,
+            "Ausgangspunkt."
+        ],
+        "392": [
+            1034.84,
+            1038.84,
+            "Ausgangspunkt."
+        ],
+        "393": [
+            1038.84,
+            1042.84,
+            "Plattnath."
+        ],
+        "394": [
+            1052.84,
+            1056.84,
+            "Er hat ihnen sowas nicht zukommen lassen."
+        ],
+        "395": [
+            1086.84,
+            1092.84,
+            "Dann an seine Silvesterparty und dann auch schon wieder an den 17. Spieltag."
+        ],
+        "396": [
+            1092.84,
+            1095.84,
+            "22. Januar in Eberkusen."
+        ],
+        "397": [
+            1096.84,
+            1097.84,
+            "Samitze."
+        ],
+        "398": [
+            1101.84,
+            1111.84,
+            "Tata ist im Grunde das gelebte Ora et Labora und das ist genau das, was Hertha spielt"
+        ],
+        "399": [
+            1111.84,
+            1113.84,
+            "und was Hertha stark macht."
+        ],
+        "400": [
+            1114.84,
+            1120.84,
+            "Weil sie es mit Ausnahme des Spiels letzte Woche gegen Hertha mit 100 Prozent tun."
+        ],
+        "401": [
+            1120.84,
+            1123.84,
+            "Und gleiches gilt für Hasenhüttl und die Leipziger."
+        ],
+        "402": [
+            1123.84,
+            1142.84,
+            "Und genau das ist es, was dieses Duell hier so reizvoll macht und wir werden hier den"
+        ],
+        "403": [
+            1142.84,
+            1144.84,
+            "ersten 19 Minuten nicht enttäuscht."
+        ],
+        "404": [
+            1146.84,
+            1147.84,
+            "Alan."
+        ],
+        "405": [
+            1153.84,
+            1154.84,
+            "Keita."
+        ],
+        "406": [
+            1154.84,
+            1156.84,
+            "Leipzig mit 60 Prozent Ballbesitz."
+        ],
+        "407": [
+            1156.84,
+            1157.84,
+            "Schuss von Samitze."
+        ],
+        "408": [
+            1157.84,
+            1158.84,
+            "Und das war's."
+        ],
+        "409": [
+            1158.84,
+            1159.84,
+            "Ich hoffe, es hat euch gefallen."
+        ],
+        "410": [
+            1159.84,
+            1160.84,
+            "Wenn ja, dann lasst ein Abo da und abonniert den Kanal."
+        ],
+        "411": [
+            1160.84,
+            1161.84,
+            "Bis zum nächsten Mal."
+        ],
+        "412": [
+            1161.84,
+            1162.84,
+            "Tschüss."
+        ],
+        "413": [
+            1162.84,
+            1163.84,
+            "Tschüss."
+        ],
+        "414": [
+            1163.84,
+            1164.84,
+            "Tschüss."
+        ],
+        "415": [
+            1164.84,
+            1165.84,
+            "Tschüss."
+        ],
+        "416": [
+            1165.84,
+            1166.84,
+            "Tschüss."
+        ],
+        "417": [
+            1166.84,
+            1167.84,
+            "Tschüss."
+        ],
+        "418": [
+            1167.84,
+            1168.84,
+            "Tschüss."
+        ],
+        "419": [
+            1168.84,
+            1169.84,
+            "Tschüss."
+        ],
+        "420": [
+            1169.84,
+            1170.84,
+            "Tschüss."
+        ],
+        "421": [
+            1170.84,
+            1171.84,
+            "Tschüss."
+        ],
+        "422": [
+            1171.84,
+            1172.84,
+            "Tschüss."
+        ],
+        "423": [
+            1172.84,
+            1173.84,
+            "Tschüss."
+        ],
+        "424": [
+            1173.84,
+            1174.84,
+            "Tschüss."
+        ],
+        "425": [
+            1174.84,
+            1175.84,
+            "Tschüss."
+        ],
+        "426": [
+            1175.84,
+            1176.84,
+            "Tschüss."
+        ],
+        "427": [
+            1176.84,
+            1177.84,
+            "Tschüss."
+        ],
+        "428": [
+            1177.84,
+            1178.84,
+            "Tschüss."
+        ],
+        "429": [
+            1178.84,
+            1179.84,
+            "Tschüss."
+        ],
+        "430": [
+            1179.84,
+            1180.84,
+            "Tschüss."
+        ],
+        "431": [
+            1180.84,
+            1181.84,
+            "Tschüss."
+        ],
+        "432": [
+            1181.84,
+            1182.84,
+            "Tschüss."
+        ],
+        "433": [
+            1182.84,
+            1183.84,
+            "Tschüss."
+        ],
+        "434": [
+            1183.84,
+            1184.84,
+            "Tschüss."
+        ],
+        "435": [
+            1184.84,
+            1185.84,
+            "Tschüss."
+        ],
+        "436": [
+            1185.84,
+            1186.84,
+            "Tschüss."
+        ],
+        "437": [
+            1186.84,
+            1187.84,
+            "Tschüss."
+        ],
+        "438": [
+            1187.84,
+            1188.84,
+            "Tschüss."
+        ],
+        "439": [
+            1188.84,
+            1189.84,
+            "Tschüss."
+        ],
+        "440": [
+            1189.84,
+            1190.84,
+            "Tschüss."
+        ],
+        "441": [
+            1190.84,
+            1191.84,
+            "Tschüss."
+        ],
+        "442": [
+            1191.84,
+            1192.84,
+            "Tschüss."
+        ],
+        "443": [
+            1192.84,
+            1193.84,
+            "Tschüss."
+        ],
+        "444": [
+            1193.84,
+            1194.84,
+            "Tschüss."
+        ],
+        "445": [
+            1194.84,
+            1195.84,
+            "Tschüss."
+        ],
+        "446": [
+            1195.84,
+            1196.84,
+            "Tschüss."
+        ],
+        "447": [
+            1196.84,
+            1197.84,
+            "Tschüss."
+        ],
+        "448": [
+            1197.84,
+            1198.84,
+            "Tschüss."
+        ],
+        "449": [
+            1198.84,
+            1199.84,
+            "Tschüss."
+        ],
+        "450": [
+            1199.84,
+            1200.84,
+            "Tschüss."
+        ],
+        "451": [
+            1200.84,
+            1201.84,
+            "Tschüss."
+        ],
+        "452": [
+            1201.84,
+            1202.84,
+            "Tschüss."
+        ],
+        "453": [
+            1202.84,
+            1203.84,
+            "Tschüss."
+        ],
+        "454": [
+            1203.84,
+            1204.84,
+            "Tschüss."
+        ],
+        "455": [
+            1204.84,
+            1205.84,
+            "Tschüss."
+        ],
+        "456": [
+            1205.84,
+            1206.84,
+            "Tschüss."
+        ],
+        "457": [
+            1206.84,
+            1207.84,
+            "Tschüss."
+        ],
+        "458": [
+            1207.84,
+            1208.84,
+            "Tschüss."
+        ],
+        "459": [
+            1208.84,
+            1209.84,
+            "Tschüss."
+        ],
+        "460": [
+            1209.84,
+            1210.84,
+            "Tschüss."
+        ],
+        "461": [
+            1210.84,
+            1211.84,
+            "Tschüss."
+        ],
+        "462": [
+            1211.84,
+            1212.84,
+            "Tschüss."
+        ],
+        "463": [
+            1212.84,
+            1213.84,
+            "Tschüss."
+        ],
+        "464": [
+            1213.84,
+            1214.84,
+            "Tschüss."
+        ],
+        "465": [
+            1214.84,
+            1215.84,
+            "Tschüss."
+        ],
+        "466": [
+            1215.84,
+            1216.84,
+            "Tschüss."
+        ],
+        "467": [
+            1216.84,
+            1217.84,
+            "Tschüss."
+        ],
+        "468": [
+            1217.84,
+            1218.84,
+            "Tschüss."
+        ],
+        "469": [
+            1218.84,
+            1219.84,
+            "Tschüss."
+        ],
+        "470": [
+            1219.84,
+            1220.84,
+            "Tschüss."
+        ],
+        "471": [
+            1220.84,
+            1221.84,
+            "Tschüss."
+        ],
+        "472": [
+            1221.84,
+            1222.84,
+            "Tschüss."
+        ],
+        "473": [
+            1222.84,
+            1223.84,
+            "Tschüss."
+        ],
+        "474": [
+            1223.84,
+            1224.84,
+            "Tschüss."
+        ],
+        "475": [
+            1224.84,
+            1225.84,
+            "Tschüss."
+        ],
+        "476": [
+            1225.84,
+            1226.84,
+            "Tschüss."
+        ],
+        "477": [
+            1226.84,
+            1227.84,
+            "Tschüss."
+        ],
+        "478": [
+            1227.84,
+            1228.84,
+            "Tschüss."
+        ],
+        "479": [
+            1228.84,
+            1229.84,
+            "Tschüss."
+        ],
+        "480": [
+            1229.84,
+            1230.84,
+            "Tschüss."
+        ],
+        "481": [
+            1230.84,
+            1231.84,
+            "Tschüss."
+        ],
+        "482": [
+            1231.84,
+            1232.84,
+            "Tschüss."
+        ],
+        "483": [
+            1232.84,
+            1233.84,
+            "Tschüss."
+        ],
+        "484": [
+            1233.84,
+            1234.84,
+            "Tschüss."
+        ],
+        "485": [
+            1234.84,
+            1235.84,
+            "Tschüss."
+        ],
+        "486": [
+            1235.84,
+            1236.84,
+            "Tschüss."
+        ],
+        "487": [
+            1236.84,
+            1237.84,
+            "Tschüss."
+        ],
+        "488": [
+            1237.84,
+            1238.84,
+            "Tschüss."
+        ],
+        "489": [
+            1238.84,
+            1239.84,
+            "Tschüss."
+        ],
+        "490": [
+            1239.84,
+            1240.84,
+            "Tschüss."
+        ],
+        "491": [
+            1240.84,
+            1241.84,
+            "Tschüss."
+        ],
+        "492": [
+            1241.84,
+            1242.84,
+            "Tschüss."
+        ],
+        "493": [
+            1242.84,
+            1243.84,
+            "Tschüss."
+        ],
+        "494": [
+            1243.84,
+            1244.84,
+            "Tschüss."
+        ],
+        "495": [
+            1244.84,
+            1245.84,
+            "Tschüss."
+        ],
+        "496": [
+            1245.84,
+            1246.84,
+            "Tschüss."
+        ],
+        "497": [
+            1246.84,
+            1247.84,
+            "Tschüss."
+        ],
+        "498": [
+            1247.84,
+            1248.84,
+            "Tschüss."
+        ],
+        "499": [
+            1248.84,
+            1249.84,
+            "Tschüss."
+        ],
+        "500": [
+            1249.84,
+            1250.84,
+            "Tschüss."
+        ],
+        "501": [
+            1250.84,
+            1251.84,
+            "Tschüss."
+        ],
+        "502": [
+            1251.84,
+            1252.84,
+            "Tschüss."
+        ],
+        "503": [
+            1252.84,
+            1253.84,
+            "Tschüss."
+        ],
+        "504": [
+            1253.84,
+            1254.84,
+            "Tschüss."
+        ],
+        "505": [
+            1254.84,
+            1255.84,
+            "Tschüss."
+        ],
+        "506": [
+            1255.84,
+            1256.84,
+            "Tschüss."
+        ],
+        "507": [
+            1256.84,
+            1257.84,
+            "Tschüss."
+        ],
+        "508": [
+            1257.84,
+            1258.84,
+            "Tschüss."
+        ],
+        "509": [
+            1258.84,
+            1259.84,
+            "Tschüss."
+        ],
+        "510": [
+            1259.84,
+            1260.84,
+            "Tschüss."
+        ],
+        "511": [
+            1260.84,
+            1261.84,
+            "Tschüss."
+        ],
+        "512": [
+            1261.84,
+            1262.84,
+            "Tschüss."
+        ],
+        "513": [
+            1262.84,
+            1263.84,
+            "Tschüss."
+        ],
+        "514": [
+            1263.84,
+            1264.84,
+            "Tschüss."
+        ],
+        "515": [
+            1264.84,
+            1265.84,
+            "Tschüss."
+        ],
+        "516": [
+            1265.84,
+            1266.84,
+            "Tschüss."
+        ],
+        "517": [
+            1266.84,
+            1267.84,
+            "Tschüss."
+        ],
+        "518": [
+            1267.84,
+            1268.84,
+            "Tschüss."
+        ],
+        "519": [
+            1268.84,
+            1269.84,
+            "Tschüss."
+        ],
+        "520": [
+            1269.84,
+            1270.84,
+            "Tschüss."
+        ],
+        "521": [
+            1270.84,
+            1271.84,
+            "Tschüss."
+        ],
+        "522": [
+            1271.84,
+            1272.84,
+            "Tschüss."
+        ],
+        "523": [
+            1272.84,
+            1273.84,
+            "Tschüss."
+        ],
+        "524": [
+            1273.84,
+            1274.84,
+            "Tschüss."
+        ],
+        "525": [
+            1274.84,
+            1275.84,
+            "Tschüss."
+        ],
+        "526": [
+            1275.84,
+            1276.84,
+            "Tschüss."
+        ],
+        "527": [
+            1276.84,
+            1277.84,
+            "Tschüss."
+        ],
+        "528": [
+            1277.84,
+            1278.84,
+            "Tschüss."
+        ],
+        "529": [
+            1278.84,
+            1279.84,
+            "Tschüss."
+        ],
+        "530": [
+            1279.84,
+            1280.84,
+            "Tschüss."
+        ],
+        "531": [
+            1280.84,
+            1281.84,
+            "Tschüss."
+        ],
+        "532": [
+            1281.84,
+            1282.84,
+            "Tschüss."
+        ],
+        "533": [
+            1282.84,
+            1283.84,
+            "Tschüss."
+        ],
+        "534": [
+            1283.84,
+            1284.84,
+            "Tschüss."
+        ],
+        "535": [
+            1284.84,
+            1285.84,
+            "Tschüss."
+        ],
+        "536": [
+            1285.84,
+            1286.84,
+            "Tschüss."
+        ],
+        "537": [
+            1286.84,
+            1287.84,
+            "Tschüss."
+        ],
+        "538": [
+            1287.84,
+            1288.84,
+            "Tschüss."
+        ],
+        "539": [
+            1288.84,
+            1289.84,
+            "Tschüss."
+        ],
+        "540": [
+            1289.84,
+            1290.84,
+            "Tschüss."
+        ],
+        "541": [
+            1290.84,
+            1291.84,
+            "Tschüss."
+        ],
+        "542": [
+            1291.84,
+            1292.84,
+            "Tschüss."
+        ],
+        "543": [
+            1292.84,
+            1293.84,
+            "Tschüss."
+        ],
+        "544": [
+            1293.84,
+            1294.84,
+            "Tschüss."
+        ],
+        "545": [
+            1294.84,
+            1295.84,
+            "Tschüss."
+        ],
+        "546": [
+            1295.84,
+            1296.84,
+            "Tschüss."
+        ],
+        "547": [
+            1296.84,
+            1297.84,
+            "Tschüss."
+        ],
+        "548": [
+            1297.84,
+            1298.84,
+            "Tschüss."
+        ],
+        "549": [
+            1298.84,
+            1299.84,
+            "Tschüss."
+        ],
+        "550": [
+            1299.84,
+            1300.84,
+            "Tschüss."
+        ],
+        "551": [
+            1300.84,
+            1301.84,
+            "Tschüss."
+        ],
+        "552": [
+            1301.84,
+            1302.84,
+            "Tschüss."
+        ],
+        "553": [
+            1302.84,
+            1303.84,
+            "Tschüss."
+        ],
+        "554": [
+            1303.84,
+            1304.84,
+            "Tschüss."
+        ],
+        "555": [
+            1304.84,
+            1305.84,
+            "Tschüss."
+        ],
+        "556": [
+            1305.84,
+            1306.84,
+            "Tschüss."
+        ],
+        "557": [
+            1306.84,
+            1307.84,
+            "Tschüss."
+        ],
+        "558": [
+            1307.84,
+            1308.84,
+            "Tschüss."
+        ],
+        "559": [
+            1308.84,
+            1309.84,
+            "Tschüss."
+        ],
+        "560": [
+            1309.84,
+            1310.84,
+            "Tschüss."
+        ],
+        "561": [
+            1310.84,
+            1311.84,
+            "Tschüss."
+        ],
+        "562": [
+            1311.84,
+            1312.84,
+            "Tschüss."
+        ],
+        "563": [
+            1312.84,
+            1313.84,
+            "Tschüss."
+        ],
+        "564": [
+            1313.84,
+            1314.84,
+            "Tschüss."
+        ],
+        "565": [
+            1314.84,
+            1315.84,
+            "Tschüss."
+        ],
+        "566": [
+            1315.84,
+            1316.84,
+            "Tschüss."
+        ],
+        "567": [
+            1316.84,
+            1317.84,
+            "Tschüss."
+        ],
+        "568": [
+            1317.84,
+            1318.84,
+            "Tschüss."
+        ],
+        "569": [
+            1318.84,
+            1319.84,
+            "Tschüss."
+        ],
+        "570": [
+            1319.84,
+            1320.84,
+            "Tschüss."
+        ],
+        "571": [
+            1320.84,
+            1321.84,
+            "Tschüss."
+        ],
+        "572": [
+            1321.84,
+            1322.84,
+            "Tschüss."
+        ],
+        "573": [
+            1322.84,
+            1323.84,
+            "Tschüss."
+        ],
+        "574": [
+            1323.84,
+            1324.84,
+            "Tschüss."
+        ],
+        "575": [
+            1324.84,
+            1325.84,
+            "Tschüss."
+        ],
+        "576": [
+            1325.84,
+            1326.84,
+            "Tschüss."
+        ],
+        "577": [
+            1326.84,
+            1327.84,
+            "Tschüss."
+        ],
+        "578": [
+            1327.84,
+            1328.84,
+            "Tschüss, tschüss."
+        ],
+        "579": [
+            1328.84,
+            1329.84,
+            "Tschüss!"
+        ],
+        "580": [
+            1329.84,
+            1330.84,
+            "Tschüss."
+        ],
+        "581": [
+            1330.84,
+            1331.84,
+            "Tschüss!"
+        ],
+        "582": [
+            1331.84,
+            1332.84,
+            "Tschüss!"
+        ],
+        "583": [
+            1332.84,
+            1333.84,
+            "Tschüss!"
+        ],
+        "584": [
+            1333.84,
+            1334.84,
+            "Tschüss!"
+        ],
+        "585": [
+            1334.84,
+            1335.84,
+            "Tschüss!"
+        ],
+        "586": [
+            1335.84,
+            1336.84,
+            "Tschüss!"
+        ],
+        "587": [
+            1350.84,
+            1355.84,
+            "Stackalow, Schieber versucht drauf zu gehen."
+        ],
+        "588": [
+            1357.84,
+            1358.84,
+            "Pausen."
+        ],
+        "589": [
+            1358.84,
+            1359.84,
+            "Forsberg."
+        ],
+        "590": [
+            1362.84,
+            1364.84,
+            "Jetzt kriegt der Pekarik übers Spiel."
+        ],
+        "591": [
+            1364.84,
+            1366.84,
+            "Aber Gucci ist sofort da."
+        ],
+        "592": [
+            1367.84,
+            1368.84,
+            "Forsberg muss warten, Demme."
+        ],
+        "593": [
+            1374.84,
+            1375.84,
+            "Calou."
+        ],
+        "594": [
+            1375.84,
+            1376.84,
+            "Geht zu leicht."
+        ],
+        "595": [
+            1376.84,
+            1377.84,
+            "Pausen."
+        ],
+        "596": [
+            1378.84,
+            1379.84,
+            "Und dann ist es vorbei."
+        ],
+        "597": [
+            1381.84,
+            1382.84,
+            "Gucci."
+        ],
+        "598": [
+            1383.84,
+            1384.84,
+            "Und dann ist es vorbei."
+        ],
+        "599": [
+            1387.84,
+            1388.84,
+            "Schieber."
+        ],
+        "600": [
+            1389.84,
+            1390.84,
+            "Unsauber."
+        ],
+        "601": [
+            1394.84,
+            1395.84,
+            "Dietrich Matteschitz."
+        ],
+        "602": [
+            1398.84,
+            1400.84,
+            "Der Herr der Dosen und der Herr der Bullen."
+        ],
+        "603": [
+            1402.84,
+            1404.84,
+            "Er lässt sich das Spiel erklären."
+        ],
+        "604": [
+            1404.84,
+            1406.84,
+            "Das ist ein guter Schuss."
+        ],
+        "605": [
+            1408.84,
+            1410.84,
+            "Und jetzt ist der Moment,"
+        ],
+        "606": [
+            1411.84,
+            1413.84,
+            "wo Valery Lobanovsky Gedächtnisblick."
+        ],
+        "607": [
+            1422.84,
+            1424.84,
+            "Diese Saison zum ersten Mal hier."
+        ],
+        "608": [
+            1427.84,
+            1429.84,
+            "Er will am Mittwoch nach München kommen."
+        ],
+        "609": [
+            1430.84,
+            1432.84,
+            "Zum großen Showdown vor Weihnachten."
+        ],
+        "610": [
+            1432.84,
+            1434.84,
+            "Der Ball ist nicht voll erwischt."
+        ],
+        "611": [
+            1435.84,
+            1436.84,
+            "Wieder Naby Keita."
+        ],
+        "612": [
+            1447.84,
+            1448.84,
+            "Wieder Naby Keita."
+        ],
+        "613": [
+            1453.84,
+            1455.84,
+            "Der Ball ist nicht voll erwischt."
+        ],
+        "614": [
+            1463.84,
+            1464.84,
+            "Die Bälle sind zu leicht."
+        ],
+        "615": [
+            1466.84,
+            1467.84,
+            "Dann über die Seite."
+        ],
+        "616": [
+            1481.84,
+            1483.84,
+            "Hertha verliert die Bälle zu leicht."
+        ],
+        "617": [
+            1484.84,
+            1486.84,
+            "Die Passquote liegt bei 60 %."
+        ],
+        "618": [
+            1487.84,
+            1490.84,
+            "Das ist selbst für Konterfußball etwas dünn."
+        ],
+        "619": [
+            1499.84,
+            1502.84,
+            "Aber sie gewinnen knapp 60 % der Zweikämpfe."
+        ],
+        "620": [
+            1508.84,
+            1509.84,
+            "Zabitza."
+        ],
+        "621": [
+            1512.84,
+            1513.84,
+            "Forsberg."
+        ],
+        "622": [
+            1517.84,
+            1519.84,
+            "Das war ein guter Schuss."
+        ],
+        "623": [
+            1522.84,
+            1525.84,
+            "Der Pekarik hat den Ball von der Seite geholt."
+        ],
+        "624": [
+            1526.84,
+            1528.84,
+            "Dann wird es etwas ruhiger."
+        ],
+        "625": [
+            1529.84,
+            1530.84,
+            "Forsberg."
+        ],
+        "626": [
+            1531.84,
+            1532.84,
+            "Abgefälscht."
+        ],
+        "627": [
+            1533.84,
+            1534.84,
+            "Forsberg."
+        ],
+        "628": [
+            1547.84,
+            1549.84,
+            "Das war ein guter Schuss."
+        ],
+        "629": [
+            1550.84,
+            1552.84,
+            "Das war ein guter Schuss."
+        ],
+        "630": [
+            1553.84,
+            1555.84,
+            "Das war ein guter Schuss."
+        ],
+        "631": [
+            1556.84,
+            1559.84,
+            "Aufstieg und Klassenerhalt mit Ingolstadt."
+        ],
+        "632": [
+            1560.84,
+            1563.84,
+            "Das ist die bisherige sportliche Referenz."
+        ],
+        "633": [
+            1564.84,
+            1565.84,
+            "In Liga 1 und Liga 2."
+        ],
+        "634": [
+            1566.84,
+            1567.84,
+            "Von Ralf Hasenüttel."
+        ],
+        "635": [
+            1577.84,
+            1581.84,
+            "Das ist eine Mannschaft, die durch alle Mannschaften versucht wird,"
+        ],
+        "636": [
+            1581.84,
+            1582.84,
+            "zu transportieren."
+        ],
+        "637": [
+            1585.84,
+            1589.84,
+            "Die Idee von Ralf Hasenüttel, so wie er Fußball versteht,"
+        ],
+        "638": [
+            1589.84,
+            1591.84,
+            "harmonieren ausgesprochen gut."
+        ],
+        "639": [
+            1600.84,
+            1602.84,
+            "Das hat etwas von Kneipenklopperei."
+        ],
+        "640": [
+            1603.84,
+            1606.84,
+            "Aber Fritz hat freie Sicht aufs Geschehen."
+        ],
+        "641": [
+            1607.84,
+            1608.84,
+            "Nichts passiert."
+        ],
+        "642": [
+            1609.84,
+            1610.84,
+            "Kalu."
+        ],
+        "643": [
+            1616.84,
+            1618.84,
+            "So, Maragucci gegen Keita."
+        ],
+        "644": [
+            1619.84,
+            1621.84,
+            "Kann man pfeifen, muss man nicht."
+        ],
+        "645": [
+            1622.84,
+            1623.84,
+            "Hosen gegen Alain."
+        ],
+        "646": [
+            1624.84,
+            1625.84,
+            "Arm geht raus."
+        ],
+        "647": [
+            1626.84,
+            1628.84,
+            "Kann man pfeifen, muss man nicht."
+        ],
+        "648": [
+            1632.84,
+            1634.84,
+            "Das war ein guter Schuss."
+        ],
+        "649": [
+            1635.84,
+            1637.84,
+            "Das war ein guter Schuss."
+        ],
+        "650": [
+            1637.84,
+            1639.84,
+            "Das war ein guter Schuss."
+        ],
+        "651": [
+            1640.84,
+            1642.84,
+            "Das war ein guter Schuss."
+        ],
+        "652": [
+            1661.84,
+            1665.84,
+            "Das hatte etwas aus dem Batsbenzer-Terence-Hill-Schleifen."
+        ],
+        "653": [
+            1668.84,
+            1670.84,
+            "Ein bisschen geknüppelt."
+        ],
+        "654": [
+            1671.84,
+            1672.84,
+            "Ein paar fallen oben."
+        ],
+        "655": [
+            1673.84,
+            1674.84,
+            "Alle stehen wieder auf."
+        ],
+        "656": [
+            1675.84,
+            1676.84,
+            "Weiter mit Fußball."
+        ],
+        "657": [
+            1681.84,
+            1682.84,
+            "Herzberg."
+        ],
+        "658": [
+            1698.84,
+            1699.84,
+            "Keita."
+        ],
+        "659": [
+            1701.84,
+            1702.84,
+            "Zabitza."
+        ],
+        "660": [
+            1709.84,
+            1711.84,
+            "Ballbesitzverhältnisse stabil."
+        ],
+        "661": [
+            1712.84,
+            1713.84,
+            "60-40 pro Leipzig."
+        ],
+        "662": [
+            1728.84,
+            1729.84,
+            "Maragucci."
+        ],
+        "663": [
+            1748.84,
+            1749.84,
+            "Pekarik."
+        ],
+        "664": [
+            1753.84,
+            1756.84,
+            "Er ist in Wolfsburg schon deutscher Meister geworden."
+        ],
+        "665": [
+            1757.84,
+            1760.84,
+            "Er ist in Wolfsburg schon deutscher Meister geworden."
+        ],
+        "666": [
+            1761.84,
+            1762.84,
+            "Er ist in der Bundesliga."
+        ],
+        "667": [
+            1763.84,
+            1764.84,
+            "Er ist in der Bundesliga."
+        ],
+        "668": [
+            1765.84,
+            1766.84,
+            "Kladnath."
+        ],
+        "669": [
+            1767.84,
+            1768.84,
+            "Schieber."
+        ],
+        "670": [
+            1769.84,
+            1770.84,
+            "Schieber."
+        ],
+        "671": [
+            1775.84,
+            1779.84,
+            "Das war im Übrigen gerade die erste Ballaktion eines Hertha-Spielers."
+        ],
+        "672": [
+            1780.84,
+            1782.84,
+            "Im gegnerischen 16-Meter-Runden."
+        ],
+        "673": [
+            1788.84,
+            1791.84,
+            "Das war im Gegnerischen 16-Meter-Runden."
+        ],
+        "674": [
+            1792.84,
+            1794.84,
+            "Das war im Gegnerischen 16-Meter-Runden."
+        ],
+        "675": [
+            1795.84,
+            1796.84,
+            "45.000 stehen."
+        ],
+        "676": [
+            1797.84,
+            1798.84,
+            "45.000 stehen."
+        ],
+        "677": [
+            1805.84,
+            1807.84,
+            "Das ist eine gigantische Atmosphäre."
+        ],
+        "678": [
+            1808.84,
+            1810.84,
+            "Das ist eine gigantische Atmosphäre."
+        ],
+        "679": [
+            1811.84,
+            1813.84,
+            "Das ist eine gigantische Atmosphäre."
+        ],
+        "680": [
+            1814.84,
+            1815.84,
+            "Die kann man nicht kaufen."
+        ],
+        "681": [
+            1816.84,
+            1817.84,
+            "Die kann man nicht kaufen."
+        ],
+        "682": [
+            1828.84,
+            1829.84,
+            "Der Foulspiel von Stark."
+        ],
+        "683": [
+            1830.84,
+            1831.84,
+            "Der Foulspiel von Stark."
+        ],
+        "684": [
+            1836.84,
+            1838.84,
+            "Stark wird sofort aus dem Verkehr gezogen."
+        ],
+        "685": [
+            1839.84,
+            1841.84,
+            "Stark wird sofort aus dem Verkehr gezogen."
+        ],
+        "686": [
+            1845.84,
+            1847.84,
+            "Stark wird sofort aus dem Verkehr gezogen."
+        ],
+        "687": [
+            1849.84,
+            1851.84,
+            "Stark wird sofort aus dem Verkehr gezogen."
+        ],
+        "688": [
+            1856.84,
+            1859.84,
+            "Fritz belässt dieses Spiel weiterhin an der langen Leine."
+        ],
+        "689": [
+            1860.84,
+            1863.84,
+            "Fritz belässt dieses Spiel weiterhin an der langen Leine."
+        ],
+        "690": [
+            1872.84,
+            1874.84,
+            "Stark ist der Folgenschwere-Vopach"
+        ],
+        "691": [
+            1875.84,
+            1879.84,
+            "wurde von den Verantwortlichen öffentlich in Schutz genommen."
+        ],
+        "692": [
+            1882.84,
+            1886.84,
+            "Mit 21 darf er noch Fehler machen."
+        ],
+        "693": [
+            1897.84,
+            1899.84,
+            "Gut so. Dämme!"
+        ],
+        "694": [
+            1905.84,
+            1908.84,
+            "Sabitzer!"
+        ],
+        "695": [
+            1927.84,
+            1930.84,
+            "Kulaci!"
+        ],
+        "696": [
+            1936.84,
+            1939.84,
+            "Hals weg!"
+        ],
+        "697": [
+            1945.84,
+            1948.84,
+            "Das war im Ansatz schon straffer."
+        ],
+        "698": [
+            1948.84,
+            1951.84,
+            "Das war ein guter Treffer."
+        ],
+        "699": [
+            1970.84,
+            1973.84,
+            "Mit dem Ergebnis kann er leben."
+        ],
+        "700": [
+            1978.84,
+            1981.84,
+            "Das war ein guter Treffer."
+        ],
+        "701": [
+            1982.84,
+            1985.84,
+            "Das muss nicht umgesetzt werden."
+        ],
+        "702": [
+            1986.84,
+            1989.84,
+            "Zumindest die Ideen, was das Offensivspiel betrifft."
+        ],
+        "703": [
+            1990.84,
+            1993.84,
+            "Leipziger liegt am Boden."
+        ],
+        "704": [
+            1994.84,
+            1997.84,
+            "Jetzt ist es unterbrochen."
+        ],
+        "705": [
+            2001.84,
+            2004.84,
+            "Keita offenbar an Niklas stark zerschellt."
+        ],
+        "706": [
+            2004.84,
+            2007.84,
+            "Das war ein guter Treffer."
+        ],
+        "707": [
+            2034.84,
+            2037.84,
+            "Keita!"
+        ],
+        "708": [
+            2037.84,
+            2040.84,
+            "Keita!"
+        ],
+        "709": [
+            2040.84,
+            2043.84,
+            "Keita!"
+        ],
+        "710": [
+            2043.84,
+            2046.84,
+            "Keita!"
+        ],
+        "711": [
+            2059.84,
+            2062.84,
+            "Keita!"
+        ],
+        "712": [
+            2065.84,
+            2068.84,
+            "Merda!"
+        ],
+        "713": [
+            2073.84,
+            2076.84,
+            "Keita!"
+        ],
+        "714": [
+            2079.84,
+            2082.84,
+            "Keita!"
+        ],
+        "715": [
+            2083.84,
+            2086.84,
+            "Keita!"
+        ],
+        "716": [
+            2091.84,
+            2094.84,
+            "Das ist der Spieler mit den meisten Ballaktionen."
+        ],
+        "717": [
+            2095.84,
+            2098.84,
+            "Der Torhüter."
+        ],
+        "718": [
+            2103.84,
+            2106.84,
+            "Das war ein guter Treffer."
+        ],
+        "719": [
+            2107.84,
+            2110.84,
+            "Jahrstein mit 21."
+        ],
+        "720": [
+            2133.84,
+            2136.84,
+            "Das war ein guter Treffer."
+        ],
+        "721": [
+            2137.84,
+            2140.84,
+            "Das war ein guter Treffer."
+        ],
+        "722": [
+            2141.84,
+            2144.84,
+            "Das war ein guter Treffer."
+        ],
+        "723": [
+            2145.84,
+            2148.84,
+            "Das hat Niklas stark gerockt."
+        ],
+        "724": [
+            2163.84,
+            2166.84,
+            "Das war ein guter Treffer."
+        ],
+        "725": [
+            2167.84,
+            2170.84,
+            "Das war ein guter Treffer."
+        ],
+        "726": [
+            2171.84,
+            2174.84,
+            "Gattuso wäre gerne ein guter Vorbereiter gewesen."
+        ],
+        "727": [
+            2175.84,
+            2178.84,
+            "Gattuso."
+        ],
+        "728": [
+            2179.84,
+            2182.84,
+            "Das ist der, der auf dem Platz gebellt hat."
+        ],
+        "729": [
+            2183.84,
+            2186.84,
+            "Pirlo wäre gerne so schnell gewesen."
+        ],
+        "730": [
+            2187.84,
+            2190.84,
+            "Pirlo hat das Schloss zur Kunst erhoben."
+        ],
+        "731": [
+            2193.84,
+            2196.84,
+            "Das war ein guter Treffer."
+        ],
+        "732": [
+            2197.84,
+            2200.84,
+            "Das war ein guter Treffer."
+        ],
+        "733": [
+            2201.84,
+            2204.84,
+            "Das war ein guter Treffer."
+        ],
+        "734": [
+            2205.84,
+            2208.84,
+            "Demme."
+        ],
+        "735": [
+            2209.84,
+            2212.84,
+            "Orban."
+        ],
+        "736": [
+            2213.84,
+            2216.84,
+            "Ilse Anker."
+        ],
+        "737": [
+            2217.84,
+            2220.84,
+            "Ernardo."
+        ],
+        "738": [
+            2223.84,
+            2226.84,
+            "Ernardo."
+        ],
+        "739": [
+            2227.84,
+            2230.84,
+            "Ernardo."
+        ],
+        "740": [
+            2231.84,
+            2234.84,
+            "Er hat den Ball in guten Händen."
+        ],
+        "741": [
+            2235.84,
+            2238.84,
+            "Er hat den Ball in guten Händen."
+        ],
+        "742": [
+            2239.84,
+            2242.84,
+            "Er hat den Ball in guten Händen."
+        ],
+        "743": [
+            2243.84,
+            2246.84,
+            "Den haben die Berliner vom Netz genommen."
+        ],
+        "744": [
+            2247.84,
+            2250.84,
+            "Den haben die Berliner vom Netz genommen."
+        ],
+        "745": [
+            2253.84,
+            2256.84,
+            "Das war ein guter Treffer."
+        ],
+        "746": [
+            2257.84,
+            2260.84,
+            "Das war ein guter Treffer."
+        ],
+        "747": [
+            2261.84,
+            2264.84,
+            "Paulsen."
+        ],
+        "748": [
+            2265.84,
+            2268.84,
+            "Paulsen."
+        ],
+        "749": [
+            2269.84,
+            2272.84,
+            "Es gelingt den Berlinern immer wieder,"
+        ],
+        "750": [
+            2273.84,
+            2276.84,
+            "das Spiel der Leipziger ins Zentrum zu ziehen."
+        ],
+        "751": [
+            2277.84,
+            2280.84,
+            "Das sind sie viele."
+        ],
+        "752": [
+            2280.84,
+            2283.84,
+            "Das sind sie viele."
+        ],
+        "753": [
+            2284.84,
+            2287.84,
+            "Das sind sie viele."
+        ],
+        "754": [
+            2288.84,
+            2291.84,
+            "Das sind sie viele."
+        ],
+        "755": [
+            2292.84,
+            2295.84,
+            "Leipzig schafft es mit Halstenberg,"
+        ],
+        "756": [
+            2296.84,
+            2299.84,
+            "Bernardo,"
+        ],
+        "757": [
+            2300.84,
+            2303.84,
+            "und Forsberg zu selten an die Grundlinie zu kommen."
+        ],
+        "758": [
+            2304.84,
+            2307.84,
+            "und Forsberg zu selten an die Grundlinie zu kommen."
+        ],
+        "759": [
+            2307.84,
+            2310.84,
+            "Das war ein guter Treffer."
+        ],
+        "760": [
+            2311.84,
+            2314.84,
+            "Das war ein guter Treffer."
+        ],
+        "761": [
+            2315.84,
+            2318.84,
+            "Er war gegen Schieber."
+        ],
+        "762": [
+            2319.84,
+            2322.84,
+            "Er war gegen Schieber."
+        ],
+        "763": [
+            2323.84,
+            2326.84,
+            "Er war weit vor dem Tor."
+        ],
+        "764": [
+            2327.84,
+            2330.84,
+            "Er war weit vor dem Tor."
+        ],
+        "765": [
+            2331.84,
+            2334.84,
+            "Morgen ist die KIA-Fußball-Debatte."
+        ],
+        "766": [
+            2334.84,
+            2337.84,
+            "Morgen ist die KIA-Fußball-Debatte."
+        ],
+        "767": [
+            2338.84,
+            2341.84,
+            "Die KIA-Fußball-Debatte."
+        ],
+        "768": [
+            2342.84,
+            2345.84,
+            "Von RB Leipzig ist da Jürgen Kohler."
+        ],
+        "769": [
+            2346.84,
+            2349.84,
+            "Von RB Leipzig ist da Jürgen Kohler."
+        ],
+        "770": [
+            2350.84,
+            2353.84,
+            "Und Sven Töllner."
+        ],
+        "771": [
+            2354.84,
+            2357.84,
+            "Paulsen."
+        ],
+        "772": [
+            2358.84,
+            2361.84,
+            "Paulsen."
+        ],
+        "773": [
+            2364.84,
+            2367.84,
+            "Paulsen."
+        ],
+        "774": [
+            2368.84,
+            2371.84,
+            "Paulsen."
+        ],
+        "775": [
+            2372.84,
+            2375.84,
+            "Paulsen."
+        ],
+        "776": [
+            2376.84,
+            2379.84,
+            "Paulsen."
+        ],
+        "777": [
+            2380.84,
+            2383.84,
+            "Paulsen."
+        ],
+        "778": [
+            2384.84,
+            2387.84,
+            "Tötti."
+        ],
+        "779": [
+            2388.84,
+            2391.84,
+            "Tötti."
+        ],
+        "780": [
+            2391.84,
+            2394.84,
+            "Tötti."
+        ],
+        "781": [
+            2395.84,
+            2398.84,
+            "Tötti."
+        ],
+        "782": [
+            2399.84,
+            2402.84,
+            "Werner."
+        ],
+        "783": [
+            2403.84,
+            2406.84,
+            "Werner."
+        ],
+        "784": [
+            2407.84,
+            2410.84,
+            "40. Minute."
+        ],
+        "785": [
+            2421.84,
+            2424.84,
+            "Die KIA-Fußball-Debatte."
+        ],
+        "786": [
+            2424.84,
+            2427.84,
+            "Die KIA-Fußball-Debatte."
+        ],
+        "787": [
+            2427.84,
+            2430.84,
+            "Die KIA-Fußball-Debatte."
+        ],
+        "788": [
+            2431.84,
+            2434.84,
+            "Tor für RB Leipzig."
+        ],
+        "789": [
+            2435.84,
+            2438.84,
+            "Tor für RB Leipzig."
+        ],
+        "790": [
+            2439.84,
+            2442.84,
+            "Für einen Moment."
+        ],
+        "791": [
+            2443.84,
+            2446.84,
+            "Für einen Moment."
+        ],
+        "792": [
+            2446.84,
+            2449.84,
+            "Tor für RB Leipzig."
+        ],
+        "793": [
+            2450.84,
+            2453.84,
+            "Tor für RB Leipzig."
+        ],
+        "794": [
+            2454.84,
+            2457.84,
+            "Werner steckt ihn ins Eck."
+        ],
+        "795": [
+            2458.84,
+            2461.84,
+            "9. Saisontreffer für ihn."
+        ],
+        "796": [
+            2462.84,
+            2465.84,
+            "Und damit ist die Geschichte"
+        ],
+        "797": [
+            2466.84,
+            2469.84,
+            "von vor 14 Tagen endgültig vom Tisch."
+        ],
+        "798": [
+            2470.84,
+            2473.84,
+            "Ja, er hat einen Fehler gemacht."
+        ],
+        "799": [
+            2473.84,
+            2476.84,
+            "Das war ein Fehler."
+        ],
+        "800": [
+            2477.84,
+            2480.84,
+            "Das war ein Fehler."
+        ],
+        "801": [
+            2481.84,
+            2484.84,
+            "Das sollte man moralisch nicht höher hängen"
+        ],
+        "802": [
+            2485.84,
+            2488.84,
+            "als unbedingt notwendig."
+        ],
+        "803": [
+            2489.84,
+            2492.84,
+            "Es macht keinen Sinn,"
+        ],
+        "804": [
+            2493.84,
+            2496.84,
+            "jeden Zweikampf abzuklopfen."
+        ],
+        "805": [
+            2497.84,
+            2500.84,
+            "Wie viel hat er inszeniert."
+        ],
+        "806": [
+            2500.84,
+            2503.84,
+            "Er hat das Tor gemacht,"
+        ],
+        "807": [
+            2504.84,
+            2507.84,
+            "weil er ein ausgezeichneter Fußballer ist."
+        ],
+        "808": [
+            2508.84,
+            2511.84,
+            "Schieber mit Torbahn."
+        ],
+        "809": [
+            2512.84,
+            2515.84,
+            "Wieder zurück."
+        ],
+        "810": [
+            2516.84,
+            2519.84,
+            "Kehter."
+        ],
+        "811": [
+            2520.84,
+            2523.84,
+            "Kehter."
+        ],
+        "812": [
+            2524.84,
+            2527.84,
+            "Ein Tick zu lang."
+        ],
+        "813": [
+            2527.84,
+            2530.84,
+            "Ein Tick zu lang."
+        ],
+        "814": [
+            2531.84,
+            2534.84,
+            "Zu wenig Entlastung im eigenen Spiel."
+        ],
+        "815": [
+            2535.84,
+            2538.84,
+            "Zu wenig Entlastung im eigenen Spiel."
+        ],
+        "816": [
+            2539.84,
+            2542.84,
+            "Und einmal im Zentrum."
+        ],
+        "817": [
+            2543.84,
+            2546.84,
+            "Und einmal im Zentrum."
+        ],
+        "818": [
+            2547.84,
+            2550.84,
+            "Ein halber Meter zu weit."
+        ],
+        "819": [
+            2551.84,
+            2554.84,
+            "Ein halber Meter zu weit."
+        ],
+        "820": [
+            2554.84,
+            2557.84,
+            "Und einmal im Zentrum."
+        ],
+        "821": [
+            2558.84,
+            2561.84,
+            "Ein halber Meter zu weit."
+        ],
+        "822": [
+            2562.84,
+            2565.84,
+            "Und Lustenberger."
+        ],
+        "823": [
+            2566.84,
+            2569.84,
+            "Und Lustenberger."
+        ],
+        "824": [
+            2570.84,
+            2573.84,
+            "Und Lustenberger."
+        ],
+        "825": [
+            2574.84,
+            2577.84,
+            "Und wenn man Spielanteile zugrunde legt,"
+        ],
+        "826": [
+            2578.84,
+            2581.84,
+            "ist es eine verdiente Führung."
+        ],
+        "827": [
+            2581.84,
+            2584.84,
+            "Und er hat es geschafft."
+        ],
+        "828": [
+            2585.84,
+            2588.84,
+            "Ich bin schon mit Spaltverlust."
+        ],
+        "829": [
+            2589.84,
+            2592.84,
+            "Er verliert die Bälle zu leicht."
+        ],
+        "830": [
+            2593.84,
+            2596.84,
+            "Er hat es geschafft."
+        ],
+        "831": [
+            2597.84,
+            2600.84,
+            "Er hat es geschafft."
+        ],
+        "832": [
+            2601.84,
+            2604.84,
+            "Er hat es geschafft."
+        ],
+        "833": [
+            2606.84,
+            2609.84,
+            "Zabitzer."
+        ],
+        "834": [
+            2610.84,
+            2613.84,
+            "Kehter."
+        ],
+        "835": [
+            2614.84,
+            2617.84,
+            "Und der letzte Pegarek dazwischen."
+        ],
+        "836": [
+            2622.84,
+            2625.84,
+            "Und platt bel plagiert."
+        ],
+        "837": [
+            2645.84,
+            2648.84,
+            "slatur Druivice."
+        ],
+        "838": [
+            2648.84,
+            2657.04,
+            "Vorteil abgewartet. Ich finde der unparteiische, weil der ja auch zur"
+        ],
+        "839": [
+            2657.04,
+            2662.36,
+            "Disposition stand vor dem Spiel, unparteiische hat sich hier nichts zu"
+        ],
+        "840": [
+            2662.36,
+            2665.16,
+            "Schulden kommen lassen. Wenn wir hier den Treffer noch mal sehen, letztes Spiel an"
+        ],
+        "841": [
+            2665.16,
+            2669.48,
+            "der langen Leine. Spieler übertreiben es nicht."
+        ],
+        "842": [
+            2672.52,
+            2676.88,
+            "Und der Unterhaltungswert profitiert."
+        ],
+        "843": [
+            2677.08,
+            2685.44,
+            "Die Leipziger mittlerweile in sämtlichen relevanten statistischen Werten führend."
+        ],
+        "844": [
+            2685.44,
+            2692.44,
+            "Ergebnis klar, Ballbesitz 62 38, Torschüsse 8 zu 2."
+        ],
+        "845": [
+            2692.44,
+            2699.08,
+            "Da wurde aber aus Berliner Sicht alles zusammengekratzt, was in irgendeiner Form"
+        ],
+        "846": [
+            2699.08,
+            2703.72,
+            "sich in Richtung Coulache bewegte."
+        ]
+    }
+}

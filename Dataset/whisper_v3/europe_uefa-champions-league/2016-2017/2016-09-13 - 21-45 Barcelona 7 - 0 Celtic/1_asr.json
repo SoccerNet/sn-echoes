@@ -1,0 +1,604 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            3.52,
+            "to frying that dying I pass it to you !!!!"
+        ],
+        "1": [
+            30.0,
+            59.98,
+            "Stavros Stavros Stavros"
+        ],
+        "2": [
+            60.0,
+            89.98,
+            "Stavros Stavros"
+        ],
+        "3": [
+            90.0,
+            119.98,
+            "Stavros Stavros"
+        ],
+        "4": [
+            120.0,
+            149.98,
+            "Stavros Stavros"
+        ],
+        "5": [
+            150.0,
+            179.98,
+            "Stavros Stavros"
+        ],
+        "6": [
+            180.0,
+            209.98,
+            "Stavros Stavros"
+        ],
+        "7": [
+            210.0,
+            239.98,
+            "Stavros Stavros"
+        ],
+        "8": [
+            240.0,
+            269.98,
+            "Stavros Stavros"
+        ],
+        "9": [
+            270.0,
+            299.98,
+            "Stavros Stavros"
+        ],
+        "10": [
+            300.0,
+            329.98,
+            "Stavros Stavros"
+        ],
+        "11": [
+            330.0,
+            359.98,
+            "Stavros Stavros"
+        ],
+        "12": [
+            360.0,
+            389.98,
+            "Stavros Stavros"
+        ],
+        "13": [
+            390.0,
+            419.98,
+            "Stavros Stavros"
+        ],
+        "14": [
+            420.0,
+            449.98,
+            "Stavros Stavros"
+        ],
+        "15": [
+            450.0,
+            479.98,
+            "Stavros Stavros"
+        ],
+        "16": [
+            480.0,
+            509.98,
+            "Stavros Stavros"
+        ],
+        "17": [
+            510.0,
+            539.98,
+            "Stavros Stavros"
+        ],
+        "18": [
+            540.0,
+            569.98,
+            "Stavros Stavros"
+        ],
+        "19": [
+            570.0,
+            599.98,
+            "Stavros Stavros"
+        ],
+        "20": [
+            600.0,
+            629.98,
+            "Stavros Stavros"
+        ],
+        "21": [
+            630.0,
+            659.98,
+            "Stavros Stavros"
+        ],
+        "22": [
+            660.0,
+            689.98,
+            "Stavros Stavros"
+        ],
+        "23": [
+            690.0,
+            719.98,
+            "Stavros Stavros"
+        ],
+        "24": [
+            720.0,
+            749.98,
+            "Stavros Stavros"
+        ],
+        "25": [
+            750.0,
+            779.98,
+            "Stavros Stavros"
+        ],
+        "26": [
+            780.0,
+            809.98,
+            "Stavros Stavros"
+        ],
+        "27": [
+            810.0,
+            839.98,
+            "Stavros Stavros"
+        ],
+        "28": [
+            840.0,
+            869.98,
+            "Stavros Stavros"
+        ],
+        "29": [
+            870.0,
+            899.98,
+            "Stavros Stavros"
+        ],
+        "30": [
+            900.0,
+            929.98,
+            "Stavros Stavros"
+        ],
+        "31": [
+            930.0,
+            959.98,
+            "Stavros Stavros"
+        ],
+        "32": [
+            960.0,
+            961.82,
+            "Stavros Stavros"
+        ],
+        "33": [
+            961.82,
+            966.7,
+            "Stavros Stavros"
+        ],
+        "34": [
+            966.7,
+            978.82,
+            "Stavros Stavros"
+        ],
+        "35": [
+            979.22,
+            983.66,
+            "Stavros Stavros"
+        ],
+        "36": [
+            983.66,
+            989.08,
+            "Stavros Stavros"
+        ],
+        "37": [
+            989.08,
+            989.86,
+            "Stavros Stavros"
+        ],
+        "38": [
+            989.86,
+            989.92,
+            "Stavros Stavros"
+        ],
+        "39": [
+            989.92,
+            989.96,
+            "Stavros"
+        ],
+        "40": [
+            989.96,
+            989.98,
+            "Stavros"
+        ],
+        "41": [
+            989.98,
+            993.98,
+            "Storbritannia"
+        ],
+        "42": [
+            1019.98,
+            1023.98,
+            "Storbritannia"
+        ],
+        "43": [
+            1049.98,
+            1053.98,
+            "Storbritannia"
+        ],
+        "44": [
+            1079.98,
+            1083.98,
+            "Storbritannia"
+        ],
+        "45": [
+            1109.98,
+            1113.98,
+            "Storbritannia"
+        ],
+        "46": [
+            1139.98,
+            1143.98,
+            "Storbritannia"
+        ],
+        "47": [
+            1169.98,
+            1173.98,
+            "Storbritannia"
+        ],
+        "48": [
+            1173.98,
+            1177.98,
+            "Storbritannia"
+        ],
+        "49": [
+            1177.98,
+            1181.98,
+            "Storbritannia"
+        ],
+        "50": [
+            1181.98,
+            1185.98,
+            "Storbritannia"
+        ],
+        "51": [
+            1185.98,
+            1189.98,
+            "Storbritannia"
+        ],
+        "52": [
+            1189.98,
+            1193.98,
+            "Storbritannia"
+        ],
+        "53": [
+            1193.98,
+            1197.98,
+            "Storbritannia"
+        ],
+        "54": [
+            1197.98,
+            1199.98,
+            "Storbritannia"
+        ],
+        "55": [
+            1199.98,
+            1229.96,
+            "Stavros Stavros"
+        ],
+        "56": [
+            1229.98,
+            1259.96,
+            "Stavros Stavros"
+        ],
+        "57": [
+            1259.98,
+            1289.96,
+            "Stavros Stavros"
+        ],
+        "58": [
+            1289.98,
+            1319.96,
+            "Stavros Stavros"
+        ],
+        "59": [
+            1319.98,
+            1349.96,
+            "Stavros Stavros"
+        ],
+        "60": [
+            1349.98,
+            1379.96,
+            "Stavros Stavros"
+        ],
+        "61": [
+            1379.98,
+            1409.96,
+            "Stavros Stavros"
+        ],
+        "62": [
+            1409.98,
+            1439.96,
+            "Stavros Stavros"
+        ],
+        "63": [
+            1439.98,
+            1469.96,
+            "Stavros Stavros"
+        ],
+        "64": [
+            1469.98,
+            1499.96,
+            "Stavros Stavros"
+        ],
+        "65": [
+            1499.98,
+            1529.96,
+            "Stavros Stavros"
+        ],
+        "66": [
+            1529.98,
+            1559.96,
+            "Stavros Stavros"
+        ],
+        "67": [
+            1559.98,
+            1589.96,
+            "Stavros Stavros"
+        ],
+        "68": [
+            1589.98,
+            1619.96,
+            "Stavros Stavros"
+        ],
+        "69": [
+            1619.98,
+            1649.96,
+            "Stavros Stavros"
+        ],
+        "70": [
+            1649.98,
+            1679.96,
+            "Stavros Stavros"
+        ],
+        "71": [
+            1679.98,
+            1709.96,
+            "Stavros Stavros"
+        ],
+        "72": [
+            1709.98,
+            1739.96,
+            "Stavros Stavros"
+        ],
+        "73": [
+            1739.98,
+            1769.96,
+            "Stavros Stavros"
+        ],
+        "74": [
+            1769.98,
+            1799.96,
+            "Stavros Stavros"
+        ],
+        "75": [
+            1799.98,
+            1829.96,
+            "Stavros Stavros"
+        ],
+        "76": [
+            1829.98,
+            1859.96,
+            "Stavros Stavros"
+        ],
+        "77": [
+            1859.98,
+            1889.96,
+            "Stavros Stavros"
+        ],
+        "78": [
+            1889.98,
+            1919.96,
+            "Stavros Stavros"
+        ],
+        "79": [
+            1919.98,
+            1949.96,
+            "Stavros Stavros"
+        ],
+        "80": [
+            1949.98,
+            1979.96,
+            "Stavros Stavros"
+        ],
+        "81": [
+            1979.98,
+            2009.96,
+            "Stavros Stavros"
+        ],
+        "82": [
+            2009.98,
+            2039.96,
+            "Stavros Stavros"
+        ],
+        "83": [
+            2039.98,
+            2069.96,
+            "Stavros Stavros"
+        ],
+        "84": [
+            2069.98,
+            2099.96,
+            "Stavros Stavros"
+        ],
+        "85": [
+            2099.98,
+            2129.96,
+            "Stavros Stavros"
+        ],
+        "86": [
+            2129.98,
+            2159.96,
+            "Stavros Stavros"
+        ],
+        "87": [
+            2159.98,
+            2189.96,
+            "Stavros Stavros"
+        ],
+        "88": [
+            2189.98,
+            2219.96,
+            "Stavros Stavros Stavros"
+        ],
+        "89": [
+            2219.98,
+            2249.96,
+            "Stavros Stavros Stavros"
+        ],
+        "90": [
+            2249.98,
+            2279.96,
+            "Stavros Stavros Stavros"
+        ],
+        "91": [
+            2279.98,
+            2309.96,
+            "Stavros Stavros Stavros"
+        ],
+        "92": [
+            2309.98,
+            2339.96,
+            "Stavros Stavros Stavros Stavros"
+        ],
+        "93": [
+            2339.98,
+            2344.16,
+            "Stavros Stavros Talking"
+        ],
+        "94": [
+            2344.16,
+            2347.48,
+            "Stavros Stavros Stavros"
+        ],
+        "95": [
+            2347.48,
+            2364.94,
+            "Stavros Stavros Stavros"
+        ],
+        "96": [
+            2364.94,
+            2368.94,
+            "Stavros Stavros Stavros"
+        ],
+        "97": [
+            2368.94,
+            2369.14,
+            "Stavros Stavros Stavros"
+        ],
+        "98": [
+            2369.14,
+            2369.26,
+            "Stavros Stavros"
+        ],
+        "99": [
+            2369.28,
+            2369.36,
+            "Stavros Stavros"
+        ],
+        "100": [
+            2369.36,
+            2369.86,
+            "Stavros Stavros"
+        ],
+        "101": [
+            2369.86,
+            2369.96,
+            "Stavros Stavros"
+        ],
+        "102": [
+            2369.98,
+            2373.98,
+            "Storbritannia"
+        ],
+        "103": [
+            2399.98,
+            2403.98,
+            "Storbritannia"
+        ],
+        "104": [
+            2429.98,
+            2433.98,
+            "Storbritannia"
+        ],
+        "105": [
+            2459.98,
+            2463.98,
+            "Storbritannia"
+        ],
+        "106": [
+            2489.98,
+            2493.98,
+            "Storbritannia"
+        ],
+        "107": [
+            2519.98,
+            2523.98,
+            "Storbritannia"
+        ],
+        "108": [
+            2523.98,
+            2527.98,
+            "Storbritannia"
+        ],
+        "109": [
+            2527.98,
+            2533.98,
+            "Storbritannia"
+        ],
+        "110": [
+            2533.98,
+            2537.98,
+            "Storbritannia"
+        ],
+        "111": [
+            2537.98,
+            2541.98,
+            "Storbritannia"
+        ],
+        "112": [
+            2541.98,
+            2545.98,
+            "Storbritannia"
+        ],
+        "113": [
+            2545.98,
+            2549.98,
+            "Storbritannia"
+        ],
+        "114": [
+            2549.98,
+            2579.96,
+            "Takk for ating!"
+        ],
+        "115": [
+            2579.98,
+            2609.96,
+            "Takk for ating!"
+        ],
+        "116": [
+            2609.98,
+            2639.96,
+            "Takk for ating!"
+        ],
+        "117": [
+            2639.98,
+            2669.96,
+            "Takk for ating!"
+        ],
+        "118": [
+            2669.98,
+            2699.96,
+            "Takk for ating!"
+        ],
+        "119": [
+            2699.98,
+            2729.96,
+            "Takk for ating!"
+        ]
+    }
+}

@@ -1,0 +1,4669 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.0,
+            "der Spielzeit."
+        ],
+        "1": [
+            1.0,
+            2.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "2": [
+            2.0,
+            3.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "3": [
+            3.0,
+            4.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "4": [
+            4.0,
+            5.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "5": [
+            5.0,
+            6.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "6": [
+            6.0,
+            7.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "7": [
+            7.0,
+            8.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "8": [
+            8.0,
+            9.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "9": [
+            9.0,
+            10.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "10": [
+            10.0,
+            11.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "11": [
+            11.0,
+            12.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "12": [
+            12.0,
+            13.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "13": [
+            13.0,
+            14.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "14": [
+            14.0,
+            15.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "15": [
+            15.0,
+            16.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "16": [
+            16.0,
+            17.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "17": [
+            17.0,
+            18.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "18": [
+            18.0,
+            19.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "19": [
+            19.0,
+            20.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "20": [
+            20.0,
+            21.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "21": [
+            21.0,
+            22.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "22": [
+            22.0,
+            23.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "23": [
+            23.0,
+            24.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "24": [
+            24.0,
+            25.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "25": [
+            25.0,
+            26.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "26": [
+            26.0,
+            27.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "27": [
+            27.0,
+            28.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "28": [
+            28.0,
+            29.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "29": [
+            29.0,
+            30.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "30": [
+            30.0,
+            31.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "31": [
+            31.0,
+            32.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "32": [
+            32.0,
+            33.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "33": [
+            33.0,
+            34.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "34": [
+            34.0,
+            35.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "35": [
+            35.0,
+            36.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "36": [
+            36.0,
+            37.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "37": [
+            37.0,
+            38.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "38": [
+            38.0,
+            39.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "39": [
+            39.0,
+            40.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "40": [
+            40.0,
+            41.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "41": [
+            41.0,
+            42.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "42": [
+            42.0,
+            43.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "43": [
+            43.0,
+            44.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "44": [
+            44.0,
+            45.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "45": [
+            45.0,
+            46.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "46": [
+            46.0,
+            47.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "47": [
+            47.0,
+            48.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "48": [
+            48.0,
+            49.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "49": [
+            49.0,
+            50.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "50": [
+            50.0,
+            51.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "51": [
+            51.0,
+            52.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "52": [
+            52.0,
+            53.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "53": [
+            53.0,
+            54.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "54": [
+            54.0,
+            55.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "55": [
+            55.0,
+            56.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "56": [
+            56.0,
+            57.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "57": [
+            57.0,
+            58.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "58": [
+            58.0,
+            59.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "59": [
+            59.0,
+            60.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "60": [
+            60.0,
+            61.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "61": [
+            61.0,
+            62.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "62": [
+            62.0,
+            63.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "63": [
+            63.0,
+            64.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "64": [
+            64.0,
+            65.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "65": [
+            65.0,
+            66.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "66": [
+            66.0,
+            67.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "67": [
+            67.0,
+            68.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "68": [
+            68.0,
+            69.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "69": [
+            69.0,
+            70.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "70": [
+            70.0,
+            71.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "71": [
+            71.0,
+            72.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "72": [
+            72.0,
+            73.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "73": [
+            73.0,
+            74.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "74": [
+            74.0,
+            75.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "75": [
+            75.0,
+            76.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "76": [
+            76.0,
+            77.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "77": [
+            77.0,
+            78.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "78": [
+            78.0,
+            79.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "79": [
+            79.0,
+            80.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "80": [
+            80.0,
+            81.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "81": [
+            81.0,
+            82.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "82": [
+            82.0,
+            83.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "83": [
+            83.0,
+            84.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "84": [
+            84.0,
+            85.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "85": [
+            85.0,
+            86.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "86": [
+            86.0,
+            87.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "87": [
+            87.0,
+            88.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "88": [
+            88.0,
+            89.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "89": [
+            89.0,
+            90.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "90": [
+            90.0,
+            91.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "91": [
+            91.0,
+            92.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "92": [
+            92.0,
+            93.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "93": [
+            93.0,
+            94.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "94": [
+            94.0,
+            95.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "95": [
+            95.0,
+            96.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "96": [
+            96.0,
+            97.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "97": [
+            97.0,
+            98.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "98": [
+            98.0,
+            99.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "99": [
+            99.0,
+            100.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "100": [
+            100.0,
+            101.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "101": [
+            101.0,
+            102.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "102": [
+            102.0,
+            103.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "103": [
+            103.0,
+            104.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "104": [
+            104.0,
+            105.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "105": [
+            105.0,
+            106.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "106": [
+            106.0,
+            107.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "107": [
+            107.0,
+            108.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "108": [
+            108.0,
+            109.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "109": [
+            109.0,
+            110.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "110": [
+            110.0,
+            111.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "111": [
+            111.0,
+            112.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "112": [
+            112.0,
+            113.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "113": [
+            113.0,
+            114.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "114": [
+            114.0,
+            115.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "115": [
+            115.0,
+            116.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "116": [
+            116.0,
+            117.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "117": [
+            117.0,
+            118.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "118": [
+            118.0,
+            119.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "119": [
+            119.0,
+            120.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "120": [
+            120.0,
+            121.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "121": [
+            121.0,
+            122.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "122": [
+            122.0,
+            123.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "123": [
+            123.0,
+            124.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "124": [
+            124.0,
+            125.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "125": [
+            125.0,
+            126.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "126": [
+            126.0,
+            127.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "127": [
+            127.0,
+            128.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "128": [
+            128.0,
+            129.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "129": [
+            129.0,
+            130.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "130": [
+            130.0,
+            131.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "131": [
+            132.0,
+            133.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "132": [
+            133.0,
+            134.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "133": [
+            134.0,
+            135.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "134": [
+            135.0,
+            136.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "135": [
+            136.0,
+            137.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "136": [
+            137.0,
+            138.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "137": [
+            138.0,
+            139.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "138": [
+            139.0,
+            140.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "139": [
+            140.0,
+            141.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "140": [
+            141.0,
+            142.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "141": [
+            142.0,
+            143.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "142": [
+            143.0,
+            144.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "143": [
+            144.0,
+            145.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "144": [
+            146.0,
+            147.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "145": [
+            147.0,
+            148.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "146": [
+            148.0,
+            149.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "147": [
+            149.0,
+            150.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "148": [
+            150.0,
+            151.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "149": [
+            151.0,
+            152.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "150": [
+            152.0,
+            153.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "151": [
+            153.0,
+            154.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "152": [
+            154.0,
+            155.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "153": [
+            155.0,
+            156.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "154": [
+            156.0,
+            157.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "155": [
+            157.0,
+            158.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "156": [
+            158.0,
+            159.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "157": [
+            159.0,
+            160.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "158": [
+            160.0,
+            161.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "159": [
+            161.0,
+            162.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "160": [
+            162.0,
+            163.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "161": [
+            163.0,
+            164.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "162": [
+            164.0,
+            165.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "163": [
+            165.0,
+            166.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "164": [
+            166.0,
+            167.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "165": [
+            167.0,
+            168.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "166": [
+            168.0,
+            169.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "167": [
+            169.0,
+            170.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "168": [
+            170.0,
+            171.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "169": [
+            171.0,
+            172.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "170": [
+            172.0,
+            173.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "171": [
+            173.0,
+            174.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "172": [
+            174.0,
+            175.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "173": [
+            175.0,
+            176.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "174": [
+            176.0,
+            177.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "175": [
+            177.0,
+            178.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "176": [
+            178.0,
+            179.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "177": [
+            179.0,
+            180.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "178": [
+            180.0,
+            181.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "179": [
+            181.0,
+            182.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "180": [
+            182.0,
+            183.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "181": [
+            183.0,
+            184.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "182": [
+            184.0,
+            185.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "183": [
+            185.0,
+            186.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "184": [
+            186.0,
+            187.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "185": [
+            187.0,
+            188.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "186": [
+            188.0,
+            189.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "187": [
+            189.0,
+            190.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "188": [
+            190.0,
+            191.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "189": [
+            191.0,
+            192.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "190": [
+            192.0,
+            193.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "191": [
+            193.0,
+            194.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "192": [
+            194.0,
+            195.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "193": [
+            195.0,
+            196.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "194": [
+            196.0,
+            197.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "195": [
+            197.0,
+            198.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "196": [
+            199.0,
+            200.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "197": [
+            200.0,
+            201.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "198": [
+            201.0,
+            202.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "199": [
+            202.0,
+            203.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "200": [
+            203.0,
+            204.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "201": [
+            204.0,
+            205.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "202": [
+            205.0,
+            206.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "203": [
+            206.0,
+            207.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "204": [
+            207.0,
+            208.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "205": [
+            208.0,
+            209.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "206": [
+            209.0,
+            210.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "207": [
+            210.0,
+            211.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "208": [
+            211.0,
+            212.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "209": [
+            212.0,
+            213.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "210": [
+            213.0,
+            214.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "211": [
+            214.0,
+            215.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "212": [
+            215.0,
+            216.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "213": [
+            216.0,
+            217.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "214": [
+            217.0,
+            218.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "215": [
+            218.0,
+            219.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "216": [
+            219.0,
+            220.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "217": [
+            220.0,
+            221.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "218": [
+            221.0,
+            222.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "219": [
+            222.0,
+            223.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "220": [
+            223.0,
+            224.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "221": [
+            224.0,
+            225.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "222": [
+            225.0,
+            226.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "223": [
+            226.0,
+            227.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "224": [
+            227.0,
+            228.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "225": [
+            228.0,
+            229.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "226": [
+            229.0,
+            230.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "227": [
+            230.0,
+            231.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "228": [
+            231.0,
+            232.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "229": [
+            232.0,
+            233.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "230": [
+            233.0,
+            234.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "231": [
+            234.0,
+            235.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "232": [
+            235.0,
+            236.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "233": [
+            236.0,
+            237.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "234": [
+            237.0,
+            238.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "235": [
+            238.0,
+            239.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "236": [
+            239.0,
+            240.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "237": [
+            240.0,
+            241.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "238": [
+            241.0,
+            242.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "239": [
+            242.0,
+            243.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "240": [
+            243.0,
+            244.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "241": [
+            244.0,
+            245.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "242": [
+            245.0,
+            246.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "243": [
+            246.0,
+            247.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "244": [
+            247.0,
+            248.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "245": [
+            248.0,
+            249.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "246": [
+            249.0,
+            250.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "247": [
+            250.0,
+            251.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "248": [
+            251.0,
+            252.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "249": [
+            252.0,
+            253.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "250": [
+            253.0,
+            254.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "251": [
+            254.0,
+            255.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "252": [
+            255.0,
+            256.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "253": [
+            256.0,
+            257.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "254": [
+            257.0,
+            258.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "255": [
+            258.0,
+            259.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "256": [
+            259.0,
+            260.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "257": [
+            260.0,
+            261.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "258": [
+            261.0,
+            262.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "259": [
+            262.0,
+            263.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "260": [
+            263.0,
+            264.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "261": [
+            264.0,
+            265.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "262": [
+            265.0,
+            266.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "263": [
+            266.0,
+            267.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "264": [
+            267.0,
+            268.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "265": [
+            268.0,
+            269.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "266": [
+            269.0,
+            270.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "267": [
+            270.0,
+            271.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "268": [
+            271.0,
+            272.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "269": [
+            272.0,
+            273.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "270": [
+            273.0,
+            274.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "271": [
+            274.0,
+            275.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "272": [
+            275.0,
+            276.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "273": [
+            276.0,
+            277.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "274": [
+            277.0,
+            278.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "275": [
+            278.0,
+            279.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "276": [
+            279.0,
+            280.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "277": [
+            280.0,
+            281.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "278": [
+            281.0,
+            282.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "279": [
+            282.0,
+            283.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "280": [
+            283.0,
+            284.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "281": [
+            284.0,
+            285.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "282": [
+            285.0,
+            286.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "283": [
+            286.0,
+            287.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "284": [
+            287.0,
+            288.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "285": [
+            288.0,
+            289.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "286": [
+            289.0,
+            290.0,
+            "Die Mannschaft ist in der ersten Halbzeit der Spielzeit."
+        ],
+        "287": [
+            291.0,
+            292.0,
+            "Er ist Kampel."
+        ],
+        "288": [
+            292.0,
+            293.0,
+            "Er ist Kampel."
+        ],
+        "289": [
+            293.0,
+            294.0,
+            "Er wird jetzt mit Mkhitaryan die Seite getauscht."
+        ],
+        "290": [
+            294.0,
+            295.0,
+            "Er wird jetzt mit Mkhitaryan die Seite getauscht."
+        ],
+        "291": [
+            295.0,
+            296.0,
+            "Er wird jetzt mit Mkhitaryan die Seite getauscht."
+        ],
+        "292": [
+            296.0,
+            297.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "293": [
+            297.0,
+            298.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "294": [
+            298.0,
+            299.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "295": [
+            299.0,
+            300.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "296": [
+            300.0,
+            301.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "297": [
+            301.0,
+            302.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "298": [
+            303.0,
+            304.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "299": [
+            304.0,
+            305.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "300": [
+            305.0,
+            306.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "301": [
+            306.0,
+            307.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "302": [
+            307.0,
+            308.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "303": [
+            308.0,
+            309.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "304": [
+            309.0,
+            310.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "305": [
+            310.0,
+            311.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "306": [
+            312.0,
+            313.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "307": [
+            313.0,
+            314.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "308": [
+            314.0,
+            315.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "309": [
+            315.0,
+            316.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "310": [
+            316.0,
+            317.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "311": [
+            317.0,
+            318.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "312": [
+            318.0,
+            319.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "313": [
+            319.0,
+            320.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "314": [
+            320.0,
+            321.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "315": [
+            321.0,
+            322.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "316": [
+            322.0,
+            323.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "317": [
+            323.0,
+            324.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "318": [
+            324.0,
+            325.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "319": [
+            325.0,
+            326.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "320": [
+            326.0,
+            327.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "321": [
+            327.0,
+            328.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "322": [
+            328.0,
+            329.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "323": [
+            329.0,
+            330.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "324": [
+            330.0,
+            331.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "325": [
+            331.0,
+            332.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "326": [
+            332.0,
+            333.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "327": [
+            333.0,
+            334.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "328": [
+            334.0,
+            335.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "329": [
+            335.0,
+            336.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "330": [
+            337.0,
+            338.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "331": [
+            338.0,
+            339.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "332": [
+            339.0,
+            340.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "333": [
+            340.0,
+            341.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "334": [
+            341.0,
+            342.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "335": [
+            342.0,
+            343.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "336": [
+            343.0,
+            344.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "337": [
+            344.0,
+            345.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "338": [
+            346.0,
+            347.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "339": [
+            347.0,
+            348.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "340": [
+            348.0,
+            349.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "341": [
+            349.0,
+            350.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "342": [
+            350.0,
+            351.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "343": [
+            351.0,
+            352.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "344": [
+            352.0,
+            353.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "345": [
+            353.0,
+            354.0,
+            "Er wird der Armenier rechts Kampel, der slowenische Nationalspieler auf der linken Seite."
+        ],
+        "346": [
+            355.0,
+            358.0,
+            "Das ist das zweite Gegentor von Roland Gier."
+        ],
+        "347": [
+            358.0,
+            359.0,
+            "Das ist das zweite Gegentor von Roland Gier."
+        ],
+        "348": [
+            359.0,
+            360.0,
+            "Modest."
+        ],
+        "349": [
+            360.0,
+            361.0,
+            "Tolle Ballan- und Mitnahme."
+        ],
+        "350": [
+            361.0,
+            362.0,
+            "Modest."
+        ],
+        "351": [
+            362.0,
+            363.0,
+            "Tolle Ballan- und Mitnahme."
+        ],
+        "352": [
+            363.0,
+            364.0,
+            "Rommels rechtzeitig draußen."
+        ],
+        "353": [
+            364.0,
+            365.0,
+            "Rommels rechtzeitig draußen."
+        ],
+        "354": [
+            365.0,
+            366.0,
+            "Wieder Modest."
+        ],
+        "355": [
+            366.0,
+            367.0,
+            "Wieder Modest."
+        ],
+        "356": [
+            367.0,
+            368.0,
+            "Wieder Modest."
+        ],
+        "357": [
+            368.0,
+            369.0,
+            "Wieder Modest."
+        ],
+        "358": [
+            369.0,
+            370.0,
+            "Wieder Modest."
+        ],
+        "359": [
+            370.0,
+            371.0,
+            "Wieder Modest."
+        ],
+        "360": [
+            371.0,
+            372.0,
+            "Wieder Modest."
+        ],
+        "361": [
+            372.0,
+            373.0,
+            "Wieder Modest."
+        ],
+        "362": [
+            373.0,
+            374.0,
+            "Wieder Modest."
+        ],
+        "363": [
+            374.0,
+            375.0,
+            "Wieder Modest."
+        ],
+        "364": [
+            375.0,
+            376.0,
+            "Wieder Modest."
+        ],
+        "365": [
+            376.0,
+            377.0,
+            "Wieder Modest."
+        ],
+        "366": [
+            377.0,
+            378.0,
+            "Wieder Modest."
+        ],
+        "367": [
+            378.0,
+            379.0,
+            "Wieder Modest."
+        ],
+        "368": [
+            379.0,
+            380.0,
+            "Wieder Modest."
+        ],
+        "369": [
+            380.0,
+            381.0,
+            "Wieder Modest."
+        ],
+        "370": [
+            381.0,
+            382.0,
+            "Wieder Modest."
+        ],
+        "371": [
+            382.0,
+            383.0,
+            "Wieder Modest."
+        ],
+        "372": [
+            383.0,
+            384.0,
+            "Wieder Modest."
+        ],
+        "373": [
+            384.0,
+            385.0,
+            "Wieder Modest."
+        ],
+        "374": [
+            385.0,
+            386.0,
+            "Wieder Modest."
+        ],
+        "375": [
+            386.0,
+            387.0,
+            "Wieder einen tollen Set im Landtag und die gewünschte Gut danced Sue."
+        ],
+        "376": [
+            387.0,
+            388.0,
+            "Wieder Modest."
+        ],
+        "377": [
+            388.0,
+            389.0,
+            "Wieder Modest."
+        ],
+        "378": [
+            389.0,
+            390.0,
+            "Wieder Modest."
+        ],
+        "379": [
+            390.0,
+            391.0,
+            "Wieder Modest."
+        ],
+        "380": [
+            404.0,
+            405.0,
+            "Toll, Jan."
+        ],
+        "381": [
+            405.0,
+            406.0,
+            "Mit Vollgas."
+        ],
+        "382": [
+            406.0,
+            407.0,
+            "Werden wir Modest."
+        ],
+        "383": [
+            407.0,
+            408.0,
+            "Kampel."
+        ],
+        "384": [
+            408.0,
+            409.0,
+            "Rommel."
+        ],
+        "385": [
+            409.0,
+            410.0,
+            "Rechtzeitig."
+        ],
+        "386": [
+            410.0,
+            411.0,
+            "Wieder Modest."
+        ],
+        "387": [
+            411.0,
+            412.0,
+            "Wieder Modest."
+        ],
+        "388": [
+            412.0,
+            414.0,
+            "Das war ein Angriff auf den Ball mit einem Kollateralschaden."
+        ],
+        "389": [
+            414.0,
+            416.0,
+            "Kein Vorwurf gegen Toljan."
+        ],
+        "390": [
+            416.0,
+            418.0,
+            "Er trifft da Mkhitaryan."
+        ],
+        "391": [
+            418.0,
+            420.0,
+            "Er hat aber zuvor den Ball gespielt."
+        ],
+        "392": [
+            420.0,
+            422.0,
+            "Das ist die Szene."
+        ],
+        "393": [
+            422.0,
+            424.0,
+            "Er rauscht da ran."
+        ],
+        "394": [
+            424.0,
+            426.0,
+            "Er spielt den Ball."
+        ],
+        "395": [
+            426.0,
+            428.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "396": [
+            428.0,
+            430.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "397": [
+            430.0,
+            432.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "398": [
+            432.0,
+            434.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "399": [
+            434.0,
+            436.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "400": [
+            436.0,
+            438.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "401": [
+            438.0,
+            440.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "402": [
+            440.0,
+            442.0,
+            "Der überаешьe sich im Kopf."
+        ],
+        "403": [
+            445.0,
+            447.0,
+            "Er trifft den Nationalspieler Amine."
+        ],
+        "404": [
+            449.0,
+            451.02,
+            "Er traf jetzt vielen Zweikämpfer."
+        ],
+        "405": [
+            456.0,
+            459.0,
+            "Zum Tierwahlspiel eingebracht,"
+        ],
+        "406": [
+            460.0,
+            462.0,
+            "allerdings im offenen Visier."
+        ],
+        "407": [
+            464.0,
+            466.0,
+            "Amine nicht übertrieben."
+        ],
+        "408": [
+            466.0,
+            468.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "409": [
+            470.98,
+            473.98,
+            "Ich verspreche, dass wir als Team alles tun werden,"
+        ],
+        "410": [
+            474.0,
+            476.0,
+            "um dieses Spiel zu gewinnen."
+        ],
+        "411": [
+            488.0,
+            490.0,
+            "Die Mannschaft hält sich an die Vorgabe."
+        ],
+        "412": [
+            497.0,
+            499.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "413": [
+            500.0,
+            502.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "414": [
+            503.0,
+            505.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "415": [
+            506.0,
+            508.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "416": [
+            509.0,
+            511.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "417": [
+            512.0,
+            514.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "418": [
+            515.0,
+            517.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "419": [
+            520.0,
+            522.0,
+            "Jetzt liegt Schwegler auf dem Basen."
+        ],
+        "420": [
+            523.0,
+            525.0,
+            "Das war ein Hummel für Oberjahn."
+        ],
+        "421": [
+            532.0,
+            536.0,
+            "Die Hoffenheimer haben diesen Angriff selbst zu Ende gespielt."
+        ],
+        "422": [
+            538.0,
+            540.0,
+            "Das war ein Hummel für Oberjahn."
+        ],
+        "423": [
+            541.0,
+            543.0,
+            "Das war ein Hummel für Oberjahn."
+        ],
+        "424": [
+            545.0,
+            547.0,
+            "Kein Fortspiel zu erkennen."
+        ],
+        "425": [
+            548.0,
+            550.0,
+            "Schwegler ist ungeschmeidig gefallen."
+        ],
+        "426": [
+            551.0,
+            553.0,
+            "Er steht aber wieder."
+        ],
+        "427": [
+            559.0,
+            561.0,
+            "Es gibt viel Platz für Nikitarjan."
+        ],
+        "428": [
+            562.0,
+            564.0,
+            "Die Ballannahme ist verdächtig."
+        ],
+        "429": [
+            565.0,
+            567.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "430": [
+            570.0,
+            572.0,
+            "Die Mannschaft ist sehr gut vorbereitet."
+        ],
+        "431": [
+            575.0,
+            577.0,
+            "Das Zentrum ist besetzt mit Firmino und Modest."
+        ],
+        "432": [
+            580.0,
+            582.0,
+            "Hektische Atmosphäre."
+        ],
+        "433": [
+            583.0,
+            585.0,
+            "Jeder Zweikampf diskutiert."
+        ],
+        "434": [
+            586.0,
+            588.0,
+            "Gelb gegen Kampel."
+        ],
+        "435": [
+            595.0,
+            597.0,
+            "Das war ein guter Ball."
+        ],
+        "436": [
+            598.0,
+            600.0,
+            "Das war ein guter Ball."
+        ],
+        "437": [
+            600.0,
+            602.0,
+            "Das war ein guter Ball."
+        ],
+        "438": [
+            603.0,
+            605.0,
+            "Das war ein guter Ball."
+        ],
+        "439": [
+            606.0,
+            608.0,
+            "Das war ein guter Ball."
+        ],
+        "440": [
+            609.0,
+            611.0,
+            "Das war ein guter Ball."
+        ],
+        "441": [
+            612.0,
+            614.0,
+            "Das war ein guter Ball."
+        ],
+        "442": [
+            615.0,
+            617.0,
+            "Das war ein guter Ball."
+        ],
+        "443": [
+            618.0,
+            620.0,
+            "Das war ein guter Ball."
+        ],
+        "444": [
+            621.0,
+            623.0,
+            "Das war ein guter Ball."
+        ],
+        "445": [
+            624.0,
+            626.0,
+            "Das war ein guter Ball."
+        ],
+        "446": [
+            627.0,
+            629.0,
+            "Das war ein guter Ball."
+        ],
+        "447": [
+            630.0,
+            632.0,
+            "Das war ein guter Ball."
+        ],
+        "448": [
+            633.0,
+            635.0,
+            "Das war ein guter Ball."
+        ],
+        "449": [
+            636.0,
+            638.0,
+            "Das war ein guter Ball."
+        ],
+        "450": [
+            639.0,
+            641.0,
+            "Die gelbe Karte gegen Kevin Kampel."
+        ],
+        "451": [
+            642.0,
+            645.0,
+            "Die Aktion, die dieser gelben Karte vorausgibt."
+        ],
+        "452": [
+            646.0,
+            648.0,
+            "Obermeyer gegen Vyacheslav Vyacheslav."
+        ],
+        "453": [
+            649.0,
+            651.0,
+            "Drei in Zweikampf."
+        ],
+        "454": [
+            652.0,
+            654.0,
+            "Ecke für den BVB."
+        ],
+        "455": [
+            660.0,
+            662.0,
+            "Der BVB ist in der zweiten Runde."
+        ],
+        "456": [
+            663.0,
+            665.0,
+            "Der BVB ist in der zweiten Runde."
+        ],
+        "457": [
+            666.0,
+            668.0,
+            "Erke Mkhitaryan."
+        ],
+        "458": [
+            675.0,
+            677.0,
+            "Erke Mkhitaryan."
+        ],
+        "459": [
+            678.0,
+            680.0,
+            "Er ist im Trikot."
+        ],
+        "460": [
+            681.0,
+            683.0,
+            "Er ist im Trikot."
+        ],
+        "461": [
+            684.0,
+            686.0,
+            "Er ist im Trikot."
+        ],
+        "462": [
+            686.0,
+            688.0,
+            "Er ist im Trikot."
+        ],
+        "463": [
+            689.0,
+            691.0,
+            "Er ist im Trikot."
+        ],
+        "464": [
+            706.0,
+            708.0,
+            "Der BVB gewinnt den ersten Zweikampf."
+        ],
+        "465": [
+            709.0,
+            711.0,
+            "Gegen Mats Hummels."
+        ],
+        "466": [
+            711.0,
+            714.0,
+            "Die Mannschaft hat den Ball nicht in die Hand genommen."
+        ],
+        "467": [
+            714.98,
+            718.0,
+            "Aber die Mannschaft hat den Ball in die Hand genommen."
+        ],
+        "468": [
+            718.0,
+            720.0,
+            "Und da ist Miki Tarjan."
+        ],
+        "469": [
+            720.98,
+            722.0,
+            "Das war alles sauber."
+        ],
+        "470": [
+            722.98,
+            724.0,
+            "Dresden stand gut."
+        ],
+        "471": [
+            724.98,
+            727.0,
+            "Einige Dortmunder fordern da Elfmeter."
+        ],
+        "472": [
+            727.98,
+            730.0,
+            "Ich habe von hier oben nichts gesehen."
+        ],
+        "473": [
+            734.0,
+            736.0,
+            "Aber das ist ein wilder Fehlpass."
+        ],
+        "474": [
+            736.98,
+            738.0,
+            "Und Modest hat die Chance."
+        ],
+        "475": [
+            738.98,
+            740.98,
+            "Und vergibt Dom mit diesem Aussetzer."
+        ],
+        "476": [
+            741.0,
+            742.02,
+            "Das war eine gute Chance."
+        ],
+        "477": [
+            743.0,
+            745.02,
+            "Aber die Mannschaft hat die Chance."
+        ],
+        "478": [
+            746.0,
+            748.02,
+            "Und die Mannschaft von Markus Gisdol"
+        ],
+        "479": [
+            749.0,
+            751.02,
+            "hat die Chance, erneut den Front zu bringen."
+        ],
+        "480": [
+            752.0,
+            753.02,
+            "Hier Dom mit diesem Aussetzer."
+        ],
+        "481": [
+            754.0,
+            756.02,
+            "Er wollte zurückpassen auf Langerak."
+        ],
+        "482": [
+            757.0,
+            760.0,
+            "Und Modest hat hier eine 100-prozentige Chance."
+        ],
+        "483": [
+            760.02,
+            762.02,
+            "Und zuvor die Chance von Obermeyer."
+        ],
+        "484": [
+            763.0,
+            765.02,
+            "Der hier vielleicht nicht voll durchzieht."
+        ],
+        "485": [
+            766.0,
+            769.0,
+            "Aber vielleicht unterschätzen wir auch Abraham."
+        ],
+        "486": [
+            769.02,
+            770.02,
+            "Der ist sehr gut."
+        ],
+        "487": [
+            771.0,
+            772.02,
+            "Er hat die Chance,"
+        ],
+        "488": [
+            773.0,
+            776.02,
+            "dass der Innenverteidiger sehr schnell zu Fuß unterwegs ist."
+        ],
+        "489": [
+            781.0,
+            784.0,
+            "Und Abraham, ähnlich wie auf der anderen Seite,"
+        ],
+        "490": [
+            784.02,
+            786.02,
+            "mit einer exquisiten Zweikampfbilanz."
+        ],
+        "491": [
+            787.0,
+            788.02,
+            "87 % gewonnene Duelle."
+        ],
+        "492": [
+            799.02,
+            801.02,
+            "Und dann die Chance von Obermeyer."
+        ],
+        "493": [
+            803.02,
+            805.02,
+            "Und dann die Chance von Obermeyer."
+        ],
+        "494": [
+            806.02,
+            808.02,
+            "Ein tolles Spiel in dieser Phase."
+        ],
+        "495": [
+            810.02,
+            812.02,
+            "Vielleicht die entscheidende Phase."
+        ],
+        "496": [
+            814.02,
+            815.02,
+            "Die 60. Minute."
+        ],
+        "497": [
+            816.02,
+            817.02,
+            "1 zu 1."
+        ],
+        "498": [
+            818.02,
+            820.02,
+            "Vorland und Hummels haben die Tore erzielt."
+        ],
+        "499": [
+            821.0,
+            822.02,
+            "Chance plus für Hoffenheim."
+        ],
+        "500": [
+            823.0,
+            824.02,
+            "Viel Temperament wieder drin."
+        ],
+        "501": [
+            825.0,
+            826.02,
+            "Viele enge Zweikämpfe."
+        ],
+        "502": [
+            826.04,
+            828.04,
+            "Und dann die Chance von Obermeyer."
+        ],
+        "503": [
+            830.04,
+            832.04,
+            "Und dann die Chance von Obermeyer."
+        ],
+        "504": [
+            833.04,
+            834.04,
+            "50-50."
+        ],
+        "505": [
+            838.04,
+            839.04,
+            "Eine ähnliche Strategie."
+        ],
+        "506": [
+            841.04,
+            842.04,
+            "Der Ballgewinn."
+        ],
+        "507": [
+            844.04,
+            846.04,
+            "Da ist der verletzte Jakub Borsikowski."
+        ],
+        "508": [
+            848.04,
+            852.04,
+            "In der Muskelzerrung wird er möglicherweise nächste Woche"
+        ],
+        "509": [
+            852.04,
+            854.04,
+            "noch nicht wieder zur Verfügung stehen."
+        ],
+        "510": [
+            854.06,
+            855.06,
+            "Aber es ist eine gute Chance."
+        ],
+        "511": [
+            857.06,
+            861.06,
+            "Es ist eine gute Chance, dass sie sich exakt durchspielen können."
+        ],
+        "512": [
+            861.06,
+            862.06,
+            "Bis zu den Zielspielern."
+        ],
+        "513": [
+            864.06,
+            866.06,
+            "Und Obermeyer auf der anderen Seite."
+        ],
+        "514": [
+            868.06,
+            872.06,
+            "Und irgendwann werden wir über die physischen und körperlichen"
+        ],
+        "515": [
+            872.06,
+            873.06,
+            "Fähigkeiten sprechen müssen."
+        ],
+        "516": [
+            875.06,
+            878.06,
+            "120 Minuten hat Borussia Dortmund in den Waden."
+        ],
+        "517": [
+            878.06,
+            879.06,
+            "Keine große Rotation."
+        ],
+        "518": [
+            879.08,
+            880.08,
+            "Aber es ist eine gute Chance."
+        ],
+        "519": [
+            886.08,
+            887.08,
+            "Modest."
+        ],
+        "520": [
+            891.08,
+            894.08,
+            "Er wirkt unglaublich präsent und selbstbewusst."
+        ],
+        "521": [
+            896.08,
+            899.08,
+            "Nach und nach wird er stärker heute Nachmittag."
+        ],
+        "522": [
+            900.08,
+            901.08,
+            "Schwierig für den Rechtsfuß."
+        ],
+        "523": [
+            904.08,
+            906.08,
+            "Flanken von der linken Seite zu schlagen."
+        ],
+        "524": [
+            909.08,
+            910.08,
+            "Er ist sehr gut im Griff."
+        ],
+        "525": [
+            912.08,
+            913.08,
+            "Er ist sehr gut im Griff."
+        ],
+        "526": [
+            915.08,
+            918.08,
+            "Er hat den Kapitän in den Griff bekommen."
+        ],
+        "527": [
+            933.08,
+            934.08,
+            "Er zwingt den Ball durch."
+        ],
+        "528": [
+            934.1,
+            935.1,
+            "Er hat den Ball durch."
+        ],
+        "529": [
+            938.1,
+            941.1,
+            "Und dann der Australische Nationalkeeper."
+        ],
+        "530": [
+            942.1,
+            943.1,
+            "Er ärgert sich."
+        ],
+        "531": [
+            945.1,
+            947.1,
+            "Hummels lässt ihn lässig durch."
+        ],
+        "532": [
+            948.1,
+            950.1,
+            "Modest gibt keinen Ball verloren."
+        ],
+        "533": [
+            952.1,
+            955.1,
+            "Und dass er da hochgeht, das ist legitim."
+        ],
+        "534": [
+            956.1,
+            957.1,
+            "Und dann hat er die Chance."
+        ],
+        "535": [
+            959.1,
+            961.1,
+            "Und Lengereck ist da und reguliert."
+        ],
+        "536": [
+            961.12,
+            963.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "537": [
+            965.12,
+            967.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "538": [
+            968.12,
+            970.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "539": [
+            972.12,
+            974.12,
+            "Super Spiel in dieser Phase."
+        ],
+        "540": [
+            975.12,
+            976.12,
+            "Schwegler."
+        ],
+        "541": [
+            991.12,
+            993.12,
+            "Er hat den Ball nicht ausgewiesen."
+        ],
+        "542": [
+            995.12,
+            997.12,
+            "Das war für Lengereck noch dran."
+        ],
+        "543": [
+            999.12,
+            1002.12,
+            "Das ist kein ausgewiesenes Kopfball-Ungeheuer."
+        ],
+        "544": [
+            1003.12,
+            1004.12,
+            "Roberto Firmino 1,81."
+        ],
+        "545": [
+            1006.12,
+            1008.12,
+            "Aber da kommt er frei zum Kopfball."
+        ],
+        "546": [
+            1010.12,
+            1013.12,
+            "Und Borussia Dortmund mit der Konterchance."
+        ],
+        "547": [
+            1014.12,
+            1016.12,
+            "Den hat er zu simpel querlegen wollen."
+        ],
+        "548": [
+            1017.12,
+            1018.12,
+            "Verschenkte Konterchance."
+        ],
+        "549": [
+            1021.12,
+            1023.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "550": [
+            1025.12,
+            1028.12,
+            "Und dann kommt der Ball gegen den Volland."
+        ],
+        "551": [
+            1029.12,
+            1031.12,
+            "Es ist Pressing gegen Pressing."
+        ],
+        "552": [
+            1036.12,
+            1037.12,
+            "Mit dem Außenriss."
+        ],
+        "553": [
+            1039.12,
+            1040.12,
+            "Mit dem Außenriss."
+        ],
+        "554": [
+            1042.12,
+            1043.12,
+            "Mit dem Außenriss."
+        ],
+        "555": [
+            1045.12,
+            1046.12,
+            "Rutscher aus."
+        ],
+        "556": [
+            1047.12,
+            1048.12,
+            "Da ist Schmelzer noch dran."
+        ],
+        "557": [
+            1051.12,
+            1053.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "558": [
+            1055.12,
+            1057.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "559": [
+            1081.12,
+            1083.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "560": [
+            1085.12,
+            1087.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "561": [
+            1088.12,
+            1090.12,
+            "Und dann ist es eine gute Chance."
+        ],
+        "562": [
+            1092.12,
+            1094.12,
+            "Lengereck wäre geschlagen gewesen."
+        ],
+        "563": [
+            1097.12,
+            1099.12,
+            "Super Kopfball von Roberto Firmino."
+        ],
+        "564": [
+            1099.14,
+            1101.14,
+            "Und dann ist es eine gute Chance."
+        ],
+        "565": [
+            1103.14,
+            1105.14,
+            "Und dann ist es eine gute Chance."
+        ],
+        "566": [
+            1108.14,
+            1110.14,
+            "Obermeyer gegen Vyacheslav Csitsch."
+        ],
+        "567": [
+            1111.14,
+            1113.14,
+            "Obermeyer, Winkel ungünstig."
+        ],
+        "568": [
+            1115.14,
+            1116.14,
+            "Mit rechts."
+        ],
+        "569": [
+            1117.14,
+            1118.14,
+            "Starker unterwegs."
+        ],
+        "570": [
+            1120.14,
+            1121.14,
+            "Nächste Chance für den BVB."
+        ],
+        "571": [
+            1123.14,
+            1126.14,
+            "Hier musste er den Abschluss mit links suchen."
+        ],
+        "572": [
+            1126.16,
+            1128.16,
+            "Das war ein guter Abschluss."
+        ],
+        "573": [
+            1130.16,
+            1132.16,
+            "Es war ein guter Abschluss."
+        ],
+        "574": [
+            1133.16,
+            1135.16,
+            "Aber die Mannschaft ist gefragt,"
+        ],
+        "575": [
+            1136.14,
+            1138.16,
+            "dass sie über den Schmerzpunkt hinaus müssen."
+        ],
+        "576": [
+            1145.16,
+            1148.16,
+            "Aber der BVB braucht heute Nachmittag noch drei,"
+        ],
+        "577": [
+            1148.16,
+            1150.16,
+            "vier oder fünf solcher Sprints."
+        ],
+        "578": [
+            1150.18,
+            1152.18,
+            "Das war ein guter Abschluss."
+        ],
+        "579": [
+            1154.18,
+            1157.18,
+            "Eine starke zweite Spielhälfte von beiden Mannschaften."
+        ],
+        "580": [
+            1157.18,
+            1158.18,
+            "Offensiv geführt."
+        ],
+        "581": [
+            1161.18,
+            1162.18,
+            "Wenig Schnörkel."
+        ],
+        "582": [
+            1164.18,
+            1167.18,
+            "Der gerade direkte Weg zum Tor ist angesagt."
+        ],
+        "583": [
+            1180.18,
+            1182.18,
+            "Das war ein guter Abschluss."
+        ],
+        "584": [
+            1184.18,
+            1186.18,
+            "Das war ein guter Abschluss."
+        ],
+        "585": [
+            1195.18,
+            1199.18,
+            "Sven Schiplock, zuletzt als Einwechslungspfleger erfolgreich"
+        ],
+        "586": [
+            1199.18,
+            1200.18,
+            "in Hannover."
+        ],
+        "587": [
+            1201.18,
+            1203.18,
+            "Er steht bei drei Saisontoren."
+        ],
+        "588": [
+            1203.2,
+            1206.2,
+            "Er hat die Chance, die Chance, die Chance."
+        ],
+        "589": [
+            1207.2,
+            1209.2,
+            "Er hat die Chance, die Chance."
+        ],
+        "590": [
+            1210.18,
+            1212.2,
+            "Er hat wahnsinnig viele Bälle."
+        ],
+        "591": [
+            1214.2,
+            1217.2,
+            "Auch wenn ihm diese Flanke nicht so gelingt,"
+        ],
+        "592": [
+            1217.2,
+            1219.2,
+            "wie er sich das vorgestellt hat."
+        ],
+        "593": [
+            1220.2,
+            1221.2,
+            "Anthony Modest."
+        ],
+        "594": [
+            1225.2,
+            1227.2,
+            "Er ist vor zwei Jahren aus Bordeaux."
+        ],
+        "595": [
+            1233.2,
+            1235.2,
+            "Er ist vor zwei Jahren aus Bordeaux."
+        ],
+        "596": [
+            1237.2,
+            1239.2,
+            "Er ist vor zwei Jahren aus Bordeaux."
+        ],
+        "597": [
+            1242.2,
+            1244.2,
+            "30.000 waren in der Arena ausverkauft."
+        ],
+        "598": [
+            1245.2,
+            1247.2,
+            "Ich hoffe, sie bekommen nur 1%."
+        ],
+        "599": [
+            1249.2,
+            1251.2,
+            "Wenigstens 1% mit dieser Akustik."
+        ],
+        "600": [
+            1253.2,
+            1256.2,
+            "Damit können sie die ganze Straße beschallen,"
+        ],
+        "601": [
+            1256.2,
+            1258.2,
+            "wenn sie die Fenster aufmachen."
+        ],
+        "602": [
+            1258.22,
+            1260.22,
+            "Das war ein guter Abschluss."
+        ],
+        "603": [
+            1262.22,
+            1264.22,
+            "Das war ein guter Abschluss."
+        ],
+        "604": [
+            1272.22,
+            1276.22,
+            "Er hat einen Moment zu lange gebraucht, den Ball zu kontrollieren."
+        ],
+        "605": [
+            1277.2,
+            1279.22,
+            "Das war der entscheidende Augenblick."
+        ],
+        "606": [
+            1280.22,
+            1283.22,
+            "Abseitsstellung korrekt erfasst von Raphael Foltin."
+        ],
+        "607": [
+            1289.2,
+            1291.2,
+            "Applys Alone!"
+        ],
+        "608": [
+            1293.22,
+            1295.22,
+            "Copyright WDR 2019"
+        ],
+        "609": [
+            1318.2,
+            1320.2,
+            "Das war ein guter Ball."
+        ],
+        "610": [
+            1340.2,
+            1344.2,
+            "Baumann hatte kurzfristig die Idee, aus dem Kasten herauszukommen."
+        ],
+        "611": [
+            1344.2,
+            1346.2,
+            "F Victorino Gatt protegiert die Helle."
+        ],
+        "612": [
+            1350.2,
+            1352.18,
+            "차�ler gegen den weit aufgerückten."
+        ],
+        "613": [
+            1356.2,
+            1358.2,
+            "Jan Szwedt Terre für Szwedt."
+        ],
+        "614": [
+            1365.18,
+            1367.18,
+            "Maximilian Полanski in der echten Tambourine."
+        ],
+        "615": [
+            1374.2,
+            1376.2,
+            "Die Schmelzer."
+        ],
+        "616": [
+            1377.18,
+            1379.18,
+            "Modest verpasst."
+        ],
+        "617": [
+            1379.2,
+            1381.2,
+            "Ganz hinten Firmino."
+        ],
+        "618": [
+            1382.18,
+            1384.18,
+            "Firmino nicht gut genug für Solloj."
+        ],
+        "619": [
+            1385.2,
+            1387.2,
+            "Zubutic."
+        ],
+        "620": [
+            1405.2,
+            1407.2,
+            "Das war ein guter Ball."
+        ],
+        "621": [
+            1408.18,
+            1410.18,
+            "Das war ein guter Ball."
+        ],
+        "622": [
+            1410.2,
+            1413.2,
+            "Haben Sie Zeit für die Untertreibung des Nachmittags?"
+        ],
+        "623": [
+            1414.18,
+            1416.2,
+            "Das ist ein intensives Fußballspiel."
+        ],
+        "624": [
+            1417.18,
+            1420.2,
+            "Die Frage ist, wie lange halten die Kräfte beim BVB?"
+        ],
+        "625": [
+            1421.18,
+            1423.2,
+            "Wie lange reicht es?"
+        ],
+        "626": [
+            1424.18,
+            1426.2,
+            "Kommen Sie alle noch rechtzeitig ins Ziel?"
+        ],
+        "627": [
+            1427.18,
+            1429.18,
+            "Über 20 Minuten noch."
+        ],
+        "628": [
+            1435.2,
+            1437.2,
+            "Das war ein guter Ball."
+        ],
+        "629": [
+            1438.2,
+            1440.2,
+            "Das war ein guter Ball."
+        ],
+        "630": [
+            1441.2,
+            1443.2,
+            "Das war ein guter Ball."
+        ],
+        "631": [
+            1444.2,
+            1446.2,
+            "Das war ein guter Ball."
+        ],
+        "632": [
+            1447.2,
+            1449.2,
+            "Das war ein guter Ball."
+        ],
+        "633": [
+            1450.2,
+            1452.2,
+            "Das war ein guter Ball."
+        ],
+        "634": [
+            1453.2,
+            1455.2,
+            "Das war ein guter Ball."
+        ],
+        "635": [
+            1456.2,
+            1460.2,
+            "Wir setzen in Hoffenheim auf Alexander Rosen und Marcus Gisdol."
+        ],
+        "636": [
+            1461.2,
+            1463.2,
+            "Der vor einigen Tagen"
+        ],
+        "637": [
+            1464.2,
+            1466.2,
+            "in der ersten Halbzeit."
+        ],
+        "638": [
+            1467.18,
+            1469.18,
+            "Das war ein guter Ball."
+        ],
+        "639": [
+            1470.2,
+            1472.2,
+            "Das war ein guter Ball."
+        ],
+        "640": [
+            1473.18,
+            1475.18,
+            "Das war ein guter Ball."
+        ],
+        "641": [
+            1477.2,
+            1479.2,
+            "Der Gegenentwurf zu Borussia Dortmund."
+        ],
+        "642": [
+            1480.18,
+            1483.2,
+            "Dort wird Thomas Tuchel von Jürgen Klopp übernehmen."
+        ],
+        "643": [
+            1484.2,
+            1486.2,
+            "Das war eine richtige Abseitsstellung."
+        ],
+        "644": [
+            1487.18,
+            1489.18,
+            "Solloj kam aus dem Abseits."
+        ],
+        "645": [
+            1494.2,
+            1496.2,
+            "Das war eine gute Abseitsstellung."
+        ],
+        "646": [
+            1497.2,
+            1499.2,
+            "Das war eine gute Abseitsstellung."
+        ],
+        "647": [
+            1500.2,
+            1503.2,
+            "Abraham und Solloj waren deutlich im Abseits."
+        ],
+        "648": [
+            1523.2,
+            1525.2,
+            "Das war ein guter Ball."
+        ],
+        "649": [
+            1554.2,
+            1556.2,
+            "Da war ein Tor."
+        ],
+        "650": [
+            1558.2,
+            1560.2,
+            "Das war ein guter Ball."
+        ],
+        "651": [
+            1561.2,
+            1563.2,
+            "Es war ein taktischer Tor."
+        ],
+        "652": [
+            1566.2,
+            1568.2,
+            "Es müsste Geld geben."
+        ],
+        "653": [
+            1569.2,
+            1571.2,
+            "Es müsste Geld geben."
+        ],
+        "654": [
+            1572.2,
+            1574.2,
+            "Das war ein Verlust."
+        ],
+        "655": [
+            1575.2,
+            1577.2,
+            "Die Zeit ist gespielt."
+        ],
+        "656": [
+            1578.2,
+            1580.2,
+            "Die Karte geht auch in Ordnung."
+        ],
+        "657": [
+            1583.2,
+            1585.2,
+            "Die Karte geht auch in Ordnung."
+        ],
+        "658": [
+            1586.2,
+            1588.2,
+            "Die Karte geht auch in Ordnung."
+        ],
+        "659": [
+            1589.2,
+            1591.2,
+            "Logischerweise auch."
+        ],
+        "660": [
+            1597.2,
+            1599.2,
+            "Schweglers Ball."
+        ],
+        "661": [
+            1600.2,
+            1602.2,
+            "Weg mit Schwegler."
+        ],
+        "662": [
+            1614.2,
+            1616.2,
+            "Das war ein guter Ball."
+        ],
+        "663": [
+            1617.2,
+            1619.2,
+            "Das war ein guter Ball."
+        ],
+        "664": [
+            1627.2,
+            1629.2,
+            "Kampel mit dem Fehler."
+        ],
+        "665": [
+            1630.2,
+            1632.2,
+            "Das war auch schwierig für Kevin Kampel."
+        ],
+        "666": [
+            1637.2,
+            1639.2,
+            "Das war eine körperliche Beanspruchung."
+        ],
+        "667": [
+            1640.2,
+            1642.2,
+            "Das war ein guter Ball."
+        ],
+        "668": [
+            1645.2,
+            1647.2,
+            "Die Kampelspiele sind über 86 km gelaufen."
+        ],
+        "669": [
+            1648.2,
+            1650.2,
+            "Jedes einzelne Team."
+        ],
+        "670": [
+            1653.2,
+            1656.2,
+            "Die Laufbereitschaft wird ein großes Thema bleiben."
+        ],
+        "671": [
+            1657.2,
+            1659.2,
+            "Es ist ein großes Thema."
+        ],
+        "672": [
+            1660.2,
+            1663.2,
+            "Es bleibt die Frage, wie lange reichen die Kräfte."
+        ],
+        "673": [
+            1670.2,
+            1673.2,
+            "Es bleibt die Frage, wie lange reichen die Kräfte."
+        ],
+        "674": [
+            1674.2,
+            1677.2,
+            "Es bleibt die Frage, wie lange reichen die Kräfte."
+        ],
+        "675": [
+            1678.2,
+            1681.2,
+            "Es bleibt die Frage, wie lange reichen die Kräfte."
+        ],
+        "676": [
+            1682.2,
+            1684.2,
+            "Hier hat Firmino nach dem Fall von Kehl"
+        ],
+        "677": [
+            1685.2,
+            1687.2,
+            "den Ball zu früh wieder gespielt."
+        ],
+        "678": [
+            1688.2,
+            1690.2,
+            "Er muss ruhend dem Reglement folgen."
+        ],
+        "679": [
+            1691.2,
+            1693.2,
+            "Deshalb lässt Dr. Jorgen Drees"
+        ],
+        "680": [
+            1694.2,
+            1696.2,
+            "diesen Freistoß noch einmal ausführen."
+        ],
+        "681": [
+            1696.2,
+            1698.2,
+            "Er hat ein paar technische Probleme."
+        ],
+        "682": [
+            1700.2,
+            1702.2,
+            "Für ihn kommt Giro Immobile."
+        ],
+        "683": [
+            1705.2,
+            1707.2,
+            "Da ist Modeste super."
+        ],
+        "684": [
+            1708.2,
+            1710.2,
+            "Die Ballannahme lag akkurat."
+        ],
+        "685": [
+            1711.2,
+            1713.2,
+            "Der erste Kontakt ist entscheidend."
+        ],
+        "686": [
+            1714.2,
+            1716.2,
+            "Dann hat er ein bisschen Rücklage."
+        ],
+        "687": [
+            1717.2,
+            1719.2,
+            "Das sehen Sie in dieser Zeitlupe noch einmal."
+        ],
+        "688": [
+            1720.2,
+            1722.2,
+            "Das ist stark."
+        ],
+        "689": [
+            1722.2,
+            1724.2,
+            "Das ist stark."
+        ],
+        "690": [
+            1725.2,
+            1727.2,
+            "Er hat ein bisschen Rücklage."
+        ],
+        "691": [
+            1728.2,
+            1730.2,
+            "Er verliert die Kontrolle beim Abschluss."
+        ],
+        "692": [
+            1731.2,
+            1733.2,
+            "Das war ein guter Ball."
+        ],
+        "693": [
+            1734.2,
+            1736.2,
+            "Das war ein guter Ball."
+        ],
+        "694": [
+            1749.2,
+            1752.2,
+            "Auch Markus Gisdol mit seinem ersten Wechsel."
+        ],
+        "695": [
+            1753.2,
+            1755.2,
+            "Modeste hat mir richtig gut gefallen."
+        ],
+        "696": [
+            1756.2,
+            1759.2,
+            "Ich verstehe nicht, weshalb er ihn runternimmt."
+        ],
+        "697": [
+            1760.2,
+            1762.2,
+            "Er hat sich gut gehalten."
+        ],
+        "698": [
+            1763.2,
+            1765.2,
+            "Er hat sich gut gehalten."
+        ],
+        "699": [
+            1766.2,
+            1768.2,
+            "Er hat sich gut gehalten."
+        ],
+        "700": [
+            1769.2,
+            1771.2,
+            "Das war ein starkes Bundesligaspiel."
+        ],
+        "701": [
+            1772.2,
+            1774.2,
+            "Für ihn jetzt Sven Schiplock."
+        ],
+        "702": [
+            1775.2,
+            1777.2,
+            "Er ändert nichts am Hoffenheimer 442."
+        ],
+        "703": [
+            1791.2,
+            1793.2,
+            "Das war ein guter Ball."
+        ],
+        "704": [
+            1794.2,
+            1796.2,
+            "Das war ein guter Ball."
+        ],
+        "705": [
+            1797.2,
+            1799.2,
+            "Die Möbele auch eher ein 442."
+        ],
+        "706": [
+            1800.2,
+            1802.2,
+            "Die Möbele auch eher ein 442."
+        ],
+        "707": [
+            1803.2,
+            1805.2,
+            "Spannende letzte 15 Minuten."
+        ],
+        "708": [
+            1806.2,
+            1808.2,
+            "Da bin ich mir sicher."
+        ],
+        "709": [
+            1809.2,
+            1811.2,
+            "Aufregendes Fußballspiel."
+        ],
+        "710": [
+            1812.2,
+            1814.2,
+            "Torchancen plus für die TSG."
+        ],
+        "711": [
+            1815.2,
+            1817.2,
+            "Firmino hat Aluminium getroffen."
+        ],
+        "712": [
+            1817.2,
+            1819.2,
+            "Das war ein guter Ball."
+        ],
+        "713": [
+            1820.2,
+            1822.2,
+            "Das war ein guter Ball."
+        ],
+        "714": [
+            1823.2,
+            1825.2,
+            "Das war ein guter Ball."
+        ],
+        "715": [
+            1826.2,
+            1828.2,
+            "Das war ein guter Ball."
+        ],
+        "716": [
+            1829.2,
+            1831.2,
+            "Viele Zweikämpfe."
+        ],
+        "717": [
+            1832.2,
+            1834.2,
+            "Ein geradliniges Fußballspiel."
+        ],
+        "718": [
+            1835.2,
+            1839.2,
+            "Beide wollen und beide geben sich mit diesem einen Punkt nicht zufrieden."
+        ],
+        "719": [
+            1848.2,
+            1850.2,
+            "Das war ein guter Ball."
+        ],
+        "720": [
+            1851.2,
+            1853.2,
+            "Das war ein guter Ball."
+        ],
+        "721": [
+            1854.2,
+            1856.2,
+            "Da klatschen sich Abraham und Bicakic ab."
+        ],
+        "722": [
+            1857.2,
+            1859.2,
+            "Das ist eine wichtige Maßnahme."
+        ],
+        "723": [
+            1860.2,
+            1862.2,
+            "Abseitsentscheidung."
+        ],
+        "724": [
+            1863.2,
+            1865.2,
+            "Das war eine verzerrte Entscheidung."
+        ],
+        "725": [
+            1866.2,
+            1869.2,
+            "Die Entscheidung hatte Rafael Foltin zu treffen."
+        ],
+        "726": [
+            1870.2,
+            1872.2,
+            "Das ist ein Werkzeug."
+        ],
+        "727": [
+            1873.2,
+            1875.2,
+            "Ein klares taktisches Mittel."
+        ],
+        "728": [
+            1875.2,
+            1877.2,
+            "Man kann den Verein nicht vertrauen."
+        ],
+        "729": [
+            1878.2,
+            1880.2,
+            "Wir gucken auf Andreas Schmelzer."
+        ],
+        "730": [
+            1900.2,
+            1902.2,
+            "Der Torwart Jesus Schmelzer."
+        ],
+        "731": [
+            1902.2,
+            1905.2,
+            "Die Mannschaft ist in der zweiten Hälfte des Spiels."
+        ],
+        "732": [
+            1918.18,
+            1921.2,
+            "Vicky und Hoffi sind genauso begeistert wie alle anderen."
+        ],
+        "733": [
+            1921.2,
+            1923.2,
+            "Heute Nachmittag."
+        ],
+        "734": [
+            1923.2,
+            1925.2,
+            "Schweglers Ecke."
+        ],
+        "735": [
+            1925.2,
+            1927.2,
+            "Toll, Jan."
+        ],
+        "736": [
+            1928.2,
+            1930.2,
+            "Das war ein guter Ball."
+        ],
+        "737": [
+            1930.2,
+            1932.2,
+            "Ein guter Eingang."
+        ],
+        "738": [
+            1933.18,
+            1935.2,
+            "Der nächste Eingang für die TSG."
+        ],
+        "739": [
+            1944.2,
+            1946.2,
+            "Dortmund deckt im Raum."
+        ],
+        "740": [
+            1948.2,
+            1950.2,
+            "Und da ist die Ecke von Schwegler."
+        ],
+        "741": [
+            1958.2,
+            1960.2,
+            "Das war ein guter Ball."
+        ],
+        "742": [
+            1962.2,
+            1964.2,
+            "Und das nächste Eingang von Jan."
+        ],
+        "743": [
+            1977.2,
+            1979.2,
+            "8 zu 3 das Eingang."
+        ],
+        "744": [
+            1987.2,
+            1989.2,
+            "Das war ein guter Ball."
+        ],
+        "745": [
+            1990.2,
+            1992.2,
+            "Das war ein guter Ball."
+        ],
+        "746": [
+            1994.2,
+            1996.2,
+            "Keine Absicherung im Zentrum."
+        ],
+        "747": [
+            1998.2,
+            2000.2,
+            "Aber wir konzentrieren uns auf Kevin Kampel."
+        ],
+        "748": [
+            2001.18,
+            2003.18,
+            "Und die Immobile mit Obermeyer."
+        ],
+        "749": [
+            2003.2,
+            2005.2,
+            "Baumann musste alles riskieren."
+        ],
+        "750": [
+            2006.18,
+            2008.2,
+            "Aber die Fahne oben war abseits."
+        ],
+        "751": [
+            2009.18,
+            2011.2,
+            "Jetzt können wir uns um Abraham kümmern."
+        ],
+        "752": [
+            2012.18,
+            2014.2,
+            "Wenn sie noch mal die Zeitlupe haben."
+        ],
+        "753": [
+            2015.2,
+            2017.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "754": [
+            2018.18,
+            2020.18,
+            "Aber es ist ein guter Ball."
+        ],
+        "755": [
+            2021.2,
+            2023.2,
+            "Das ist die Aktion."
+        ],
+        "756": [
+            2024.18,
+            2026.18,
+            "Kein Foulspiel an Abraham."
+        ],
+        "757": [
+            2028.2,
+            2030.2,
+            "Er war eingefädelt."
+        ],
+        "758": [
+            2031.18,
+            2033.18,
+            "Er war unsanft gelandet."
+        ],
+        "759": [
+            2035.2,
+            2039.2,
+            "Und vielleicht auch eine Auszeit, die er sich hier gerne mal gönnt."
+        ],
+        "760": [
+            2040.18,
+            2042.18,
+            "David Abraham."
+        ],
+        "761": [
+            2043.18,
+            2045.18,
+            "Das war ein guter Ball."
+        ],
+        "762": [
+            2048.16,
+            2051.16,
+            "Jetzt müssen vielleicht sogar beide Mannschaften"
+        ],
+        "763": [
+            2051.18,
+            2053.18,
+            "über den schmerzhaften Punkt hinaus."
+        ],
+        "764": [
+            2054.16,
+            2056.16,
+            "In den letzten zehn Minuten."
+        ],
+        "765": [
+            2061.18,
+            2063.18,
+            "Das ist noch mal die Szene."
+        ],
+        "766": [
+            2064.16,
+            2066.16,
+            "Langereck vor Abraham."
+        ],
+        "767": [
+            2066.18,
+            2068.18,
+            "Und jetzt die Landung."
+        ],
+        "768": [
+            2068.18,
+            2070.18,
+            "Aua."
+        ],
+        "769": [
+            2073.18,
+            2075.18,
+            "Das war ein guter Ball."
+        ],
+        "770": [
+            2078.16,
+            2080.16,
+            "Da war der Innenverteidiger."
+        ],
+        "771": [
+            2082.18,
+            2084.18,
+            "Er war schon längerfristig nach Kreuzband."
+        ],
+        "772": [
+            2085.16,
+            2087.18,
+            "Es scheint offenbar nicht weitergehen zu können."
+        ],
+        "773": [
+            2088.16,
+            2090.16,
+            "Da sehen Sie Kim."
+        ],
+        "774": [
+            2091.16,
+            2094.18,
+            "Das kann nur bedeuten, dass Toljan ins Zentrum rutscht."
+        ],
+        "775": [
+            2095.16,
+            2097.16,
+            "Und Kim die Seite übernimmt."
+        ],
+        "776": [
+            2097.18,
+            2100.16,
+            "Offensichtlich auch eine muskuläre Problematik."
+        ],
+        "777": [
+            2101.16,
+            2103.16,
+            "Aber es ist ein guter Ball."
+        ],
+        "778": [
+            2106.14,
+            2108.14,
+            "Es ist ein guter Ball."
+        ],
+        "779": [
+            2110.16,
+            2112.16,
+            "Es ist ein linker Verteidiger."
+        ],
+        "780": [
+            2113.14,
+            2115.14,
+            "Es ist so, dass die Seite wechselt."
+        ],
+        "781": [
+            2117.16,
+            2119.16,
+            "Die Seite geht in die angestammte Position."
+        ],
+        "782": [
+            2120.14,
+            2122.16,
+            "Abraham wird gleich den Platz verlassen."
+        ],
+        "783": [
+            2123.14,
+            2125.14,
+            "Die Wade ist schon gekühlt."
+        ],
+        "784": [
+            2126.16,
+            2128.16,
+            "Und mit einem Kompressionsverband verarztet."
+        ],
+        "785": [
+            2129.16,
+            2131.16,
+            "Das war ein guter Ball."
+        ],
+        "786": [
+            2134.14,
+            2136.14,
+            "Und dann der Innenverteidiger."
+        ],
+        "787": [
+            2138.16,
+            2140.16,
+            "Kompliment an David Abraham."
+        ],
+        "788": [
+            2142.16,
+            2145.16,
+            "Er hat heute ein richtig gutes Fußballspiel abgeliefert."
+        ],
+        "789": [
+            2147.16,
+            2149.16,
+            "72 % gewonnen in den Zweikämpfen."
+        ],
+        "790": [
+            2150.14,
+            2152.14,
+            "Das ist eine gute Quote."
+        ],
+        "791": [
+            2154.16,
+            2158.14,
+            "Es reicht nicht ganz an die Statistik von Bicakic und Hummels."
+        ],
+        "792": [
+            2159.16,
+            2162.16,
+            "Es reicht nicht an die Stimmung von Bicakic und Hummels."
+        ],
+        "793": [
+            2163.14,
+            2165.16,
+            "Es reicht nicht an die Stimmung von Bicakic und Hummels."
+        ],
+        "794": [
+            2166.14,
+            2168.14,
+            "Immobile gegen Bicakic."
+        ],
+        "795": [
+            2188.16,
+            2190.16,
+            "Das war ein guter Ball."
+        ],
+        "796": [
+            2219.14,
+            2221.14,
+            "Es war ein guter Ball."
+        ],
+        "797": [
+            2223.16,
+            2225.16,
+            "Es war ein guter Ball."
+        ],
+        "798": [
+            2226.16,
+            2228.16,
+            "Es war ein guter Ball."
+        ],
+        "799": [
+            2231.14,
+            2233.14,
+            "Es war ein guter Ball."
+        ],
+        "800": [
+            2237.16,
+            2239.16,
+            "Schwegler."
+        ],
+        "801": [
+            2241.16,
+            2243.16,
+            "Kehl mit zwei Kampfen."
+        ],
+        "802": [
+            2244.14,
+            2246.14,
+            "Kein Vorspiel des Dortmunders."
+        ],
+        "803": [
+            2248.16,
+            2251.16,
+            "Und eine unsanfte Landung des ehemaligen Frankfurters."
+        ],
+        "804": [
+            2252.14,
+            2254.14,
+            "Er war im Sommer zur TSG gewechselt."
+        ],
+        "805": [
+            2256.16,
+            2259.14,
+            "Er war in der ersten Halbzeit der ersten Halbzeit."
+        ],
+        "806": [
+            2259.16,
+            2262.16,
+            "Er war in der ersten Halbzeit der ersten Halbzeit."
+        ],
+        "807": [
+            2263.14,
+            2266.16,
+            "Er muss sich zufrieden sein mit dem Auftritt seiner Mannschaft."
+        ],
+        "808": [
+            2267.14,
+            2269.14,
+            "Nicht mit der Chancenverwertung."
+        ],
+        "809": [
+            2271.16,
+            2274.16,
+            "Wenn wir meckern wollen, dann ist das eine Vielzahl der sich"
+        ],
+        "810": [
+            2275.14,
+            2277.14,
+            "bietenden Möglichkeiten."
+        ],
+        "811": [
+            2277.16,
+            2280.16,
+            "Die kurze Spielunterbrechung wird sofort genutzt."
+        ],
+        "812": [
+            2281.14,
+            2283.14,
+            "Das ist die Szene."
+        ],
+        "813": [
+            2286.16,
+            2288.16,
+            "Das war ein guter Ball."
+        ],
+        "814": [
+            2291.14,
+            2294.14,
+            "Er war in der ersten Halbzeit der ersten Halbzeit."
+        ],
+        "815": [
+            2294.16,
+            2297.16,
+            "Er war in der ersten Halbzeit der ersten Halbzeit."
+        ],
+        "816": [
+            2298.14,
+            2301.16,
+            "Er war in der ersten Halbzeit der ersten Halbzeit."
+        ],
+        "817": [
+            2302.14,
+            2304.14,
+            "Er war ein Kämpfer."
+        ],
+        "818": [
+            2304.16,
+            2306.16,
+            "Er hatte wahnsinnig viele Verletzungen."
+        ],
+        "819": [
+            2307.14,
+            2309.14,
+            "Er hatte viele Operationen."
+        ],
+        "820": [
+            2311.16,
+            2313.16,
+            "Immer wieder hat er zurückgefunden."
+        ],
+        "821": [
+            2316.16,
+            2319.16,
+            "Er hat sich in der ersten Halbzeit der ersten Halbzeit"
+        ],
+        "822": [
+            2320.14,
+            2322.14,
+            "wieder verletzt."
+        ],
+        "823": [
+            2322.16,
+            2324.14,
+            "Er ist gut für Oliver Baumann."
+        ],
+        "824": [
+            2325.14,
+            2327.14,
+            "Er ist gut für Oliver Baumann."
+        ],
+        "825": [
+            2329.16,
+            2331.16,
+            "Er ist rechtzeitig draußen."
+        ],
+        "826": [
+            2332.14,
+            2334.14,
+            "Er ist rechtzeitig draußen."
+        ],
+        "827": [
+            2336.16,
+            2338.16,
+            "Er hat zwei richtig gute Chancen."
+        ],
+        "828": [
+            2341.14,
+            2343.16,
+            "Er hat ein tolles Durchsetzungsvermögen."
+        ],
+        "829": [
+            2346.16,
+            2348.16,
+            "Er hat ein tolles Durchsetzungsvermögen."
+        ],
+        "830": [
+            2349.16,
+            2351.16,
+            "Er hat die Chance, die Chance, die Chance."
+        ],
+        "831": [
+            2352.14,
+            2354.16,
+            "Er hat die Chance, die Chance."
+        ],
+        "832": [
+            2355.16,
+            2357.16,
+            "Er hat die Chance, die Chance."
+        ],
+        "833": [
+            2358.16,
+            2360.16,
+            "Er hat die Chance, die Chance."
+        ],
+        "834": [
+            2362.16,
+            2364.16,
+            "Obermeyer gegen Bicakic."
+        ],
+        "835": [
+            2365.16,
+            2368.16,
+            "Und dann war es eine starke Reaktion von Oliver Baumann."
+        ],
+        "836": [
+            2369.14,
+            2371.16,
+            "Und dann war es eine starke Reaktion von Oliver Baumann."
+        ],
+        "837": [
+            2372.14,
+            2374.16,
+            "Zwei super Tore heute Nachmittag."
+        ],
+        "838": [
+            2375.16,
+            2378.16,
+            "Er hat sich in der ersten Halbzeit wieder verletzt."
+        ],
+        "839": [
+            2379.14,
+            2381.16,
+            "Er hat sich in der ersten Halbzeit wieder verletzt."
+        ],
+        "840": [
+            2382.14,
+            2384.16,
+            "Er ist vom eigenen, dann vom fremden."
+        ],
+        "841": [
+            2385.16,
+            2387.16,
+            "Und klar steht er wieder auf."
+        ],
+        "842": [
+            2389.16,
+            2391.16,
+            "Tugutic gegen Schiblock."
+        ],
+        "843": [
+            2405.16,
+            2407.16,
+            "Er hat sich wieder auf den Kopf gelegt."
+        ],
+        "844": [
+            2410.14,
+            2412.16,
+            "Er hat sich wieder auf den Kopf gelegt."
+        ],
+        "845": [
+            2414.14,
+            2416.16,
+            "Er hat sich wieder auf den Kopf gelegt."
+        ],
+        "846": [
+            2418.16,
+            2420.16,
+            "Heute ab 3.30 Uhr."
+        ],
+        "847": [
+            2422.16,
+            2425.16,
+            "Es geht um die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "848": [
+            2426.14,
+            2428.16,
+            "Es geht um die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "849": [
+            2429.14,
+            2431.14,
+            "Live bei Sky Select."
+        ],
+        "850": [
+            2435.16,
+            2437.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "851": [
+            2438.14,
+            2440.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "852": [
+            2441.14,
+            2443.14,
+            "5 Minuten noch."
+        ],
+        "853": [
+            2450.16,
+            2452.16,
+            "Der Fuß zu hoch."
+        ],
+        "854": [
+            2453.16,
+            2455.16,
+            "Gefährliches Spiel von Sebastian Kehl."
+        ],
+        "855": [
+            2456.14,
+            2458.14,
+            "Freistoß für die TSG."
+        ],
+        "856": [
+            2465.16,
+            2467.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "857": [
+            2470.14,
+            2472.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "858": [
+            2474.14,
+            2476.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "859": [
+            2478.16,
+            2480.16,
+            "Hoffenheim nächste Woche in Frankfurt."
+        ],
+        "860": [
+            2483.14,
+            2485.16,
+            "Dann noch einmal auswärts in Leverkusen."
+        ],
+        "861": [
+            2486.14,
+            2488.16,
+            "Und zum Abschluss Hertha BSC in Sinsheim."
+        ],
+        "862": [
+            2489.14,
+            2490.16,
+            "Also zweimal auswärts noch."
+        ],
+        "863": [
+            2491.16,
+            2493.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "864": [
+            2496.14,
+            2498.16,
+            "Die Kronenwelter Gewicht in Las Vegas."
+        ],
+        "865": [
+            2499.14,
+            2501.14,
+            "Vielleicht nach Europa."
+        ],
+        "866": [
+            2502.16,
+            2504.16,
+            "Und Borussia Dortmund."
+        ],
+        "867": [
+            2505.14,
+            2507.16,
+            "Berlin nächste Woche zu Hause."
+        ],
+        "868": [
+            2508.14,
+            2509.16,
+            "Dann Wolfsburg auswärts."
+        ],
+        "869": [
+            2510.14,
+            2511.16,
+            "Bremen zu Hause."
+        ],
+        "870": [
+            2513.16,
+            2516.16,
+            "Und am 30. Mai 20 Uhr Olympiastadion Berlin."
+        ],
+        "871": [
+            2517.14,
+            2518.16,
+            "Pokalfinale."
+        ],
+        "872": [
+            2519.16,
+            2521.16,
+            "Der Torjäger ist da."
+        ],
+        "873": [
+            2526.14,
+            2528.14,
+            "Immobile muss ihn machen."
+        ],
+        "874": [
+            2530.16,
+            2532.16,
+            "Der noch amtierende Torjäger."
+        ],
+        "875": [
+            2533.14,
+            2534.16,
+            "Ein super Konter."
+        ],
+        "876": [
+            2537.14,
+            2540.16,
+            "Im idealen Moment hat Obermeyer quer gespielt."
+        ],
+        "877": [
+            2549.16,
+            2551.16,
+            "Der Torjäger ist da."
+        ],
+        "878": [
+            2554.14,
+            2555.16,
+            "Der Torjäger ist da."
+        ],
+        "879": [
+            2558.14,
+            2559.16,
+            "Der Torjäger ist da."
+        ],
+        "880": [
+            2564.14,
+            2568.16,
+            "Also auch Dortmund nimmt hier nicht diesen einen Punkt zur Kenntnis."
+        ],
+        "881": [
+            2569.14,
+            2571.16,
+            "Die gehen hier komplett auf drei Punkte."
+        ],
+        "882": [
+            2572.14,
+            2573.16,
+            "Hier noch einmal."
+        ],
+        "883": [
+            2574.16,
+            2576.16,
+            "Und ein weiteres Mal Oliver Baumann."
+        ],
+        "884": [
+            2577.16,
+            2578.16,
+            "Der Torjäger ist da."
+        ],
+        "885": [
+            2580.14,
+            2581.16,
+            "Der Torjäger ist da."
+        ],
+        "886": [
+            2582.14,
+            2583.16,
+            "Der Torjäger ist da."
+        ],
+        "887": [
+            2586.14,
+            2588.16,
+            "Und nachher die Ruhe selbst."
+        ],
+        "888": [
+            2595.16,
+            2597.16,
+            "Sehr gut für den BVB."
+        ],
+        "889": [
+            2599.16,
+            2603.16,
+            "Die Mannschaft von Jürgen Klopp geht hier deutlich über die"
+        ],
+        "890": [
+            2603.16,
+            2604.16,
+            "Schmerzgrenze."
+        ],
+        "891": [
+            2605.16,
+            2609.16,
+            "Die Mannschaft von Jürgen Klopp geht hier deutlich über die Schmerzgrenze."
+        ],
+        "892": [
+            2610.14,
+            2612.16,
+            "Und Aki Watzke hält es nicht mehr aus."
+        ],
+        "893": [
+            2614.14,
+            2617.16,
+            "Vielleicht will er aber auch nur dem Verkehrsstau entgehen."
+        ],
+        "894": [
+            2618.14,
+            2619.16,
+            "Er zieht diese Ecke nicht."
+        ],
+        "895": [
+            2621.16,
+            2622.16,
+            "Von Mkhitaryan."
+        ],
+        "896": [
+            2625.16,
+            2629.16,
+            "Klar werden sich möglicherweise die Hoffenheimer benachteiligt fühlen"
+        ],
+        "897": [
+            2630.14,
+            2633.16,
+            "durch das irregulär geschluckte 1 zu 1 von Hummels."
+        ],
+        "898": [
+            2635.16,
+            2637.16,
+            "Aber es ist ein guter Tor."
+        ],
+        "899": [
+            2640.14,
+            2641.16,
+            "Und in vieren."
+        ],
+        "900": [
+            2644.14,
+            2645.16,
+            "Immobile."
+        ],
+        "901": [
+            2653.14,
+            2655.14,
+            "Jetzt läuft die 90. Minute."
+        ],
+        "902": [
+            2656.16,
+            2658.16,
+            "Eine spektakuläre zweite Spielhälfte."
+        ],
+        "903": [
+            2660.16,
+            2663.16,
+            "Keine Tore, aber dennoch ein super Fußballspiel."
+        ],
+        "904": [
+            2665.16,
+            2667.16,
+            "Und dann die zweite Halbzeit."
+        ],
+        "905": [
+            2670.14,
+            2672.16,
+            "Drei Minuten gibt es wohl Nachspielzeit."
+        ],
+        "906": [
+            2675.14,
+            2677.14,
+            "Vorbei an Beck, vorbei an Schlegler."
+        ],
+        "907": [
+            2679.16,
+            2680.16,
+            "Nicht vorbei an Bicakic."
+        ],
+        "908": [
+            2683.14,
+            2686.16,
+            "Wir haben hier heute vier gute Innenverteidiger gesehen."
+        ],
+        "909": [
+            2687.14,
+            2689.16,
+            "Bicakic ist für mich der beste der vier guten."
+        ],
+        "910": [
+            2690.16,
+            2692.16,
+            "Und Schlegler ist der beste."
+        ],
+        "911": [
+            2695.14,
+            2696.16,
+            "Und Schlegler ist der beste."
+        ],
+        "912": [
+            2699.14,
+            2700.16,
+            "Ecke für den BVB."
+        ],
+        "913": [
+            2705.14,
+            2706.16,
+            "Da hinten kommt Hummels."
+        ],
+        "914": [
+            2709.14,
+            2710.16,
+            "Da haben sie es."
+        ],
+        "915": [
+            2711.14,
+            2712.16,
+            "Rot auf schwarz."
+        ],
+        "916": [
+            2713.14,
+            2714.16,
+            "Drei Minuten."
+        ],
+        "917": [
+            2715.14,
+            2718.16,
+            "Hummels hätte auch sechs Minuten nachspielen können."
+        ],
+        "918": [
+            2720.16,
+            2722.16,
+            "Und dann war es noch ein guter Tor."
+        ],
+        "919": [
+            2725.14,
+            2727.14,
+            "Und dann war es noch ein guter Tor."
+        ],
+        "920": [
+            2729.16,
+            2732.14,
+            "Hoffenheim stand im Prinzip als Absteiger fest."
+        ],
+        "921": [
+            2734.16,
+            2736.16,
+            "Dann haben sie 2 zu 1 in Dortmund gewonnen."
+        ],
+        "922": [
+            2738.14,
+            2740.14,
+            "Damals war Weidenfeller rot."
+        ],
+        "923": [
+            2742.16,
+            2745.16,
+            "Großkreutz musste beim zweiten Elfmeter von Salihowitsch ins"
+        ],
+        "924": [
+            2745.16,
+            2746.16,
+            "Tor."
+        ],
+        "925": [
+            2747.16,
+            2749.16,
+            "Dann war es noch ein guter Tor."
+        ],
+        "926": [
+            2752.14,
+            2753.16,
+            "Dann war es noch ein guter Tor."
+        ],
+        "927": [
+            2756.14,
+            2757.16,
+            "Dann war es noch ein guter Tor."
+        ],
+        "928": [
+            2767.14,
+            2770.16,
+            "Wenn die Hoffenheimer vielleicht noch einen Freistoß bekommen"
+        ],
+        "929": [
+            2771.14,
+            2772.16,
+            "könnten,"
+        ],
+        "930": [
+            2772.16,
+            2774.14,
+            "dann wären diese beiden auf der anderen Seite wohl unter Druck."
+        ],
+        "931": [
+            2777.16,
+            2778.14,
+            "Gutestone."
+        ],
+        "932": [
+            2779.14,
+            2780.16,
+            "Mit dem Treuer Gegnerschnellkampf."
+        ]
+    }
+}

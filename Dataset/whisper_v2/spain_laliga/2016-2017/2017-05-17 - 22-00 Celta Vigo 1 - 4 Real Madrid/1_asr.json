@@ -1,0 +1,5044 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            3.0,
+            "The match begins!"
+        ],
+        "1": [
+            4.0,
+            8.0,
+            "37th matchday for Real Madrid and Celta"
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "Today, Celta and Real Madrid play"
+        ],
+        "3": [
+            13.0,
+            16.0,
+            "Cristiano Ronaldo is the first to come on, he's missing"
+        ],
+        "4": [
+            18.0,
+            21.0,
+            "Cristiano Ronaldo is in the back, he's not in the right position"
+        ],
+        "5": [
+            22.0,
+            24.0,
+            "Sergio Ramos is on, he passes the ball to Kroos"
+        ],
+        "6": [
+            25.0,
+            28.0,
+            "Celta are on the top, Benzema is on the middle line to help them get a lead"
+        ],
+        "7": [
+            28.0,
+            32.0,
+            "Cristiano Ronaldo is on, he passes it to Kroos, he's on the line"
+        ],
+        "8": [
+            33.0,
+            36.0,
+            "Benzema is on, he passes the ball to Kroos, he's on the line"
+        ],
+        "9": [
+            37.0,
+            40.0,
+            "Danilo Kroos is on, he's on the line"
+        ],
+        "10": [
+            41.0,
+            44.0,
+            "Real Madrid are on the top, Benzema is on the middle line"
+        ],
+        "11": [
+            45.0,
+            50.0,
+            "Many Celta players were on the right side of Cristiano Ronaldo"
+        ],
+        "12": [
+            50.0,
+            55.0,
+            "Cristiano Ronaldo was on the right, Modric was on the left"
+        ],
+        "13": [
+            56.0,
+            59.0,
+            "Danilo Kroos was on the right, he's on the line"
+        ],
+        "14": [
+            60.0,
+            63.0,
+            "Real Madrid are on the top, 50 seconds to go"
+        ],
+        "15": [
+            64.0,
+            67.0,
+            "Celta are on the top, Kroos is on the line"
+        ],
+        "16": [
+            68.0,
+            71.0,
+            "Modric is on, Kroos is on the line"
+        ],
+        "17": [
+            72.0,
+            75.0,
+            "Marcelo is on the line, Celta are on the line"
+        ],
+        "18": [
+            75.0,
+            78.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "19": [
+            79.0,
+            82.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "20": [
+            83.0,
+            86.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "21": [
+            87.0,
+            90.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "22": [
+            91.0,
+            94.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "23": [
+            95.0,
+            98.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "24": [
+            99.0,
+            102.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "25": [
+            102.0,
+            105.0,
+            "Real Madrid are on the top, Cristiano Ronaldo is on the line"
+        ],
+        "26": [
+            106.0,
+            109.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "27": [
+            110.0,
+            113.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "28": [
+            114.0,
+            117.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "29": [
+            118.0,
+            121.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "30": [
+            122.0,
+            125.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "31": [
+            126.0,
+            129.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "32": [
+            129.0,
+            132.0,
+            "Real Madrid are on the line"
+        ],
+        "33": [
+            133.0,
+            136.0,
+            "Real Madrid are on the line"
+        ],
+        "34": [
+            137.0,
+            140.0,
+            "Real Madrid are on the line"
+        ],
+        "35": [
+            141.0,
+            144.0,
+            "Real Madrid are on the line"
+        ],
+        "36": [
+            145.0,
+            148.0,
+            "Real Madrid are on the line"
+        ],
+        "37": [
+            149.0,
+            152.0,
+            "Real Madrid are on the line"
+        ],
+        "38": [
+            153.0,
+            156.0,
+            "Real Madrid are on the line"
+        ],
+        "39": [
+            156.0,
+            159.0,
+            "Real Madrid are on the line"
+        ],
+        "40": [
+            160.0,
+            163.0,
+            "Real Madrid are on the line"
+        ],
+        "41": [
+            164.0,
+            167.0,
+            "Real Madrid are on the line"
+        ],
+        "42": [
+            168.0,
+            171.0,
+            "Real Madrid are on the line"
+        ],
+        "43": [
+            172.0,
+            175.0,
+            "Real Madrid are on the line"
+        ],
+        "44": [
+            176.0,
+            179.0,
+            "Real Madrid are on the line"
+        ],
+        "45": [
+            180.0,
+            183.0,
+            "Real Madrid are on the line"
+        ],
+        "46": [
+            184.0,
+            187.0,
+            "Edgardo Marcucci is on the line"
+        ],
+        "47": [
+            192.0,
+            196.0,
+            "Yago Acma is on the line"
+        ],
+        "48": [
+            197.0,
+            202.0,
+            "Hallcard commentators"
+        ],
+        "49": [
+            202.0,
+            206.0,
+            "acompaña con la mirada la pelota Johnny y el saque de banda para el Celta."
+        ],
+        "50": [
+            206.0,
+            212.0,
+            "Por ejemplo, el Celta está jugando al final con doble pivote y Jozabes por delante, claramente es un cambio más ofensivo todavía el equipo."
+        ],
+        "51": [
+            212.0,
+            217.0,
+            "Ahí está el Tucu intentando a jugar la pelota Pablo Hernández, se va hacia adentro, vete, un buen balón para Aguirre,"
+        ],
+        "52": [
+            217.0,
+            222.0,
+            "tira espaldas, abre la pelota para Llago Aspa, virando al tendido, busca un pase por delante de Sergio Ramos, aguantó el de Camas,"
+        ],
+        "53": [
+            222.0,
+            229.0,
+            "ha tocado el balón arriba para Cristiano, Cristiano que recorta ante Vaz, toca la pelota para Cross,"
+        ],
+        "54": [
+            229.0,
+            234.0,
+            "Cross sobre Sergio Ramos que salvó la entrada de Llago Aspas, entregó el balón para el croata,"
+        ],
+        "55": [
+            234.0,
+            241.0,
+            "intenta jugar a largo ahí, Luka Modris anticipó la pelota a Cabral y echó el balón fuera del terreno."
+        ],
+        "56": [
+            241.0,
+            247.0,
+            "Va a sacar de banda el Real Madrid, tocó Isco, le devuelve la pelota ahí como ha podido Danilo,"
+        ],
+        "57": [
+            247.0,
+            253.0,
+            "recupera al Celta, toca Sisto, juega atrás Johnny, el balón que le llega a Cabral,"
+        ],
+        "58": [
+            253.0,
+            260.0,
+            "juega la pelota para Roncaglia, quiere presionar a Cross, buena anticipación de Sergio Ramos para el Real Madrid,"
+        ],
+        "59": [
+            260.0,
+            266.0,
+            "anticipando a Llago Aspas que hace la cobertura, toca el balón para Cristiano, Cristiano le entrega la pelota a Toni Cross,"
+        ],
+        "60": [
+            266.0,
+            272.0,
+            "Cross juega sobre la posición de Casemiro, aguanta Casemiro para jugar de man con Marcelo que busca un taconazo,"
+        ],
+        "61": [
+            272.0,
+            278.0,
+            "se lleva la pelota definitivamente el Celta, tocó Hugo Mayo, saca el balón en corto, Jodabé, balón que mete,"
+        ],
+        "62": [
+            278.0,
+            284.0,
+            "demasiado largo más, le aplauden desde el banquillo límico, saque de banda para el Real Madrid."
+        ],
+        "63": [
+            284.0,
+            288.0,
+            "Está pidiendo Guidetti la presión a los compañeros con gestos."
+        ],
+        "64": [
+            288.0,
+            295.0,
+            "Balón para el Real Madrid, ahí está jugando Toni Cross, abre barán por delante de Sisto,"
+        ],
+        "65": [
+            295.0,
+            303.0,
+            "ya va la presión a Johnny, desmarque de Luka Modris, le acompaña ahora Roncaglia,"
+        ],
+        "66": [
+            303.0,
+            309.0,
+            "que quiere salir al cruce con Ventemá, se le va fácil Ventemá, línea de fondo de Ventemá, balón al segundo palo,"
+        ],
+        "67": [
+            309.0,
+            314.0,
+            "no llega el remate del Real Madrid, continúa el peligro para la portería del Celta, juega Marcelo, la pone corta,"
+        ],
+        "68": [
+            314.0,
+            320.0,
+            "consigue despejar la defensa por mediación de Hugo Mayo, la engancha, Lago Aspas recibe falta."
+        ],
+        "69": [
+            320.0,
+            328.0,
+            "Bueno, pedazo de control de Lago Aspas, pero muy detenido en sus primeros compases, llevamos 5 minutos,"
+        ],
+        "70": [
+            328.0,
+            330.0,
+            "nos estamos viendo un partido bastante abierto."
+        ],
+        "71": [
+            330.0,
+            332.0,
+            "Ventemá ha desatado, Max."
+        ],
+        "72": [
+            334.0,
+            342.0,
+            "Ahí está la acción de Hugo Mayo que llegó desde el otro lateral para cerrar definitivamente las acometidas de Karim Ventemá."
+        ],
+        "73": [
+            342.0,
+            350.0,
+            "Juega Johnny, entrega la pelota para Cabral, abre Cabral para Hugo Mayo, el capitán tiene el carril abierto,"
+        ],
+        "74": [
+            350.0,
+            356.0,
+            "le va a cerrar ahí Toni Cross, ha jugado por dentro para Lago Aspas, no puede jugar con Guidetti porque está fuera de juego Hugo Mayo,"
+        ],
+        "75": [
+            356.0,
+            361.0,
+            "y perdió la pelota el Celta de Vigo. La saca Marcelo, Marcelo tirando la diagonal, tiene por delante a Casemiro,"
+        ],
+        "76": [
+            361.0,
+            367.0,
+            "se la pone perfecta, recorta Casemiro, se fue al suelo sin que pasara nada, ha jugado hacia atrás el Celta,"
+        ],
+        "77": [
+            367.0,
+            371.0,
+            "tiene Sergio el balón, se lo entrega Cabral para iniciar desde atrás."
+        ],
+        "78": [
+            372.0,
+            378.0,
+            "Espera el Real Madrid, Cabral con Vaz, Vaz para Cabral, abre para el capitán Hugo Mayo,"
+        ],
+        "79": [
+            379.0,
+            384.0,
+            "Hugo Mayo que juega sobre el costado, Lago Aspas presionado por Marcelo, devolvió para Hugo Mayo,"
+        ],
+        "80": [
+            384.0,
+            390.0,
+            "Lago Aspas de primera, Vaz dos toques, arriba Guidetti, devuelve para Vaz, quiere presionar a Karim Benzema,"
+        ],
+        "81": [
+            390.0,
+            395.0,
+            "apertura para Cabral, Cabral para Asisto, tiene terreno, va a cerrar por allí para el Madrid,"
+        ],
+        "82": [
+            395.0,
+            401.0,
+            "Luka Modric se ofrece en corto, Jozabed, ahí va el desmarque, bueno, atención a Guidetti, no hay fuera de juego,"
+        ],
+        "83": [
+            401.0,
+            405.0,
+            "Guidetti en el lateral del área, saca la pelota hacia atrás, intenta organizar el Celta, el balón para el Tuco,"
+        ],
+        "84": [
+            405.0,
+            411.0,
+            "mete un balón interior demasiado largo, saque de portería para el Real Madrid."
+        ],
+        "85": [
+            411.0,
+            419.0,
+            "Bueno, bien jugado el Celta de Vigo, enfrentando buenos pases, pero si es cierto lo que hemos visto en los primeros compases,"
+        ],
+        "86": [
+            419.0,
+            425.0,
+            "que Madrid tiene fácil llegada, no necesariamente porque el Celta de Vigo está haciendo algo tremendamente mal,"
+        ],
+        "87": [
+            425.0,
+            431.0,
+            "sino que estoy viendo media cancha para arriba el Madrid bastante afectado."
+        ],
+        "88": [
+            431.0,
+            436.0,
+            "Está el Celta presionándole un poco más al Madrid que viceversa, digamos, cuando la tiene Madrid atrás,"
+        ],
+        "89": [
+            436.0,
+            439.0,
+            "una presión un poco más alta, dos equipos que quieren la pelota, hasta ahora un partido muy bonito."
+        ],
+        "90": [
+            440.0,
+            446.0,
+            "Es el Celta el que intenta salir desde atrás con el Tuco entregando la pelota para Guidetti, Guidetti para Jozabed,"
+        ],
+        "91": [
+            446.0,
+            451.0,
+            "Jozabed a la banda para Sisto, Sisto tiene en corto a Guidetti, devuelve para Sisto,"
+        ],
+        "92": [
+            451.0,
+            456.0,
+            "el Madrid defiende por detrás de la línea del balón con todos sus efectivos."
+        ],
+        "93": [
+            456.0,
+            461.0,
+            "La pelota para Roncaglia, Roncaglia que recorta sobre Isco, va a jugar arriba, ha metido la pierna a Casemiro,"
+        ],
+        "94": [
+            461.0,
+            466.0,
+            "queda suelta, la recoge nuevamente Diego Aspas, mete un balón para Guidetti, tiene a Sisto, juega hacia Sisto,"
+        ],
+        "95": [
+            467.0,
+            471.0,
+            "aparece por el costado Jhonny, Jhonny que va a poner el centro, juega en corto sobre el pico del área,"
+        ],
+        "96": [
+            471.0,
+            476.0,
+            "pione Sisto que dispara, golpea la pelota en Luka Modric, la saca de cabeza Danilo, la tiene Toni Kroos,"
+        ],
+        "97": [
+            476.0,
+            483.0,
+            "la juega con el exterior para que ponga el balón en juego sobre el costado izquierdo, viene con velocidad Isco,"
+        ],
+        "98": [
+            483.0,
+            488.0,
+            "mete la pelota para Karim Benzema, arriba comunica solución Cristiano Ronaldo, ya se aproxima Isco,"
+        ],
+        "99": [
+            488.0,
+            491.0,
+            "no había demasiadas opciones ni líneas de pase."
+        ],
+        "100": [
+            491.0,
+            496.0,
+            "Saca la pelota Sergio, pelotazo arriba, buscando de cabeza a Diego Aspas, quería jugar con Guidetti,"
+        ],
+        "101": [
+            496.0,
+            502.0,
+            "se le fue larga, la tiene Danilo, y por delante de Danilo, Luka Modric, se prena el croata, recibe Casemiro,"
+        ],
+        "102": [
+            502.0,
+            508.0,
+            "a Casemiro que da la vuelta, tiene ya delante a Aspas, complicándole la vida, atrás para el capitán,"
+        ],
+        "103": [
+            508.0,
+            514.0,
+            "juega Sergio Ramos, le dice Isco sobre la izquierda, viene Marcelo, recoge la pelota Marcelo y devuelve atrás"
+        ],
+        "104": [
+            514.0,
+            520.0,
+            "sobre Toni Kroos, Kroos por delante de Jozabed, mala entrega, ha cortado la pelota nuevamente en Celta,"
+        ],
+        "105": [
+            520.0,
+            525.0,
+            "la saca Guidetti, se hace un pequeño lío pero resuelve tocando hacia atrás, entrega el balón hacia la banda,"
+        ],
+        "106": [
+            525.0,
+            530.0,
+            "viene Hugo Mayo, Jozabed de primera para Bas, Bas juega la pelota con el tuco, triangula el Celta."
+        ],
+        "107": [
+            530.0,
+            532.0,
+            "Está haciéndolo muy bien ahí, estamos viendo muy bien la pelota al Celta."
+        ],
+        "108": [
+            532.0,
+            538.0,
+            "La mueve con rapidez y con elegancia el equipo del Toto Berizzo que hoy ve el banquillo del partido desde otro lugar"
+        ],
+        "109": [
+            538.0,
+            543.0,
+            "que no es el banquillo, está sancionado, viene Sisto encarando sobre Danilo, ahí Bas se obra la línea de fondo,"
+        ],
+        "110": [
+            543.0,
+            546.0,
+            "saca el pase, queda muertiza en las manos de Keylor Navas."
+        ],
+        "111": [
+            546.0,
+            553.0,
+            "En las últimas jugadas estoy viendo que Casimiro no viene y no se ofrece ni a Marcelo y a nadie,"
+        ],
+        "112": [
+            553.0,
+            560.0,
+            "están jugando un poco más adelantado que la posición de un medio centro normal digamos, más adelantado."
+        ],
+        "113": [
+            560.0,
+            566.0,
+            "Con la pelota Isco entregando el balón para Toni Kroos, Toni Kroos sobre Marcelo que busca el desmarque de Isco,"
+        ],
+        "114": [
+            566.0,
+            572.0,
+            "atención a Isco que se queda solo, Isco que recorta, le encara con Arroncavilla, ha conseguido sacar la pelota para Cristiano,"
+        ],
+        "115": [
+            573.0,
+            582.0,
+            "pico del área, golpea, gol de Cristiano Ronaldo que la revienta antes del minuto 10 de partido para marcar el primero"
+        ],
+        "116": [
+            582.0,
+            585.0,
+            "y poner por delante en el marcador al Real Madrid."
+        ],
+        "117": [
+            585.0,
+            592.0,
+            "La jugada con Isco, Isco que resuelve como puede, le queda la pelota en el balcón del área, Cristiano Ronaldo,"
+        ],
+        "118": [
+            592.0,
+            599.0,
+            "zapatazo tremendo del portugués que ha llegado al final de campeonato enchufadísimo."
+        ],
+        "119": [
+            599.0,
+            607.0,
+            "El Cristiano delantero que hemos visto en este tramo de campeonato, 9 puro, necesita muy poquito para hacer un gol como el que ha hecho, un golazo por cierto."
+        ],
+        "120": [
+            607.0,
+            617.0,
+            "Bueno con la pierna izquierda el gol que marcó el fin de semana pasada, con la pierna izquierda era para enmarcar y este tampoco está del todo mal."
+        ],
+        "121": [
+            617.0,
+            626.0,
+            "No hay ninguna posición incorrecta de Isco, está perfectamente habilitado, ahí en la fase final no es de Isco y la resolución es impresionante."
+        ],
+        "122": [
+            626.0,
+            631.0,
+            "El, el atleta que lo vamos a ver, tremendo, lo busca, ha sacado, vamos, para la."
+        ],
+        "123": [
+            631.0,
+            641.0,
+            "Son 12 goles ya en los últimos 10 partidos para Cristiano Ronaldo que suma 23 en el campeonato liguero y un partido más del Madrid otra vez marcando, ya son 63 de manera consecutiva."
+        ],
+        "124": [
+            641.0,
+            646.0,
+            "Ya solo le queda por delante el récord del Santos de los años 60."
+        ],
+        "125": [
+            646.0,
+            648.0,
+            "Es una auténtica barbaridad."
+        ],
+        "126": [
+            648.0,
+            658.0,
+            "74 partidos de manera consecutiva, si quiere batirlo, hacerlo tan bien como lo está haciendo últimamente y también seguir haciendo en el principio de la temporada que viene."
+        ],
+        "127": [
+            658.0,
+            665.0,
+            "Hugo Mayo con una bala rompiendo por el centro, Sergio Ramos que despeja, pelota larga que recoge Cabral."
+        ],
+        "128": [
+            665.0,
+            670.0,
+            "Tocado Cabral hacia la banda para Joni, se ofrece Sisto, recibe Jozabeth."
+        ],
+        "129": [
+            671.0,
+            676.0,
+            "Jozabeth en corto para Pablo Hernández, la banda, pierde Sisto."
+        ],
+        "130": [
+            677.0,
+            683.0,
+            "En cara en el pico del área a Luka Modric, no ve línea de pase, busca el centro, la controla en el balcón del área."
+        ],
+        "131": [
+            683.0,
+            686.0,
+            "Ya Guaspa, se le fue encima a Sergio Ramos."
+        ],
+        "132": [
+            686.0,
+            694.0,
+            "La jugada continúa, la tiene el Pelta, le ha pegado la cabeza ese balón a Toni Kroos, dentro del área intenta bajarla Joni, se eleva Danilo, va a bajar el balón Jozabeth."
+        ],
+        "133": [
+            695.0,
+            706.0,
+            "Con Sisto, Dionis Sisto hacia atrás, ahí lo va a colgar el Celta, Aguidetti con medio la escuela, la pelota, la embolsa sin problemas, Kellor Navas."
+        ],
+        "134": [
+            706.0,
+            713.0,
+            "Ha jugado ya para Isco, juega Isco con Karim Benzema, entrega la pelota a Karim Benzema para Luka Modric."
+        ],
+        "135": [
+            713.0,
+            718.0,
+            "Modric nuevamente con Isco, devuelve rápidamente para el croata y toca el balón atrás sobre Toni Kroos."
+        ],
+        "136": [
+            719.0,
+            722.0,
+            "Kroos en corto, jugando hay un tuyamía con el croata."
+        ],
+        "137": [
+            723.0,
+            726.0,
+            "Está jugando mucho más medio centro Kroos que Casimiro."
+        ],
+        "138": [
+            726.0,
+            732.0,
+            "Es algo que hemos visto algunas veces, pero es verdad que si se juntan Modric y Kroos en esa zona, al Celta le va a costar muchísimo."
+        ],
+        "139": [
+            732.0,
+            739.0,
+            "La posición de Casimiro, ahora estamos viendo como medio centro, pero rara vez están veniendo para recogerlo desde la zaga."
+        ],
+        "140": [
+            739.0,
+            742.0,
+            "La zaga busca más bien el alemán o el croata."
+        ],
+        "141": [
+            742.0,
+            748.0,
+            "Atención a Jozabeth, que ha robado ahí un balón, la pelota se la devuelve Yago Aspas, se va quedando sin demasiadas opciones."
+        ],
+        "142": [
+            748.0,
+            752.0,
+            "Pelea Sergio Ramos, se eleva y le gana la pelota a la internacional del Celta de Vigo."
+        ],
+        "143": [
+            752.0,
+            758.0,
+            "Juega Cristiano, atrás para Sergio, Sergio sobre Marcelo, Marcelo pisándole, intenta irse, se va de Hugo Mayo que le hace falta."
+        ],
+        "144": [
+            758.0,
+            761.0,
+            "Balón para el Real Madrid."
+        ],
+        "145": [
+            764.0,
+            770.0,
+            "Nuevamente repetida la acción desde el ángulo contrario, al final el pase es una especie de despeje de Roncaglia."
+        ],
+        "146": [
+            770.0,
+            776.0,
+            "Evidentemente no pretendía que le llegara la pelota a Cristiano, pero Cristiano resuelve."
+        ],
+        "147": [
+            776.0,
+            781.0,
+            "Como hemos comentado en la previa, con todo el catálogo de 9 puro."
+        ],
+        "148": [
+            781.0,
+            784.0,
+            "Exactamente, la velocidad con la que saca el zurdazo ahí."
+        ],
+        "149": [
+            784.0,
+            787.0,
+            "Por debajo de las piernas de Cabral pasa esa pelota como un obús."
+        ],
+        "150": [
+            787.0,
+            792.0,
+            "Atención al Celta que lo intenta con Jozabeth, Guidetti jugando en la pared."
+        ],
+        "151": [
+            792.0,
+            796.0,
+            "Otra vez para Guidetti, la dejada de Sisto, perfecta, otra más."
+        ],
+        "152": [
+            796.0,
+            799.0,
+            "Se enreda el Celta, el balón para Guidetti."
+        ],
+        "153": [
+            799.0,
+            802.0,
+            "Guidetti dentro del área, quiere recortar la zaga para hoy, la tiene Sisto."
+        ],
+        "154": [
+            802.0,
+            807.0,
+            "Sisto tira un caño, continúa el Celta en la frontal del área, pero no termina la jugada."
+        ],
+        "155": [
+            807.0,
+            811.0,
+            "El público que se impacienta en la grada, y va el disparo, fácil para Keylor."
+        ],
+        "156": [
+            811.0,
+            813.0,
+            "Lo intentó Gionni."
+        ],
+        "157": [
+            813.0,
+            817.0,
+            "Intentó hacer un regate en el área a Guidetti, muy poco del propio Guidetti, no le salió al final."
+        ],
+        "158": [
+            817.0,
+            822.0,
+            "Hubo un momento en que Jozabeth había habilitado a Sisto y parecía que estaba franca para un disparo directo,"
+        ],
+        "159": [
+            822.0,
+            829.0,
+            "pero insistió el Celta, complicando la jugada al final, no sacó nada positivo el Celta de ella."
+        ],
+        "160": [
+            830.0,
+            834.0,
+            "Pelotas para Danilo, con dificultades entregando el balón atrás."
+        ],
+        "161": [
+            834.0,
+            837.0,
+            "Juega la pelota para Rafa el Barán."
+        ],
+        "162": [
+            837.0,
+            843.0,
+            "Barán por delante de Jozabeth para Toni Kroos, Casemiro."
+        ],
+        "163": [
+            843.0,
+            847.0,
+            "Apertura de Casemiro que se queda corta, la corta Roncaglia."
+        ],
+        "164": [
+            847.0,
+            851.0,
+            "Juega Roncaglia, entrega el balón hacia la posición de Vaz."
+        ],
+        "165": [
+            851.0,
+            854.0,
+            "Vaz en corto con Jozabeth."
+        ],
+        "166": [
+            854.0,
+            857.0,
+            "Jozabeth que abre el balón hacia la banda."
+        ],
+        "167": [
+            859.0,
+            863.0,
+            "Sisto en cara, le sale Isco."
+        ],
+        "168": [
+            863.0,
+            866.0,
+            "Roncaglia atrás, viene Gionni."
+        ],
+        "169": [
+            866.0,
+            870.0,
+            "Madrid posicionalmente ahí, cerrando los espacios, la dejada de Guidetti, buscando a Yago Arpa."
+        ],
+        "170": [
+            870.0,
+            872.0,
+            "Metió la pierna a Casemiro, ahora viene la contra al Real Madrid."
+        ],
+        "171": [
+            872.0,
+            874.0,
+            "Tiene salida Cristiano hacia la banda derecha."
+        ],
+        "172": [
+            874.0,
+            877.0,
+            "Aguanta fenomenalmente bien y le entrega la pelota a Isco."
+        ],
+        "173": [
+            877.0,
+            879.0,
+            "Toca Isco atrás sobre Luka Modric."
+        ],
+        "174": [
+            879.0,
+            883.0,
+            "En el lado izquierdo está Benzema, sigue Luka Modric, la trae contrario, devuelve la pelota atrás."
+        ],
+        "175": [
+            884.0,
+            889.0,
+            "Danilo presionado por Aviones Sisto, ha tocado el balón Casemiro hacia la banda."
+        ],
+        "176": [
+            889.0,
+            893.0,
+            "Ahí se asocian Luka Modric e Isco, buscando a Cristiano."
+        ],
+        "177": [
+            893.0,
+            895.0,
+            "Otra vez en posición de delantero centro."
+        ],
+        "178": [
+            895.0,
+            899.0,
+            "Deja el hueco Benzema con su desbarque para que entre Marcelo."
+        ],
+        "179": [
+            899.0,
+            902.0,
+            "Marcelo en el pico del área, recorta Marcelo."
+        ],
+        "180": [
+            902.0,
+            904.0,
+            "Aguanta perfectamente de momento Hugo Mayo."
+        ],
+        "181": [
+            904.0,
+            907.0,
+            "Tocó la pelota Hugo Mayo, aparece para llevársela al Celta."
+        ],
+        "182": [
+            907.0,
+            909.0,
+            "Reclama una falta a Marcelo que el colegiado no ve."
+        ],
+        "183": [
+            909.0,
+            911.0,
+            "La pelota la tiene Yaguas Paz."
+        ],
+        "184": [
+            911.0,
+            915.0,
+            "Contragolpe del equipo, Vigues abre la pelota hacia Piones Sisto."
+        ],
+        "185": [
+            915.0,
+            918.0,
+            "Pone el turbo Piones Sisto, le sale al paso Casemiro."
+        ],
+        "186": [
+            918.0,
+            920.0,
+            "Ahí le va a hacer falta."
+        ],
+        "187": [
+            920.0,
+            925.0,
+            "Casemiro es casi hoy un central pero adelantado."
+        ],
+        "188": [
+            925.0,
+            928.0,
+            "Porque con el balón no le está dando."
+        ],
+        "189": [
+            928.0,
+            932.0,
+            "Miri está buscando, es como un defensor, un guardaespaldas en un centro del campo."
+        ],
+        "190": [
+            932.0,
+            935.0,
+            "De hecho ha tenido un par de errores en la entrega."
+        ],
+        "191": [
+            935.0,
+            939.0,
+            "Lógicamente el Madrid busca más salir con Kroos y con Modric."
+        ],
+        "192": [
+            939.0,
+            944.0,
+            "Esto sí que es lo que realmente se le pide a Casemiro, este tipo de jugada."
+        ],
+        "193": [
+            944.0,
+            948.0,
+            "La salida del Real Madrid con esa falta táctica."
+        ],
+        "194": [
+            948.0,
+            950.0,
+            "Esta también la reclama Marcelo."
+        ],
+        "195": [
+            950.0,
+            953.0,
+            "Parece que pudo haberla pero el colegiado no lo preció de esa misma manera."
+        ],
+        "196": [
+            953.0,
+            955.0,
+            "Y porque salía al Celta."
+        ],
+        "197": [
+            955.0,
+            957.0,
+            "Estamos en el minuto quinto del partido."
+        ],
+        "198": [
+            957.0,
+            959.0,
+            "Gana el Real Madrid 0-1."
+        ],
+        "199": [
+            959.0,
+            963.0,
+            "Con Cristiano Ronaldo de nuevo al comando de la sostenibilidad de Madridistas."
+        ],
+        "200": [
+            963.0,
+            969.0,
+            "Marcando un gol que parece importante para darle tranquilidad al equipo de Zinedine Zidane en el arranque de encuentro."
+        ],
+        "201": [
+            969.0,
+            972.0,
+            "La pone Vaz, punto de penalti, queda suelta."
+        ],
+        "202": [
+            972.0,
+            977.0,
+            "Había tocado Casemiro, apareció Keylor, no lo arremató el Celta y ahora busca el contragolpe."
+        ],
+        "203": [
+            977.0,
+            980.0,
+            "Se ha dormido el Celta, viene con mucha gente el Real Madrid."
+        ],
+        "204": [
+            980.0,
+            983.0,
+            "Cristiano y Ventemá, la pelota para Ventemá, se va sobre la banda."
+        ],
+        "205": [
+            983.0,
+            986.0,
+            "Ventemá que se va a ir en velocidad, encara a Joni que es muy veloz."
+        ],
+        "206": [
+            986.0,
+            988.0,
+            "Joni que consigue rehacerse."
+        ],
+        "207": [
+            988.0,
+            991.0,
+            "Ha tocado el balón hacia Sergio que la salvó como puede."
+        ],
+        "208": [
+            992.0,
+            996.0,
+            "Midió perfectamente Ventemá pensando como si fuera un central que con un toquecito se iba a ir."
+        ],
+        "209": [
+            996.0,
+            998.0,
+            "Pero tenían valiente a Joni."
+        ],
+        "210": [
+            998.0,
+            999.0,
+            "Y Joni es muy veloz."
+        ],
+        "211": [
+            999.0,
+            1002.0,
+            "Ya el balón de Cristiano no era demasiado bueno para Ventemá."
+        ],
+        "212": [
+            1005.0,
+            1009.0,
+            "Venga la pelota del Celta en el círculo central y con el tuco Hernández."
+        ],
+        "213": [
+            1009.0,
+            1012.0,
+            "La pide en el costado Gomaño, se abre sobre la línea."
+        ],
+        "214": [
+            1014.0,
+            1020.0,
+            "Yago Aspas le pegó el balón a Sergio Ramos y saque de banda para el Celta de Vigo."
+        ],
+        "215": [
+            1022.0,
+            1026.0,
+            "Un poco hacia atrás, ya hubo mayo para Pablo Hernández."
+        ],
+        "216": [
+            1026.0,
+            1029.0,
+            "Cambio hacia el lado izquierdo donde está Joni."
+        ],
+        "217": [
+            1029.0,
+            1033.0,
+            "Controla Joni, la juega por delante de Luka Modric para Jozabel."
+        ],
+        "218": [
+            1033.0,
+            1035.0,
+            "Devuelve Joni hacia atrás para Mas."
+        ],
+        "219": [
+            1035.0,
+            1037.0,
+            "Mas entregando para Sisto."
+        ],
+        "220": [
+            1037.0,
+            1039.0,
+            "Sisto que encara sobre Danilo."
+        ],
+        "221": [
+            1039.0,
+            1042.0,
+            "Que hace la cobertura Luka Modric, va a buscar el disparo."
+        ],
+        "222": [
+            1042.0,
+            1044.0,
+            "Intenta y no consigue evitar el córner."
+        ],
+        "223": [
+            1044.0,
+            1047.0,
+            "Keylor Navas, saque de esquina para el Celta."
+        ],
+        "224": [
+            1047.0,
+            1053.0,
+            "Pero si alguien pensaba que el Celta que no juega nada, venía a falsearse, no es el caso."
+        ],
+        "225": [
+            1053.0,
+            1056.0,
+            "Además ha recibido el gol y lo ha sabido encajar bien."
+        ],
+        "226": [
+            1056.0,
+            1060.0,
+            "El equipo no se ha desarmado, sigue jugando, plantando realmente cara al Madrid."
+        ],
+        "227": [
+            1060.0,
+            1069.0,
+            "Real Madrid que va a defender este saque de esquina que va a botar a Vás para el conjunto de El Toto Berizzo."
+        ],
+        "228": [
+            1071.0,
+            1073.0,
+            "Prepara para golpear la pelota."
+        ],
+        "229": [
+            1073.0,
+            1075.0,
+            "Vás desde la esquina."
+        ],
+        "230": [
+            1076.0,
+            1078.0,
+            "La concentración de jugadores en el primer palo."
+        ],
+        "231": [
+            1078.0,
+            1080.0,
+            "Tienen corto Jozabel, hacia el balón."
+        ],
+        "232": [
+            1080.0,
+            1083.0,
+            "Ha conseguido peinar hacia atrás la pelota Cabral."
+        ],
+        "233": [
+            1083.0,
+            1087.0,
+            "Pero el balón ahí no encuentra quien lo pueda prolongar."
+        ],
+        "234": [
+            1087.0,
+            1089.0,
+            "Se va directamente por detrás de la portería."
+        ],
+        "235": [
+            1089.0,
+            1091.0,
+            "Saque para el Real Madrid."
+        ],
+        "236": [
+            1099.0,
+            1102.0,
+            "Prepara Keylor Navas para poner la pelota en movimiento."
+        ],
+        "237": [
+            1105.0,
+            1107.0,
+            "El guardameta del Real Madrid que va a sacar."
+        ],
+        "238": [
+            1107.0,
+            1110.0,
+            "Golpeando la pelota duro, largo."
+        ],
+        "239": [
+            1111.0,
+            1112.0,
+            "Ahí va el golpeo."
+        ],
+        "240": [
+            1114.0,
+            1115.0,
+            "Cabeza al tucu."
+        ],
+        "241": [
+            1115.0,
+            1118.0,
+            "Aja Casemiro se la entrega Toni Kroos."
+        ],
+        "242": [
+            1118.0,
+            1120.0,
+            "Entregado para Sergio por delante de Guidez."
+        ],
+        "243": [
+            1120.0,
+            1123.0,
+            "Y no le da tiempo al delantero del Celta a presionar."
+        ],
+        "244": [
+            1123.0,
+            1124.0,
+            "Sergio hacia la banda."
+        ],
+        "245": [
+            1124.0,
+            1125.0,
+            "Marcelo de primeras."
+        ],
+        "246": [
+            1125.0,
+            1127.0,
+            "Está prácticamente jugando de primeras el Real Madrid."
+        ],
+        "247": [
+            1127.0,
+            1129.0,
+            "Obligado por la presión del Celta de Vigo."
+        ],
+        "248": [
+            1129.0,
+            1132.0,
+            "Quedó el campo chico a Sergio Ramos."
+        ],
+        "249": [
+            1132.0,
+            1134.0,
+            "Saque de banda para el Celta."
+        ],
+        "250": [
+            1135.0,
+            1136.0,
+            "Va a sacar Hugo Mayo."
+        ],
+        "251": [
+            1138.0,
+            1139.0,
+            "Mueve Josabet."
+        ],
+        "252": [
+            1140.0,
+            1141.0,
+            "Vive y controla."
+        ],
+        "253": [
+            1141.0,
+            1146.0,
+            "Hace un hueco ante Toni Kroos y echa la pelota atrás para Cabral."
+        ],
+        "254": [
+            1146.0,
+            1148.0,
+            "Abre Cabral sobre Joni."
+        ],
+        "255": [
+            1149.0,
+            1151.0,
+            "Pasea por la línea de Cal en la izquierda."
+        ],
+        "256": [
+            1151.0,
+            1153.0,
+            "Asiste intentando abrir el campo el Celta."
+        ],
+        "257": [
+            1153.0,
+            1154.0,
+            "Entrada de Josabet."
+        ],
+        "258": [
+            1154.0,
+            1155.0,
+            "No."
+        ],
+        "259": [
+            1155.0,
+            1158.0,
+            "Llega esa pelota que controla ya Keylor Navas."
+        ],
+        "260": [
+            1159.0,
+            1160.0,
+            "Juega el teutón."
+        ],
+        "261": [
+            1161.0,
+            1162.0,
+            "Pide en corto Cristiano."
+        ],
+        "262": [
+            1162.0,
+            1163.0,
+            "Toca para acá Semiro."
+        ],
+        "263": [
+            1164.0,
+            1165.0,
+            "Semiro con Luka Modric."
+        ],
+        "264": [
+            1166.0,
+            1168.0,
+            "Modric con Toni Kroos de primera buscando a Marcelo."
+        ],
+        "265": [
+            1168.0,
+            1172.0,
+            "Le ha ganado la espalda a Yago Azpán que se afana en llegar para complicarle a Marcelo."
+        ],
+        "266": [
+            1172.0,
+            1173.0,
+            "Dentro. Bueno."
+        ],
+        "267": [
+            1173.0,
+            1174.0,
+            "Ha tocado la pelota."
+        ],
+        "268": [
+            1174.0,
+            1175.0,
+            "Gustavo Cabral quiere llegar."
+        ],
+        "269": [
+            1175.0,
+            1177.0,
+            "Y lo hace finalmente Cristiano."
+        ],
+        "270": [
+            1177.0,
+            1178.0,
+            "El rechace para Danilo."
+        ],
+        "271": [
+            1178.0,
+            1179.0,
+            "Danilo para Cristiano."
+        ],
+        "272": [
+            1179.0,
+            1180.0,
+            "Hay un balón."
+        ],
+        "273": [
+            1180.0,
+            1181.0,
+            "Sí, un balón."
+        ],
+        "274": [
+            1181.0,
+            1182.0,
+            "Imposible."
+        ],
+        "275": [
+            1182.0,
+            1183.0,
+            "Magnífico."
+        ],
+        "276": [
+            1183.0,
+            1185.0,
+            "Magnífico Kroos, por cierto, en ese balón hacia la izquierda Marcelo."
+        ],
+        "277": [
+            1185.0,
+            1187.0,
+            "Ese toque de Albinín es muy mío."
+        ],
+        "278": [
+            1187.0,
+            1188.0,
+            "Sí."
+        ],
+        "279": [
+            1188.0,
+            1190.0,
+            "Era tan complicado."
+        ],
+        "280": [
+            1191.0,
+            1196.0,
+            "No se lo ha conseguido mismo Danilo porque se la puso imposible directamente a Cristiano."
+        ],
+        "281": [
+            1196.0,
+            1197.0,
+            "Un aplauso de Cristiano Ronaldo."
+        ],
+        "282": [
+            1197.0,
+            1200.0,
+            "Va a sacar de portería Sergio para el Celta."
+        ],
+        "283": [
+            1202.0,
+            1204.0,
+            "He visto disparos más suaves."
+        ],
+        "284": [
+            1205.0,
+            1208.0,
+            "Pone Sergio sobre la banda de Hugo Mayo que la controla con el pecho."
+        ],
+        "285": [
+            1208.0,
+            1210.0,
+            "Se le echa encima a Toni Kroos."
+        ],
+        "286": [
+            1210.0,
+            1211.0,
+            "La echa afuera."
+        ],
+        "287": [
+            1211.0,
+            1215.0,
+            "Saque de banda para el Celta a la altura del banquillo de Zinedine Zidane."
+        ],
+        "288": [
+            1216.0,
+            1219.0,
+            "El balón a Aspas intentando marcharse."
+        ],
+        "289": [
+            1219.0,
+            1224.0,
+            "Se le estampó la pelota a Casemiro y el saque lateral para el Celta de Vigo."
+        ],
+        "290": [
+            1224.0,
+            1227.0,
+            "Reclamaba a Aspas una falta que le habrían hecho."
+        ],
+        "291": [
+            1227.0,
+            1231.0,
+            "Lejedo dice que saque de banda a ponerla en juego Goma."
+        ],
+        "292": [
+            1231.0,
+            1233.0,
+            "Y hoy la pide Hugo, Diago Aspas."
+        ],
+        "293": [
+            1233.0,
+            1234.0,
+            "Toca a Josapé."
+        ],
+        "294": [
+            1234.0,
+            1237.0,
+            "Aparece ahí el tucu para jugar sobre As."
+        ],
+        "295": [
+            1237.0,
+            1239.0,
+            "Cambio hacia la zona de Sisto."
+        ],
+        "296": [
+            1239.0,
+            1242.0,
+            "Está pidiendo Danilo que venga la ayuda porque Sisto le va a encarar."
+        ],
+        "297": [
+            1242.0,
+            1243.0,
+            "Ahí va Sisto."
+        ],
+        "298": [
+            1243.0,
+            1245.0,
+            "Ya ha llegado la ayuda de Luka Modric."
+        ],
+        "299": [
+            1245.0,
+            1247.0,
+            "Sisto que va a jugar hacia atrás para Josapé."
+        ],
+        "300": [
+            1247.0,
+            1248.0,
+            "Frontal del área."
+        ],
+        "301": [
+            1248.0,
+            1249.0,
+            "El cambio es bueno."
+        ],
+        "302": [
+            1249.0,
+            1250.0,
+            "Aparece Hugo Mayo."
+        ],
+        "303": [
+            1250.0,
+            1251.0,
+            "Línea de fondo."
+        ],
+        "304": [
+            1251.0,
+            1252.0,
+            "Se le echa encima ya Isco."
+        ],
+        "305": [
+            1252.0,
+            1254.0,
+            "Puso ahí la pierna como pudo Isco."
+        ],
+        "306": [
+            1254.0,
+            1256.0,
+            "Pelota terminada en los dominios de Keylor."
+        ],
+        "307": [
+            1256.0,
+            1259.0,
+            "Vamos sin mayor peligro para la portería del Real Madrid."
+        ],
+        "308": [
+            1261.0,
+            1263.0,
+            "Espera que se despliegue su equipo Keylor."
+        ],
+        "309": [
+            1263.0,
+            1264.0,
+            "Sí, va a jugar el largo."
+        ],
+        "310": [
+            1264.0,
+            1266.0,
+            "No tiene línea de pase, claro."
+        ],
+        "311": [
+            1266.0,
+            1267.0,
+            "Está haciendo gestos."
+        ],
+        "312": [
+            1267.0,
+            1269.0,
+            "En eso está trabajando muy bien el Celta."
+        ],
+        "313": [
+            1270.0,
+            1272.0,
+            "Ahí va el pelotazo arriba, buscando la cabeza de Cristiano."
+        ],
+        "314": [
+            1272.0,
+            1273.0,
+            "Se ha elevado Cabral."
+        ],
+        "315": [
+            1273.0,
+            1275.0,
+            "Se hizo con la pelota Jonny."
+        ],
+        "316": [
+            1275.0,
+            1280.0,
+            "Jonny tiene adelante a Sisto y por detrás para salir jugando al tucu."
+        ],
+        "317": [
+            1280.0,
+            1283.0,
+            "Ha cambiado el juego el Celta para la posición de Hugo Mayo."
+        ],
+        "318": [
+            1283.0,
+            1286.0,
+            "Hugo Mayo con el balón controlado, encarando sobre Isco."
+        ],
+        "319": [
+            1286.0,
+            1290.0,
+            "Viene a la presión a Antepas."
+        ],
+        "320": [
+            1292.0,
+            1295.0,
+            "Toni Kroos, que atrás juega la pelota, Roncaña para Cabral."
+        ],
+        "321": [
+            1295.0,
+            1297.0,
+            "Cabral, que se ha ido a la zona de Sisto."
+        ],
+        "322": [
+            1297.0,
+            1299.0,
+            "Ha jugado la pelota Roncaña para Cabral."
+        ],
+        "323": [
+            1299.0,
+            1301.0,
+            "Cabral, el costado tiene a Jonny."
+        ],
+        "324": [
+            1301.0,
+            1302.0,
+            "Jonny por delante tiene a Jonzabez."
+        ],
+        "325": [
+            1302.0,
+            1303.0,
+            "Ha jugado la pelota para Sisto."
+        ],
+        "326": [
+            1303.0,
+            1304.0,
+            "Está mirando ahí fuera de juego."
+        ],
+        "327": [
+            1304.0,
+            1306.0,
+            "No le pueden encontrar."
+        ],
+        "328": [
+            1306.0,
+            1309.0,
+            "Ahí se lo intenta Sisto y reacciona fenomenalmente bien Danilo,"
+        ],
+        "329": [
+            1309.0,
+            1311.0,
+            "que consigue robar el balón para el Real Madrid."
+        ],
+        "330": [
+            1311.0,
+            1312.0,
+            "La saca Casemiro."
+        ],
+        "331": [
+            1312.0,
+            1314.0,
+            "Loco atrás, entregó para Luka Modric."
+        ],
+        "332": [
+            1314.0,
+            1315.0,
+            "Ahí falta."
+        ],
+        "333": [
+            1315.0,
+            1317.0,
+            "Pudo evitar una contra Casemiro."
+        ],
+        "334": [
+            1317.0,
+            1320.0,
+            "Intentó darle de la ventaja para ver si Modric salía."
+        ],
+        "335": [
+            1320.0,
+            1322.0,
+            "Y al final Modric ha quedado más dañado en la jugada."
+        ],
+        "336": [
+            1322.0,
+            1323.0,
+            "Ricardo."
+        ],
+        "337": [
+            1324.0,
+            1326.0,
+            "Sí, Luka Modric está teniendo el suelo."
+        ],
+        "338": [
+            1326.0,
+            1328.0,
+            "Está interesándose por su estado."
+        ],
+        "339": [
+            1328.0,
+            1330.0,
+            "Después de ese choque ahora se levanta."
+        ],
+        "340": [
+            1330.0,
+            1331.0,
+            "Le ayuda al jugador del Celta."
+        ],
+        "341": [
+            1331.0,
+            1334.0,
+            "Parece que va a poder continuar sin problemas después de ese choque con Jonny."
+        ],
+        "342": [
+            1334.0,
+            1337.0,
+            "Al jugar Jonzabez por delante de este doble pivote,"
+        ],
+        "343": [
+            1337.0,
+            1340.0,
+            "ha cambiado un poco el dibujo ya del Celta con Iguaz y con el Tuko detrás."
+        ],
+        "344": [
+            1340.0,
+            1345.0,
+            "Estamos viendo, yo creo que poco para lo que necesita el Tuko y Iguaz a asomar más al área."
+        ],
+        "345": [
+            1345.0,
+            1346.0,
+            "Para el Real Madrid."
+        ],
+        "346": [
+            1346.0,
+            1347.0,
+            "Estamos viendo más atrás."
+        ],
+        "347": [
+            1347.0,
+            1351.0,
+            "Saque de Ibazma nuevamente para el Real Madrid ya en campo del Celta."
+        ],
+        "348": [
+            1351.0,
+            1353.0,
+            "Se prepara para jugar a..."
+        ],
+        "349": [
+            1356.0,
+            1357.0,
+            "Danilo."
+        ],
+        "350": [
+            1359.0,
+            1361.0,
+            "Juega arriba, entrega la pelota para Cristiano."
+        ],
+        "351": [
+            1361.0,
+            1363.0,
+            "Cristiano en el costado, no va a llegar a la pelota a Danilo."
+        ],
+        "352": [
+            1363.0,
+            1364.0,
+            "Saque de banda."
+        ],
+        "353": [
+            1368.0,
+            1369.0,
+            "No sé si Cristiano le hubiera dicho un beso."
+        ],
+        "354": [
+            1369.0,
+            1370.0,
+            "Yo lo decía aquí."
+        ],
+        "355": [
+            1370.0,
+            1371.0,
+            "Como ahí no se llega."
+        ],
+        "356": [
+            1371.0,
+            1372.0,
+            "Yo lo decía en el depuerto, ¿no?"
+        ],
+        "357": [
+            1372.0,
+            1373.0,
+            "¿Eh? Ve como ahí se lo decía."
+        ],
+        "358": [
+            1373.0,
+            1374.0,
+            "Venga."
+        ],
+        "359": [
+            1375.0,
+            1376.0,
+            "Juega el Celta."
+        ],
+        "360": [
+            1376.0,
+            1377.0,
+            "Asisto."
+        ],
+        "361": [
+            1377.0,
+            1378.0,
+            "Se le escapa la pelota a Asisto."
+        ],
+        "362": [
+            1378.0,
+            1379.0,
+            "Un poco los dos pies."
+        ],
+        "363": [
+            1379.0,
+            1380.0,
+            "Saque de banda."
+        ],
+        "364": [
+            1381.0,
+            1384.0,
+            "Momentos ahora de desconcierto en aquel costado en el que no acierta casi nadie."
+        ],
+        "365": [
+            1385.0,
+            1386.0,
+            "Pelota que le llega a Kroos."
+        ],
+        "366": [
+            1386.0,
+            1390.0,
+            "Quiere presionar el Celta, pero ya no llega tan rápido a la presión como en los primeros"
+        ],
+        "367": [
+            1390.0,
+            1393.0,
+            "compases del partido y eso que solo estamos en el Ecuador de la primera mitad."
+        ],
+        "368": [
+            1393.0,
+            1395.0,
+            "Kroos con la pelota, jugando para Marcelo."
+        ],
+        "369": [
+            1395.0,
+            1397.0,
+            "Abre Marcelo el balón para Karim Benzema."
+        ],
+        "370": [
+            1397.0,
+            1399.0,
+            "Benzema entrega para Casemiro."
+        ],
+        "371": [
+            1399.0,
+            1401.0,
+            "Abre Casemiro para Luka Modric."
+        ],
+        "372": [
+            1401.0,
+            1403.0,
+            "Se ha pasado de frenada a Danilo."
+        ],
+        "373": [
+            1403.0,
+            1404.0,
+            "Le tiene en corto Isco."
+        ],
+        "374": [
+            1404.0,
+            1407.0,
+            "Isco devuelve la pelota atrás para el croata."
+        ],
+        "375": [
+            1407.0,
+            1411.0,
+            "Ahí está Luka Modric escondiendo el balón ante la presión del Tupo."
+        ],
+        "376": [
+            1411.0,
+            1413.0,
+            "Se va jugando hacia atrás para Sergio Ramos."
+        ],
+        "377": [
+            1413.0,
+            1414.0,
+            "Sergio entrega para Varane."
+        ],
+        "378": [
+            1414.0,
+            1416.0,
+            "Varane juega la pelota sobre Isco."
+        ],
+        "379": [
+            1416.0,
+            1418.0,
+            "Isco intenta irse y no lo consigue."
+        ],
+        "380": [
+            1418.0,
+            1419.0,
+            "Recupera al Celta."
+        ],
+        "381": [
+            1419.0,
+            1421.0,
+            "Toca a Josabet o la engancha a Mideti."
+        ],
+        "382": [
+            1421.0,
+            1427.0,
+            "Y después de lo que le cuesta robar al Celta, estas son las que desaniman porque enseguida"
+        ],
+        "383": [
+            1427.0,
+            1430.0,
+            "cuando intenta armar la jugada el Celta no lo consigue."
+        ],
+        "384": [
+            1430.0,
+            1432.0,
+            "Si el Madrid que está manejando el balón."
+        ],
+        "385": [
+            1432.0,
+            1434.0,
+            "Largo envío arriba buscando a Cristiano Ronaldo."
+        ],
+        "386": [
+            1434.0,
+            1440.0,
+            "De cabeza a Cristiano pero toda la ventaja para el Celta de Vigo que juega por mediación"
+        ],
+        "387": [
+            1440.0,
+            1441.0,
+            "de Joni atrás sobre Sergio."
+        ],
+        "388": [
+            1442.0,
+            1444.0,
+            "Sergio jugó hacia la banda."
+        ],
+        "389": [
+            1444.0,
+            1445.0,
+            "El Celta."
+        ],
+        "390": [
+            1445.0,
+            1446.0,
+            "Viene Hugo Mayo."
+        ],
+        "391": [
+            1446.0,
+            1447.0,
+            "Busca arriba a Aspas."
+        ],
+        "392": [
+            1447.0,
+            1451.0,
+            "Ahí se anticipa perfectamente y de manera cómoda Sergio Ramos."
+        ],
+        "393": [
+            1451.0,
+            1452.0,
+            "Con la pelota al malagueño."
+        ],
+        "394": [
+            1452.0,
+            1453.0,
+            "Isco en corto."
+        ],
+        "395": [
+            1453.0,
+            1455.0,
+            "Toni Kroos midiéndose en velocidad con Hugo Mayo."
+        ],
+        "396": [
+            1455.0,
+            1456.0,
+            "Le puede ganar."
+        ],
+        "397": [
+            1456.0,
+            1457.0,
+            "Busca al Celta."
+        ],
+        "398": [
+            1457.0,
+            1458.0,
+            "Al frontal del área."
+        ],
+        "399": [
+            1458.0,
+            1459.0,
+            "La baja a Cristiano."
+        ],
+        "400": [
+            1459.0,
+            1460.0,
+            "Anticipa Cabral."
+        ],
+        "401": [
+            1460.0,
+            1461.0,
+            "El rechace para Isco."
+        ],
+        "402": [
+            1461.0,
+            1463.0,
+            "Viene Isco para poner la buena."
+        ],
+        "403": [
+            1463.0,
+            1467.0,
+            "Sale Sergio y le gana la pelota a Cristiano Ronaldo."
+        ],
+        "404": [
+            1468.0,
+            1470.0,
+            "Balones para Biones Isco."
+        ],
+        "405": [
+            1471.0,
+            1473.0,
+            "La pelota para Joni."
+        ],
+        "406": [
+            1473.0,
+            1477.0,
+            "Joni entrega el balón hacia la posición de Cabral."
+        ],
+        "407": [
+            1477.0,
+            1479.0,
+            "La dejan pasar Roncaguel."
+        ],
+        "408": [
+            1479.0,
+            1480.0,
+            "Aquí tiene Hugo Mayo."
+        ],
+        "409": [
+            1480.0,
+            1481.0,
+            "Juega Bas."
+        ],
+        "410": [
+            1481.0,
+            1482.0,
+            "Bas a la banda."
+        ],
+        "411": [
+            1482.0,
+            1484.0,
+            "Viene a por la pelota a Yago Aspas."
+        ],
+        "412": [
+            1484.0,
+            1485.0,
+            "Encara sobre Marcelo."
+        ],
+        "413": [
+            1485.0,
+            1487.0,
+            "Se va delante de Isco."
+        ],
+        "414": [
+            1487.0,
+            1488.0,
+            "Fafi."
+        ],
+        "415": [
+            1488.0,
+            1492.0,
+            "Afi al juego hacia el costado izquierdo donde está Josabet y va a recibir la ayuda de Joni."
+        ],
+        "416": [
+            1492.0,
+            1493.0,
+            "Se ha metido Sisto por dentro."
+        ],
+        "417": [
+            1493.0,
+            1495.0,
+            "Ahí quiere la pelota a Sisto."
+        ],
+        "418": [
+            1495.0,
+            1496.0,
+            "En la frontal."
+        ],
+        "419": [
+            1496.0,
+            1497.0,
+            "Y paró."
+        ],
+        "420": [
+            1497.0,
+            1499.0,
+            "La tenía que devolver a Josabet."
+        ],
+        "421": [
+            1499.0,
+            1500.0,
+            "Se enfadó Josabet."
+        ],
+        "422": [
+            1500.0,
+            1501.0,
+            "No lo vio."
+        ],
+        "423": [
+            1501.0,
+            1502.0,
+            "Biones Isco."
+        ],
+        "424": [
+            1502.0,
+            1503.0,
+            "La pared era clara."
+        ],
+        "425": [
+            1503.0,
+            1504.0,
+            "Se le fue por arriba."
+        ],
+        "426": [
+            1504.0,
+            1505.0,
+            "Biones Isco."
+        ],
+        "427": [
+            1505.0,
+            1506.0,
+            "Yo estoy acostándose."
+        ],
+        "428": [
+            1506.0,
+            1507.0,
+            "El otro día no disparé."
+        ],
+        "429": [
+            1507.0,
+            1508.0,
+            "Sí, y ahora voy a disparar."
+        ],
+        "430": [
+            1508.0,
+            1509.0,
+            "Y esta vez va a ser que sí."
+        ],
+        "431": [
+            1509.0,
+            1510.0,
+            "Pero eso es muchas veces lo que marca el futbolista."
+        ],
+        "432": [
+            1510.0,
+            1511.0,
+            "Las decisiones que toma."
+        ],
+        "433": [
+            1511.0,
+            1512.0,
+            "Ahí cometió un error el Sisto."
+        ],
+        "434": [
+            1512.0,
+            1513.0,
+            "Estoy viendo a Yago Aspas permanentemente haciendo gestos de desesperación con el Sisto."
+        ],
+        "435": [
+            1513.0,
+            1514.0,
+            "Lleva tres o cuatro jugadas seguidas."
+        ],
+        "436": [
+            1514.0,
+            1515.0,
+            "Una porque ha abusado del regate en la izquierda."
+        ],
+        "437": [
+            1515.0,
+            1516.0,
+            "Ahora por este balón."
+        ],
+        "438": [
+            1516.0,
+            1517.0,
+            "Está desesperando a Joni."
+        ],
+        "439": [
+            1518.0,
+            1519.0,
+            "Juega el Celta."
+        ],
+        "440": [
+            1519.0,
+            1520.0,
+            "La pilota, la banda para Hugo Mayo."
+        ],
+        "441": [
+            1520.0,
+            1521.0,
+            "Todavía en campo Vigués sobre la misma línea divisoria."
+        ],
+        "442": [
+            1521.0,
+            1522.0,
+            "Toca a Yago Aspas."
+        ],
+        "443": [
+            1522.0,
+            1523.0,
+            "Intenta salvar a Josabet."
+        ],
+        "444": [
+            1523.0,
+            1524.0,
+            "Se hace con ella Luka Modrić."
+        ],
+        "445": [
+            1524.0,
+            1525.0,
+            "Tensión a la contra del rubro."
+        ],
+        "446": [
+            1525.0,
+            1526.0,
+            "Balón peligroso para Benzema."
+        ],
+        "447": [
+            1526.0,
+            1527.0,
+            "Que se desata."
+        ],
+        "448": [
+            1527.0,
+            1528.0,
+            "Llega a Cristiano por el otro lado."
+        ],
+        "449": [
+            1528.0,
+            1529.0,
+            "Suelto."
+        ],
+        "450": [
+            1529.0,
+            1530.0,
+            "Cielo a la pelota."
+        ],
+        "451": [
+            1530.0,
+            1531.0,
+            "¡Ahhh!"
+        ],
+        "452": [
+            1531.0,
+            1532.0,
+            "¡Uuuh!"
+        ],
+        "453": [
+            1532.0,
+            1533.0,
+            "¡Ahhh!"
+        ],
+        "454": [
+            1533.0,
+            1534.0,
+            "¡Ahhh!"
+        ],
+        "455": [
+            1534.0,
+            1535.0,
+            "¡Ahhh!"
+        ],
+        "456": [
+            1535.0,
+            1536.0,
+            "¡Ahhh!"
+        ],
+        "457": [
+            1536.0,
+            1537.0,
+            "¡Ahhh!"
+        ],
+        "458": [
+            1537.0,
+            1538.0,
+            "¡Ahhh!"
+        ],
+        "459": [
+            1538.0,
+            1539.0,
+            "¡Ahhh!"
+        ],
+        "460": [
+            1539.0,
+            1540.0,
+            "¡Ahhh!"
+        ],
+        "461": [
+            1540.0,
+            1541.0,
+            "¡Ahhh!"
+        ],
+        "462": [
+            1541.0,
+            1542.0,
+            "¡Ahhh!"
+        ],
+        "463": [
+            1542.0,
+            1543.0,
+            "¡Ahhh!"
+        ],
+        "464": [
+            1543.0,
+            1544.0,
+            "¡Ahhh!"
+        ],
+        "465": [
+            1544.0,
+            1545.0,
+            "¡Ahhh!"
+        ],
+        "466": [
+            1545.0,
+            1546.0,
+            "¡Ahhh!"
+        ],
+        "467": [
+            1546.0,
+            1558.98,
+            "Pues"
+        ],
+        "468": [
+            1558.98,
+            1561.98,
+            "Bueno, eso es de frente, decisiones bien tomadas."
+        ],
+        "469": [
+            1561.98,
+            1565.98,
+            "Es decir, cada vez que fue el momento de mandar el balón, lo mandaba."
+        ],
+        "470": [
+            1565.98,
+            1567.98,
+            "Tanto Modric como Benzema."
+        ],
+        "471": [
+            1567.98,
+            1569.98,
+            "Ahí va al centro, Marcelo, punto de penalti."
+        ],
+        "472": [
+            1569.98,
+            1571.98,
+            "Despeja la pelota a Bach, quiere llegar Marcelo."
+        ],
+        "473": [
+            1571.98,
+            1573.98,
+            "El balón lo tocó Diego Aspas, pero le queda Isco."
+        ],
+        "474": [
+            1573.98,
+            1575.98,
+            "Pico del área, la saca para Toni Kroos."
+        ],
+        "475": [
+            1575.98,
+            1577.98,
+            "Atención al centro, en corto para Isco."
+        ],
+        "476": [
+            1577.98,
+            1579.98,
+            "Isco buscando la rosca, tan habitual en él."
+        ],
+        "477": [
+            1579.98,
+            1581.98,
+            "Le pegó en la espalda a Aguiletti."
+        ],
+        "478": [
+            1581.98,
+            1583.98,
+            "Saque de esquina."
+        ],
+        "479": [
+            1583.98,
+            1585.98,
+            "Y eso de tomar decisiones, sobre todo en el centro de campo,"
+        ],
+        "480": [
+            1585.98,
+            1587.98,
+            "Toni Kroos lo hace maravilloso."
+        ],
+        "481": [
+            1588.98,
+            1590.98,
+            "Es la sencillez personificada."
+        ],
+        "482": [
+            1590.98,
+            1593.98,
+            "Modric es un jugador que, yo creo que incluso tiene todavía, para mí, más calidad."
+        ],
+        "483": [
+            1593.98,
+            1595.98,
+            "Pero Kroos lo hace todo perfecto."
+        ],
+        "484": [
+            1595.98,
+            1597.98,
+            "El que no ha parecido tanto ha sido Isco."
+        ],
+        "485": [
+            1597.98,
+            1599.98,
+            "Lo digo porque como empieza a aparecer, el centro va a tener un problema."
+        ],
+        "486": [
+            1599.98,
+            1601.98,
+            "Saque de esquina, en corto, Sisto."
+        ],
+        "487": [
+            1601.98,
+            1604.98,
+            "Despeja sobre la corona de su propio área."
+        ],
+        "488": [
+            1604.98,
+            1608.98,
+            "Ha tocado el balón hacia arriba Hugo Mayo."
+        ],
+        "489": [
+            1608.98,
+            1610.98,
+            "El Real Madrid recupera."
+        ],
+        "490": [
+            1610.98,
+            1612.98,
+            "Danilo que se activa por la banda."
+        ],
+        "491": [
+            1612.98,
+            1614.98,
+            "Recibe Luka Modric."
+        ],
+        "492": [
+            1614.98,
+            1616.98,
+            "Ahí va al centro Luka Modric."
+        ],
+        "493": [
+            1616.98,
+            1618.98,
+            "Ahí va Benzema, que intentaba hacerse con la pelota."
+        ],
+        "494": [
+            1618.98,
+            1620.98,
+            "Consiguió tocarla lo suficiente Hugo Mayo."
+        ],
+        "495": [
+            1620.98,
+            1622.98,
+            "Quiere sacar el tucu."
+        ],
+        "496": [
+            1622.98,
+            1624.98,
+            "La juega sobre la banda para Sisto."
+        ],
+        "497": [
+            1624.98,
+            1626.98,
+            "Sisto tarda hora y media en controlarla."
+        ],
+        "498": [
+            1626.98,
+            1628.98,
+            "Y la recupera el Real Madrid."
+        ],
+        "499": [
+            1628.98,
+            1630.98,
+            "Ahí está Benzema la contra."
+        ],
+        "500": [
+            1630.98,
+            1632.98,
+            "Atención a Cristiano."
+        ],
+        "501": [
+            1632.98,
+            1634.98,
+            "Benzema dentro del área."
+        ],
+        "502": [
+            1634.98,
+            1636.98,
+            "Va a recortar Benzema."
+        ],
+        "503": [
+            1636.98,
+            1638.98,
+            "La va a jugar él solo."
+        ],
+        "504": [
+            1638.98,
+            1640.98,
+            "Ahí se queda sin espacio."
+        ],
+        "505": [
+            1640.98,
+            1642.98,
+            "Protegió fenomenalmente bien Roncaña para el Real Madrid."
+        ],
+        "506": [
+            1642.98,
+            1644.98,
+            "El centro de Vigo tiene una asignatura pendiente en este partido."
+        ],
+        "507": [
+            1644.98,
+            1646.98,
+            "El peligro es ausente en su juego."
+        ],
+        "508": [
+            1646.98,
+            1648.98,
+            "También es por mérito que Madrid defiende bien."
+        ],
+        "509": [
+            1648.98,
+            1650.98,
+            "Es que colecciona mucho fútbolismo detrás del balón."
+        ],
+        "510": [
+            1650.98,
+            1652.98,
+            "Cuando el centro está circulando con el 1."
+        ],
+        "511": [
+            1652.98,
+            1654.98,
+            "Pero crear peligro..."
+        ],
+        "512": [
+            1654.98,
+            1656.98,
+            "Le está faltando Colmillo."
+        ],
+        "513": [
+            1656.98,
+            1658.98,
+            "Yo creo que está jugando bien."
+        ],
+        "514": [
+            1658.98,
+            1660.98,
+            "Moviendo bien la pelota."
+        ],
+        "515": [
+            1660.98,
+            1662.98,
+            "Está presionando bien sin balón."
+        ],
+        "516": [
+            1662.98,
+            1664.98,
+            "Lo está haciendo muy académico."
+        ],
+        "517": [
+            1664.98,
+            1666.98,
+            "Pero es verdad que arriba entreguirete no recibe."
+        ],
+        "518": [
+            1666.98,
+            1668.98,
+            "Y Sisto está muy desafortunado."
+        ],
+        "519": [
+            1668.98,
+            1670.98,
+            "Le está faltando realmente"
+        ],
+        "520": [
+            1670.98,
+            1672.98,
+            "comprensión."
+        ],
+        "521": [
+            1672.98,
+            1674.98,
+            "Realmente es complicado al Madrid."
+        ],
+        "522": [
+            1702.98,
+            1704.98,
+            "Falta clarísimo."
+        ],
+        "523": [
+            1704.98,
+            1706.98,
+            "El jugador del Celta de Vigo."
+        ],
+        "524": [
+            1706.98,
+            1708.98,
+            "Que se disculpa desde la distancia."
+        ],
+        "525": [
+            1708.98,
+            1710.98,
+            "Esco se recupera ayudado por Toni Kroos."
+        ],
+        "526": [
+            1710.98,
+            1712.98,
+            "Yo insisto en lo que comentamos."
+        ],
+        "527": [
+            1712.98,
+            1714.98,
+            "La falta de Colmillo del Celta."
+        ],
+        "528": [
+            1714.98,
+            1716.98,
+            "El Tucu y Vassa están demasiado lejos de la zona de peligro."
+        ],
+        "529": [
+            1716.98,
+            1718.98,
+            "Hombres de calidad."
+        ],
+        "530": [
+            1718.98,
+            1720.98,
+            "Se nota en ese tipo de acción."
+        ],
+        "531": [
+            1720.98,
+            1722.98,
+            "Cuando traen presión"
+        ],
+        "532": [
+            1722.98,
+            1724.98,
+            "y la resuelven como si fuera fácil."
+        ],
+        "533": [
+            1724.98,
+            1726.98,
+            "Va a jugar el Celta desde atrás."
+        ],
+        "534": [
+            1726.98,
+            1728.98,
+            "Lo hace con anominación de Cabral."
+        ],
+        "535": [
+            1728.98,
+            1730.98,
+            "Ha entregado la pelota para Sisto."
+        ],
+        "536": [
+            1730.98,
+            1732.98,
+            "El centro."
+        ],
+        "537": [
+            1732.98,
+            1734.98,
+            "Hombres cortos para el Tucu."
+        ],
+        "538": [
+            1734.98,
+            1736.98,
+            "Se va de Sergio Ramos."
+        ],
+        "539": [
+            1736.98,
+            1738.98,
+            "Viene la ayuda."
+        ],
+        "540": [
+            1738.98,
+            1740.98,
+            "De Guidetti para Jozabed."
+        ],
+        "541": [
+            1740.98,
+            1742.98,
+            "La falta y la cartulina para Casemiro."
+        ],
+        "542": [
+            1744.98,
+            1746.98,
+            "La falta y la cartulina para Casemiro."
+        ],
+        "543": [
+            1746.98,
+            1748.98,
+            "Que se fue desesperado para evitar el remate."
+        ],
+        "544": [
+            1748.98,
+            1750.98,
+            "Fue con todo."
+        ],
+        "545": [
+            1750.98,
+            1752.98,
+            "Y se perdió la cartulina amarilla."
+        ],
+        "546": [
+            1752.98,
+            1754.98,
+            "Es aceptable."
+        ],
+        "547": [
+            1754.98,
+            1756.98,
+            "Es innecesario."
+        ],
+        "548": [
+            1756.98,
+            1758.98,
+            "Es un poco la agonía de verse"
+        ],
+        "549": [
+            1758.98,
+            1760.98,
+            "en un desierto de peligro."
+        ],
+        "550": [
+            1760.98,
+            1762.98,
+            "Y ahí lo ven."
+        ],
+        "551": [
+            1762.98,
+            1764.98,
+            "Va con todo contra Jozabed."
+        ],
+        "552": [
+            1764.98,
+            1766.98,
+            "La cartulina es donde está la pelota."
+        ],
+        "553": [
+            1766.98,
+            1768.98,
+            "Y donde llega Casemiro."
+        ],
+        "554": [
+            1768.98,
+            1770.98,
+            "Él sabe que recibió la cartulina."
+        ],
+        "555": [
+            1770.98,
+            1772.98,
+            "Y ahora la falta es peligrosa"
+        ],
+        "556": [
+            1772.98,
+            1774.98,
+            "ante la portería de Keilo Navas."
+        ],
+        "557": [
+            1774.98,
+            1776.98,
+            "29 minutos 0-1."
+        ],
+        "558": [
+            1776.98,
+            1778.98,
+            "Gana el Madrid."
+        ],
+        "559": [
+            1778.98,
+            1780.98,
+            "Gol de Cristiano Ronaldo."
+        ],
+        "560": [
+            1780.98,
+            1782.98,
+            "Está mejor para un diestro."
+        ],
+        "561": [
+            1782.98,
+            1784.98,
+            "Está Vassa."
+        ],
+        "562": [
+            1784.98,
+            1786.98,
+            "Le pega muy bien con la derecha."
+        ],
+        "563": [
+            1786.98,
+            1788.98,
+            "Y uno de esos es las dos opciones."
+        ],
+        "564": [
+            1788.98,
+            1790.98,
+            "Vassa y Aspas."
+        ],
+        "565": [
+            1790.98,
+            1792.98,
+            "Atención al lanzamiento."
+        ],
+        "566": [
+            1792.98,
+            1794.98,
+            "Ahí va hasta tres hombres cerca de la pelota."
+        ],
+        "567": [
+            1794.98,
+            1796.98,
+            "Está Aguirreti, está Vassa."
+        ],
+        "568": [
+            1796.98,
+            1798.98,
+            "Está Yago Aspas."
+        ],
+        "569": [
+            1798.98,
+            1800.98,
+            "Supongo que los galones"
+        ],
+        "570": [
+            1800.98,
+            1802.98,
+            "de Yago Aspas se van a imponer."
+        ],
+        "571": [
+            1802.98,
+            1804.98,
+            "No sé si sea para su perfil."
+        ],
+        "572": [
+            1804.98,
+            1806.98,
+            "Atención."
+        ],
+        "573": [
+            1806.98,
+            1808.98,
+            "Atención al lanzamiento."
+        ],
+        "574": [
+            1808.98,
+            1810.98,
+            "Peligroso para la puerta de Keilor."
+        ],
+        "575": [
+            1810.98,
+            1812.98,
+            "Barrera muy nutrida."
+        ],
+        "576": [
+            1812.98,
+            1814.98,
+            "Poca visibilidad para Keilor Navas."
+        ],
+        "577": [
+            1814.98,
+            1816.98,
+            "Va a ser Vassa."
+        ],
+        "578": [
+            1816.98,
+            1818.98,
+            "¡Keilor al rechace!"
+        ],
+        "579": [
+            1818.98,
+            1820.98,
+            "Madre mía."
+        ],
+        "580": [
+            1820.98,
+            1822.98,
+            "Estaba jugada anulada."
+        ],
+        "581": [
+            1822.98,
+            1824.98,
+            "Arroncaglia acaba de salvar el línea."
+        ],
+        "582": [
+            1824.98,
+            1826.98,
+            "Fíjese lo que le acabo de decir."
+        ],
+        "583": [
+            1826.98,
+            1828.98,
+            "No puedo controlar."
+        ],
+        "584": [
+            1828.98,
+            1830.98,
+            "Era curioso."
+        ],
+        "585": [
+            1830.98,
+            1832.98,
+            "Me río un poco."
+        ],
+        "586": [
+            1832.98,
+            1834.98,
+            "Ante la falta, Arroncaglia"
+        ],
+        "587": [
+            1834.98,
+            1836.98,
+            "estaba mirando a Keilor"
+        ],
+        "588": [
+            1836.98,
+            1838.98,
+            "haciéndole gestos, etc."
+        ],
+        "589": [
+            1838.98,
+            1840.98,
+            "Como estaba presto"
+        ],
+        "590": [
+            1840.98,
+            1842.98,
+            "para rematar en el caso que"
+        ],
+        "591": [
+            1842.98,
+            1844.98,
+            "se le había dado el rechace."
+        ],
+        "592": [
+            1844.98,
+            1846.98,
+            "Era un tiempo de juego."
+        ],
+        "593": [
+            1846.98,
+            1848.98,
+            "Pero Arroncaglia quería controlarlo."
+        ],
+        "594": [
+            1848.98,
+            1850.98,
+            "Buen acierto"
+        ],
+        "595": [
+            1850.98,
+            1852.98,
+            "por parte del asistente."
+        ],
+        "596": [
+            1852.98,
+            1854.98,
+            "No era nada fácil."
+        ],
+        "597": [
+            1854.98,
+            1856.98,
+            "Está un poco adelantado"
+        ],
+        "598": [
+            1856.98,
+            1858.98,
+            "con la cabeza el jugador"
+        ],
+        "599": [
+            1858.98,
+            1860.98,
+            "del Celta de Vigo."
+        ],
+        "600": [
+            1860.98,
+            1862.98,
+            "Decisión correcta la que toma"
+        ],
+        "601": [
+            1862.98,
+            1864.98,
+            "el asistente de"
+        ],
+        "602": [
+            1864.98,
+            1866.98,
+            "Martín Inmunuera."
+        ],
+        "603": [
+            1866.98,
+            1868.98,
+            "Juega la pelota el Celta."
+        ],
+        "604": [
+            1868.98,
+            1870.98,
+            "El balón es para el equipo"
+        ],
+        "605": [
+            1870.98,
+            1872.98,
+            "del Real Madrid."
+        ],
+        "606": [
+            1872.98,
+            1874.98,
+            "Toto Bericho juega asisto."
+        ],
+        "607": [
+            1874.98,
+            1876.98,
+            "Viene tirando la diagonal Johnny."
+        ],
+        "608": [
+            1876.98,
+            1878.98,
+            "Se adelantó Casemiro por delante."
+        ],
+        "609": [
+            1878.98,
+            1880.98,
+            "Ganó la posesión para el Real Madrid."
+        ],
+        "610": [
+            1880.98,
+            1882.98,
+            "Error gravísimo de Sergio Ramos."
+        ],
+        "611": [
+            1882.98,
+            1884.98,
+            "Se lleva la pelota a Aspas"
+        ],
+        "612": [
+            1884.98,
+            1886.98,
+            "en cara sobre Varane."
+        ],
+        "613": [
+            1886.98,
+            1888.98,
+            "Ahí va el disparo."
+        ],
+        "614": [
+            1888.98,
+            1890.98,
+            "Se la jugó el solo."
+        ],
+        "615": [
+            1890.98,
+            1892.98,
+            "Se enfada Guidetti con toda la razón."
+        ],
+        "616": [
+            1892.98,
+            1894.98,
+            "Error de Sergio."
+        ],
+        "617": [
+            1894.98,
+            1896.98,
+            "Y luego también de Aspas."
+        ],
+        "618": [
+            1896.98,
+            1898.98,
+            "Se pide perdón a sus compañeros"
+        ],
+        "619": [
+            1898.98,
+            1900.98,
+            "y se va rápido Varane ahí"
+        ],
+        "620": [
+            1900.98,
+            1902.98,
+            "para cruzarse"
+        ],
+        "621": [
+            1902.98,
+            1904.98,
+            "y cerrarle el camino a Yaguas."
+        ],
+        "622": [
+            1908.98,
+            1910.98,
+            "Va a golpear la pelota Keilo Navas."
+        ],
+        "623": [
+            1910.98,
+            1912.98,
+            "Está acercando el Celta pero"
+        ],
+        "624": [
+            1912.98,
+            1914.98,
+            "todavía sin peligro."
+        ],
+        "625": [
+            1914.98,
+            1916.98,
+            "El disparo a balón parado y poco más"
+        ],
+        "626": [
+            1916.98,
+            1918.98,
+            "ha hecho realmente."
+        ],
+        "627": [
+            1918.98,
+            1920.98,
+            "Ahí está de cabeza para jugar la pelota el Tucu."
+        ],
+        "628": [
+            1920.98,
+            1922.98,
+            "Se hace con ella Casemiro."
+        ],
+        "629": [
+            1922.98,
+            1924.98,
+            "La tiene para jugar la cross."
+        ],
+        "630": [
+            1924.98,
+            1926.98,
+            "La toca para Marcelo."
+        ],
+        "631": [
+            1926.98,
+            1928.98,
+            "En cara sobre Vaz."
+        ],
+        "632": [
+            1928.98,
+            1930.98,
+            "Va buscando compañía."
+        ],
+        "633": [
+            1930.98,
+            1932.98,
+            "Aguanta y pisa la pelota para jugarla"
+        ],
+        "634": [
+            1932.98,
+            1934.98,
+            "sobre Marcelo. Marcelo que también"
+        ],
+        "635": [
+            1934.98,
+            1936.98,
+            "se toma su tiempo. Da la vuelta a Marcelo"
+        ],
+        "636": [
+            1936.98,
+            1938.98,
+            "delante de Hugo Mayo. Va a recibir"
+        ],
+        "637": [
+            1938.98,
+            1940.98,
+            "falta a Marcelo. Protección en el balón"
+        ],
+        "638": [
+            1940.98,
+            1942.98,
+            "a Marcelo. Falta de Hugo Mayo."
+        ],
+        "639": [
+            1942.98,
+            1944.98,
+            "Se enfada Braz y de Nilsen."
+        ],
+        "640": [
+            1944.98,
+            1946.98,
+            "Bueno, anteriormente le estaba diciendo que esos envíos"
+        ],
+        "641": [
+            1946.98,
+            1948.98,
+            "no nos han tenido algo que busque siempre los costados."
+        ],
+        "642": [
+            1948.98,
+            1950.98,
+            "Que busque siempre las balas."
+        ],
+        "643": [
+            1952.98,
+            1954.98,
+            "Sacarle el libro de las primeras reglas."
+        ],
+        "644": [
+            1954.98,
+            1956.98,
+            "Es una monología."
+        ],
+        "645": [
+            1956.98,
+            1958.98,
+            "Nunca le hagas una cesión a tu portero"
+        ],
+        "646": [
+            1958.98,
+            1960.98,
+            "dentro de los respalos y cuando saques"
+        ],
+        "647": [
+            1960.98,
+            1962.98,
+            "de portería generalmente buscan los costados"
+        ],
+        "648": [
+            1962.98,
+            1964.98,
+            "porque de perderla es más"
+        ],
+        "649": [
+            1964.98,
+            1966.98,
+            "difícil ir de alguna ocasión."
+        ],
+        "650": [
+            1966.98,
+            1968.98,
+            "De perderla por el centro"
+        ],
+        "651": [
+            1968.98,
+            1970.98,
+            "es más complicado defender el"
+        ],
+        "652": [
+            1970.98,
+            1972.98,
+            "contragolpe. Pelota para el"
+        ],
+        "653": [
+            1972.98,
+            1974.98,
+            "Celta que juega atrás con Sergio."
+        ],
+        "654": [
+            1974.98,
+            1976.98,
+            "El guardameta."
+        ],
+        "655": [
+            1976.98,
+            1978.98,
+            "Menos que tengas Fernando Llorente en mis delantero."
+        ],
+        "656": [
+            1978.98,
+            1980.98,
+            "Ahí va"
+        ],
+        "657": [
+            1980.98,
+            1982.98,
+            "pero incluso si tienes Fernando Llorente generalmente"
+        ],
+        "658": [
+            1982.98,
+            1984.98,
+            "le vas a querer un poquito esquivado"
+        ],
+        "659": [
+            1984.98,
+            1986.98,
+            "para que busque ese balón."
+        ],
+        "660": [
+            1986.98,
+            1988.98,
+            "Ha tocado para sacar"
+        ],
+        "661": [
+            1988.98,
+            1990.98,
+            "la flor del terno de Hugo Mayo. Saque de banda"
+        ],
+        "662": [
+            1990.98,
+            1992.98,
+            "para el"
+        ],
+        "663": [
+            1992.98,
+            1994.98,
+            "Real Madrid. 33 minutos."
+        ],
+        "664": [
+            1994.98,
+            1996.98,
+            "Juega el Real Madrid."
+        ],
+        "665": [
+            1996.98,
+            1998.98,
+            "Está por delante."
+        ],
+        "666": [
+            1998.98,
+            2000.98,
+            "0-1 con gol de Cristiano Ronaldo."
+        ],
+        "667": [
+            2000.98,
+            2002.98,
+            "Va a jugar Marcelo."
+        ],
+        "668": [
+            2002.98,
+            2004.98,
+            "Marcelo entrega la pelota para"
+        ],
+        "669": [
+            2004.98,
+            2006.98,
+            "Casemiro. Se le escapa el control a Casemiro"
+        ],
+        "670": [
+            2006.98,
+            2008.98,
+            "y será saque de banda para el Celta de Vigo."
+        ],
+        "671": [
+            2008.98,
+            2010.98,
+            "Se lían ahí Guinetti y Sergio Ramos."
+        ],
+        "672": [
+            2010.98,
+            2012.98,
+            "Va a dar falta a Guinetti."
+        ],
+        "673": [
+            2012.98,
+            2014.98,
+            "Guinetti dice que Sergio le empujó."
+        ],
+        "674": [
+            2014.98,
+            2016.98,
+            "Sergio lo que dice es que Guinetti le trabó."
+        ],
+        "675": [
+            2016.98,
+            2018.98,
+            "Y el colegiado lo que pinta es"
+        ],
+        "676": [
+            2018.98,
+            2020.98,
+            "falta de Guinetti."
+        ],
+        "677": [
+            2020.98,
+            2022.98,
+            "Que protestaba el asistente y rápidamente"
+        ],
+        "678": [
+            2022.98,
+            2024.98,
+            "ha ido Martín de Monuera para poner calma"
+        ],
+        "679": [
+            2024.98,
+            2026.98,
+            "para decirle que deje de protestar."
+        ],
+        "680": [
+            2030.98,
+            2032.98,
+            "Se prepara para sacar Sergio Ramos."
+        ],
+        "681": [
+            2036.98,
+            2038.98,
+            "Va a jugar la pelota ahí al Real Madrid."
+        ],
+        "682": [
+            2038.98,
+            2040.98,
+            "Sergio buscando largo arriba."
+        ],
+        "683": [
+            2040.98,
+            2042.98,
+            "Karim Benzema protege."
+        ],
+        "684": [
+            2042.98,
+            2044.98,
+            "Pero llega para sacar Baron Kage."
+        ],
+        "685": [
+            2044.98,
+            2046.98,
+            "Cristiano Ronaldo metió la pierna"
+        ],
+        "686": [
+            2046.98,
+            2048.98,
+            "con el pecho perfecto"
+        ],
+        "687": [
+            2048.98,
+            2050.98,
+            "para Guinetti. Se la va dejando atrás."
+        ],
+        "688": [
+            2050.98,
+            2052.98,
+            "No progresa."
+        ],
+        "689": [
+            2052.98,
+            2054.98,
+            "Cortó el balón."
+        ],
+        "690": [
+            2054.98,
+            2056.98,
+            "Nuevamente abre"
+        ],
+        "691": [
+            2056.98,
+            2058.98,
+            "el balón hacia la banda. Se incorpora"
+        ],
+        "692": [
+            2058.98,
+            2060.98,
+            "Johnny. Tiene asisto por un costado."
+        ],
+        "693": [
+            2060.98,
+            2062.98,
+            "Recibe nuevamente Johnny. La pide por ahí"
+        ],
+        "694": [
+            2062.98,
+            2064.98,
+            "Jota. Ha tocado la pelota"
+        ],
+        "695": [
+            2064.98,
+            2066.98,
+            "para el Tucu. Abre el Tucu sobre Vaz."
+        ],
+        "696": [
+            2066.98,
+            2068.98,
+            "Doble pivote del Centa. Balón por arriba."
+        ],
+        "697": [
+            2068.98,
+            2070.98,
+            "Complicado, complicadísimo"
+        ],
+        "698": [
+            2070.98,
+            2072.98,
+            "lo que intentó Vaz. Saca de portería."
+        ],
+        "699": [
+            2072.98,
+            2074.98,
+            "Guinetti, te digo, tiene otras virtudes"
+        ],
+        "700": [
+            2074.98,
+            2076.98,
+            "pero no crees en un delantero rápido. En esa jugada"
+        ],
+        "701": [
+            2076.98,
+            2078.98,
+            "ha quedado bastante claro."
+        ],
+        "702": [
+            2078.98,
+            2080.98,
+            "Menos rápido aún si no la primera."
+        ],
+        "703": [
+            2080.98,
+            2082.98,
+            "Si te pasas"
+        ],
+        "704": [
+            2082.98,
+            2084.98,
+            "tres toques para comprar algo."
+        ],
+        "705": [
+            2084.98,
+            2086.98,
+            "Ahí se le echó"
+        ],
+        "706": [
+            2086.98,
+            2088.98,
+            "encima a Rafael Varane y consiguió cortar"
+        ],
+        "707": [
+            2088.98,
+            2090.98,
+            "la jugada. Viene el toque"
+        ],
+        "708": [
+            2090.98,
+            2092.98,
+            "de aspas. Ahí lo vemos."
+        ],
+        "709": [
+            2092.98,
+            2094.98,
+            "Poco a poco yendo un poquito más"
+        ],
+        "710": [
+            2094.98,
+            2096.98,
+            "adentro para participar más. Él necesita"
+        ],
+        "711": [
+            2096.98,
+            2098.98,
+            "que le encuentren más aspas."
+        ],
+        "712": [
+            2098.98,
+            2100.98,
+            "Va a sacar Keylor."
+        ],
+        "713": [
+            2100.98,
+            2102.98,
+            "Pelotazo largo de Keylor Nava"
+        ],
+        "714": [
+            2102.98,
+            2104.98,
+            "jugando la pelota arriba. Ha ganado"
+        ],
+        "715": [
+            2104.98,
+            2106.98,
+            "el salto el Tucu Hernández. Fenencia Carín"
+        ],
+        "716": [
+            2106.98,
+            2108.98,
+            "Benzema, Roncaglia. Por dentro"
+        ],
+        "717": [
+            2108.98,
+            2110.98,
+            "para Vaz. Abre Vaz la pelota"
+        ],
+        "718": [
+            2110.98,
+            2112.98,
+            "sobre la banda. Hugo Mayo."
+        ],
+        "719": [
+            2112.98,
+            2114.98,
+            "Hugo Mayo tiene en corto por dentro."
+        ],
+        "720": [
+            2114.98,
+            2116.98,
+            "A Yago aspas. Han jugado aspas atrás sobre"
+        ],
+        "721": [
+            2116.98,
+            2118.98,
+            "el Tucu. A apertura de Hernández"
+        ],
+        "722": [
+            2118.98,
+            2120.98,
+            "delante de Cristiano que ayuda en defensa."
+        ],
+        "723": [
+            2120.98,
+            2122.98,
+            "Ahí recorta por el costado Johnny"
+        ],
+        "724": [
+            2122.98,
+            2124.98,
+            "Cristiano Ronaldo. Quiere jugar"
+        ],
+        "725": [
+            2124.98,
+            2126.98,
+            "Yago aspas. Atención al recorte."
+        ],
+        "726": [
+            2126.98,
+            2128.98,
+            "Lateral de la red."
+        ],
+        "727": [
+            2128.98,
+            2130.98,
+            "Porque detrás de... Después del rebote"
+        ],
+        "728": [
+            2130.98,
+            2132.98,
+            "se le quedó Franca para buscar el disparo."
+        ],
+        "729": [
+            2132.98,
+            2134.98,
+            "Saque de portería"
+        ],
+        "730": [
+            2134.98,
+            2136.98,
+            "para el Celta de Vigo."
+        ],
+        "731": [
+            2136.98,
+            2138.98,
+            "35 de partido. 0-1."
+        ],
+        "732": [
+            2138.98,
+            2140.98,
+            "Gana el Real Madrid."
+        ],
+        "733": [
+            2140.98,
+            2142.98,
+            "El Celta le falta otras aspas."
+        ],
+        "734": [
+            2142.98,
+            2144.98,
+            "Ahí había. Sí."
+        ],
+        "735": [
+            2146.98,
+            2148.98,
+            "Ahora está dando un poquito"
+        ],
+        "736": [
+            2148.98,
+            2150.98,
+            "más sensación de play en los últimos minutos"
+        ],
+        "737": [
+            2150.98,
+            2152.98,
+            "del Celta. Llegando más."
+        ],
+        "738": [
+            2152.98,
+            2154.98,
+            "Juega Keylor."
+        ],
+        "739": [
+            2154.98,
+            2156.98,
+            "Largo envío del Tico sobre"
+        ],
+        "740": [
+            2156.98,
+            2158.98,
+            "la banda, sobre el costado."
+        ],
+        "741": [
+            2158.98,
+            2160.98,
+            "Como le han dicho, ha cortado de cabeza Roncaglia."
+        ],
+        "742": [
+            2160.98,
+            2162.98,
+            "Se eleva Vaz por delante de Karim Benzema."
+        ],
+        "743": [
+            2162.98,
+            2164.98,
+            "La pelota es para"
+        ],
+        "744": [
+            2164.98,
+            2166.98,
+            "Johnny. Abre Johnny sobre Sisto."
+        ],
+        "745": [
+            2166.98,
+            2168.98,
+            "Sisto tiene por delante al Tucu Hernández"
+        ],
+        "746": [
+            2168.98,
+            2170.98,
+            "y a Guidetti. Jozabes que se incorpora"
+        ],
+        "747": [
+            2170.98,
+            2172.98,
+            "en segunda línea. Se va en velocidad"
+        ],
+        "748": [
+            2172.98,
+            2174.98,
+            "de Luka Modric. Busca en la frontal"
+        ],
+        "749": [
+            2174.98,
+            2176.98,
+            "la pelota para Yago aspas. Se ofrece"
+        ],
+        "750": [
+            2176.98,
+            2178.98,
+            "Mayo. Va a buscar el disparo. ¡Fuera!"
+        ],
+        "751": [
+            2178.98,
+            2180.98,
+            "Este sí que llevaba peligro"
+        ],
+        "752": [
+            2180.98,
+            2182.98,
+            "por parte de Yago aspas."
+        ],
+        "753": [
+            2182.98,
+            2184.98,
+            "Con la pierna izquierda, buscaba"
+        ],
+        "754": [
+            2184.98,
+            2186.98,
+            "el palo de la portería de Keylor."
+        ],
+        "755": [
+            2186.98,
+            2188.98,
+            "Saque de puerta."
+        ],
+        "756": [
+            2188.98,
+            2190.98,
+            "Intenta activar"
+        ],
+        "757": [
+            2190.98,
+            2192.98,
+            "Gidana Gosellos y también pidiendo"
+        ],
+        "758": [
+            2192.98,
+            2194.98,
+            "un poquito de pausa con el balón porque"
+        ],
+        "759": [
+            2194.98,
+            2196.98,
+            "lo está perdiendo rápido y porque el Celta está"
+        ],
+        "760": [
+            2196.98,
+            2198.98,
+            "llegando y creando ocasiones ahora sí"
+        ],
+        "761": [
+            2198.98,
+            2200.98,
+            "en estos últimos minutos. Son los mejores minutos del"
+        ],
+        "762": [
+            2200.98,
+            2202.98,
+            "Celta ahora. Está empezando a llegar más. El Madrid ha perdido"
+        ],
+        "763": [
+            2202.98,
+            2204.98,
+            "el control del partido. No lo tuvo"
+        ],
+        "764": [
+            2204.98,
+            2206.98,
+            "totalmente controlado nunca,"
+        ],
+        "765": [
+            2206.98,
+            2208.98,
+            "pero ha perdido casi todo ese control."
+        ],
+        "766": [
+            2208.98,
+            2210.98,
+            "Ya nos llega"
+        ],
+        "767": [
+            2210.98,
+            2212.98,
+            "la pelota a Karim Benzema y lo que está"
+        ],
+        "768": [
+            2212.98,
+            2214.98,
+            "en las cercanías"
+        ],
+        "769": [
+            2214.98,
+            2216.98,
+            "de Keylor Navas, pues eso implica"
+        ],
+        "770": [
+            2216.98,
+            2218.98,
+            "evidentemente que ahora mismo está viviendo"
+        ],
+        "771": [
+            2218.98,
+            2220.98,
+            "el Celta sus mejores minutos contra"
+        ],
+        "772": [
+            2220.98,
+            2222.98,
+            "los primeros 20 que vivió el Real Madrid."
+        ],
+        "773": [
+            2222.98,
+            2224.98,
+            "¡Juega la pelota el Celta!"
+        ],
+        "774": [
+            2224.98,
+            2226.98,
+            "Entrega el Kuku. Toca la pelota"
+        ],
+        "775": [
+            2226.98,
+            2228.98,
+            "para Sisto. Sisto ya en campo del Real"
+        ],
+        "776": [
+            2228.98,
+            2230.98,
+            "Madrid. Largo"
+        ],
+        "777": [
+            2230.98,
+            2232.98,
+            "envío para que corra Johnny. Le ha ganado la espalda"
+        ],
+        "778": [
+            2232.98,
+            2234.98,
+            "a Danilo. Viene al cruce."
+        ],
+        "779": [
+            2234.98,
+            2236.98,
+            "Rafael Varane intenta irse."
+        ],
+        "780": [
+            2236.98,
+            2238.98,
+            "Atención que reclama a Manu"
+        ],
+        "781": [
+            2238.98,
+            2240.98,
+            "y dice el colegiado que saque de portería."
+        ],
+        "782": [
+            2240.98,
+            2242.98,
+            "El Celta se enfada"
+        ],
+        "783": [
+            2242.98,
+            2244.98,
+            "y ya toda la"
+        ],
+        "784": [
+            2244.98,
+            2246.98,
+            "sensación de que efectivamente Rafael"
+        ],
+        "785": [
+            2246.98,
+            2248.98,
+            "Varane le pega con la mano dentro"
+        ],
+        "786": [
+            2248.98,
+            2250.98,
+            "de el área. Esa es la"
+        ],
+        "787": [
+            2250.98,
+            2252.98,
+            "sensación que ha dado en la primera toma. Vamos a ver"
+        ],
+        "788": [
+            2252.98,
+            2254.98,
+            "la jugada repetida porque"
+        ],
+        "789": [
+            2254.98,
+            2256.98,
+            "ahí está el Celta. Se ha llegado a la"
+        ],
+        "790": [
+            2256.98,
+            2258.98,
+            "cartulina amarilla y vamos a ver la jugada repetida."
+        ],
+        "791": [
+            2258.98,
+            2260.98,
+            "Yo creo que está fuera."
+        ],
+        "792": [
+            2260.98,
+            2262.98,
+            "Puede ser fuera del área, sí."
+        ],
+        "793": [
+            2262.98,
+            2264.98,
+            "Da la sensación de que es Manu."
+        ],
+        "794": [
+            2264.98,
+            2266.98,
+            "Muy complicado"
+        ],
+        "795": [
+            2266.98,
+            2268.98,
+            "decir si está dentro o fuera. A mí me da"
+        ],
+        "796": [
+            2268.98,
+            2270.98,
+            "la aire de esta toma que es un poco más clara."
+        ],
+        "797": [
+            2270.98,
+            2272.98,
+            "Es fuera del área."
+        ],
+        "798": [
+            2272.98,
+            2274.98,
+            "Yo creo que es fuera del área."
+        ],
+        "799": [
+            2274.98,
+            2276.98,
+            "El colegiado está cerca"
+        ],
+        "800": [
+            2276.98,
+            2278.98,
+            "de la jugada y no pita nada."
+        ],
+        "801": [
+            2278.98,
+            2280.98,
+            "Lo que pita además es el saque de puerta."
+        ],
+        "802": [
+            2280.98,
+            2282.98,
+            "Igual lo que entiendes que le da con la mano o que le pega a"
+        ],
+        "803": [
+            2282.98,
+            2284.98,
+            "Varane pero fuera del terreno de juego."
+        ],
+        "804": [
+            2284.98,
+            2286.98,
+            "Quiero decir porque lo que ha señalado finalmente"
+        ],
+        "805": [
+            2286.98,
+            2288.98,
+            "es saque de portería. El peor de los casos sería"
+        ],
+        "806": [
+            2288.98,
+            2290.98,
+            "a Korn. Eso está claro."
+        ],
+        "807": [
+            2290.98,
+            2292.98,
+            "Si lo que entiendes es que la mano"
+        ],
+        "808": [
+            2292.98,
+            2294.98,
+            "está fuera del terreno de juego."
+        ],
+        "809": [
+            2294.98,
+            2296.98,
+            "Piensa que está fuera del campo."
+        ],
+        "810": [
+            2296.98,
+            2298.98,
+            "O que inclusive"
+        ],
+        "811": [
+            2298.98,
+            2300.98,
+            "si está refresado, está encima"
+        ],
+        "812": [
+            2300.98,
+            2302.98,
+            "sobre la línea."
+        ],
+        "813": [
+            2302.98,
+            2304.98,
+            "Muy difícil saber"
+        ],
+        "814": [
+            2304.98,
+            2306.98,
+            "dónde está esa mano."
+        ],
+        "815": [
+            2306.98,
+            2308.98,
+            "Pero tocar la mano"
+        ],
+        "816": [
+            2308.98,
+            2310.98,
+            "es evidente que toca con el brazo"
+        ],
+        "817": [
+            2310.98,
+            2312.98,
+            "Rafael Varane además en una posición"
+        ],
+        "818": [
+            2312.98,
+            2314.98,
+            "alejada del cuerpo."
+        ],
+        "819": [
+            2314.98,
+            2316.98,
+            "Por lo tanto el colegiado"
+        ],
+        "820": [
+            2316.98,
+            2318.98,
+            "si interpretamos que ha visto"
+        ],
+        "821": [
+            2318.98,
+            2320.98,
+            "la mano, sólo puede haber"
+        ],
+        "822": [
+            2320.98,
+            2322.98,
+            "interpretado que la mano está fuera del campo"
+        ],
+        "823": [
+            2322.98,
+            2324.98,
+            "y por lo tanto"
+        ],
+        "824": [
+            2324.98,
+            2326.98,
+            "es saque de portería."
+        ],
+        "825": [
+            2326.98,
+            2328.98,
+            "Si no, habrá que entender que es que no ha visto"
+        ],
+        "826": [
+            2328.98,
+            2330.98,
+            "la mano. A todo esto Yago Aspas ha visto"
+        ],
+        "827": [
+            2330.98,
+            2332.98,
+            "la cartulina amarilla en las protestas."
+        ],
+        "828": [
+            2332.98,
+            2334.98,
+            "La pelota es para el Celta."
+        ],
+        "829": [
+            2334.98,
+            2336.98,
+            "Ahí presiona Karim Pentemán que mira un poquito"
+        ],
+        "830": [
+            2336.98,
+            2338.98,
+            "atrás a su compañero Fortuno Plisense"
+        ],
+        "831": [
+            2338.98,
+            2340.98,
+            "diciendo a ver cómo es esto."
+        ],
+        "832": [
+            2340.98,
+            2342.98,
+            "¿Me acompañáis o no? La pelota atrás"
+        ],
+        "833": [
+            2342.98,
+            2344.98,
+            "para el Celta. Juega Sergio."
+        ],
+        "834": [
+            2344.98,
+            2346.98,
+            "Entrega a la banda Jonny."
+        ],
+        "835": [
+            2346.98,
+            2348.98,
+            "Tiene por delante Asisto y por dentro"
+        ],
+        "836": [
+            2348.98,
+            2350.98,
+            "Abbas recibe nuevamente"
+        ],
+        "837": [
+            2350.98,
+            2352.98,
+            "Jonny. Ha tocado... ¿Quién?"
+        ],
+        "838": [
+            2354.98,
+            2356.98,
+            "En línea ha cambiado"
+        ],
+        "839": [
+            2356.98,
+            2358.98,
+            "la banderola de mano 3 o 4 veces."
+        ],
+        "840": [
+            2358.98,
+            2360.98,
+            "Para la derecha, para la izquierda, para la izquierda, para la derecha."
+        ],
+        "841": [
+            2360.98,
+            2362.98,
+            "Una toma más repetida."
+        ],
+        "842": [
+            2364.98,
+            2366.98,
+            "Podría querer que está fuera pero a mí me da"
+        ],
+        "843": [
+            2366.98,
+            2368.98,
+            "la impresión de que por lo menos estaría sobre la línea."
+        ],
+        "844": [
+            2368.98,
+            2370.98,
+            "Yo creo que es mano fuera de la red."
+        ],
+        "845": [
+            2370.98,
+            2372.98,
+            "La sensación."
+        ],
+        "846": [
+            2372.98,
+            2374.98,
+            "La pelota termina votando ya"
+        ],
+        "847": [
+            2374.98,
+            2376.98,
+            "dentro del área y complica más"
+        ],
+        "848": [
+            2376.98,
+            2378.98,
+            "la definición. Una jugada confusa"
+        ],
+        "849": [
+            2378.98,
+            2380.98,
+            "evidentemente. Lo que no es confuso es quien"
+        ],
+        "850": [
+            2380.98,
+            2382.98,
+            "le pegue con la mano. Juega el Real Madrid."
+        ],
+        "851": [
+            2382.98,
+            2384.98,
+            "Ahora intenta llegar Luka Modric. Ahí se va"
+        ],
+        "852": [
+            2384.98,
+            2386.98,
+            "con fuerza a Aspas para llevarse"
+        ],
+        "853": [
+            2386.98,
+            2388.98,
+            "esa pelota pero le ha robado la cartera a Toni Kroos."
+        ],
+        "854": [
+            2388.98,
+            2390.98,
+            "Atención a la contra del Madrid que son 4 para 4."
+        ],
+        "855": [
+            2390.98,
+            2392.98,
+            "Cristiano buscando a Karim Pentemán dentro del área."
+        ],
+        "856": [
+            2392.98,
+            2394.98,
+            "Sale al paso Sergio. Está en posición"
+        ],
+        "857": [
+            2394.98,
+            2396.98,
+            "incorrecta Karim Pentemán."
+        ],
+        "858": [
+            2396.98,
+            2398.98,
+            "El Celta con"
+        ],
+        "859": [
+            2398.98,
+            2400.98,
+            "prisa buscando rapidez."
+        ],
+        "860": [
+            2400.98,
+            2402.98,
+            "Estamos en el 39. Cae Aspas."
+        ],
+        "861": [
+            2402.98,
+            2404.98,
+            "Falta de Marcelo. Está entrando en juego"
+        ],
+        "862": [
+            2404.98,
+            2406.98,
+            "muchísimo más Aspas en este tramo final."
+        ],
+        "863": [
+            2406.98,
+            2408.98,
+            "El Celta lo nota mucho."
+        ],
+        "864": [
+            2408.98,
+            2410.98,
+            "Antes entraba"
+        ],
+        "865": [
+            2410.98,
+            2412.98,
+            "más en juego Sisto que Aspas. Ahora es al revés"
+        ],
+        "866": [
+            2412.98,
+            2414.98,
+            "y el Celta lógicamente mejor."
+        ],
+        "867": [
+            2414.98,
+            2416.98,
+            "No era fuera de juego."
+        ],
+        "868": [
+            2416.98,
+            2418.98,
+            "Ahí lo vemos."
+        ],
+        "869": [
+            2418.98,
+            2420.98,
+            "Efectivamente no había fuera de juego de Karim Pentemán."
+        ],
+        "870": [
+            2420.98,
+            2422.98,
+            "En la jugada muy"
+        ],
+        "871": [
+            2422.98,
+            2424.98,
+            "ajustadito pero no lo había."
+        ],
+        "872": [
+            2424.98,
+            2426.98,
+            "Ha tocado la pelota Sergio Ramos."
+        ],
+        "873": [
+            2426.98,
+            2428.98,
+            "Para que Lormaz que tiene todo el tiempo"
+        ],
+        "874": [
+            2428.98,
+            2430.98,
+            "para pensar. Juega largo arriba buscando"
+        ],
+        "875": [
+            2430.98,
+            2432.98,
+            "el círculo central a Karim Pentemán."
+        ],
+        "876": [
+            2432.98,
+            2434.98,
+            "Se eleva Daniel Vaz. Gana la pelota para el Celta."
+        ],
+        "877": [
+            2434.98,
+            2436.98,
+            "Jugado el balón para Cabral. Cabral"
+        ],
+        "878": [
+            2436.98,
+            2438.98,
+            "tiene en corto a Roncaglia por la derecha"
+        ],
+        "879": [
+            2438.98,
+            2440.98,
+            "y a Joni por la izquierda. Recibe Joni."
+        ],
+        "880": [
+            2440.98,
+            2442.98,
+            "Toca para Sisto en la divisoria."
+        ],
+        "881": [
+            2442.98,
+            2444.98,
+            "Atrás nuevamente con Sisto."
+        ],
+        "882": [
+            2444.98,
+            2446.98,
+            "Sisto sobre la posición de"
+        ],
+        "883": [
+            2446.98,
+            2448.98,
+            "Cabral. Abre Cabral. Viene"
+        ],
+        "884": [
+            2448.98,
+            2450.98,
+            "Roncaglia. Se ofrece Hugo Mayo. Por dentro"
+        ],
+        "885": [
+            2450.98,
+            2452.98,
+            "viene Vaz. Demasiado largo. Ahí no hay nadie"
+        ],
+        "886": [
+            2452.98,
+            2454.98,
+            "que pueda recibir esa pelota. Se disculpa Roncaglia."
+        ],
+        "887": [
+            2454.98,
+            2456.98,
+            "El balón es para el guardameta"
+        ],
+        "888": [
+            2456.98,
+            2458.98,
+            "Keylor Navas."
+        ],
+        "889": [
+            2460.98,
+            2462.98,
+            "Jugar nuevamente"
+        ],
+        "890": [
+            2462.98,
+            2464.98,
+            "largo porque no termina de encontrar"
+        ],
+        "891": [
+            2464.98,
+            2466.98,
+            "la manera de..."
+        ],
+        "892": [
+            2466.98,
+            2468.98,
+            "Está haciendo gestas."
+        ],
+        "893": [
+            2468.98,
+            2470.98,
+            "Si no os movéis, que alguien venga a pedirla."
+        ],
+        "894": [
+            2470.98,
+            2472.98,
+            "Pero bueno, Isco estaba muy lejos de la acción."
+        ],
+        "895": [
+            2472.98,
+            2474.98,
+            "Ha hecho como el gesto de intentar acercarse, pero ya no le ha dado tiempo."
+        ],
+        "896": [
+            2474.98,
+            2476.98,
+            "Juega Marcelo por dentro"
+        ],
+        "897": [
+            2476.98,
+            2478.98,
+            "para Karim Pentemán. Con visión entregando"
+        ],
+        "898": [
+            2478.98,
+            2480.98,
+            "la pelota para Danilo que tiene espacio para jugar."
+        ],
+        "899": [
+            2480.98,
+            2482.98,
+            "Cristiano sobre la línea. Cristiano"
+        ],
+        "900": [
+            2482.98,
+            2484.98,
+            "que devuelve para Danilo. Danilo que la"
+        ],
+        "901": [
+            2484.98,
+            2486.98,
+            "esconde. Recibe la ayuda de Luka Modric."
+        ],
+        "902": [
+            2486.98,
+            2488.98,
+            "Modric tiene también por ahí cerca a Casemiro"
+        ],
+        "903": [
+            2488.98,
+            2490.98,
+            "y también a Toni Kroos que se va a acercar."
+        ],
+        "904": [
+            2490.98,
+            2492.98,
+            "Está aproximándose al alemán. Apertura"
+        ],
+        "905": [
+            2492.98,
+            2494.98,
+            "a la banda. No es buena. Ha cortado Hugo Mayo."
+        ],
+        "906": [
+            2494.98,
+            2496.98,
+            "La tiene ya Goaspa. Juega para abajo."
+        ],
+        "907": [
+            2496.98,
+            2498.98,
+            "Vas en el costado. Hugo Mayo de primeras."
+        ],
+        "908": [
+            2498.98,
+            2500.98,
+            "Ahí se equivoca. Tenía más tiempo. Guidetti entra"
+        ],
+        "909": [
+            2500.98,
+            2502.98,
+            "desde atrás. O falta."
+        ],
+        "910": [
+            2502.98,
+            2504.98,
+            "Bueno, Guidetti"
+        ],
+        "911": [
+            2504.98,
+            2506.98,
+            "no es un fútbol que yo llamaría"
+        ],
+        "912": [
+            2506.98,
+            2508.98,
+            "sútil. No, no."
+        ],
+        "913": [
+            2510.98,
+            2512.98,
+            "Ahí va la pelota."
+        ],
+        "914": [
+            2512.98,
+            2514.98,
+            "Roncaglia delante de Isco."
+        ],
+        "915": [
+            2514.98,
+            2516.98,
+            "Jugado rápidamente"
+        ],
+        "916": [
+            2516.98,
+            2518.98,
+            "por Cabral con Roncaglia. Roncaglia"
+        ],
+        "917": [
+            2518.98,
+            2520.98,
+            "largo arriba buscando la carrera de Aspas."
+        ],
+        "918": [
+            2520.98,
+            2522.98,
+            "Guidetti que se hace con ella. Guidetti que puede jugar"
+        ],
+        "919": [
+            2522.98,
+            2524.98,
+            "para Aspas."
+        ],
+        "920": [
+            2524.98,
+            2526.98,
+            "Le ha agafado. No, el pase"
+        ],
+        "921": [
+            2526.98,
+            2528.98,
+            "no fue sutil efectivamente porque Yago"
+        ],
+        "922": [
+            2528.98,
+            2530.98,
+            "Aspas tenía bastante espacio para"
+        ],
+        "923": [
+            2530.98,
+            2532.98,
+            "jugar. Pero no estuvo fino"
+        ],
+        "924": [
+            2532.98,
+            2534.98,
+            "Guidetti en la asistencia."
+        ],
+        "925": [
+            2534.98,
+            2536.98,
+            "El Celta que vuelve"
+        ],
+        "926": [
+            2536.98,
+            2538.98,
+            "a intentarlo. Está teniendo mucho valor y con"
+        ],
+        "927": [
+            2538.98,
+            2540.98,
+            "peligro siempre. Yago Aspas busca a Guidetti."
+        ],
+        "928": [
+            2540.98,
+            2542.98,
+            "Ha tocado lo justo. Rafa el Varane. Le cae"
+        ],
+        "929": [
+            2542.98,
+            2544.98,
+            "a Marcelo. Marcelo para Toni Kroos."
+        ],
+        "930": [
+            2544.98,
+            2546.98,
+            "42 minutos. Intenta una salida."
+        ],
+        "931": [
+            2546.98,
+            2548.98,
+            "Ahí Toni Kroos para Isco."
+        ],
+        "932": [
+            2548.98,
+            2550.98,
+            "Isco para Karim Benzema."
+        ],
+        "933": [
+            2550.98,
+            2552.98,
+            "Karim Benzema dos para dos buscando a Toni Kroos."
+        ],
+        "934": [
+            2552.98,
+            2554.98,
+            "La dejada de vuelta. Al suelo"
+        ],
+        "935": [
+            2554.98,
+            2556.98,
+            "se va. Cabral y gana la"
+        ],
+        "936": [
+            2556.98,
+            2558.98,
+            "pelota al Real Madrid."
+        ],
+        "937": [
+            2558.98,
+            2560.98,
+            "Parece que Karim Benzema se ha hecho daño."
+        ],
+        "938": [
+            2560.98,
+            2562.98,
+            "Parece que Karim Benzema se ha hecho"
+        ],
+        "939": [
+            2562.98,
+            2564.98,
+            "daño en el pie. Se le ha quedado enganchado."
+        ],
+        "940": [
+            2564.98,
+            2566.98,
+            "El balón sigue en juego para"
+        ],
+        "941": [
+            2566.98,
+            2568.98,
+            "el Celta de Vigo. Se levanta Karim Benzema."
+        ],
+        "942": [
+            2568.98,
+            2570.98,
+            "No hay problema. Con la pelota, Sisto."
+        ],
+        "943": [
+            2570.98,
+            2572.98,
+            "Sisto con el balón."
+        ],
+        "944": [
+            2572.98,
+            2574.98,
+            "Garazo sobre Casemiro que le ofrece"
+        ],
+        "945": [
+            2574.98,
+            2576.98,
+            "el costado. Viene en la"
+        ],
+        "946": [
+            2576.98,
+            2578.98,
+            "banda a recibir el Tuco Hernández"
+        ],
+        "947": [
+            2578.98,
+            2580.98,
+            "en el pico del área. Va a jugar la pelota."
+        ],
+        "948": [
+            2580.98,
+            2582.98,
+            "Aspas toca atrás para Vaz."
+        ],
+        "949": [
+            2582.98,
+            2584.98,
+            "Vaz abre el balón hacia el costado"
+        ],
+        "950": [
+            2584.98,
+            2586.98,
+            "para Mayo. Hugo Mayo jugando"
+        ],
+        "951": [
+            2586.98,
+            2588.98,
+            "con a Guidetti. Guidetti"
+        ],
+        "952": [
+            2588.98,
+            2590.98,
+            "puede buscar el centro. Ahí lo va"
+        ],
+        "953": [
+            2590.98,
+            2592.98,
+            "a intentar en corto sobre Guidetti. Guidetti"
+        ],
+        "954": [
+            2592.98,
+            2594.98,
+            "busca un caño. No le sale. Ha cortado Sergio"
+        ],
+        "955": [
+            2594.98,
+            2596.98,
+            "Ramos. La tiene Isco. Juega Kroos de primera."
+        ],
+        "956": [
+            2596.98,
+            2598.98,
+            "Sergio Ramos virando al"
+        ],
+        "957": [
+            2598.98,
+            2600.98,
+            "tendido para Isco. Isco que"
+        ],
+        "958": [
+            2600.98,
+            2602.98,
+            "busca la salida de Cristiano Ronaldo."
+        ],
+        "959": [
+            2602.98,
+            2604.98,
+            "La va a enganchar sobre el terreno de juego."
+        ],
+        "960": [
+            2604.98,
+            2606.98,
+            "Juega Cristiano. Va a buscar rápido."
+        ],
+        "961": [
+            2606.98,
+            2608.98,
+            "Ha cortado la pelota Cabral. Buscaba"
+        ],
+        "962": [
+            2608.98,
+            2610.98,
+            "Karim Benzema. No le salió el paso al autor"
+        ],
+        "963": [
+            2610.98,
+            2612.98,
+            "del único tanto del partido. El balón"
+        ],
+        "964": [
+            2612.98,
+            2614.98,
+            "es para Hugo Mayo. Juega atrás."
+        ],
+        "965": [
+            2614.98,
+            2616.98,
+            "Entrega la pelota Roncaña"
+        ],
+        "966": [
+            2616.98,
+            2618.98,
+            "para Vaz. Círculo central."
+        ],
+        "967": [
+            2618.98,
+            2620.98,
+            "43 y medio de la primera"
+        ],
+        "968": [
+            2620.98,
+            2622.98,
+            "mitad. 0-1 en el marcador"
+        ],
+        "969": [
+            2622.98,
+            2624.98,
+            "con la pelota en el"
+        ],
+        "970": [
+            2624.98,
+            2626.98,
+            "Celta de Vigo. Ahí intenta irse"
+        ],
+        "971": [
+            2626.98,
+            2628.98,
+            "Dionis Sisto. Cerrando"
+        ],
+        "972": [
+            2628.98,
+            2630.98,
+            "siempre Luka Modric. Haciéndole la cobertura"
+        ],
+        "973": [
+            2630.98,
+            2632.98,
+            "a Danilo. El centro buscando arriba"
+        ],
+        "974": [
+            2632.98,
+            2634.98,
+            "Guidetti. Ventaja para Rafael Varane."
+        ],
+        "975": [
+            2634.98,
+            2636.98,
+            "Baja la pelota Kroos. La tiene Luka Modric."
+        ],
+        "976": [
+            2636.98,
+            2638.98,
+            "Ha encontrado Karim Benzema. Intenta"
+        ],
+        "977": [
+            2638.98,
+            2640.98,
+            "obstaculizarle Daniel Mas. Ahí aguanta"
+        ],
+        "978": [
+            2640.98,
+            2642.98,
+            "la pelota para el Real Madrid. Karim"
+        ],
+        "979": [
+            2642.98,
+            2644.98,
+            "Benzema buscando por dentro Isco."
+        ],
+        "980": [
+            2644.98,
+            2646.98,
+            "Recibe el pase de Luka Modric. Metió la"
+        ],
+        "981": [
+            2646.98,
+            2648.98,
+            "pierna Roncaña. Salvó los muebles"
+        ],
+        "982": [
+            2648.98,
+            2650.98,
+            "para el Celta. Había roto"
+        ],
+        "983": [
+            2650.98,
+            2652.98,
+            "la defensa del Celta de Vigo. Esa llegada"
+        ],
+        "984": [
+            2652.98,
+            2654.98,
+            "en segunda línea de..."
+        ],
+        "985": [
+            2654.98,
+            2656.98,
+            "Desde la segunda línea de"
+        ],
+        "986": [
+            2656.98,
+            2658.98,
+            "Isco."
+        ],
+        "987": [
+            2658.98,
+            2660.98,
+            "El balón para el Celta. Ahí va"
+        ],
+        "988": [
+            2660.98,
+            2662.98,
+            "Iago Aspas. Metió la"
+        ],
+        "989": [
+            2662.98,
+            2664.98,
+            "pierna Kroos. Chocado Iago"
+        ],
+        "990": [
+            2664.98,
+            2666.98,
+            "Aspas con Sergio Ramos de manera involuntaria."
+        ],
+        "991": [
+            2666.98,
+            2668.98,
+            "Se disculpa con él. La tiene el Real Madrid. Cristiano"
+        ],
+        "992": [
+            2668.98,
+            2670.98,
+            "con Toni Kroos. Kroos y Kroos pone a Benzema."
+        ],
+        "993": [
+            2670.98,
+            2672.98,
+            "Benzema la corona. ¡Ah! ¡La paró"
+        ],
+        "994": [
+            2672.98,
+            2674.98,
+            "Sergio!"
+        ],
+        "995": [
+            2674.98,
+            2676.98,
+            "El pase de Kroos es buenísimo. Sí. Magnífico. Antes"
+        ],
+        "996": [
+            2676.98,
+            2678.98,
+            "muy buen pase también de Modric a Isco"
+        ],
+        "997": [
+            2678.98,
+            2680.98,
+            "que no llegó Isco al aspe de Kroos. Sí. Me da la sensación"
+        ],
+        "998": [
+            2680.98,
+            2682.98,
+            "de que Benzema, Ricardo, no está del todo bien después"
+        ],
+        "999": [
+            2682.98,
+            2684.98,
+            "de la jugada que relatábamos antes. Del tobillo. Ahora"
+        ],
+        "1000": [
+            2684.98,
+            2686.98,
+            "se ha vuelto a quejar. Dolorido."
+        ],
+        "1001": [
+            2686.98,
+            2688.98,
+            "Cojea. No ostensiblemente, pero sí algo"
+        ],
+        "1002": [
+            2688.98,
+            2690.98,
+            "dolorido está el jugador francés del Real Madrid."
+        ],
+        "1003": [
+            2690.98,
+            2692.98,
+            "Sí. Está como trotando"
+        ],
+        "1004": [
+            2692.98,
+            2694.98,
+            "para que no se le enfríe, Michael. Pero"
+        ],
+        "1005": [
+            2694.98,
+            2696.98,
+            "esa manera de caminar"
+        ],
+        "1006": [
+            2696.98,
+            2698.98,
+            "es que se te ha doblado el tobillo y que"
+        ],
+        "1007": [
+            2698.98,
+            2700.98,
+            "no lo tienes del todo fino."
+        ]
+    }
+}

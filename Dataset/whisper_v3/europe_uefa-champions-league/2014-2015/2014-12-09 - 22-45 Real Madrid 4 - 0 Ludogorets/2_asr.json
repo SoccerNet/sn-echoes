@@ -1,0 +1,5374 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.02,
+            "el equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "1": [
+            30.0,
+            59.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "2": [
+            60.0,
+            89.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "3": [
+            90.0,
+            119.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "4": [
+            120.0,
+            149.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "5": [
+            150.0,
+            179.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "6": [
+            180.0,
+            209.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "7": [
+            210.0,
+            239.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "8": [
+            240.0,
+            269.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "9": [
+            270.0,
+            299.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "10": [
+            300.0,
+            312.02,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "11": [
+            312.02,
+            315.32,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "12": [
+            315.32,
+            321.6,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "13": [
+            321.6,
+            329.16,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "14": [
+            329.16,
+            329.9,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "15": [
+            329.9,
+            329.94,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "16": [
+            329.94,
+            329.96,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "17": [
+            329.96,
+            329.98,
+            "El equipo de la Liga Alemana, de la Bundesliga."
+        ],
+        "18": [
+            330.0,
+            330.94,
+            "Fabio Coentrao."
+        ],
+        "19": [
+            331.68,
+            333.74,
+            "Centra Coentrao. Punto de penalti."
+        ],
+        "20": [
+            334.4,
+            336.42,
+            "El remate de Arbeloa."
+        ],
+        "21": [
+            337.18,
+            338.46,
+            "Que basculó perfectamente"
+        ],
+        "22": [
+            338.46,
+            340.48,
+            "desde la banda derecha, desde su lateral"
+        ],
+        "23": [
+            340.48,
+            341.52,
+            "y remató arriba."
+        ],
+        "24": [
+            341.72,
+            343.88,
+            "Sí, llegó bien Arbeloa y llegó bien también"
+        ],
+        "25": [
+            343.88,
+            346.28,
+            "por una vez para centrar Coentrao."
+        ],
+        "26": [
+            346.64,
+            347.26,
+            "Es muy importante."
+        ],
+        "27": [
+            347.36,
+            349.7,
+            "No hay poco más Madrid que tenga las reglas que lleguen."
+        ],
+        "28": [
+            349.7,
+            351.9,
+            "El Marcelo es permanente."
+        ],
+        "29": [
+            352.84,
+            354.1,
+            "Pero Coentrao, yo me acuerdo en el Benfica."
+        ],
+        "30": [
+            354.24,
+            355.08,
+            "Hicimos partidos tuyos."
+        ],
+        "31": [
+            355.22,
+            357.4,
+            "Del que salieron todos."
+        ],
+        "32": [
+            357.62,
+            359.36,
+            "Yo recuerdo partidos en el Benfica de Coentrao"
+        ],
+        "33": [
+            359.36,
+            360.46,
+            "jugando muy al ataque."
+        ],
+        "34": [
+            360.64,
+            362.24,
+            "Incluso en algunos partidos jugando en el medio campo también."
+        ],
+        "35": [
+            362.4,
+            365.18,
+            "En inicio de su carrera jugaba en el centro campo."
+        ],
+        "36": [
+            365.28,
+            366.0,
+            "Era extremo, no lateral."
+        ],
+        "37": [
+            366.62,
+            368.72,
+            "Luego de lateral también llegaba muy bien en Portugal."
+        ],
+        "38": [
+            369.32,
+            371.26,
+            "Es un lateral que sabe llegar al ataque."
+        ],
+        "39": [
+            371.44,
+            372.8,
+            "Pues esta ha sido la primera vez en el partido"
+        ],
+        "40": [
+            372.8,
+            374.42,
+            "en que los laterales se han sumado al ataque."
+        ],
+        "41": [
+            374.56,
+            375.4,
+            "Calienta Marcelo también."
+        ],
+        "42": [
+            376.34,
+            378.22,
+            "Otro que se suma al calentamiento de la banda."
+        ],
+        "43": [
+            378.3,
+            378.92,
+            "Marcelo Vieira."
+        ],
+        "44": [
+            379.28,
+            380.24,
+            "Balón para Toni Kroos."
+        ],
+        "45": [
+            380.34,
+            381.8,
+            "Me he fijado cuando ha sacado el centro."
+        ],
+        "46": [
+            382.12,
+            383.24,
+            "Que pase para Bale."
+        ],
+        "47": [
+            383.72,
+            384.96,
+            "Tiene el tercero Bale."
+        ],
+        "48": [
+            385.52,
+            386.68,
+            "Remató muy al centro."
+        ],
+        "49": [
+            386.86,
+            387.52,
+            "Perdonó Bale."
+        ],
+        "50": [
+            387.64,
+            388.58,
+            "Detuvo Stoyanov."
+        ],
+        "51": [
+            388.78,
+            389.34,
+            "Remató al muñeco."
+        ],
+        "52": [
+            389.36,
+            390.88,
+            "Pasan bonitos."
+        ],
+        "53": [
+            392.02,
+            394.36,
+            "Isco recupera rápidamente el Madrid al centro de Isco."
+        ],
+        "54": [
+            395.88,
+            396.36,
+            "Llega Coentrao."
+        ],
+        "55": [
+            396.96,
+            397.36,
+            "Rápido Coentrao."
+        ],
+        "56": [
+            398.8,
+            399.28,
+            "¡Chicharito!"
+        ],
+        "57": [
+            400.06,
+            400.38,
+            "¡Fuera!"
+        ],
+        "58": [
+            401.16,
+            403.16,
+            "La rosca que no fue suficiente."
+        ],
+        "59": [
+            403.34,
+            404.7,
+            "Pero buena acción de Chicharito."
+        ],
+        "60": [
+            406.0,
+            407.5,
+            "Está deseando marcar un gol."
+        ],
+        "61": [
+            408.3,
+            411.54,
+            "Decía Ricardo que me he fijado cuando ha centrado Coentrao"
+        ],
+        "62": [
+            411.54,
+            412.88,
+            "en la jugada anterior al volver."
+        ],
+        "63": [
+            413.02,
+            415.76,
+            "Ha hablado algo con Ancelotti según pasaba por delante de él."
+        ],
+        "64": [
+            416.3,
+            417.56,
+            "E inmediatamente ha salido Marcelo."
+        ],
+        "65": [
+            417.56,
+            418.58,
+            "No sé si es que le ha dicho algo."
+        ],
+        "66": [
+            419.36,
+            421.72,
+            "Que le va a cambiar o que no se encuentra bien."
+        ],
+        "67": [
+            421.72,
+            421.92,
+            "Algo."
+        ],
+        "68": [
+            422.02,
+            422.92,
+            "Pero ha sido inmediato."
+        ],
+        "69": [
+            423.1,
+            425.08,
+            "Ha hablado con él y rápidamente Marcelo ha salido a calentar."
+        ],
+        "70": [
+            425.34,
+            425.52,
+            "Sí."
+        ],
+        "71": [
+            425.68,
+            428.34,
+            "Y con Paul Clement está hablando ahora probablemente de esa circunstancia."
+        ],
+        "72": [
+            428.46,
+            429.72,
+            "Está hablando ahí Carlo Ancelotti."
+        ],
+        "73": [
+            430.0,
+            432.54,
+            "Y justo, bueno, pues como decías, después de mandar calentar a Marcelo."
+        ],
+        "74": [
+            432.62,
+            435.26,
+            "Vamos a ver si es que quizá pueda tener algún pequeño problema con el entrado."
+        ],
+        "75": [
+            437.04,
+            438.94,
+            "Ahora defiende como hace Rafael Varane."
+        ],
+        "76": [
+            439.02,
+            440.12,
+            "Recuperando el balón ante Mijail."
+        ],
+        "77": [
+            440.18,
+            440.74,
+            "Alex Ambros."
+        ],
+        "78": [
+            444.1,
+            446.4,
+            "Contra que se había dado por delante al juego de línea."
+        ],
+        "79": [
+            446.4,
+            447.52,
+            "No sé si lo ha fijado."
+        ],
+        "80": [
+            447.52,
+            447.54,
+            "Disculpa."
+        ],
+        "81": [
+            447.54,
+            449.5,
+            "Contra Isco."
+        ],
+        "82": [
+            449.6,
+            450.96,
+            "Isco atrás a Toni Kroos."
+        ],
+        "83": [
+            452.38,
+            453.9,
+            "Lo siento, que Kroos se va a quedar corto."
+        ],
+        "84": [
+            455.66,
+            456.96,
+            "Tiene la cabeza de Yarramendi."
+        ],
+        "85": [
+            457.52,
+            458.3,
+            "Gareth Bale."
+        ],
+        "86": [
+            458.76,
+            459.5,
+            "No hay fuera de juego."
+        ],
+        "87": [
+            459.6,
+            460.8,
+            "No le llega el balón tampoco a Ronaldo."
+        ],
+        "88": [
+            461.42,
+            462.4,
+            "No pudo llegar Chicharito."
+        ],
+        "89": [
+            462.48,
+            463.24,
+            "Despeja Stojanov."
+        ],
+        "90": [
+            465.86,
+            467.54,
+            "A la grada saque de banda Real Madrid."
+        ],
+        "91": [
+            467.76,
+            468.56,
+            "Buscando el tercero."
+        ],
+        "92": [
+            468.62,
+            469.5,
+            "El equipo de Carlo Ancelotti."
+        ],
+        "93": [
+            471.96,
+            473.42,
+            "Su despedida de la fase de grupos."
+        ],
+        "94": [
+            475.18,
+            475.78,
+            "Abre Isco."
+        ],
+        "95": [
+            475.78,
+            477.22,
+            "Es corto."
+        ],
+        "96": [
+            477.54,
+            478.38,
+            "Muy bueno, ¿no?"
+        ],
+        "97": [
+            479.58,
+            482.5,
+            "Buena posición defensiva contrao ante la salida de Junior Caizara."
+        ],
+        "98": [
+            482.58,
+            483.5,
+            "La ventaja es para Nacho."
+        ],
+        "99": [
+            483.58,
+            484.58,
+            "Nacho que no se complica."
+        ],
+        "100": [
+            484.66,
+            486.04,
+            "Atentísimo siempre Nacho."
+        ],
+        "101": [
+            488.3,
+            490.3,
+            "Keylor Navas iniciando para Rafael Varane."
+        ],
+        "102": [
+            492.04,
+            493.04,
+            "A ser Yarramendi."
+        ],
+        "103": [
+            496.04,
+            497.34,
+            "Toni Kroos presiona a Dani Avalo."
+        ],
+        "104": [
+            501.66,
+            503.34,
+            "Momento de balón de Nacho para contrao."
+        ],
+        "105": [
+            504.3,
+            505.04,
+            "El fútbol central."
+        ],
+        "106": [
+            505.12,
+            506.2,
+            "El canterano Nacho."
+        ],
+        "107": [
+            506.7,
+            507.3,
+            "Kroos."
+        ],
+        "108": [
+            507.54,
+            508.54,
+            "Chicharito."
+        ],
+        "109": [
+            509.58,
+            510.54,
+            "Busca a Gareth Bale."
+        ],
+        "110": [
+            510.62,
+            512.0,
+            "Por delante dibujaba el desmarque ya."
+        ],
+        "111": [
+            512.08,
+            512.82,
+            "Cristiano Ronaldo."
+        ],
+        "112": [
+            513.38,
+            514.18,
+            "Deja atrás Arbeloa."
+        ],
+        "113": [
+            516.22,
+            516.62,
+            "Bale."
+        ],
+        "114": [
+            518.58,
+            522.66,
+            "No lo comenté en su momento, pero el gol de Cristiano esta temporada ha sido el quinto en Liga de Campeones."
+        ],
+        "115": [
+            523.72,
+            524.08,
+            "Isco."
+        ],
+        "116": [
+            524.34,
+            525.8,
+            "El cambio de Isco sobre la frontal."
+        ],
+        "117": [
+            526.4,
+            527.46,
+            "Fue con el pecho Chicharito."
+        ],
+        "118": [
+            527.56,
+            528.4,
+            "Quiso dejar a Cristiano."
+        ],
+        "119": [
+            528.66,
+            530.94,
+            "Sí, otra vez se desplegaba bastante bien el ataque a Arbeloa."
+        ],
+        "120": [
+            531.06,
+            532.86,
+            "Era el posible receptor de ese pase."
+        ],
+        "121": [
+            534.94,
+            537.08,
+            "Esa hora es buena, pero en el ataque."
+        ],
+        "122": [
+            537.08,
+            537.5,
+            "El gol contra el Chicharito."
+        ],
+        "123": [
+            537.7,
+            539.38,
+            "El ataque, mejor dicho, del Nudo Goretz."
+        ],
+        "124": [
+            539.88,
+            542.4,
+            "Quiso dar el envío largo a Dani Avalo buscando a Mijail Aleksandrov."
+        ],
+        "125": [
+            543.86,
+            545.52,
+            "Eso por encima de la cabeza a Toni Kroos."
+        ],
+        "126": [
+            545.7,
+            548.52,
+            "Lo dicho, quinto gol de Cristiano en la Liga de Campeones."
+        ],
+        "127": [
+            548.62,
+            550.68,
+            "El máximo goleador de momento es Luis Adriano."
+        ],
+        "128": [
+            550.78,
+            552.34,
+            "El baseño del Shakhtar Donetsk."
+        ],
+        "129": [
+            552.6,
+            553.26,
+            "Con nueve."
+        ],
+        "130": [
+            553.4,
+            554.36,
+            "Luego está Messi con siete."
+        ],
+        "131": [
+            555.62,
+            559.44,
+            "Y es que Cristiano Ronaldo hasta el tanto de hoy ni siquiera era el máximo goleador del Real Madrid en Champions."
+        ],
+        "132": [
+            559.52,
+            560.54,
+            "Era Karim Benzema con cinco."
+        ],
+        "133": [
+            560.62,
+            561.84,
+            "Ahora están los dos empatados."
+        ],
+        "134": [
+            562.82,
+            563.18,
+            "Exactamente."
+        ],
+        "135": [
+            566.62,
+            567.1,
+            "Exactamente."
+        ],
+        "136": [
+            567.1,
+            567.16,
+            "Exactamente."
+        ],
+        "137": [
+            567.16,
+            567.22,
+            "Exactamente."
+        ],
+        "138": [
+            567.22,
+            567.34,
+            "Exactamente."
+        ],
+        "139": [
+            567.5,
+            568.42,
+            "Son 17, ¿no, Ricardo?"
+        ],
+        "140": [
+            568.5,
+            569.2,
+            "Los que marcan Champions."
+        ],
+        "141": [
+            569.54,
+            569.9,
+            "Cristiano."
+        ],
+        "142": [
+            570.3,
+            570.72,
+            "Sí, exactamente."
+        ],
+        "143": [
+            571.32,
+            572.06,
+            "Ni más ni menos."
+        ],
+        "144": [
+            572.28,
+            572.8,
+            "Que se dice pronto."
+        ],
+        "145": [
+            572.88,
+            573.38,
+            "17 goles."
+        ],
+        "146": [
+            573.46,
+            574.12,
+            "Balón para Isco."
+        ],
+        "147": [
+            574.76,
+            575.7,
+            "Esta es buena para Cristiano."
+        ],
+        "148": [
+            575.78,
+            576.7,
+            "Precisamente Cristiano."
+        ],
+        "149": [
+            577.34,
+            578.18,
+            "El pasecito atrás."
+        ],
+        "150": [
+            578.3,
+            579.56,
+            "No sé si eso lo esperaba Arbeloa."
+        ],
+        "151": [
+            579.74,
+            580.44,
+            "Retrasa Arbeloa."
+        ],
+        "152": [
+            580.54,
+            581.56,
+            "Gareth Bale en la frontal."
+        ],
+        "153": [
+            582.48,
+            583.36,
+            "Centra Bale."
+        ],
+        "154": [
+            584.52,
+            586.86,
+            "Pudo rematar ni Chicharito ni pudo tampoco Cristiano."
+        ],
+        "155": [
+            588.0,
+            589.86,
+            "El esférico es para Fabio Coventrao."
+        ],
+        "156": [
+            590.46,
+            590.88,
+            "Con Isco."
+        ],
+        "157": [
+            592.44,
+            592.88,
+            "Isco."
+        ],
+        "158": [
+            593.56,
+            595.6,
+            "Esculó Bidef para despejar el lateral zurdo."
+        ],
+        "159": [
+            595.86,
+            597.42,
+            "La verdad es que el partido para el Madrid."
+        ],
+        "160": [
+            597.42,
+            598.56,
+            "Es un auténtico paseo."
+        ],
+        "161": [
+            598.82,
+            600.2,
+            "Encima el rival es muy inferior."
+        ],
+        "162": [
+            600.46,
+            601.46,
+            "Se queda con 10 tan pronto."
+        ],
+        "163": [
+            602.08,
+            603.14,
+            "Simplemente están esperando atrás."
+        ],
+        "164": [
+            603.28,
+            604.7,
+            "El Madrid está combinando bastante lento."
+        ],
+        "165": [
+            604.8,
+            605.52,
+            "Te sigue bastante lento."
+        ],
+        "166": [
+            605.6,
+            607.28,
+            "Y aún así la sensación de peligro es permanente."
+        ],
+        "167": [
+            608.6,
+            609.0,
+            "Cruz."
+        ],
+        "168": [
+            609.98,
+            610.72,
+            "Hoy ha coentrado."
+        ],
+        "169": [
+            611.14,
+            611.88,
+            "Encima el portugués."
+        ],
+        "170": [
+            612.04,
+            613.16,
+            "Se devuelve para el alemán."
+        ],
+        "171": [
+            614.38,
+            615.2,
+            "Se desapoya en Isco."
+        ],
+        "172": [
+            615.42,
+            616.78,
+            "Primera descargó Isco a Nacho."
+        ],
+        "173": [
+            616.8,
+            617.64,
+            "Nacho para Iyarra."
+        ],
+        "174": [
+            617.68,
+            617.92,
+            "Mendy."
+        ],
+        "175": [
+            620.12,
+            621.42,
+            "El pase no es bueno ahora de Iyarra."
+        ],
+        "176": [
+            621.5,
+            621.76,
+            "Mendy."
+        ],
+        "177": [
+            623.58,
+            624.3,
+            "Sale jugando."
+        ],
+        "178": [
+            625.8,
+            626.88,
+            "Espiño con ese pase."
+        ],
+        "179": [
+            627.42,
+            628.42,
+            "Espiño."
+        ],
+        "180": [
+            629.46,
+            630.32,
+            "Se ha recuperado Iyarra."
+        ],
+        "181": [
+            630.4,
+            630.62,
+            "Mendy."
+        ],
+        "182": [
+            630.98,
+            632.1,
+            "Para Mishian."
+        ],
+        "183": [
+            633.8,
+            635.24,
+            "Tocó bastante en la primera parte."
+        ],
+        "184": [
+            635.32,
+            636.02,
+            "No tanto en la segunda."
+        ],
+        "185": [
+            636.2,
+            636.58,
+            "Mishian."
+        ],
+        "186": [
+            638.7,
+            639.82,
+            "Se va a perder."
+        ],
+        "187": [
+            640.28,
+            641.9,
+            "Por el costado no puede llegar Junior."
+        ],
+        "188": [
+            642.2,
+            642.6,
+            "Caizara."
+        ],
+        "189": [
+            646.32,
+            648.14,
+            "Saque de banda para el equipo de Carvanchero."
+        ],
+        "190": [
+            648.2,
+            649.22,
+            "Del que veíamos en la banda."
+        ],
+        "191": [
+            655.68,
+            656.08,
+            "Entrao."
+        ],
+        "192": [
+            656.2,
+            656.78,
+            "Que va a sacar de banda."
+        ],
+        "193": [
+            656.78,
+            657.3,
+            "Pero que pide."
+        ],
+        "194": [
+            657.3,
+            657.8,
+            "Ayuda."
+        ],
+        "195": [
+            658.34,
+            660.18,
+            "Que alguien de su equipo se acerque a recibir."
+        ],
+        "196": [
+            662.84,
+            663.34,
+            "A Nacho."
+        ],
+        "197": [
+            666.28,
+            667.0,
+            "Iniciando Iyarra."
+        ],
+        "198": [
+            667.0,
+            667.5,
+            "Mendy."
+        ],
+        "199": [
+            670.94,
+            671.44,
+            "Ronaldo."
+        ],
+        "200": [
+            672.06,
+            673.54,
+            "Corto habilitando a Gareth Bale."
+        ],
+        "201": [
+            674.18,
+            675.14,
+            "La apertura del galés."
+        ],
+        "202": [
+            675.2,
+            676.2,
+            "Llega Álvaro Arbeloa."
+        ],
+        "203": [
+            676.2,
+            677.34,
+            "A ver el centro de Arbeloa."
+        ],
+        "204": [
+            677.34,
+            678.22,
+            "Va al segundo palo."
+        ],
+        "205": [
+            678.68,
+            679.76,
+            "Ventaja para Stojano."
+        ],
+        "206": [
+            680.76,
+            682.64,
+            "Imposible para Cristiano esa pelota de Arbeloa."
+        ],
+        "207": [
+            682.82,
+            683.32,
+            "Pero bueno."
+        ],
+        "208": [
+            683.64,
+            686.42,
+            "Estaba pensando en Cristiano que yo recuerdo algunos etapos de su carrera."
+        ],
+        "209": [
+            686.42,
+            687.26,
+            "Sobre todo en la selección portuguesa."
+        ],
+        "210": [
+            687.3,
+            688.34,
+            "En aquella Eurocopa del 2008."
+        ],
+        "211": [
+            688.34,
+            689.84,
+            "Recuerdo que acabó jugando delantero centro."
+        ],
+        "212": [
+            689.96,
+            690.82,
+            "Único delantero centro."
+        ],
+        "213": [
+            692.58,
+            695.92,
+            "Este partido está prácticamente siempre jugando arriba con Chicharito los dos."
+        ],
+        "214": [
+            697.84,
+            698.94,
+            "Muy bien Toni Cruz."
+        ],
+        "215": [
+            699.52,
+            700.64,
+            "Ese esférico para Isco."
+        ],
+        "216": [
+            702.76,
+            704.08,
+            "Isco que va conduciendo."
+        ],
+        "217": [
+            704.32,
+            705.02,
+            "Paralelo a la frontal."
+        ],
+        "218": [
+            705.6,
+            706.36,
+            "Deja a Cruz."
+        ],
+        "219": [
+            706.98,
+            708.44,
+            "Ahí pasa a la izquierda para Coentrao."
+        ],
+        "220": [
+            708.52,
+            709.62,
+            "Recibe ahí el portugués."
+        ],
+        "221": [
+            710.22,
+            711.8,
+            "Armando el centro al corazón del área."
+        ],
+        "222": [
+            711.96,
+            712.48,
+            "El remate."
+        ],
+        "223": [
+            713.14,
+            714.34,
+            "Fuego ya porque venía el balón también."
+        ],
+        "224": [
+            714.34,
+            714.82,
+            "Es difícil."
+        ],
+        "225": [
+            715.14,
+            715.58,
+            "Es muy difícil."
+        ],
+        "226": [
+            715.58,
+            717.52,
+            "Darle fuerza a esa pelota."
+        ],
+        "227": [
+            717.62,
+            718.56,
+            "Además tenía que ir hacia atrás."
+        ],
+        "228": [
+            719.54,
+            720.06,
+            "El mexicano."
+        ],
+        "229": [
+            722.96,
+            723.36,
+            "Caizara."
+        ],
+        "230": [
+            725.38,
+            726.82,
+            "Mi amigo como que me comentan."
+        ],
+        "231": [
+            727.82,
+            728.18,
+            "El vestuario."
+        ],
+        "232": [
+            728.52,
+            729.3,
+            "Se lleva bien con todos."
+        ],
+        "233": [
+            729.42,
+            730.86,
+            "Porque me dicen que es un tipo muy..."
+        ],
+        "234": [
+            730.86,
+            731.32,
+            "Chicharito."
+        ],
+        "235": [
+            731.46,
+            732.6,
+            "Muy educado y muy simpático."
+        ],
+        "236": [
+            732.74,
+            734.8,
+            "Pero se lleva muy bien con Don James y con Keno Mavas."
+        ],
+        "237": [
+            736.84,
+            737.24,
+            "Especialmente..."
+        ],
+        "238": [
+            737.24,
+            738.96,
+            "La llamaría Carla Angelati de perdón."
+        ],
+        "239": [
+            739.02,
+            739.88,
+            "Asisto a Marcelo."
+        ],
+        "240": [
+            739.92,
+            740.46,
+            "También a Gesé."
+        ],
+        "241": [
+            740.52,
+            741.72,
+            "Va a mover del banquillo también."
+        ],
+        "242": [
+            741.72,
+            743.62,
+            "Se prepara Van Der Soe para entrar."
+        ],
+        "243": [
+            744.76,
+            745.32,
+            "El remate."
+        ],
+        "244": [
+            745.58,
+            745.94,
+            "¡Eh!"
+        ],
+        "245": [
+            745.94,
+            748.96,
+            "Gran mano a córner de Keylor Navas."
+        ],
+        "246": [
+            749.14,
+            751.26,
+            "Navas a todo esto lleva dos o tres paradas."
+        ],
+        "247": [
+            751.5,
+            753.76,
+            "Es decir, lo poquito que ha llegado en Ludogores."
+        ],
+        "248": [
+            753.98,
+            754.58,
+            "Navas está fantástico."
+        ],
+        "249": [
+            755.14,
+            757.08,
+            "Disparo durísimo y muy bueno también de Diakoff."
+        ],
+        "250": [
+            757.22,
+            757.5,
+            "Ahí se ve."
+        ],
+        "251": [
+            757.74,
+            758.14,
+            "Es que pega."
+        ],
+        "252": [
+            758.22,
+            759.92,
+            "Pega en un defensor del Madrid."
+        ],
+        "253": [
+            760.0,
+            761.38,
+            "Pero no se deja sorprender Keylor Navas."
+        ],
+        "254": [
+            763.34,
+            765.72,
+            "Como reacciona el tico costarricense."
+        ],
+        "255": [
+            766.3,
+            766.74,
+            "Pegó en Isco."
+        ],
+        "256": [
+            767.24,
+            770.74,
+            "Intentó despejar y pegó en la pierna de Isco el disparo de Diakoff."
+        ],
+        "257": [
+            773.96,
+            774.4,
+            "Cerrado."
+        ],
+        "258": [
+            774.4,
+            775.48,
+            "Cerrado que se va."
+        ],
+        "259": [
+            775.66,
+            776.06,
+            "¡Bien hecho!"
+        ],
+        "260": [
+            776.3,
+            777.02,
+            "¡Ac Roger!"
+        ],
+        "261": [
+            777.12,
+            777.54,
+            "¡Que sea esto!"
+        ],
+        "262": [
+            777.74,
+            778.38,
+            "¡ presente."
+        ],
+        "263": [
+            778.58,
+            779.66,
+            "A ver si tiene 2 paradas."
+        ],
+        "264": [
+            779.66,
+            780.06,
+            "¿V jetsy?"
+        ],
+        "265": [
+            780.06,
+            780.34,
+            "A Einsberg."
+        ],
+        "266": [
+            780.34,
+            780.78,
+            "¡Los piureros!"
+        ],
+        "267": [
+            780.86,
+            781.48,
+            "¡Bien hecho!"
+        ],
+        "268": [
+            781.5,
+            781.86,
+            "¡Falten esto!"
+        ],
+        "269": [
+            781.9,
+            782.56,
+            "Sí."
+        ],
+        "270": [
+            782.56,
+            783.46,
+            "¡Con血!"
+        ],
+        "271": [
+            785.92,
+            786.5,
+            "Fe Industries That узan lessly."
+        ],
+        "272": [
+            786.5,
+            787.88,
+            "De 못 notar el estado de sano un tiempo yiber handball."
+        ],
+        "273": [
+            787.92,
+            790.04,
+            "No hay problema en el sector Prof nướcлег."
+        ],
+        "274": [
+            790.04,
+            790.34,
+            "¿Qué catastrophicán siguen?"
+        ],
+        "275": [
+            790.68,
+            791.64,
+            "SeguGR a las enclosure al fútbol."
+        ],
+        "276": [
+            791.68,
+            791.94,
+            "Car."
+        ],
+        "277": [
+            791.94,
+            793.04,
+            "¿ucsatOohooنna vcá a deltoD íbéjenyex youtube.com"
+        ],
+        "278": [
+            793.04,
+            793.98,
+            "Qué bye CrispNodo-Gmpa deceick-te a CB?"
+        ],
+        "279": [
+            794.2,
+            795.6,
+            "¿c drove you to live in TI Battle하다?"
+        ],
+        "280": [
+            795.6,
+            800.1,
+            "Sí y aalto"
+        ],
+        "281": [
+            800.12,
+            801.28,
+            "ridic phi r."
+        ],
+        "282": [
+            801.28,
+            806.14,
+            "dentro de los años que así ya sea el jugador en la historia que más partidos a juego de champions"
+        ],
+        "283": [
+            806.14,
+            810.88,
+            "bueno en este caso priman los minutos para el suplente que lo grabas que no fue que no"
+        ],
+        "284": [
+            810.88,
+            816.88,
+            "jugó ante el correa porque ese partido juego pacheco entre portero son maneras de ver las cosas"
+        ],
+        "285": [
+            820.96,
+            823.96,
+            "pierde esperando un turno marcelo"
+        ],
+        "286": [
+            823.96,
+            829.74,
+            "el partido en él"
+        ],
+        "287": [
+            836.08,
+            839.34,
+            "qué rápido es impresionante la velocidad que tiene el corto"
+        ],
+        "288": [
+            841.02,
+            844.8,
+            "en uno contra uno muy difícil ganar la casa coloca muy bien la sacada que tiene"
+        ],
+        "289": [
+            846.68,
+            851.08,
+            "bueno contra que yo creo de verdad ricardo que tiene un problema si sí porque es como"
+        ],
+        "290": [
+            851.08,
+            853.72,
+            "bien has dicho cuando se acercaba a hablar con"
+        ],
+        "291": [
+            853.96,
+            857.84,
+            "carlos ancherotti los de la banda estaba conversando con marcelo diciendo no nos"
+        ],
+        "292": [
+            857.84,
+            861.94,
+            "iba a centrar seguro porque tiene que tener algún problema físico del portugués en marcha"
+        ],
+        "293": [
+            861.94,
+            868.06,
+            "con los médicos ahora del real madrid centra marcelo en su lugar y vamos a ver porque también"
+        ],
+        "294": [
+            868.06,
+            872.2,
+            "está preparado que se está por clement está carlos cheroke y donde sí tony cross y se"
+        ],
+        "295": [
+            872.2,
+            876.32,
+            "estaba desprendiendo el árbitro sin tony cross es el jugador que va a tener el juego y estaba"
+        ],
+        "296": [
+            876.32,
+            879.54,
+            "por que me estaba con ancherotti bueno pues hablando con el resto de compañeros a ver cómo"
+        ],
+        "297": [
+            879.54,
+            883.94,
+            "se va a reorganizar el equipo con la entrada del jugador canario pues con disco de la mano"
+        ],
+        "298": [
+            883.96,
+            886.96,
+            "y ya realmente en el centro del campo lo que decíamos"
+        ],
+        "299": [
+            888.58,
+            893.56,
+            "su posición directamente a la derecha y vamos a ver cómo queda el dibujo del real"
+        ],
+        "300": [
+            893.56,
+            897.22,
+            "más visto a partir de ahora con gs el canario sobre tener un juego se ha llevado una ovación"
+        ],
+        "301": [
+            897.22,
+            901.48,
+            "ya reapareció el otro día con un gol bueno pues vuelve a tener ya disfrutar hoy minutos"
+        ],
+        "302": [
+            901.48,
+            905.2,
+            "y está también el cambio el primero en las filas del conjunto búlgaro se marcha alexandrov"
+        ],
+        "303": [
+            905.2,
+            912.02,
+            "vanterson mucho vanterson aunque tiene bastante gol creo que el madrid va a quedar prácticamente"
+        ],
+        "304": [
+            912.02,
+            913.5,
+            "con un 424 esquema que"
+        ],
+        "305": [
+            913.96,
+            939.52,
+            "esperamos esto"
+        ],
+        "306": [
+            939.52,
+            942.66,
+            "natural"
+        ],
+        "307": [
+            942.66,
+            947.84,
+            "larga gareth bale si no es cambiado en la sustitución"
+        ],
+        "308": [
+            947.84,
+            952.8,
+            "ya tú y yo que lo vimos casi todos los partidos de temporada"
+        ],
+        "309": [
+            955.14,
+            959.6,
+            "que no ha salido no ha salido lo evita ese primera acción de gesé en el partido"
+        ],
+        "310": [
+            959.6,
+            965.76,
+            "gesé su segundo encuentro atrás su reaparición que como digo fue hace una"
+        ],
+        "311": [
+            965.76,
+            970.76,
+            "semana ante el cornella y marcó un gol en el tiempo que estuvo ocho meses"
+        ],
+        "312": [
+            970.76,
+            974.0,
+            "largos ha estado de baja tras esa lesión que sufrió en este estadio en"
+        ],
+        "313": [
+            974.0,
+            978.86,
+            "partido ante el shalke 04 por esa entrada sin mala voluntad evidentemente"
+        ],
+        "314": [
+            978.86,
+            982.2,
+            "pero si por esto que se temeraria de colas y nash junto muy fuerte con la"
+        ],
+        "315": [
+            982.2,
+            985.16,
+            "ciencia en aquel partido que recuerde el"
+        ],
+        "316": [
+            985.16,
+            987.92,
+            "trascendente por el trascendente de octavos de final pero el madrid ha ganado"
+        ],
+        "317": [
+            987.92,
+            991.34,
+            "61 en la ida o sea un partido que no y en la ida siendo el mejor reportero del"
+        ],
+        "318": [
+            991.34,
+            995.96,
+            "salque estaba más que resuelto"
+        ],
+        "319": [
+            995.96,
+            999.12,
+            "en la última temporada de gareth bale en el tottenham"
+        ],
+        "320": [
+            999.12,
+            1000.12,
+            "en la izquierda pero jugaba donde quería"
+        ],
+        "321": [
+            1000.76,
+            1004.44,
+            "jugaba por dentro y cuando se iba se iba la derecha no quería se va a la derecha"
+        ],
+        "322": [
+            1004.44,
+            1007.0,
+            "hacia lo que quería"
+        ],
+        "323": [
+            1008.2,
+            1011.64,
+            "en su banda natural en la izquierda"
+        ],
+        "324": [
+            1011.64,
+            1015.7,
+            "está marcelo línea de fondo marcelo atrás"
+        ],
+        "325": [
+            1015.7,
+            1021.06,
+            "el pase cristiano más bien estaba más cerca poner los problemas para el"
+        ],
+        "326": [
+            1021.06,
+            1024.8,
+            "lateral para que se van a ser tremendos porque marcelo ya hemos visto dos"
+        ],
+        "327": [
+            1024.8,
+            1029.7,
+            "jugadas tiene a bale en la banda de marcelo y bale y lo que tú decías a ver"
+        ],
+        "328": [
+            1029.7,
+            1030.08,
+            "otro cambio"
+        ],
+        "329": [
+            1030.76,
+            1043.92,
+            "el partido de ida también salió en la segunda parte de los minutos y en anfield"
+        ],
+        "330": [
+            1043.92,
+            1047.38,
+            "el primer partido de la champions que perdió 21 en el último instante el"
+        ],
+        "331": [
+            1047.38,
+            1050.14,
+            "ludo goles fue titular"
+        ],
+        "332": [
+            1050.14,
+            1057.06,
+            "pero decía la tendencia y decías esto con el tema de bale digamos su evolución"
+        ],
+        "333": [
+            1057.06,
+            1059.72,
+            "el primero lateral"
+        ],
+        "334": [
+            1060.76,
+            1064.64,
+            "que se va a terminar en balón recuperado para esto ya primero lateral luego pasa a"
+        ],
+        "335": [
+            1064.64,
+            1068.08,
+            "extremo porque él lo pide de hecho no quiere ni llevar el 3 del tottenham pasa"
+        ],
+        "336": [
+            1068.08,
+            1071.28,
+            "extremo luego pasa a jugar en la media punta y luego ya en el tramo final muy"
+        ],
+        "337": [
+            1071.28,
+            1074.72,
+            "final algún partido en la derecha pero realmente nunca ha terminado de"
+        ],
+        "338": [
+            1074.72,
+            1077.26,
+            "consolidarse ahí salvo cuando llega al madrid que se está jugando por la"
+        ],
+        "339": [
+            1077.26,
+            1081.52,
+            "necesidad del guión no porque por no cambiar de posición a cristiano"
+        ],
+        "340": [
+            1081.52,
+            1085.06,
+            "yo he escuchado decir a lotis más de una vez en el año y pico que llevan a la"
+        ],
+        "341": [
+            1085.06,
+            1088.88,
+            "madrid que gareth bale está contento y que quiere jugar en la banda derecha y"
+        ],
+        "342": [
+            1088.88,
+            1092.24,
+            "el año pasado repetir una vez cada vez se preguntaba por la posición de gareth"
+        ],
+        "343": [
+            1092.24,
+            1095.12,
+            "bale y alguna posibilidad de que juego él va a jugar por la derecha esa"
+        ],
+        "344": [
+            1095.12,
+            1097.88,
+            "suposición y ahí es donde va a jugar él está cómodo y bajo de la derecha"
+        ],
+        "345": [
+            1097.88,
+            1101.5,
+            "exactamente por el centro juega cristiano para bale"
+        ],
+        "346": [
+            1101.5,
+            1106.6,
+            "precisamente bale se la quiere devolver bueno el pase de gareth bale"
+        ],
+        "347": [
+            1106.6,
+            1112.02,
+            "y bueno todos se mantienen ese 20 por favor del real madrid el cierre del"
+        ],
+        "348": [
+            1112.02,
+            1114.88,
+            "grupo que un poquito frío el partido cristiano"
+        ],
+        "349": [
+            1114.88,
+            1118.88,
+            "con 10 con el tema del récord y tal"
+        ],
+        "350": [
+            1118.88,
+            1128.38,
+            "bastante menos de lo que se le esperaba por ahora"
+        ],
+        "351": [
+            1128.38,
+            1132.72,
+            "el descuento le queda una media hora el partido"
+        ],
+        "352": [
+            1132.88,
+            1137.56,
+            "cuando está jugando él ludo gorex"
+        ],
+        "353": [
+            1137.56,
+            1140.4,
+            "vanderson"
+        ],
+        "354": [
+            1141.2,
+            1143.68,
+            "ya"
+        ],
+        "355": [
+            1144.38,
+            1147.38,
+            "i"
+        ],
+        "356": [
+            1148.88,
+            1151.64,
+            "Sera"
+        ],
+        "357": [
+            1155.54,
+            1162.16,
+            "no le concede y le cerró bien y ya rama"
+        ],
+        "358": [
+            1162.16,
+            1166.72,
+            "de marcelo brasileño contra brasileño"
+        ],
+        "359": [
+            1174.88,
+            1178.88,
+            "tendrá otro brazo real madrid con el fichaje que está al caer"
+        ],
+        "360": [
+            1178.88,
+            1183.54,
+            "de lucas silva el jefe del centro del campo del crucero"
+        ],
+        "361": [
+            1183.54,
+            1187.54,
+            "de cambio del brasilero al que marcelo olivera el técnico del crucero es el que"
+        ],
+        "362": [
+            1187.54,
+            1190.9,
+            "le ha puesto más atrás porque es un juego con bastante capacidad creativa"
+        ],
+        "363": [
+            1190.9,
+            1194.92,
+            "pero está jugando de medio defensivo entre comillas porque es un jugador"
+        ],
+        "364": [
+            1194.92,
+            1198.68,
+            "esto creativo pero está jugando bastante con una salida de valor si ahora se le"
+        ],
+        "365": [
+            1198.68,
+            1201.2,
+            "apunta es planteamiento de balón en largo también no es un juego que tenga"
+        ],
+        "366": [
+            1201.2,
+            1205.44,
+            "mucho gol aunque él dice que le encanta tirar las faltas pero no tiene ninguna"
+        ],
+        "367": [
+            1205.44,
+            1209.32,
+            "en el crucero no le dejan pero pero bueno es fuerte de muy por hacer pero"
+        ],
+        "368": [
+            1209.32,
+            1214.86,
+            "21 años es una especie de recambio por si el madrid tiene un cúmulo de desgracias"
+        ],
+        "369": [
+            1214.86,
+            1220.9,
+            "en lesiones para blindarse ante eso"
+        ],
+        "370": [
+            1221.62,
+            1226.56,
+            "para rafael varane abre el francés"
+        ],
+        "371": [
+            1226.56,
+            1233.24,
+            "que se arregle el canario que se quiere desbordar que se que por la jugada"
+        ],
+        "372": [
+            1233.24,
+            1235.24,
+            "con fuerza gesé"
+        ],
+        "373": [
+            1235.44,
+            1240.2,
+            "el saque de esquina"
+        ],
+        "374": [
+            1240.2,
+            1243.68,
+            "canario al que va metiendo poco a poco evidentemente carlos angelotti después"
+        ],
+        "375": [
+            1243.68,
+            1247.9,
+            "de más de ocho meses ocho meses largos en el dique seco ha sido cross así que ya"
+        ],
+        "376": [
+            1247.9,
+            1252.72,
+            "la pesadilla de los córneres también puede ser importante pero"
+        ],
+        "377": [
+            1252.72,
+            1259.88,
+            "el aréntico especialista poner el maíz con el río de isco"
+        ],
+        "378": [
+            1260.54,
+            1265.12,
+            "mejor también es con otras villarramendi nacho"
+        ],
+        "379": [
+            1265.44,
+            1266.48,
+            "rodríguez"
+        ],
+        "380": [
+            1266.48,
+            1269.08,
+            "no des퍼답io"
+        ],
+        "381": [
+            1269.08,
+            1270.74,
+            "se Hemol"
+        ],
+        "382": [
+            1270.74,
+            1274.32,
+            "jugando jugado"
+        ],
+        "383": [
+            1274.32,
+            1277.26,
+            "le complementa"
+        ],
+        "384": [
+            1277.26,
+            1280.5,
+            "aчик"
+        ],
+        "385": [
+            1280.5,
+            1282.3,
+            "llorando"
+        ],
+        "386": [
+            1282.3,
+            1284.22,
+            "le cuenca"
+        ],
+        "387": [
+            1284.22,
+            1288.42,
+            "cuando le llaman a fila carlo angelotti"
+        ],
+        "388": [
+            1288.42,
+            1290.96,
+            "por eso segue siendo siempre atento"
+        ],
+        "389": [
+            1290.96,
+            1293.1,
+            "de lateral o de central de lo que sea"
+        ],
+        "390": [
+            1293.1,
+            1294.28,
+            "la redatta"
+        ],
+        "391": [
+            1294.28,
+            1295.28,
+            "celar"
+        ],
+        "392": [
+            1295.28,
+            1297.04,
+            "de lateral izquierdo y de lateral derecho."
+        ],
+        "393": [
+            1297.32,
+            1299.1,
+            "Se ha jugado en todas las posiciones en defensa."
+        ],
+        "394": [
+            1299.46,
+            1301.66,
+            "Es un comodín de la defensa extraordinario, Nacho."
+        ],
+        "395": [
+            1302.48,
+            1303.84,
+            "Ricardo, es Medrano el que está calentando"
+        ],
+        "396": [
+            1303.84,
+            1305.54,
+            "del Madrid, ¿no? Porque de aquí arriba..."
+        ],
+        "397": [
+            1305.54,
+            1307.62,
+            "Sí, es Álvaro Medrano. Le tengo lejos,"
+        ],
+        "398": [
+            1307.7,
+            1309.02,
+            "no veo muy bien, pero sí es Álvaro Medrano."
+        ],
+        "399": [
+            1310.36,
+            1312.08,
+            "Apetece ver un ratito a Medrano hoy."
+        ],
+        "400": [
+            1312.42,
+            1313.96,
+            "En la primera parte del partido"
+        ],
+        "401": [
+            1313.96,
+            1315.66,
+            "ante el Corne ya se entendió"
+        ],
+        "402": [
+            1315.66,
+            1317.64,
+            "a las mil maravillas con otro andaluz,"
+        ],
+        "403": [
+            1317.74,
+            1319.34,
+            "con Isco. Combinaron muchísimo."
+        ],
+        "404": [
+            1319.8,
+            1321.76,
+            "Vamos a ver Isco, precisamente recupera Isco en la frontal."
+        ],
+        "405": [
+            1322.64,
+            1323.84,
+            "Deja atrás a Chicharito."
+        ],
+        "406": [
+            1323.84,
+            1325.08,
+            "¡Oh! A córner"
+        ],
+        "407": [
+            1325.08,
+            1325.82,
+            "esto ya no."
+        ],
+        "408": [
+            1327.42,
+            1328.82,
+            "Marcará y Chicharito dispara bien,"
+        ],
+        "409": [
+            1328.94,
+            1330.58,
+            "pero cubre bien. Lo que pasa es que está"
+        ],
+        "410": [
+            1330.58,
+            1332.86,
+            "bien tapado y no tiene tampoco tanto ángulo"
+        ],
+        "411": [
+            1332.86,
+            1334.28,
+            "ahí en el balón que le caía muy encima."
+        ],
+        "412": [
+            1338.78,
+            1340.86,
+            "El disparo del mexicano, la intervención del metamúlgaro."
+        ],
+        "413": [
+            1342.36,
+            1343.36,
+            "Larislav Estoyano,"
+        ],
+        "414": [
+            1343.36,
+            1344.74,
+            "saque de esquina que va a botar de nuevo"
+        ],
+        "415": [
+            1344.74,
+            1347.32,
+            "Isco, pero ahora a la derecha."
+        ],
+        "416": [
+            1348.3,
+            1349.22,
+            "Otro perfil."
+        ],
+        "417": [
+            1349.38,
+            1351.14,
+            "Ahí va el envío del malagueño."
+        ],
+        "418": [
+            1352.38,
+            1353.06,
+            "Y el marco viene"
+        ],
+        "419": [
+            1353.06,
+            1353.82,
+            "pelando en los cuales"
+        ],
+        "420": [
+            1353.82,
+            1355.0,
+            "el Real Madrid parte del público."
+        ],
+        "421": [
+            1356.34,
+            1357.38,
+            "Hay error ahí de Misi Jan."
+        ],
+        "422": [
+            1357.92,
+            1359.34,
+            "Le da el balón a un rival, a Gese."
+        ],
+        "423": [
+            1360.8,
+            1361.98,
+            "Un cruzado de Gese."
+        ],
+        "424": [
+            1362.12,
+            1363.46,
+            "Gese para Isco. Interior."
+        ],
+        "425": [
+            1363.68,
+            1365.2,
+            "No hay fuera de juego. Gareth Bale."
+        ],
+        "426": [
+            1365.78,
+            1366.72,
+            "De nuevo a córner."
+        ],
+        "427": [
+            1369.18,
+            1369.86,
+            "Lo saque de esquina"
+        ],
+        "428": [
+            1369.86,
+            1370.78,
+            "para el Real Madrid."
+        ],
+        "429": [
+            1370.78,
+            1371.4,
+            "A ver."
+        ],
+        "430": [
+            1373.48,
+            1374.42,
+            "¿Dónde está Daniel Baló?"
+        ],
+        "431": [
+            1375.24,
+            1376.4,
+            "Pues la verdad es que"
+        ],
+        "432": [
+            1376.4,
+            1377.38,
+            "mete los brazos ahí."
+        ],
+        "433": [
+            1378.92,
+            1380.24,
+            "Se puede pitar el canal, tiene esa jugada."
+        ],
+        "434": [
+            1382.24,
+            1383.22,
+            "Un precio así."
+        ],
+        "435": [
+            1383.82,
+            1385.82,
+            "El árbitro francés."
+        ],
+        "436": [
+            1385.82,
+            1391.08,
+            "Vamos a ver la contra del Ludo Goretz."
+        ],
+        "437": [
+            1391.16,
+            1392.08,
+            "Por la derecha hay un pase claro."
+        ],
+        "438": [
+            1392.48,
+            1393.0,
+            "No lo vio."
+        ],
+        "439": [
+            1393.66,
+            1395.0,
+            "No pudo controlar ese balón."
+        ],
+        "440": [
+            1395.78,
+            1396.32,
+            "Buena posición."
+        ],
+        "441": [
+            1396.44,
+            1398.04,
+            "Van Der Son está esperando la derecha de Ising Jan."
+        ],
+        "442": [
+            1400.4,
+            1401.18,
+            "Van Der Son."
+        ],
+        "443": [
+            1401.88,
+            1402.36,
+            "Adentro."
+        ],
+        "444": [
+            1402.98,
+            1404.0,
+            "Jordan Minef."
+        ],
+        "445": [
+            1404.12,
+            1405.38,
+            "La evolución de Minef."
+        ],
+        "446": [
+            1405.5,
+            1406.9,
+            "Buena la acción del Ludo Goretz"
+        ],
+        "447": [
+            1406.9,
+            1408.28,
+            "que puede marcar, pero se cruzó aquí."
+        ],
+        "448": [
+            1408.36,
+            1408.7,
+            "¡Nacho!"
+        ],
+        "449": [
+            1409.42,
+            1410.68,
+            "Estuvo perfecto ahí Nacho."
+        ],
+        "450": [
+            1412.82,
+            1413.8,
+            "Quitando el 2-1."
+        ],
+        "451": [
+            1413.82,
+            1416.24,
+            "La jugada era clara para el equipo de Rasgrat."
+        ],
+        "452": [
+            1419.48,
+            1421.02,
+            "Saca el Madrid para Gareth Bale."
+        ],
+        "453": [
+            1422.2,
+            1423.46,
+            "Adelante Chicharito."
+        ],
+        "454": [
+            1424.92,
+            1425.72,
+            "Hacía el desmarque,"
+        ],
+        "455": [
+            1425.84,
+            1426.96,
+            "pero continuó Gareth Bale."
+        ],
+        "456": [
+            1429.34,
+            1430.46,
+            "Presiona el galés."
+        ],
+        "457": [
+            1437.92,
+            1439.38,
+            "Ha marcado un gol hoy."
+        ],
+        "458": [
+            1440.54,
+            1441.22,
+            "Tal vez marque otro."
+        ],
+        "459": [
+            1441.22,
+            1442.3,
+            "Hablo de Gareth Bale."
+        ],
+        "460": [
+            1442.7,
+            1443.4,
+            "La calidad que tiene,"
+        ],
+        "461": [
+            1443.4,
+            1444.4,
+            "la velocidad."
+        ],
+        "462": [
+            1444.4,
+            1446.9,
+            "Esta temporada yo no la acabo de ver fina yo a Gareth Bale."
+        ],
+        "463": [
+            1450.46,
+            1451.78,
+            "A mí es que me gusta más en la izquierda."
+        ],
+        "464": [
+            1451.78,
+            1453.9,
+            "Yo creo que yo sigo pensando realmente que Bale,"
+        ],
+        "465": [
+            1453.9,
+            1455.54,
+            "por supuesto, había pasado Marco muchos goles,"
+        ],
+        "466": [
+            1455.54,
+            1456.46,
+            "ha ido a bastantes pases del gol."
+        ],
+        "467": [
+            1456.46,
+            1457.98,
+            "Marco goles decisivos en la final de Copa,"
+        ],
+        "468": [
+            1457.98,
+            1459.98,
+            "que por cierto fue desde la izquierda aquel gol,"
+        ],
+        "469": [
+            1460.98,
+            1462.42,
+            "en la final de la Champions, etcétera."
+        ],
+        "470": [
+            1462.42,
+            1465.58,
+            "Pero yo creo que en la izquierda es un futbolista tremendo"
+        ],
+        "471": [
+            1465.58,
+            1467.88,
+            "y en la derecha hace daño, pues muy bueno,"
+        ],
+        "472": [
+            1467.88,
+            1469.96,
+            "pero creo que no es su mejor posición."
+        ],
+        "473": [
+            1470.26,
+            1471.02,
+            "Yo creo, la verdad."
+        ],
+        "474": [
+            1471.78,
+            1472.74,
+            "Aunque puede jugar bien ahí,"
+        ],
+        "475": [
+            1472.74,
+            1473.24,
+            "¿eh?"
+        ],
+        "476": [
+            1473.24,
+            1475.24,
+            "Pero a mí me parece que la izquierda es donde él..."
+        ],
+        "477": [
+            1475.24,
+            1477.24,
+            "Él es definitivamente devastador."
+        ],
+        "478": [
+            1477.24,
+            1479.24,
+            "Él se hizo grande en el Tottenham en la izquierda."
+        ],
+        "479": [
+            1483.24,
+            1485.24,
+            "Para lo que es él."
+        ],
+        "480": [
+            1485.24,
+            1486.24,
+            "Aunque es él, claro,"
+        ],
+        "481": [
+            1486.24,
+            1488.24,
+            "pero la calidad que tiene, la velocidad y el talento,"
+        ],
+        "482": [
+            1489.24,
+            1491.24,
+            "pues sigue rindiendo más o menos bien."
+        ],
+        "483": [
+            1491.24,
+            1494.24,
+            "Pero creo que está lejos de su mejor forma, Gareth Bale."
+        ],
+        "484": [
+            1494.74,
+            1496.24,
+            "De su mejor rendimiento."
+        ],
+        "485": [
+            1496.74,
+            1498.24,
+            "Estuvo un tiempo lesionado ese mes,"
+        ],
+        "486": [
+            1498.24,
+            1500.24,
+            "además en el que brillaba tanto Isco."
+        ],
+        "487": [
+            1500.24,
+            1503.24,
+            "Y desde que ha regresado, bueno, pues quizás no está brillando tanto."
+        ],
+        "488": [
+            1503.24,
+            1504.74,
+            "Desde luego como la temporada pasada."
+        ],
+        "489": [
+            1505.24,
+            1506.24,
+            "Cierto es."
+        ],
+        "490": [
+            1508.24,
+            1511.24,
+            "Veinte minutos le quedan al partido todavía en el Estadio Santiago Bernabéu,"
+        ],
+        "491": [
+            1511.24,
+            1513.24,
+            "con la victoria 2-0 para el Real Madrid."
+        ],
+        "492": [
+            1513.24,
+            1516.24,
+            "Y Sinian dentro del área, intentando desbordar a Arbeloa, no lo consigue."
+        ],
+        "493": [
+            1516.24,
+            1519.24,
+            "Y atento está Varane, que deja para su guardameta Keylor Navas."
+        ],
+        "494": [
+            1521.24,
+            1523.24,
+            "Echa alrededor el balón para Gareth Bale."
+        ],
+        "495": [
+            1523.74,
+            1526.24,
+            "Está acompañando Marcelo, ahí recibe el brasileño."
+        ],
+        "496": [
+            1526.74,
+            1528.24,
+            "Abre este a Ronaldo, Ronaldo atrás."
+        ],
+        "497": [
+            1528.24,
+            1529.24,
+            "El balón salió, salió."
+        ],
+        "498": [
+            1529.24,
+            1530.24,
+            "Saca y levanta."
+        ],
+        "499": [
+            1530.24,
+            1532.24,
+            "Pase muy fuerte de Marcelo a Cristiano Ronaldo."
+        ],
+        "500": [
+            1533.24,
+            1534.24,
+            "Tiene Tachacuco."
+        ],
+        "501": [
+            1540.24,
+            1542.24,
+            "Saque de lateral para el Ludo Goretz."
+        ],
+        "502": [
+            1546.24,
+            1547.74,
+            "Queda de efectuar el último cambio."
+        ],
+        "503": [
+            1547.74,
+            1550.24,
+            "Se va marchar visitante del terrero de juego."
+        ],
+        "504": [
+            1550.24,
+            1552.24,
+            "Y va a entrar en su lugar."
+        ],
+        "505": [
+            1553.24,
+            1554.24,
+            "Echar una mano con el dorsal creo que es..."
+        ],
+        "506": [
+            1554.24,
+            1555.24,
+            "El once, el once, sí."
+        ],
+        "507": [
+            1555.24,
+            1556.24,
+            "Bueno, pues ahí está, Junior Quixada."
+        ],
+        "508": [
+            1558.24,
+            1559.74,
+            "Juan que está jugando bastante poco este año."
+        ],
+        "509": [
+            1559.74,
+            1561.24,
+            "No es si mucho menos titular."
+        ],
+        "510": [
+            1561.24,
+            1562.24,
+            "Es brasileño de arriba."
+        ],
+        "511": [
+            1562.24,
+            1567.88,
+            "hecho varios goles en liga pero bueno está jugando con ava con aval o delantero centro"
+        ],
+        "512": [
+            1567.88,
+            1574.48,
+            "muy pocas opciones tiene tiene la forma que se está yendo con un 20 bastante discreto para lo"
+        ],
+        "513": [
+            1574.48,
+            1582.0,
+            "que ha podido ser con 10 casi todo el partido desde el minuto 20 la primera parte como lo"
+        ],
+        "514": [
+            1582.0,
+            1584.28,
+            "hubieran firmado el 20 en cuanto marcar el segundo veloz"
+        ],
+        "515": [
+            1584.28,
+            1589.4,
+            "de momento"
+        ],
+        "516": [
+            1604.02,
+            1609.72,
+            "central ronaldo se queda corto para que llegara al segundo palo estaba gs mail tiene disparos"
+        ],
+        "517": [
+            1609.72,
+            1613.28,
+            "desde ahí también mail mail recorta bale mail otra vez"
+        ],
+        "518": [
+            1614.28,
+            1622.08,
+            "fuera de la gente y pito se"
+        ],
+        "519": [
+            1623.66,
+            1628.5,
+            "si por esa jugada para gareth bale entiende parte del público que ha sido excesivamente"
+        ],
+        "520": [
+            1628.5,
+            1633.78,
+            "individualista también se lamentaba cristiano ronaldo no sólo por la mala precisión del pasismo"
+        ],
+        "521": [
+            1633.78,
+            1637.68,
+            "porque en esta segunda opción en esta segunda jugada también tenía posibilidad de pases y se"
+        ],
+        "522": [
+            1637.68,
+            1642.92,
+            "escucha algunos pitos tras esa acción de gareth bale que provocó el saque de esquina salto"
+        ],
+        "523": [
+            1642.92,
+            1643.64,
+            "chicharito"
+        ],
+        "524": [
+            1644.28,
+            1647.2,
+            "Hills v干u First"
+        ],
+        "525": [
+            1647.2,
+            1648.14,
+            "occupation"
+        ],
+        "526": [
+            1648.14,
+            1650.28,
+            "se supone que es broadcasting"
+        ],
+        "527": [
+            1650.28,
+            1652.68,
+            "Yes"
+        ],
+        "528": [
+            1652.68,
+            1655.92,
+            "gol"
+        ],
+        "529": [
+            1655.92,
+            1658.7,
+            "вар"
+        ],
+        "530": [
+            1658.7,
+            1662.94,
+            "acción"
+        ],
+        "531": [
+            1662.94,
+            1665.5,
+            "en esta posición"
+        ],
+        "532": [
+            1665.5,
+            1673.5,
+            "Mendiz"
+        ],
+        "533": [
+            1673.5,
+            1675.04,
+            "yo creo que sí"
+        ],
+        "534": [
+            1675.04,
+            1675.66,
+            "yo también"
+        ],
+        "535": [
+            1675.66,
+            1677.6,
+            "creo que está claro"
+        ],
+        "536": [
+            1677.6,
+            1679.68,
+            "César Meloa"
+        ],
+        "537": [
+            1679.68,
+            1682.82,
+            "el saque de esquina"
+        ],
+        "538": [
+            1682.82,
+            1683.64,
+            "otro más"
+        ],
+        "539": [
+            1683.64,
+            1684.44,
+            "puño derecho"
+        ],
+        "540": [
+            1684.44,
+            1685.36,
+            "de Stojanov"
+        ],
+        "541": [
+            1685.36,
+            1688.6,
+            "espeja Van Der Soen"
+        ],
+        "542": [
+            1688.6,
+            1690.1,
+            "Junior Kixada"
+        ],
+        "543": [
+            1690.1,
+            1691.12,
+            "pero estaba atento"
+        ],
+        "544": [
+            1691.12,
+            1691.86,
+            "Marcelo"
+        ],
+        "545": [
+            1691.86,
+            1694.24,
+            "en falta a favor"
+        ],
+        "546": [
+            1694.24,
+            1695.86,
+            "del equipo de Bulgaria"
+        ],
+        "547": [
+            1695.86,
+            1700.98,
+            "Marcelo sufrió bastante"
+        ],
+        "548": [
+            1700.98,
+            1701.58,
+            "en su primera etapa"
+        ],
+        "549": [
+            1701.58,
+            1702.0,
+            "en el Madrid"
+        ],
+        "550": [
+            1702.0,
+            1702.88,
+            "pero es verdad que"
+        ],
+        "551": [
+            1702.88,
+            1704.12,
+            "yo creo que si analizamos"
+        ],
+        "552": [
+            1704.12,
+            1704.84,
+            "la trayectoria de Marcelo"
+        ],
+        "553": [
+            1704.84,
+            1705.48,
+            "ha sido excelente"
+        ],
+        "554": [
+            1705.48,
+            1706.08,
+            "en el Madrid"
+        ],
+        "555": [
+            1706.08,
+            1707.16,
+            "espectacular"
+        ],
+        "556": [
+            1707.16,
+            1708.2,
+            "mercado de enero"
+        ],
+        "557": [
+            1708.2,
+            1708.72,
+            "y sufrió"
+        ],
+        "558": [
+            1708.72,
+            1709.58,
+            "es verdad que sufrió bastante"
+        ],
+        "559": [
+            1709.58,
+            1710.42,
+            "el principio"
+        ],
+        "560": [
+            1710.42,
+            1711.46,
+            "llegó de la mano"
+        ],
+        "561": [
+            1711.46,
+            1712.44,
+            "llegaron al mismo tiempo"
+        ],
+        "562": [
+            1712.44,
+            1713.5,
+            "día arriba día abajo"
+        ],
+        "563": [
+            1713.5,
+            1714.76,
+            "Marcelo"
+        ],
+        "564": [
+            1714.76,
+            1715.86,
+            "Higuaín"
+        ],
+        "565": [
+            1715.86,
+            1717.26,
+            "que dio un gran resultado"
+        ],
+        "566": [
+            1717.26,
+            1718.3,
+            "un bienvenido fantástico"
+        ],
+        "567": [
+            1718.3,
+            1719.02,
+            "el tiempo que estuvo aquí"
+        ],
+        "568": [
+            1719.02,
+            1719.72,
+            "y Gago"
+        ],
+        "569": [
+            1719.72,
+            1720.52,
+            "que de los tres fue el que"
+        ],
+        "570": [
+            1720.52,
+            1722.02,
+            "evidentemente estuvo más lejos"
+        ],
+        "571": [
+            1722.02,
+            1723.08,
+            "mucho más lejos del rendimiento"
+        ],
+        "572": [
+            1723.08,
+            1723.84,
+            "pero llegaron los tres"
+        ],
+        "573": [
+            1723.84,
+            1724.72,
+            "en aquel mercado de enero"
+        ],
+        "574": [
+            1724.72,
+            1726.26,
+            "vence varios años"
+        ],
+        "575": [
+            1726.26,
+            1727.0,
+            "Marcelo Gago"
+        ],
+        "576": [
+            1727.0,
+            1728.02,
+            "e Higuaín"
+        ],
+        "577": [
+            1728.02,
+            1731.14,
+            "Gese"
+        ],
+        "578": [
+            1731.14,
+            1731.22,
+            "Gese"
+        ],
+        "579": [
+            1731.22,
+            1731.26,
+            "Gese"
+        ],
+        "580": [
+            1731.26,
+            1731.28,
+            "Gese"
+        ],
+        "581": [
+            1731.28,
+            1731.3,
+            "Gese"
+        ],
+        "582": [
+            1731.3,
+            1731.34,
+            "Gese"
+        ],
+        "583": [
+            1731.34,
+            1731.36,
+            "Gese"
+        ],
+        "584": [
+            1731.36,
+            1731.42,
+            "Gese"
+        ],
+        "585": [
+            1731.42,
+            1731.46,
+            "Gese"
+        ],
+        "586": [
+            1731.46,
+            1731.48,
+            "Gese"
+        ],
+        "587": [
+            1731.48,
+            1731.5,
+            "Gese"
+        ],
+        "588": [
+            1731.5,
+            1731.54,
+            "Gese"
+        ],
+        "589": [
+            1731.54,
+            1734.28,
+            "Gese"
+        ],
+        "590": [
+            1734.28,
+            1734.5,
+            "Gese"
+        ],
+        "591": [
+            1734.5,
+            1734.74,
+            "Gese"
+        ],
+        "592": [
+            1734.74,
+            1750.88,
+            "Ese"
+        ],
+        "593": [
+            1750.88,
+            1751.14,
+            "relieve"
+        ],
+        "594": [
+            1751.14,
+            1753.98,
+            "muy bien"
+        ],
+        "595": [
+            1753.98,
+            1754.96,
+            "estoy"
+        ],
+        "596": [
+            1754.96,
+            1755.4,
+            "agradecido"
+        ],
+        "597": [
+            1755.4,
+            1756.48,
+            "para que"
+        ],
+        "598": [
+            1756.48,
+            1756.64,
+            "el otro"
+        ],
+        "599": [
+            1756.64,
+            1756.92,
+            "fincha"
+        ],
+        "600": [
+            1756.92,
+            1757.84,
+            "juego"
+        ],
+        "601": [
+            1757.84,
+            1757.96,
+            "y"
+        ],
+        "602": [
+            1757.96,
+            1758.24,
+            "el visto"
+        ],
+        "603": [
+            1758.24,
+            1760.32,
+            "este"
+        ],
+        "604": [
+            1760.32,
+            1760.8,
+            "me"
+        ],
+        "605": [
+            1760.8,
+            1761.52,
+            "te"
+        ],
+        "606": [
+            1761.52,
+            1764.66,
+            "Cierra bien Nacho, salió"
+        ],
+        "607": [
+            1764.66,
+            1767.1,
+            "Para tapar la salida del lateral"
+        ],
+        "608": [
+            1767.1,
+            1769.12,
+            "El remate flojo de Dani Avalo"
+        ],
+        "609": [
+            1769.12,
+            1771.0,
+            "Pero a Marcelo sin problemas"
+        ],
+        "610": [
+            1771.0,
+            1772.82,
+            "Marcelo"
+        ],
+        "611": [
+            1772.82,
+            1774.8,
+            "Arranca Isco"
+        ],
+        "612": [
+            1774.8,
+            1777.42,
+            "Cristiano Ronaldo"
+        ],
+        "613": [
+            1777.42,
+            1780.34,
+            "Dibujaba el desmarque Chicharito por delante"
+        ],
+        "614": [
+            1780.34,
+            1781.66,
+            "No lo ve claro Ronaldo"
+        ],
+        "615": [
+            1781.66,
+            1782.68,
+            "En corto atrás a Isco"
+        ],
+        "616": [
+            1782.68,
+            1786.4,
+            "Y ya Ramendi"
+        ],
+        "617": [
+            1786.4,
+            1791.14,
+            "En espalda Chicharito"
+        ],
+        "618": [
+            1791.14,
+            1792.58,
+            "Devolución buena a Ronaldo"
+        ],
+        "619": [
+            1792.58,
+            1793.64,
+            "La apertura a Gesé"
+        ],
+        "620": [
+            1793.64,
+            1795.44,
+            "Gesé otra vez entrando en acción"
+        ],
+        "621": [
+            1795.44,
+            1796.64,
+            "Le pide el balón en la frontal"
+        ],
+        "622": [
+            1796.64,
+            1798.18,
+            "Le estaba pidiendo el pase Isco"
+        ],
+        "623": [
+            1798.18,
+            1798.8,
+            "Al final le llega"
+        ],
+        "624": [
+            1798.8,
+            1801.04,
+            "No controla claramente"
+        ],
+        "625": [
+            1801.04,
+            1802.24,
+            "No controla de primera Isco"
+        ],
+        "626": [
+            1802.24,
+            1803.9,
+            "Se recoloca en defensa el nudo Goretz"
+        ],
+        "627": [
+            1803.9,
+            1805.2,
+            "Y ya Ramendi"
+        ],
+        "628": [
+            1805.2,
+            1808.2,
+            "Con CR7, CR72"
+        ],
+        "629": [
+            1808.2,
+            1809.32,
+            "En Champions"
+        ],
+        "630": [
+            1809.32,
+            1810.82,
+            "Apertura de Ronaldo"
+        ],
+        "631": [
+            1810.82,
+            1812.14,
+            "Gesé va a doblar a Arbeloa"
+        ],
+        "632": [
+            1812.14,
+            1813.74,
+            "El pase para Arbeloa"
+        ],
+        "633": [
+            1813.74,
+            1814.86,
+            "Centra atrás Arbeloa"
+        ],
+        "634": [
+            1814.86,
+            1816.24,
+            "Interceptado"
+        ],
+        "635": [
+            1816.4,
+            1817.3,
+            "Y acción de Yakov"
+        ],
+        "636": [
+            1817.3,
+            1820.94,
+            "Por tanto salida del nudo Goretz"
+        ],
+        "637": [
+            1825.84,
+            1827.6,
+            "Está esperando recibir en la banda derecha"
+        ],
+        "638": [
+            1827.6,
+            1828.72,
+            "Y recibe Dani Avalo"
+        ],
+        "639": [
+            1828.72,
+            1829.86,
+            "Pase de Van Der Son"
+        ],
+        "640": [
+            1829.86,
+            1831.0,
+            "De Junior Caizara"
+        ],
+        "641": [
+            1831.0,
+            1831.52,
+            "Mejor dicho"
+        ],
+        "642": [
+            1831.52,
+            1833.86,
+            "Se aparece Van Der Son"
+        ],
+        "643": [
+            1833.86,
+            1834.66,
+            "Escorado"
+        ],
+        "644": [
+            1834.66,
+            1835.56,
+            "El balón que no llega a salir"
+        ],
+        "645": [
+            1835.56,
+            1837.34,
+            "Se le echa encima Rafael Varane"
+        ],
+        "646": [
+            1837.34,
+            1839.34,
+            "Dejo ahí a la acción"
+        ],
+        "647": [
+            1839.34,
+            1841.16,
+            "Se quedó ya sin margen de maniobra"
+        ],
+        "648": [
+            1841.16,
+            1842.88,
+            "Junior Caizara"
+        ],
+        "649": [
+            1842.88,
+            1845.14,
+            "Tengo que ir a Navarra"
+        ],
+        "650": [
+            1846.4,
+            1848.4,
+            "Y no me da más"
+        ],
+        "651": [
+            1848.4,
+            1854.4,
+            "El Madrid vemos la acción repetida"
+        ],
+        "652": [
+            1854.4,
+            1856.4,
+            "Una opción de Marcelo sin problemas"
+        ],
+        "653": [
+            1856.4,
+            1858.4,
+            "El marque de Gareth Bale"
+        ],
+        "654": [
+            1858.4,
+            1860.4,
+            "En el que se escora"
+        ],
+        "655": [
+            1860.4,
+            1862.4,
+            "Plantando el balón"
+        ],
+        "656": [
+            1862.4,
+            1864.4,
+            "El apoyo atrás de Gesé"
+        ],
+        "657": [
+            1864.4,
+            1865.4,
+            "Intentan desbordar ahí"
+        ],
+        "658": [
+            1865.4,
+            1866.4,
+            "Bale la hace"
+        ],
+        "659": [
+            1866.4,
+            1867.4,
+            "La jugada salió"
+        ],
+        "660": [
+            1867.4,
+            1868.4,
+            "El centro no tanto"
+        ],
+        "661": [
+            1868.4,
+            1870.4,
+            "Era difícil, le cayó a la derecha para el centro"
+        ],
+        "662": [
+            1870.4,
+            1871.4,
+            "Es verdad que no está acertado"
+        ],
+        "663": [
+            1871.4,
+            1873.4,
+            "Pero aún así él siempre lo intenta"
+        ],
+        "664": [
+            1873.4,
+            1874.4,
+            "Siempre se ofrece"
+        ],
+        "665": [
+            1874.4,
+            1875.68,
+            "Ahí está Cristiano con ese gesto"
+        ],
+        "666": [
+            1875.68,
+            1876.68,
+            "Está un poco desesperado"
+        ],
+        "667": [
+            1876.68,
+            1877.68,
+            "Y a Cheloqui"
+        ],
+        "668": [
+            1877.68,
+            1878.68,
+            "Sí, sí"
+        ],
+        "669": [
+            1878.68,
+            1880.68,
+            "Creo que está siendo consciente Cristiano"
+        ],
+        "670": [
+            1880.68,
+            1882.68,
+            "Que está perdiendo una oportunidad para hacer hoy"
+        ],
+        "671": [
+            1882.68,
+            1883.68,
+            "Para seguir sumando"
+        ],
+        "672": [
+            1883.68,
+            1884.68,
+            "Para seguir sumando de verdad"
+        ],
+        "673": [
+            1884.68,
+            1885.68,
+            "Porque claro es que el partido"
+        ],
+        "674": [
+            1885.68,
+            1887.68,
+            "El rival es muy inferior y conforme"
+        ],
+        "675": [
+            1887.68,
+            1888.68,
+            "Yo creo que"
+        ],
+        "676": [
+            1888.68,
+            1889.68,
+            "Pero también tampoco está haciendo la gran cosa"
+        ],
+        "677": [
+            1889.68,
+            1890.68,
+            "Porque no son los compañeros"
+        ],
+        "678": [
+            1890.68,
+            1891.68,
+            "O Bale en este caso"
+        ],
+        "679": [
+            1891.68,
+            1892.68,
+            "Ronaldo que disparó"
+        ],
+        "680": [
+            1892.68,
+            1893.68,
+            "Tal cual le llegó el balón"
+        ],
+        "681": [
+            1893.68,
+            1894.68,
+            "A Chicharito"
+        ],
+        "682": [
+            1894.68,
+            1895.68,
+            "Recupera"
+        ],
+        "683": [
+            1895.68,
+            1896.68,
+            "Centro atrás"
+        ],
+        "684": [
+            1896.68,
+            1897.68,
+            "Chicharito buscando a Bale"
+        ],
+        "685": [
+            1897.68,
+            1898.68,
+            "El balón que se paseó"
+        ],
+        "686": [
+            1898.68,
+            1899.68,
+            "No llega a Ronaldo"
+        ],
+        "687": [
+            1899.68,
+            1900.68,
+            "El balón que se paseó"
+        ],
+        "688": [
+            1900.68,
+            1901.68,
+            "No llega a Ronaldo"
+        ],
+        "689": [
+            1901.68,
+            1902.68,
+            "El balón que se paseó"
+        ],
+        "690": [
+            1902.68,
+            1903.68,
+            "No llega a Ronaldo"
+        ],
+        "691": [
+            1903.68,
+            1904.68,
+            "El balón que se paseó"
+        ],
+        "692": [
+            1904.68,
+            1907.68,
+            "Se pierde el balón por el costado"
+        ],
+        "693": [
+            1907.68,
+            1912.68,
+            "Este es Ronaldo"
+        ],
+        "694": [
+            1912.68,
+            1918.68,
+            "Señalando el balón que se iba por el costado"
+        ],
+        "695": [
+            1918.68,
+            1919.68,
+            "Bueno"
+        ],
+        "696": [
+            1919.68,
+            1926.68,
+            "Junior Caixara"
+        ],
+        "697": [
+            1926.68,
+            1931.68,
+            "Deja atrás a Nantenaína"
+        ],
+        "698": [
+            1931.68,
+            1932.68,
+            "Aniceta Bell"
+        ],
+        "699": [
+            1932.68,
+            1933.68,
+            "Bale"
+        ],
+        "700": [
+            1933.68,
+            1949.68,
+            "Bastante feas"
+        ],
+        "701": [
+            1949.68,
+            1950.68,
+            "Mieres"
+        ],
+        "702": [
+            1950.68,
+            1951.68,
+            "Quintana Roo"
+        ],
+        "703": [
+            1951.68,
+            1952.68,
+            "Zimmerman"
+        ],
+        "704": [
+            1952.68,
+            1953.68,
+            "Manderson"
+        ],
+        "705": [
+            1953.68,
+            1954.68,
+            "Via con al avalo"
+        ],
+        "706": [
+            1954.68,
+            1955.56,
+            "Oh Ingo"
+        ],
+        "707": [
+            1955.56,
+            1957.34,
+            "Manderson"
+        ],
+        "708": [
+            1957.34,
+            1958.38,
+            "Tras pará"
+        ],
+        "709": [
+            1958.38,
+            1959.88,
+            "Aniceta Bell"
+        ],
+        "710": [
+            1959.88,
+            1960.68,
+            "El remate del jugador de Madagascar"
+        ],
+        "711": [
+            1960.68,
+            1961.68,
+            "Que sale desviado de la derecha"
+        ],
+        "712": [
+            1961.68,
+            1962.68,
+            "De la correnta"
+        ],
+        "713": [
+            1962.68,
+            1964.76,
+            "8 disparos de Gareth Bale"
+        ],
+        "714": [
+            1964.76,
+            1968.14,
+            "Alguno de ellos pudo convertirse"
+        ],
+        "715": [
+            1968.14,
+            1969.82,
+            "Con mejor opción"
+        ],
+        "716": [
+            1969.82,
+            1970.8,
+            "En paseo"
+        ],
+        "717": [
+            1970.8,
+            1972.12,
+            "Alguno de los 8"
+        ],
+        "718": [
+            1972.12,
+            1976.0,
+            "Todo un par de ellos en la segunda parte"
+        ],
+        "719": [
+            1976.0,
+            1977.34,
+            "En la primera parte"
+        ],
+        "720": [
+            1977.34,
+            1979.62,
+            "Guillermo Mendy Bale"
+        ],
+        "721": [
+            1979.62,
+            1985.4,
+            "Abrió Gareth Bale a Marcelo"
+        ],
+        "722": [
+            1985.4,
+            1987.48,
+            "Pasa atrás Marcelo"
+        ],
+        "723": [
+            1987.48,
+            1988.4,
+            "Para el galés"
+        ],
+        "724": [
+            1988.4,
+            1991.82,
+            "Pesco"
+        ],
+        "725": [
+            1991.82,
+            1995.08,
+            "Pasa Rafael Varane"
+        ],
+        "726": [
+            1995.08,
+            2000.0,
+            "Nacho"
+        ],
+        "727": [
+            2000.0,
+            2001.7,
+            "Pesco"
+        ],
+        "728": [
+            2001.7,
+            2010.0,
+            "Ronaldo distribuye para Marcelo"
+        ],
+        "729": [
+            2010.0,
+            2012.1,
+            "Marcelo no con esa altura"
+        ],
+        "730": [
+            2012.1,
+            2013.6,
+            "Eso acaba en un córner más"
+        ],
+        "731": [
+            2013.6,
+            2016.24,
+            "De los muchos que está teniendo hoy el Real Madrid"
+        ],
+        "732": [
+            2016.24,
+            2018.28,
+            "Es mejor Terziev"
+        ],
+        "733": [
+            2018.28,
+            2025.1,
+            "Ese es el gesto de Ronaldo"
+        ],
+        "734": [
+            2025.1,
+            2027.16,
+            "Tras el disparo que no fue centro"
+        ],
+        "735": [
+            2027.16,
+            2029.26,
+            "De Gareth Bale hace 5 minutos"
+        ],
+        "736": [
+            2029.26,
+            2033.36,
+            "Sáquen esquina"
+        ],
+        "737": [
+            2033.36,
+            2035.34,
+            "Arbeloa"
+        ],
+        "738": [
+            2035.34,
+            2037.64,
+            "En dos ocasiones el portero"
+        ],
+        "739": [
+            2037.64,
+            2040.48,
+            "Gol de Arbeloa"
+        ],
+        "740": [
+            2040.48,
+            2042.64,
+            "Gol del Real Madrid"
+        ],
+        "741": [
+            2042.64,
+            2043.88,
+            "Arbeloa que sonríe"
+        ],
+        "742": [
+            2043.88,
+            2046.16,
+            "No está muy habituado a marcar goles"
+        ],
+        "743": [
+            2046.16,
+            2047.9,
+            "Arbeloa y le costó"
+        ],
+        "744": [
+            2047.9,
+            2048.26,
+            "Porque todo el partido"
+        ],
+        "745": [
+            2048.26,
+            2048.96,
+            "Hubo los dos"
+        ],
+        "746": [
+            2048.96,
+            2050.04,
+            "No sé si ha dado el segundo"
+        ],
+        "747": [
+            2050.04,
+            2051.56,
+            "Yo creo que entra el primero"
+        ],
+        "748": [
+            2051.56,
+            2053.42,
+            "El primero desde aquí me ha parecido que entra seguro"
+        ],
+        "749": [
+            2053.42,
+            2054.5,
+            "Vamos a ver la repetición ahora"
+        ],
+        "750": [
+            2054.5,
+            2056.32,
+            "Arbeloa"
+        ],
+        "751": [
+            2056.32,
+            2058.82,
+            "Estaba llegando bastante al ataque"
+        ],
+        "752": [
+            2058.82,
+            2060.48,
+            "Estaba causando problemas"
+        ],
+        "753": [
+            2060.48,
+            2061.78,
+            "La posición correcta de Arbeloa"
+        ],
+        "754": [
+            2061.78,
+            2062.92,
+            "Aquí es donde entra"
+        ],
+        "755": [
+            2062.92,
+            2067.26,
+            "Yo creo que entra"
+        ],
+        "756": [
+            2067.26,
+            2070.24,
+            "Sí, parece que sí"
+        ],
+        "757": [
+            2070.24,
+            2070.96,
+            "Totalmente"
+        ],
+        "758": [
+            2070.96,
+            2073.8,
+            "Así lo vio el Liniere"
+        ],
+        "759": [
+            2073.8,
+            2076.44,
+            "El árbitro de portería"
+        ],
+        "760": [
+            2076.44,
+            2077.5,
+            "El árbitro 3-0"
+        ],
+        "761": [
+            2077.5,
+            2077.6,
+            "El árbitro de portería"
+        ],
+        "762": [
+            2077.6,
+            2077.64,
+            "El árbitro 3-0"
+        ],
+        "763": [
+            2077.64,
+            2078.1,
+            "El árbitro 3-0"
+        ],
+        "764": [
+            2078.1,
+            2078.14,
+            "El árbitro 3-0"
+        ],
+        "765": [
+            2078.14,
+            2078.24,
+            "El árbitro 3-0"
+        ],
+        "766": [
+            2078.26,
+            2080.2,
+            "El segundo pega entre la mano y el palo"
+        ],
+        "767": [
+            2080.2,
+            2082.9,
+            "Arbeloa, el tercero del Real Madrid"
+        ],
+        "768": [
+            2082.9,
+            2085.82,
+            "Gol de Arbeloa"
+        ],
+        "769": [
+            2085.82,
+            2086.66,
+            "Le aplaude el público"
+        ],
+        "770": [
+            2086.66,
+            2088.82,
+            "Ha subido mucho más, Ricardo"
+        ],
+        "771": [
+            2088.82,
+            2089.96,
+            "La segunda parte de Arbeloa"
+        ],
+        "772": [
+            2089.96,
+            2092.02,
+            "Y fruto de esas subidas, este gol"
+        ],
+        "773": [
+            2092.02,
+            2093.72,
+            "Y ha tenido el premio de ese gol"
+        ],
+        "774": [
+            2093.72,
+            2096.32,
+            "El tercer tanto que marca en el Liga de Campeones"
+        ],
+        "775": [
+            2096.32,
+            2098.0,
+            "El lateral del Real Madrid"
+        ],
+        "776": [
+            2098.0,
+            2099.78,
+            "Después de un saque de esquina"
+        ],
+        "777": [
+            2099.78,
+            2100.68,
+            "Creando mucho peligro"
+        ],
+        "778": [
+            2100.68,
+            2103.08,
+            "Pero yo creo que así incluso fría la celebración"
+        ],
+        "779": [
+            2103.08,
+            2104.84,
+            "La fe del propio Arbeloa"
+        ],
+        "780": [
+            2104.84,
+            2108.14,
+            "Porque parecía que no entraba en ese primer asterisco"
+        ],
+        "781": [
+            2108.14,
+            2108.58,
+            "A distancia"
+        ],
+        "782": [
+            2108.58,
+            2110.96,
+            "Se ha tardado en percatar el colegiado"
+        ],
+        "783": [
+            2110.96,
+            2112.78,
+            "En dar el gol también los aficionados"
+        ],
+        "784": [
+            2112.78,
+            2114.9,
+            "Y ha sido frío, pero el gol ha subido el marcador"
+        ],
+        "785": [
+            2114.9,
+            2117.32,
+            "Tercero, como decimos, de Arbeloa en Liga de Campeones"
+        ],
+        "786": [
+            2117.32,
+            2119.36,
+            "Y el tercero del Real Madrid en la noche de hoy"
+        ],
+        "787": [
+            2119.36,
+            2121.48,
+            "Y los tres goles en tres córneres"
+        ],
+        "788": [
+            2121.48,
+            2123.2,
+            "El primero, que es el penalti, que es en un córner"
+        ],
+        "789": [
+            2123.2,
+            2124.96,
+            "El segundo directamente de córner"
+        ],
+        "790": [
+            2124.96,
+            2125.58,
+            "Y este también"
+        ],
+        "791": [
+            2125.58,
+            2128.86,
+            "Lo del Ludogorecho ya ha sido, bueno"
+        ],
+        "792": [
+            2128.86,
+            2130.76,
+            "Ya encima"
+        ],
+        "793": [
+            2130.76,
+            2132.34,
+            "Arbeloa no está fuera de juego"
+        ],
+        "794": [
+            2132.34,
+            2135.0,
+            "Que moleste uno la visión, Chicharito"
+        ],
+        "795": [
+            2135.0,
+            2135.84,
+            "Al portero"
+        ],
+        "796": [
+            2135.84,
+            2136.58,
+            "Que se perdió"
+        ],
+        "797": [
+            2138.14,
+            2140.32,
+            "Cuando arranca Gareth Bale"
+        ],
+        "798": [
+            2140.32,
+            2141.58,
+            "Quiere ser el expreso de Cardiff"
+        ],
+        "799": [
+            2141.58,
+            2143.46,
+            "El remate, disparo de Gareth Bale"
+        ],
+        "800": [
+            2143.46,
+            2145.02,
+            "Y otro córner más"
+        ],
+        "801": [
+            2145.02,
+            2148.6,
+            "Bale que queda ahí tendido en el suelo"
+        ],
+        "802": [
+            2148.6,
+            2149.8,
+            "Está sangrando, se ha llevado un golpe"
+        ],
+        "803": [
+            2149.8,
+            2151.62,
+            "Está sangrando por la nariz, parece Gareth Bale"
+        ],
+        "804": [
+            2151.62,
+            2156.82,
+            "Un manotazo ahí el jugador de Ludogorecho"
+        ],
+        "805": [
+            2156.82,
+            2158.32,
+            "Cercié, sí, al caer"
+        ],
+        "806": [
+            2158.32,
+            2160.7,
+            "Justo en la jugada, no hay mala intención"
+        ],
+        "807": [
+            2160.7,
+            2161.9,
+            "Yo creo que se llevó un golpe en la nariz"
+        ],
+        "808": [
+            2161.9,
+            2163.12,
+            "Sí, está sangrando"
+        ],
+        "809": [
+            2163.12,
+            2164.96,
+            "Con el hombro, parece que le golpea con el hombro"
+        ],
+        "810": [
+            2164.96,
+            2166.92,
+            "Y la caída, y está Gareth Bale sangrando"
+        ],
+        "811": [
+            2168.14,
+            2170.04,
+            "Sí, pero va a ser bien además"
+        ],
+        "812": [
+            2170.04,
+            2171.6,
+            "Como se ve la repetición"
+        ],
+        "813": [
+            2171.6,
+            2173.6,
+            "La aislación de Terzier"
+        ],
+        "814": [
+            2173.6,
+            2174.66,
+            "Con el brazo, al final"
+        ],
+        "815": [
+            2174.66,
+            2176.64,
+            "Al caer con el brazo derecho le da"
+        ],
+        "816": [
+            2176.64,
+            2181.98,
+            "Pues siendo atendido el galés"
+        ],
+        "817": [
+            2181.98,
+            2186.02,
+            "Trenación por tanto en el Bernabéu"
+        ],
+        "818": [
+            2186.02,
+            2188.42,
+            "Sancro al jugador nacido en Cardiff"
+        ],
+        "819": [
+            2188.42,
+            2190.5,
+            "Está ya preparado Álvaro Medrán"
+        ],
+        "820": [
+            2190.5,
+            2191.42,
+            "Para entrar en el terreno de juego"
+        ],
+        "821": [
+            2191.42,
+            2193.06,
+            "Vamos a ver si esa era la idea"
+        ],
+        "822": [
+            2193.06,
+            2194.92,
+            "De Ancelotti retirar a Gareth Bale"
+        ],
+        "823": [
+            2194.92,
+            2195.9,
+            "O cambiar de idea"
+        ],
+        "824": [
+            2195.9,
+            2197.98,
+            "Porque hasta que le cierren"
+        ],
+        "825": [
+            2197.98,
+            2198.12,
+            "La encuesta"
+        ],
+        "826": [
+            2198.14,
+            2200.42,
+            "No va a poder entrar en el terreno de juego"
+        ],
+        "827": [
+            2200.42,
+            2201.42,
+            "Si se ha manchado la cabeza"
+        ],
+        "828": [
+            2201.42,
+            2202.5,
+            "Probablemente también tenga que empezar"
+        ],
+        "829": [
+            2202.5,
+            2204.92,
+            "Vamos a ver si el jugador sustituido es Gareth Bale"
+        ],
+        "830": [
+            2204.92,
+            2206.52,
+            "Pero está preparado Álvaro Medrán para entrar"
+        ],
+        "831": [
+            2206.52,
+            2211.36,
+            "A pasear, placer"
+        ],
+        "832": [
+            2211.36,
+            2211.96,
+            "Placer demasiado"
+        ],
+        "833": [
+            2211.96,
+            2213.08,
+            "Placer mucho al caer"
+        ],
+        "834": [
+            2213.08,
+            2214.04,
+            "Y le da bien"
+        ],
+        "835": [
+            2214.04,
+            2216.16,
+            "La jugada del gol"
+        ],
+        "836": [
+            2216.16,
+            2218.34,
+            "Para verlo está bien, está limitado"
+        ],
+        "837": [
+            2218.34,
+            2220.42,
+            "Ficharito está adelantado"
+        ],
+        "838": [
+            2220.42,
+            2221.42,
+            "Pero yo creo que no"
+        ],
+        "839": [
+            2221.42,
+            2223.9,
+            "No influye tanto, la verdad"
+        ],
+        "840": [
+            2223.9,
+            2225.74,
+            "Acerca del pote"
+        ],
+        "841": [
+            2225.74,
+            2226.52,
+            "Acerca de que no"
+        ],
+        "842": [
+            2226.52,
+            2227.98,
+            "Yo creo que no está bien"
+        ],
+        "843": [
+            2227.98,
+            2228.5,
+            "El pote no es legal"
+        ],
+        "844": [
+            2228.5,
+            2231.56,
+            "El pote también tiene que estar preocupado"
+        ],
+        "845": [
+            2231.56,
+            2233.46,
+            "Del chicharito que está justo delante de él"
+        ],
+        "846": [
+            2233.46,
+            2239.86,
+            "Yo no sé si tenía previsto quitar a Bale"
+        ],
+        "847": [
+            2239.86,
+            2242.06,
+            "Yo creo que a lo mejor tenía previsto quitar a"
+        ],
+        "848": [
+            2242.06,
+            2243.84,
+            "Quizá Isco y meter a Medrán al lado de"
+        ],
+        "849": [
+            2243.84,
+            2244.8,
+            "Villarramendo, pero bueno"
+        ],
+        "850": [
+            2244.8,
+            2247.16,
+            "Bueno, minutitos, no muchos"
+        ],
+        "851": [
+            2247.16,
+            2249.72,
+            "Mucho más el descuento, pues unos 11-12 va a tener"
+        ],
+        "852": [
+            2249.72,
+            2250.98,
+            "Álvaro Medrán, el cordobés"
+        ],
+        "853": [
+            2250.98,
+            2254.66,
+            "Pues ahí se retira"
+        ],
+        "854": [
+            2254.66,
+            2256.82,
+            "Gareth Bale"
+        ],
+        "855": [
+            2256.82,
+            2257.3,
+            "Y el pote"
+        ],
+        "856": [
+            2257.3,
+            2259.14,
+            "Saca de esquina de Isco"
+        ],
+        "857": [
+            2259.14,
+            2261.94,
+            "Ahora bien defendida la que por parte de Tersiev"
+        ],
+        "858": [
+            2261.94,
+            2264.54,
+            "El remate desde lejos fue de Álvaro Medrán"
+        ],
+        "859": [
+            2264.54,
+            2268.42,
+            "La primera intervención del canterano"
+        ],
+        "860": [
+            2268.42,
+            2269.74,
+            "20 años"
+        ],
+        "861": [
+            2269.74,
+            2275.02,
+            "Que estaría incorporado plenamente al primer equipo"
+        ],
+        "862": [
+            2275.02,
+            2277.38,
+            "Por lo menos hasta que reaparezca Luka Modric"
+        ],
+        "863": [
+            2277.38,
+            2279.76,
+            "Ya veremos si hasta que llegue Luka Silva"
+        ],
+        "864": [
+            2279.76,
+            2280.24,
+            "Habrá que ver"
+        ],
+        "865": [
+            2280.24,
+            2283.18,
+            "Una caída, pero"
+        ],
+        "866": [
+            2283.18,
+            2286.06,
+            "Nada punible de Junior Kiksada"
+        ],
+        "867": [
+            2287.3,
+            2289.9,
+            "Final del partido"
+        ],
+        "868": [
+            2289.9,
+            2292.26,
+            "Se va a acabar este grupo B"
+        ],
+        "869": [
+            2292.26,
+            2294.96,
+            "El Madrid va a empezar"
+        ],
+        "870": [
+            2294.96,
+            2296.54,
+            "O va a terminar como empezó"
+        ],
+        "871": [
+            2296.54,
+            2298.78,
+            "Ganando, y como ha seguido durante todo el grupo"
+        ],
+        "872": [
+            2298.78,
+            2300.86,
+            "Ganando los 6 partidos"
+        ],
+        "873": [
+            2300.86,
+            2302.56,
+            "Va a ser el primer equipo en la historia de la Champions"
+        ],
+        "874": [
+            2302.56,
+            2305.68,
+            "Que en dos temporadas consecutivas gane los 6 partidos del grupo"
+        ],
+        "875": [
+            2305.68,
+            2308.44,
+            "La 2011-2012"
+        ],
+        "876": [
+            2308.44,
+            2310.16,
+            "Y dentro de unos minutos va a ser oficial"
+        ],
+        "877": [
+            2310.16,
+            2312.56,
+            "En el 2014-2015"
+        ],
+        "878": [
+            2312.56,
+            2315.24,
+            "Es un grupo al final bastante cómodo para el Madrid"
+        ],
+        "879": [
+            2315.24,
+            2317.14,
+            "Porque el Liverpool no ha dado la tercera vuelta a la temporada"
+        ],
+        "880": [
+            2317.14,
+            2320.1,
+            "El Madrid le arrolló en Anfield"
+        ],
+        "881": [
+            2320.1,
+            2321.1,
+            "Y aquí gano"
+        ],
+        "882": [
+            2321.1,
+            2322.56,
+            "El partido en el que Leivo va a crecer"
+        ],
+        "883": [
+            2322.56,
+            2324.7,
+            "Que salió con todos los suplentes"
+        ],
+        "884": [
+            2324.7,
+            2325.7,
+            "Muchos suplentes"
+        ],
+        "885": [
+            2325.7,
+            2328.4,
+            "Creo que el partido de ida fue el punto de inflexión del Madrid"
+        ],
+        "886": [
+            2328.4,
+            2330.1,
+            "De ahí empezó a pegar el subidón"
+        ],
+        "887": [
+            2330.1,
+            2331.6,
+            "Sí, estoy de acuerdo"
+        ],
+        "888": [
+            2331.6,
+            2332.6,
+            "Hacia las estrellas"
+        ],
+        "889": [
+            2332.6,
+            2333.6,
+            "Hacia el firmamento del Madrid"
+        ],
+        "890": [
+            2333.6,
+            2334.6,
+            "El partido de Anfield"
+        ],
+        "891": [
+            2334.6,
+            2336.36,
+            "Madrid perdió aquel partido en Anoeta"
+        ],
+        "892": [
+            2336.36,
+            2337.36,
+            "Y desde entonces"
+        ],
+        "893": [
+            2337.36,
+            2340.04,
+            "El equipo ha ido intratable realmente"
+        ],
+        "894": [
+            2340.04,
+            2341.9,
+            "Y verá que sufrió en Bulgaria"
+        ],
+        "895": [
+            2341.9,
+            2343.94,
+            "En Basilea tampoco ganó tan cómodo"
+        ],
+        "896": [
+            2343.94,
+            2344.94,
+            "Pese a 0-1"
+        ],
+        "897": [
+            2344.94,
+            2345.94,
+            "Un partido que no fue tan cómodo"
+        ],
+        "898": [
+            2345.94,
+            2346.78,
+            "En el que ganó el Real Madrid"
+        ],
+        "899": [
+            2346.78,
+            2346.98,
+            "Un partido que no fue tan cómodo"
+        ],
+        "900": [
+            2347.14,
+            2349.28,
+            "Pero en cualquier caso el grupo ha sido"
+        ],
+        "901": [
+            2349.28,
+            2350.42,
+            "Bueno, ha sido sencillo"
+        ],
+        "902": [
+            2350.42,
+            2351.38,
+            "El Madrid lo ha hecho sencillo"
+        ],
+        "903": [
+            2351.38,
+            2352.44,
+            "Pero ha sido muy superior a los demás"
+        ],
+        "904": [
+            2352.44,
+            2355.32,
+            "No le estamos quitando mérito, ni mucho menos"
+        ],
+        "905": [
+            2355.32,
+            2357.34,
+            "Gol de Arbeloa"
+        ],
+        "906": [
+            2357.34,
+            2358.9,
+            "La competición más"
+        ],
+        "907": [
+            2358.9,
+            2362.04,
+            "Del gol de Álvaro Arbeloa"
+        ],
+        "908": [
+            2362.04,
+            2366.48,
+            "Jugador que, en mi opinión"
+        ],
+        "909": [
+            2366.48,
+            2368.14,
+            "En particular, en intraspreve"
+        ],
+        "910": [
+            2368.14,
+            2369.62,
+            "No ha tenido el reconocimiento"
+        ],
+        "911": [
+            2369.62,
+            2370.96,
+            "Que yo creo que merece"
+        ],
+        "912": [
+            2370.96,
+            2373.62,
+            "Habiendo sido y sigue siendo un gran lateral"
+        ],
+        "913": [
+            2373.62,
+            2375.2,
+            "Que ha sido clave"
+        ],
+        "914": [
+            2375.2,
+            2376.98,
+            "En éxito del Real Madrid en las últimas temporadas"
+        ],
+        "915": [
+            2376.98,
+            2377.12,
+            "Y que ha sido un gran lateral"
+        ],
+        "916": [
+            2377.12,
+            2379.78,
+            "Y clave en éxitos de la selección española"
+        ],
+        "917": [
+            2379.78,
+            2384.16,
+            "Ya no estuvo en el Mundial de Brasil"
+        ],
+        "918": [
+            2384.16,
+            2386.12,
+            "Pero anteriormente fue un hombre clave"
+        ],
+        "919": [
+            2386.12,
+            2387.94,
+            "Tanto en el Madrid"
+        ],
+        "920": [
+            2387.94,
+            2388.98,
+            "Donde lo sigue siendo"
+        ],
+        "921": [
+            2388.98,
+            2390.8,
+            "Como en la selección española"
+        ],
+        "922": [
+            2390.8,
+            2395.0,
+            "Balón que juega Stojanov"
+        ],
+        "923": [
+            2395.0,
+            2399.84,
+            "Se cruza Nacho"
+        ],
+        "924": [
+            2399.84,
+            2402.48,
+            "Bien Nacho"
+        ],
+        "925": [
+            2402.48,
+            2404.94,
+            "Rápido al corte, sacando el balón"
+        ],
+        "926": [
+            2404.94,
+            2405.92,
+            "Con precisión"
+        ],
+        "927": [
+            2405.92,
+            2407.1,
+            "Se equivocó"
+        ],
+        "928": [
+            2407.12,
+            2408.12,
+            "Y toca Marcelo"
+        ],
+        "929": [
+            2408.12,
+            2409.28,
+            "Y otra vez Nacho"
+        ],
+        "930": [
+            2409.28,
+            2409.78,
+            "Sí, sí"
+        ],
+        "931": [
+            2409.78,
+            2411.98,
+            "Todo lo que ha tenido que intervenir lo ha hecho perfecto"
+        ],
+        "932": [
+            2411.98,
+            2412.88,
+            "Súper Nacho"
+        ],
+        "933": [
+            2412.88,
+            2414.74,
+            "Tenemos también minutos de Ierra"
+        ],
+        "934": [
+            2414.74,
+            2416.12,
+            "Y jugando en la posición en la que él"
+        ],
+        "935": [
+            2416.12,
+            2418.26,
+            "Realmente ha sido jugador"
+        ],
+        "936": [
+            2418.26,
+            2420.8,
+            "Desde que empezó en la Real"
+        ],
+        "937": [
+            2420.8,
+            2421.96,
+            "Sobre todo cuando empezó a lucir en la Real"
+        ],
+        "938": [
+            2421.96,
+            2423.7,
+            "Medio centro puro con Medrán"
+        ],
+        "939": [
+            2423.7,
+            2424.62,
+            "Que está jugando por delante"
+        ],
+        "940": [
+            2424.62,
+            2425.86,
+            "Y con Isco también"
+        ],
+        "941": [
+            2425.86,
+            2428.12,
+            "Es decir, el dibujo no lo ha terminado de variar nunca"
+        ],
+        "942": [
+            2428.12,
+            2431.06,
+            "Aunque es verdad que ha habido ese ratito de 4-2-4"
+        ],
+        "943": [
+            2431.06,
+            2432.42,
+            "Pero luego ya al entrar Medrán ha vuelto a cambiar"
+        ],
+        "944": [
+            2432.42,
+            2433.12,
+            "Al quitarse Bale"
+        ],
+        "945": [
+            2433.12,
+            2437.1,
+            "Tú que ya eres mayor, Maldini"
+        ],
+        "946": [
+            2437.12,
+            2438.02,
+            "Aunque no tanto como yo"
+        ],
+        "947": [
+            2438.02,
+            2438.46,
+            "¿Te acuerdas?"
+        ],
+        "948": [
+            2438.54,
+            2439.6,
+            "Hubo un diario que se llamó así"
+        ],
+        "949": [
+            2439.6,
+            2440.44,
+            "4-2-4"
+        ],
+        "950": [
+            2440.44,
+            2440.94,
+            "4-2-4"
+        ],
+        "951": [
+            2440.94,
+            2441.66,
+            "Hace muchos años"
+        ],
+        "952": [
+            2441.66,
+            2442.56,
+            "No lo recuerdo mal"
+        ],
+        "953": [
+            2442.56,
+            2443.58,
+            "Evitado en Barcelona"
+        ],
+        "954": [
+            2443.58,
+            2444.22,
+            "No lo recuerdo"
+        ],
+        "955": [
+            2444.22,
+            2445.1,
+            "Diario 4-2-4"
+        ],
+        "956": [
+            2445.1,
+            2446.02,
+            "Creo que no estoy soñando"
+        ],
+        "957": [
+            2446.02,
+            2446.98,
+            "Creo que es real"
+        ],
+        "958": [
+            2446.98,
+            2451.34,
+            "Diario deportivo"
+        ],
+        "959": [
+            2455.96,
+            2457.88,
+            "Falta que va a sacar el Lutu Goretz"
+        ],
+        "960": [
+            2457.88,
+            2459.12,
+            "Dani Avalo"
+        ],
+        "961": [
+            2459.12,
+            2461.12,
+            "¡Vamos!"
+        ],
+        "962": [
+            2467.12,
+            2469.12,
+            "¡Vamos!"
+        ],
+        "963": [
+            2469.12,
+            2471.12,
+            "¡Vamos!"
+        ],
+        "964": [
+            2472.08,
+            2473.12,
+            "Domingo"
+        ],
+        "965": [
+            2473.12,
+            2474.92,
+            "Domingo"
+        ],
+        "966": [
+            2474.92,
+            2475.46,
+            "¡Vamos!"
+        ],
+        "967": [
+            2475.46,
+            2476.46,
+            "¡Vamos!"
+        ],
+        "968": [
+            2476.46,
+            2477.46,
+            "Domingo"
+        ],
+        "969": [
+            2477.46,
+            2478.42,
+            "¡Vamos!"
+        ],
+        "970": [
+            2478.42,
+            2479.42,
+            "¡Vamos!"
+        ],
+        "971": [
+            2479.42,
+            2480.42,
+            "¡Vamos!"
+        ],
+        "972": [
+            2480.42,
+            2481.42,
+            "¡Vamos!"
+        ],
+        "973": [
+            2481.42,
+            2482.42,
+            "¡Vamos!"
+        ],
+        "974": [
+            2482.42,
+            2483.42,
+            "¡Vamos!"
+        ],
+        "975": [
+            2483.42,
+            2484.42,
+            "¡Vamos!"
+        ],
+        "976": [
+            2484.42,
+            2485.42,
+            "Ludo Goretz"
+        ],
+        "977": [
+            2485.42,
+            2486.42,
+            "Ludo Goretz"
+        ],
+        "978": [
+            2486.42,
+            2487.42,
+            "Igual no vuelvo a pisar al Bernabéu en su historia"
+        ],
+        "979": [
+            2487.42,
+            2488.42,
+            "¿Quién sabe?"
+        ],
+        "980": [
+            2488.42,
+            2489.42,
+            "No, no, probablemente"
+        ],
+        "981": [
+            2489.42,
+            2490.42,
+            "Sí porque"
+        ],
+        "982": [
+            2490.42,
+            2491.42,
+            "En Madrid es muy difícil que no jueguen en Champions"
+        ],
+        "983": [
+            2491.42,
+            2492.42,
+            "Y en Ludo Goretz es fácil que no jueguen en Champions"
+        ],
+        "984": [
+            2492.42,
+            2493.5,
+            "Y es que depende de lo que le dure el capricho yo al presidente"
+        ],
+        "985": [
+            2493.5,
+            2494.5,
+            "Claro"
+        ],
+        "986": [
+            2494.5,
+            2496.5,
+            "Que es un porción"
+        ],
+        "987": [
+            2496.5,
+            2498.4,
+            "que es un multimillonario búlgaro"
+        ],
+        "988": [
+            2498.4,
+            2499.94,
+            "que ha hecho de este equipo de una ciudad"
+        ],
+        "989": [
+            2499.94,
+            2502.26,
+            "de 33.000 habitantes, Rasgrad"
+        ],
+        "990": [
+            2502.26,
+            2503.7,
+            "el campeón de Bulgaria"
+        ],
+        "991": [
+            2503.7,
+            2506.14,
+            "vamos a ver"
+        ],
+        "992": [
+            2506.14,
+            2507.8,
+            "esa contra para el Madrid, se llega al cuarto"
+        ],
+        "993": [
+            2507.8,
+            2509.84,
+            "Chicharito, Chicharito, la frontal"
+        ],
+        "994": [
+            2509.84,
+            2511.92,
+            "Chicharito, dispara flojo"
+        ],
+        "995": [
+            2511.92,
+            2512.94,
+            "tenía solo a Isco"
+        ],
+        "996": [
+            2512.94,
+            2515.06,
+            "también el partido es verdad que es normal"
+        ],
+        "997": [
+            2515.06,
+            2518.32,
+            "pero tenía solo a Isco y tenía solo a"
+        ],
+        "998": [
+            2518.32,
+            2520.66,
+            "a Gesé, que llegaban los dos"
+        ],
+        "999": [
+            2520.66,
+            2521.4,
+            "al remate"
+        ],
+        "1000": [
+            2521.4,
+            2523.96,
+            "es que son tantos que siempre llega alguno solo"
+        ],
+        "1001": [
+            2523.96,
+            2526.64,
+            "recupera ya Remendi"
+        ],
+        "1002": [
+            2526.64,
+            2528.6,
+            "un buen balón para Gesé, iniciando la jugada"
+        ],
+        "1003": [
+            2528.6,
+            2530.1,
+            "el Canario tiene pase atrás"
+        ],
+        "1004": [
+            2530.1,
+            2532.34,
+            "Medrán es el que recibe"
+        ],
+        "1005": [
+            2532.34,
+            2534.7,
+            "Medrán que va a disparar"
+        ],
+        "1006": [
+            2534.7,
+            2536.52,
+            "y eso, se envenena"
+        ],
+        "1007": [
+            2536.52,
+            2538.38,
+            "y gol, Medrán"
+        ],
+        "1008": [
+            2538.38,
+            2540.44,
+            "con rebote incluido, pero Medrán"
+        ],
+        "1009": [
+            2540.44,
+            2542.66,
+            "marca su primer"
+        ],
+        "1010": [
+            2542.66,
+            2544.38,
+            "gol en Liga de Campeones"
+        ],
+        "1011": [
+            2544.38,
+            2546.66,
+            "Álvaro Medrán, el cuarto del Real Madrid"
+        ],
+        "1012": [
+            2546.66,
+            2548.48,
+            "ahí está, ha tenido suerte"
+        ],
+        "1013": [
+            2548.48,
+            2549.96,
+            "pero ahí está el primer gol de Medrán"
+        ],
+        "1014": [
+            2549.96,
+            2552.44,
+            "en Champions, en su carrera, veremos si marca muchos más"
+        ],
+        "1015": [
+            2552.44,
+            2553.94,
+            "pero es un jugador bastante"
+        ],
+        "1016": [
+            2553.94,
+            2554.44,
+            "ofensivo"
+        ],
+        "1017": [
+            2554.44,
+            2556.88,
+            "tiene muy buena pinta, la verdad"
+        ],
+        "1018": [
+            2556.88,
+            2559.92,
+            "el que acaba de marcar el cuarto"
+        ],
+        "1019": [
+            2559.92,
+            2560.88,
+            "del equipo blanco"
+        ],
+        "1020": [
+            2560.88,
+            2564.24,
+            "ahí lo celebra también, sonreían los dos, Arbeloa y él"
+        ],
+        "1021": [
+            2564.24,
+            2568.46,
+            "la repetición de ese disparo de Álvaro Medrán"
+        ],
+        "1022": [
+            2568.46,
+            2573.74,
+            "que pega en el jugador de Madagascar"
+        ],
+        "1023": [
+            2573.74,
+            2575.92,
+            "en Aniceta Bell, a Andrian Antenaina"
+        ],
+        "1024": [
+            2575.92,
+            2577.96,
+            "una de las virtudes de Medrán"
+        ],
+        "1025": [
+            2577.96,
+            2579.86,
+            "es pegar bien con las dos piernas, es una de las claves"
+        ],
+        "1026": [
+            2579.86,
+            2581.98,
+            "de su juego, la ha mostrado mucho"
+        ],
+        "1027": [
+            2581.98,
+            2583.82,
+            "en el Real Madrid"
+        ],
+        "1028": [
+            2583.94,
+            2585.34,
+            "y le pega con el Real Madrid B"
+        ],
+        "1029": [
+            2585.34,
+            2587.76,
+            "y lo ha demostrado aquí, rápidamente se perfila"
+        ],
+        "1030": [
+            2587.76,
+            2589.94,
+            "para la izquierda y no duda en pegarle con la izquierda"
+        ],
+        "1031": [
+            2589.94,
+            2592.02,
+            "ya se envenenó"
+        ],
+        "1032": [
+            2592.02,
+            2593.66,
+            "tras pegar el balón en el jugador de Madagascar"
+        ],
+        "1033": [
+            2593.66,
+            2595.44,
+            "y ya no pudo hacer nada Stojanov"
+        ],
+        "1034": [
+            2595.44,
+            2599.12,
+            "para evitar el cuarto"
+        ],
+        "1035": [
+            2611.12,
+            2612.98,
+            "el público como es habitual"
+        ],
+        "1036": [
+            2612.98,
+            2613.82,
+            "con esta situación"
+        ],
+        "1037": [
+            2613.94,
+            2615.5,
+            "cuando un canterano sobre el primer equipo"
+        ],
+        "1038": [
+            2615.5,
+            2617.16,
+            "pues correados su apellido, Medrán"
+        ],
+        "1039": [
+            2617.16,
+            2621.06,
+            "atrás Kosmin Moti"
+        ],
+        "1040": [
+            2621.06,
+            2622.82,
+            "Stojanov"
+        ],
+        "1041": [
+            2622.82,
+            2629.18,
+            "de cabeza Marcelo Iyarramendi"
+        ],
+        "1042": [
+            2629.18,
+            2631.34,
+            "de nuevo para Marcelo"
+        ],
+        "1043": [
+            2631.34,
+            2632.9,
+            "taconazo de Ronaldo"
+        ],
+        "1044": [
+            2632.9,
+            2635.26,
+            "devolución a Marcelo, se la devuelve"
+        ],
+        "1045": [
+            2635.26,
+            2638.1,
+            "Marcelo, Ronaldo que buscaba su segundo gol"
+        ],
+        "1046": [
+            2638.1,
+            2639.7,
+            "se cruzó Kosmin Moti"
+        ],
+        "1047": [
+            2639.7,
+            2641.34,
+            "y evitó"
+        ],
+        "1048": [
+            2641.34,
+            2643.64,
+            "el gol, el segundo de Cristiano Ronaldo"
+        ],
+        "1049": [
+            2643.94,
+            2651.3,
+            "una combinación la que fabricaron Marcelo y Cristiano"
+        ],
+        "1050": [
+            2651.3,
+            2653.22,
+            "deja atrás Isco"
+        ],
+        "1051": [
+            2653.22,
+            2658.74,
+            "Medrán"
+        ],
+        "1052": [
+            2658.74,
+            2662.14,
+            "Álvaro Medrán, Gesé"
+        ],
+        "1053": [
+            2662.14,
+            2664.44,
+            "de Jordan Minez, veremos si le encara"
+        ],
+        "1054": [
+            2664.44,
+            2666.98,
+            "intenta desbordar, Gesé que está con mucha confianza"
+        ],
+        "1055": [
+            2666.98,
+            2668.58,
+            "deja atrás a Gesé"
+        ],
+        "1056": [
+            2668.58,
+            2670.2,
+            "con mucha intención, buscaba a Chicharito"
+        ],
+        "1057": [
+            2670.2,
+            2672.94,
+            "se le ve"
+        ],
+        "1058": [
+            2672.94,
+            2673.74,
+            "y se suma a la parte de atrás"
+        ],
+        "1059": [
+            2673.74,
+            2673.92,
+            "y se le ve que es un gol"
+        ],
+        "1060": [
+            2673.94,
+            2675.6,
+            "un factor súper positivo"
+        ],
+        "1061": [
+            2675.6,
+            2677.18,
+            "que la recuperación ha sido fenomenal"
+        ],
+        "1062": [
+            2677.18,
+            2679.26,
+            "que ha tardado más de ocho meses como digo"
+        ],
+        "1063": [
+            2679.26,
+            2681.04,
+            "pero se le ve que encara la primera"
+        ],
+        "1064": [
+            2681.04,
+            2682.6,
+            "tiene una confianza plena"
+        ],
+        "1065": [
+            2682.6,
+            2685.8,
+            "esa es la clave, que sea el mismo jugador que era cuando se lesionó"
+        ],
+        "1066": [
+            2685.8,
+            2687.66,
+            "que no tenga en la cabeza"
+        ],
+        "1067": [
+            2687.66,
+            2688.44,
+            "ese miedo"
+        ],
+        "1068": [
+            2688.44,
+            2691.92,
+            "la verdad es que las sensaciones"
+        ],
+        "1069": [
+            2691.92,
+            2692.82,
+            "son muy buenas de Gesé"
+        ],
+        "1070": [
+            2692.82,
+            2693.98,
+            "muy buenas"
+        ],
+        "1071": [
+            2693.98,
+            2697.46,
+            "patentes en el partido ante el Cornella"
+        ],
+        "1072": [
+            2697.46,
+            2698.56,
+            "celebró su gol, por cierto"
+        ],
+        "1073": [
+            2698.56,
+            2700.0,
+            "con su propia jugada"
+        ]
+    }
+}

@@ -1,0 +1,3404 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            6.0,
+            "El partido de la semana pasada, el Barça-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "1": [
+            6.0,
+            9.0,
+            "el Barça-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "el Barça-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "3": [
+            12.0,
+            15.0,
+            "el Barça-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "4": [
+            15.0,
+            18.0,
+            "el Barça-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "5": [
+            18.0,
+            21.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "6": [
+            21.0,
+            24.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "7": [
+            24.0,
+            27.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "8": [
+            27.0,
+            30.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella,"
+        ],
+        "9": [
+            30.0,
+            33.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella,"
+        ],
+        "10": [
+            33.0,
+            36.0,
+            "el Barça-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella,"
+        ],
+        "11": [
+            36.0,
+            39.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella,"
+        ],
+        "12": [
+            39.0,
+            42.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella,"
+        ],
+        "13": [
+            42.0,
+            45.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "14": [
+            45.0,
+            48.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "15": [
+            48.0,
+            51.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "16": [
+            51.0,
+            54.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "17": [
+            54.0,
+            57.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "18": [
+            57.0,
+            60.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "19": [
+            60.0,
+            63.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "20": [
+            63.0,
+            66.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "21": [
+            66.0,
+            69.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "22": [
+            69.0,
+            72.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "23": [
+            72.0,
+            75.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "24": [
+            75.0,
+            78.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "25": [
+            78.0,
+            81.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "26": [
+            81.0,
+            84.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "27": [
+            84.0,
+            87.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "28": [
+            87.0,
+            90.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "29": [
+            90.0,
+            93.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "30": [
+            93.0,
+            96.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "31": [
+            96.0,
+            99.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "32": [
+            99.0,
+            102.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "33": [
+            102.0,
+            105.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "34": [
+            105.0,
+            108.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "35": [
+            108.0,
+            111.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "36": [
+            111.0,
+            114.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "37": [
+            114.0,
+            117.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "38": [
+            117.0,
+            120.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "39": [
+            120.0,
+            123.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "40": [
+            123.0,
+            126.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "41": [
+            126.0,
+            129.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "42": [
+            129.0,
+            132.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "43": [
+            132.0,
+            135.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "44": [
+            135.0,
+            138.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "45": [
+            138.0,
+            141.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "46": [
+            141.0,
+            144.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "47": [
+            144.0,
+            147.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "48": [
+            147.0,
+            150.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "49": [
+            150.0,
+            153.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "50": [
+            153.0,
+            156.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "51": [
+            156.0,
+            159.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "52": [
+            159.0,
+            162.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "53": [
+            162.0,
+            165.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "54": [
+            165.0,
+            168.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "55": [
+            168.0,
+            171.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "56": [
+            171.0,
+            174.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "57": [
+            174.0,
+            177.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "58": [
+            177.0,
+            180.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "59": [
+            180.0,
+            183.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "60": [
+            183.0,
+            186.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "61": [
+            186.0,
+            189.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "62": [
+            189.0,
+            192.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "63": [
+            192.0,
+            195.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "64": [
+            195.0,
+            198.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "65": [
+            198.0,
+            201.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "66": [
+            201.0,
+            204.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "67": [
+            204.0,
+            207.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "68": [
+            207.0,
+            210.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "69": [
+            210.0,
+            213.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "70": [
+            213.0,
+            216.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "71": [
+            216.0,
+            219.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "72": [
+            219.0,
+            222.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "73": [
+            222.0,
+            225.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "74": [
+            225.0,
+            228.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "75": [
+            228.0,
+            231.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "76": [
+            231.0,
+            234.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "77": [
+            234.0,
+            237.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "78": [
+            237.0,
+            240.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "79": [
+            240.0,
+            243.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "80": [
+            243.0,
+            246.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "81": [
+            246.0,
+            249.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "82": [
+            249.0,
+            252.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "83": [
+            252.0,
+            255.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "84": [
+            255.0,
+            258.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "85": [
+            258.0,
+            261.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "86": [
+            261.0,
+            264.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "87": [
+            264.0,
+            267.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "88": [
+            267.0,
+            270.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "89": [
+            270.0,
+            273.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "90": [
+            273.0,
+            276.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "91": [
+            276.0,
+            279.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "92": [
+            279.0,
+            282.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "93": [
+            282.0,
+            285.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "94": [
+            285.0,
+            288.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "95": [
+            288.0,
+            291.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "96": [
+            291.0,
+            294.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "97": [
+            294.0,
+            297.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "98": [
+            297.0,
+            300.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "99": [
+            300.0,
+            303.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "100": [
+            303.0,
+            306.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "101": [
+            306.0,
+            309.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "102": [
+            309.0,
+            312.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "103": [
+            312.0,
+            315.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "104": [
+            315.0,
+            318.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "105": [
+            318.0,
+            321.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "106": [
+            321.0,
+            324.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "107": [
+            324.0,
+            327.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "108": [
+            327.0,
+            330.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "109": [
+            330.0,
+            333.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "110": [
+            333.0,
+            336.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "111": [
+            336.0,
+            339.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "112": [
+            339.0,
+            342.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "113": [
+            342.0,
+            345.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "114": [
+            345.0,
+            348.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "115": [
+            348.0,
+            351.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "116": [
+            351.0,
+            354.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "117": [
+            354.0,
+            357.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "118": [
+            357.0,
+            360.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "119": [
+            360.0,
+            363.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "120": [
+            363.0,
+            366.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "121": [
+            366.0,
+            369.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "122": [
+            369.0,
+            372.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "123": [
+            372.0,
+            375.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "124": [
+            375.0,
+            378.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "125": [
+            378.0,
+            381.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "126": [
+            381.0,
+            384.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "127": [
+            384.0,
+            387.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "128": [
+            387.0,
+            390.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "129": [
+            390.0,
+            393.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "130": [
+            393.0,
+            396.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "131": [
+            396.0,
+            399.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "132": [
+            399.0,
+            402.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "133": [
+            402.0,
+            405.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "134": [
+            405.0,
+            408.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "135": [
+            408.0,
+            411.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "136": [
+            411.0,
+            414.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "137": [
+            414.0,
+            417.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "138": [
+            417.0,
+            420.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "139": [
+            420.0,
+            423.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "140": [
+            423.0,
+            426.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "141": [
+            426.0,
+            429.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "142": [
+            429.0,
+            432.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "143": [
+            432.0,
+            435.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "144": [
+            435.0,
+            438.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "145": [
+            438.0,
+            441.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "146": [
+            441.0,
+            444.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "147": [
+            444.0,
+            447.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "148": [
+            447.0,
+            450.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "149": [
+            450.0,
+            453.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "150": [
+            453.0,
+            456.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "151": [
+            456.0,
+            459.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "152": [
+            459.0,
+            462.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "153": [
+            462.0,
+            465.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "154": [
+            465.0,
+            468.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "155": [
+            468.0,
+            471.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "156": [
+            471.0,
+            474.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "157": [
+            474.0,
+            477.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "158": [
+            477.0,
+            480.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "159": [
+            480.0,
+            483.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "160": [
+            483.0,
+            486.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "161": [
+            486.0,
+            489.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "162": [
+            489.0,
+            492.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "163": [
+            492.0,
+            495.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "164": [
+            495.0,
+            498.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "165": [
+            498.0,
+            501.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "166": [
+            501.0,
+            504.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "167": [
+            504.0,
+            507.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "168": [
+            507.0,
+            510.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "169": [
+            510.0,
+            513.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "170": [
+            513.0,
+            516.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "171": [
+            516.0,
+            519.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "172": [
+            519.0,
+            522.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "173": [
+            522.0,
+            525.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "174": [
+            525.0,
+            528.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "175": [
+            528.0,
+            531.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "176": [
+            531.0,
+            534.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "177": [
+            534.0,
+            537.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "178": [
+            537.0,
+            540.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "179": [
+            540.0,
+            543.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "180": [
+            543.0,
+            546.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "181": [
+            546.0,
+            549.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "182": [
+            549.0,
+            552.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "183": [
+            552.0,
+            555.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "184": [
+            555.0,
+            558.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "185": [
+            558.0,
+            561.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "186": [
+            561.0,
+            564.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "187": [
+            564.0,
+            567.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "188": [
+            567.0,
+            570.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "189": [
+            570.0,
+            573.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "190": [
+            573.0,
+            576.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "191": [
+            576.0,
+            579.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "192": [
+            579.0,
+            582.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "193": [
+            582.0,
+            585.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "194": [
+            585.0,
+            588.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "195": [
+            588.0,
+            591.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "196": [
+            591.0,
+            594.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "197": [
+            594.0,
+            597.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "198": [
+            597.0,
+            600.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "199": [
+            600.0,
+            603.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "200": [
+            603.0,
+            606.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "201": [
+            606.0,
+            609.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "202": [
+            609.0,
+            612.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "203": [
+            612.0,
+            615.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "204": [
+            615.0,
+            618.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "205": [
+            618.0,
+            621.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "206": [
+            621.0,
+            624.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "207": [
+            624.0,
+            627.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "208": [
+            627.0,
+            630.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "209": [
+            630.0,
+            633.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "210": [
+            633.0,
+            636.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "211": [
+            636.0,
+            639.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "212": [
+            639.0,
+            642.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "213": [
+            642.0,
+            645.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "214": [
+            645.0,
+            648.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "215": [
+            648.0,
+            651.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "216": [
+            651.0,
+            654.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "217": [
+            654.0,
+            657.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "218": [
+            657.0,
+            660.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "219": [
+            660.0,
+            663.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "220": [
+            663.0,
+            666.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "221": [
+            666.0,
+            669.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "222": [
+            669.0,
+            672.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "223": [
+            672.0,
+            675.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "224": [
+            675.0,
+            678.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "225": [
+            678.0,
+            681.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "226": [
+            681.0,
+            684.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "227": [
+            684.0,
+            687.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "228": [
+            687.0,
+            690.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "229": [
+            690.0,
+            693.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "230": [
+            693.0,
+            696.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "231": [
+            696.0,
+            699.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "232": [
+            699.0,
+            702.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "233": [
+            702.0,
+            705.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "234": [
+            705.0,
+            708.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "235": [
+            708.0,
+            711.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "236": [
+            711.0,
+            714.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "237": [
+            714.0,
+            717.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "238": [
+            717.0,
+            720.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "239": [
+            720.0,
+            723.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "240": [
+            723.0,
+            726.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "241": [
+            726.0,
+            729.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "242": [
+            729.0,
+            732.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "243": [
+            732.0,
+            735.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "244": [
+            735.0,
+            738.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "245": [
+            738.0,
+            741.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "246": [
+            741.0,
+            744.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "247": [
+            744.0,
+            747.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "248": [
+            747.0,
+            750.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "249": [
+            750.0,
+            753.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "250": [
+            753.0,
+            756.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "251": [
+            756.0,
+            759.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "252": [
+            759.0,
+            762.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "253": [
+            762.0,
+            765.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "254": [
+            765.0,
+            768.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "255": [
+            768.0,
+            771.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "256": [
+            771.0,
+            774.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "257": [
+            774.0,
+            777.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "258": [
+            777.0,
+            780.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "259": [
+            780.0,
+            783.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "260": [
+            783.0,
+            786.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "261": [
+            786.0,
+            789.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "262": [
+            789.0,
+            792.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "263": [
+            792.0,
+            795.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "264": [
+            795.0,
+            798.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "265": [
+            798.0,
+            801.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "266": [
+            801.0,
+            804.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "267": [
+            804.0,
+            807.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "268": [
+            807.0,
+            810.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "269": [
+            810.0,
+            813.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "270": [
+            813.0,
+            816.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "271": [
+            816.0,
+            819.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "272": [
+            819.0,
+            822.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "273": [
+            822.0,
+            825.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "274": [
+            825.0,
+            828.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "275": [
+            828.0,
+            831.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "276": [
+            831.0,
+            834.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "277": [
+            834.0,
+            837.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "278": [
+            837.0,
+            840.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "279": [
+            840.0,
+            843.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "280": [
+            843.0,
+            846.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "281": [
+            846.0,
+            849.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "282": [
+            849.0,
+            852.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "283": [
+            852.0,
+            855.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "284": [
+            855.0,
+            858.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "285": [
+            858.0,
+            861.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "286": [
+            861.0,
+            864.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "287": [
+            864.0,
+            867.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "288": [
+            867.0,
+            870.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "289": [
+            870.0,
+            873.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "290": [
+            873.0,
+            876.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "291": [
+            876.0,
+            879.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "292": [
+            879.0,
+            882.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "293": [
+            882.0,
+            885.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "294": [
+            885.0,
+            888.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "295": [
+            888.0,
+            891.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "296": [
+            891.0,
+            894.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "297": [
+            894.0,
+            897.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "298": [
+            897.0,
+            900.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "299": [
+            900.0,
+            903.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "300": [
+            903.0,
+            906.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "301": [
+            906.0,
+            909.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "302": [
+            909.0,
+            912.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "303": [
+            912.0,
+            915.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "304": [
+            915.0,
+            918.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "305": [
+            918.0,
+            921.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "306": [
+            921.0,
+            924.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "307": [
+            924.0,
+            927.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "308": [
+            927.0,
+            930.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "309": [
+            930.0,
+            933.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "310": [
+            933.0,
+            936.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "311": [
+            936.0,
+            939.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "312": [
+            939.0,
+            942.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "313": [
+            942.0,
+            945.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "314": [
+            945.0,
+            948.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "315": [
+            948.0,
+            951.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "316": [
+            951.0,
+            954.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "317": [
+            954.0,
+            957.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "318": [
+            957.0,
+            960.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "319": [
+            960.0,
+            963.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "320": [
+            963.0,
+            966.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "321": [
+            966.0,
+            969.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "322": [
+            969.0,
+            972.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "323": [
+            972.0,
+            975.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "324": [
+            975.0,
+            978.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "325": [
+            978.0,
+            981.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "326": [
+            981.0,
+            984.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "327": [
+            984.0,
+            987.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "328": [
+            987.0,
+            990.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "329": [
+            990.0,
+            993.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "330": [
+            993.0,
+            996.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "331": [
+            996.0,
+            999.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "332": [
+            999.0,
+            1002.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "333": [
+            1002.0,
+            1005.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "334": [
+            1005.0,
+            1008.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "335": [
+            1008.0,
+            1011.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "336": [
+            1011.0,
+            1014.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "337": [
+            1014.0,
+            1017.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "338": [
+            1017.0,
+            1020.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "339": [
+            1020.0,
+            1023.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "340": [
+            1023.0,
+            1026.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "341": [
+            1026.0,
+            1029.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "342": [
+            1029.0,
+            1032.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "343": [
+            1032.0,
+            1035.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "344": [
+            1035.0,
+            1038.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "345": [
+            1038.0,
+            1041.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "346": [
+            1041.0,
+            1044.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "347": [
+            1044.0,
+            1047.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "348": [
+            1047.0,
+            1050.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "349": [
+            1050.0,
+            1053.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "350": [
+            1053.0,
+            1056.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "351": [
+            1056.0,
+            1059.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "352": [
+            1059.0,
+            1062.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "353": [
+            1062.0,
+            1065.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "354": [
+            1065.0,
+            1068.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "355": [
+            1068.0,
+            1071.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "356": [
+            1071.0,
+            1074.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "357": [
+            1074.0,
+            1077.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "358": [
+            1077.0,
+            1080.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "359": [
+            1080.0,
+            1083.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "360": [
+            1083.0,
+            1086.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "361": [
+            1086.0,
+            1089.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "362": [
+            1089.0,
+            1092.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "363": [
+            1092.0,
+            1095.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "364": [
+            1095.0,
+            1098.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "365": [
+            1098.0,
+            1101.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "366": [
+            1101.0,
+            1104.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "367": [
+            1104.0,
+            1107.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "368": [
+            1107.0,
+            1110.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "369": [
+            1110.0,
+            1113.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "370": [
+            1113.0,
+            1116.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "371": [
+            1116.0,
+            1119.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "372": [
+            1119.0,
+            1122.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "373": [
+            1122.0,
+            1125.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "374": [
+            1125.0,
+            1128.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "375": [
+            1128.0,
+            1131.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "376": [
+            1131.0,
+            1134.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "377": [
+            1134.0,
+            1137.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "378": [
+            1137.0,
+            1140.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "379": [
+            1140.0,
+            1143.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "380": [
+            1143.0,
+            1146.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "381": [
+            1146.0,
+            1149.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "382": [
+            1149.0,
+            1152.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "383": [
+            1152.0,
+            1155.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "384": [
+            1155.0,
+            1158.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "385": [
+            1158.0,
+            1161.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "386": [
+            1161.0,
+            1164.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "387": [
+            1164.0,
+            1167.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "388": [
+            1167.0,
+            1170.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "389": [
+            1170.0,
+            1173.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "390": [
+            1173.0,
+            1176.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "391": [
+            1176.0,
+            1179.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "392": [
+            1179.0,
+            1182.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "393": [
+            1182.0,
+            1185.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "394": [
+            1185.0,
+            1188.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "395": [
+            1188.0,
+            1191.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "396": [
+            1191.0,
+            1194.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "397": [
+            1194.0,
+            1197.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "398": [
+            1197.0,
+            1200.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "399": [
+            1200.0,
+            1203.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "400": [
+            1203.0,
+            1206.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "401": [
+            1206.0,
+            1209.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "402": [
+            1209.0,
+            1212.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "403": [
+            1212.0,
+            1215.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "404": [
+            1215.0,
+            1218.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "405": [
+            1218.0,
+            1221.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "406": [
+            1221.0,
+            1224.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "407": [
+            1224.0,
+            1227.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "408": [
+            1227.0,
+            1230.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "409": [
+            1230.0,
+            1233.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "410": [
+            1233.0,
+            1236.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "411": [
+            1237.0,
+            1240.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "412": [
+            1240.0,
+            1243.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "413": [
+            1243.0,
+            1246.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "414": [
+            1246.0,
+            1249.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "415": [
+            1249.0,
+            1252.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "416": [
+            1252.0,
+            1255.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "417": [
+            1255.0,
+            1258.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "418": [
+            1258.0,
+            1261.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "419": [
+            1261.0,
+            1264.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "420": [
+            1264.0,
+            1267.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "421": [
+            1267.0,
+            1270.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "422": [
+            1270.0,
+            1273.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "423": [
+            1273.0,
+            1276.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "424": [
+            1276.0,
+            1279.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "425": [
+            1279.0,
+            1282.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "426": [
+            1283.0,
+            1286.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "427": [
+            1286.0,
+            1289.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "428": [
+            1289.0,
+            1292.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "429": [
+            1292.0,
+            1295.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "430": [
+            1295.0,
+            1298.0,
+            "el Barça-Marsella-Marsella-Marsella-Marsella, el Barça-Marsella-Marsella-Marsella-Marsella,"
+        ],
+        "431": [
+            1299.0,
+            1304.0,
+            "Retrocede Jaume Acosta ante Leo Messi, entrega para Trigueros, sube por la derecha Mario,"
+        ],
+        "432": [
+            1304.0,
+            1310.0,
+            "le vieron, balón profundo de Trigueros, intenta alcanzarla y parece que lo va a hacer el jugador de Nobelda,"
+        ],
+        "433": [
+            1310.0,
+            1315.0,
+            "no para seguir jugando, pero sí para cambiar de alguna manera un saque de portería por un saque de banda."
+        ],
+        "434": [
+            1318.0,
+            1324.0,
+            "Ahí tenemos otra vez la acción de Neymar con Rodri Hernández, no indicó falta Sánchez Martínez."
+        ],
+        "435": [
+            1328.0,
+            1339.0,
+            "La rifa Lucas Diñe, corta Musachio, balón para Rodri, presiona Rakit Ixtábalo que acaba por quitarse de encima de esa pelota,"
+        ],
+        "436": [
+            1339.0,
+            1342.0,
+            "que recogerá sin oposición Lucas Diñe."
+        ],
+        "437": [
+            1345.0,
+            1347.0,
+            "Castillejo en el Villarreal."
+        ],
+        "438": [
+            1347.0,
+            1348.0,
+            "Cambio."
+        ],
+        "439": [
+            1348.0,
+            1356.0,
+            "Se prepara o va a comenzar a prepararse Samu Castillejo, es lo que ha indicado Fran Escribá que le ha mandado al banquillo."
+        ],
+        "440": [
+            1356.0,
+            1360.0,
+            "Se equivocó Busquets, recuperó el Villarreal de primera Rodri, Trigueros quiere darse la vuelta."
+        ],
+        "441": [
+            1360.0,
+            1366.0,
+            "Apertura de Trigueros, levanta el banderín del colegiado, ahí fuera de juego."
+        ],
+        "442": [
+            1367.0,
+            1374.0,
+            "Se adelantó Roberto Soriano, saca rápido Rakitic a correr Sergi Roberto, intenta aprovechar esta acción picar al Barcelona."
+        ],
+        "443": [
+            1376.0,
+            1382.0,
+            "Apertura de Sergi Roberto, pisa Aria Suárez, busca el hueco, recorta Luis, sigue Suárez."
+        ],
+        "444": [
+            1383.0,
+            1386.0,
+            "¡Gol!"
+        ],
+        "445": [
+            1393.0,
+            1397.0,
+            "Del Barça en el 68, gol de Luis Suárez."
+        ],
+        "446": [
+            1397.0,
+            1405.0,
+            "Donde hay calidad, donde hay talento, donde hay disciplina, donde hay una calidad del aspecto colectivo,"
+        ],
+        "447": [
+            1405.0,
+            1411.0,
+            "también hay calle, también hay asfalto, también hay picardía, también está aquel punto que exige toda competición"
+        ],
+        "448": [
+            1411.0,
+            1414.0,
+            "de ser un poquito más rápido y más listo que tu rival."
+        ],
+        "449": [
+            1414.0,
+            1421.0,
+            "Dejó la pelota muerta ahí el FC Barcelona y sacó rápido para aprovechar que el Villarreal no se había reflejado."
+        ],
+        "450": [
+            1421.0,
+            1428.0,
+            "Carrerón de Sergi Roberto para habilitar a Luis Suárez que en el mano a mano, tras el recorte, marca el tercero del FC Barcelona."
+        ],
+        "451": [
+            1428.0,
+            1431.0,
+            "Gol de Suárez, Barça 3-1 Villarreal."
+        ],
+        "452": [
+            1431.0,
+            1433.0,
+            "¿Vivir Villarreal o no?"
+        ],
+        "453": [
+            1433.0,
+            1436.0,
+            "Sí, así es, es que creo que todo nace de ahí, ¿no?"
+        ],
+        "454": [
+            1436.0,
+            1442.0,
+            "Un jugador que está más astuto, diría yo que más concentrado, más metido, que es Rakitic."
+        ],
+        "455": [
+            1442.0,
+            1447.0,
+            "Rakitic saca rápido y, bueno, haya desorden en la defensa."
+        ],
+        "456": [
+            1447.0,
+            1453.0,
+            "No tarda en replegar y al final ese ataque rápido, fíjate, ha sido Rakitic a Sergi Roberto."
+        ],
+        "457": [
+            1453.0,
+            1459.0,
+            "Sergi Roberto sobre Suárez, con tres jugadores, tres pases y ha significado el gol."
+        ],
+        "458": [
+            1459.0,
+            1468.0,
+            "Ya llega un uno contra uno, que al final es un dos contra uno, pero ya llega tarde el defensor que iba a la ayuda del Villarreal y se convierte en este 3-1."
+        ],
+        "459": [
+            1468.0,
+            1473.0,
+            "Que parecía que el Villarreal dudaba, ¿no? ¿Qué ha sido? ¿Ha sido falta? ¿Ha sido fuera de juego? ¿Va más rápido Rakitic?"
+        ],
+        "460": [
+            1473.0,
+            1480.0,
+            "Y ahí nace este tercer gol que le puede dar tranquilidad cuando el Villarreal ya había adelantado líneas."
+        ],
+        "461": [
+            1480.0,
+            1487.0,
+            "Ya iba a buscar más al Barça, incluso ha estado a punto de penalizarle, le había obligado a cometer errores en esa zona de inicio"
+        ],
+        "462": [
+            1487.0,
+            1494.0,
+            "para buscar la posibilidad de un empate, pero se ha encontrado con que no le ha servido y ha llegado el tercero del Barcelona."
+        ],
+        "463": [
+            1494.0,
+            1507.0,
+            "27 goles de Luis Suárez en 33 partidos, o lo que es lo mismo, 34 en la temporada, 50 de Leomés en la temporada, 16 de Neymar Junior en la temporada."
+        ],
+        "464": [
+            1507.0,
+            1513.0,
+            "El tridente en todas las competiciones alcanza los 100 goles en la presente temporada con este 3-1"
+        ],
+        "465": [
+            1513.0,
+            1521.0,
+            "con el que el Barça se impone al Villarreal que está a punto de hacer los cambios. Van a entrar Sansone y Samu Castillejo."
+        ],
+        "466": [
+            1521.0,
+            1535.0,
+            "Es la tercera temporada consecutiva en la que esta asociación goleadora, Messi, Neymar Suárez, alcanza, supera los 100 goles en todas las competiciones."
+        ],
+        "467": [
+            1536.0,
+            1549.0,
+            "Marcos Suárez, el 3-1 para el FC Barcelona, la asistencia se la darán a Sergi Roberto, pero aunque no figuren las estadísticas, Iván Rakitic estuvo en la Génesis, en el origen de todo con ese saque rápido."
+        ],
+        "468": [
+            1549.0,
+            1555.0,
+            "Preparado el doble cambio en el Villarreal, también llegarán ya las modificaciones en el Barça con Jordi Alba."
+        ],
+        "469": [
+            1555.0,
+            1567.0,
+            "Ah bueno, sí, con Jordi Alba, que ya estaba preparado y llamaba también Luis Enrique Mascherano, pero Jordi Alba es verdad, se me había colado aquí por el batillo y no lo había visto, está preparado ya para ingresar en el terreno del juego."
+        ],
+        "470": [
+            1567.0,
+            1570.0,
+            "Ojo que hay tarjeta, para Soldado."
+        ],
+        "471": [
+            1571.0,
+            1576.0,
+            "La cuarta del partido, segunda para un futbolista del Villarreal."
+        ],
+        "472": [
+            1576.0,
+            1579.0,
+            "Y que se va, Soldado es uno de los hombres que se marcha."
+        ],
+        "473": [
+            1580.0,
+            1585.0,
+            "Silbado por el Camp Nou, futbolista valenciano, criado en la cantera del Real Madrid."
+        ],
+        "474": [
+            1585.0,
+            1595.0,
+            "Había comentado esta semana que no había ganado en el Camp Nou, que era un buen momento para hacerlo, pero de momento 3-1 en el marcador, entra Sansone por soldado."
+        ],
+        "475": [
+            1596.0,
+            1602.0,
+            "Se retira del terreno de juego Roberto Soriano, el italiano entra, Samu Castillejo."
+        ],
+        "476": [
+            1602.0,
+            1610.0,
+            "El cambio que podía tener previsto, preparado, Fran Escriba, antes del gol y que también ejecuta, aunque ha incluido una modificación más."
+        ],
+        "477": [
+            1610.0,
+            1615.0,
+            "Y el que va a esperar ahora es Jordi Alba, vamos a ver si hay que esperar, bueno va a tener que esperar un poco más."
+        ],
+        "478": [
+            1616.0,
+            1622.0,
+            "Ahí está el doble cambio en el Villarreal, se marchó Roberto Soriano, entró Samu Castillejo, fuera Soldado."
+        ],
+        "479": [
+            1623.0,
+            1627.0,
+            "Dentro para acompañar a Backenbou, el italiano Nicola Sansone."
+        ],
+        "480": [
+            1627.0,
+            1632.0,
+            "Y Sansone parece que va a ocupar la posición de Soldado y Castillejo ha venido a la derecha."
+        ],
+        "481": [
+            1633.0,
+            1640.0,
+            "Se enfrentará en el mismo espacio con Digne, Jonathan dos Santos ha pasado a la izquierda de la zona de Soriano contra Sergi Roberto."
+        ],
+        "482": [
+            1640.0,
+            1645.0,
+            "Seguramente como decía Ricardo, ya tenía pensado estos dos cambios, los podía haber cambiado en caso de empate,"
+        ],
+        "483": [
+            1645.0,
+            1654.0,
+            "pero al añadir un gol más a favor del Barcelona, pues le sirven también para poner jugadores frescos de piernas descansadas."
+        ],
+        "484": [
+            1654.0,
+            1662.0,
+            "Los necesitará para atacar y buscar un gol que le meta en el partido, pero al mismo tiempo no puede descuidarse defensivamente."
+        ],
+        "485": [
+            1663.0,
+            1668.0,
+            "Trigueros al suelo en esa pumba con Rakitic, Neymar se la pasa por detrás, sigue Neymar, más de Neymar."
+        ],
+        "486": [
+            1668.0,
+            1671.0,
+            "Neymar en la frontal, Neymar está rodeado de camisetas rivales."
+        ],
+        "487": [
+            1672.0,
+            1677.0,
+            "Dejó para Suárez que no acertó con ese toque de primeras a correr, dice Cedric Backenbou y corre muchísimo."
+        ],
+        "488": [
+            1678.0,
+            1682.0,
+            "Allá va Backenbou que deja del camino a Samuel Ontiti, le sigue en esa acción de ataque Sansone."
+        ],
+        "489": [
+            1683.0,
+            1686.0,
+            "Pisa ya a Arie Backenbou, sigue Backenbou, le pega Backenbou, se la saque de esquina."
+        ],
+        "490": [
+            1687.0,
+            1693.0,
+            "Lo hizo todo Cedric Backenbou desde que cogió la pelota a unos 60 metros de la portería del Barcelona."
+        ],
+        "491": [
+            1693.0,
+            1698.0,
+            "Está en un gran estado de forma, aquí vemos cómo recupera el balón cerca del centro del campo."
+        ],
+        "492": [
+            1699.0,
+            1706.0,
+            "Hay un desmarque muy bueno de Sansone que al final no lo interpreta, sigue y cuando llega en el área, yo pensaba que dispararía,"
+        ],
+        "493": [
+            1707.0,
+            1711.0,
+            "pero hace una bicicleta y después es verdad que el remate lo ha desviado el jugador de Barcelona."
+        ],
+        "494": [
+            1712.0,
+            1713.0,
+            "Buena acción."
+        ],
+        "495": [
+            1714.0,
+            1719.0,
+            "Jonathan dos Santos la pone dentro del área Trigueros, envía el primer palo, pelota rechazada este Samu Castillejo."
+        ],
+        "496": [
+            1719.0,
+            1724.0,
+            "Castillejo perseguido por Neymar, mete el cuerpo Neymar que acaba recuperando."
+        ],
+        "497": [
+            1725.0,
+            1731.0,
+            "La esconde, deja de tacón para Digne, Digne no sigue ese balón, el último en tocar ha sido el francés del Barça."
+        ],
+        "498": [
+            1732.0,
+            1734.0,
+            "Saque de banda para el Villarreal."
+        ],
+        "499": [
+            1735.0,
+            1739.0,
+            "Ya todo esto sigue esperando Jordi Alba que un poquito más y tendrá que volver a calentar Ricardo."
+        ],
+        "500": [
+            1740.0,
+            1745.0,
+            "Sí porque en esta grada ya que ya no pega el sol desde hace tiempo sopla el viento y hace un poquito de fresco ya."
+        ],
+        "501": [
+            1746.0,
+            1748.0,
+            "Nueva interrupción pero no se lleva a cabo el cambio."
+        ],
+        "502": [
+            1749.0,
+            1755.0,
+            "No y Marchena no está dentro del banquillo también despojado del peto del chándal esperando también la modificación."
+        ],
+        "503": [
+            1756.0,
+            1759.0,
+            "No sé si las va a hacer al mismo tiempo o va a hacer dos paradas en el partido de Luis Enrique."
+        ],
+        "504": [
+            1760.0,
+            1766.0,
+            "Trigueros podría animarse con el golpeo, prefiere abrir hacia la izquierda, no se entiende con Jaume Costa y ahora sí va a llegar el cambio."
+        ],
+        "505": [
+            1767.0,
+            1771.0,
+            "Ahora sí, Luis Enrique le hace el gesto al cuarto árbitro para permitir ahora la modificación."
+        ],
+        "506": [
+            1771.0,
+            1777.0,
+            "Carlos Naval ahí con el brazalete como delegado esperando para ver los números de la tablilla."
+        ],
+        "507": [
+            1778.0,
+            1780.0,
+            "Sánchez Martínez dando el permiso para el cambio."
+        ],
+        "508": [
+            1781.0,
+            1784.0,
+            "El que se marcha del terreno de juego es Lucas Diñe."
+        ],
+        "509": [
+            1785.0,
+            1796.0,
+            "La sorpresa en el día de hoy porque esperábamos a Jordi Alba y en este instante no de mano pero sí sobre el terreno de juego está el once de gala."
+        ],
+        "510": [
+            1796.0,
+            1799.0,
+            "Algo que no ha pasado en toda la temporada en un once inicial."
+        ],
+        "511": [
+            1800.0,
+            1807.0,
+            "Ahora con el ingreso de Jordi Alba en el terreno de juego, este es el equipo de gala de Luis Enrique, el equipo de gala del FC Barcelona."
+        ],
+        "512": [
+            1808.0,
+            1813.0,
+            "Sí que sorprende que este once de gala no lo haya alineado en toda la liga."
+        ],
+        "513": [
+            1814.0,
+            1819.0,
+            "Sorprendente cuando escuchas este dato y en el caso de Diñe para mí un partido completo."
+        ],
+        "514": [
+            1819.0,
+            1822.0,
+            "No solo en defensa que es lo que tiene que hacer como lateral izquierdo sino que en ataque ha dado profundidad."
+        ],
+        "515": [
+            1823.0,
+            1826.0,
+            "Arranca Messi, se la está pidiendo Neymar. Neymar quiere otro. Neymar, Neymar, Neymar."
+        ],
+        "516": [
+            1827.0,
+            1835.0,
+            "Atrapa Andrés Fernández. Quiso picarla y el portero no se venció. Se quedó de pie y atrapó mansamente ese remate."
+        ],
+        "517": [
+            1836.0,
+            1837.0,
+            "Ahí estuvo el cuarto del Barça."
+        ],
+        "518": [
+            1838.0,
+            1845.0,
+            "No sé qué ha querido hacer desde nuestra posición. Al ser zurdo yo pensaba que muchos delanteros no querían hacer nada."
+        ],
+        "519": [
+            1845.0,
+            1851.0,
+            "Disparar por debajo de las piernas del portero que normalmente están ahí abiertas intentando ocupar el mayor espacio posible."
+        ],
+        "520": [
+            1852.0,
+            1861.0,
+            "Pero ha optado por querer picarla, algo muy difícil. En ningún momento se ha dejado caer el portero, se ha vencido y le ha parado muy bien el balón."
+        ],
+        "521": [
+            1862.0,
+            1868.0,
+            "Otra vez a la carga del tridente. Dirige Luis Suárez. Pelota para Messi. Messi en la frontal, Messi al suelo. No hay falta de Jaume Acosta."
+        ],
+        "522": [
+            1868.0,
+            1870.0,
+            "Tocó la pelota de manera clara."
+        ],
+        "523": [
+            1872.0,
+            1873.0,
+            "Samu Castillejo."
+        ],
+        "524": [
+            1875.0,
+            1881.0,
+            "Trigueros. Se da la vuelta, llora tanto Santos. Tira el desmarque de Bakambú. Excelente el balón. Bakambú."
+        ],
+        "525": [
+            1882.0,
+            1888.0,
+            "Mete la puntera. Aparece Piqué a punto de invocar Nicolás Sansone. Insiste Bakambú que busca espacio para el golpeo."
+        ],
+        "526": [
+            1889.0,
+            1891.0,
+            "Quiere combinar con Samu. Un gol."
+        ],
+        "527": [
+            1891.0,
+            1895.0,
+            "Pasó el peligro para el Barcelona. Acción clarísima para el 3-2 del Villarreal."
+        ],
+        "528": [
+            1896.0,
+            1899.0,
+            "Hay falta sobre Neymar. Tarjeta amarilla para Rodri."
+        ],
+        "529": [
+            1900.0,
+            1901.0,
+            "No para Musacio."
+        ],
+        "530": [
+            1902.0,
+            1903.0,
+            "Correcto."
+        ],
+        "531": [
+            1904.0,
+            1909.0,
+            "Para Musacio que estaba fuera de posición. Entró con todo a esa acción con Neymar."
+        ],
+        "532": [
+            1910.0,
+            1912.0,
+            "Y la falta le cuesta la velocidad."
+        ],
+        "533": [
+            1912.0,
+            1916.0,
+            "Le ha durado poco el once de gala al Barça en el terreno de juego."
+        ],
+        "534": [
+            1917.0,
+            1923.0,
+            "Aunque fuese de manera circunstancial, porque la noticia es que de mano no lo ha utilizado Luis Enrique en ningún partido en lo que va de liga."
+        ],
+        "535": [
+            1924.0,
+            1925.0,
+            "Estamos en la jornada 36."
+        ],
+        "536": [
+            1926.0,
+            1928.0,
+            "La verdad es que no se ha visto el partido de la Liga."
+        ],
+        "537": [
+            1929.0,
+            1931.0,
+            "La verdad es que no se ha visto el partido de la Liga."
+        ],
+        "538": [
+            1932.0,
+            1934.0,
+            "La verdad es que no se ha visto el partido de la Liga."
+        ],
+        "539": [
+            1935.0,
+            1937.0,
+            "La verdad es que no se ha visto el partido de la Liga."
+        ],
+        "540": [
+            1937.0,
+            1940.0,
+            "De mano no lo ha utilizado Luis Enrique en ningún partido en lo que va de liga."
+        ],
+        "541": [
+            1941.0,
+            1942.0,
+            "Estamos en la jornada 36."
+        ],
+        "542": [
+            1943.0,
+            1944.0,
+            "El aplauso para Sergi Roberto."
+        ],
+        "543": [
+            1949.0,
+            1953.0,
+            "Creo que en el Camp Nou van a tardar en olvidarse de aquel gol ante el PSG."
+        ],
+        "544": [
+            1954.0,
+            1959.0,
+            "Ricardo, si llega a cambiar antes a Sergi Roberto, ya no lo hubieses podido decir."
+        ],
+        "545": [
+            1960.0,
+            1966.0,
+            "Bueno, insisto que la noticia es que de mano, de once titular, no lo ha utilizado nunca."
+        ],
+        "546": [
+            1967.0,
+            1972.0,
+            "Hoy le esperábamos, pero la opción de Diñe en lugar de Jordi Alba, sorprendido."
+        ],
+        "547": [
+            1973.0,
+            1981.0,
+            "Y es ahí donde el comentario de el Barça tiene un once de gala, pero en la Liga no se ha estrenado todavía."
+        ],
+        "548": [
+            1982.0,
+            1983.0,
+            "Se marchó Sergi Roberto."
+        ],
+        "549": [
+            1984.0,
+            1987.0,
+            "Entró Javier Mascherano, que ya la está pidiendo avanzando por la derecha."
+        ],
+        "550": [
+            1987.0,
+            1991.0,
+            "Allá va Messi, en velocidad. Sigue Messi. Apertura para quién? Para Neymar."
+        ],
+        "551": [
+            1992.0,
+            1998.0,
+            "Neymar se había colado en fuera de juego, aún así fue a por el balón, consciente de que la bandera se iba a ir arriba."
+        ],
+        "552": [
+            1999.0,
+            2003.0,
+            "Posesión para el Villarreal. Vemos a Mascherano ubicado como lateral diestro."
+        ],
+        "553": [
+            2004.0,
+            2010.0,
+            "No perdamos de vista que la amarilla de Sergi Roberto en el partido de hoy le deja fuera del choque frente al Granada."
+        ],
+        "554": [
+            2010.0,
+            2023.0,
+            "¿Crees que esta opción será la que le guste más a Luis Enrique?"
+        ],
+        "555": [
+            2024.0,
+            2028.0,
+            "Incluso para la final de Copa, que tampoco la puede perder de vista."
+        ],
+        "556": [
+            2029.0,
+            2031.0,
+            "Creo que Sergi Roberto tampoco puede jugarla."
+        ],
+        "557": [
+            2031.0,
+            2044.0,
+            "Ahora que entre semana no hay partido, no hay desgaste por otra competición, Luis Enrique no tiene tanta necesidad de hacer rotaciones,"
+        ],
+        "558": [
+            2045.0,
+            2050.0,
+            "pero sí de pensar en los compromisos que tiene por delante y sobre todo también en esa final de la Copa del Rey,"
+        ],
+        "559": [
+            2051.0,
+            2056.0,
+            "que ya se sabe con qué jugadores podrás contar y con cuáles no, a menos que haya más lesionados."
+        ],
+        "560": [
+            2056.0,
+            2062.0,
+            "Pero es una de las posibilidades más la de jugar con tres que también lo ha hecho en muchos partidos."
+        ],
+        "561": [
+            2063.0,
+            2070.0,
+            "En ese partido no juega tampoco Suárez. Va a entrar André Gómez en el terreno de juego. Luego comento algo de Lisbida."
+        ],
+        "562": [
+            2071.0,
+            2073.0,
+            "Está muy inspirado Neymar hoy, pero mucho."
+        ],
+        "563": [
+            2074.0,
+            2080.0,
+            "Iniesta. Deja Iniesta para Luis Suárez."
+        ],
+        "564": [
+            2080.0,
+            2087.0,
+            "Mascherano. Se ofrece en corto a Messi, recibe y se da la vuelta el 10."
+        ],
+        "565": [
+            2088.0,
+            2093.0,
+            "Iniesta, la pisa para que siga en conducción Messi. Más de Messi. 1-2 para que llegue Neymar."
+        ],
+        "566": [
+            2094.0,
+            2099.0,
+            "Neymar la salva sobre la misma línea, está fuera del área. Maravilloso, sigue Neymar que la pone atrás."
+        ],
+        "567": [
+            2100.0,
+            2105.0,
+            "Quiere rematar Suárez. Ha tapado ya a una costa. Insiste Luis Suárez, se pide penalti. Sí, lo hay."
+        ],
+        "568": [
+            2106.0,
+            2107.0,
+            "Ricardo, hay penalti para el Barcelona."
+        ],
+        "569": [
+            2107.0,
+            2109.0,
+            "Qué barbaridad lo que acaba de hacer Neymar."
+        ],
+        "570": [
+            2110.0,
+            2116.0,
+            "Esa amarilla para Jaume Acosta. Al margen de la jugada de Neymar, Jaume Acosta le dice que le ha pegado en el pecho."
+        ],
+        "571": [
+            2117.0,
+            2120.0,
+            "Pero Sánchez Martínez ha señalado de penalti por instancia de su asistente."
+        ],
+        "572": [
+            2121.0,
+            2126.0,
+            "Ha tardado, lo digo porque ha mirado un poquito a la banda y es el juez de línea el que le ha marcado el penalti."
+        ],
+        "573": [
+            2127.0,
+            2129.0,
+            "Otra cosa es si acierta o no acierta, que lo veremos en la repetición."
+        ],
+        "574": [
+            2130.0,
+            2133.0,
+            "No ha dudado una vez, le comunica el asistente la pena máxima."
+        ],
+        "575": [
+            2133.0,
+            2134.0,
+            "A ver."
+        ],
+        "576": [
+            2136.0,
+            2137.0,
+            "¿Qué te parece, Miquel?"
+        ],
+        "577": [
+            2138.0,
+            2142.0,
+            "Es que no se ve bien. No se ve bien si primero le toca en el pecho y después en el brazo."
+        ],
+        "578": [
+            2143.0,
+            2147.0,
+            "En el brazo le toca, pero lo que no se ve en ninguna de las tomas es si antes le toca en el pecho."
+        ],
+        "579": [
+            2148.0,
+            2152.0,
+            "Sánchez Martínez está de espaldas. Le ve la espalda a Jaume Acosta."
+        ],
+        "580": [
+            2153.0,
+            2157.0,
+            "Es que en el brazo le toca, pero lo que no se ve es si antes le toca en el pecho."
+        ],
+        "581": [
+            2158.0,
+            2161.0,
+            "Con lo cual ya no sería penalti. Vamos, la verdad es que no se ve."
+        ],
+        "582": [
+            2161.0,
+            2164.0,
+            "No sería penalti, pero vamos, la jugada de Neymar es impresionante."
+        ],
+        "583": [
+            2165.0,
+            2169.0,
+            "Va por el cuarto de Barcelona. A 11 metros del gol, Leo Messi."
+        ],
+        "584": [
+            2171.0,
+            2175.0,
+            "Mano a mano entre Messi y Andrés. Autoriza al árbitro, le va a pegar el 10. Allá va Messi."
+        ],
+        "585": [
+            2176.0,
+            2184.0,
+            "¡Gol!"
+        ],
+        "586": [
+            2185.0,
+            2189.0,
+            "¡Gol del Barça en el 81! ¡Otro de Leo Messi!"
+        ],
+        "587": [
+            2190.0,
+            2195.0,
+            "Lanzamiento templado, calmado, tranquilo. Panenka picado y por el centro."
+        ],
+        "588": [
+            2196.0,
+            2200.0,
+            "Rozando casi casi el larguero. Se venció en costado Andrés. Es la sentencia del Barcelona."
+        ],
+        "589": [
+            2201.0,
+            2204.0,
+            "Repite Messi. FC Barcelona 4-1 Villarreal."
+        ],
+        "590": [
+            2205.0,
+            2212.0,
+            "Messi que no quería ser menos en comparación con Neymar por la acción que ha precedido a ese penalti."
+        ],
+        "591": [
+            2212.0,
+            2217.0,
+            "Esa picada que le hace al jugador del Villarreal. Y aquí aparece también a lo Panenka."
+        ],
+        "592": [
+            2218.0,
+            2222.0,
+            "Suponiendo que se va a lanzar al suelo como si ha sido de Andrés."
+        ],
+        "593": [
+            2223.0,
+            2229.0,
+            "Bueno, creo que ya son 107 goles, ¿no? Esta temporada en Liga."
+        ],
+        "594": [
+            2230.0,
+            2231.0,
+            "Del Barça, sí. Del Barça."
+        ],
+        "595": [
+            2232.0,
+            2238.0,
+            "Está en 115 como récord del Barcelona de la temporada de Tito Vilanova. Está ahí a 7 goles."
+        ],
+        "596": [
+            2238.0,
+            2241.0,
+            "El aplauso es para Rakitic. Y vamos ahora por partes."
+        ],
+        "597": [
+            2242.0,
+            2247.0,
+            "Retira el futbolista croata, el cariño del Camp Nou. Va a entrar Andrés Gómez en el terreno de juego."
+        ],
+        "598": [
+            2248.0,
+            2251.0,
+            "Cambio también en el Villarreal. El que se marcha es Bakambú."
+        ],
+        "599": [
+            2252.0,
+            2258.0,
+            "Que ha hecho de las acciones más peligrosas, además del tanto en el Villarreal."
+        ],
+        "600": [
+            2259.0,
+            2262.0,
+            "El que entra al terreno de juego es Adrián López."
+        ],
+        "601": [
+            2262.0,
+            2266.0,
+            "La celebración de Messi. Es el gol 51 de Messi esta temporada."
+        ],
+        "602": [
+            2267.0,
+            2270.0,
+            "El 35 en Liga. Va camino de la bota de oro."
+        ],
+        "603": [
+            2271.0,
+            2276.0,
+            "Y es el gol 101 del Tridente la presente temporada y el 107 del Barça este año."
+        ],
+        "604": [
+            2278.0,
+            2282.0,
+            "Lo intentaba Castillejo. El balón está a punto de llegar a Sansón."
+        ],
+        "605": [
+            2283.0,
+            2285.0,
+            "Él sigue buscando el italiano que estaba en fuera de juego."
+        ],
+        "606": [
+            2286.0,
+            2290.0,
+            "Balón para el Barcelona. Estamos hablando de los registros de la temporada."
+        ],
+        "607": [
+            2290.0,
+            2294.0,
+            "De la definición a lo panenca del argentino en ese lanzamiento de penalti."
+        ],
+        "608": [
+            2295.0,
+            2297.0,
+            "De lo difícil que nos resultaba por momentos."
+        ],
+        "609": [
+            2298.0,
+            2303.0,
+            "Ver si ese lanzamiento en el que se le indica la mano en el que se señala el penalti."
+        ],
+        "610": [
+            2304.0,
+            2309.0,
+            "Hay un toque antes en el pecho, como parecía alegar Jaume Acosta en la reclamación con el colegiado."
+        ],
+        "611": [
+            2310.0,
+            2314.0,
+            "Pero entre todo eso, nos ha quedado un poco atrás en esa cola de impresión."
+        ],
+        "612": [
+            2315.0,
+            2318.0,
+            "Lo que ha hecho Neymar en la temporada."
+        ],
+        "613": [
+            2318.0,
+            2321.0,
+            "Lo que ha hecho Neymar en la línea de fondo."
+        ],
+        "614": [
+            2322.0,
+            2324.0,
+            "Está en un momento tremendamente dulce Neymar."
+        ],
+        "615": [
+            2325.0,
+            2328.0,
+            "Lo decíamos antes, ha dejado ya 5, 6, 7, 8 detalles espectaculares."
+        ],
+        "616": [
+            2329.0,
+            2333.0,
+            "Este seguramente por combinar la espectacularidad con lo efectivo ha sido de lo mejor del partido."
+        ],
+        "617": [
+            2334.0,
+            2336.0,
+            "Sí, la verdad es que ha ido de menos a más en el partido."
+        ],
+        "618": [
+            2337.0,
+            2339.0,
+            "Está haciendo una segunda parte fantástica."
+        ],
+        "619": [
+            2340.0,
+            2343.0,
+            "Bueno, es el jugador que más regatea de la Liga con diferencia."
+        ],
+        "620": [
+            2343.0,
+            2348.0,
+            "Y en cada partido cuando está en forma no deja de intentarlo y de inventarse cosas."
+        ],
+        "621": [
+            2349.0,
+            2353.0,
+            "Esas acciones, bueno, solo se le puede ocurrir a él o a Messi."
+        ],
+        "622": [
+            2354.0,
+            2358.0,
+            "Pero es que justo en el momento que para el balón, yo creo que ya ve que viene el rival con velocidad."
+        ],
+        "623": [
+            2359.0,
+            2360.0,
+            "Y ha imaginado lo que va a hacer."
+        ],
+        "624": [
+            2361.0,
+            2362.0,
+            "Y después, claro, le falta la ejecución."
+        ],
+        "625": [
+            2363.0,
+            2365.0,
+            "No solo pensarlo y decidirlo, sino hacerlo."
+        ],
+        "626": [
+            2366.0,
+            2367.0,
+            "Que además le sale bien."
+        ],
+        "627": [
+            2368.0,
+            2372.0,
+            "Ahí está precisamente Neymar presionando al zaguero del Villarreal."
+        ],
+        "628": [
+            2373.0,
+            2374.0,
+            "Acaba cometiendo falta."
+        ],
+        "629": [
+            2376.0,
+            2381.0,
+            "Bueno, esta segunda parte ha habido, creo, en las estadísticas, quizás ha bajado la posición del Barcelona."
+        ],
+        "630": [
+            2382.0,
+            2384.0,
+            "La ha tenido también un poco más que la primera parte del Villarreal."
+        ],
+        "631": [
+            2385.0,
+            2392.0,
+            "Pero también yo creo que ha habido más ocasiones tanto del Barcelona, sobre todo del Barcelona y también del Villarreal."
+        ],
+        "632": [
+            2392.0,
+            2397.0,
+            "¿Por qué? Pues porque el Villarreal ha decidido en algún momento adelantar sus líneas,"
+        ],
+        "633": [
+            2398.0,
+            2404.0,
+            "separar también sus líneas y desprotegerse o dejar más espacios, espacios grandes,"
+        ],
+        "634": [
+            2405.0,
+            2411.0,
+            "por donde el Barcelona se ha sentido muy a gusto a la hora de atacarlo, gracias a este tridente de tantísimo talento."
+        ],
+        "635": [
+            2414.0,
+            2418.0,
+            "Estamos ya en los últimos cinco minutos del tiempo reglamentario del partido."
+        ],
+        "636": [
+            2423.0,
+            2427.0,
+            "André Gómez, que acaba de entrar, sustituyendo a Rakitic en el Villarreal."
+        ],
+        "637": [
+            2428.0,
+            2434.0,
+            "Por cierto, entró Adrián López para reemplazar a Bakambú, que prácticamente en todas sus apariciones ha llevado muchísimo peligro."
+        ],
+        "638": [
+            2435.0,
+            2440.0,
+            "Sí, hay que destacar a alguien del Villarreal desde luego está Bakambú, que ha sido lo mejor del equipo."
+        ],
+        "639": [
+            2441.0,
+            2447.0,
+            "No solo por el gol, sino porque en todas sus acciones ha creado peligro y ha sido un continuo incordio para los centrales, un Tití y Piqué."
+        ],
+        "640": [
+            2448.0,
+            2453.0,
+            "Sí, Helena de Neymar tras ese centro de Luis Suárez, era casi imposible dirigir la portería."
+        ],
+        "641": [
+            2454.0,
+            2459.0,
+            "Insiste el Barcelona, insiste Suárez, que ya pisa área, la pone Suárez, la está esperando Messi, cabecea Mario,"
+        ],
+        "642": [
+            2460.0,
+            2462.0,
+            "Iniesta a la frontal, le pega Iniesta, atrapa Andrés."
+        ],
+        "643": [
+            2464.0,
+            2468.0,
+            "Con el argumento anterior quería decir que el Villarreal ha sido un equipo que ha controlado más la situación."
+        ],
+        "644": [
+            2469.0,
+            2472.0,
+            "A pesar de estar perdiendo en la primera parte, 2-1 ha controlado el partido."
+        ],
+        "645": [
+            2473.0,
+            2478.0,
+            "Epito, esa gran posesión del Barcelona le ha servido para tener tres ocasiones de gol."
+        ],
+        "646": [
+            2479.0,
+            2481.0,
+            "El Villarreal ha tenido dos, habiendo tenido muy poco el balón."
+        ],
+        "647": [
+            2482.0,
+            2488.0,
+            "Sin embargo, en esta segunda parte, cuando ya ha adelantado líneas, repito, y ha habido espacios para Messi, para Neymar y para Suárez,"
+        ],
+        "648": [
+            2489.0,
+            2494.0,
+            "pues ha sido muy, muy superior el Barcelona, no solo en el marcador, sino también en el juego."
+        ],
+        "649": [
+            2495.0,
+            2500.0,
+            "Aunque ha tenido alguna ocasión el Villarreal, que al robar cerca de la portería de Ter Stegen y no aprovecharlo,"
+        ],
+        "650": [
+            2500.0,
+            2504.0,
+            "no convertirlo en gol, pues todo eso ya le ha penalizado mucho en defensa."
+        ],
+        "651": [
+            2530.0,
+            2532.0,
+            "El Villarreal, con la posición del lateral del Barça."
+        ],
+        "652": [
+            2533.0,
+            2537.0,
+            "Busquets presionado por Sansone. Andrés Gómez. Messi."
+        ],
+        "653": [
+            2539.0,
+            2543.0,
+            "Encarando a Messi a Trigueros, entrega a Messi para Busquets de primeras."
+        ],
+        "654": [
+            2544.0,
+            2546.0,
+            "Messi saltaba a Jordi Alba. Se la queda el Villarreal."
+        ],
+        "655": [
+            2548.0,
+            2549.0,
+            "Jonathan dos Santos."
+        ],
+        "656": [
+            2552.0,
+            2555.0,
+            "Acaba en el suelo Jonathan. Ahí falta de Sergio Busquets."
+        ],
+        "657": [
+            2557.0,
+            2558.0,
+            "Pelota para el Villarreal."
+        ],
+        "658": [
+            2561.0,
+            2562.0,
+            "Trigueros."
+        ],
+        "659": [
+            2565.0,
+            2569.0,
+            "Balón profundo sobre el desmarque de Samu Castillejo. Anticipa Jordi Alba."
+        ],
+        "660": [
+            2570.0,
+            2574.0,
+            "Atento el futbolista del Hospitalet, para evitar el progreso de Samu Castillejo."
+        ],
+        "661": [
+            2585.0,
+            2586.0,
+            "Messi."
+        ],
+        "662": [
+            2590.0,
+            2594.0,
+            "Tocando y tocando el Barcelona. Neymar entre líneas. Conecta otra vez con Messi."
+        ],
+        "663": [
+            2596.0,
+            2601.0,
+            "Se despliega Suárez. Suárez se lanza al autopase. No puede escapar de Jonathan dos Santos."
+        ],
+        "664": [
+            2601.0,
+            2603.0,
+            "El rebote le cae al propio Suárez. Le pega Suárez desviado."
+        ],
+        "665": [
+            2605.0,
+            2610.0,
+            "Lo intentó desde la frontera Luis Suárez, al hacerse con un balón que seguramente ni el propio delantero del Barcelona esperaba tener."
+        ],
+        "666": [
+            2611.0,
+            2615.0,
+            "Sí, ha ido la presión inmediatamente más Cherano tras pérdida."
+        ],
+        "667": [
+            2616.0,
+            2621.0,
+            "Gracias a que estaba bien colocado, ocupando bien los espacios de Barcelona en el campo del Villarreal."
+        ],
+        "668": [
+            2622.0,
+            2626.0,
+            "Siempre hay algún jugador cerca del poseedor del balón y ahí al recuperar ha permitido el disparo."
+        ],
+        "669": [
+            2629.0,
+            2638.0,
+            "Nos valemos de esa tecnología Intel para ver desde varios ángulos la acción que se traducía en el penalti."
+        ],
+        "670": [
+            2639.0,
+            2642.0,
+            "El penalti ejecutado por Leo Messi se indicaba a mano de Jaume Acosta."
+        ],
+        "671": [
+            2642.0,
+            2649.0,
+            "Lo repito, yo no lo veo claro. No veo ninguna toma en la que se observe que va directamente al brazo."
+        ],
+        "672": [
+            2650.0,
+            2655.0,
+            "El contacto con el brazo existe, pero tu duda es saber si hay un rebote previo."
+        ],
+        "673": [
+            2656.0,
+            2660.0,
+            "Yo en las dos tomas que he visto no puedo decir. Es que va directamente al brazo."
+        ],
+        "674": [
+            2661.0,
+            2667.0,
+            "Con lo cual sí que es verdad que lo tiene doblado, pero lo tiene alzado y sería penalti."
+        ],
+        "675": [
+            2667.0,
+            2674.0,
+            "Pero si le ha tocado antes en otra parte del cuerpo, en este caso en el pecho, y después golpea en el brazo, no sería penalti."
+        ],
+        "676": [
+            2675.0,
+            2681.0,
+            "Está claro que el árbitro estaba cerca y ahora ha apreciado, si no él, el asistente que así ha sido."
+        ],
+        "677": [
+            2682.0,
+            2684.0,
+            "Pero ninguna toma me lo ha dejado claro."
+        ],
+        "678": [
+            2685.0,
+            2692.0,
+            "Hay falta de Suárez. Estamos ya pendientes del tiempo de prolongación. De momento ninguna pista, ¿no, Ricardo?"
+        ],
+        "679": [
+            2692.0,
+            2695.0,
+            "Estamos esperando a que coloque y levante la tablilla 3."
+        ]
+    }
+}

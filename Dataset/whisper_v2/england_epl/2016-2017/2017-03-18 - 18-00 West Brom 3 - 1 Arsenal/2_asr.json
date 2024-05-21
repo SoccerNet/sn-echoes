@@ -1,0 +1,2729 @@
+{
+    "segments": {
+        "0": [
+            30.0,
+            31.0,
+            "the first half."
+        ],
+        "1": [
+            31.0,
+            32.0,
+            "The first half is a bit of a struggle for the Reds, as they've been struggling to get"
+        ],
+        "2": [
+            32.0,
+            33.0,
+            "a win in the Premier League terms for them."
+        ],
+        "3": [
+            33.0,
+            34.0,
+            "Does this mean this must win?"
+        ],
+        "4": [
+            34.0,
+            35.0,
+            "They simply will afford to drop too many points after three defeats in their last four Premier"
+        ],
+        "5": [
+            35.0,
+            36.0,
+            "League games."
+        ],
+        "6": [
+            36.0,
+            37.0,
+            "Aaron Fletcher is back there for West Brom."
+        ],
+        "7": [
+            37.0,
+            38.0,
+            "Here's Livermore."
+        ],
+        "8": [
+            38.0,
+            39.0,
+            "Certainly expect the fact that the second half is similar to the first, perhaps with"
+        ],
+        "9": [
+            39.0,
+            40.0,
+            "a dominating possession, just whether West Brom can keep up the intensity, hard work"
+        ],
+        "10": [
+            40.0,
+            41.0,
+            "all over the pitch to deny the opposition."
+        ],
+        "11": [
+            41.0,
+            42.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "12": [
+            42.0,
+            43.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "13": [
+            43.0,
+            44.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "14": [
+            44.0,
+            60.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "15": [
+            74.0,
+            100.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "16": [
+            130.0,
+            131.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "17": [
+            131.0,
+            132.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "18": [
+            132.0,
+            133.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "19": [
+            133.0,
+            134.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "20": [
+            134.0,
+            135.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "21": [
+            135.0,
+            136.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "22": [
+            136.0,
+            137.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "23": [
+            137.0,
+            138.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "24": [
+            138.0,
+            139.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "25": [
+            139.0,
+            140.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "26": [
+            140.0,
+            141.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "27": [
+            141.0,
+            142.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "28": [
+            142.0,
+            143.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "29": [
+            143.0,
+            144.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "30": [
+            144.0,
+            145.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "31": [
+            145.0,
+            146.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "32": [
+            146.0,
+            147.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "33": [
+            147.0,
+            148.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "34": [
+            148.0,
+            149.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "35": [
+            149.0,
+            150.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "36": [
+            150.0,
+            171.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "37": [
+            172.0,
+            173.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "38": [
+            173.0,
+            174.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "39": [
+            174.0,
+            175.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "40": [
+            175.0,
+            176.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "41": [
+            176.0,
+            177.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "42": [
+            177.0,
+            178.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "43": [
+            178.0,
+            179.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "44": [
+            179.0,
+            180.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "45": [
+            180.0,
+            181.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "46": [
+            181.0,
+            182.0,
+            "The Reds are in the lead, they've got a good chance of winning the game."
+        ],
+        "47": [
+            183.0,
+            191.0,
+            "He's set the ball rolling, Craig Dawson, who's discovered the goal scoring habit a little later in the season."
+        ],
+        "48": [
+            191.0,
+            194.0,
+            "And the man he plays alongside most weeks, Gareth McCauley."
+        ],
+        "49": [
+            194.0,
+            198.0,
+            "He has six Premier League goals, his best ever tally."
+        ],
+        "50": [
+            198.0,
+            206.0,
+            "Talking about taking another year's contract, Gareth McCauley, which would take him to the age of 38."
+        ],
+        "51": [
+            212.0,
+            219.0,
+            "Dawson rise comfortably ahead of Halbeck."
+        ],
+        "52": [
+            219.0,
+            221.0,
+            "And Fletcher."
+        ],
+        "53": [
+            221.0,
+            230.0,
+            "More quality than we've just seen, they can't just lump it forward, they're going to deal with everything that's over hit."
+        ],
+        "54": [
+            230.0,
+            234.0,
+            "Ramsey."
+        ],
+        "55": [
+            234.0,
+            241.0,
+            "A little bit more movement from Walcott, which came a little too late for him to play him in."
+        ],
+        "56": [
+            241.0,
+            247.0,
+            "A little bit more movement from Walcott, which came a little too late for him to play him in."
+        ],
+        "57": [
+            247.0,
+            250.0,
+            "Let's now again look to Alexis Sanchez."
+        ],
+        "58": [
+            250.0,
+            254.0,
+            "Provide the spark, provided the equaliser."
+        ],
+        "59": [
+            254.0,
+            261.0,
+            "Mustapha must be tempted to take it on, as said by the referee."
+        ],
+        "60": [
+            262.0,
+            266.0,
+            "Mustapha must be tempted to take it on, as said by the referee."
+        ],
+        "61": [
+            271.0,
+            277.0,
+            "Thought about playing the ball, played the man, and neither worked out particularly well for him."
+        ],
+        "62": [
+            278.0,
+            283.0,
+            "We'll have to see this happen now for Koshoney or Mustapha, stepping out from the back."
+        ],
+        "63": [
+            283.0,
+            287.0,
+            "Maybe to double up in the wide areas and get some service into the box."
+        ],
+        "64": [
+            288.0,
+            292.0,
+            "Walcott rolls it across the face of goal, and they'll have to get on the end of it."
+        ],
+        "65": [
+            292.0,
+            297.0,
+            "For the first time we'll see Walcott get the ball out of his feet and deliver a dangerous ball into the six-yard box,"
+        ],
+        "66": [
+            297.0,
+            301.0,
+            "but no-one in a yellow shirt is anticipating the quality ball he's going to play in."
+        ],
+        "67": [
+            303.0,
+            306.0,
+            "Chamberlain finds Alexis Sanchez."
+        ],
+        "68": [
+            309.0,
+            314.0,
+            "Lyon just paused, hesitated for a moment, nearly caused trouble."
+        ],
+        "69": [
+            314.0,
+            319.0,
+            "Brunt can get it away, looped up towards Rondon, who's too strong for Monreal."
+        ],
+        "70": [
+            322.0,
+            325.0,
+            "Now Jonny Evans, Brunt on the overlap."
+        ],
+        "71": [
+            330.0,
+            332.0,
+            "Rondon! Just wide."
+        ],
+        "72": [
+            334.0,
+            338.0,
+            "The one thing you can't do with Chris Brunt is allow him to get the ball out of his feet and deliver,"
+        ],
+        "73": [
+            338.0,
+            340.0,
+            "cos you know the quality's gonna be there."
+        ],
+        "74": [
+            341.0,
+            344.0,
+            "You can see Bellerin's got a step closer to him, far too easy, it's a brilliant ball in."
+        ],
+        "75": [
+            344.0,
+            347.0,
+            "Spina can't come off his line and deal with it."
+        ],
+        "76": [
+            347.0,
+            349.0,
+            "He's under some pressure here, Rondon."
+        ],
+        "77": [
+            349.0,
+            353.0,
+            "It's the only thing, the pressure from Goncalo, that means he doesn't get a clean contact on it."
+        ],
+        "78": [
+            358.0,
+            363.0,
+            "And so the wait for Salahman Rondon goes on in all competitions since the 13 games,"
+        ],
+        "79": [
+            363.0,
+            366.0,
+            "since that hat-trick against Swansea."
+        ],
+        "80": [
+            370.0,
+            371.0,
+            "Rondon!"
+        ],
+        "81": [
+            378.0,
+            379.0,
+            "Ramsey."
+        ],
+        "82": [
+            382.0,
+            384.0,
+            "Oxlade-Chamberlain."
+        ],
+        "83": [
+            389.0,
+            392.0,
+            "Sanchez, allowed it out initially."
+        ],
+        "84": [
+            401.0,
+            406.0,
+            "Sanchez looking for Monreal, and he did his job well on that occasion."
+        ],
+        "85": [
+            408.0,
+            410.0,
+            "The weight of that forward ball had been better,"
+        ],
+        "86": [
+            410.0,
+            413.0,
+            "Chadley again was caught square-court ball-watching."
+        ],
+        "87": [
+            413.0,
+            417.0,
+            "Just about manages to get back and get his foot on the ball, but he's got to really switch on."
+        ],
+        "88": [
+            430.0,
+            431.0,
+            "Oxlade-Chamberlain."
+        ],
+        "89": [
+            437.0,
+            441.0,
+            "It's a curious deepened conversation with Harold Robson-Carney just down below us."
+        ],
+        "90": [
+            441.0,
+            445.0,
+            "I wonder if he's going to send on the Welsh international sooner rather than later."
+        ],
+        "91": [
+            447.0,
+            448.0,
+            "Oxlade-Chamberlain."
+        ],
+        "92": [
+            450.0,
+            451.0,
+            "Bellerin."
+        ],
+        "93": [
+            452.0,
+            454.0,
+            "That's the return from Alexis Sanchez."
+        ],
+        "94": [
+            460.0,
+            461.0,
+            "Hey, Sarah!"
+        ],
+        "95": [
+            475.0,
+            477.0,
+            "Arsenal corner, Xhaka will take."
+        ],
+        "96": [
+            481.0,
+            483.0,
+            "That goes for the flag."
+        ],
+        "97": [
+            484.0,
+            486.0,
+            "He's got Xhaka on the plate."
+        ],
+        "98": [
+            490.0,
+            491.0,
+            "Xhaka."
+        ],
+        "99": [
+            500.0,
+            506.0,
+            "Harold Robson-Carney's role in the Premier League for the most part has been a serial substitute."
+        ],
+        "100": [
+            507.0,
+            509.0,
+            "It starts at Everton."
+        ],
+        "101": [
+            509.0,
+            514.0,
+            "That was only his second Premier League start, he's going to come on and replace Salomon Rondon."
+        ],
+        "102": [
+            515.0,
+            517.0,
+            "There's a shake of the head from Rondon, I'm not sure whether he's unhappy about coming off"
+        ],
+        "103": [
+            517.0,
+            522.0,
+            "or whether he is carrying a bit of an injury, because I expected this change but it's only early in the second half to make it."
+        ],
+        "104": [
+            531.0,
+            534.0,
+            "He heads off straight down the tunnel, Salomon Rondon."
+        ],
+        "105": [
+            534.0,
+            536.0,
+            "Not cutting a particularly happy figure."
+        ],
+        "106": [
+            540.0,
+            544.0,
+            "Robson-Carney getting straight into the thick of things, tasseling with Laurent Koscielny."
+        ],
+        "107": [
+            547.0,
+            548.0,
+            "Xhaka."
+        ],
+        "108": [
+            565.0,
+            566.0,
+            "Mion."
+        ],
+        "109": [
+            568.0,
+            570.0,
+            "Off the shoulder of Valery."
+        ],
+        "110": [
+            570.0,
+            571.0,
+            "That's Xhaka."
+        ],
+        "111": [
+            571.0,
+            572.0,
+            "Xhaka."
+        ],
+        "112": [
+            572.0,
+            574.0,
+            "Arsenal having even more possession than they did in the first half,"
+        ],
+        "113": [
+            574.0,
+            577.0,
+            "it's about turning that dominance in terms of possession into opportunities,"
+        ],
+        "114": [
+            577.0,
+            580.0,
+            "and so far in the second half, Foster hasn't made a cent."
+        ],
+        "115": [
+            583.0,
+            587.0,
+            "Xhaka, he's run well, Moussa Moustapha got put under the cloud of the ball."
+        ],
+        "116": [
+            588.0,
+            589.0,
+            "McLean."
+        ],
+        "117": [
+            593.0,
+            596.0,
+            "Here's Chadley, looking over the top, clever ball,"
+        ],
+        "118": [
+            596.0,
+            598.0,
+            "can the fan McLean a speed-up?!"
+        ],
+        "119": [
+            599.0,
+            603.0,
+            "McLean leaves it and it's rolled in by Halrosa Ghanu."
+        ],
+        "120": [
+            603.0,
+            607.0,
+            "The flags stay down, Arsenal were looking for an offside decision,"
+        ],
+        "121": [
+            607.0,
+            610.0,
+            "it's a West Brom goal, they're back in front."
+        ],
+        "122": [
+            611.0,
+            616.0,
+            "Sometimes you get the break of the ball, and what a substitution this has proved to be from Tony Pulas."
+        ],
+        "123": [
+            616.0,
+            618.0,
+            "Let's see if there's going to be a change, though."
+        ],
+        "124": [
+            623.0,
+            624.0,
+            "Goal, given."
+        ],
+        "125": [
+            624.0,
+            629.0,
+            "It is really positive play, James McLean coming in field,"
+        ],
+        "126": [
+            629.0,
+            631.0,
+            "laying the ball off, making his run."
+        ],
+        "127": [
+            631.0,
+            634.0,
+            "All that Bellerin have done is job and actually tracked him all the way back."
+        ],
+        "128": [
+            634.0,
+            637.0,
+            "This is clever play from McLean, rather than go on the outside,"
+        ],
+        "129": [
+            637.0,
+            639.0,
+            "a little give and go on the inside."
+        ],
+        "130": [
+            639.0,
+            642.0,
+            "Bellerin tracks him, certainly onside when the ball is played."
+        ],
+        "131": [
+            642.0,
+            645.0,
+            "And once again Arsenal defensively make it a hash of things,"
+        ],
+        "132": [
+            645.0,
+            648.0,
+            "breaks a Robson-Khanu, and there is nothing wrong with that goal,"
+        ],
+        "133": [
+            648.0,
+            650.0,
+            "absolutely nothing wrong with it."
+        ],
+        "134": [
+            650.0,
+            653.0,
+            "Again on the counter-attack, West Brom so, so effective,"
+        ],
+        "135": [
+            653.0,
+            656.0,
+            "but defensively, Arsenal all over the place."
+        ],
+        "136": [
+            666.0,
+            672.0,
+            "74 seconds after coming onto the pitch, how Robson-Khanu gets his first goal for West Brom"
+        ],
+        "137": [
+            672.0,
+            674.0,
+            "here at the Hawthorns."
+        ],
+        "138": [
+            677.0,
+            681.0,
+            "First since that screamer at Southampton towards the end of the calendar year, 2016."
+        ],
+        "139": [
+            683.0,
+            687.0,
+            "FANS CHANT"
+        ],
+        "140": [
+            688.0,
+            692.0,
+            "As far as Arsenal are concerned, the storm clouds gathering again,"
+        ],
+        "141": [
+            692.0,
+            697.0,
+            "staring down the barrel of a third successive away Premier League defeat."
+        ],
+        "142": [
+            702.0,
+            706.0,
+            "Time to put it right, plenty of that, but up against it once again."
+        ],
+        "143": [
+            707.0,
+            710.0,
+            "FANS CHANT"
+        ],
+        "144": [
+            710.0,
+            712.0,
+            "It's all about being effective in possession,"
+        ],
+        "145": [
+            712.0,
+            715.0,
+            "Arsenal bags the possession, Ben Foster with that save to make."
+        ],
+        "146": [
+            715.0,
+            718.0,
+            "One shot on target from West Brom, they take the lead."
+        ],
+        "147": [
+            736.0,
+            739.0,
+            "Xhaka looking for Walford, how far in the play?"
+        ],
+        "148": [
+            750.0,
+            751.0,
+            "Ramsey."
+        ],
+        "149": [
+            753.0,
+            756.0,
+            "It's been a round of dealt with him initially, but he'll need to get back now."
+        ],
+        "150": [
+            756.0,
+            758.0,
+            "This is Monreal."
+        ],
+        "151": [
+            767.0,
+            769.0,
+            "Mustafi."
+        ],
+        "152": [
+            774.0,
+            777.0,
+            "Federer up through the gears."
+        ],
+        "153": [
+            777.0,
+            780.0,
+            "Evans away as far as Oxlade-Chamberlain."
+        ],
+        "154": [
+            797.0,
+            800.0,
+            "FANS CHANT"
+        ],
+        "155": [
+            804.0,
+            808.0,
+            "2-1 is the scoreline that they succumbed to here last season,"
+        ],
+        "156": [
+            808.0,
+            814.0,
+            "it was a Mikel Arteta own goal that proved to be the decisive factor on that occasion."
+        ],
+        "157": [
+            823.0,
+            824.0,
+            "Mustafi."
+        ],
+        "158": [
+            827.0,
+            830.0,
+            "FANS CHANT"
+        ],
+        "159": [
+            835.0,
+            838.0,
+            "Albertson down, he pokes, he's come into the lead."
+        ],
+        "160": [
+            838.0,
+            842.0,
+            "Some complaints possibly from Arsenal about an offside shout."
+        ],
+        "161": [
+            843.0,
+            846.0,
+            "I don't think he is offside at all, James McLean, that ball is played over the top,"
+        ],
+        "162": [
+            846.0,
+            849.0,
+            "then they complain about a foul on Bellerin, there isn't one."
+        ],
+        "163": [
+            849.0,
+            852.0,
+            "McLean isn't offside, so there's nothing wrong with the goal."
+        ],
+        "164": [
+            853.0,
+            856.0,
+            "Spina should do a lot more, should take everything with him here."
+        ],
+        "165": [
+            856.0,
+            858.0,
+            "Take McLean, take the defender,"
+        ],
+        "166": [
+            858.0,
+            860.0,
+            "and importantly take the ball, is it strong enough?"
+        ],
+        "167": [
+            860.0,
+            862.0,
+            "It ends up in the back of the net."
+        ],
+        "168": [
+            873.0,
+            878.0,
+            "It's a long Arsenal face here, it's got over half an hour to play here."
+        ],
+        "169": [
+            879.0,
+            881.0,
+            "FANS CHANT"
+        ],
+        "170": [
+            881.0,
+            885.0,
+            "James McLean actually did well to lift his foot,"
+        ],
+        "171": [
+            885.0,
+            890.0,
+            "given the temptation to not get out of the way or touch the ball,"
+        ],
+        "172": [
+            890.0,
+            892.0,
+            "had he done so it would have been a different story."
+        ],
+        "173": [
+            892.0,
+            896.0,
+            "He really got in the build-up to the goal, normally he'd take the ball at his feet,"
+        ],
+        "174": [
+            896.0,
+            900.0,
+            "but there was no-one in the box who came back in, just play it and stop,"
+        ],
+        "175": [
+            900.0,
+            903.0,
+            "he actually played it and then was on the move, he dragged Bellerin with him."
+        ],
+        "176": [
+            908.0,
+            910.0,
+            "FANS CHANT"
+        ],
+        "177": [
+            915.0,
+            917.0,
+            "Now Robson Canut."
+        ],
+        "178": [
+            923.0,
+            926.0,
+            "And Fletcher's the most advanced there for Arsenal."
+        ],
+        "179": [
+            926.0,
+            928.0,
+            "Koscielny clears."
+        ],
+        "180": [
+            928.0,
+            930.0,
+            "It's a brilliant ball from Chris Brunt,"
+        ],
+        "181": [
+            930.0,
+            933.0,
+            "just played into an area for Fletcher to get on the end of."
+        ],
+        "182": [
+            933.0,
+            937.0,
+            "It's so hard for Arsenal to defend, they can't clear their lines easily."
+        ],
+        "183": [
+            937.0,
+            940.0,
+            "West Brom can keep possession of the ball out of the field."
+        ],
+        "184": [
+            946.0,
+            948.0,
+            "Hooked in by McLean."
+        ],
+        "185": [
+            951.0,
+            954.0,
+            "Leon nearly took it away from Bellerin."
+        ],
+        "186": [
+            954.0,
+            956.0,
+            "And a check-up."
+        ],
+        "187": [
+            956.0,
+            959.0,
+            "Long ball, looking for Welbeck."
+        ],
+        "188": [
+            962.0,
+            964.0,
+            "West Brom enjoying a good spell out."
+        ],
+        "189": [
+            964.0,
+            969.0,
+            "Robson Canut, he tried to turn around the corner for Shadley."
+        ],
+        "190": [
+            994.0,
+            998.0,
+            "Against that point in the game that Arsene Wenger has to be thinking about making changes."
+        ],
+        "191": [
+            998.0,
+            1000.0,
+            "Welbeck and Walcott have been pretty ineffective."
+        ],
+        "192": [
+            1000.0,
+            1004.0,
+            "Koxiru has got Iwobi on the bench, one past the hour mark."
+        ],
+        "193": [
+            1004.0,
+            1008.0,
+            "We'll leave it another five, ten minutes and then maybe think about changing personnel."
+        ],
+        "194": [
+            1013.0,
+            1018.0,
+            "They've really started to slow it down, West Brom are taking their time over the pros."
+        ],
+        "195": [
+            1018.0,
+            1021.0,
+            "They're exactly where they want to be at the moment."
+        ],
+        "196": [
+            1021.0,
+            1024.0,
+            "Sancho Neal-Swarbrick, did it take the pace?"
+        ],
+        "197": [
+            1024.0,
+            1027.0,
+            "He does issue a small warning now, as you saw."
+        ],
+        "198": [
+            1034.0,
+            1037.0,
+            "Bellerin sees off to Philip McLean that time."
+        ],
+        "199": [
+            1041.0,
+            1042.0,
+            "Knacker."
+        ],
+        "200": [
+            1042.0,
+            1044.0,
+            "Loves Lo Changley."
+        ],
+        "201": [
+            1045.0,
+            1049.0,
+            "The introduction of Olivier Giroud moments away here for Arsenal."
+        ],
+        "202": [
+            1056.0,
+            1057.0,
+            "Mustaphe."
+        ],
+        "203": [
+            1063.0,
+            1064.0,
+            "Mbappe."
+        ],
+        "204": [
+            1068.0,
+            1069.0,
+            "Knacker."
+        ],
+        "205": [
+            1074.0,
+            1077.0,
+            "Oxlade-Chamberlain."
+        ],
+        "206": [
+            1090.0,
+            1092.0,
+            "Sanchez."
+        ],
+        "207": [
+            1093.0,
+            1096.0,
+            "Routed away by Jonny Evans as far as Bellerin."
+        ],
+        "208": [
+            1098.0,
+            1100.0,
+            "Lushaka."
+        ],
+        "209": [
+            1104.0,
+            1109.0,
+            "Still knocking again, but they've struggled to really create anything significant."
+        ],
+        "210": [
+            1118.0,
+            1122.0,
+            "This club's industry and organisation so far able to keep them at arm's length."
+        ],
+        "211": [
+            1122.0,
+            1125.0,
+            "They look for Walcott here, Neon, that's the better of it."
+        ],
+        "212": [
+            1125.0,
+            1128.0,
+            "Not for the first time this afternoon we've said that."
+        ],
+        "213": [
+            1135.0,
+            1139.0,
+            "Evans comes in to make sure the enforcer has gone behind for a corner."
+        ],
+        "214": [
+            1147.0,
+            1153.0,
+            "That's the last action for Theo Walcott, winning that corner or helping to do so."
+        ],
+        "215": [
+            1155.0,
+            1159.0,
+            "Not the afternoon he was hoping for to prove a point to Wall and Sundry."
+        ],
+        "216": [
+            1165.0,
+            1171.0,
+            "Olivier Giroud, who has already scored against West Bromwich Albion this season."
+        ],
+        "217": [
+            1172.0,
+            1177.0,
+            "The 86th minute of the home win as it turned out, the only goal of that game."
+        ],
+        "218": [
+            1178.0,
+            1180.0,
+            "A chance to make an immediate impression here."
+        ],
+        "219": [
+            1181.0,
+            1185.0,
+            "In by Shaka, back off the bar from Danny Welbeck."
+        ],
+        "220": [
+            1185.0,
+            1187.0,
+            "Cleared away by Neon."
+        ],
+        "221": [
+            1188.0,
+            1192.0,
+            "Moussafi's down in the penalty area as well, he might have caught a blow."
+        ],
+        "222": [
+            1193.0,
+            1198.0,
+            "Welbeck is so unfortunate, for the first time in the game he has maybe a yard of space to work with."
+        ],
+        "223": [
+            1199.0,
+            1203.0,
+            "He's a really intelligent header, just takes all the pace of it, doesn't put his neck muscles through it, just tries to redirect it."
+        ],
+        "224": [
+            1203.0,
+            1205.0,
+            "Six inches low and it would be 2-2."
+        ],
+        "225": [
+            1212.0,
+            1215.0,
+            "Substantially the best moment of the second half for Arsenal."
+        ],
+        "226": [
+            1222.0,
+            1223.0,
+            "Ramsay."
+        ],
+        "227": [
+            1241.0,
+            1243.0,
+            "Bellaire, back into the path of Oxlade-Chamberlain,"
+        ],
+        "228": [
+            1243.0,
+            1246.0,
+            "who gets beyond Livermore but not Jonny Evans."
+        ],
+        "229": [
+            1247.0,
+            1248.0,
+            "Brunt."
+        ],
+        "230": [
+            1250.0,
+            1253.0,
+            "Looking for how Robson-Kanu, who's in here, Robson-Kanu,"
+        ],
+        "231": [
+            1253.0,
+            1255.0,
+            "Ospina to the rescue, sadly."
+        ],
+        "232": [
+            1257.0,
+            1258.0,
+            "Grounder-Spina."
+        ],
+        "233": [
+            1259.0,
+            1261.0,
+            "Oh, that's blocked away by Moussafi."
+        ],
+        "234": [
+            1261.0,
+            1263.0,
+            "Might be another chance here for West Brom,"
+        ],
+        "235": [
+            1263.0,
+            1266.0,
+            "onto the left foot of Brunt, but well over."
+        ],
+        "236": [
+            1270.0,
+            1272.0,
+            "This could really have killed the game off,"
+        ],
+        "237": [
+            1272.0,
+            1275.0,
+            "they're going to have to take a few risks, Arsenal pushing their two full-backs forward."
+        ],
+        "238": [
+            1275.0,
+            1278.0,
+            "Timing of the run from Robson-Kanu is brilliant."
+        ],
+        "239": [
+            1278.0,
+            1280.0,
+            "Real composure from Chadley."
+        ],
+        "240": [
+            1281.0,
+            1284.0,
+            "Two Arsenal defenders on the line, making it really difficult for him to score."
+        ],
+        "241": [
+            1285.0,
+            1287.0,
+            "Get hold of the ball, West Brom, and get it forward."
+        ],
+        "242": [
+            1287.0,
+            1290.0,
+            "Opportunities arise because Arsenal are so short in numbers at the back."
+        ],
+        "243": [
+            1295.0,
+            1297.0,
+            "Handled that towards Olivier Giroud."
+        ],
+        "244": [
+            1298.0,
+            1300.0,
+            "FANS ROAR"
+        ],
+        "245": [
+            1303.0,
+            1308.0,
+            "Robert gets away from Neon, which takes all the pace off the ball."
+        ],
+        "246": [
+            1310.0,
+            1312.0,
+            "So unlucky, complaints in here from Arsenal,"
+        ],
+        "247": [
+            1312.0,
+            1314.0,
+            "is there a foul in here from Robson-Kanu?"
+        ],
+        "248": [
+            1314.0,
+            1315.0,
+            "Not really."
+        ],
+        "249": [
+            1316.0,
+            1318.0,
+            "He's trying to play the ball, doesn't even see the man coming."
+        ],
+        "250": [
+            1318.0,
+            1319.0,
+            "It's not a penalty in my book."
+        ],
+        "251": [
+            1328.0,
+            1330.0,
+            "FANS ROAR"
+        ],
+        "252": [
+            1334.0,
+            1335.0,
+            "Sanchez."
+        ],
+        "253": [
+            1350.0,
+            1353.0,
+            "Having the ball is not necessarily a recipe for winning a game, as we're seeing here."
+        ],
+        "254": [
+            1354.0,
+            1357.0,
+            "He's been mucking the ball around for fun, it's like a training session."
+        ],
+        "255": [
+            1357.0,
+            1359.0,
+            "Not threatening that much."
+        ],
+        "256": [
+            1359.0,
+            1361.0,
+            "FANS ROAR"
+        ],
+        "257": [
+            1381.0,
+            1384.0,
+            "Mustafi, trying to carry forward a fair distance."
+        ],
+        "258": [
+            1385.0,
+            1387.0,
+            "Welbeck, he was caught by a bracket,"
+        ],
+        "259": [
+            1387.0,
+            1390.0,
+            "but it looked like Van Ness Woodrick took his time."
+        ],
+        "260": [
+            1390.0,
+            1393.0,
+            "And has given Arsenal a promising looking free kick."
+        ],
+        "261": [
+            1393.0,
+            1396.0,
+            "I don't think Danny Welbeck will be happy at playing slightly wider,"
+        ],
+        "262": [
+            1396.0,
+            1399.0,
+            "they've got Giroud as the physical focal point now through the middle."
+        ],
+        "263": [
+            1399.0,
+            1402.0,
+            "He can get the ball into Welbeck's feet, he can twist and turn, he is clipped."
+        ],
+        "264": [
+            1402.0,
+            1404.0,
+            "He does his best to keep his feet."
+        ],
+        "265": [
+            1404.0,
+            1407.0,
+            "Wide area down the right-hand side of Arsenal, he can get the ball into it."
+        ],
+        "266": [
+            1407.0,
+            1410.0,
+            "It's had more of an effect on the game than it's had so far."
+        ],
+        "267": [
+            1414.0,
+            1417.0,
+            "FANS ROAR"
+        ],
+        "268": [
+            1445.0,
+            1446.0,
+            "Come on!"
+        ],
+        "269": [
+            1450.0,
+            1453.0,
+            "Xhaka fires it straight into the West Brom wall."
+        ],
+        "270": [
+            1455.0,
+            1460.0,
+            "And they come to Blair to counter-attack, but it's not going to fall kindly on Liverpool."
+        ],
+        "271": [
+            1461.0,
+            1465.0,
+            "It's a really poor free kick, but the size of that West Brom wall is a wall and a half."
+        ],
+        "272": [
+            1468.0,
+            1471.0,
+            "Robson can't heal him the charge again."
+        ],
+        "273": [
+            1471.0,
+            1474.0,
+            "Certainly being pulled back by the staff who may have been six at one,"
+        ],
+        "274": [
+            1474.0,
+            1477.0,
+            "half a dozen at another, that's the only reason he wouldn't have given it."
+        ],
+        "275": [
+            1479.0,
+            1481.0,
+            "Certainly looked a compelling case."
+        ],
+        "276": [
+            1485.0,
+            1486.0,
+            "Monreal."
+        ],
+        "277": [
+            1490.0,
+            1494.0,
+            "Now comes Foster to ensure it wasn't a get-through to Danny Welbeck."
+        ],
+        "278": [
+            1494.0,
+            1495.0,
+            "FANS ROAR"
+        ],
+        "279": [
+            1499.0,
+            1502.0,
+            "The referee has seen that it's two players, a centre-half and a centre-forward,"
+        ],
+        "280": [
+            1502.0,
+            1505.0,
+            "pushing and shoving, grabbing a hold of each other."
+        ],
+        "281": [
+            1505.0,
+            1507.0,
+            "Can't make up his mind, he's got to let the game go."
+        ],
+        "282": [
+            1509.0,
+            1512.0,
+            "You can't give the free kick one way or the other, can you?"
+        ],
+        "283": [
+            1525.0,
+            1526.0,
+            "FANS ROAR"
+        ],
+        "284": [
+            1544.0,
+            1545.0,
+            "Xhaka."
+        ],
+        "285": [
+            1546.0,
+            1547.0,
+            "Monreal."
+        ],
+        "286": [
+            1548.0,
+            1550.0,
+            "20 minutes for Arsenal to try and put this right."
+        ],
+        "287": [
+            1551.0,
+            1553.0,
+            "West Brom to hold on."
+        ],
+        "288": [
+            1555.0,
+            1558.0,
+            "No sign of a post-40-point malaise from them here today."
+        ],
+        "289": [
+            1567.0,
+            1571.0,
+            "He was talking about the fact they were playing such a big side in Arsenal,"
+        ],
+        "290": [
+            1571.0,
+            1573.0,
+            "that will push his team on."
+        ],
+        "291": [
+            1573.0,
+            1576.0,
+            "Of course, he can take his foot off the gas at this stage of the season"
+        ],
+        "292": [
+            1576.0,
+            1577.0,
+            "when the job is done."
+        ],
+        "293": [
+            1579.0,
+            1582.0,
+            "Gladio Jacob's going to come on for Chris Grant."
+        ],
+        "294": [
+            1584.0,
+            1588.0,
+            "Another body in that central midfield area to try and keep Arsenal at arm's length."
+        ],
+        "295": [
+            1603.0,
+            1608.0,
+            "Those of the Northern Irish persuasion will be hoping it's nothing to do with an injury he may not have picked up."
+        ],
+        "296": [
+            1608.0,
+            1611.0,
+            "It's that time of the season,"
+        ],
+        "297": [
+            1611.0,
+            1614.0,
+            "international managers look very nervously at all their players."
+        ],
+        "298": [
+            1615.0,
+            1620.0,
+            "Very important qualifier matches after coming over the next fortnight."
+        ],
+        "299": [
+            1622.0,
+            1625.0,
+            "It's like Jacob is going to sit alongside Fletcher and Livermore"
+        ],
+        "300": [
+            1625.0,
+            1627.0,
+            "just trying to keep that central midfield area really congested"
+        ],
+        "301": [
+            1627.0,
+            1629.0,
+            "and keep Arsenal to play through."
+        ],
+        "302": [
+            1641.0,
+            1642.0,
+            "Chaka."
+        ],
+        "303": [
+            1650.0,
+            1651.0,
+            "Bellerin."
+        ],
+        "304": [
+            1654.0,
+            1655.0,
+            "Welbeck."
+        ],
+        "305": [
+            1657.0,
+            1659.0,
+            "And by Ramsey, Chou couldn't hold it."
+        ],
+        "306": [
+            1659.0,
+            1661.0,
+            "Fletcher can clear it."
+        ],
+        "307": [
+            1663.0,
+            1667.0,
+            "And Roxon Kanu, the only target anywhere near the Arsenal half."
+        ],
+        "308": [
+            1671.0,
+            1672.0,
+            "Chaka."
+        ],
+        "309": [
+            1678.0,
+            1679.0,
+            "Sanchez."
+        ],
+        "310": [
+            1682.0,
+            1683.0,
+            "Towards Giroud."
+        ],
+        "311": [
+            1685.0,
+            1688.0,
+            "We'll see how Giroud is going to get marshalled here by Robinson McCauley."
+        ],
+        "312": [
+            1688.0,
+            1690.0,
+            "He's lost it, can't throw that ball into the box now,"
+        ],
+        "313": [
+            1690.0,
+            1694.0,
+            "they have that aerial threat at the two centre-halves for West Bromwich."
+        ],
+        "314": [
+            1694.0,
+            1696.0,
+            "It's going to close the gap on him every time that ball goes towards him."
+        ],
+        "315": [
+            1701.0,
+            1702.0,
+            "Chou."
+        ],
+        "316": [
+            1707.0,
+            1710.0,
+            "There's two shots on target from Arsenal,"
+        ],
+        "317": [
+            1710.0,
+            1713.0,
+            "both coming in the first half, without one in the second."
+        ],
+        "318": [
+            1713.0,
+            1716.0,
+            "They have hit the crossbar, though, through Danny Welbeck's head."
+        ],
+        "319": [
+            1716.0,
+            1722.0,
+            "Here's Yakov Livermore up towards Roxon Kanu, the scorer of the second."
+        ],
+        "320": [
+            1726.0,
+            1728.0,
+            "Well back to Nasser Chadli."
+        ],
+        "321": [
+            1729.0,
+            1731.0,
+            "Great run forward from Jake Livermore,"
+        ],
+        "322": [
+            1731.0,
+            1735.0,
+            "but it's blocked by Moustafi, and they can't prevent a corner."
+        ],
+        "323": [
+            1735.0,
+            1738.0,
+            "Roxon Kanu being really effective, of course,"
+        ],
+        "324": [
+            1738.0,
+            1740.0,
+            "his score, that's what he was set on to do,"
+        ],
+        "325": [
+            1740.0,
+            1742.0,
+            "his whole play is appreciation of what's going on around him,"
+        ],
+        "326": [
+            1742.0,
+            1744.0,
+            "so important in this team."
+        ],
+        "327": [
+            1744.0,
+            1747.0,
+            "If he can get on the ball and just feed it back into midfield,"
+        ],
+        "328": [
+            1747.0,
+            1750.0,
+            "keep West Brom high up the field, just relieve the pressure."
+        ],
+        "329": [
+            1753.0,
+            1756.0,
+            "West Brom prepare for their third corner,"
+        ],
+        "330": [
+            1756.0,
+            1759.0,
+            "they score from what was their first."
+        ],
+        "331": [
+            1767.0,
+            1772.0,
+            "Gamsley again, they look at Nasser Kanu to try and stop Greg Dawson's progress."
+        ],
+        "332": [
+            1773.0,
+            1776.0,
+            "And he does it! Dawson at the double!"
+        ],
+        "333": [
+            1777.0,
+            1780.0,
+            "They've fallen for the same trick again, Arsenal,"
+        ],
+        "334": [
+            1780.0,
+            1784.0,
+            "and now they find themselves 3-1 down."
+        ],
+        "335": [
+            1784.0,
+            1788.0,
+            "Well, it's absolutely criminal, you talked about Aaron Ramsey marking Greg Dawson,"
+        ],
+        "336": [
+            1788.0,
+            1791.0,
+            "he isn't anywhere near him, you've got to be right on his shoulder,"
+        ],
+        "337": [
+            1791.0,
+            1793.0,
+            "try and nudge him off-balance, do something."
+        ],
+        "338": [
+            1793.0,
+            1796.0,
+            "You're standing two yards off him, he's still going to get a run on you,"
+        ],
+        "339": [
+            1796.0,
+            1799.0,
+            "you saw that with the first goal, and this is just criminal,"
+        ],
+        "340": [
+            1799.0,
+            1802.0,
+            "it's not good enough, doesn't matter whether it's a defender or a midfielder,"
+        ],
+        "341": [
+            1802.0,
+            1804.0,
+            "you've got to get tighter to a big centre-half,"
+        ],
+        "342": [
+            1804.0,
+            1806.0,
+            "and that is far too easy."
+        ],
+        "343": [
+            1806.0,
+            1809.0,
+            "They're having a field day from set-pieces, West Brom."
+        ],
+        "344": [
+            1815.0,
+            1828.0,
+            "He loves it when a plan comes together, and it's certainly doing that for West Brom,"
+        ],
+        "345": [
+            1828.0,
+            1831.0,
+            "15 minutes away from a famous win."
+        ],
+        "346": [
+            1832.0,
+            1835.0,
+            "Set-pieces are a combination of things, of course."
+        ],
+        "347": [
+            1835.0,
+            1838.0,
+            "Big aerial threats on the move are hard to deal with,"
+        ],
+        "348": [
+            1838.0,
+            1840.0,
+            "especially if you don't stay touch-tight with them,"
+        ],
+        "349": [
+            1840.0,
+            1843.0,
+            "but the quality of the delivery from James McLean is flat,"
+        ],
+        "350": [
+            1843.0,
+            1847.0,
+            "he keeps Ospina out of the picture, the goalkeeper wants to come up his line and deal with it,"
+        ],
+        "351": [
+            1847.0,
+            1849.0,
+            "but that quality delivery means he can't."
+        ],
+        "352": [
+            1852.0,
+            1856.0,
+            "Before today Craig Dawson had only scored seven Premier League goals,"
+        ],
+        "353": [
+            1856.0,
+            1859.0,
+            "he's got his first Premier League brace."
+        ],
+        "354": [
+            1866.0,
+            1870.0,
+            "As we say in the studio at half-time, Arsene Wenger being very disappointed"
+        ],
+        "355": [
+            1870.0,
+            1872.0,
+            "with the goals given away from set-pieces."
+        ],
+        "356": [
+            1872.0,
+            1875.0,
+            "Surely it comes to the manager, the manager has to set the stall out"
+        ],
+        "357": [
+            1875.0,
+            1877.0,
+            "how they're going to defend against big centre-halves,"
+        ],
+        "358": [
+            1877.0,
+            1879.0,
+            "and they simply haven't done it."
+        ],
+        "359": [
+            1902.0,
+            1906.0,
+            "Arsenal looking like they're going to make another change."
+        ],
+        "360": [
+            1912.0,
+            1916.0,
+            "This is a West Brom-Alderby side who have failed to score in their previous two matches,"
+        ],
+        "361": [
+            1916.0,
+            1921.0,
+            "conceding five times, two here against Palace, three up at Everton,"
+        ],
+        "362": [
+            1921.0,
+            1925.0,
+            "and their three-one up against an Arsenal side."
+        ],
+        "363": [
+            1925.0,
+            1929.0,
+            "But a good place this match, almost a must-win territory"
+        ],
+        "364": [
+            1929.0,
+            1935.0,
+            "as a result of its importance in getting back into the Champions League qualification places"
+        ],
+        "365": [
+            1935.0,
+            1937.0,
+            "come the end of the season."
+        ],
+        "366": [
+            1948.0,
+            1950.0,
+            "Hung up by Aaron Ramsey, Monreal..."
+        ],
+        "367": [
+            1952.0,
+            1954.0,
+            "And the summer got a corner."
+        ],
+        "368": [
+            1960.0,
+            1965.0,
+            "This is an ascent on Alex Iwobi in the final change."
+        ],
+        "369": [
+            1967.0,
+            1971.0,
+            "A bit worse, he's limping off here, Alexis Sanchez."
+        ],
+        "370": [
+            1972.0,
+            1975.0,
+            "International break to come, of course."
+        ],
+        "371": [
+            1980.0,
+            1983.0,
+            "He's really lively in the first half, second half he's hardly had a kick at the ball,"
+        ],
+        "372": [
+            1983.0,
+            1986.0,
+            "whether that's down to his injury, Greg Dawson's defended well against him too."
+        ],
+        "373": [
+            1987.0,
+            1989.0,
+            "Arsenal corner."
+        ],
+        "374": [
+            1989.0,
+            1993.0,
+            "Foster, very well to claw that one out."
+        ],
+        "375": [
+            2006.0,
+            2009.0,
+            "That's Okano doing something for McLean to chase,"
+        ],
+        "376": [
+            2009.0,
+            2013.0,
+            "but Olerin is not the player you want to be up against in that respect,"
+        ],
+        "377": [
+            2013.0,
+            2015.0,
+            "one of the quickest around in the Premier League."
+        ],
+        "378": [
+            2017.0,
+            2029.0,
+            "To lose at Chelsea and then at Liverpool by this scoreline, 3-1,"
+        ],
+        "379": [
+            2029.0,
+            2033.0,
+            "is one thing, but to lose here at the Hawthorns,"
+        ],
+        "380": [
+            2033.0,
+            2039.0,
+            "they've only lost two Premier League games in the Premier League history between these two,"
+        ],
+        "381": [
+            2039.0,
+            2041.0,
+            "that's quite another."
+        ],
+        "382": [
+            2042.0,
+            2043.0,
+            "Arsenal!"
+        ],
+        "383": [
+            2045.0,
+            2047.0,
+            "Oxlade-Chamberlain."
+        ],
+        "384": [
+            2047.0,
+            2050.0,
+            "That manoeuvre by Gareth Fletcher."
+        ],
+        "385": [
+            2059.0,
+            2062.0,
+            "Just don't understand it, Arsene Wenger before the game was talking about"
+        ],
+        "386": [
+            2062.0,
+            2064.0,
+            "the threat that West Brom pose from set-pieces,"
+        ],
+        "387": [
+            2064.0,
+            2067.0,
+            "47 per cent of their goals have come from set-pieces,"
+        ],
+        "388": [
+            2067.0,
+            2070.0,
+            "yet you set your team up defensively like this,"
+        ],
+        "389": [
+            2070.0,
+            2074.0,
+            "people simply not getting tight enough to the opposition's most threatening players."
+        ],
+        "390": [
+            2075.0,
+            2080.0,
+            "It's just incredibly poor, two of the three goals have been very, very poor defensively."
+        ],
+        "391": [
+            2080.0,
+            2082.0,
+            "And he knew what the threat was going to be."
+        ],
+        "392": [
+            2087.0,
+            2091.0,
+            "South centre, it's more hard times for Arsenal."
+        ],
+        "393": [
+            2092.0,
+            2097.0,
+            "De Woody, trying to provide a spark so badly needed by them."
+        ],
+        "394": [
+            2100.0,
+            2101.0,
+            "APPLAUSE"
+        ],
+        "395": [
+            2116.0,
+            2117.0,
+            "Bellerin."
+        ],
+        "396": [
+            2119.0,
+            2122.0,
+            "Oxlade-Chamberlain, back to Giroud."
+        ],
+        "397": [
+            2122.0,
+            2125.0,
+            "Can go Giroud under the challenge of McLean, no foul."
+        ],
+        "398": [
+            2127.0,
+            2128.0,
+            "Mustafe."
+        ],
+        "399": [
+            2131.0,
+            2134.0,
+            "There's that, Aaron Ramsey couldn't direct his head ago."
+        ],
+        "400": [
+            2134.0,
+            2137.0,
+            "And Kostov can prevent the corner."
+        ],
+        "401": [
+            2142.0,
+            2146.0,
+            "Super Sunday, looks like this. Tottenham against Southampton,"
+        ],
+        "402": [
+            2146.0,
+            2149.0,
+            "one o'clock, Sky Sports 1."
+        ],
+        "403": [
+            2151.0,
+            2154.0,
+            "And have a look at things, if Liverpool win at Manchester City tomorrow"
+        ],
+        "404": [
+            2154.0,
+            2156.0,
+            "in the second part of Super Sunday,"
+        ],
+        "405": [
+            2156.0,
+            2160.0,
+            "they could go eight points clear of Arsenal in fourth position."
+        ],
+        "406": [
+            2162.0,
+            2165.0,
+            "That's a lot of time to make up with the games running out."
+        ],
+        "407": [
+            2177.0,
+            2178.0,
+            "Bellerin."
+        ],
+        "408": [
+            2178.0,
+            2180.0,
+            "CHEERING"
+        ],
+        "409": [
+            2208.0,
+            2211.0,
+            "Very warm round of applause from the West Bromwich Albia fans,"
+        ],
+        "410": [
+            2211.0,
+            2213.0,
+            "who haven't always been convinced."
+        ],
+        "411": [
+            2213.0,
+            2215.0,
+            "Here comes Neon again."
+        ],
+        "412": [
+            2215.0,
+            2216.0,
+            "CHEERING"
+        ],
+        "413": [
+            2236.0,
+            2237.0,
+            "Oxlade-Chamberlain."
+        ],
+        "414": [
+            2238.0,
+            2239.0,
+            "And this player's passed."
+        ],
+        "415": [
+            2239.0,
+            2244.0,
+            "And it's starting to feel like that's sort of an afternoon for Arsenal,"
+        ],
+        "416": [
+            2244.0,
+            2247.0,
+            "where it is all unravelling yet again."
+        ],
+        "417": [
+            2248.0,
+            2251.0,
+            "I just feel that third goal was really not the stuffing out of the team."
+        ],
+        "418": [
+            2251.0,
+            2255.0,
+            "Half-time, 1-1, the fans thought we could win this game,"
+        ],
+        "419": [
+            2255.0,
+            2257.0,
+            "they look a long way from winning it now."
+        ],
+        "420": [
+            2259.0,
+            2262.0,
+            "The last time they won in the Premier League over a month ago,"
+        ],
+        "421": [
+            2262.0,
+            2267.0,
+            "when that man got two goals, they look to be back on track after that early goal."
+        ],
+        "422": [
+            2267.0,
+            2273.0,
+            "They've risen in its arsenal, who have just lost their way in this match."
+        ],
+        "423": [
+            2298.0,
+            2299.0,
+            "FANS SHOUT OUT"
+        ],
+        "424": [
+            2311.0,
+            2313.0,
+            "And Kostka taking his time."
+        ],
+        "425": [
+            2313.0,
+            2315.0,
+            "He fires it up towards Howard Oxenkarn."
+        ],
+        "426": [
+            2317.0,
+            2318.0,
+            "Bellerin."
+        ],
+        "427": [
+            2318.0,
+            2319.0,
+            "Ramsey."
+        ],
+        "428": [
+            2319.0,
+            2321.0,
+            "Dispossessed by Jakob."
+        ],
+        "429": [
+            2322.0,
+            2324.0,
+            "Oxenkarn who brought it down very well."
+        ],
+        "430": [
+            2325.0,
+            2326.0,
+            "Mclean."
+        ],
+        "431": [
+            2331.0,
+            2332.0,
+            "Cross in."
+        ],
+        "432": [
+            2332.0,
+            2333.0,
+            "It's fielded by Mustafi."
+        ],
+        "433": [
+            2337.0,
+            2338.0,
+            "Neon."
+        ],
+        "434": [
+            2339.0,
+            2340.0,
+            "Ramsey fouls it."
+        ],
+        "435": [
+            2341.0,
+            2345.0,
+            "This one will take their time again, they've got another substitution up their sleeve as well."
+        ],
+        "436": [
+            2345.0,
+            2349.0,
+            "18-year-old, former Academy product, Sam Fields,"
+        ],
+        "437": [
+            2349.0,
+            2352.0,
+            "going to come off for the last few minutes."
+        ],
+        "438": [
+            2354.0,
+            2355.0,
+            "And it's in."
+        ],
+        "439": [
+            2356.0,
+            2357.0,
+            "It's in."
+        ],
+        "440": [
+            2358.0,
+            2359.0,
+            "It's in."
+        ],
+        "441": [
+            2360.0,
+            2361.0,
+            "It's in."
+        ],
+        "442": [
+            2362.0,
+            2363.0,
+            "It's in."
+        ],
+        "443": [
+            2364.0,
+            2365.0,
+            "It's in."
+        ],
+        "444": [
+            2366.0,
+            2367.0,
+            "It's in."
+        ],
+        "445": [
+            2367.0,
+            2370.0,
+            "Sam Fields going to come off for the last few moments."
+        ],
+        "446": [
+            2375.0,
+            2377.0,
+            "Delivered by Mclean."
+        ],
+        "447": [
+            2381.0,
+            2382.0,
+            "Iwobi."
+        ],
+        "448": [
+            2383.0,
+            2384.0,
+            "Back to Ospina."
+        ],
+        "449": [
+            2397.0,
+            2398.0,
+            "Liverpool."
+        ],
+        "450": [
+            2398.0,
+            2399.0,
+            "Jakob."
+        ],
+        "451": [
+            2411.0,
+            2413.0,
+            "Valets ring round the Hawthorns."
+        ],
+        "452": [
+            2414.0,
+            2418.0,
+            "This is turning into a magnificent day for Tony Pulis and West Bromwich Albion."
+        ],
+        "453": [
+            2420.0,
+            2423.0,
+            "Clarence Fletcher in his programme notes today, in his captain's notes,"
+        ],
+        "454": [
+            2424.0,
+            2428.0,
+            "talking about how the fact that their desire was questioned as professionals"
+        ],
+        "455": [
+            2428.0,
+            2431.0,
+            "after they'd hit the 40-point mark and had back-to-back defeats,"
+        ],
+        "456": [
+            2431.0,
+            2434.0,
+            "they wanted to provide an answer. I think we've seen one here, haven't we?"
+        ],
+        "457": [
+            2435.0,
+            2439.0,
+            "Might be more Rob St-Caen who's there, but so too is Cranich-Schacher,"
+        ],
+        "458": [
+            2439.0,
+            2441.0,
+            "who'd matched his run."
+        ],
+        "459": [
+            2442.0,
+            2445.0,
+            "He took the back of his eye down, Fletcher's desire to get to the ball though,"
+        ],
+        "460": [
+            2445.0,
+            2447.0,
+            "Heather Schacher looks really epitomised."
+        ],
+        "461": [
+            2447.0,
+            2449.0,
+            "West Bromwich ahead in the game."
+        ],
+        "462": [
+            2449.0,
+            2453.0,
+            "Hard touch from Mclean, you can understand that."
+        ],
+        "463": [
+            2480.0,
+            2481.0,
+            "Is it Wobbe?"
+        ],
+        "464": [
+            2483.0,
+            2484.0,
+            "Monreal."
+        ],
+        "465": [
+            2486.0,
+            2488.0,
+            "Oxlade-Chamberlain, too much on that one."
+        ],
+        "466": [
+            2503.0,
+            2507.0,
+            "We have seen enough, some of the Arsenal fans heading the road early."
+        ],
+        "467": [
+            2510.0,
+            2514.0,
+            "When lose or draw the banners would have been inevitable,"
+        ],
+        "468": [
+            2514.0,
+            2519.0,
+            "we've had pro and con banners flown over the stadium in the first half."
+        ],
+        "469": [
+            2524.0,
+            2529.0,
+            "This afternoon won't do much good for the Ingerstedt brigade."
+        ],
+        "470": [
+            2539.0,
+            2544.0,
+            "It doesn't look like his Arsenal side have the answers here."
+        ],
+        "471": [
+            2550.0,
+            2553.0,
+            "I said in his media conference ahead of this game, Arsene Wenger,"
+        ],
+        "472": [
+            2553.0,
+            2555.0,
+            "didn't he, how he was bored of fielding questions,"
+        ],
+        "473": [
+            2555.0,
+            2556.0,
+            "and he's not."
+        ],
+        "474": [
+            2557.0,
+            2558.0,
+            "He's not."
+        ],
+        "475": [
+            2559.0,
+            2560.0,
+            "He's not."
+        ],
+        "476": [
+            2561.0,
+            2562.0,
+            "He's not."
+        ],
+        "477": [
+            2563.0,
+            2564.0,
+            "He's not."
+        ],
+        "478": [
+            2565.0,
+            2566.0,
+            "He's not."
+        ],
+        "479": [
+            2566.0,
+            2569.0,
+            "I said in his media conference ahead of this game, Arsene Wenger,"
+        ],
+        "480": [
+            2569.0,
+            2572.0,
+            "didn't he, how he was bored of fielding questions every week"
+        ],
+        "481": [
+            2572.0,
+            2574.0,
+            "before every match about his future."
+        ],
+        "482": [
+            2574.0,
+            2576.0,
+            "I dare say they'll come up again after this."
+        ],
+        "483": [
+            2577.0,
+            2582.0,
+            "There's an uncertainty that's inevitable until the club announce"
+        ],
+        "484": [
+            2582.0,
+            2585.0,
+            "whether he's staying or whether he's going."
+        ],
+        "485": [
+            2591.0,
+            2592.0,
+            "Into the last couple of minutes."
+        ],
+        "486": [
+            2593.0,
+            2598.0,
+            "Long briefing for young Sam Field continues in West Bromwich"
+        ],
+        "487": [
+            2598.0,
+            2599.0,
+            "and technical area."
+        ],
+        "488": [
+            2599.0,
+            2602.0,
+            "Out in by Ramsey, and straight out by Ramsey."
+        ],
+        "489": [
+            2614.0,
+            2618.0,
+            "Sam Field, who's been at the club, the academy,"
+        ],
+        "490": [
+            2618.0,
+            2621.0,
+            "and up through the ranks since the age of eight,"
+        ],
+        "491": [
+            2621.0,
+            2628.0,
+            "will come on to bring up his sixth Premier League appearance for the club."
+        ],
+        "492": [
+            2628.0,
+            2631.0,
+            "Nasser Chadli from the far side of the field makes his way."
+        ],
+        "493": [
+            2651.0,
+            2654.0,
+            "And it's going to bring a big cheer out for homegrown boy."
+        ],
+        "494": [
+            2657.0,
+            2659.0,
+            "I suppose, Andy, when you look at the match as a whole,"
+        ],
+        "495": [
+            2659.0,
+            2663.0,
+            "one of the things that would be most damaging for Arsenal and Arsene Wenger"
+        ],
+        "496": [
+            2663.0,
+            2666.0,
+            "is the fact that it was eminently predictable."
+        ],
+        "497": [
+            2666.0,
+            2668.0,
+            "We knew they'd have a lot of possession,"
+        ],
+        "498": [
+            2668.0,
+            2671.0,
+            "we knew how they dealt with set-pieces was going to be important."
+        ],
+        "499": [
+            2672.0,
+            2673.0,
+            "We knew they were going to dominate the ball,"
+        ],
+        "500": [
+            2673.0,
+            2675.0,
+            "the threat that West Brom were going to pose,"
+        ],
+        "501": [
+            2675.0,
+            2677.0,
+            "but if you don't switch on, you don't defend properly,"
+        ],
+        "502": [
+            2677.0,
+            2679.0,
+            "you give away two relatively soft goals,"
+        ],
+        "503": [
+            2679.0,
+            2682.0,
+            "and those decent goals in, attacking of the ball from Craig Dawson,"
+        ],
+        "504": [
+            2682.0,
+            2684.0,
+            "they deserve what they've got here, West Brom."
+        ],
+        "505": [
+            2685.0,
+            2687.0,
+            "Arsenal defensively so, so poor, and pretty threatening,"
+        ],
+        "506": [
+            2687.0,
+            2689.0,
+            "an awful lot going forward."
+        ],
+        "507": [
+            2693.0,
+            2698.0,
+            "Big time as we approach the end of the 19th to ask you who your man of the match for today is."
+        ],
+        "508": [
+            2698.0,
+            2700.0,
+            "Arsenal have an outstanding team effort,"
+        ],
+        "509": [
+            2700.0,
+            2702.0,
+            "but it's been a red-letter day for Craig Dawson, scored twice,"
+        ],
+        "510": [
+            2702.0,
+            2705.0,
+            "he's kept the dangerous Alexis Sanchez quiet in the second half,"
+        ],
+        "511": [
+            2705.0,
+            2710.0,
+            "he really has epitomised the application desire that West Brom have shown this afternoon."
+        ],
+        "512": [
+            2735.0,
+            2737.0,
+            "ARSENAL FANS CHANT"
+        ],
+        "513": [
+            2750.0,
+            2751.0,
+            "Oxlade-Chamberlain."
+        ],
+        "514": [
+            2752.0,
+            2753.0,
+            "Vellerin."
+        ],
+        "515": [
+            2755.0,
+            2757.0,
+            "Foul by Jonny Evans."
+        ],
+        "516": [
+            2757.0,
+            2759.0,
+            "Arsenal have a corner."
+        ],
+        "517": [
+            2759.0,
+            2762.0,
+            "Into the 91st minute, Jonny Evans tearing across his defence"
+        ],
+        "518": [
+            2763.0,
+            2765.0,
+            "to make sure that cross doesn't get into the box again."
+        ],
+        "519": [
+            2766.0,
+            2768.0,
+            "On the lines, why are West Brom going to go on and win the game?"
+        ],
+        "520": [
+            2775.0,
+            2778.0,
+            "All the way through to Owobi, he's able to keep it in."
+        ],
+        "521": [
+            2780.0,
+            2781.0,
+            "Half-way field."
+        ],
+        "522": [
+            2793.0,
+            2794.0,
+            "FULL-TIME WHISTLE"
+        ],
+        "523": [
+            2802.0,
+            2803.0,
+            "Monreal."
+        ],
+        "524": [
+            2816.0,
+            2817.0,
+            "Well back."
+        ],
+        "525": [
+            2818.0,
+            2819.0,
+            "Field with the challenge."
+        ],
+        "526": [
+            2819.0,
+            2821.0,
+            "Jakob now on to it for West Brom."
+        ],
+        "527": [
+            2822.0,
+            2825.0,
+            "In terms of a top-four finish, in terms of living out some fingers,"
+        ],
+        "528": [
+            2825.0,
+            2827.0,
+            "this could be a devastating defeat."
+        ],
+        "529": [
+            2827.0,
+            2829.0,
+            "And it could get worse, field is onside."
+        ],
+        "530": [
+            2832.0,
+            2834.0,
+            "The teenager heads for the corner."
+        ],
+        "531": [
+            2835.0,
+            2839.0,
+            "Even in the head-in of the hall, Thornton can probably hear his manager."
+        ],
+        "532": [
+            2840.0,
+            2841.0,
+            "Don't go for glory, son."
+        ],
+        "533": [
+            2841.0,
+            2844.0,
+            "He's got Robson-Curley behind him, he's screaming at him."
+        ],
+        "534": [
+            2844.0,
+            2846.0,
+            "Don't go for a fourth, head for the corner, flag did the right thing."
+        ],
+        "535": [
+            2849.0,
+            2850.0,
+            "FULL-TIME WHISTLE"
+        ],
+        "536": [
+            2856.0,
+            2859.0,
+            "Well, West Brom will enjoy, and rightly so,"
+        ],
+        "537": [
+            2859.0,
+            2862.0,
+            "getting back to winning ways after those successive defeats."
+        ],
+        "538": [
+            2863.0,
+            2865.0,
+            "Getting back-to-back home wins against Arsenal."
+        ],
+        "539": [
+            2866.0,
+            2868.0,
+            "It's the 22nd time they've played in the Premier League,"
+        ],
+        "540": [
+            2868.0,
+            2870.0,
+            "it'll only be their fourth win, it's a rarity."
+        ],
+        "541": [
+            2871.0,
+            2872.0,
+            "That's one side of the coin."
+        ],
+        "542": [
+            2873.0,
+            2874.0,
+            "The other, very different."
+        ],
+        "543": [
+            2875.0,
+            2879.0,
+            "You just know after this the headlines will be about Arsenal's woes,"
+        ],
+        "544": [
+            2879.0,
+            2882.0,
+            "rather than the good things West Brom have done today."
+        ]
+    }
+}

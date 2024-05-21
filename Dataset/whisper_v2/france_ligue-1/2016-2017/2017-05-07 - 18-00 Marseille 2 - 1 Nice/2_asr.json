@@ -1,0 +1,5594 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            4.0,
+            "Il prend son temps pour effectuer cette remise en jeu."
+        ],
+        "1": [
+            5.0,
+            6.0,
+            "Dalbert..."
+        ],
+        "2": [
+            8.0,
+            11.0,
+            "La tête de Sabali, nouvelle touche pour l'Énissois."
+        ],
+        "3": [
+            16.0,
+            18.0,
+            "Le ballon d'Albert..."
+        ],
+        "4": [
+            21.0,
+            25.0,
+            "C'est Essé qui venait réclamer ce ballon, finalement Malcolm maintenant..."
+        ],
+        "5": [
+            26.0,
+            28.0,
+            "Avec Sancaré, Sancaré..."
+        ],
+        "6": [
+            29.0,
+            30.0,
+            "Seri..."
+        ],
+        "7": [
+            31.0,
+            32.0,
+            "Entre les jambes de Sancaré..."
+        ],
+        "8": [
+            33.0,
+            34.0,
+            "Dalbert..."
+        ],
+        "9": [
+            34.0,
+            35.0,
+            "Pour Cardinal..."
+        ],
+        "10": [
+            37.0,
+            38.0,
+            "Remont à Dalbert..."
+        ],
+        "11": [
+            39.0,
+            42.0,
+            "Amortie poitrine de Dalbert, combine avec Ballotelli..."
+        ],
+        "12": [
+            42.0,
+            44.0,
+            "Oh il y avait peut-être un petit coup donné par Levchouk..."
+        ],
+        "13": [
+            44.0,
+            47.0,
+            "Ouais mais quel contrôle orienté de Esséri qui..."
+        ],
+        "14": [
+            47.0,
+            50.0,
+            "Ça permet d'aller chercher de l'autre côté, bon il n'arrive pas à trouver l'opposé mais..."
+        ],
+        "15": [
+            52.0,
+            54.0,
+            "Avec Belanda ensuite en déséquilibre..."
+        ],
+        "16": [
+            55.0,
+            58.0,
+            "Contento qui n'arrive pas à trouver Kamano devant..."
+        ],
+        "17": [
+            58.0,
+            61.0,
+            "Souquet qui protège son ballon et qui relance..."
+        ],
+        "18": [
+            61.0,
+            64.0,
+            "Voilà le pressing bordelais demandé par Josselin Gourvenec..."
+        ],
+        "19": [
+            64.0,
+            69.0,
+            "Et qui peut peut-être aboutir à une occasion avec cette frappe enroulée de la part de Malcolm..."
+        ],
+        "20": [
+            69.0,
+            70.0,
+            "Nettement au-dessus..."
+        ],
+        "21": [
+            71.0,
+            72.0,
+            "Et c'était intelligemment fait..."
+        ],
+        "22": [
+            73.0,
+            77.0,
+            "Ouais Sancaré qui laisse passer de façon intelligente, il n'est pas en situation de frapper..."
+        ],
+        "23": [
+            77.0,
+            79.0,
+            "Et il sait que son partenaire c'est..."
+        ],
+        "24": [
+            80.0,
+            84.0,
+            "Est-ce que c'est Malcolm capable lui de frapper fort et d'enrouler ?"
+        ],
+        "25": [
+            85.0,
+            87.0,
+            "Le ballon est là ! Attention !"
+        ],
+        "26": [
+            88.0,
+            92.0,
+            "Comme que les bordelais aimeraient convaincre de rester la saison prochaine ce sera compliqué..."
+        ],
+        "27": [
+            92.0,
+            96.0,
+            "Il y a plein d'émissaires étrangers et même du côté de Monaco qui s'intéressent de près..."
+        ],
+        "28": [
+            96.0,
+            98.0,
+            "A ce petit prodige brésilien..."
+        ],
+        "29": [
+            99.0,
+            100.0,
+            "Quel passe pour..."
+        ],
+        "30": [
+            101.0,
+            102.0,
+            "Ah ça il passe pour Esséri..."
+        ],
+        "31": [
+            103.0,
+            104.0,
+            "Belanda..."
+        ],
+        "32": [
+            106.0,
+            108.0,
+            "Là aussi c'est bien orienté vers Souquet..."
+        ],
+        "33": [
+            108.0,
+            109.0,
+            "Et Yovanovitch..."
+        ],
+        "34": [
+            111.0,
+            112.0,
+            "Pressing de Série..."
+        ],
+        "35": [
+            112.0,
+            117.0,
+            "Ballon récupéré par les bordelais maintenant avec Kamano qui est lancé..."
+        ],
+        "36": [
+            120.0,
+            121.0,
+            "Vada..."
+        ],
+        "37": [
+            121.0,
+            122.0,
+            "Malcolm..."
+        ],
+        "38": [
+            123.0,
+            126.0,
+            "La borde qui va aller se positionner près du point de pénalty..."
+        ],
+        "39": [
+            127.0,
+            131.0,
+            "Le centre de Vada et ce sera un corner pour Bordeaux qui pousse, qui insiste..."
+        ],
+        "40": [
+            133.0,
+            134.0,
+            "Sous le regard de Souquet..."
+        ],
+        "41": [
+            134.0,
+            135.0,
+            "Le centre de Vada..."
+        ],
+        "42": [
+            136.0,
+            138.0,
+            "Le gâchis continue au niveau des corners..."
+        ],
+        "43": [
+            138.0,
+            140.0,
+            "Toujours sur les coups de pieds arrêtés..."
+        ],
+        "44": [
+            143.0,
+            147.0,
+            "Vada qui rate absolument tout ce qu'il entreprend sur les coups de pieds arrêtés..."
+        ],
+        "45": [
+            148.0,
+            151.0,
+            "Ce centre ne donnera rien sans problème pour Yohann Cardinale..."
+        ],
+        "46": [
+            151.0,
+            152.0,
+            "Le centre de Vada..."
+        ],
+        "47": [
+            153.0,
+            154.0,
+            "Le centre de Vada..."
+        ],
+        "48": [
+            155.0,
+            156.0,
+            "Le centre de Vada..."
+        ],
+        "49": [
+            157.0,
+            158.0,
+            "Le centre de Vada..."
+        ],
+        "50": [
+            159.0,
+            160.0,
+            "Le centre de Vada..."
+        ],
+        "51": [
+            161.0,
+            162.0,
+            "Le centre de Vada..."
+        ],
+        "52": [
+            162.0,
+            163.0,
+            "Le centre de Vada..."
+        ],
+        "53": [
+            164.0,
+            165.0,
+            "Le centre de Vada..."
+        ],
+        "54": [
+            166.0,
+            167.0,
+            "Le centre de Vada..."
+        ],
+        "55": [
+            168.0,
+            169.0,
+            "Le centre de Vada..."
+        ],
+        "56": [
+            170.0,
+            171.0,
+            "Le centre de Vada..."
+        ],
+        "57": [
+            172.0,
+            173.0,
+            "Le centre de Vada..."
+        ],
+        "58": [
+            174.0,
+            175.0,
+            "Le centre de Vada..."
+        ],
+        "59": [
+            176.0,
+            177.0,
+            "Le centre de Vada..."
+        ],
+        "60": [
+            178.0,
+            179.0,
+            "Le centre de Vada..."
+        ],
+        "61": [
+            180.0,
+            181.0,
+            "Le centre de Vada..."
+        ],
+        "62": [
+            182.0,
+            183.0,
+            "Le centre de Vada..."
+        ],
+        "63": [
+            184.0,
+            185.0,
+            "Le centre de Vada..."
+        ],
+        "64": [
+            186.0,
+            187.0,
+            "Le centre de Vada..."
+        ],
+        "65": [
+            188.0,
+            189.0,
+            "Le centre de Vada..."
+        ],
+        "66": [
+            190.0,
+            191.0,
+            "Le centre de Vada..."
+        ],
+        "67": [
+            192.0,
+            193.0,
+            "Le centre de Vada..."
+        ],
+        "68": [
+            194.0,
+            195.0,
+            "Le centre de Vada..."
+        ],
+        "69": [
+            196.0,
+            197.0,
+            "Le centre de Vada..."
+        ],
+        "70": [
+            198.0,
+            199.0,
+            "Le centre de Vada..."
+        ],
+        "71": [
+            200.0,
+            201.0,
+            "Le centre de Vada..."
+        ],
+        "72": [
+            202.0,
+            203.0,
+            "Le centre de Vada..."
+        ],
+        "73": [
+            204.0,
+            205.0,
+            "Le centre de Vada..."
+        ],
+        "74": [
+            206.0,
+            207.0,
+            "Le centre de Vada..."
+        ],
+        "75": [
+            208.0,
+            209.0,
+            "Le centre de Vada..."
+        ],
+        "76": [
+            210.0,
+            211.0,
+            "Le centre de Vada..."
+        ],
+        "77": [
+            212.0,
+            213.0,
+            "Le centre de Vada..."
+        ],
+        "78": [
+            214.0,
+            215.0,
+            "Le centre de Vada..."
+        ],
+        "79": [
+            216.0,
+            217.0,
+            "Le centre de Vada..."
+        ],
+        "80": [
+            218.0,
+            219.0,
+            "Le centre de Vada..."
+        ],
+        "81": [
+            220.0,
+            221.0,
+            "Le centre de Vada..."
+        ],
+        "82": [
+            223.0,
+            224.0,
+            "Le centre de Vada..."
+        ],
+        "83": [
+            225.0,
+            226.0,
+            "Le centre de Vada..."
+        ],
+        "84": [
+            227.0,
+            228.0,
+            "Le centre de Vada..."
+        ],
+        "85": [
+            229.0,
+            230.0,
+            "Le centre de Vada..."
+        ],
+        "86": [
+            231.0,
+            232.0,
+            "Le centre de Vada..."
+        ],
+        "87": [
+            233.0,
+            234.0,
+            "Le centre de Vada..."
+        ],
+        "88": [
+            241.0,
+            242.0,
+            "Le centre de Vada..."
+        ],
+        "89": [
+            244.0,
+            245.0,
+            "Le centre de Vada..."
+        ],
+        "90": [
+            246.0,
+            247.0,
+            "Le centre de Vada..."
+        ],
+        "91": [
+            248.0,
+            249.0,
+            "Le centre de Vada..."
+        ],
+        "92": [
+            250.0,
+            251.0,
+            "Le centre de Vada..."
+        ],
+        "93": [
+            252.0,
+            263.0,
+            "Balotelli tente de retrouver ses esprits."
+        ],
+        "94": [
+            263.0,
+            276.0,
+            "Tout cela sous le regard de Germain Menez."
+        ],
+        "95": [
+            276.0,
+            286.0,
+            "Le jeu reprend sans Balotelli."
+        ],
+        "96": [
+            286.0,
+            291.0,
+            "Balotelli a l'autorisation de revenir sur la pelouse."
+        ],
+        "97": [
+            291.0,
+            296.0,
+            "Touche pour le Girondin de Bordeaux."
+        ],
+        "98": [
+            296.0,
+            303.0,
+            "Fabre a peut-être indiqué qu'il entendait procéder à un changement."
+        ],
+        "99": [
+            303.0,
+            313.0,
+            "Une YouTubeuse s'ét souffre du mal à revenir en多久 ..."
+        ],
+        "100": [
+            313.0,
+            319.0,
+            "Vamos-y Xavier Auger"
+        ],
+        "101": [
+            319.0,
+            326.0,
+            "Musique met en voix"
+        ],
+        "102": [
+            326.0,
+            331.0,
+            "carrée"
+        ],
+        "103": [
+            331.0,
+            333.0,
+            "Avec tout l'allant."
+        ],
+        "104": [
+            335.0,
+            337.0,
+            "Et qui temporise."
+        ],
+        "105": [
+            337.0,
+            340.0,
+            "Il faut qu'ils arrivent à mettre du rythme, à enchaîner des attaques."
+        ],
+        "106": [
+            340.0,
+            342.0,
+            "Et ils n'y arrivent pas."
+        ],
+        "107": [
+            344.0,
+            349.0,
+            "Lovanovich décide de changer de côté vers Sabaly."
+        ],
+        "108": [
+            349.0,
+            351.0,
+            "Contrôle de Sabaly."
+        ],
+        "109": [
+            351.0,
+            353.0,
+            "Il faut enchaîner maintenant et accélérer."
+        ],
+        "110": [
+            353.0,
+            355.0,
+            "Il faut du mouvement devant également."
+        ],
+        "111": [
+            355.0,
+            357.0,
+            "Malcom peut faire la différence tout seul."
+        ],
+        "112": [
+            357.0,
+            359.0,
+            "Malcom."
+        ],
+        "113": [
+            360.0,
+            364.0,
+            "Alors qu'il y a Sankaré qui fait aussi de grands gestes pour être servi."
+        ],
+        "114": [
+            364.0,
+            366.0,
+            "Il continue de passer par les côtés."
+        ],
+        "115": [
+            366.0,
+            368.0,
+            "Pour l'instant sans trop de succès."
+        ],
+        "116": [
+            368.0,
+            369.0,
+            "Kamano."
+        ],
+        "117": [
+            369.0,
+            371.0,
+            "Ça s'est bien donné en retrait."
+        ],
+        "118": [
+            373.0,
+            374.0,
+            "Malcom."
+        ],
+        "119": [
+            374.0,
+            376.0,
+            "Il a du Bernardo Silva."
+        ],
+        "120": [
+            376.0,
+            377.0,
+            "Malcom."
+        ],
+        "121": [
+            377.0,
+            379.0,
+            "Ce serait peut-être pour remplacer Bernardo Silva."
+        ],
+        "122": [
+            379.0,
+            381.0,
+            "S'il était acheté par Monaco."
+        ],
+        "123": [
+            381.0,
+            383.0,
+            "En tout cas il a obtenu un coup franc."
+        ],
+        "124": [
+            383.0,
+            384.0,
+            "Malcom."
+        ],
+        "125": [
+            384.0,
+            385.0,
+            "Et Kamano."
+        ],
+        "126": [
+            385.0,
+            386.0,
+            "Faute sur Kamano."
+        ],
+        "127": [
+            386.0,
+            388.0,
+            "De la part de Balotelli."
+        ],
+        "128": [
+            388.0,
+            390.0,
+            "Il aurait pu l'éviter cette faute."
+        ],
+        "129": [
+            390.0,
+            392.0,
+            "Elle était largement évitable."
+        ],
+        "130": [
+            394.0,
+            397.0,
+            "Est-ce qu'on a pu d'un seul coup gommer tous les défauts sur Pupi Arrete ?"
+        ],
+        "131": [
+            397.0,
+            398.0,
+            "On va le savoir."
+        ],
+        "132": [
+            398.0,
+            401.0,
+            "Parce que celui-là est dangereux pour les Girondins de Bordeaux."
+        ],
+        "133": [
+            401.0,
+            403.0,
+            "Mais ils ont des bons frappeurs."
+        ],
+        "134": [
+            403.0,
+            405.0,
+            "Malcom, je me souviens, il avait marqué un très très beau à Nancy."
+        ],
+        "135": [
+            405.0,
+            407.0,
+            "Pleine lucarne."
+        ],
+        "136": [
+            407.0,
+            409.0,
+            "C'est plus pour un droit de l'arrière."
+        ],
+        "137": [
+            409.0,
+            411.0,
+            "Il a fait un bon coup."
+        ],
+        "138": [
+            411.0,
+            412.0,
+            "Pleine lucarne."
+        ],
+        "139": [
+            412.0,
+            414.0,
+            "C'est plus pour un droitier qu'un gaucher."
+        ],
+        "140": [
+            414.0,
+            416.0,
+            "Plus pour Vada peut-être."
+        ],
+        "141": [
+            416.0,
+            418.0,
+            "Il a réussi deux."
+        ],
+        "142": [
+            418.0,
+            420.0,
+            "Contre Nancy et puis lors de la première journée contre Saint-Etienne."
+        ],
+        "143": [
+            420.0,
+            422.0,
+            "Cette saison Malcom."
+        ],
+        "144": [
+            422.0,
+            423.0,
+            "Ah oui contre Saint-Etienne."
+        ],
+        "145": [
+            423.0,
+            424.0,
+            "Première intermission."
+        ],
+        "146": [
+            425.0,
+            427.0,
+            "En tout cas ce ne sera pas Vada."
+        ],
+        "147": [
+            427.0,
+            429.0,
+            "Ce sera Malcom ou Kamano."
+        ],
+        "148": [
+            435.0,
+            437.0,
+            "A priori c'est plutôt pour Kamano."
+        ],
+        "149": [
+            437.0,
+            439.0,
+            "Mais on va voir Malcom."
+        ],
+        "150": [
+            439.0,
+            441.0,
+            "Malcom."
+        ],
+        "151": [
+            441.0,
+            443.0,
+            "Avec son pied gauche."
+        ],
+        "152": [
+            443.0,
+            445.0,
+            "Va tenter l'impossible."
+        ],
+        "153": [
+            451.0,
+            454.0,
+            "Pendant ce temps, Benoît Bastien a vu un peu de friction dans la surface."
+        ],
+        "154": [
+            454.0,
+            456.0,
+            "Entre Sancaré et Ricardo Pereira."
+        ],
+        "155": [
+            456.0,
+            459.0,
+            "Soit il cherche le premier poteau au-dessus du mur."
+        ],
+        "156": [
+            459.0,
+            462.0,
+            "Soit il fait comme Bato Kio le Brestois."
+        ],
+        "157": [
+            462.0,
+            464.0,
+            "Au deuxième poteau."
+        ],
+        "158": [
+            464.0,
+            466.0,
+            "Pour tenter de prendre un contre-pied cardinal."
+        ],
+        "159": [
+            467.0,
+            470.0,
+            "Et bien c'est Kamano qui prend sa chance."
+        ],
+        "160": [
+            470.0,
+            472.0,
+            "Et ça frôle la barre transversale."
+        ],
+        "161": [
+            477.0,
+            478.0,
+            "Touché par Cardinal."
+        ],
+        "162": [
+            478.0,
+            479.0,
+            "Oui il l'a touché."
+        ],
+        "163": [
+            479.0,
+            482.0,
+            "Le coach du SOS de Mancrois il l'a touché."
+        ],
+        "164": [
+            482.0,
+            484.0,
+            "Pas sur-dessus non ?"
+        ],
+        "165": [
+            484.0,
+            485.0,
+            "Oui ça semblait sortir."
+        ],
+        "166": [
+            485.0,
+            487.0,
+            "Ce sera quand même un corner."
+        ],
+        "167": [
+            487.0,
+            489.0,
+            "Conseillé par Yoann Cardinal."
+        ],
+        "168": [
+            489.0,
+            491.0,
+            "Vada pour le frapper."
+        ],
+        "169": [
+            491.0,
+            493.0,
+            "Vada."
+        ],
+        "170": [
+            493.0,
+            494.0,
+            "Avec Cardinal."
+        ],
+        "171": [
+            494.0,
+            496.0,
+            "Cardinal qui s'est un petit peu troué la reprise."
+        ],
+        "172": [
+            496.0,
+            498.0,
+            "Oh le raté."
+        ],
+        "173": [
+            498.0,
+            500.0,
+            "Au maître de la cage de Kamano."
+        ],
+        "174": [
+            501.0,
+            503.0,
+            "Un maître du but."
+        ],
+        "175": [
+            503.0,
+            504.0,
+            "Kamano surpris."
+        ],
+        "176": [
+            504.0,
+            506.0,
+            "Oui il est arrivé difficile aussi."
+        ],
+        "177": [
+            506.0,
+            508.0,
+            "Pas si évident."
+        ],
+        "178": [
+            510.0,
+            513.0,
+            "Là pour le coup c'est plus dur de la mettre au-dessus que de la mettre dedans."
+        ],
+        "179": [
+            513.0,
+            515.0,
+            "Il essaierait à nouveau ce geste."
+        ],
+        "180": [
+            515.0,
+            517.0,
+            "Il ne le réussirait pas."
+        ],
+        "181": [
+            517.0,
+            519.0,
+            "Faire monter la balle aussi vite."
+        ],
+        "182": [
+            519.0,
+            521.0,
+            "C'est impossible à refaire."
+        ],
+        "183": [
+            522.0,
+            524.0,
+            "Regardez la réaction de Jovanovic."
+        ],
+        "184": [
+            524.0,
+            526.0,
+            "Et puis de Sancaré me semble-t-il."
+        ],
+        "185": [
+            526.0,
+            528.0,
+            "Et de Lucien Favre."
+        ],
+        "186": [
+            528.0,
+            530.0,
+            "Qui a bien cru à l'égalisation."
+        ],
+        "187": [
+            530.0,
+            532.0,
+            "Des Girondins de Bordeaux."
+        ],
+        "188": [
+            532.0,
+            534.0,
+            "A l'approche de l'heure de jeu."
+        ],
+        "189": [
+            534.0,
+            537.0,
+            "Et ce rixe c'est un avertissement pour les Niçois."
+        ],
+        "190": [
+            538.0,
+            539.0,
+            "Balotelli."
+        ],
+        "191": [
+            542.0,
+            545.0,
+            "Et puis c'est la preuve que lorsque les corners sont bien frappés."
+        ],
+        "192": [
+            546.0,
+            547.0,
+            "Ils peuvent être dangereux."
+        ],
+        "193": [
+            547.0,
+            549.0,
+            "C'est pas le point fort de Cardinal."
+        ],
+        "194": [
+            549.0,
+            550.0,
+            "On l'a vu."
+        ],
+        "195": [
+            552.0,
+            554.0,
+            "De toute façon les Niçois sont habitués."
+        ],
+        "196": [
+            554.0,
+            557.0,
+            "Ils ont gagné 12 de leurs 18 victoires par un but d'écart."
+        ],
+        "197": [
+            559.0,
+            561.0,
+            "Sont-ils capables encore de tenir ce score ?"
+        ],
+        "198": [
+            561.0,
+            563.0,
+            "Je crois qu'ils vont quand même essayer d'aller chercher ce troisième but."
+        ],
+        "199": [
+            563.0,
+            566.0,
+            "Mais pour l'instant on voit les Bordelais en tout cas plus conquérants."
+        ],
+        "200": [
+            568.0,
+            570.0,
+            "Une meilleure opposition de la part des Bordelais."
+        ],
+        "201": [
+            571.0,
+            573.0,
+            "Sous l'impulsion de Malcolm, de Camano."
+        ],
+        "202": [
+            576.0,
+            578.0,
+            "Et les voilà qui récupèrent aussi davantage de ballons."
+        ],
+        "203": [
+            578.0,
+            579.0,
+            "En milieu de terrain."
+        ],
+        "204": [
+            579.0,
+            581.0,
+            "Ce milieu de terrain qui a énormément progressé cette saison."
+        ],
+        "205": [
+            582.0,
+            583.0,
+            "Avec Jocelyne Gourvenec."
+        ],
+        "206": [
+            584.0,
+            585.0,
+            "Là c'est Nice qui recule."
+        ],
+        "207": [
+            585.0,
+            587.0,
+            "Ça recule du côté niçois."
+        ],
+        "208": [
+            587.0,
+            589.0,
+            "Allant pour son carré maintenant."
+        ],
+        "209": [
+            591.0,
+            594.0,
+            "Et on va orienter le jeu de l'autre côté vers Sabali."
+        ],
+        "210": [
+            596.0,
+            597.0,
+            "Sabali."
+        ],
+        "211": [
+            597.0,
+            599.0,
+            "C'est très offensif comme latéral."
+        ],
+        "212": [
+            601.0,
+            603.0,
+            "Ce joueur prêté par le Paris Saint-Germain."
+        ],
+        "213": [
+            604.0,
+            606.0,
+            "Qui va bénéficier de cette remise en jeu."
+        ],
+        "214": [
+            612.0,
+            613.0,
+            "Sabali."
+        ],
+        "215": [
+            619.0,
+            620.0,
+            "Pas mal encore le numéro de Malcolm."
+        ],
+        "216": [
+            620.0,
+            621.0,
+            "C'est donné en retrait."
+        ],
+        "217": [
+            621.0,
+            622.0,
+            "Peut-être la frappe."
+        ],
+        "218": [
+            623.0,
+            624.0,
+            "Oui !"
+        ],
+        "219": [
+            624.0,
+            625.0,
+            "Et c'était limite un centre d'ailleurs."
+        ],
+        "220": [
+            625.0,
+            627.0,
+            "Ça manquait de puissance pour une frappe."
+        ],
+        "221": [
+            627.0,
+            628.0,
+            "Il n'a pas vraiment choisi là."
+        ],
+        "222": [
+            628.0,
+            631.0,
+            "Contento il aurait sûrement dû trouver un..."
+        ],
+        "223": [
+            631.0,
+            633.0,
+            "Un bon centre dans le dos de la défense."
+        ],
+        "224": [
+            634.0,
+            635.0,
+            "Il est inquiet Jocelyne Gourvenec."
+        ],
+        "225": [
+            635.0,
+            636.0,
+            "Ça se voit sur son visage."
+        ],
+        "226": [
+            636.0,
+            637.0,
+            "Oui agacé aussi."
+        ],
+        "227": [
+            640.0,
+            641.0,
+            "Côté niçois aussi on est inquiet."
+        ],
+        "228": [
+            641.0,
+            643.0,
+            "Il amerait que son équipe joue beaucoup plus."
+        ],
+        "229": [
+            644.0,
+            646.0,
+            "On rappelle que sur les 12 dernières journées."
+        ],
+        "230": [
+            646.0,
+            647.0,
+            "Bordeaux n'a concédé que 2 défaites."
+        ],
+        "231": [
+            647.0,
+            649.0,
+            "Et c'était contre Paris et Monaco."
+        ],
+        "232": [
+            650.0,
+            652.0,
+            "Ce serait donc contre le 3ème du classement maintenant."
+        ],
+        "233": [
+            654.0,
+            655.0,
+            "Ça arrive plus à garder le ballon."
+        ],
+        "234": [
+            655.0,
+            658.0,
+            "Non parce que c'est vraiment lié à l'attitude des Bordeaux."
+        ],
+        "235": [
+            658.0,
+            662.0,
+            "Parce que les Bordeaux sont revenus avec des intentions très différentes."
+        ],
+        "236": [
+            662.0,
+            663.0,
+            "Ils sont dans le match."
+        ],
+        "237": [
+            663.0,
+            665.0,
+            "Enfin ils sont dans le match les Bordeaux en cette seconde période."
+        ],
+        "238": [
+            673.0,
+            675.0,
+            "Jovanovic, Levchuk."
+        ],
+        "239": [
+            677.0,
+            678.0,
+            "Sabali."
+        ],
+        "240": [
+            679.0,
+            680.0,
+            "Sabali qui est passé devant Hissrich."
+        ],
+        "241": [
+            681.0,
+            682.0,
+            "Et Sabali qui continue."
+        ],
+        "242": [
+            683.0,
+            684.0,
+            "Sortie de Dante."
+        ],
+        "243": [
+            684.0,
+            686.0,
+            "Excellent jaillissement de Dante."
+        ],
+        "244": [
+            686.0,
+            688.0,
+            "Salvateur pour les Niçois."
+        ],
+        "245": [
+            688.0,
+            690.0,
+            "Mais c'est de nouveau récupéré par les Bordeaux."
+        ],
+        "246": [
+            690.0,
+            691.0,
+            "Là il y a les trous maintenant."
+        ],
+        "247": [
+            691.0,
+            692.0,
+            "Il y a les espaces."
+        ],
+        "248": [
+            692.0,
+            693.0,
+            "Trouvés par les Girondins."
+        ],
+        "249": [
+            694.0,
+            696.0,
+            "Encore ce débordement peut-être de Camano."
+        ],
+        "250": [
+            696.0,
+            697.0,
+            "Passement de jambes."
+        ],
+        "251": [
+            698.0,
+            699.0,
+            "Ballon donné en retrait."
+        ],
+        "252": [
+            699.0,
+            702.0,
+            "Le centre qui est raté de la part de Contento."
+        ],
+        "253": [
+            707.0,
+            708.0,
+            "On voit Dante remonter les trous."
+        ],
+        "254": [
+            708.0,
+            711.0,
+            "Parce qu'il sent que c'est un moment important du match pour Nice."
+        ],
+        "255": [
+            711.0,
+            712.0,
+            "Ils subissent."
+        ],
+        "256": [
+            712.0,
+            713.0,
+            "Vada."
+        ],
+        "257": [
+            714.0,
+            715.0,
+            "Levchuk."
+        ],
+        "258": [
+            716.0,
+            717.0,
+            "Sabali."
+        ],
+        "259": [
+            718.0,
+            721.0,
+            "Sabali sollicite le 1-2 avec Malcom."
+        ],
+        "260": [
+            721.0,
+            722.0,
+            "Encore Sabali."
+        ],
+        "261": [
+            722.0,
+            723.0,
+            "Malcom."
+        ],
+        "262": [
+            724.0,
+            725.0,
+            "Le balai provoque du souquet."
+        ],
+        "263": [
+            726.0,
+            727.0,
+            "Malcom."
+        ],
+        "264": [
+            727.0,
+            729.0,
+            "Le centre dégagé par Dante."
+        ],
+        "265": [
+            730.0,
+            732.0,
+            "Et ce ballon finit en touche."
+        ],
+        "266": [
+            733.0,
+            736.0,
+            "Il y a Lucien Favre qui souffre également au terrain."
+        ],
+        "267": [
+            736.0,
+            737.0,
+            "C'est un match très difficile."
+        ],
+        "268": [
+            737.0,
+            739.0,
+            "Il y a des moments où il faut être très prudent."
+        ],
+        "269": [
+            739.0,
+            740.0,
+            "Pas de faute."
+        ],
+        "270": [
+            740.0,
+            741.0,
+            "Pas de faute."
+        ],
+        "271": [
+            741.0,
+            744.0,
+            "C'est le but de Bastien aidé par ses assistants."
+        ],
+        "272": [
+            744.0,
+            746.0,
+            "Par son assistant Malcom."
+        ],
+        "273": [
+            747.0,
+            748.0,
+            "Peut-être en retrait."
+        ],
+        "274": [
+            748.0,
+            749.0,
+            "Et non."
+        ],
+        "275": [
+            749.0,
+            750.0,
+            "Finalement, Camano."
+        ],
+        "276": [
+            750.0,
+            751.0,
+            "Le centre fort."
+        ],
+        "277": [
+            752.0,
+            754.0,
+            "Il y a du déchet quand même dans la dernière frappe."
+        ],
+        "278": [
+            754.0,
+            755.0,
+            "Dans le dernier geste."
+        ],
+        "279": [
+            755.0,
+            756.0,
+            "Là c'est son carré."
+        ],
+        "280": [
+            757.0,
+            761.0,
+            "Les missions n'arriveront pas à tenir une demi-heure de cette façon-là."
+        ],
+        "281": [
+            761.0,
+            762.0,
+            "Le centre fort."
+        ],
+        "282": [
+            762.0,
+            763.0,
+            "Le centre fort."
+        ],
+        "283": [
+            763.0,
+            764.0,
+            "Le centre fort."
+        ],
+        "284": [
+            764.0,
+            765.0,
+            "Le centre fort."
+        ],
+        "285": [
+            765.0,
+            766.0,
+            "Le centre fort."
+        ],
+        "286": [
+            766.0,
+            767.0,
+            "Le centre fort."
+        ],
+        "287": [
+            767.0,
+            768.0,
+            "Le centre fort."
+        ],
+        "288": [
+            768.0,
+            769.0,
+            "La première hauteur de cette façon-là."
+        ],
+        "289": [
+            769.0,
+            772.0,
+            "Il faut qu'ils arrivent à reprendre le ballon."
+        ],
+        "290": [
+            772.0,
+            774.0,
+            "À mener des contre-attaques."
+        ],
+        "291": [
+            777.0,
+            778.0,
+            "Esteric."
+        ],
+        "292": [
+            780.0,
+            781.0,
+            "Et là, Montaigne-Cosiello maintenant."
+        ],
+        "293": [
+            781.0,
+            782.0,
+            "Cosiello."
+        ],
+        "294": [
+            783.0,
+            784.0,
+            "Balotelli."
+        ],
+        "295": [
+            785.0,
+            786.0,
+            "Temporiz."
+        ],
+        "296": [
+            786.0,
+            787.0,
+            "Oula."
+        ],
+        "297": [
+            787.0,
+            791.0,
+            "Ah, c'est pas un cadeau donné par Balotelli à Belanda."
+        ],
+        "298": [
+            792.0,
+            794.0,
+            "Il est en colère après ses défunts, ici."
+        ],
+        "299": [
+            794.0,
+            795.0,
+            "Lui, il fait le feu."
+        ],
+        "300": [
+            798.0,
+            807.0,
+            "C'est le semaine qui jouera la Coupe de France et également Montpiras et Céline."
+        ],
+        "301": [
+            807.0,
+            808.84,
+            "La prochaine journée ce sera vendredi."
+        ],
+        "302": [
+            808.84,
+            811.52,
+            "Ce sera sur Canal & Pouceport."
+        ],
+        "303": [
+            811.52,
+            814.52,
+            "Vendredi prochain, la 32ème journée."
+        ],
+        "304": [
+            814.52,
+            819.36,
+            "Les Tankonners, qu'est-ce qu'il leur dit ? Est-ce qu'il les encourage à continuer"
+        ],
+        "305": [
+            819.36,
+            821.44,
+            "à essayer de ressortir le ballon ?"
+        ],
+        "306": [
+            821.44,
+            823.88,
+            "Non, justement de jouer plus long."
+        ],
+        "307": [
+            823.88,
+            825.72,
+            "Contrairement à ce qu'ils font d'habitude."
+        ],
+        "308": [
+            826.04,
+            830.44,
+            "Ils demandent à Dalbert de monter de l'écran, de jouer plus long et de s'installer dans"
+        ],
+        "309": [
+            830.44,
+            834.12,
+            "le camp bordelais et de prendre moins de risques dans la construction."
+        ],
+        "310": [
+            834.12,
+            836.12,
+            "Parce qu'ils voient qu'ils se font presser, il n'est pas fou."
+        ],
+        "311": [
+            840.12,
+            842.12,
+            "C'est vrai qu'ils ont du mal à se transformer les soixantains."
+        ],
+        "312": [
+            842.12,
+            843.12,
+            "C'est comme ça."
+        ],
+        "313": [
+            843.12,
+            845.12,
+            "Ils veulent continuer, ils veulent continuer."
+        ],
+        "314": [
+            845.12,
+            848.12,
+            "Les bordelais qui vont récupérer le ballon par Kamano."
+        ],
+        "315": [
+            848.12,
+            850.12,
+            "Une faute de Souquet."
+        ],
+        "316": [
+            850.12,
+            852.12,
+            "Le nouveau coup franc au faveur des bordelais."
+        ],
+        "317": [
+            852.52,
+            855.52,
+            "Je vais voir justement le ballon."
+        ],
+        "318": [
+            855.52,
+            857.52,
+            "Vous êtes dans la difficulté en ce moment ?"
+        ],
+        "319": [
+            857.52,
+            864.52,
+            "Visiblement, on a perdu un peu le contrôle de match, de jeu surtout."
+        ],
+        "320": [
+            864.52,
+            867.52,
+            "Il faut reconnaître que Bordeaux nous met de la pression."
+        ],
+        "321": [
+            867.52,
+            869.52,
+            "Ils font circuler bien le ballon."
+        ],
+        "322": [
+            869.52,
+            870.52,
+            "Ils essayent de trouver la faille."
+        ],
+        "323": [
+            870.52,
+            872.52,
+            "Actuellement, on en souffre un peu."
+        ],
+        "324": [
+            872.52,
+            874.52,
+            "Est-ce qu'il faut ressortir le ballon un peu plus long dans des cas comme ça ?"
+        ],
+        "325": [
+            874.52,
+            877.52,
+            "Ou il faut continuer à persister dans le jeu pour derrière ?"
+        ],
+        "326": [
+            877.92,
+            884.92,
+            "Il faudrait toujours faire en sorte de trouver des hommes libres."
+        ],
+        "327": [
+            884.92,
+            887.92,
+            "Mais c'est clair que lorsqu'on y est, dans ces difficultés comme ça,"
+        ],
+        "328": [
+            887.92,
+            888.92,
+            "il faudrait allonger un peu plus le jeu."
+        ],
+        "329": [
+            888.92,
+            889.92,
+            "Ça c'est clair."
+        ],
+        "330": [
+            889.92,
+            890.92,
+            "Ok, merci."
+        ],
+        "331": [
+            890.92,
+            894.92,
+            "Allongé et cessé de commettre de grosses bourdes dans la circulation du ballon."
+        ],
+        "332": [
+            894.92,
+            897.92,
+            "Voilà ce centre et cette frappe captée par Cardinal"
+        ],
+        "333": [
+            897.92,
+            901.92,
+            "qui risque d'être énormément sollicitée dans cette dernière demi-heure."
+        ],
+        "334": [
+            901.92,
+            903.92,
+            "Kamano qui gâche un petit peu."
+        ],
+        "335": [
+            903.92,
+            905.92,
+            "Il aurait pu essayer de défier Dante"
+        ],
+        "336": [
+            906.32,
+            909.32,
+            "ou en tout cas mettre plus de conviction dans cette frappe."
+        ],
+        "337": [
+            909.32,
+            911.32,
+            "C'est vraiment des situations qu'il aime bien d'habitude Kamano"
+        ],
+        "338": [
+            911.32,
+            914.32,
+            "mais là je trouve qu'il est timide dans l'initiative."
+        ],
+        "339": [
+            917.32,
+            920.32,
+            "On vient de voir le sixième tir bordonnet dans la seconde période."
+        ],
+        "340": [
+            920.32,
+            922.32,
+            "Un seul du côté Nissoua."
+        ],
+        "341": [
+            922.32,
+            926.32,
+            "Ça prouve effectivement que ce match a complètement changé de physionomie."
+        ],
+        "342": [
+            927.32,
+            928.32,
+            "La borde."
+        ],
+        "343": [
+            929.32,
+            930.32,
+            "Remarquable."
+        ],
+        "344": [
+            930.32,
+            934.32,
+            "Remarquable de la part de Samali"
+        ],
+        "345": [
+            934.72,
+            935.72,
+            "et le dégagement ensuite."
+        ],
+        "346": [
+            935.72,
+            938.72,
+            "Mais ils ne font que se dégager les Nissoua."
+        ],
+        "347": [
+            938.72,
+            940.72,
+            "Que c'est dur de conserver ce ballon."
+        ],
+        "348": [
+            940.72,
+            942.72,
+            "Cogelo peut être ici sans commettre de fautes."
+        ],
+        "349": [
+            942.72,
+            946.72,
+            "Avec Esseric poussé par le public de l'Alliance Riviera."
+        ],
+        "350": [
+            947.72,
+            948.72,
+            "Balotelli."
+        ],
+        "351": [
+            949.72,
+            950.72,
+            "Lui va les provoquer."
+        ],
+        "352": [
+            950.72,
+            951.72,
+            "Et frapper."
+        ],
+        "353": [
+            951.72,
+            952.72,
+            "C'est fait !"
+        ],
+        "354": [
+            952.72,
+            953.72,
+            "Oh ça part bien !"
+        ],
+        "355": [
+            953.72,
+            956.72,
+            "Et là on soute la balle du 3 à 1"
+        ],
+        "356": [
+            957.72,
+            959.72,
+            "qui est gâchée à la suite de cette frappe de Balotelli."
+        ],
+        "357": [
+            959.72,
+            960.72,
+            "Admirable."
+        ],
+        "358": [
+            960.72,
+            963.72,
+            "Et surtout toute la trajectoire qui aurait pu surprendre Carasso."
+        ],
+        "359": [
+            964.12,
+            965.12,
+            "Un bel arrêt de Carasso."
+        ],
+        "360": [
+            965.12,
+            968.12,
+            "Et c'est vrai que Balotelli arrive à faire flotter ses frappes"
+        ],
+        "361": [
+            968.12,
+            970.12,
+            "quand il est en bonne position comme ça."
+        ],
+        "362": [
+            971.12,
+            973.12,
+            "Là il arrive à se mettre sur son pied droit."
+        ],
+        "363": [
+            978.12,
+            981.12,
+            "On était tout près du break obtenu par les Nissoua."
+        ],
+        "364": [
+            982.12,
+            984.12,
+            "Bien défendu à deux de la part des Nissoua."
+        ],
+        "365": [
+            984.12,
+            989.12,
+            "Ils sont venus fermer la possibilité de Cabano de jouer à l'intérieur."
+        ],
+        "366": [
+            989.52,
+            990.52,
+            "Et Ricardo Pereira."
+        ],
+        "367": [
+            991.52,
+            992.52,
+            "Voilà Esseric maintenant."
+        ],
+        "368": [
+            992.52,
+            995.52,
+            "Le contrôle orienté d'Esseric avec Balotelli."
+        ],
+        "369": [
+            995.52,
+            996.52,
+            "Balotelli tout de suite."
+        ],
+        "370": [
+            996.52,
+            997.52,
+            "C'est hors-jeu."
+        ],
+        "371": [
+            998.52,
+            1001.52,
+            "Il doit être capable de voir que son coéquipier est hors-jeu."
+        ],
+        "372": [
+            1001.52,
+            1004.52,
+            "Alors son coéquipier lui aussi ne doit pas se mettre en position."
+        ],
+        "373": [
+            1005.52,
+            1007.52,
+            "Allez on revoit la frappe de tout à l'heure de Balotelli."
+        ],
+        "374": [
+            1008.52,
+            1011.52,
+            "On voit très vite qu'il va aller chercher cette position de frappe du droit."
+        ],
+        "375": [
+            1012.52,
+            1014.52,
+            "Et quand ça part bien chez Balotelli, ça part fort."
+        ],
+        "376": [
+            1015.52,
+            1017.52,
+            "On voit que le ballon va flotter."
+        ],
+        "377": [
+            1017.92,
+            1018.92,
+            "Légèrement dévié en plus."
+        ],
+        "378": [
+            1019.92,
+            1021.92,
+            "Et c'est pour ça que l'arrêt de Carasso est très intéressant."
+        ],
+        "379": [
+            1022.92,
+            1023.92,
+            "Il y a d'ailleurs une information sur Carasso."
+        ],
+        "380": [
+            1024.92,
+            1025.92,
+            "Vous savez qu'il est en fin de contrat."
+        ],
+        "381": [
+            1026.92,
+            1027.92,
+            "Il discute avec ses dirigeants."
+        ],
+        "382": [
+            1028.92,
+            1031.92,
+            "Il a lui-même proposé de prolonger avec plusieurs années."
+        ],
+        "383": [
+            1032.92,
+            1033.92,
+            "Dont la prochaine comme titulaire."
+        ],
+        "384": [
+            1034.92,
+            1036.92,
+            "Et bien on est en mesure de vous dire que c'est loin d'être fait."
+        ],
+        "385": [
+            1037.92,
+            1043.92,
+            "Et que bien au contraire, Benoit Costil fait un très grand pas pour jouer à Bordeaux la saison prochaine."
+        ],
+        "386": [
+            1044.92,
+            1046.92,
+            "Le gardien René Costil qui est en fin de contrat."
+        ],
+        "387": [
+            1047.32,
+            1052.32,
+            "Mais aussi un grand pas pour voir sa carrière se tourner vers Bordeaux la saison prochaine."
+        ],
+        "388": [
+            1053.32,
+            1055.32,
+            "Vous disiez que c'est Carasso qui a fait une proposition de prolongation."
+        ],
+        "389": [
+            1056.32,
+            1057.32,
+            "En général c'est mauvais signe quand c'est le joueur qui..."
+        ],
+        "390": [
+            1060.32,
+            1062.32,
+            "Moi je lui avais ressigné un canard et il m'a dit non."
+        ],
+        "391": [
+            1063.32,
+            1065.32,
+            "Oh vous n'avez pas besoin de ressigner."
+        ],
+        "392": [
+            1067.32,
+            1069.32,
+            "Moi quand on est grand-père, faites attention."
+        ],
+        "393": [
+            1070.32,
+            1072.32,
+            "Déjà il y a ma maîtresse qui est partie depuis deux jours."
+        ],
+        "394": [
+            1077.32,
+            1080.32,
+            "Elle est toujours de 1 et toujours du suspense dans ce Nice-Bordeaux."
+        ],
+        "395": [
+            1081.32,
+            1082.32,
+            "25 minutes à jouer."
+        ],
+        "396": [
+            1083.32,
+            1086.32,
+            "Nice pour l'instant est en train de mettre la pression sur Paris et Monaco."
+        ],
+        "397": [
+            1087.32,
+            1088.32,
+            "Et Bordeaux fait la mauvaise opération."
+        ],
+        "398": [
+            1089.32,
+            1092.32,
+            "On pensait que le nul de Lyon à 11 contre 10."
+        ],
+        "399": [
+            1093.32,
+            1094.32,
+            "Le nul de Marseille à domicile contre Dijon."
+        ],
+        "400": [
+            1095.32,
+            1096.32,
+            "Ce serait une mauvaise opération pour ces deux équipes."
+        ],
+        "401": [
+            1097.32,
+            1100.32,
+            "Et bien c'est Bordeaux pour l'instant qui serait le perdant dans les qualifications européennes."
+        ],
+        "402": [
+            1101.32,
+            1102.32,
+            "Dans les places européennes."
+        ],
+        "403": [
+            1103.32,
+            1104.32,
+            "Ce centre américain."
+        ],
+        "404": [
+            1104.72,
+            1106.72,
+            "La preuve avec cette récupération."
+        ],
+        "405": [
+            1107.72,
+            1109.72,
+            "Quelle frappe qui passe au-dessus de Kamano."
+        ],
+        "406": [
+            1110.72,
+            1112.72,
+            "Il en aura raté aussi des occasions Kamano ce soir."
+        ],
+        "407": [
+            1113.72,
+            1115.72,
+            "Vous vous rendez compte ce qu'il rate en 10 minutes."
+        ],
+        "408": [
+            1116.72,
+            1118.72,
+            "Tout à l'heure il fait l'exploit de la mettre au-dessus."
+        ],
+        "409": [
+            1119.72,
+            1120.72,
+            "Et là il avait fait le plus dur."
+        ],
+        "410": [
+            1121.72,
+            1123.72,
+            "C'est le marchand qui lui donne une occasion incroyable."
+        ],
+        "411": [
+            1124.72,
+            1125.72,
+            "Il glisse un petit peu le marchand."
+        ],
+        "412": [
+            1126.72,
+            1128.72,
+            "Tout à l'heure il avait mal renvoyé du droit."
+        ],
+        "413": [
+            1129.72,
+            1130.72,
+            "Là il renvoie de..."
+        ],
+        "414": [
+            1131.72,
+            1132.72,
+            "Il a fait un peu de mal."
+        ],
+        "415": [
+            1133.12,
+            1134.12,
+            "Le contrôle il est bon en plus."
+        ],
+        "416": [
+            1135.12,
+            1136.12,
+            "Il n'y a pas de problème."
+        ],
+        "417": [
+            1137.12,
+            1138.12,
+            "Alors certes il est sur son pied gauche."
+        ],
+        "418": [
+            1139.12,
+            1140.12,
+            "Mais il doit être plus tranquille."
+        ],
+        "419": [
+            1141.12,
+            1142.12,
+            "Il se précipite."
+        ],
+        "420": [
+            1143.12,
+            1145.12,
+            "Et c'est Rique qui est en train de remettre de l'ordre dans son équipe."
+        ],
+        "421": [
+            1146.12,
+            1149.12,
+            "Car il voit que Nice s'expose dangereusement dans cette seconde période."
+        ],
+        "422": [
+            1150.12,
+            1152.12,
+            "Ça c'est bien joué de la part de Balotelli."
+        ],
+        "423": [
+            1153.12,
+            1156.12,
+            "Nice aurait besoin de ce Balotelli là capable de garder les ballons."
+        ],
+        "424": [
+            1158.12,
+            1160.12,
+            "Melanda, Ceri."
+        ],
+        "425": [
+            1160.52,
+            1162.52,
+            "Dante, Cossiello."
+        ],
+        "426": [
+            1163.52,
+            1166.52,
+            "Et bonne talonnade de la part de Ricardo Pereira."
+        ],
+        "427": [
+            1167.52,
+            1169.52,
+            "Souquet en retrait pour Dante."
+        ],
+        "428": [
+            1170.52,
+            1171.52,
+            "Ils n'avancent pas le problème."
+        ],
+        "429": [
+            1174.52,
+            1176.52,
+            "Accélération de Belanda maintenant."
+        ],
+        "430": [
+            1177.52,
+            1178.52,
+            "Balotelli."
+        ],
+        "431": [
+            1179.52,
+            1180.52,
+            "Avec bonne face."
+        ],
+        "432": [
+            1181.52,
+            1182.52,
+            "Il faut qu'ils arrivent à trouver Balotelli en relais."
+        ],
+        "433": [
+            1183.52,
+            1184.52,
+            "Alors il faut qu'il soit disponible."
+        ],
+        "434": [
+            1186.52,
+            1187.52,
+            "Belanda."
+        ],
+        "435": [
+            1187.92,
+            1189.92,
+            "Belanda qui voit ce ballon lui échapper."
+        ],
+        "436": [
+            1191.92,
+            1194.92,
+            "On a entendu le dépit également des supporters niçois."
+        ],
+        "437": [
+            1195.92,
+            1197.92,
+            "Parce que c'était une bonne phase de jeu pour Nice."
+        ],
+        "438": [
+            1199.92,
+            1201.92,
+            "La borde, le contrôle est bon de la borde."
+        ],
+        "439": [
+            1202.92,
+            1203.92,
+            "Malcolm."
+        ],
+        "440": [
+            1205.92,
+            1206.92,
+            "Avec le soutien de Sabali."
+        ],
+        "441": [
+            1207.92,
+            1209.92,
+            "Malcolm préfère s'appuyer sur tout l'alent."
+        ],
+        "442": [
+            1210.92,
+            1211.92,
+            "Il va laisser s'y garder le contrôle du jeu."
+        ],
+        "443": [
+            1212.92,
+            1213.92,
+            "Les bordelais savent que ça va."
+        ],
+        "444": [
+            1214.32,
+            1215.32,
+            "Malcom."
+        ],
+        "445": [
+            1216.32,
+            1217.32,
+            "Malcom toujours."
+        ],
+        "446": [
+            1218.32,
+            1220.32,
+            "Avec la borde, centre de la borde."
+        ],
+        "447": [
+            1221.32,
+            1222.32,
+            "Dante."
+        ],
+        "448": [
+            1223.32,
+            1225.32,
+            "Pour écarter très provisoirement le danger."
+        ],
+        "449": [
+            1226.32,
+            1227.32,
+            "Encore Dante."
+        ],
+        "450": [
+            1228.32,
+            1229.32,
+            "Balotelli."
+        ],
+        "451": [
+            1231.32,
+            1232.32,
+            "Balotelli va..."
+        ],
+        "452": [
+            1232.32,
+            1233.32,
+            "Non, a commis une faute."
+        ],
+        "453": [
+            1234.32,
+            1235.32,
+            "C'est peut-être pas lui."
+        ],
+        "454": [
+            1236.32,
+            1237.32,
+            "Mais en tout cas le coup franc est pour Bordeaux."
+        ],
+        "455": [
+            1237.72,
+            1240.72,
+            "Balotelli il est poussé quand même par l'eff' chouk."
+        ],
+        "456": [
+            1242.72,
+            1246.72,
+            "Et Benoît Bastien qui était à 2 mètres de l'action a considéré que c'était d'abord la faute de Balotelli."
+        ],
+        "457": [
+            1249.72,
+            1251.72,
+            "Il est en discussion avec ses adjoints."
+        ],
+        "458": [
+            1251.72,
+            1253.72,
+            "Lucien Favre se demande si son équipe va tenir."
+        ],
+        "459": [
+            1254.72,
+            1256.72,
+            "Lucien Favre il fait pas trop de changements."
+        ],
+        "460": [
+            1257.72,
+            1259.72,
+            "Non, c'est celui qui procède au moins de changements."
+        ],
+        "461": [
+            1260.72,
+            1261.72,
+            "C'est lui qui fait le changement."
+        ],
+        "462": [
+            1262.72,
+            1263.72,
+            "C'est lui qui fait le changement."
+        ],
+        "463": [
+            1264.72,
+            1265.72,
+            "C'est lui qui fait le changement."
+        ],
+        "464": [
+            1266.12,
+            1268.12,
+            "C'est celui qui procède au moins de changements d'ailleurs cette saison."
+        ],
+        "465": [
+            1270.12,
+            1271.12,
+            "Jocelyne Gouradec doit y réfléchir aussi parce que..."
+        ],
+        "466": [
+            1272.12,
+            1273.12,
+            "Là ça va bouger du côté Wattia Raison."
+        ],
+        "467": [
+            1274.12,
+            1275.12,
+            "Il a du potentiel offensif sur le banc."
+        ],
+        "468": [
+            1276.12,
+            1278.12,
+            "Wattia Menez et Roland qui devraient rentrer a priori."
+        ],
+        "469": [
+            1279.12,
+            1280.12,
+            "Tout le cas ils se déshabillent."
+        ],
+        "470": [
+            1280.12,
+            1281.12,
+            "A mon avis c'est pour ça."
+        ],
+        "471": [
+            1284.12,
+            1285.12,
+            "C'est bien jugé ça."
+        ],
+        "472": [
+            1287.12,
+            1289.12,
+            "Il y a Younass, il y a Menez, il y a Roland."
+        ],
+        "473": [
+            1290.12,
+            1293.12,
+            "Il y a quand même 3 joueurs qui peuvent faire la différence dans les 20 dernières minutes côté Bordeaux."
+        ],
+        "474": [
+            1293.52,
+            1294.52,
+            "Petit Coziello il fait plaisir."
+        ],
+        "475": [
+            1298.52,
+            1300.52,
+            "Et voilà Coziello qui glisse ce ballon à Sery."
+        ],
+        "476": [
+            1301.52,
+            1302.52,
+            "Sery et Seuric."
+        ],
+        "477": [
+            1303.52,
+            1304.52,
+            "Les marchands."
+        ],
+        "478": [
+            1305.52,
+            1306.52,
+            "Voilà Balotelli."
+        ],
+        "479": [
+            1307.52,
+            1308.52,
+            "Là aussi problème de concentration."
+        ],
+        "480": [
+            1309.52,
+            1312.52,
+            "Il doit la garder parce que la passe de le marchand était bonne, bien claquée."
+        ],
+        "481": [
+            1323.52,
+            1326.52,
+            "Avantage à Nice pour cette remise en jeu."
+        ],
+        "482": [
+            1326.52,
+            1327.52,
+            "Tanté."
+        ],
+        "483": [
+            1335.52,
+            1336.52,
+            "Coziello."
+        ],
+        "484": [
+            1337.52,
+            1338.52,
+            "Coziello c'est bien joué."
+        ],
+        "485": [
+            1339.52,
+            1340.52,
+            "Seuric."
+        ],
+        "486": [
+            1340.52,
+            1341.52,
+            "Ensuite Belanda."
+        ],
+        "487": [
+            1342.52,
+            1343.52,
+            "Souquet."
+        ],
+        "488": [
+            1344.52,
+            1345.52,
+            "Sery."
+        ],
+        "489": [
+            1346.52,
+            1348.52,
+            "Voilà volonté de se rassurer un petit peu pour les niçois."
+        ],
+        "490": [
+            1350.52,
+            1351.52,
+            "De..."
+        ],
+        "491": [
+            1351.92,
+            1353.92,
+            "De réaliser les bonnes passes."
+        ],
+        "492": [
+            1355.92,
+            1356.92,
+            "Le marchand."
+        ],
+        "493": [
+            1358.92,
+            1359.92,
+            "Directement sur..."
+        ],
+        "494": [
+            1360.92,
+            1361.92,
+            "Jovanovic."
+        ],
+        "495": [
+            1362.92,
+            1363.92,
+            "Sabali."
+        ],
+        "496": [
+            1366.92,
+            1367.92,
+            "Tout l'allant avec encore Sabali."
+        ],
+        "497": [
+            1368.92,
+            1371.92,
+            "Et deux changements coup sur coup qui s'annoncent du côté de Bordeaux."
+        ],
+        "498": [
+            1374.92,
+            1375.92,
+            "Younass et Roland."
+        ],
+        "499": [
+            1379.92,
+            1380.92,
+            "Centre vers la borde."
+        ],
+        "500": [
+            1381.92,
+            1383.92,
+            "Qui réclame un pénalty."
+        ],
+        "501": [
+            1384.92,
+            1385.92,
+            "Benoît Bastien n'a pas bronché."
+        ],
+        "502": [
+            1386.92,
+            1388.92,
+            "Le marchand qui a contrôlé l'appel de la borde."
+        ],
+        "503": [
+            1389.92,
+            1390.92,
+            "Regardez."
+        ],
+        "504": [
+            1391.92,
+            1392.92,
+            "Il met la main sur l'épaule."
+        ],
+        "505": [
+            1393.92,
+            1396.92,
+            "La borde s'est déjà jetée pour essayer de jouer ce ballon de la tête."
+        ],
+        "506": [
+            1396.92,
+            1398.92,
+            "C'est Bada et la borde je crois qu'ils sont."
+        ],
+        "507": [
+            1404.92,
+            1405.92,
+            "La borde."
+        ],
+        "508": [
+            1405.92,
+            1408.92,
+            "Auteur d'un but magistral en tout début de match."
+        ],
+        "509": [
+            1409.32,
+            1410.32,
+            "Ce..."
+        ],
+        "510": [
+            1410.32,
+            1412.32,
+            "Ce double grand pont suivi d'une frappe puissante."
+        ],
+        "511": [
+            1414.32,
+            1415.32,
+            "Et il essaie de sa place."
+        ],
+        "512": [
+            1416.32,
+            1417.32,
+            "Alors à Roland."
+        ],
+        "513": [
+            1417.32,
+            1418.32,
+            "C'est Roland."
+        ],
+        "514": [
+            1418.32,
+            1419.32,
+            "C'est Roland et Menez."
+        ],
+        "515": [
+            1419.32,
+            1420.32,
+            "Voilà Roland et Menez."
+        ],
+        "516": [
+            1422.32,
+            1423.32,
+            "Donc ils vont passer à deux milieux de terrain."
+        ],
+        "517": [
+            1423.32,
+            1424.32,
+            "Il y aura..."
+        ],
+        "518": [
+            1424.32,
+            1426.32,
+            "Il y aura quatre joueurs offensifs qui vont se répartir sur..."
+        ],
+        "519": [
+            1426.32,
+            1427.32,
+            "Sur le front de l'attaque."
+        ],
+        "520": [
+            1428.32,
+            1430.32,
+            "Je pense que Menez va jouer en soutien de..."
+        ],
+        "521": [
+            1431.32,
+            1432.32,
+            "De l'attaquant."
+        ],
+        "522": [
+            1433.32,
+            1434.32,
+            "Soutien de Roland."
+        ],
+        "523": [
+            1437.32,
+            1438.32,
+            "Et..."
+        ],
+        "524": [
+            1438.72,
+            1440.72,
+            "Avec 100 carrés et tout l'annonce au milieu de terrain."
+        ],
+        "525": [
+            1441.72,
+            1442.72,
+            "Je suis."
+        ],
+        "526": [
+            1443.72,
+            1444.72,
+            "Roland. Premier ballon touché."
+        ],
+        "527": [
+            1444.72,
+            1445.72,
+            "Sabali."
+        ],
+        "528": [
+            1445.72,
+            1447.72,
+            "Essaye de faire la différence devant et Seuric."
+        ],
+        "529": [
+            1447.72,
+            1448.72,
+            "Sabali, Roland."
+        ],
+        "530": [
+            1449.72,
+            1450.72,
+            "Roland."
+        ],
+        "531": [
+            1450.72,
+            1451.72,
+            "Qui lui le ballon."
+        ],
+        "532": [
+            1453.72,
+            1454.72,
+            "Seuric."
+        ],
+        "533": [
+            1454.72,
+            1455.72,
+            "Seuric."
+        ],
+        "534": [
+            1455.72,
+            1457.72,
+            "Et Koufran sifflé par Benoît Bastien."
+        ],
+        "535": [
+            1457.72,
+            1459.72,
+            "Pourquoi siffler ? L'éditoire avait le ballon."
+        ],
+        "536": [
+            1465.72,
+            1466.72,
+            "Benoît Koufran."
+        ],
+        "537": [
+            1467.12,
+            1469.12,
+            "Il demande beaucoup à ses attaquants pour garder le ballon."
+        ],
+        "538": [
+            1470.12,
+            1471.12,
+            "Indéfiniment en Liçois mais..."
+        ],
+        "539": [
+            1475.12,
+            1476.12,
+            "Mais il a raison de demander un ballon au Tolis."
+        ],
+        "540": [
+            1476.12,
+            1478.12,
+            "Parce que s'il ne demande pas, à mon avis, il ne le fera pas."
+        ],
+        "541": [
+            1478.12,
+            1480.12,
+            "Donc il faut vraiment qu'il fasse des efforts en ce moment."
+        ],
+        "542": [
+            1481.12,
+            1482.12,
+            "Pour être disponible."
+        ],
+        "543": [
+            1483.12,
+            1484.12,
+            "Et pour aider son équipe."
+        ],
+        "544": [
+            1484.12,
+            1486.12,
+            "Je trouve qu'il en fait moins qu'en premier mi-temps."
+        ],
+        "545": [
+            1488.12,
+            1490.12,
+            "Le marchand au milieu de trois bordelais."
+        ],
+        "546": [
+            1491.12,
+            1492.12,
+            "Décarté sur Dalbert."
+        ],
+        "547": [
+            1494.12,
+            1495.12,
+            "Dalbert."
+        ],
+        "548": [
+            1495.52,
+            1496.52,
+            "Dalbert."
+        ],
+        "549": [
+            1496.52,
+            1497.52,
+            "Qui s'est un peu précipité."
+        ],
+        "550": [
+            1498.52,
+            1499.52,
+            "Et ça passe nettement au-dessus."
+        ],
+        "551": [
+            1500.52,
+            1501.52,
+            "Il a vu qu'il était sorti."
+        ],
+        "552": [
+            1507.52,
+            1508.52,
+            "C'est un discours très positif qu'on entend."
+        ],
+        "553": [
+            1508.52,
+            1510.52,
+            "On entend Lucien Favre aider ses joueurs à tenir."
+        ],
+        "554": [
+            1511.52,
+            1512.52,
+            "Il faut le faire."
+        ],
+        "555": [
+            1515.52,
+            1516.52,
+            "Et Jocelyne Gauvenet, lui c'est raci."
+        ],
+        "556": [
+            1516.52,
+            1517.52,
+            "Hein Laurent ?"
+        ],
+        "557": [
+            1517.52,
+            1518.52,
+            "Oui, c'est raci."
+        ],
+        "558": [
+            1520.52,
+            1521.52,
+            "Il est blasé de voir les occasions manquées."
+        ],
+        "559": [
+            1521.52,
+            1522.52,
+            "Je vais voir un petit peu."
+        ],
+        "560": [
+            1523.52,
+            1524.52,
+            "Tu es en train de secouer le cocotier un petit peu."
+        ],
+        "561": [
+            1524.92,
+            1525.92,
+            "C'est important des moments comme ça."
+        ],
+        "562": [
+            1525.92,
+            1526.92,
+            "Oui, on recule trop."
+        ],
+        "563": [
+            1526.92,
+            1527.92,
+            "On recule trop."
+        ],
+        "564": [
+            1527.92,
+            1528.92,
+            "On subit trop."
+        ],
+        "565": [
+            1529.92,
+            1530.92,
+            "On doit sortir plus."
+        ],
+        "566": [
+            1530.92,
+            1531.92,
+            "Faire remonter cette défense."
+        ],
+        "567": [
+            1531.92,
+            1532.92,
+            "C'est un problème tactique."
+        ],
+        "568": [
+            1532.92,
+            1533.92,
+            "C'est un problème technique."
+        ],
+        "569": [
+            1533.92,
+            1534.92,
+            "C'est un problème de mental."
+        ],
+        "570": [
+            1534.92,
+            1535.92,
+            "Maintenant à ce moment de la rencontre."
+        ],
+        "571": [
+            1535.92,
+            1536.92,
+            "Oui, je ne sais pas."
+        ],
+        "572": [
+            1537.92,
+            1538.92,
+            "Pourtant il reste encore 20 minutes."
+        ],
+        "573": [
+            1538.92,
+            1539.92,
+            "On ne doit pas être fatigué."
+        ],
+        "574": [
+            1539.92,
+            1540.92,
+            "Je ne sais pas si c'est physique ou mental."
+        ],
+        "575": [
+            1540.92,
+            1542.92,
+            "Et souvent nos deuxièmes mi-temps sont comme ça."
+        ],
+        "576": [
+            1542.92,
+            1544.92,
+            "On a du mal à se mettre dans le rythme."
+        ],
+        "577": [
+            1545.92,
+            1546.92,
+            "On recule trop."
+        ],
+        "578": [
+            1546.92,
+            1547.92,
+            "On subit."
+        ],
+        "579": [
+            1547.92,
+            1548.92,
+            "On ne doit pas subir."
+        ],
+        "580": [
+            1548.92,
+            1549.92,
+            "On perd trop vite le ballon."
+        ],
+        "581": [
+            1549.92,
+            1550.92,
+            "Deux ou trois fois de récupéré."
+        ],
+        "582": [
+            1550.92,
+            1551.92,
+            "On perd trop rapidement le ballon."
+        ],
+        "583": [
+            1552.32,
+            1553.32,
+            "Il est agacé Frédéric Jauriat."
+        ],
+        "584": [
+            1555.32,
+            1557.32,
+            "Et il reste 20 minutes en comptant le temps additionnel."
+        ],
+        "585": [
+            1559.32,
+            1561.32,
+            "Est-ce que Nice va tenir en jouant comme ça ?"
+        ],
+        "586": [
+            1561.32,
+            1562.32,
+            "Non."
+        ],
+        "587": [
+            1563.32,
+            1565.32,
+            "Je pense qu'il faut qu'ils se montrent plus menaçants."
+        ],
+        "588": [
+            1565.32,
+            1568.32,
+            "Et qu'ils arrivent à tenir le ballon dans la partie de terrain adverse."
+        ],
+        "589": [
+            1571.32,
+            1572.32,
+            "Ils y sont très provisoirement."
+        ],
+        "590": [
+            1572.32,
+            1574.32,
+            "Peut-être ici avec Série."
+        ],
+        "591": [
+            1574.32,
+            1576.32,
+            "Ce bon ballon de Série."
+        ],
+        "592": [
+            1576.32,
+            1580.32,
+            "Bien défendu de la part de Contento qui est venu dans la course de Pereira."
+        ],
+        "593": [
+            1582.32,
+            1584.32,
+            "Contento, on n'en a pas parlé non plus."
+        ],
+        "594": [
+            1584.32,
+            1585.32,
+            "Mais voilà un joueur qui revient."
+        ],
+        "595": [
+            1585.32,
+            1588.32,
+            "Parce qu'on ne comptait pas vraiment sur lui à la fin de la phase allée."
+        ],
+        "596": [
+            1589.32,
+            1592.32,
+            "Et tout le monde s'attendait, même au club à Bordeaux, à le voir partir."
+        ],
+        "597": [
+            1592.32,
+            1593.32,
+            "Et bien il est toujours là."
+        ],
+        "598": [
+            1593.32,
+            1595.32,
+            "Et il est même titulaire."
+        ],
+        "599": [
+            1595.32,
+            1596.32,
+            "Contento."
+        ],
+        "600": [
+            1597.32,
+            1599.32,
+            "Voilà Menez en action."
+        ],
+        "601": [
+            1600.32,
+            1601.32,
+            "Face à Ricardo Pereira."
+        ],
+        "602": [
+            1601.32,
+            1604.32,
+            "Menez change de côté avec Sabali."
+        ],
+        "603": [
+            1605.32,
+            1606.32,
+            "Ballon qui n'est pas sorti."
+        ],
+        "604": [
+            1607.32,
+            1608.32,
+            "Sabali."
+        ],
+        "605": [
+            1608.32,
+            1609.32,
+            "Et pas de faute."
+        ],
+        "606": [
+            1609.32,
+            1610.32,
+            "Ça joue."
+        ],
+        "607": [
+            1612.32,
+            1614.32,
+            "Duel entre Dalbert et Sabali."
+        ],
+        "608": [
+            1614.32,
+            1616.32,
+            "A la régulière estime Gonob Astien."
+        ],
+        "609": [
+            1618.32,
+            1619.32,
+            "Malcolm."
+        ],
+        "610": [
+            1620.32,
+            1621.32,
+            "Malcolm toujours."
+        ],
+        "611": [
+            1621.32,
+            1623.32,
+            "Malcolm qui tente de s'engouffrer."
+        ],
+        "612": [
+            1623.32,
+            1624.32,
+            "Malcom, Rolland."
+        ],
+        "613": [
+            1624.32,
+            1626.32,
+            "Rolland peut-être pour frapper."
+        ],
+        "614": [
+            1626.32,
+            1628.32,
+            "Et il touche les petits filets."
+        ],
+        "615": [
+            1628.32,
+            1632.32,
+            "Et on voit la colère de Dante vis-à-vis de ses partenaires."
+        ],
+        "616": [
+            1633.32,
+            1635.32,
+            "Il vaut mieux expliquer des fois ce qu'il faut faire."
+        ],
+        "617": [
+            1635.32,
+            1636.32,
+            "Que de se mettre en colère."
+        ],
+        "618": [
+            1636.32,
+            1638.32,
+            "Parce qu'il sent la difficulté depuis le début."
+        ],
+        "619": [
+            1638.32,
+            1639.32,
+            "Mais il ne corrige pas finalement."
+        ],
+        "620": [
+            1639.32,
+            1641.32,
+            "Rolland qui fait le choix de frapper."
+        ],
+        "621": [
+            1641.72,
+            1644.72,
+            "Regardez la position au deuxième poteau de Menez."
+        ],
+        "622": [
+            1644.72,
+            1650.72,
+            "Moi je pense qu'il a beaucoup plus de chance de faire marquer son équipe en s'entrant en retrait qu'en frappant dans un angle aussi fermé."
+        ],
+        "623": [
+            1651.72,
+            1654.72,
+            "Mauvais choix pour Diego Rolland."
+        ],
+        "624": [
+            1655.72,
+            1657.72,
+            "Et là cette fois il commet la faute Rolland."
+        ],
+        "625": [
+            1664.72,
+            1665.72,
+            "Dante."
+        ],
+        "626": [
+            1671.72,
+            1672.72,
+            "Bien joué Souquet."
+        ],
+        "627": [
+            1672.72,
+            1673.72,
+            "A l'opposé pour Esric."
+        ],
+        "628": [
+            1673.72,
+            1675.72,
+            "Esric dans la surface de réparation."
+        ],
+        "629": [
+            1675.72,
+            1677.72,
+            "Esric toujours qui n'arrive pas à passer."
+        ],
+        "630": [
+            1677.72,
+            1679.72,
+            "Mais il obtient quand même le corner."
+        ],
+        "631": [
+            1680.72,
+            1683.72,
+            "Et ça valide qu'il a bien défendu mais qu'il a été obligé de concéder le corner."
+        ],
+        "632": [
+            1684.72,
+            1687.72,
+            "Et je pense que Esric est malgré tout content de ce qu'il obtient."
+        ],
+        "633": [
+            1688.72,
+            1691.72,
+            "Pas sûr qu'il avait le coudrin pour la vitesse."
+        ],
+        "634": [
+            1691.72,
+            1694.72,
+            "Pour faire la différence à la 76ème minute."
+        ],
+        "635": [
+            1695.72,
+            1697.72,
+            "Ça donne un corner en tout cas pour Esric."
+        ],
+        "636": [
+            1697.72,
+            1699.72,
+            "Et c'est un bon coup de rein."
+        ],
+        "637": [
+            1700.12,
+            1702.12,
+            "Ça donne un corner en tout cas pour les Niçois."
+        ],
+        "638": [
+            1704.12,
+            1705.12,
+            "Siri pour le frapper."
+        ],
+        "639": [
+            1705.12,
+            1707.12,
+            "Siri premier poteau."
+        ],
+        "640": [
+            1707.12,
+            1710.12,
+            "Avec cette reprise ce sera non une sortie de but finalement."
+        ],
+        "641": [
+            1710.12,
+            1712.12,
+            "Alors que Balotelli fait le grand geste."
+        ],
+        "642": [
+            1713.12,
+            1714.12,
+            "Une erreur supplémentaire."
+        ],
+        "643": [
+            1715.12,
+            1716.12,
+            "Je pense qu'il y a."
+        ],
+        "644": [
+            1717.12,
+            1718.12,
+            "Est-ce que c'est Esric ?"
+        ],
+        "645": [
+            1719.12,
+            1720.12,
+            "Il y avait bien corner."
+        ],
+        "646": [
+            1720.12,
+            1721.12,
+            "Oui il y a corner."
+        ],
+        "647": [
+            1721.12,
+            1722.12,
+            "Il y a Unas qui va rentrer d'un côté."
+        ],
+        "648": [
+            1722.12,
+            1724.12,
+            "Lebian qui va rentrer de l'autre."
+        ],
+        "649": [
+            1725.12,
+            1726.12,
+            "Belanda qui va sortir d'un côté."
+        ],
+        "650": [
+            1730.12,
+            1732.12,
+            "Et donc troisième attaquant du côté de Bordeaux."
+        ],
+        "651": [
+            1732.12,
+            1734.12,
+            "Troisième remplacement offensif."
+        ],
+        "652": [
+            1736.12,
+            1737.12,
+            "Ça commence à griffier Camano."
+        ],
+        "653": [
+            1739.12,
+            1742.12,
+            "C'est un choix difficile à faire parce que Camano il se crée les occasions malgré tout."
+        ],
+        "654": [
+            1743.12,
+            1746.12,
+            "Quand il reverra ses occasions gâchées."
+        ],
+        "655": [
+            1747.12,
+            1749.12,
+            "Le centre repoussé encore."
+        ],
+        "656": [
+            1749.12,
+            1753.12,
+            "Avec Belanda pour l'un de ses derniers ballons avant de céder sa place."
+        ],
+        "657": [
+            1753.52,
+            1754.52,
+            "Sans carré."
+        ],
+        "658": [
+            1755.52,
+            1758.52,
+            "Sans carré Cosiello maintenant qui vient récupérer Contento."
+        ],
+        "659": [
+            1758.52,
+            1759.52,
+            "C'est contré."
+        ],
+        "660": [
+            1759.52,
+            1761.52,
+            "C'est le 11 qui l'a sorti au côté de Bordeaux."
+        ],
+        "661": [
+            1761.52,
+            1762.52,
+            "C'est Camano."
+        ],
+        "662": [
+            1762.52,
+            1763.52,
+            "C'est Camano."
+        ],
+        "663": [
+            1766.52,
+            1767.52,
+            "Remplacé par Adam Unas."
+        ],
+        "664": [
+            1770.52,
+            1771.52,
+            "Et nickel."
+        ],
+        "665": [
+            1771.52,
+            1774.52,
+            "Lebian va donc également rentrer."
+        ],
+        "666": [
+            1774.52,
+            1776.52,
+            "Alors est-ce que ça peut être à la place de Balotelli ?"
+        ],
+        "667": [
+            1776.52,
+            1777.52,
+            "C'est le frein à l'arrière."
+        ],
+        "668": [
+            1777.52,
+            1778.52,
+            "Belanda on a dit non ?"
+        ],
+        "669": [
+            1778.52,
+            1779.52,
+            "Belanda oui c'est Belanda."
+        ],
+        "670": [
+            1779.52,
+            1780.52,
+            "C'est Belanda."
+        ],
+        "671": [
+            1780.52,
+            1781.52,
+            "C'est Belanda."
+        ],
+        "672": [
+            1781.52,
+            1782.52,
+            "C'est Belanda."
+        ],
+        "673": [
+            1782.92,
+            1783.92,
+            "C'est Belanda."
+        ],
+        "674": [
+            1783.92,
+            1784.92,
+            "Il a dit absent David."
+        ],
+        "675": [
+            1784.92,
+            1785.92,
+            "C'est lui des fois."
+        ],
+        "676": [
+            1785.92,
+            1788.92,
+            "Non mais la logique ça aurait été Balotelli."
+        ],
+        "677": [
+            1788.92,
+            1789.92,
+            "Oui oui oui."
+        ],
+        "678": [
+            1789.92,
+            1791.92,
+            "Non mais c'est comme on l'a dit 4 fois depuis 5 minutes."
+        ],
+        "679": [
+            1791.92,
+            1792.92,
+            "C'est pas vrai."
+        ],
+        "680": [
+            1796.92,
+            1797.92,
+            "Bonne David."
+        ],
+        "681": [
+            1798.92,
+            1804.92,
+            "Voilà Adam Unas qui remplace Camano."
+        ],
+        "682": [
+            1809.92,
+            1810.92,
+            "Unas tout à l'heure est à gauche."
+        ],
+        "683": [
+            1811.32,
+            1818.32,
+            "Voilà et Mickael Lebian qui a un bon souvenir face à Bordeaux puisque c'était sa première"
+        ],
+        "684": [
+            1818.32,
+            1819.32,
+            "et seule titularisation."
+        ],
+        "685": [
+            1819.32,
+            1826.32,
+            "Il avait marqué avant ensuite sa terrible blessure qu'il a éloignée pendant 17 mois."
+        ],
+        "686": [
+            1826.32,
+            1829.32,
+            "Mickael Lebian retrouve les Girondins de Bordeaux."
+        ],
+        "687": [
+            1829.32,
+            1831.32,
+            "Retrouve surtout toutes ses sensations de buteur."
+        ],
+        "688": [
+            1831.32,
+            1833.32,
+            "Retrouve peu à peu la compétition."
+        ],
+        "689": [
+            1833.32,
+            1836.32,
+            "Et le voilà qui va jouer normalement dans le match."
+        ],
+        "690": [
+            1836.72,
+            1841.72,
+            "Pendant que Camano doit se souvenir de ses occasions qui auraient pu permettre à Bordeaux"
+        ],
+        "691": [
+            1841.72,
+            1842.72,
+            "d'arracher l'égalisation."
+        ],
+        "692": [
+            1842.72,
+            1845.72,
+            "Rien n'est joué encore dans ce match."
+        ],
+        "693": [
+            1845.72,
+            1848.72,
+            "Encore un quart d'heure à jouer."
+        ],
+        "694": [
+            1848.72,
+            1849.72,
+            "Unas."
+        ],
+        "695": [
+            1849.72,
+            1852.72,
+            "Unas qui a joué sur Rolland."
+        ],
+        "696": [
+            1852.72,
+            1855.72,
+            "La sortie de Cardinal."
+        ],
+        "697": [
+            1855.72,
+            1858.72,
+            "Cardinal qui va se faire dégager."
+        ],
+        "698": [
+            1858.72,
+            1861.72,
+            "C'est un bon moment pour le Bordeaux."
+        ],
+        "699": [
+            1862.12,
+            1865.12,
+            "La sortie de Cardinal."
+        ],
+        "700": [
+            1865.12,
+            1868.12,
+            "Cardinal qui va dans l'angle de sa surface de réparation."
+        ],
+        "701": [
+            1868.12,
+            1871.12,
+            "Il aime bien gérer le rythme du match."
+        ],
+        "702": [
+            1871.12,
+            1874.12,
+            "En tout cas, il essaie de le gérer."
+        ],
+        "703": [
+            1874.12,
+            1877.12,
+            "Il repart à la main."
+        ],
+        "704": [
+            1877.12,
+            1878.12,
+            "Dalbert."
+        ],
+        "705": [
+            1878.12,
+            1880.12,
+            "C'est son père qui lui a pris ça."
+        ],
+        "706": [
+            1880.12,
+            1882.12,
+            "Il va rejouer avec lui."
+        ],
+        "707": [
+            1882.12,
+            1883.12,
+            "C'est vrai qu'il est très sollicité."
+        ],
+        "708": [
+            1883.12,
+            1886.12,
+            "Ses partenaires ont confiance en lui."
+        ],
+        "709": [
+            1886.12,
+            1890.12,
+            "Il doit être l'un des gardiens qui joue le plus au pied dans le championnat."
+        ],
+        "710": [
+            1890.52,
+            1893.52,
+            "C'est rigolo de voir ça."
+        ],
+        "711": [
+            1893.52,
+            1896.52,
+            "Le dégagement de Cardinal."
+        ],
+        "712": [
+            1896.52,
+            1899.52,
+            "Il était pas mal sur un de ses partenaires."
+        ],
+        "713": [
+            1899.52,
+            1902.52,
+            "Je pense un peu heureux celui-là."
+        ],
+        "714": [
+            1909.52,
+            1912.52,
+            "Le bien qu'il doit jouer à côté de Valotidis."
+        ],
+        "715": [
+            1912.52,
+            1915.52,
+            "Le coach du soir."
+        ],
+        "716": [
+            1915.52,
+            1918.52,
+            "Pour empêcher les relances de départ."
+        ],
+        "717": [
+            1920.52,
+            1921.52,
+            "Le contrôle de Sabani."
+        ],
+        "718": [
+            1921.52,
+            1924.52,
+            "Ce ballon file en touche."
+        ],
+        "719": [
+            1924.52,
+            1925.52,
+            "Dalbert."
+        ],
+        "720": [
+            1925.52,
+            1927.52,
+            "Voilà les consignes données par Luciafave."
+        ],
+        "721": [
+            1927.52,
+            1930.52,
+            "Celles données par Joss Lingor-Wenec."
+        ],
+        "722": [
+            1930.52,
+            1931.52,
+            "Sancaré."
+        ],
+        "723": [
+            1931.52,
+            1933.52,
+            "Quel bon ballon récupéré par Sancaré."
+        ],
+        "724": [
+            1933.52,
+            1934.52,
+            "Menez."
+        ],
+        "725": [
+            1934.52,
+            1937.52,
+            "Sancaré, pourquoi pas encore."
+        ],
+        "726": [
+            1937.52,
+            1938.52,
+            "Il choisit de glisser ce ballon."
+        ],
+        "727": [
+            1938.52,
+            1941.52,
+            "La frappe ensuite au-dessus d'Adam Unas."
+        ],
+        "728": [
+            1943.52,
+            1946.52,
+            "C'est parti d'une très bonne récupération de ballon de Sancaré."
+        ],
+        "729": [
+            1946.52,
+            1948.52,
+            "On va le retrouver à ce moment-là dans l'action."
+        ],
+        "730": [
+            1948.92,
+            1950.92,
+            "Il fait un bon décalage sur Unas."
+        ],
+        "731": [
+            1950.92,
+            1952.92,
+            "Mais il aurait aussi pu prendre sa chance."
+        ],
+        "732": [
+            1952.92,
+            1954.92,
+            "Il était dans une bonne position pour frapper."
+        ],
+        "733": [
+            1956.92,
+            1959.92,
+            "Dans cette action, on a vu ses grandes qualités de récupérateur."
+        ],
+        "734": [
+            1959.92,
+            1963.92,
+            "Son petit défaut, c'est qu'il n'a pas une super frappe de balle."
+        ],
+        "735": [
+            1963.92,
+            1966.92,
+            "C'est un bon décalage malgré tout."
+        ],
+        "736": [
+            1966.92,
+            1969.92,
+            "Mais il pourrait marquer plus de buts compte tenu de sa position sur le terrain."
+        ],
+        "737": [
+            1969.92,
+            1972.92,
+            "9 tirs à 3 pour Bordeaux dans la seconde période."
+        ],
+        "738": [
+            1972.92,
+            1975.92,
+            "C'est pour l'instant une défaite qui se dessine."
+        ],
+        "739": [
+            1975.92,
+            1977.92,
+            "Balotelis est en train de s'agacer."
+        ],
+        "740": [
+            1978.32,
+            1981.32,
+            "C'est bien, Bordeaux a eu pas mal d'occasion."
+        ],
+        "741": [
+            1981.32,
+            1983.32,
+            "Mais vous ne prenez pas le but, c'est ce qui est important pour le moment."
+        ],
+        "742": [
+            1983.32,
+            1984.32,
+            "On avait très bien commencé."
+        ],
+        "743": [
+            1984.32,
+            1986.32,
+            "Après, ils ont mis ce but."
+        ],
+        "744": [
+            1986.32,
+            1988.32,
+            "Ça a été compliqué quand on a pris ce but."
+        ],
+        "745": [
+            1988.32,
+            1989.32,
+            "Mais on n'a pas lâché."
+        ],
+        "746": [
+            1989.32,
+            1990.32,
+            "On a continué à jouer."
+        ],
+        "747": [
+            1990.32,
+            1991.32,
+            "On a trouvé le décalage."
+        ],
+        "748": [
+            1991.32,
+            1993.32,
+            "Et le pénalti, je ne sais pas si c'est bien."
+        ],
+        "749": [
+            1993.32,
+            1995.32,
+            "Mais on a trouvé le décalage."
+        ],
+        "750": [
+            1995.32,
+            1997.32,
+            "On savait que ça allait passer par le jeu."
+        ],
+        "751": [
+            1997.32,
+            2000.32,
+            "On a trouvé le pénalti après Valentin."
+        ],
+        "752": [
+            2000.32,
+            2003.32,
+            "Mais il n'a même pas eu sa super frappe contre le deuxième but."
+        ],
+        "753": [
+            2003.32,
+            2005.32,
+            "Tu ne m'expliques que le match que tu as eu, c'est ça ?"
+        ],
+        "754": [
+            2005.32,
+            2006.32,
+            "Oui."
+        ],
+        "755": [
+            2006.72,
+            2009.72,
+            "Je ne sais pas ce qu'ils n'ont pas regardé au premier mi-temps."
+        ],
+        "756": [
+            2012.72,
+            2016.72,
+            "Je sais qu'il y en a qui, au premier mi-temps, ça ne marche pas."
+        ],
+        "757": [
+            2016.72,
+            2018.72,
+            "Ça marche."
+        ],
+        "758": [
+            2018.72,
+            2020.72,
+            "La deuxième, c'est plus difficile."
+        ],
+        "759": [
+            2020.72,
+            2023.72,
+            "Mais ça va, on sait que vous avez gagné beaucoup de matchs."
+        ],
+        "760": [
+            2023.72,
+            2024.72,
+            "Il y a eu des écarts."
+        ],
+        "761": [
+            2024.72,
+            2026.72,
+            "Après, il faut tenir le score."
+        ],
+        "762": [
+            2026.72,
+            2029.72,
+            "On sait qu'ils ont des alliés qui vont très vite."
+        ],
+        "763": [
+            2029.72,
+            2031.72,
+            "Mais on arrive à les contrer."
+        ],
+        "764": [
+            2031.72,
+            2034.72,
+            "Parce qu'on a les deux joueurs des côtés qui reviennent très bien."
+        ],
+        "765": [
+            2035.12,
+            2037.12,
+            "On arrive à les caler."
+        ],
+        "766": [
+            2037.12,
+            2039.12,
+            "C'est compliqué."
+        ],
+        "767": [
+            2039.12,
+            2041.12,
+            "Tu t'éclates, Lionel ?"
+        ],
+        "768": [
+            2041.12,
+            2042.12,
+            "Non, ça va."
+        ],
+        "769": [
+            2042.12,
+            2044.12,
+            "On a le ballon."
+        ],
+        "770": [
+            2044.12,
+            2045.12,
+            "On joue beaucoup."
+        ],
+        "771": [
+            2045.12,
+            2047.12,
+            "On essaie de se trouver, de redoubler les passes."
+        ],
+        "772": [
+            2047.12,
+            2048.12,
+            "C'est ça qui est bien dans le foot."
+        ],
+        "773": [
+            2048.12,
+            2049.12,
+            "Ton coach, il vit ça."
+        ],
+        "774": [
+            2049.12,
+            2050.12,
+            "C'est ça qu'il veut."
+        ],
+        "775": [
+            2050.12,
+            2052.12,
+            "Il veut gagner par le jeu."
+        ],
+        "776": [
+            2052.12,
+            2055.12,
+            "C'est un truc qui me correspond bien."
+        ],
+        "777": [
+            2055.12,
+            2056.12,
+            "Moi, j'aime bien ça."
+        ],
+        "778": [
+            2056.12,
+            2057.12,
+            "Ça va, tant mieux."
+        ],
+        "779": [
+            2057.12,
+            2058.12,
+            "Ça va, ça va, tant mieux."
+        ],
+        "780": [
+            2058.12,
+            2059.12,
+            "Merci."
+        ],
+        "781": [
+            2059.12,
+            2062.12,
+            "Ce fut un long résumé du match."
+        ],
+        "782": [
+            2062.52,
+            2065.52,
+            "Et ensuite, ce centre là encore tellement dangereux."
+        ],
+        "783": [
+            2065.52,
+            2068.52,
+            "Et Cardinal, maintenant, qui donne de la voix aussi."
+        ],
+        "784": [
+            2068.52,
+            2073.52,
+            "Oui, parce que les occasions se multiplient quand même sur le but de Nice."
+        ],
+        "785": [
+            2073.52,
+            2076.52,
+            "Là, c'est encore une très très belle situation."
+        ],
+        "786": [
+            2076.52,
+            2081.52,
+            "Un bon centre de Malcolm pour Roland qui n'arrive pas à toucher ce ballon suffisamment."
+        ],
+        "787": [
+            2081.52,
+            2083.52,
+            "Ou il ne le touche pas du tout."
+        ],
+        "788": [
+            2083.52,
+            2088.52,
+            "Il ne manque pas grand chose pour rabattre ce ballon."
+        ],
+        "789": [
+            2088.52,
+            2089.52,
+            "5 centimètres ?"
+        ],
+        "790": [
+            2089.52,
+            2090.52,
+            "Oui."
+        ],
+        "791": [
+            2090.92,
+            2096.92,
+            "En tout cas, on a vu la statistique de Cédric Granel qui montre que Nice n'a jamais encaissé"
+        ],
+        "792": [
+            2096.92,
+            2099.92,
+            "un seul but dans le dernier quart d'heure à domicile cette saison."
+        ],
+        "793": [
+            2099.92,
+            2104.92,
+            "Voilà qui devrait donner le moral aux niçois pour tenir dans cette fin de match."
+        ],
+        "794": [
+            2104.92,
+            2108.92,
+            "Et Bordeaux va évidemment continuer de tout donner dans cette fin de rencontre."
+        ],
+        "795": [
+            2108.92,
+            2113.92,
+            "Que c'est dur pour les niçois, mais s'il y a victoire à la clé, elle va faire du bien."
+        ],
+        "796": [
+            2113.92,
+            2116.92,
+            "Un petit peu à l'arraché, mais elle va faire du bien."
+        ],
+        "797": [
+            2117.32,
+            2122.32,
+            "Et avant le match, regardez les reprises après une trêve internationale."
+        ],
+        "798": [
+            2122.32,
+            2125.32,
+            "Ça se passe généralement bien pour les deux équipes."
+        ],
+        "799": [
+            2125.32,
+            2131.32,
+            "Nice, lors des trois précédentes mini-trêves internationales, avait repris le championnat en gagnant."
+        ],
+        "800": [
+            2131.32,
+            2133.32,
+            "Voilà peut-être une nouvelle victoire qui se décide."
+        ],
+        "801": [
+            2133.32,
+            2136.32,
+            "Et pour Bordeaux aussi, habituellement, ça se passe bien."
+        ],
+        "802": [
+            2136.32,
+            2143.32,
+            "Et Pagat, tu disais, tu vois, tu disais, Nice aurait pu avoir 4 ou 6 points de plus."
+        ],
+        "803": [
+            2143.32,
+            2146.32,
+            "Admets qu'ils auraient pu en avoir 4 ou 6 de moins aussi."
+        ],
+        "804": [
+            2146.72,
+            2149.72,
+            "En gagnant 12 matchs par un but d'écart."
+        ],
+        "805": [
+            2149.72,
+            2152.72,
+            "13 maintenant, une 13e qui se dessine."
+        ],
+        "806": [
+            2157.72,
+            2160.72,
+            "Mais il reste encore 10 minutes dans ce match."
+        ],
+        "807": [
+            2160.72,
+            2163.72,
+            "En comptant le temps additionnel, tout est encore possible dans cette rencontre."
+        ],
+        "808": [
+            2163.72,
+            2166.72,
+            "Bordeaux continue de pousser. Menez a eu ce ballon."
+        ],
+        "809": [
+            2166.72,
+            2168.72,
+            "Unas, la talonnade."
+        ],
+        "810": [
+            2168.72,
+            2170.72,
+            "Balotelli."
+        ],
+        "811": [
+            2170.72,
+            2173.72,
+            "Balotelli qui a vu le démarrage de Lebihan."
+        ],
+        "812": [
+            2174.12,
+            2177.12,
+            "Balotelli qui embarque toute l'équipe bordelaise quasiment."
+        ],
+        "813": [
+            2177.12,
+            2179.12,
+            "Et ensuite qui vient obtenir le coufran."
+        ],
+        "814": [
+            2179.12,
+            2182.12,
+            "Pourquoi l'arbitre siffle ? Nice a le ballon."
+        ],
+        "815": [
+            2182.12,
+            2185.12,
+            "Pourquoi ne pas laisser le jeu se développer ?"
+        ],
+        "816": [
+            2185.12,
+            2186.12,
+            "Il n'y a aucune raison de siffler."
+        ],
+        "817": [
+            2186.12,
+            2188.12,
+            "Balotelli n'est pas gravement blessé."
+        ],
+        "818": [
+            2188.12,
+            2190.12,
+            "Il va recommencer à jouer."
+        ],
+        "819": [
+            2194.12,
+            2196.12,
+            "Il n'y a rien du tout."
+        ],
+        "820": [
+            2196.12,
+            2198.12,
+            "Et le ballon est dans les pieds des Strik."
+        ],
+        "821": [
+            2198.12,
+            2201.12,
+            "Il n'y a surtout pas faute, normalement, pour..."
+        ],
+        "822": [
+            2201.12,
+            2203.12,
+            "Il n'y a surtout pas de coufran pour Nice sur cette action."
+        ],
+        "823": [
+            2203.52,
+            2206.52,
+            "On a vu que Balotelli avait même tenté un vilain geste."
+        ],
+        "824": [
+            2206.52,
+            2209.52,
+            "Attention, Balotelli doit se souvenir qu'à l'année,"
+        ],
+        "825": [
+            2209.52,
+            2212.52,
+            "il avait été exclu pour un vilain geste également."
+        ],
+        "826": [
+            2212.52,
+            2214.52,
+            "Nice avait fait 0-0."
+        ],
+        "827": [
+            2214.52,
+            2216.52,
+            "Et voilà l'édifice."
+        ],
+        "828": [
+            2216.52,
+            2218.52,
+            "Ou peut-être avec cette tentative de grampon,"
+        ],
+        "829": [
+            2218.52,
+            2221.52,
+            "le dégagement de la part de Sabali."
+        ],
+        "830": [
+            2222.52,
+            2224.52,
+            "Bien joué Lebihan."
+        ],
+        "831": [
+            2224.52,
+            2226.52,
+            "Non, le marchand, pardon."
+        ],
+        "832": [
+            2227.52,
+            2231.52,
+            "Balotelli qui attendait justement cette passe."
+        ],
+        "833": [
+            2231.92,
+            2233.92,
+            "Voilà Balcom."
+        ],
+        "834": [
+            2233.92,
+            2235.92,
+            "Balcom face à Dalbert."
+        ],
+        "835": [
+            2235.92,
+            2237.92,
+            "Balcom change de côté."
+        ],
+        "836": [
+            2237.92,
+            2239.92,
+            "Vérounas."
+        ],
+        "837": [
+            2244.92,
+            2248.92,
+            "Il vous reste 5-6 minutes pour donner une note à cette rencontre."
+        ],
+        "838": [
+            2248.92,
+            2251.92,
+            "Les 3 buts inscrits en première période."
+        ],
+        "839": [
+            2254.92,
+            2256.92,
+            "Ah, et quelle belle incursion."
+        ],
+        "840": [
+            2256.92,
+            2258.92,
+            "C'est donné au retrait, il n'y a pas grand monde."
+        ],
+        "841": [
+            2258.92,
+            2260.92,
+            "Peut-être la reprise maintenant."
+        ],
+        "842": [
+            2261.32,
+            2263.32,
+            "Et la rencontre est par Souquet."
+        ],
+        "843": [
+            2264.32,
+            2266.32,
+            "Et qui va essayer de dégager sereinement."
+        ],
+        "844": [
+            2266.32,
+            2268.32,
+            "Il y aura eu quand même énormément d'opportunités pour Bordeaux."
+        ],
+        "845": [
+            2268.32,
+            2270.32,
+            "Dans cette seconde période."
+        ],
+        "846": [
+            2270.32,
+            2272.32,
+            "Sabali qui est très perforant sur le côté droit."
+        ],
+        "847": [
+            2272.32,
+            2274.32,
+            "Mais qui manque de justesse."
+        ],
+        "848": [
+            2274.32,
+            2276.32,
+            "Dans ses centres."
+        ],
+        "849": [
+            2276.32,
+            2278.32,
+            "Et dans ses passes."
+        ],
+        "850": [
+            2278.32,
+            2282.32,
+            "On avait loué l'attaque bordelaise ces dernières journées."
+        ],
+        "851": [
+            2284.32,
+            2287.32,
+            "Ça flambait avec 2-3 buts en moyenne."
+        ],
+        "852": [
+            2291.32,
+            2293.32,
+            "Et encore un dégagement."
+        ],
+        "853": [
+            2293.32,
+            2295.32,
+            "Mais tellement approximatif."
+        ],
+        "854": [
+            2295.32,
+            2297.32,
+            "Le danger revient très vite."
+        ],
+        "855": [
+            2297.32,
+            2299.32,
+            "Près de la cage de Cardinal."
+        ],
+        "856": [
+            2300.32,
+            2301.32,
+            "Sabali."
+        ],
+        "857": [
+            2301.32,
+            2303.32,
+            "Centre de Sabali."
+        ],
+        "858": [
+            2303.32,
+            2305.32,
+            "Encore dégagé de la tête."
+        ],
+        "859": [
+            2305.32,
+            2307.32,
+            "Et un contre-Nissoa."
+        ],
+        "860": [
+            2307.32,
+            2309.32,
+            "A 2 contre 4."
+        ],
+        "861": [
+            2309.32,
+            2311.32,
+            "Balotelli."
+        ],
+        "862": [
+            2311.32,
+            2313.32,
+            "Et avec la main d'Aurelien Vanhoenick."
+        ],
+        "863": [
+            2313.32,
+            2315.32,
+            "Ça semblait volontaire."
+        ],
+        "864": [
+            2315.32,
+            2317.32,
+            "La colère de Lucien Favre."
+        ],
+        "865": [
+            2317.72,
+            2319.72,
+            "Un contact est marqué là-bas."
+        ],
+        "866": [
+            2319.72,
+            2321.72,
+            "Ah oui. Garde sur cette action."
+        ],
+        "867": [
+            2321.72,
+            2323.72,
+            "Les Bordelais. Unas. Unas qui frappe. C'est contré."
+        ],
+        "868": [
+            2323.72,
+            2325.72,
+            "Il prend une attaque."
+        ],
+        "869": [
+            2325.72,
+            2327.72,
+            "Il y a énormément de tension dans cette fin de rencontre."
+        ],
+        "870": [
+            2327.72,
+            2329.72,
+            "Entre Nice et Bordeaux."
+        ],
+        "871": [
+            2329.72,
+            2331.72,
+            "Encore un centre."
+        ],
+        "872": [
+            2331.72,
+            2333.72,
+            "Et finalement ce sera un corner."
+        ],
+        "873": [
+            2333.72,
+            2335.72,
+            "Conseillé par Dalbert. C'est chaud."
+        ],
+        "874": [
+            2335.72,
+            2337.72,
+            "C'est très chaud."
+        ],
+        "875": [
+            2337.72,
+            2339.72,
+            "Entre Nice et Bordeaux dans ces dernières minutes."
+        ],
+        "876": [
+            2339.72,
+            2341.72,
+            "Il y a la main bien évidemment."
+        ],
+        "877": [
+            2341.72,
+            2343.72,
+            "Je ne suis pas sûr qu'elle soit volontaire."
+        ],
+        "878": [
+            2343.72,
+            2345.72,
+            "Nouveau centre. Deuxième poteau."
+        ],
+        "879": [
+            2346.12,
+            2348.12,
+            "C'est la présence bordelaise."
+        ],
+        "880": [
+            2348.12,
+            2350.12,
+            "Cossiello."
+        ],
+        "881": [
+            2350.12,
+            2352.12,
+            "Souquet."
+        ],
+        "882": [
+            2352.12,
+            2354.12,
+            "Balotelli."
+        ],
+        "883": [
+            2354.12,
+            2356.12,
+            "Bon ballon."
+        ],
+        "884": [
+            2356.12,
+            2358.12,
+            "Bon ballon pour eux."
+        ],
+        "885": [
+            2358.12,
+            2360.12,
+            "Très très bon ballon."
+        ],
+        "886": [
+            2360.12,
+            2362.12,
+            "Mais il sera bien seul le Bilan."
+        ],
+        "887": [
+            2362.12,
+            2364.12,
+            "Ça va arriver."
+        ],
+        "888": [
+            2364.12,
+            2366.12,
+            "Ça revient. Il décide d'y aller seul."
+        ],
+        "889": [
+            2366.12,
+            2368.12,
+            "Le Bilan."
+        ],
+        "890": [
+            2368.12,
+            2370.12,
+            "Afoché. C'est bien joué."
+        ],
+        "891": [
+            2370.12,
+            2372.12,
+            "Le Bilan toujours."
+        ],
+        "892": [
+            2372.12,
+            2374.12,
+            "Et la touche pour Nice."
+        ],
+        "893": [
+            2374.52,
+            2376.52,
+            "Très très belle action d'attaquant."
+        ],
+        "894": [
+            2376.52,
+            2378.52,
+            "Il a vu que"
+        ],
+        "895": [
+            2378.52,
+            2380.52,
+            "ce serait compliqué d'aller percuter."
+        ],
+        "896": [
+            2380.52,
+            2382.52,
+            "Il s'est attaché à garder le ballon."
+        ],
+        "897": [
+            2382.52,
+            2384.52,
+            "A obtenir ce qu'il pouvait obtenir."
+        ],
+        "898": [
+            2386.52,
+            2388.52,
+            "Voilà la protection de balle"
+        ],
+        "899": [
+            2388.52,
+            2390.52,
+            "de Mickael Le Bilan."
+        ],
+        "900": [
+            2394.52,
+            2396.52,
+            "Qui justifie le changement"
+        ],
+        "901": [
+            2396.52,
+            2398.52,
+            "de Favre."
+        ],
+        "902": [
+            2398.52,
+            2400.52,
+            "Qui se montre très disponible."
+        ],
+        "903": [
+            2400.52,
+            2402.52,
+            "Et qui en l'occurrence garde très bien le ballon."
+        ],
+        "904": [
+            2404.52,
+            2406.52,
+            "C'est qu'il a énormément de qualité."
+        ],
+        "905": [
+            2406.52,
+            2408.52,
+            "Mickael Le Bilan."
+        ],
+        "906": [
+            2408.52,
+            2410.52,
+            "Impassible."
+        ],
+        "907": [
+            2410.52,
+            2412.52,
+            "Le président Rivère."
+        ],
+        "908": [
+            2418.52,
+            2420.52,
+            "Et pour Bordeaux."
+        ],
+        "909": [
+            2420.52,
+            2422.52,
+            "Devant les quelques 300 supporters"
+        ],
+        "910": [
+            2422.52,
+            2424.52,
+            "bordelais. Vous voyez dans l'angle"
+        ],
+        "911": [
+            2424.52,
+            2426.52,
+            "les supporters très encadrés"
+        ],
+        "912": [
+            2426.52,
+            2428.52,
+            "qui n'avaient le droit"
+        ],
+        "913": [
+            2428.52,
+            2430.52,
+            "de venir qu'à 300 justement."
+        ],
+        "914": [
+            2430.52,
+            2432.52,
+            "Et tous les autres se revendiquant bordelais"
+        ],
+        "915": [
+            2432.92,
+            2434.92,
+            "qui ne pouvaient pas accéder au stade."
+        ],
+        "916": [
+            2438.92,
+            2440.92,
+            "Carton pour Balotelli."
+        ],
+        "917": [
+            2446.92,
+            2448.92,
+            "Qui parle, qui parle, qui proteste."
+        ],
+        "918": [
+            2448.92,
+            2450.92,
+            "Qui conteste."
+        ],
+        "919": [
+            2450.92,
+            2452.92,
+            "Qui revendique et qui proteste."
+        ],
+        "920": [
+            2454.92,
+            2456.92,
+            "Et la frappe !"
+        ],
+        "921": [
+            2456.92,
+            2458.92,
+            "Il passe de peu à côté."
+        ],
+        "922": [
+            2458.92,
+            2460.92,
+            "C'était une belle occasion."
+        ],
+        "923": [
+            2461.32,
+            2463.32,
+            "Et le refais."
+        ],
+        "924": [
+            2465.32,
+            2467.32,
+            "Ça c'est pas les années 90."
+        ],
+        "925": [
+            2467.32,
+            2469.32,
+            "Les années 90 c'est tout à l'heure."
+        ],
+        "926": [
+            2469.32,
+            2471.32,
+            "Dans une bonne vingtaine de minutes."
+        ],
+        "927": [
+            2471.32,
+            2473.32,
+            "Dans un jit-pousson."
+        ],
+        "928": [
+            2473.32,
+            2475.32,
+            "En 70."
+        ],
+        "929": [
+            2481.32,
+            2483.32,
+            "Celui qui n'avait pas suivi qui revendique"
+        ],
+        "930": [
+            2483.32,
+            2485.32,
+            "et qui proteste. C'est que du trop."
+        ],
+        "931": [
+            2485.32,
+            2487.32,
+            "Je ne ferai qu'un seul geste."
+        ],
+        "932": [
+            2487.32,
+            2489.32,
+            "Le portuguiste."
+        ],
+        "933": [
+            2489.72,
+            2491.72,
+            "Qui va rentrer pour les dernières minutes"
+        ],
+        "934": [
+            2491.72,
+            2493.72,
+            "pour essayer de tenir cette victoire."
+        ],
+        "935": [
+            2495.72,
+            2497.72,
+            "Remplacement à la place de Valentin Isrik."
+        ],
+        "936": [
+            2503.72,
+            2505.72,
+            "Une défense à 3 pour terminer."
+        ],
+        "937": [
+            2505.72,
+            2507.72,
+            "Une défense à 5 avec"
+        ],
+        "938": [
+            2507.72,
+            2509.72,
+            "3 défenseurs centraux."
+        ],
+        "939": [
+            2509.72,
+            2511.72,
+            "Sarr qui vient jouer"
+        ],
+        "940": [
+            2511.72,
+            2513.72,
+            "défenseur central gauche."
+        ],
+        "941": [
+            2513.72,
+            2515.72,
+            "Lebillan dans l'axe et Dante"
+        ],
+        "942": [
+            2515.72,
+            2517.72,
+            "à droite."
+        ],
+        "943": [
+            2518.12,
+            2520.12,
+            "Les premières minutes de jeu du jeune Malang Sarr."
+        ],
+        "944": [
+            2520.12,
+            2522.12,
+            "Depuis la défaite à Monaco"
+        ],
+        "945": [
+            2522.12,
+            2524.12,
+            "au mois de février."
+        ],
+        "946": [
+            2524.12,
+            2526.12,
+            "C'est pas une bonne relance."
+        ],
+        "947": [
+            2526.12,
+            2528.12,
+            "Il s'en va d'ailleurs."
+        ],
+        "948": [
+            2538.12,
+            2540.12,
+            "Cette douche effectuée par Sarr."
+        ],
+        "949": [
+            2544.12,
+            2546.12,
+            "Lebillan."
+        ],
+        "950": [
+            2548.12,
+            2550.12,
+            "On approche du temps additionnel."
+        ],
+        "951": [
+            2550.12,
+            2552.12,
+            "Unas."
+        ],
+        "952": [
+            2554.12,
+            2556.12,
+            "Unas poursuivi par"
+        ],
+        "953": [
+            2556.12,
+            2558.12,
+            "Ricardo Pereira."
+        ],
+        "954": [
+            2558.12,
+            2560.12,
+            "Toulalan."
+        ],
+        "955": [
+            2560.12,
+            2562.12,
+            "Démarrage de Malcolm mais Toulalan ne l'a pas vu."
+        ],
+        "956": [
+            2564.12,
+            2566.12,
+            "4 minutes de plus."
+        ],
+        "957": [
+            2566.12,
+            2568.12,
+            "Dans cette rencontre, Nice pour l'instant tient une victoire"
+        ],
+        "958": [
+            2568.12,
+            2570.12,
+            "extrêmement précieuse."
+        ],
+        "959": [
+            2570.12,
+            2572.12,
+            "D'une part parce que la 3ème place"
+        ],
+        "960": [
+            2572.12,
+            2574.12,
+            "est peut-être entyrinée"
+        ],
+        "961": [
+            2574.12,
+            2576.12,
+            "grâce à cette victoire ce soir."
+        ],
+        "962": [
+            2576.52,
+            2578.52,
+            "Le meilleur aigu du suspense dans la course au titre."
+        ],
+        "963": [
+            2578.52,
+            2580.52,
+            "Pression mise sur Paris et Monaco."
+        ],
+        "964": [
+            2582.52,
+            2584.52,
+            "Dante. Dante. Le dégagement raté de Dante."
+        ],
+        "965": [
+            2584.52,
+            2586.52,
+            "Dante ensuite qui s'oppose."
+        ],
+        "966": [
+            2586.52,
+            2588.52,
+            "C'est bien rattrapé."
+        ],
+        "967": [
+            2588.52,
+            2590.52,
+            "Parfaitement rattrapé. Il faut maintenant se dégager"
+        ],
+        "968": [
+            2590.52,
+            2592.52,
+            "du côté niçois que c'est lavorieux."
+        ],
+        "969": [
+            2592.52,
+            2594.52,
+            "Et finalement Bonavasier intervient"
+        ],
+        "970": [
+            2594.52,
+            2596.52,
+            "pour donner de l'air à l'EGC Nice."
+        ],
+        "971": [
+            2596.52,
+            2598.52,
+            "Sous le regard d'un inquiet Younes Belanda."
+        ],
+        "972": [
+            2600.52,
+            2602.52,
+            "C'est extrêmement méritoire ce que fait Nice."
+        ],
+        "973": [
+            2602.52,
+            2604.52,
+            "Mais du côté de Pordeaux, il peut en avoir des regrets quand même"
+        ],
+        "974": [
+            2604.92,
+            2606.92,
+            "parce que sur un match comme ça on s'aperçoit qu'ils ont un potentiel"
+        ],
+        "975": [
+            2608.92,
+            2610.92,
+            "offensif bien entendu"
+        ],
+        "976": [
+            2610.92,
+            2612.92,
+            "mais un potentiel d'ensemble"
+        ],
+        "977": [
+            2612.92,
+            2614.92,
+            "et je pense qu'ils ont un potentiel supérieur"
+        ],
+        "978": [
+            2614.92,
+            2616.92,
+            "à celui des niçois."
+        ],
+        "979": [
+            2616.92,
+            2618.92,
+            "On va rappeler que c'est une équipe très jeune, Bordeaux."
+        ],
+        "980": [
+            2618.92,
+            2620.92,
+            "Très très jeune."
+        ],
+        "981": [
+            2620.92,
+            2622.92,
+            "On a parlé de Kamano, de Malcom, de Laborde."
+        ],
+        "982": [
+            2622.92,
+            2624.92,
+            "En tout cas des niçois sans Cyprien,"
+        ],
+        "983": [
+            2624.92,
+            2626.92,
+            "sans Pléa."
+        ],
+        "984": [
+            2626.92,
+            2628.92,
+            "Bordeaux ils ont fait une première demi-heure étonnante quand même."
+        ],
+        "985": [
+            2628.92,
+            2630.92,
+            "Ils ont décidé d'attendre, de ne pas jouer."
+        ],
+        "986": [
+            2630.92,
+            2632.92,
+            "Peut-être qu'ils avaient joué un peu plus"
+        ],
+        "987": [
+            2633.32,
+            2635.32,
+            "mais ils ont fait une première demi-heure où ils ne seraient pas été là."
+        ],
+        "988": [
+            2635.32,
+            2637.32,
+            "C'est vrai où ils prennent les deux buts aussi."
+        ],
+        "989": [
+            2641.32,
+            2643.32,
+            "Encore trois minutes de temps additionnel."
+        ],
+        "990": [
+            2643.32,
+            2645.32,
+            "Ballon pour Malcom."
+        ],
+        "991": [
+            2645.32,
+            2647.32,
+            "Malcom qui tente"
+        ],
+        "992": [
+            2647.32,
+            2649.32,
+            "d'échapper à Malang-Sar."
+        ],
+        "993": [
+            2651.32,
+            2653.32,
+            "On aura tout essayé à Bordeaux."
+        ],
+        "994": [
+            2653.32,
+            2655.32,
+            "A gauche, à droite."
+        ],
+        "995": [
+            2655.32,
+            2657.32,
+            "On rappelle les trois changements offensifs"
+        ],
+        "996": [
+            2657.32,
+            2659.32,
+            "de Jocelyne Gourvenec."
+        ],
+        "997": [
+            2659.32,
+            2661.32,
+            "Voilà ce niveau d'écalage."
+        ],
+        "998": [
+            2661.72,
+            2663.72,
+            "Le centre."
+        ],
+        "999": [
+            2663.72,
+            2665.72,
+            "Le dégagement de Sery en deux temps."
+        ],
+        "1000": [
+            2665.72,
+            2667.72,
+            "Il se met en danger."
+        ],
+        "1001": [
+            2667.72,
+            2669.72,
+            "Jean-Michel Sery. Voilà Causielon maintenant"
+        ],
+        "1002": [
+            2669.72,
+            2671.72,
+            "qui va essayer de lancer le ballon le plus loin possible"
+        ],
+        "1003": [
+            2671.72,
+            2673.72,
+            "pour gagner encore quelques secondes."
+        ],
+        "1004": [
+            2675.72,
+            2677.72,
+            "Sous les yeux de Nicolas Tavernier"
+        ],
+        "1005": [
+            2677.72,
+            2679.72,
+            "et du nouveau président de Bordeaux, Stéphane Martin."
+        ],
+        "1006": [
+            2683.72,
+            2685.72,
+            "Dante."
+        ],
+        "1007": [
+            2686.12,
+            2688.12,
+            "Ricardo Pereira."
+        ],
+        "1008": [
+            2688.12,
+            2690.12,
+            "Tente de conserver le ballon le plus longtemps possible."
+        ],
+        "1009": [
+            2690.12,
+            2692.12,
+            "N'obtient pas la faute."
+        ],
+        "1010": [
+            2692.12,
+            2694.12,
+            "Pas de faute sur Ricardo Pereira. Ballon Bordelais."
+        ],
+        "1011": [
+            2696.12,
+            2698.12,
+            "Sancaré."
+        ],
+        "1012": [
+            2698.12,
+            2700.12,
+            "Et Sancaré qui s'en prend à Malcom."
+        ],
+        "1013": [
+            2704.12,
+            2706.12,
+            "Malcom qui est tout seul sur son côté droit."
+        ],
+        "1014": [
+            2706.12,
+            2708.12,
+            "Tout en bas de l'écran."
+        ],
+        "1015": [
+            2716.12,
+            2718.12,
+            "Oulà, l'an."
+        ],
+        "1016": [
+            2720.12,
+            2722.12,
+            "Et on voit Levchouk monter maintenant"
+        ],
+        "1017": [
+            2722.12,
+            2724.12,
+            "pour les dernières minutes."
+        ],
+        "1018": [
+            2724.12,
+            2726.12,
+            "Levchouk va finir comme un attaquant."
+        ],
+        "1019": [
+            2726.12,
+            2728.12,
+            "Le centre. Ça revient avec Sabali."
+        ],
+        "1020": [
+            2728.12,
+            2730.12,
+            "Sabali."
+        ],
+        "1021": [
+            2730.12,
+            2732.12,
+            "Sabali qui se retourne."
+        ],
+        "1022": [
+            2732.12,
+            2734.12,
+            "Encore Sabali qui balance dans la surface de réparation."
+        ],
+        "1023": [
+            2734.12,
+            2736.12,
+            "Ça défend bien."
+        ],
+        "1024": [
+            2736.12,
+            2738.12,
+            "Et voilà Le Villon maintenant."
+        ],
+        "1025": [
+            2738.12,
+            2740.12,
+            "Comme tout à l'heure."
+        ],
+        "1026": [
+            2740.12,
+            2742.12,
+            "Il était dans le camp Bordelais."
+        ],
+        "1027": [
+            2742.12,
+            2744.12,
+            "Qui essaye de garder ce ballon."
+        ],
+        "1028": [
+            2744.52,
+            2746.52,
+            "Et le ballon est menacé par Jovanovic."
+        ],
+        "1029": [
+            2746.52,
+            2748.52,
+            "Le Villon. Le Villon encore."
+        ],
+        "1030": [
+            2748.52,
+            2750.52,
+            "Le Villon toujours."
+        ],
+        "1031": [
+            2750.52,
+            2752.52,
+            "Et qui va même obtenir le coup franc."
+        ],
+        "1032": [
+            2752.52,
+            2754.52,
+            "Tout à l'heure il a obtenu une touche."
+        ],
+        "1033": [
+            2754.52,
+            2756.52,
+            "Là il obtient une faute."
+        ],
+        "1034": [
+            2756.52,
+            2758.52,
+            "C'est extrêmement utile."
+        ],
+        "1035": [
+            2758.52,
+            2760.52,
+            "Et ça fait du bien parce que regardez le chrono."
+        ],
+        "1036": [
+            2760.52,
+            2762.52,
+            "Il reste 50 secondes."
+        ],
+        "1037": [
+            2762.52,
+            2764.52,
+            "Quelle bonne entrée de Miquel Le Villon."
+        ],
+        "1038": [
+            2764.52,
+            2766.52,
+            "Il fait des efforts devant."
+        ],
+        "1039": [
+            2766.52,
+            2768.52,
+            "Et Nice avait vraiment besoin d'un point d'ancrage"
+        ],
+        "1040": [
+            2768.52,
+            2770.52,
+            "pour finir ce match."
+        ],
+        "1041": [
+            2770.92,
+            2772.92,
+            "L'histoire est en train de durer du côté de Nice."
+        ],
+        "1042": [
+            2772.92,
+            2774.92,
+            "On se disait qu'avec tous les blessés"
+        ],
+        "1043": [
+            2774.92,
+            2776.92,
+            "ça pouvait s'arrêter."
+        ],
+        "1044": [
+            2776.92,
+            2778.92,
+            "On voyait aussi que Nice marchait au ralenti."
+        ],
+        "1045": [
+            2778.92,
+            2780.92,
+            "Ces dernières journées."
+        ],
+        "1046": [
+            2780.92,
+            2782.92,
+            "Nice est toujours un vaincu à domicile."
+        ],
+        "1047": [
+            2782.92,
+            2784.92,
+            "Nice est en train de s'imposer."
+        ],
+        "1048": [
+            2784.92,
+            2786.92,
+            "Il reste 30 secondes et le ballon est pour Ricardo Pereira."
+        ],
+        "1049": [
+            2786.92,
+            2788.92,
+            "Ricardo Pereira."
+        ],
+        "1050": [
+            2790.92,
+            2792.92,
+            "Ricardo Pereira qui va faire l'effort."
+        ],
+        "1051": [
+            2792.92,
+            2794.92,
+            "Et peut-être le dernier rush Bordelais."
+        ],
+        "1052": [
+            2796.92,
+            2798.92,
+            "La dernière offensive Bordelaise."
+        ],
+        "1053": [
+            2799.32,
+            2801.32,
+            "C'est pour maintenant."
+        ],
+        "1054": [
+            2801.32,
+            2803.32,
+            "Mais il faut aller vite."
+        ],
+        "1055": [
+            2803.32,
+            2805.32,
+            "Il faut aller beaucoup plus vite."
+        ],
+        "1056": [
+            2805.32,
+            2807.32,
+            "Alors qu'un Bordelais est resté à terre dans la surface de réparation."
+        ],
+        "1057": [
+            2807.32,
+            2809.32,
+            "C'est terminé."
+        ],
+        "1058": [
+            2809.32,
+            2811.32,
+            "Avec la victoire de Nice."
+        ],
+        "1059": [
+            2811.32,
+            2813.32,
+            "De Buzin."
+        ],
+        "1060": [
+            2813.32,
+            2815.32,
+            "Quelle est précieuse cette victoire."
+        ],
+        "1061": [
+            2815.32,
+            2817.32,
+            "Et encore un petit peu de piment donné dans la course au titre."
+        ],
+        "1062": [
+            2817.32,
+            2819.32,
+            "Et les voilà qui vont titiller."
+        ],
+        "1063": [
+            2819.32,
+            2821.32,
+            "Taquiner Paris et Monaco."
+        ],
+        "1064": [
+            2821.32,
+            2823.32,
+            "En revanche gros coup d'arrêt pour Bordeaux."
+        ],
+        "1065": [
+            2823.32,
+            2825.32,
+            "Dans la lutte pour la 5ème place."
+        ],
+        "1066": [
+            2825.32,
+            2827.32,
+            "D'abord et avant tout bravo au Niçois."
+        ],
+        "1067": [
+            2827.72,
+            2829.72,
+            "Parce qu'ils arrivent à enchaîner des résultats avec une équipe clairement diminuée."
+        ],
+        "1068": [
+            2833.72,
+            2835.72,
+            "Mais en conservant des valeurs de jeu."
+        ],
+        "1069": [
+            2835.72,
+            2837.72,
+            "De comportement aussi."
+        ],
+        "1070": [
+            2837.72,
+            2839.72,
+            "Parce qu'ils se sont vraiment bagarrés en deuxième mi-temps."
+        ],
+        "1071": [
+            2839.72,
+            2841.72,
+            "Alors qu'ils étaient dominés par les Bordelais."
+        ],
+        "1072": [
+            2847.72,
+            2849.72,
+            "Pendant ce temps les Bordelais on les voit râler."
+        ],
+        "1073": [
+            2849.72,
+            2851.72,
+            "Contester auprès de Benoît Bastien."
+        ],
+        "1074": [
+            2851.72,
+            2853.72,
+            "On n'oublie pas que sur les 2 buts du Niçois."
+        ],
+        "1075": [
+            2853.72,
+            2855.72,
+            "Il y a Asopinatti."
+        ],
+        "1076": [
+            2856.12,
+            2858.12,
+            "Bien sûr et je pense que tout l'allant."
+        ],
+        "1077": [
+            2858.12,
+            2860.12,
+            "On ne se prive pas de rappeler."
+        ],
+        "1078": [
+            2860.12,
+            2862.12,
+            "A Monsieur Bastien."
+        ],
+        "1079": [
+            2862.12,
+            2864.12,
+            "Qu'il a pris la mauvaise décision."
+        ],
+        "1080": [
+            2866.12,
+            2868.12,
+            "On peut penser que les Bordelais s'estiment lésés."
+        ],
+        "1081": [
+            2868.12,
+            2870.12,
+            "Ils auront en tout cas beaucoup de regrets."
+        ],
+        "1082": [
+            2870.12,
+            2872.12,
+            "Parce qu'ils ont eu la possibilité d'égaliser dans ce match."
+        ],
+        "1083": [
+            2872.12,
+            2874.12,
+            "Ils ont eu énormément d'occasion."
+        ],
+        "1084": [
+            2874.12,
+            2876.12,
+            "Ils ont tiré 3 fois plus que les Niçois dans cette seconde période."
+        ],
+        "1085": [
+            2876.12,
+            2878.12,
+            "Et des occasions parfois immanquables."
+        ],
+        "1086": [
+            2878.12,
+            2880.12,
+            "Bien entendu et notamment par Cavano."
+        ],
+        "1087": [
+            2886.12,
+            2888.12,
+            "On a un autre joueur qui est en train de se marquer."
+        ],
+        "1088": [
+            2888.12,
+            2890.12,
+            "C'est un joueur qui a encore marqué aujourd'hui."
+        ],
+        "1089": [
+            2890.12,
+            2892.12,
+            "Deuxième match."
+        ],
+        "1090": [
+            2892.12,
+            2894.12,
+            "Deuxième match."
+        ],
+        "1091": [
+            2894.12,
+            2896.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1092": [
+            2896.12,
+            2898.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1093": [
+            2898.12,
+            2900.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1094": [
+            2900.12,
+            2902.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1095": [
+            2902.12,
+            2904.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1096": [
+            2904.12,
+            2906.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1097": [
+            2906.12,
+            2908.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1098": [
+            2908.12,
+            2910.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1099": [
+            2910.12,
+            2912.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1100": [
+            2912.12,
+            2914.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1101": [
+            2914.12,
+            2916.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1102": [
+            2916.12,
+            2918.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1103": [
+            2918.12,
+            2920.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1104": [
+            2920.12,
+            2922.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1105": [
+            2922.12,
+            2924.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1106": [
+            2924.12,
+            2926.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1107": [
+            2926.12,
+            2928.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1108": [
+            2928.12,
+            2930.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1109": [
+            2930.12,
+            2932.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1110": [
+            2932.12,
+            2934.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1111": [
+            2934.12,
+            2936.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1112": [
+            2936.12,
+            2938.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1113": [
+            2938.12,
+            2940.12,
+            "C'est un joueur qui est en train de se marquer."
+        ],
+        "1114": [
+            2940.12,
+            2942.12,
+            "Je leur ai dit de jouer ça toute la semaine."
+        ],
+        "1115": [
+            2942.12,
+            2944.12,
+            "Je leur ai dit de jouer ça toute la semaine."
+        ],
+        "1116": [
+            2944.12,
+            2946.12,
+            "Il fallait les déjouer. Ils ont 4 ou 5 ans."
+        ],
+        "1117": [
+            2946.12,
+            2948.12,
+            "Il est difficile à déjouer."
+        ]
+    }
+}
