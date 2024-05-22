@@ -1,0 +1,5524 @@
+{
+    "segments": {
+        "0": [
+            30.0,
+            33.0,
+            "Rostelli's tactical choice"
+        ],
+        "1": [
+            60.0,
+            62.0,
+            "Rostelli's tactical choice"
+        ],
+        "2": [
+            90.0,
+            92.0,
+            "Rostelli's tactical choice"
+        ],
+        "3": [
+            120.0,
+            122.0,
+            "Rostelli's tactical choice"
+        ],
+        "4": [
+            150.0,
+            152.0,
+            "Rostelli's tactical choice"
+        ],
+        "5": [
+            180.0,
+            182.0,
+            "Rostelli's tactical choice"
+        ],
+        "6": [
+            182.0,
+            184.0,
+            "Rostelli's tactical choice"
+        ],
+        "7": [
+            184.0,
+            186.0,
+            "Rostelli's tactical choice"
+        ],
+        "8": [
+            186.0,
+            188.0,
+            "Rostelli's tactical choice"
+        ],
+        "9": [
+            188.0,
+            190.0,
+            "Rostelli's tactical choice"
+        ],
+        "10": [
+            190.0,
+            192.0,
+            "Rostelli's tactical choice"
+        ],
+        "11": [
+            192.0,
+            194.0,
+            "Rostelli's tactical choice"
+        ],
+        "12": [
+            194.0,
+            196.0,
+            "Rostelli's tactical choice"
+        ],
+        "13": [
+            196.0,
+            198.0,
+            "Rostelli's tactical choice"
+        ],
+        "14": [
+            198.0,
+            200.0,
+            "Rostelli's tactical choice"
+        ],
+        "15": [
+            200.0,
+            202.0,
+            "Rostelli's tactical choice"
+        ],
+        "16": [
+            202.0,
+            204.0,
+            "Rostelli's tactical choice"
+        ],
+        "17": [
+            204.0,
+            206.0,
+            "Rostelli's tactical choice"
+        ],
+        "18": [
+            206.0,
+            208.0,
+            "Rostelli's tactical choice"
+        ],
+        "19": [
+            208.0,
+            210.0,
+            "Rostelli's tactical choice"
+        ],
+        "20": [
+            210.0,
+            212.0,
+            "Rostelli's tactical choice"
+        ],
+        "21": [
+            212.0,
+            214.0,
+            "Rostelli's tactical choice"
+        ],
+        "22": [
+            214.0,
+            216.0,
+            "Rostelli's tactical choice"
+        ],
+        "23": [
+            216.0,
+            218.0,
+            "Rostelli's tactical choice"
+        ],
+        "24": [
+            218.0,
+            220.0,
+            "Rostelli's tactical choice"
+        ],
+        "25": [
+            220.0,
+            222.0,
+            "Rostelli's tactical choice"
+        ],
+        "26": [
+            222.0,
+            224.0,
+            "Rostelli's tactical choice"
+        ],
+        "27": [
+            224.0,
+            226.0,
+            "Rostelli's tactical choice"
+        ],
+        "28": [
+            226.0,
+            228.0,
+            "Rostelli's tactical choice"
+        ],
+        "29": [
+            228.0,
+            230.0,
+            "Rostelli's tactical choice"
+        ],
+        "30": [
+            230.0,
+            232.0,
+            "Rostelli's tactical choice"
+        ],
+        "31": [
+            232.0,
+            234.0,
+            "Rostelli's tactical choice"
+        ],
+        "32": [
+            234.0,
+            236.0,
+            "Rostelli's tactical choice"
+        ],
+        "33": [
+            236.0,
+            238.0,
+            "Rostelli's tactical choice"
+        ],
+        "34": [
+            238.0,
+            240.0,
+            "Rostelli's tactical choice"
+        ],
+        "35": [
+            240.0,
+            242.0,
+            "Rostelli's tactical choice"
+        ],
+        "36": [
+            242.0,
+            244.0,
+            "Rostelli's tactical choice"
+        ],
+        "37": [
+            244.0,
+            246.0,
+            "Rostelli's tactical choice"
+        ],
+        "38": [
+            246.0,
+            248.0,
+            "Rostelli's tactical choice"
+        ],
+        "39": [
+            248.0,
+            250.0,
+            "Rostelli's tactical choice"
+        ],
+        "40": [
+            250.0,
+            252.0,
+            "Rostelli's tactical choice"
+        ],
+        "41": [
+            252.0,
+            254.0,
+            "Rostelli's tactical choice"
+        ],
+        "42": [
+            254.0,
+            256.0,
+            "Rostelli's tactical choice"
+        ],
+        "43": [
+            256.0,
+            258.0,
+            "Rostelli's tactical choice"
+        ],
+        "44": [
+            258.0,
+            260.0,
+            "Rostelli's tactical choice"
+        ],
+        "45": [
+            260.0,
+            262.0,
+            "Rostelli's tactical choice"
+        ],
+        "46": [
+            262.0,
+            264.0,
+            "Rostelli's tactical choice"
+        ],
+        "47": [
+            264.0,
+            266.0,
+            "Rostelli's tactical choice"
+        ],
+        "48": [
+            266.0,
+            268.0,
+            "Rostelli's tactical choice"
+        ],
+        "49": [
+            268.0,
+            270.0,
+            "Rostelli's tactical choice"
+        ],
+        "50": [
+            270.0,
+            272.0,
+            "Rostelli's tactical choice"
+        ],
+        "51": [
+            272.0,
+            274.0,
+            "Rostelli's tactical choice"
+        ],
+        "52": [
+            274.0,
+            276.0,
+            "Rostelli's tactical choice"
+        ],
+        "53": [
+            276.0,
+            278.0,
+            "Rostelli's tactical choice"
+        ],
+        "54": [
+            278.0,
+            280.0,
+            "Rostelli's tactical choice"
+        ],
+        "55": [
+            280.0,
+            282.0,
+            "Rostelli's tactical choice"
+        ],
+        "56": [
+            282.0,
+            284.0,
+            "Rostelli's tactical choice"
+        ],
+        "57": [
+            284.0,
+            286.0,
+            "Rostelli's tactical choice"
+        ],
+        "58": [
+            286.0,
+            288.0,
+            "Rostelli's tactical choice"
+        ],
+        "59": [
+            288.0,
+            290.0,
+            "Rostelli's tactical choice"
+        ],
+        "60": [
+            290.0,
+            292.0,
+            "Rostelli's tactical choice"
+        ],
+        "61": [
+            292.0,
+            294.0,
+            "Rostelli's tactical choice"
+        ],
+        "62": [
+            294.0,
+            296.0,
+            "Rostelli's tactical choice"
+        ],
+        "63": [
+            296.0,
+            298.0,
+            "Rostelli's tactical choice"
+        ],
+        "64": [
+            298.0,
+            300.0,
+            "Rostelli's tactical choice"
+        ],
+        "65": [
+            300.0,
+            302.0,
+            "Rostelli's tactical choice"
+        ],
+        "66": [
+            302.0,
+            304.0,
+            "Rostelli's tactical choice"
+        ],
+        "67": [
+            304.0,
+            306.0,
+            "Rostelli's tactical choice"
+        ],
+        "68": [
+            306.0,
+            308.0,
+            "Rostelli's tactical choice"
+        ],
+        "69": [
+            308.0,
+            310.0,
+            "Rostelli's tactical choice"
+        ],
+        "70": [
+            310.0,
+            312.0,
+            "Rostelli's tactical choice"
+        ],
+        "71": [
+            312.0,
+            314.0,
+            "Rostelli's tactical choice"
+        ],
+        "72": [
+            314.0,
+            316.0,
+            "Rostelli's tactical choice"
+        ],
+        "73": [
+            316.0,
+            318.0,
+            "Rostelli's tactical choice"
+        ],
+        "74": [
+            318.0,
+            320.0,
+            "Rostelli's tactical choice"
+        ],
+        "75": [
+            320.0,
+            322.0,
+            "Rostelli's tactical choice"
+        ],
+        "76": [
+            322.0,
+            324.0,
+            "Rostelli's tactical choice"
+        ],
+        "77": [
+            324.0,
+            326.0,
+            "Rostelli's tactical choice"
+        ],
+        "78": [
+            326.0,
+            328.0,
+            "Rostelli's tactical choice"
+        ],
+        "79": [
+            328.0,
+            330.0,
+            "Rostelli's tactical choice"
+        ],
+        "80": [
+            330.0,
+            332.0,
+            "Rostelli's tactical choice"
+        ],
+        "81": [
+            332.0,
+            334.0,
+            "Rostelli's tactical choice"
+        ],
+        "82": [
+            334.0,
+            336.0,
+            "Rostelli's tactical choice"
+        ],
+        "83": [
+            336.0,
+            338.0,
+            "Rostelli's tactical choice"
+        ],
+        "84": [
+            338.0,
+            340.0,
+            "Rostelli's tactical choice"
+        ],
+        "85": [
+            340.0,
+            342.0,
+            "Rostelli's tactical choice"
+        ],
+        "86": [
+            342.0,
+            344.0,
+            "Rostelli's tactical choice"
+        ],
+        "87": [
+            344.0,
+            346.0,
+            "Rostelli's tactical choice"
+        ],
+        "88": [
+            346.0,
+            348.0,
+            "Rostelli's tactical choice"
+        ],
+        "89": [
+            348.0,
+            350.0,
+            "Rostelli's tactical choice"
+        ],
+        "90": [
+            350.0,
+            352.0,
+            "Rostelli's tactical choice"
+        ],
+        "91": [
+            352.0,
+            354.0,
+            "Rostelli's tactical choice"
+        ],
+        "92": [
+            354.0,
+            356.0,
+            "Rostelli's tactical choice"
+        ],
+        "93": [
+            356.0,
+            358.0,
+            "Rostelli's tactical choice"
+        ],
+        "94": [
+            358.0,
+            360.0,
+            "Rostelli's tactical choice"
+        ],
+        "95": [
+            360.0,
+            362.0,
+            "Rostelli's tactical choice"
+        ],
+        "96": [
+            362.0,
+            364.0,
+            "Rostelli's tactical choice"
+        ],
+        "97": [
+            364.0,
+            366.0,
+            "Rostelli's tactical choice"
+        ],
+        "98": [
+            366.0,
+            368.0,
+            "Rostelli's tactical choice"
+        ],
+        "99": [
+            368.0,
+            370.0,
+            "Rostelli's tactical choice"
+        ],
+        "100": [
+            370.0,
+            372.0,
+            "Rostelli's tactical choice"
+        ],
+        "101": [
+            372.0,
+            374.0,
+            "Rostelli's tactical choice"
+        ],
+        "102": [
+            374.0,
+            376.0,
+            "Rostelli's tactical choice"
+        ],
+        "103": [
+            376.0,
+            378.0,
+            "Rostelli's tactical choice"
+        ],
+        "104": [
+            378.0,
+            380.0,
+            "Rostelli's tactical choice"
+        ],
+        "105": [
+            380.0,
+            382.0,
+            "Rostelli's tactical choice"
+        ],
+        "106": [
+            382.0,
+            384.0,
+            "Rostelli's tactical choice"
+        ],
+        "107": [
+            384.0,
+            386.0,
+            "Rostelli's tactical choice"
+        ],
+        "108": [
+            386.0,
+            388.0,
+            "Rostelli's tactical choice"
+        ],
+        "109": [
+            388.0,
+            390.0,
+            "Rostelli's tactical choice"
+        ],
+        "110": [
+            390.0,
+            392.0,
+            "Rostelli's tactical choice"
+        ],
+        "111": [
+            392.0,
+            394.0,
+            "Rostelli's tactical choice"
+        ],
+        "112": [
+            394.0,
+            396.0,
+            "Rostelli's tactical choice"
+        ],
+        "113": [
+            396.0,
+            398.0,
+            "Rostelli's tactical choice"
+        ],
+        "114": [
+            398.0,
+            400.0,
+            "Rostelli's tactical choice"
+        ],
+        "115": [
+            400.0,
+            402.0,
+            "Rostelli's tactical choice"
+        ],
+        "116": [
+            402.0,
+            404.0,
+            "Rostelli's tactical choice"
+        ],
+        "117": [
+            404.0,
+            406.0,
+            "Rostelli's tactical choice"
+        ],
+        "118": [
+            406.0,
+            408.0,
+            "Rostelli's tactical choice"
+        ],
+        "119": [
+            408.0,
+            410.0,
+            "Rostelli's tactical choice"
+        ],
+        "120": [
+            410.0,
+            412.0,
+            "Rostelli's tactical choice"
+        ],
+        "121": [
+            412.0,
+            414.0,
+            "Rostelli's tactical choice"
+        ],
+        "122": [
+            414.0,
+            416.0,
+            "Rostelli's tactical choice"
+        ],
+        "123": [
+            416.0,
+            418.0,
+            "Rostelli's tactical choice"
+        ],
+        "124": [
+            418.0,
+            420.0,
+            "Rostelli's tactical choice"
+        ],
+        "125": [
+            420.0,
+            422.0,
+            "Rostelli's tactical choice"
+        ],
+        "126": [
+            422.0,
+            424.0,
+            "Rostelli's tactical choice"
+        ],
+        "127": [
+            424.0,
+            426.0,
+            "Rostelli's tactical choice"
+        ],
+        "128": [
+            426.0,
+            428.0,
+            "Rostelli's tactical choice"
+        ],
+        "129": [
+            428.0,
+            430.0,
+            "Rostelli's tactical choice"
+        ],
+        "130": [
+            430.0,
+            432.0,
+            "Rostelli's tactical choice"
+        ],
+        "131": [
+            432.0,
+            434.0,
+            "Rostelli's tactical choice"
+        ],
+        "132": [
+            434.0,
+            436.0,
+            "Rostelli's tactical choice"
+        ],
+        "133": [
+            436.0,
+            438.0,
+            "Rostelli's tactical choice"
+        ],
+        "134": [
+            438.0,
+            440.0,
+            "Rostelli's tactical choice"
+        ],
+        "135": [
+            440.0,
+            442.0,
+            "Rostelli's tactical choice"
+        ],
+        "136": [
+            442.0,
+            444.0,
+            "Rostelli's tactical choice"
+        ],
+        "137": [
+            444.0,
+            446.0,
+            "Rostelli's tactical choice"
+        ],
+        "138": [
+            446.0,
+            448.0,
+            "Rostelli's tactical choice"
+        ],
+        "139": [
+            448.0,
+            450.0,
+            "Rostelli's tactical choice"
+        ],
+        "140": [
+            450.0,
+            452.0,
+            "Rostelli's tactical choice"
+        ],
+        "141": [
+            452.0,
+            454.0,
+            "Rostelli's tactical choice"
+        ],
+        "142": [
+            454.0,
+            456.0,
+            "Rostelli's tactical choice"
+        ],
+        "143": [
+            456.0,
+            458.0,
+            "Rostelli's tactical choice"
+        ],
+        "144": [
+            458.0,
+            460.0,
+            "Rostelli's tactical choice"
+        ],
+        "145": [
+            460.0,
+            462.0,
+            "Rostelli's tactical choice"
+        ],
+        "146": [
+            462.0,
+            464.0,
+            "Rostelli's tactical choice"
+        ],
+        "147": [
+            464.0,
+            466.0,
+            "Rostelli's tactical choice"
+        ],
+        "148": [
+            466.0,
+            468.0,
+            "Rostelli's tactical choice"
+        ],
+        "149": [
+            468.0,
+            470.0,
+            "Rostelli's tactical choice"
+        ],
+        "150": [
+            470.0,
+            472.0,
+            "Rostelli's tactical choice"
+        ],
+        "151": [
+            472.0,
+            474.0,
+            "Rostelli's tactical choice"
+        ],
+        "152": [
+            474.0,
+            476.0,
+            "Rostelli's tactical choice"
+        ],
+        "153": [
+            476.0,
+            478.0,
+            "Rostelli's tactical choice"
+        ],
+        "154": [
+            478.0,
+            480.0,
+            "Rostelli's tactical choice"
+        ],
+        "155": [
+            480.0,
+            482.0,
+            "Rostelli's tactical choice"
+        ],
+        "156": [
+            482.0,
+            484.0,
+            "Rostelli's tactical choice"
+        ],
+        "157": [
+            484.0,
+            486.0,
+            "Rostelli's tactical choice"
+        ],
+        "158": [
+            486.0,
+            488.0,
+            "Rostelli's tactical choice"
+        ],
+        "159": [
+            488.0,
+            490.0,
+            "Rostelli's tactical choice"
+        ],
+        "160": [
+            490.0,
+            492.0,
+            "Rostelli's tactical choice"
+        ],
+        "161": [
+            492.0,
+            494.0,
+            "Rostelli's tactical choice"
+        ],
+        "162": [
+            494.0,
+            496.0,
+            "Rostelli's tactical choice"
+        ],
+        "163": [
+            496.0,
+            498.0,
+            "Rostelli's tactical choice"
+        ],
+        "164": [
+            498.0,
+            500.0,
+            "Rostelli's tactical choice"
+        ],
+        "165": [
+            500.0,
+            502.0,
+            "Rostelli's tactical choice"
+        ],
+        "166": [
+            502.0,
+            504.0,
+            "Rostelli's tactical choice"
+        ],
+        "167": [
+            504.0,
+            506.0,
+            "Rostelli's tactical choice"
+        ],
+        "168": [
+            506.0,
+            508.0,
+            "Rostelli's tactical choice"
+        ],
+        "169": [
+            508.0,
+            510.0,
+            "Rostelli's tactical choice"
+        ],
+        "170": [
+            510.0,
+            512.0,
+            "Rostelli's tactical choice"
+        ],
+        "171": [
+            512.0,
+            514.0,
+            "Rostelli's tactical choice"
+        ],
+        "172": [
+            514.0,
+            516.0,
+            "Rostelli's tactical choice"
+        ],
+        "173": [
+            516.0,
+            518.0,
+            "Rostelli's tactical choice"
+        ],
+        "174": [
+            518.0,
+            520.0,
+            "Rostelli's tactical choice"
+        ],
+        "175": [
+            520.0,
+            522.0,
+            "Rostelli's tactical choice"
+        ],
+        "176": [
+            522.0,
+            524.0,
+            "Rostelli's tactical choice"
+        ],
+        "177": [
+            524.0,
+            526.0,
+            "Rostelli's tactical choice"
+        ],
+        "178": [
+            526.0,
+            528.0,
+            "Rostelli's tactical choice"
+        ],
+        "179": [
+            528.0,
+            530.0,
+            "Rostelli's tactical choice"
+        ],
+        "180": [
+            530.0,
+            532.0,
+            "Rostelli's tactical choice"
+        ],
+        "181": [
+            532.0,
+            534.0,
+            "Rostelli's tactical choice"
+        ],
+        "182": [
+            534.0,
+            536.0,
+            "Rostelli's tactical choice"
+        ],
+        "183": [
+            536.0,
+            538.0,
+            "Rostelli's tactical choice"
+        ],
+        "184": [
+            538.0,
+            540.0,
+            "Rostelli's tactical choice"
+        ],
+        "185": [
+            540.0,
+            542.0,
+            "Rostelli's tactical choice"
+        ],
+        "186": [
+            542.0,
+            544.0,
+            "Rostelli's tactical choice"
+        ],
+        "187": [
+            544.0,
+            546.0,
+            "Rostelli's tactical choice"
+        ],
+        "188": [
+            546.0,
+            548.0,
+            "Rostelli's tactical choice"
+        ],
+        "189": [
+            548.0,
+            550.0,
+            "Rostelli's tactical choice"
+        ],
+        "190": [
+            550.0,
+            552.0,
+            "Rostelli's tactical choice"
+        ],
+        "191": [
+            552.0,
+            554.0,
+            "Rostelli's tactical choice"
+        ],
+        "192": [
+            554.0,
+            556.0,
+            "Rostelli's tactical choice"
+        ],
+        "193": [
+            556.0,
+            558.0,
+            "Rostelli's tactical choice"
+        ],
+        "194": [
+            558.0,
+            560.0,
+            "Rostelli's tactical choice"
+        ],
+        "195": [
+            560.0,
+            562.0,
+            "Rostelli's tactical choice"
+        ],
+        "196": [
+            562.0,
+            564.0,
+            "Rostelli's tactical choice"
+        ],
+        "197": [
+            564.0,
+            566.0,
+            "Rostelli's tactical choice"
+        ],
+        "198": [
+            566.0,
+            568.0,
+            "Rostelli's tactical choice"
+        ],
+        "199": [
+            568.0,
+            570.0,
+            "Rostelli's tactical choice"
+        ],
+        "200": [
+            570.0,
+            572.0,
+            "Rostelli's tactical choice"
+        ],
+        "201": [
+            572.0,
+            574.0,
+            "Rostelli's tactical choice"
+        ],
+        "202": [
+            574.0,
+            576.0,
+            "Rostelli's tactical choice"
+        ],
+        "203": [
+            576.0,
+            578.0,
+            "Rostelli's tactical choice"
+        ],
+        "204": [
+            578.0,
+            580.0,
+            "Rostelli's tactical choice"
+        ],
+        "205": [
+            580.0,
+            582.0,
+            "Rostelli's tactical choice"
+        ],
+        "206": [
+            582.0,
+            584.0,
+            "Rostelli's tactical choice"
+        ],
+        "207": [
+            584.0,
+            586.0,
+            "Rostelli's tactical choice"
+        ],
+        "208": [
+            586.0,
+            588.0,
+            "Rostelli's tactical choice"
+        ],
+        "209": [
+            588.0,
+            590.0,
+            "Rostelli's tactical choice"
+        ],
+        "210": [
+            590.0,
+            592.0,
+            "Rostelli's tactical choice"
+        ],
+        "211": [
+            592.0,
+            594.0,
+            "Rostelli's tactical choice"
+        ],
+        "212": [
+            594.0,
+            596.0,
+            "Rostelli's tactical choice"
+        ],
+        "213": [
+            596.0,
+            598.0,
+            "Rostelli's tactical choice"
+        ],
+        "214": [
+            598.0,
+            600.0,
+            "Rostelli's tactical choice"
+        ],
+        "215": [
+            600.0,
+            602.0,
+            "Rostelli's tactical choice"
+        ],
+        "216": [
+            602.0,
+            604.0,
+            "Rostelli's tactical choice"
+        ],
+        "217": [
+            604.0,
+            606.0,
+            "Rostelli's tactical choice"
+        ],
+        "218": [
+            606.0,
+            608.0,
+            "Rostelli's tactical choice"
+        ],
+        "219": [
+            608.0,
+            610.0,
+            "Rostelli's tactical choice"
+        ],
+        "220": [
+            610.0,
+            612.0,
+            "Rostelli's tactical choice"
+        ],
+        "221": [
+            612.0,
+            614.0,
+            "Rostelli's tactical choice"
+        ],
+        "222": [
+            614.0,
+            616.0,
+            "Rostelli's tactical choice"
+        ],
+        "223": [
+            616.0,
+            618.0,
+            "Rostelli's tactical choice"
+        ],
+        "224": [
+            618.0,
+            620.0,
+            "Rostelli's tactical choice"
+        ],
+        "225": [
+            620.0,
+            622.0,
+            "Rostelli's tactical choice"
+        ],
+        "226": [
+            622.0,
+            624.0,
+            "Rostelli's tactical choice"
+        ],
+        "227": [
+            624.0,
+            626.0,
+            "Rostelli's tactical choice"
+        ],
+        "228": [
+            626.0,
+            628.0,
+            "Rostelli's tactical choice"
+        ],
+        "229": [
+            628.0,
+            630.0,
+            "Rostelli's tactical choice"
+        ],
+        "230": [
+            630.0,
+            632.0,
+            "Rostelli's tactical choice"
+        ],
+        "231": [
+            632.0,
+            634.0,
+            "Rostelli's tactical choice"
+        ],
+        "232": [
+            634.0,
+            636.0,
+            "Rostelli's tactical choice"
+        ],
+        "233": [
+            636.0,
+            638.0,
+            "Rostelli's tactical choice"
+        ],
+        "234": [
+            638.0,
+            640.0,
+            "Rostelli's tactical choice"
+        ],
+        "235": [
+            640.0,
+            642.0,
+            "Rostelli's tactical choice"
+        ],
+        "236": [
+            642.0,
+            644.0,
+            "Rostelli's tactical choice"
+        ],
+        "237": [
+            644.0,
+            646.0,
+            "Rostelli's tactical choice"
+        ],
+        "238": [
+            646.0,
+            648.0,
+            "Rostelli's tactical choice"
+        ],
+        "239": [
+            648.0,
+            650.0,
+            "Rostelli's tactical choice"
+        ],
+        "240": [
+            650.0,
+            652.0,
+            "Rostelli's tactical choice"
+        ],
+        "241": [
+            652.0,
+            654.0,
+            "Rostelli's tactical choice"
+        ],
+        "242": [
+            654.0,
+            656.0,
+            "Rostelli's tactical choice"
+        ],
+        "243": [
+            656.0,
+            658.0,
+            "Rostelli's tactical choice"
+        ],
+        "244": [
+            658.0,
+            660.0,
+            "Rostelli's tactical choice"
+        ],
+        "245": [
+            660.0,
+            662.0,
+            "Rostelli's tactical choice"
+        ],
+        "246": [
+            662.0,
+            664.0,
+            "Rostelli's tactical choice"
+        ],
+        "247": [
+            664.0,
+            666.0,
+            "Rostelli's tactical choice"
+        ],
+        "248": [
+            666.0,
+            668.0,
+            "Rostelli's tactical choice"
+        ],
+        "249": [
+            668.0,
+            670.0,
+            "Rostelli's tactical choice"
+        ],
+        "250": [
+            670.0,
+            672.0,
+            "Rostelli's tactical choice"
+        ],
+        "251": [
+            672.0,
+            674.0,
+            "Rostelli's tactical choice"
+        ],
+        "252": [
+            674.0,
+            676.0,
+            "Rostelli's tactical choice"
+        ],
+        "253": [
+            676.0,
+            678.0,
+            "Rostelli's tactical choice"
+        ],
+        "254": [
+            678.0,
+            680.0,
+            "Rostelli's tactical choice"
+        ],
+        "255": [
+            680.0,
+            682.0,
+            "Rostelli's tactical choice"
+        ],
+        "256": [
+            682.0,
+            684.0,
+            "Rostelli's tactical choice"
+        ],
+        "257": [
+            684.0,
+            686.0,
+            "Rostelli's tactical choice"
+        ],
+        "258": [
+            686.0,
+            688.0,
+            "Rostelli's tactical choice"
+        ],
+        "259": [
+            688.0,
+            690.0,
+            "Rostelli's tactical choice"
+        ],
+        "260": [
+            690.0,
+            692.0,
+            "Rostelli's tactical choice"
+        ],
+        "261": [
+            692.0,
+            694.0,
+            "Rostelli's tactical choice"
+        ],
+        "262": [
+            694.0,
+            696.0,
+            "Rostelli's tactical choice"
+        ],
+        "263": [
+            696.0,
+            698.0,
+            "Rostelli's tactical choice"
+        ],
+        "264": [
+            698.0,
+            700.0,
+            "Rostelli's tactical choice"
+        ],
+        "265": [
+            700.0,
+            702.0,
+            "Rostelli's tactical choice"
+        ],
+        "266": [
+            702.0,
+            704.0,
+            "Rostelli's tactical choice"
+        ],
+        "267": [
+            704.0,
+            706.0,
+            "Rostelli's tactical choice"
+        ],
+        "268": [
+            706.0,
+            708.0,
+            "Rostelli's tactical choice"
+        ],
+        "269": [
+            708.0,
+            710.0,
+            "Rostelli's tactical choice"
+        ],
+        "270": [
+            710.0,
+            712.0,
+            "Rostelli's tactical choice"
+        ],
+        "271": [
+            712.0,
+            714.0,
+            "Rostelli's tactical choice"
+        ],
+        "272": [
+            714.0,
+            716.0,
+            "Rostelli's tactical choice"
+        ],
+        "273": [
+            716.0,
+            718.0,
+            "Rostelli's tactical choice"
+        ],
+        "274": [
+            718.0,
+            720.0,
+            "Rostelli's tactical choice"
+        ],
+        "275": [
+            720.0,
+            722.0,
+            "Rostelli's tactical choice"
+        ],
+        "276": [
+            722.0,
+            724.0,
+            "Rostelli's tactical choice"
+        ],
+        "277": [
+            724.0,
+            726.0,
+            "Rostelli's tactical choice"
+        ],
+        "278": [
+            726.0,
+            728.0,
+            "Rostelli's tactical choice"
+        ],
+        "279": [
+            728.0,
+            730.0,
+            "Rostelli's tactical choice"
+        ],
+        "280": [
+            730.0,
+            732.0,
+            "Rostelli's tactical choice"
+        ],
+        "281": [
+            732.0,
+            734.0,
+            "Rostelli's tactical choice"
+        ],
+        "282": [
+            734.0,
+            736.0,
+            "Rostelli's tactical choice"
+        ],
+        "283": [
+            736.0,
+            738.0,
+            "Rostelli's tactical choice"
+        ],
+        "284": [
+            738.0,
+            740.0,
+            "Rostelli's tactical choice"
+        ],
+        "285": [
+            740.0,
+            742.0,
+            "Rostelli's tactical choice"
+        ],
+        "286": [
+            742.0,
+            744.0,
+            "Rostelli's tactical choice"
+        ],
+        "287": [
+            744.0,
+            746.0,
+            "Rostelli's tactical choice"
+        ],
+        "288": [
+            746.0,
+            748.0,
+            "Rostelli's tactical choice"
+        ],
+        "289": [
+            748.0,
+            750.0,
+            "Rostelli's tactical choice"
+        ],
+        "290": [
+            750.0,
+            752.0,
+            "Rostelli's tactical choice"
+        ],
+        "291": [
+            752.0,
+            754.0,
+            "Rostelli's tactical choice"
+        ],
+        "292": [
+            754.0,
+            756.0,
+            "Rostelli's tactical choice"
+        ],
+        "293": [
+            756.0,
+            758.0,
+            "Rostelli's tactical choice"
+        ],
+        "294": [
+            758.0,
+            760.0,
+            "Rostelli's tactical choice"
+        ],
+        "295": [
+            760.0,
+            762.0,
+            "Rostelli's tactical choice"
+        ],
+        "296": [
+            762.0,
+            764.0,
+            "Rostelli's tactical choice"
+        ],
+        "297": [
+            764.0,
+            766.0,
+            "Rostelli's tactical choice"
+        ],
+        "298": [
+            766.0,
+            768.0,
+            "Rostelli's tactical choice"
+        ],
+        "299": [
+            768.0,
+            770.0,
+            "Rostelli's tactical choice"
+        ],
+        "300": [
+            770.0,
+            772.0,
+            "Rostelli's tactical choice"
+        ],
+        "301": [
+            772.0,
+            774.0,
+            "Rostelli's tactical choice"
+        ],
+        "302": [
+            774.0,
+            776.0,
+            "Rostelli's tactical choice"
+        ],
+        "303": [
+            776.0,
+            778.0,
+            "Rostelli's tactical choice"
+        ],
+        "304": [
+            778.0,
+            780.0,
+            "Rostelli's tactical choice"
+        ],
+        "305": [
+            780.0,
+            782.0,
+            "Rostelli's tactical choice"
+        ],
+        "306": [
+            782.0,
+            784.0,
+            "Rostelli's tactical choice"
+        ],
+        "307": [
+            784.0,
+            786.0,
+            "Rostelli's tactical choice"
+        ],
+        "308": [
+            786.0,
+            788.0,
+            "Rostelli's tactical choice"
+        ],
+        "309": [
+            788.0,
+            790.0,
+            "Rostelli's tactical choice"
+        ],
+        "310": [
+            790.0,
+            792.0,
+            "Rostelli's tactical choice"
+        ],
+        "311": [
+            792.0,
+            794.0,
+            "Rostelli's tactical choice"
+        ],
+        "312": [
+            794.0,
+            796.0,
+            "Rostelli's tactical choice"
+        ],
+        "313": [
+            796.0,
+            798.0,
+            "Rostelli's tactical choice"
+        ],
+        "314": [
+            798.0,
+            800.0,
+            "Rostelli's tactical choice"
+        ],
+        "315": [
+            800.0,
+            802.0,
+            "Rostelli's tactical choice"
+        ],
+        "316": [
+            802.0,
+            804.0,
+            "Rostelli's tactical choice"
+        ],
+        "317": [
+            804.0,
+            806.0,
+            "Rostelli's tactical choice"
+        ],
+        "318": [
+            806.0,
+            808.0,
+            "Rostelli's tactical choice"
+        ],
+        "319": [
+            808.0,
+            810.0,
+            "Rostelli's tactical choice"
+        ],
+        "320": [
+            810.0,
+            812.0,
+            "Rostelli's tactical choice"
+        ],
+        "321": [
+            812.0,
+            814.0,
+            "Rostelli's tactical choice"
+        ],
+        "322": [
+            814.0,
+            816.0,
+            "Rostelli's tactical choice"
+        ],
+        "323": [
+            816.0,
+            818.0,
+            "Rostelli's tactical choice"
+        ],
+        "324": [
+            818.0,
+            820.0,
+            "Rostelli's tactical choice"
+        ],
+        "325": [
+            820.0,
+            822.0,
+            "Rostelli's tactical choice"
+        ],
+        "326": [
+            822.0,
+            824.0,
+            "Rostelli's tactical choice"
+        ],
+        "327": [
+            824.0,
+            826.0,
+            "Rostelli's tactical choice"
+        ],
+        "328": [
+            826.0,
+            828.0,
+            "Rostelli's tactical choice"
+        ],
+        "329": [
+            828.0,
+            830.0,
+            "Rostelli's tactical choice"
+        ],
+        "330": [
+            830.0,
+            832.0,
+            "Rostelli's tactical choice"
+        ],
+        "331": [
+            832.0,
+            834.0,
+            "Rostelli's tactical choice"
+        ],
+        "332": [
+            834.0,
+            836.0,
+            "Rostelli's tactical choice"
+        ],
+        "333": [
+            836.0,
+            838.0,
+            "Rostelli's tactical choice"
+        ],
+        "334": [
+            838.0,
+            840.0,
+            "Rostelli's tactical choice"
+        ],
+        "335": [
+            840.0,
+            842.0,
+            "Rostelli's tactical choice"
+        ],
+        "336": [
+            842.0,
+            844.0,
+            "Rostelli's tactical choice"
+        ],
+        "337": [
+            844.0,
+            846.0,
+            "Rostelli's tactical choice"
+        ],
+        "338": [
+            846.0,
+            848.0,
+            "Rostelli's tactical choice"
+        ],
+        "339": [
+            848.0,
+            850.0,
+            "Rostelli's tactical choice"
+        ],
+        "340": [
+            850.0,
+            852.0,
+            "Rostelli's tactical choice"
+        ],
+        "341": [
+            852.0,
+            854.0,
+            "Rostelli's tactical choice"
+        ],
+        "342": [
+            854.0,
+            856.0,
+            "Rostelli's tactical choice"
+        ],
+        "343": [
+            856.0,
+            858.0,
+            "Rostelli's tactical choice"
+        ],
+        "344": [
+            858.0,
+            860.0,
+            "Rostelli's tactical choice"
+        ],
+        "345": [
+            860.0,
+            862.0,
+            "Rostelli's tactical choice"
+        ],
+        "346": [
+            862.0,
+            864.0,
+            "Rostelli's tactical choice"
+        ],
+        "347": [
+            864.0,
+            866.0,
+            "Rostelli's tactical choice"
+        ],
+        "348": [
+            866.0,
+            868.0,
+            "Rostelli's tactical choice"
+        ],
+        "349": [
+            868.0,
+            870.0,
+            "Rostelli's tactical choice"
+        ],
+        "350": [
+            870.0,
+            872.0,
+            "Rostelli's tactical choice"
+        ],
+        "351": [
+            872.0,
+            874.0,
+            "Rostelli's tactical choice"
+        ],
+        "352": [
+            874.0,
+            876.0,
+            "Rostelli's tactical choice"
+        ],
+        "353": [
+            876.0,
+            878.0,
+            "Rostelli's tactical choice"
+        ],
+        "354": [
+            878.0,
+            880.0,
+            "Rostelli's tactical choice"
+        ],
+        "355": [
+            880.0,
+            882.0,
+            "Rostelli's tactical choice"
+        ],
+        "356": [
+            882.0,
+            884.0,
+            "Rostelli's tactical choice"
+        ],
+        "357": [
+            884.0,
+            886.0,
+            "Rostelli's tactical choice"
+        ],
+        "358": [
+            886.0,
+            888.0,
+            "Rostelli's tactical choice"
+        ],
+        "359": [
+            888.0,
+            890.0,
+            "Rostelli's tactical choice"
+        ],
+        "360": [
+            890.0,
+            892.0,
+            "Rostelli's tactical choice"
+        ],
+        "361": [
+            892.0,
+            894.0,
+            "Rostelli's tactical choice"
+        ],
+        "362": [
+            894.0,
+            896.0,
+            "Rostelli's tactical choice"
+        ],
+        "363": [
+            896.0,
+            898.0,
+            "Rostelli's tactical choice"
+        ],
+        "364": [
+            898.0,
+            900.0,
+            "Rostelli's tactical choice"
+        ],
+        "365": [
+            900.0,
+            902.0,
+            "Rostelli's tactical choice"
+        ],
+        "366": [
+            902.0,
+            904.0,
+            "Rostelli's tactical choice"
+        ],
+        "367": [
+            904.0,
+            906.0,
+            "Rostelli's tactical choice"
+        ],
+        "368": [
+            906.0,
+            908.0,
+            "Rostelli's tactical choice"
+        ],
+        "369": [
+            908.0,
+            910.0,
+            "Rostelli's tactical choice"
+        ],
+        "370": [
+            910.0,
+            912.0,
+            "Rostelli's tactical choice"
+        ],
+        "371": [
+            912.0,
+            914.0,
+            "Rostelli's tactical choice"
+        ],
+        "372": [
+            914.0,
+            916.0,
+            "Rostelli's tactical choice"
+        ],
+        "373": [
+            916.0,
+            918.0,
+            "Rostelli's tactical choice"
+        ],
+        "374": [
+            918.0,
+            920.0,
+            "Rostelli's tactical choice"
+        ],
+        "375": [
+            920.0,
+            922.0,
+            "Rostelli's tactical choice"
+        ],
+        "376": [
+            922.0,
+            924.0,
+            "Rostelli's tactical choice"
+        ],
+        "377": [
+            924.0,
+            926.0,
+            "Rostelli's tactical choice"
+        ],
+        "378": [
+            926.0,
+            928.0,
+            "Rostelli's tactical choice"
+        ],
+        "379": [
+            928.0,
+            930.0,
+            "Rostelli's tactical choice"
+        ],
+        "380": [
+            930.0,
+            932.0,
+            "Rostelli's tactical choice"
+        ],
+        "381": [
+            932.0,
+            934.0,
+            "Rostelli's tactical choice"
+        ],
+        "382": [
+            934.0,
+            936.0,
+            "Rostelli's tactical choice"
+        ],
+        "383": [
+            936.0,
+            938.0,
+            "Rostelli's tactical choice"
+        ],
+        "384": [
+            938.0,
+            940.0,
+            "Rostelli's tactical choice"
+        ],
+        "385": [
+            940.0,
+            942.0,
+            "Rostelli's tactical choice"
+        ],
+        "386": [
+            942.0,
+            944.0,
+            "Rostelli's tactical choice"
+        ],
+        "387": [
+            944.0,
+            946.0,
+            "Rostelli's tactical choice"
+        ],
+        "388": [
+            946.0,
+            948.0,
+            "Rostelli's tactical choice"
+        ],
+        "389": [
+            948.0,
+            950.0,
+            "Rostelli's tactical choice"
+        ],
+        "390": [
+            950.0,
+            952.0,
+            "Rostelli's tactical choice"
+        ],
+        "391": [
+            952.0,
+            954.0,
+            "Rostelli's tactical choice"
+        ],
+        "392": [
+            954.0,
+            956.0,
+            "Rostelli's tactical choice"
+        ],
+        "393": [
+            956.0,
+            958.0,
+            "Rostelli's tactical choice"
+        ],
+        "394": [
+            958.0,
+            960.0,
+            "Rostelli's tactical choice"
+        ],
+        "395": [
+            960.0,
+            962.0,
+            "Rostelli's tactical choice"
+        ],
+        "396": [
+            962.0,
+            964.0,
+            "Rostelli's tactical choice"
+        ],
+        "397": [
+            964.0,
+            966.0,
+            "Rostelli's tactical choice"
+        ],
+        "398": [
+            966.0,
+            968.0,
+            "Rostelli's tactical choice"
+        ],
+        "399": [
+            968.0,
+            970.0,
+            "Rostelli's tactical choice"
+        ],
+        "400": [
+            970.0,
+            972.0,
+            "Rostelli's tactical choice"
+        ],
+        "401": [
+            972.0,
+            974.0,
+            "Rostelli's tactical choice"
+        ],
+        "402": [
+            974.0,
+            976.0,
+            "Rostelli's tactical choice"
+        ],
+        "403": [
+            976.0,
+            978.0,
+            "Rostelli's tactical choice"
+        ],
+        "404": [
+            978.0,
+            980.0,
+            "Rostelli's tactical choice"
+        ],
+        "405": [
+            980.0,
+            982.0,
+            "Rostelli's tactical choice"
+        ],
+        "406": [
+            982.0,
+            984.0,
+            "Rostelli's tactical choice"
+        ],
+        "407": [
+            984.0,
+            986.0,
+            "Rostelli's tactical choice"
+        ],
+        "408": [
+            986.0,
+            988.0,
+            "Rostelli's tactical choice"
+        ],
+        "409": [
+            988.0,
+            990.0,
+            "Rostelli's tactical choice"
+        ],
+        "410": [
+            990.0,
+            992.0,
+            "Rostelli's tactical choice"
+        ],
+        "411": [
+            992.0,
+            994.0,
+            "Rostelli's tactical choice"
+        ],
+        "412": [
+            994.0,
+            996.0,
+            "Rostelli's tactical choice"
+        ],
+        "413": [
+            996.0,
+            998.0,
+            "Rostelli's tactical choice"
+        ],
+        "414": [
+            998.0,
+            1000.0,
+            "Rostelli's tactical choice"
+        ],
+        "415": [
+            1000.0,
+            1002.0,
+            "Rostelli's tactical choice"
+        ],
+        "416": [
+            1002.0,
+            1004.0,
+            "Rostelli's tactical choice"
+        ],
+        "417": [
+            1004.0,
+            1006.0,
+            "Rostelli's tactical choice"
+        ],
+        "418": [
+            1006.0,
+            1008.0,
+            "Rostelli's tactical choice"
+        ],
+        "419": [
+            1008.0,
+            1010.0,
+            "Rostelli's tactical choice"
+        ],
+        "420": [
+            1010.0,
+            1012.0,
+            "Rostelli's tactical choice"
+        ],
+        "421": [
+            1012.0,
+            1014.0,
+            "Rostelli's tactical choice"
+        ],
+        "422": [
+            1014.0,
+            1016.0,
+            "Rostelli's tactical choice"
+        ],
+        "423": [
+            1016.0,
+            1018.0,
+            "Rostelli's tactical choice"
+        ],
+        "424": [
+            1018.0,
+            1020.0,
+            "Rostelli's tactical choice"
+        ],
+        "425": [
+            1020.0,
+            1022.0,
+            "Rostelli's tactical choice"
+        ],
+        "426": [
+            1022.0,
+            1024.0,
+            "Rostelli's tactical choice"
+        ],
+        "427": [
+            1024.0,
+            1026.0,
+            "Rostelli's tactical choice"
+        ],
+        "428": [
+            1026.0,
+            1028.0,
+            "Rostelli's tactical choice"
+        ],
+        "429": [
+            1028.0,
+            1030.0,
+            "Rostelli's tactical choice"
+        ],
+        "430": [
+            1030.0,
+            1032.0,
+            "Rostelli's tactical choice"
+        ],
+        "431": [
+            1032.0,
+            1034.0,
+            "Rostelli's tactical choice"
+        ],
+        "432": [
+            1034.0,
+            1036.0,
+            "Rostelli's tactical choice"
+        ],
+        "433": [
+            1036.0,
+            1038.0,
+            "Rostelli's tactical choice"
+        ],
+        "434": [
+            1038.0,
+            1040.0,
+            "Rostelli's tactical choice"
+        ],
+        "435": [
+            1040.0,
+            1042.0,
+            "Rostelli's tactical choice"
+        ],
+        "436": [
+            1042.0,
+            1044.0,
+            "Rostelli's tactical choice"
+        ],
+        "437": [
+            1044.0,
+            1046.0,
+            "Rostelli's tactical choice"
+        ],
+        "438": [
+            1046.0,
+            1048.0,
+            "Rostelli's tactical choice"
+        ],
+        "439": [
+            1048.0,
+            1050.0,
+            "Rostelli's tactical choice"
+        ],
+        "440": [
+            1050.0,
+            1052.0,
+            "Rostelli's tactical choice"
+        ],
+        "441": [
+            1052.0,
+            1054.0,
+            "Rostelli's tactical choice"
+        ],
+        "442": [
+            1054.0,
+            1056.0,
+            "Rostelli's tactical choice"
+        ],
+        "443": [
+            1056.0,
+            1058.0,
+            "Rostelli's tactical choice"
+        ],
+        "444": [
+            1058.0,
+            1060.0,
+            "Rostelli's tactical choice"
+        ],
+        "445": [
+            1060.0,
+            1062.0,
+            "Rostelli's tactical choice"
+        ],
+        "446": [
+            1062.0,
+            1064.0,
+            "Rostelli's tactical choice"
+        ],
+        "447": [
+            1064.0,
+            1066.0,
+            "Rostelli's tactical choice"
+        ],
+        "448": [
+            1066.0,
+            1068.0,
+            "Rostelli's tactical choice"
+        ],
+        "449": [
+            1068.0,
+            1070.0,
+            "Rostelli's tactical choice"
+        ],
+        "450": [
+            1070.0,
+            1072.0,
+            "Rostelli's tactical choice"
+        ],
+        "451": [
+            1072.0,
+            1074.0,
+            "Rostelli's tactical choice"
+        ],
+        "452": [
+            1074.0,
+            1076.0,
+            "Rostelli's tactical choice"
+        ],
+        "453": [
+            1076.0,
+            1078.0,
+            "Rostelli's tactical choice"
+        ],
+        "454": [
+            1078.0,
+            1080.0,
+            "Rostelli's tactical choice"
+        ],
+        "455": [
+            1080.0,
+            1082.0,
+            "Rostelli's tactical choice"
+        ],
+        "456": [
+            1082.0,
+            1084.0,
+            "Rostelli's tactical choice"
+        ],
+        "457": [
+            1084.0,
+            1086.0,
+            "Rostelli's tactical choice"
+        ],
+        "458": [
+            1086.0,
+            1088.0,
+            "Rostelli's tactical choice"
+        ],
+        "459": [
+            1088.0,
+            1090.0,
+            "Rostelli's tactical choice"
+        ],
+        "460": [
+            1090.0,
+            1092.0,
+            "Rostelli's tactical choice"
+        ],
+        "461": [
+            1092.0,
+            1094.0,
+            "Rostelli's tactical choice"
+        ],
+        "462": [
+            1094.0,
+            1096.0,
+            "Rostelli's tactical choice"
+        ],
+        "463": [
+            1096.0,
+            1098.0,
+            "Rostelli's tactical choice"
+        ],
+        "464": [
+            1098.0,
+            1100.0,
+            "Rostelli's tactical choice"
+        ],
+        "465": [
+            1100.0,
+            1102.0,
+            "Rostelli's tactical choice"
+        ],
+        "466": [
+            1102.0,
+            1104.0,
+            "Rostelli's tactical choice"
+        ],
+        "467": [
+            1104.0,
+            1106.0,
+            "Rostelli's tactical choice"
+        ],
+        "468": [
+            1106.0,
+            1108.0,
+            "Rostelli's tactical choice"
+        ],
+        "469": [
+            1108.0,
+            1110.0,
+            "Rostelli's tactical choice"
+        ],
+        "470": [
+            1110.0,
+            1112.0,
+            "Rostelli's tactical choice"
+        ],
+        "471": [
+            1112.0,
+            1114.0,
+            "Rostelli's tactical choice"
+        ],
+        "472": [
+            1114.0,
+            1116.0,
+            "Rostelli's tactical choice"
+        ],
+        "473": [
+            1116.0,
+            1118.0,
+            "Rostelli's tactical choice"
+        ],
+        "474": [
+            1118.0,
+            1120.0,
+            "Rostelli's tactical choice"
+        ],
+        "475": [
+            1120.0,
+            1122.0,
+            "Rostelli's tactical choice"
+        ],
+        "476": [
+            1122.0,
+            1124.0,
+            "Rostelli's tactical choice"
+        ],
+        "477": [
+            1124.0,
+            1126.0,
+            "Rostelli's tactical choice"
+        ],
+        "478": [
+            1126.0,
+            1128.0,
+            "Rostelli's tactical choice"
+        ],
+        "479": [
+            1128.0,
+            1130.0,
+            "Rostelli's tactical choice"
+        ],
+        "480": [
+            1130.0,
+            1132.0,
+            "Rostelli's tactical choice"
+        ],
+        "481": [
+            1132.0,
+            1134.0,
+            "Rostelli's tactical choice"
+        ],
+        "482": [
+            1134.0,
+            1136.0,
+            "Rostelli's tactical choice"
+        ],
+        "483": [
+            1136.0,
+            1138.0,
+            "Rostelli's tactical choice"
+        ],
+        "484": [
+            1138.0,
+            1140.0,
+            "Rostelli's tactical choice"
+        ],
+        "485": [
+            1140.0,
+            1142.0,
+            "Rostelli's tactical choice"
+        ],
+        "486": [
+            1142.0,
+            1144.0,
+            "Rostelli's tactical choice"
+        ],
+        "487": [
+            1144.0,
+            1146.0,
+            "Rostelli's tactical choice"
+        ],
+        "488": [
+            1146.0,
+            1148.0,
+            "Rostelli's tactical choice"
+        ],
+        "489": [
+            1148.0,
+            1150.0,
+            "Rostelli's tactical choice"
+        ],
+        "490": [
+            1150.0,
+            1152.0,
+            "Rostelli's tactical choice"
+        ],
+        "491": [
+            1152.0,
+            1154.0,
+            "Rostelli's tactical choice"
+        ],
+        "492": [
+            1154.0,
+            1156.0,
+            "Rostelli's tactical choice"
+        ],
+        "493": [
+            1156.0,
+            1158.0,
+            "Rostelli's tactical choice"
+        ],
+        "494": [
+            1158.0,
+            1160.0,
+            "Rostelli's tactical choice"
+        ],
+        "495": [
+            1160.0,
+            1162.0,
+            "Rostelli's tactical choice"
+        ],
+        "496": [
+            1162.0,
+            1164.0,
+            "Rostelli's tactical choice"
+        ],
+        "497": [
+            1164.0,
+            1166.0,
+            "Rostelli's tactical choice"
+        ],
+        "498": [
+            1166.0,
+            1168.0,
+            "Rostelli's tactical choice"
+        ],
+        "499": [
+            1168.0,
+            1170.0,
+            "Rostelli's tactical choice"
+        ],
+        "500": [
+            1170.0,
+            1172.0,
+            "Rostelli's tactical choice"
+        ],
+        "501": [
+            1172.0,
+            1174.0,
+            "Rostelli's tactical choice"
+        ],
+        "502": [
+            1174.0,
+            1176.0,
+            "Rostelli's tactical choice"
+        ],
+        "503": [
+            1176.0,
+            1178.0,
+            "Rostelli's tactical choice"
+        ],
+        "504": [
+            1178.0,
+            1180.0,
+            "Rostelli's tactical choice"
+        ],
+        "505": [
+            1180.0,
+            1182.0,
+            "Rostelli's tactical choice"
+        ],
+        "506": [
+            1182.0,
+            1184.0,
+            "Rostelli's tactical choice"
+        ],
+        "507": [
+            1184.0,
+            1186.0,
+            "Rostelli's tactical choice"
+        ],
+        "508": [
+            1186.0,
+            1188.0,
+            "Rostelli's tactical choice"
+        ],
+        "509": [
+            1188.0,
+            1190.0,
+            "Rostelli's tactical choice"
+        ],
+        "510": [
+            1190.0,
+            1192.0,
+            "Rostelli's tactical choice"
+        ],
+        "511": [
+            1192.0,
+            1194.0,
+            "Rostelli's tactical choice"
+        ],
+        "512": [
+            1194.0,
+            1196.0,
+            "Rostelli's tactical choice"
+        ],
+        "513": [
+            1196.0,
+            1198.0,
+            "Rostelli's tactical choice"
+        ],
+        "514": [
+            1198.0,
+            1200.0,
+            "Rostelli's tactical choice"
+        ],
+        "515": [
+            1200.0,
+            1202.0,
+            "Rostelli's tactical choice"
+        ],
+        "516": [
+            1202.0,
+            1204.0,
+            "Rostelli's tactical choice"
+        ],
+        "517": [
+            1204.0,
+            1206.0,
+            "Rostelli's tactical choice"
+        ],
+        "518": [
+            1206.0,
+            1208.0,
+            "Rostelli's tactical choice"
+        ],
+        "519": [
+            1208.0,
+            1210.0,
+            "Rostelli's tactical choice"
+        ],
+        "520": [
+            1210.0,
+            1212.0,
+            "Rostelli's tactical choice"
+        ],
+        "521": [
+            1212.0,
+            1214.0,
+            "Rostelli's tactical choice"
+        ],
+        "522": [
+            1214.0,
+            1216.0,
+            "Rostelli's tactical choice"
+        ],
+        "523": [
+            1216.0,
+            1218.0,
+            "Rostelli's tactical choice"
+        ],
+        "524": [
+            1218.0,
+            1220.0,
+            "Rostelli's tactical choice"
+        ],
+        "525": [
+            1220.0,
+            1222.0,
+            "Rostelli's tactical choice"
+        ],
+        "526": [
+            1222.0,
+            1224.0,
+            "Rostelli's tactical choice"
+        ],
+        "527": [
+            1224.0,
+            1226.0,
+            "Rostelli's tactical choice"
+        ],
+        "528": [
+            1226.0,
+            1228.0,
+            "Rostelli's tactical choice"
+        ],
+        "529": [
+            1228.0,
+            1230.0,
+            "Rostelli's tactical choice"
+        ],
+        "530": [
+            1230.0,
+            1232.0,
+            "Rostelli's tactical choice"
+        ],
+        "531": [
+            1232.0,
+            1234.0,
+            "Rostelli's tactical choice"
+        ],
+        "532": [
+            1234.0,
+            1236.0,
+            "Rostelli's tactical choice"
+        ],
+        "533": [
+            1236.0,
+            1238.0,
+            "Rostelli's tactical choice"
+        ],
+        "534": [
+            1238.0,
+            1240.0,
+            "Rostelli's tactical choice"
+        ],
+        "535": [
+            1240.0,
+            1242.0,
+            "Rostelli's tactical choice"
+        ],
+        "536": [
+            1242.0,
+            1244.0,
+            "Rostelli's tactical choice"
+        ],
+        "537": [
+            1244.0,
+            1246.0,
+            "Rostelli's tactical choice"
+        ],
+        "538": [
+            1246.0,
+            1248.0,
+            "Rostelli's tactical choice"
+        ],
+        "539": [
+            1248.0,
+            1250.0,
+            "Rostelli's tactical choice"
+        ],
+        "540": [
+            1250.0,
+            1252.0,
+            "Rostelli's tactical choice"
+        ],
+        "541": [
+            1252.0,
+            1254.0,
+            "Rostelli's tactical choice"
+        ],
+        "542": [
+            1254.0,
+            1256.0,
+            "Rostelli's tactical choice"
+        ],
+        "543": [
+            1256.0,
+            1258.0,
+            "Rostelli's tactical choice"
+        ],
+        "544": [
+            1258.0,
+            1260.0,
+            "Rostelli's tactical choice"
+        ],
+        "545": [
+            1260.0,
+            1262.0,
+            "Rostelli's tactical choice"
+        ],
+        "546": [
+            1262.0,
+            1264.0,
+            "Rostelli's tactical choice"
+        ],
+        "547": [
+            1264.0,
+            1266.0,
+            "Rostelli's tactical choice"
+        ],
+        "548": [
+            1266.0,
+            1268.0,
+            "Rostelli's tactical choice"
+        ],
+        "549": [
+            1268.0,
+            1270.0,
+            "Rostelli's tactical choice"
+        ],
+        "550": [
+            1270.0,
+            1272.0,
+            "Rostelli's tactical choice"
+        ],
+        "551": [
+            1272.0,
+            1274.0,
+            "Rostelli's tactical choice"
+        ],
+        "552": [
+            1274.0,
+            1276.0,
+            "Rostelli's tactical choice"
+        ],
+        "553": [
+            1276.0,
+            1278.0,
+            "Rostelli's tactical choice"
+        ],
+        "554": [
+            1278.0,
+            1280.0,
+            "Rostelli's tactical choice"
+        ],
+        "555": [
+            1280.0,
+            1282.0,
+            "Rostelli's tactical choice"
+        ],
+        "556": [
+            1282.0,
+            1284.0,
+            "Rostelli's tactical choice"
+        ],
+        "557": [
+            1284.0,
+            1286.0,
+            "Rostelli's tactical choice"
+        ],
+        "558": [
+            1286.0,
+            1288.0,
+            "Rostelli's tactical choice"
+        ],
+        "559": [
+            1288.0,
+            1290.0,
+            "Rostelli's tactical choice"
+        ],
+        "560": [
+            1290.0,
+            1292.0,
+            "Rostelli's tactical choice"
+        ],
+        "561": [
+            1292.0,
+            1294.0,
+            "Rostelli's tactical choice"
+        ],
+        "562": [
+            1294.0,
+            1296.0,
+            "Rostelli's tactical choice"
+        ],
+        "563": [
+            1296.0,
+            1298.0,
+            "Rostelli's tactical choice"
+        ],
+        "564": [
+            1298.0,
+            1300.0,
+            "Rostelli's tactical choice"
+        ],
+        "565": [
+            1300.0,
+            1302.0,
+            "Rostelli's tactical choice"
+        ],
+        "566": [
+            1302.0,
+            1304.0,
+            "Rostelli's tactical choice"
+        ],
+        "567": [
+            1304.0,
+            1306.0,
+            "Rostelli's tactical choice"
+        ],
+        "568": [
+            1306.0,
+            1308.0,
+            "Rostelli's tactical choice"
+        ],
+        "569": [
+            1308.0,
+            1310.0,
+            "Rostelli's tactical choice"
+        ],
+        "570": [
+            1310.0,
+            1312.0,
+            "Rostelli's tactical choice"
+        ],
+        "571": [
+            1312.0,
+            1314.0,
+            "Rostelli's tactical choice"
+        ],
+        "572": [
+            1314.0,
+            1316.0,
+            "Rostelli's tactical choice"
+        ],
+        "573": [
+            1316.0,
+            1318.0,
+            "Rostelli's tactical choice"
+        ],
+        "574": [
+            1318.0,
+            1320.0,
+            "Rostelli's tactical choice"
+        ],
+        "575": [
+            1320.0,
+            1322.0,
+            "Rostelli's tactical choice"
+        ],
+        "576": [
+            1322.0,
+            1324.0,
+            "Rostelli's tactical choice"
+        ],
+        "577": [
+            1324.0,
+            1326.0,
+            "Rostelli's tactical choice"
+        ],
+        "578": [
+            1326.0,
+            1328.0,
+            "Rostelli's tactical choice"
+        ],
+        "579": [
+            1328.0,
+            1330.0,
+            "Rostelli's tactical choice"
+        ],
+        "580": [
+            1330.0,
+            1332.0,
+            "Rostelli's tactical choice"
+        ],
+        "581": [
+            1332.0,
+            1334.0,
+            "Rostelli's tactical choice"
+        ],
+        "582": [
+            1334.0,
+            1336.0,
+            "Rostelli's tactical choice"
+        ],
+        "583": [
+            1336.0,
+            1338.0,
+            "Rostelli's tactical choice"
+        ],
+        "584": [
+            1338.0,
+            1340.0,
+            "Rostelli's tactical choice"
+        ],
+        "585": [
+            1340.0,
+            1342.0,
+            "Rostelli's tactical choice"
+        ],
+        "586": [
+            1342.0,
+            1344.0,
+            "Rostelli's tactical choice"
+        ],
+        "587": [
+            1344.0,
+            1346.0,
+            "Rostelli's tactical choice"
+        ],
+        "588": [
+            1346.0,
+            1348.0,
+            "Rostelli's tactical choice"
+        ],
+        "589": [
+            1348.0,
+            1350.0,
+            "Rostelli's tactical choice"
+        ],
+        "590": [
+            1350.0,
+            1352.0,
+            "Rostelli's tactical choice"
+        ],
+        "591": [
+            1352.0,
+            1354.0,
+            "Rostelli's tactical choice"
+        ],
+        "592": [
+            1354.0,
+            1356.0,
+            "Rostelli's tactical choice"
+        ],
+        "593": [
+            1356.0,
+            1358.0,
+            "Rostelli's tactical choice"
+        ],
+        "594": [
+            1358.0,
+            1360.0,
+            "Rostelli's tactical choice"
+        ],
+        "595": [
+            1360.0,
+            1362.0,
+            "Rostelli's tactical choice"
+        ],
+        "596": [
+            1362.0,
+            1364.0,
+            "Rostelli's tactical choice"
+        ],
+        "597": [
+            1364.0,
+            1366.0,
+            "Rostelli's tactical choice"
+        ],
+        "598": [
+            1366.0,
+            1368.0,
+            "Rostelli's tactical choice"
+        ],
+        "599": [
+            1368.0,
+            1370.0,
+            "Rostelli's tactical choice"
+        ],
+        "600": [
+            1370.0,
+            1372.0,
+            "Rostelli's tactical choice"
+        ],
+        "601": [
+            1372.0,
+            1374.0,
+            "Rostelli's tactical choice"
+        ],
+        "602": [
+            1374.0,
+            1376.0,
+            "Rostelli's tactical choice"
+        ],
+        "603": [
+            1376.0,
+            1378.0,
+            "Rostelli's tactical choice"
+        ],
+        "604": [
+            1378.0,
+            1380.0,
+            "Rostelli's tactical choice"
+        ],
+        "605": [
+            1380.0,
+            1382.0,
+            "Rostelli's tactical choice"
+        ],
+        "606": [
+            1382.0,
+            1384.0,
+            "Rostelli's tactical choice"
+        ],
+        "607": [
+            1384.0,
+            1386.0,
+            "Rostelli's tactical choice"
+        ],
+        "608": [
+            1386.0,
+            1388.0,
+            "Rostelli's tactical choice"
+        ],
+        "609": [
+            1388.0,
+            1390.0,
+            "Rostelli's tactical choice"
+        ],
+        "610": [
+            1390.0,
+            1392.0,
+            "Rostelli's tactical choice"
+        ],
+        "611": [
+            1392.0,
+            1394.0,
+            "Rostelli's tactical choice"
+        ],
+        "612": [
+            1394.0,
+            1396.0,
+            "Rostelli's tactical choice"
+        ],
+        "613": [
+            1396.0,
+            1398.0,
+            "Rostelli's tactical choice"
+        ],
+        "614": [
+            1398.0,
+            1400.0,
+            "Rostelli's tactical choice"
+        ],
+        "615": [
+            1400.0,
+            1402.0,
+            "Rostelli's tactical choice"
+        ],
+        "616": [
+            1402.0,
+            1404.0,
+            "Rostelli's tactical choice"
+        ],
+        "617": [
+            1404.0,
+            1406.0,
+            "Rostelli's tactical choice"
+        ],
+        "618": [
+            1406.0,
+            1408.0,
+            "Rostelli's tactical choice"
+        ],
+        "619": [
+            1408.0,
+            1410.0,
+            "Rostelli's tactical choice"
+        ],
+        "620": [
+            1410.0,
+            1412.0,
+            "Rostelli's tactical choice"
+        ],
+        "621": [
+            1412.0,
+            1414.0,
+            "Rostelli's tactical choice"
+        ],
+        "622": [
+            1414.0,
+            1416.0,
+            "Rostelli's tactical choice"
+        ],
+        "623": [
+            1416.0,
+            1418.0,
+            "Rostelli's tactical choice"
+        ],
+        "624": [
+            1418.0,
+            1420.0,
+            "Rostelli's tactical choice"
+        ],
+        "625": [
+            1420.0,
+            1422.0,
+            "Rostelli's tactical choice"
+        ],
+        "626": [
+            1422.0,
+            1424.0,
+            "Rostelli's tactical choice"
+        ],
+        "627": [
+            1424.0,
+            1426.0,
+            "Rostelli's tactical choice"
+        ],
+        "628": [
+            1426.0,
+            1428.0,
+            "Rostelli's tactical choice"
+        ],
+        "629": [
+            1428.0,
+            1430.0,
+            "Rostelli's tactical choice"
+        ],
+        "630": [
+            1430.0,
+            1432.0,
+            "Rostelli's tactical choice"
+        ],
+        "631": [
+            1432.0,
+            1434.0,
+            "Rostelli's tactical choice"
+        ],
+        "632": [
+            1434.0,
+            1436.0,
+            "Rostelli's tactical choice"
+        ],
+        "633": [
+            1436.0,
+            1438.0,
+            "Rostelli's tactical choice"
+        ],
+        "634": [
+            1438.0,
+            1440.0,
+            "Rostelli's tactical choice"
+        ],
+        "635": [
+            1440.0,
+            1442.0,
+            "Rostelli's tactical choice"
+        ],
+        "636": [
+            1442.0,
+            1444.0,
+            "Rostelli's tactical choice"
+        ],
+        "637": [
+            1444.0,
+            1446.0,
+            "Rostelli's tactical choice"
+        ],
+        "638": [
+            1446.0,
+            1448.0,
+            "Rostelli's tactical choice"
+        ],
+        "639": [
+            1448.0,
+            1450.0,
+            "Rostelli's tactical choice"
+        ],
+        "640": [
+            1450.0,
+            1452.0,
+            "Rostelli's tactical choice"
+        ],
+        "641": [
+            1452.0,
+            1454.0,
+            "Rostelli's tactical choice"
+        ],
+        "642": [
+            1454.0,
+            1456.0,
+            "Rostelli's tactical choice"
+        ],
+        "643": [
+            1456.0,
+            1458.0,
+            "Rostelli's tactical choice"
+        ],
+        "644": [
+            1458.0,
+            1460.0,
+            "Rostelli's tactical choice"
+        ],
+        "645": [
+            1460.0,
+            1462.0,
+            "Rostelli's tactical choice"
+        ],
+        "646": [
+            1462.0,
+            1464.0,
+            "Rostelli's tactical choice"
+        ],
+        "647": [
+            1464.0,
+            1466.0,
+            "Rostelli's tactical choice"
+        ],
+        "648": [
+            1466.0,
+            1468.0,
+            "Rostelli's tactical choice"
+        ],
+        "649": [
+            1468.0,
+            1470.0,
+            "Rostelli's tactical choice"
+        ],
+        "650": [
+            1470.0,
+            1472.0,
+            "Rostelli's tactical choice"
+        ],
+        "651": [
+            1472.0,
+            1474.0,
+            "Rostelli's tactical choice"
+        ],
+        "652": [
+            1474.0,
+            1476.0,
+            "Rostelli's tactical choice"
+        ],
+        "653": [
+            1476.0,
+            1478.0,
+            "Rostelli's tactical choice"
+        ],
+        "654": [
+            1478.0,
+            1480.0,
+            "Rostelli's tactical choice"
+        ],
+        "655": [
+            1480.0,
+            1482.0,
+            "Rostelli's tactical choice"
+        ],
+        "656": [
+            1482.0,
+            1484.0,
+            "Rostelli's tactical choice"
+        ],
+        "657": [
+            1484.0,
+            1486.0,
+            "Rostelli's tactical choice"
+        ],
+        "658": [
+            1486.0,
+            1488.0,
+            "Rostelli's tactical choice"
+        ],
+        "659": [
+            1488.0,
+            1490.0,
+            "Rostelli's tactical choice"
+        ],
+        "660": [
+            1490.0,
+            1492.0,
+            "Rostelli's tactical choice"
+        ],
+        "661": [
+            1492.0,
+            1494.0,
+            "Rostelli's tactical choice"
+        ],
+        "662": [
+            1494.0,
+            1496.0,
+            "Rostelli's tactical choice"
+        ],
+        "663": [
+            1496.0,
+            1498.0,
+            "Rostelli's tactical choice"
+        ],
+        "664": [
+            1498.0,
+            1500.0,
+            "Rostelli's tactical choice"
+        ],
+        "665": [
+            1500.0,
+            1502.0,
+            "Rostelli's tactical choice"
+        ],
+        "666": [
+            1502.0,
+            1504.0,
+            "Rostelli's tactical choice"
+        ],
+        "667": [
+            1504.0,
+            1506.0,
+            "Rostelli's tactical choice"
+        ],
+        "668": [
+            1506.0,
+            1508.0,
+            "Rostelli's tactical choice"
+        ],
+        "669": [
+            1508.0,
+            1510.0,
+            "Rostelli's tactical choice"
+        ],
+        "670": [
+            1510.0,
+            1512.0,
+            "Rostelli's tactical choice"
+        ],
+        "671": [
+            1512.0,
+            1514.0,
+            "Rostelli's tactical choice"
+        ],
+        "672": [
+            1514.0,
+            1516.0,
+            "Rostelli's tactical choice"
+        ],
+        "673": [
+            1516.0,
+            1518.0,
+            "Rostelli's tactical choice"
+        ],
+        "674": [
+            1518.0,
+            1520.0,
+            "Rostelli's tactical choice"
+        ],
+        "675": [
+            1520.0,
+            1522.0,
+            "Rostelli's tactical choice"
+        ],
+        "676": [
+            1522.0,
+            1524.0,
+            "Rostelli's tactical choice"
+        ],
+        "677": [
+            1524.0,
+            1526.0,
+            "Rostelli's tactical choice"
+        ],
+        "678": [
+            1526.0,
+            1528.0,
+            "Rostelli's tactical choice"
+        ],
+        "679": [
+            1528.0,
+            1530.0,
+            "Rostelli's tactical choice"
+        ],
+        "680": [
+            1530.0,
+            1532.0,
+            "Rostelli's tactical choice"
+        ],
+        "681": [
+            1532.0,
+            1534.0,
+            "Rostelli's tactical choice"
+        ],
+        "682": [
+            1534.0,
+            1536.0,
+            "Rostelli's tactical choice"
+        ],
+        "683": [
+            1536.0,
+            1538.0,
+            "Rostelli's tactical choice"
+        ],
+        "684": [
+            1538.0,
+            1540.0,
+            "Rostelli's tactical choice"
+        ],
+        "685": [
+            1540.0,
+            1542.0,
+            "Rostelli's tactical choice"
+        ],
+        "686": [
+            1542.0,
+            1544.0,
+            "Rostelli's tactical choice"
+        ],
+        "687": [
+            1544.0,
+            1546.0,
+            "Rostelli's tactical choice"
+        ],
+        "688": [
+            1546.0,
+            1548.0,
+            "Rostelli's tactical choice"
+        ],
+        "689": [
+            1548.0,
+            1550.0,
+            "Rostelli's tactical choice"
+        ],
+        "690": [
+            1550.0,
+            1552.0,
+            "Rostelli's tactical choice"
+        ],
+        "691": [
+            1552.0,
+            1554.0,
+            "Rostelli's tactical choice"
+        ],
+        "692": [
+            1554.0,
+            1556.0,
+            "Rostelli's tactical choice"
+        ],
+        "693": [
+            1556.0,
+            1558.0,
+            "Rostelli's tactical choice"
+        ],
+        "694": [
+            1558.0,
+            1560.0,
+            "Rostelli's tactical choice"
+        ],
+        "695": [
+            1560.0,
+            1562.0,
+            "Rostelli's tactical choice"
+        ],
+        "696": [
+            1562.0,
+            1564.0,
+            "Rostelli's tactical choice"
+        ],
+        "697": [
+            1564.0,
+            1566.0,
+            "Rostelli's tactical choice"
+        ],
+        "698": [
+            1566.0,
+            1568.0,
+            "Rostelli's tactical choice"
+        ],
+        "699": [
+            1568.0,
+            1570.0,
+            "Rostelli's tactical choice"
+        ],
+        "700": [
+            1570.0,
+            1572.0,
+            "Rostelli's tactical choice"
+        ],
+        "701": [
+            1572.0,
+            1574.0,
+            "Rostelli's tactical choice"
+        ],
+        "702": [
+            1574.0,
+            1576.0,
+            "Rostelli's tactical choice"
+        ],
+        "703": [
+            1576.0,
+            1578.0,
+            "Rostelli's tactical choice"
+        ],
+        "704": [
+            1578.0,
+            1580.0,
+            "Rostelli's tactical choice"
+        ],
+        "705": [
+            1580.0,
+            1582.0,
+            "Rostelli's tactical choice"
+        ],
+        "706": [
+            1582.0,
+            1584.0,
+            "Rostelli's tactical choice"
+        ],
+        "707": [
+            1584.0,
+            1586.0,
+            "Rostelli's tactical choice"
+        ],
+        "708": [
+            1586.0,
+            1588.0,
+            "Rostelli's tactical choice"
+        ],
+        "709": [
+            1588.0,
+            1590.0,
+            "Rostelli's tactical choice"
+        ],
+        "710": [
+            1590.0,
+            1592.0,
+            "Rostelli's tactical choice"
+        ],
+        "711": [
+            1592.0,
+            1594.0,
+            "Rostelli's tactical choice"
+        ],
+        "712": [
+            1594.0,
+            1596.0,
+            "Rostelli's tactical choice"
+        ],
+        "713": [
+            1596.0,
+            1598.0,
+            "Rostelli's tactical choice"
+        ],
+        "714": [
+            1598.0,
+            1600.0,
+            "Rostelli's tactical choice"
+        ],
+        "715": [
+            1600.0,
+            1602.0,
+            "Rostelli's tactical choice"
+        ],
+        "716": [
+            1602.0,
+            1604.0,
+            "Rostelli's tactical choice"
+        ],
+        "717": [
+            1604.0,
+            1606.0,
+            "Rostelli's tactical choice"
+        ],
+        "718": [
+            1606.0,
+            1608.0,
+            "Rostelli's tactical choice"
+        ],
+        "719": [
+            1608.0,
+            1610.0,
+            "Rostelli's tactical choice"
+        ],
+        "720": [
+            1610.0,
+            1612.0,
+            "Rostelli's tactical choice"
+        ],
+        "721": [
+            1612.0,
+            1614.0,
+            "Rostelli's tactical choice"
+        ],
+        "722": [
+            1614.0,
+            1616.0,
+            "Rostelli's tactical choice"
+        ],
+        "723": [
+            1616.0,
+            1618.0,
+            "Rostelli's tactical choice"
+        ],
+        "724": [
+            1618.0,
+            1620.0,
+            "Rostelli's tactical choice"
+        ],
+        "725": [
+            1620.0,
+            1622.0,
+            "Rostelli's tactical choice"
+        ],
+        "726": [
+            1622.0,
+            1624.0,
+            "Rostelli's tactical choice"
+        ],
+        "727": [
+            1624.0,
+            1626.0,
+            "Rostelli's tactical choice"
+        ],
+        "728": [
+            1626.0,
+            1628.0,
+            "Rostelli's tactical choice"
+        ],
+        "729": [
+            1628.0,
+            1630.0,
+            "Rostelli's tactical choice"
+        ],
+        "730": [
+            1630.0,
+            1632.0,
+            "Rostelli's tactical choice"
+        ],
+        "731": [
+            1632.0,
+            1634.0,
+            "Rostelli's tactical choice"
+        ],
+        "732": [
+            1634.0,
+            1636.0,
+            "Rostelli's tactical choice"
+        ],
+        "733": [
+            1636.0,
+            1638.0,
+            "Rostelli's tactical choice"
+        ],
+        "734": [
+            1638.0,
+            1640.0,
+            "Rostelli's tactical choice"
+        ],
+        "735": [
+            1640.0,
+            1642.0,
+            "Rostelli's tactical choice"
+        ],
+        "736": [
+            1642.0,
+            1644.0,
+            "Rostelli's tactical choice"
+        ],
+        "737": [
+            1644.0,
+            1646.0,
+            "Rostelli's tactical choice"
+        ],
+        "738": [
+            1646.0,
+            1648.0,
+            "Rostelli's tactical choice"
+        ],
+        "739": [
+            1648.0,
+            1650.0,
+            "Rostelli's tactical choice"
+        ],
+        "740": [
+            1650.0,
+            1652.0,
+            "Rostelli's tactical choice"
+        ],
+        "741": [
+            1652.0,
+            1654.0,
+            "Rostelli's tactical choice"
+        ],
+        "742": [
+            1654.0,
+            1656.0,
+            "Rostelli's tactical choice"
+        ],
+        "743": [
+            1656.0,
+            1658.0,
+            "Rostelli's tactical choice"
+        ],
+        "744": [
+            1658.0,
+            1660.0,
+            "Rostelli's tactical choice"
+        ],
+        "745": [
+            1660.0,
+            1662.0,
+            "Rostelli's tactical choice"
+        ],
+        "746": [
+            1662.0,
+            1664.0,
+            "Rostelli's tactical choice"
+        ],
+        "747": [
+            1664.0,
+            1666.0,
+            "Rostelli's tactical choice"
+        ],
+        "748": [
+            1666.0,
+            1668.0,
+            "Rostelli's tactical choice"
+        ],
+        "749": [
+            1668.0,
+            1670.0,
+            "Rostelli's tactical choice"
+        ],
+        "750": [
+            1670.0,
+            1672.0,
+            "Rostelli's tactical choice"
+        ],
+        "751": [
+            1672.0,
+            1674.0,
+            "Rostelli's tactical choice"
+        ],
+        "752": [
+            1674.0,
+            1676.0,
+            "Rostelli's tactical choice"
+        ],
+        "753": [
+            1676.0,
+            1678.0,
+            "Rostelli's tactical choice"
+        ],
+        "754": [
+            1678.0,
+            1680.0,
+            "Rostelli's tactical choice"
+        ],
+        "755": [
+            1680.0,
+            1682.0,
+            "Rostelli's tactical choice"
+        ],
+        "756": [
+            1682.0,
+            1684.0,
+            "Rostelli's tactical choice"
+        ],
+        "757": [
+            1684.0,
+            1686.0,
+            "Rostelli's tactical choice"
+        ],
+        "758": [
+            1686.0,
+            1688.0,
+            "Rostelli's tactical choice"
+        ],
+        "759": [
+            1688.0,
+            1690.0,
+            "Rostelli's tactical choice"
+        ],
+        "760": [
+            1690.0,
+            1692.0,
+            "Rostelli's tactical choice"
+        ],
+        "761": [
+            1692.0,
+            1694.0,
+            "Rostelli's tactical choice"
+        ],
+        "762": [
+            1694.0,
+            1696.0,
+            "Rostelli's tactical choice"
+        ],
+        "763": [
+            1696.0,
+            1698.0,
+            "Rostelli's tactical choice"
+        ],
+        "764": [
+            1698.0,
+            1700.0,
+            "Rostelli's tactical choice"
+        ],
+        "765": [
+            1700.0,
+            1702.0,
+            "Rostelli's tactical choice"
+        ],
+        "766": [
+            1702.0,
+            1704.0,
+            "Rostelli's tactical choice"
+        ],
+        "767": [
+            1704.0,
+            1706.0,
+            "Rostelli's tactical choice"
+        ],
+        "768": [
+            1706.0,
+            1708.0,
+            "Rostelli's tactical choice"
+        ],
+        "769": [
+            1708.0,
+            1710.0,
+            "Rostelli's tactical choice"
+        ],
+        "770": [
+            1710.0,
+            1712.0,
+            "Rostelli's tactical choice"
+        ],
+        "771": [
+            1712.0,
+            1714.0,
+            "Rostelli's tactical choice"
+        ],
+        "772": [
+            1714.0,
+            1716.0,
+            "Rostelli's tactical choice"
+        ],
+        "773": [
+            1716.0,
+            1718.0,
+            "Rostelli's tactical choice"
+        ],
+        "774": [
+            1718.0,
+            1720.0,
+            "Rostelli's tactical choice"
+        ],
+        "775": [
+            1720.0,
+            1722.0,
+            "Rostelli's tactical choice"
+        ],
+        "776": [
+            1722.0,
+            1724.0,
+            "Rostelli's tactical choice"
+        ],
+        "777": [
+            1724.0,
+            1726.0,
+            "Rostelli's tactical choice"
+        ],
+        "778": [
+            1726.0,
+            1728.0,
+            "Rostelli's tactical choice"
+        ],
+        "779": [
+            1728.0,
+            1730.0,
+            "Rostelli's tactical choice"
+        ],
+        "780": [
+            1730.0,
+            1732.0,
+            "Rostelli's tactical choice"
+        ],
+        "781": [
+            1732.0,
+            1734.0,
+            "Rostelli's tactical choice"
+        ],
+        "782": [
+            1734.0,
+            1736.0,
+            "Rostelli's tactical choice"
+        ],
+        "783": [
+            1736.0,
+            1738.0,
+            "Rostelli's tactical choice"
+        ],
+        "784": [
+            1738.0,
+            1740.0,
+            "Rostelli's tactical choice"
+        ],
+        "785": [
+            1740.0,
+            1742.0,
+            "Rostelli's tactical choice"
+        ],
+        "786": [
+            1742.0,
+            1744.0,
+            "Rostelli's tactical choice"
+        ],
+        "787": [
+            1744.0,
+            1746.0,
+            "Rostelli's tactical choice"
+        ],
+        "788": [
+            1746.0,
+            1748.0,
+            "Rostelli's tactical choice"
+        ],
+        "789": [
+            1748.0,
+            1750.0,
+            "Rostelli's tactical choice"
+        ],
+        "790": [
+            1750.0,
+            1752.0,
+            "Rostelli's tactical choice"
+        ],
+        "791": [
+            1752.0,
+            1754.0,
+            "Rostelli's tactical choice"
+        ],
+        "792": [
+            1754.0,
+            1756.0,
+            "Rostelli's tactical choice"
+        ],
+        "793": [
+            1756.0,
+            1758.0,
+            "Rostelli's tactical choice"
+        ],
+        "794": [
+            1758.0,
+            1760.0,
+            "Rostelli's tactical choice"
+        ],
+        "795": [
+            1760.0,
+            1762.0,
+            "Rostelli's tactical choice"
+        ],
+        "796": [
+            1762.0,
+            1764.0,
+            "Rostelli's tactical choice"
+        ],
+        "797": [
+            1764.0,
+            1766.0,
+            "Rostelli's tactical choice"
+        ],
+        "798": [
+            1766.0,
+            1768.0,
+            "Rostelli's tactical choice"
+        ],
+        "799": [
+            1768.0,
+            1770.0,
+            "Rostelli's tactical choice"
+        ],
+        "800": [
+            1770.0,
+            1772.0,
+            "Rostelli's tactical choice"
+        ],
+        "801": [
+            1772.0,
+            1774.0,
+            "Rostelli's tactical choice"
+        ],
+        "802": [
+            1774.0,
+            1776.0,
+            "Rostelli's tactical choice"
+        ],
+        "803": [
+            1776.0,
+            1778.0,
+            "Rostelli's tactical choice"
+        ],
+        "804": [
+            1778.0,
+            1780.0,
+            "Rostelli's tactical choice"
+        ],
+        "805": [
+            1780.0,
+            1782.0,
+            "Rostelli's tactical choice"
+        ],
+        "806": [
+            1782.0,
+            1784.0,
+            "Rostelli's tactical choice"
+        ],
+        "807": [
+            1784.0,
+            1786.0,
+            "Rostelli's tactical choice"
+        ],
+        "808": [
+            1786.0,
+            1788.0,
+            "Rostelli's tactical choice"
+        ],
+        "809": [
+            1788.0,
+            1790.0,
+            "Rostelli's tactical choice"
+        ],
+        "810": [
+            1790.0,
+            1792.0,
+            "Rostelli's tactical choice"
+        ],
+        "811": [
+            1792.0,
+            1794.0,
+            "Rostelli's tactical choice"
+        ],
+        "812": [
+            1794.0,
+            1796.0,
+            "Rostelli's tactical choice"
+        ],
+        "813": [
+            1796.0,
+            1798.0,
+            "Rostelli's tactical choice"
+        ],
+        "814": [
+            1798.0,
+            1800.0,
+            "Rostelli's tactical choice"
+        ],
+        "815": [
+            1800.0,
+            1802.0,
+            "Rostelli's tactical choice"
+        ],
+        "816": [
+            1802.0,
+            1804.0,
+            "Rostelli's tactical choice"
+        ],
+        "817": [
+            1804.0,
+            1806.0,
+            "Rostelli's tactical choice"
+        ],
+        "818": [
+            1806.0,
+            1808.0,
+            "Rostelli's tactical choice"
+        ],
+        "819": [
+            1808.0,
+            1810.0,
+            "Rostelli's tactical choice"
+        ],
+        "820": [
+            1810.0,
+            1812.0,
+            "Rostelli's tactical choice"
+        ],
+        "821": [
+            1812.0,
+            1814.0,
+            "Rostelli's tactical choice"
+        ],
+        "822": [
+            1814.0,
+            1816.0,
+            "Rostelli's tactical choice"
+        ],
+        "823": [
+            1816.0,
+            1818.0,
+            "Rostelli's tactical choice"
+        ],
+        "824": [
+            1818.0,
+            1820.0,
+            "Rostelli's tactical choice"
+        ],
+        "825": [
+            1820.0,
+            1822.0,
+            "Rostelli's tactical choice"
+        ],
+        "826": [
+            1822.0,
+            1824.0,
+            "Rostelli's tactical choice"
+        ],
+        "827": [
+            1824.0,
+            1826.0,
+            "Rostelli's tactical choice"
+        ],
+        "828": [
+            1826.0,
+            1828.0,
+            "Rostelli's tactical choice"
+        ],
+        "829": [
+            1828.0,
+            1830.0,
+            "Rostelli's tactical choice"
+        ],
+        "830": [
+            1830.0,
+            1832.0,
+            "Rostelli's tactical choice"
+        ],
+        "831": [
+            1832.0,
+            1834.0,
+            "Rostelli's tactical choice"
+        ],
+        "832": [
+            1834.0,
+            1836.0,
+            "Rostelli's tactical choice"
+        ],
+        "833": [
+            1836.0,
+            1838.0,
+            "Rostelli's tactical choice"
+        ],
+        "834": [
+            1838.0,
+            1840.0,
+            "Rostelli's tactical choice"
+        ],
+        "835": [
+            1840.0,
+            1842.0,
+            "Rostelli's tactical choice"
+        ],
+        "836": [
+            1842.0,
+            1844.0,
+            "Rostelli's tactical choice"
+        ],
+        "837": [
+            1844.0,
+            1846.0,
+            "Rostelli's tactical choice"
+        ],
+        "838": [
+            1846.0,
+            1848.0,
+            "Rostelli's tactical choice"
+        ],
+        "839": [
+            1848.0,
+            1850.0,
+            "Rostelli's tactical choice"
+        ],
+        "840": [
+            1850.0,
+            1852.0,
+            "Rostelli's tactical choice"
+        ],
+        "841": [
+            1852.0,
+            1854.0,
+            "Rostelli's tactical choice"
+        ],
+        "842": [
+            1854.0,
+            1856.0,
+            "Rostelli's tactical choice"
+        ],
+        "843": [
+            1856.0,
+            1858.0,
+            "Rostelli's tactical choice"
+        ],
+        "844": [
+            1858.0,
+            1860.0,
+            "Rostelli's tactical choice"
+        ],
+        "845": [
+            1860.0,
+            1862.0,
+            "Rostelli's tactical choice"
+        ],
+        "846": [
+            1862.0,
+            1864.0,
+            "Rostelli's tactical choice"
+        ],
+        "847": [
+            1864.0,
+            1866.0,
+            "Rostelli's tactical choice"
+        ],
+        "848": [
+            1866.0,
+            1868.0,
+            "Rostelli's tactical choice"
+        ],
+        "849": [
+            1868.0,
+            1870.0,
+            "Rostelli's tactical choice"
+        ],
+        "850": [
+            1870.0,
+            1872.0,
+            "Rostelli's tactical choice"
+        ],
+        "851": [
+            1872.0,
+            1874.0,
+            "Rostelli's tactical choice"
+        ],
+        "852": [
+            1874.0,
+            1876.0,
+            "Rostelli's tactical choice"
+        ],
+        "853": [
+            1876.0,
+            1878.0,
+            "Rostelli's tactical choice"
+        ],
+        "854": [
+            1878.0,
+            1880.0,
+            "Rostelli's tactical choice"
+        ],
+        "855": [
+            1880.0,
+            1882.0,
+            "Rostelli's tactical choice"
+        ],
+        "856": [
+            1882.0,
+            1884.0,
+            "Rostelli's tactical choice"
+        ],
+        "857": [
+            1884.0,
+            1886.0,
+            "Rostelli's tactical choice"
+        ],
+        "858": [
+            1886.0,
+            1888.0,
+            "Rostelli's tactical choice"
+        ],
+        "859": [
+            1888.0,
+            1890.0,
+            "Rostelli's tactical choice"
+        ],
+        "860": [
+            1890.0,
+            1892.0,
+            "Rostelli's tactical choice"
+        ],
+        "861": [
+            1892.0,
+            1894.0,
+            "Rostelli's tactical choice"
+        ],
+        "862": [
+            1894.0,
+            1896.0,
+            "Rostelli's tactical choice"
+        ],
+        "863": [
+            1896.0,
+            1898.0,
+            "Rostelli's tactical choice"
+        ],
+        "864": [
+            1898.0,
+            1900.0,
+            "Rostelli's tactical choice"
+        ],
+        "865": [
+            1900.0,
+            1902.0,
+            "Rostelli's tactical choice"
+        ],
+        "866": [
+            1902.0,
+            1904.0,
+            "Rostelli's tactical choice"
+        ],
+        "867": [
+            1904.0,
+            1906.0,
+            "Rostelli's tactical choice"
+        ],
+        "868": [
+            1906.0,
+            1908.0,
+            "Rostelli's tactical choice"
+        ],
+        "869": [
+            1908.0,
+            1910.0,
+            "Rostelli's tactical choice"
+        ],
+        "870": [
+            1910.0,
+            1912.0,
+            "Rostelli's tactical choice"
+        ],
+        "871": [
+            1912.0,
+            1914.0,
+            "Rostelli's tactical choice"
+        ],
+        "872": [
+            1914.0,
+            1916.0,
+            "Rostelli's tactical choice"
+        ],
+        "873": [
+            1916.0,
+            1918.0,
+            "Rostelli's tactical choice"
+        ],
+        "874": [
+            1918.0,
+            1920.0,
+            "Rostelli's tactical choice"
+        ],
+        "875": [
+            1920.0,
+            1922.0,
+            "Rostelli's tactical choice"
+        ],
+        "876": [
+            1922.0,
+            1924.0,
+            "Rostelli's tactical choice"
+        ],
+        "877": [
+            1924.0,
+            1926.0,
+            "Rostelli's tactical choice"
+        ],
+        "878": [
+            1926.0,
+            1928.0,
+            "Rostelli's tactical choice"
+        ],
+        "879": [
+            1928.0,
+            1930.0,
+            "Rostelli's tactical choice"
+        ],
+        "880": [
+            1930.0,
+            1932.0,
+            "Rostelli's tactical choice"
+        ],
+        "881": [
+            1932.0,
+            1934.0,
+            "Rostelli's tactical choice"
+        ],
+        "882": [
+            1934.0,
+            1936.0,
+            "Rostelli's tactical choice"
+        ],
+        "883": [
+            1936.0,
+            1938.0,
+            "Rostelli's tactical choice"
+        ],
+        "884": [
+            1938.0,
+            1940.0,
+            "Rostelli's tactical choice"
+        ],
+        "885": [
+            1940.0,
+            1942.0,
+            "Rostelli's tactical choice"
+        ],
+        "886": [
+            1942.0,
+            1944.0,
+            "Rostelli's tactical choice"
+        ],
+        "887": [
+            1944.0,
+            1946.0,
+            "Rostelli's tactical choice"
+        ],
+        "888": [
+            1946.0,
+            1948.0,
+            "Rostelli's tactical choice"
+        ],
+        "889": [
+            1948.0,
+            1950.0,
+            "Rostelli's tactical choice"
+        ],
+        "890": [
+            1950.0,
+            1952.0,
+            "Rostelli's tactical choice"
+        ],
+        "891": [
+            1952.0,
+            1954.0,
+            "Rostelli's tactical choice"
+        ],
+        "892": [
+            1954.0,
+            1956.0,
+            "Rostelli's tactical choice"
+        ],
+        "893": [
+            1956.0,
+            1958.0,
+            "Rostelli's tactical choice"
+        ],
+        "894": [
+            1958.0,
+            1960.0,
+            "Rostelli's tactical choice"
+        ],
+        "895": [
+            1960.0,
+            1962.0,
+            "Rostelli's tactical choice"
+        ],
+        "896": [
+            1962.0,
+            1964.0,
+            "Rostelli's tactical choice"
+        ],
+        "897": [
+            1964.0,
+            1966.0,
+            "Rostelli's tactical choice"
+        ],
+        "898": [
+            1966.0,
+            1968.0,
+            "Rostelli's tactical choice"
+        ],
+        "899": [
+            1968.0,
+            1970.0,
+            "Rostelli's tactical choice"
+        ],
+        "900": [
+            1970.0,
+            1972.0,
+            "Rostelli's tactical choice"
+        ],
+        "901": [
+            1972.0,
+            1974.0,
+            "Rostelli's tactical choice"
+        ],
+        "902": [
+            1974.0,
+            1976.0,
+            "Rostelli's tactical choice"
+        ],
+        "903": [
+            1976.0,
+            1978.0,
+            "Rostelli's tactical choice"
+        ],
+        "904": [
+            1978.0,
+            1980.0,
+            "Rostelli's tactical choice"
+        ],
+        "905": [
+            1980.0,
+            1982.0,
+            "Rostelli's tactical choice"
+        ],
+        "906": [
+            1982.0,
+            1984.0,
+            "Rostelli's tactical choice"
+        ],
+        "907": [
+            1984.0,
+            1986.0,
+            "Rostelli's tactical choice"
+        ],
+        "908": [
+            1986.0,
+            1988.0,
+            "Rostelli's tactical choice"
+        ],
+        "909": [
+            1988.0,
+            1990.0,
+            "Rostelli's tactical choice"
+        ],
+        "910": [
+            1990.0,
+            1992.0,
+            "Rostelli's tactical choice"
+        ],
+        "911": [
+            1992.0,
+            1994.0,
+            "Rostelli's tactical choice"
+        ],
+        "912": [
+            1994.0,
+            1996.0,
+            "Rostelli's tactical choice"
+        ],
+        "913": [
+            1996.0,
+            1998.0,
+            "Rostelli's tactical choice"
+        ],
+        "914": [
+            1998.0,
+            2000.0,
+            "Rostelli's tactical choice"
+        ],
+        "915": [
+            2000.0,
+            2002.0,
+            "Rostelli's tactical choice"
+        ],
+        "916": [
+            2002.0,
+            2004.0,
+            "Rostelli's tactical choice"
+        ],
+        "917": [
+            2004.0,
+            2006.0,
+            "Rostelli's tactical choice"
+        ],
+        "918": [
+            2006.0,
+            2008.0,
+            "Rostelli's tactical choice"
+        ],
+        "919": [
+            2008.0,
+            2010.0,
+            "Rostelli's tactical choice"
+        ],
+        "920": [
+            2010.0,
+            2012.0,
+            "Rostelli's tactical choice"
+        ],
+        "921": [
+            2012.0,
+            2014.0,
+            "Rostelli's tactical choice"
+        ],
+        "922": [
+            2014.0,
+            2016.0,
+            "Rostelli's tactical choice"
+        ],
+        "923": [
+            2016.0,
+            2018.0,
+            "Rostelli's tactical choice"
+        ],
+        "924": [
+            2018.0,
+            2020.0,
+            "Rostelli's tactical choice"
+        ],
+        "925": [
+            2020.0,
+            2022.0,
+            "Rostelli's tactical choice"
+        ],
+        "926": [
+            2022.0,
+            2024.0,
+            "Rostelli's tactical choice"
+        ],
+        "927": [
+            2024.0,
+            2026.0,
+            "Rostelli's tactical choice"
+        ],
+        "928": [
+            2026.0,
+            2028.0,
+            "Rostelli's tactical choice"
+        ],
+        "929": [
+            2028.0,
+            2030.0,
+            "Rostelli's tactical choice"
+        ],
+        "930": [
+            2030.0,
+            2032.0,
+            "Rostelli's tactical choice"
+        ],
+        "931": [
+            2032.0,
+            2034.0,
+            "Rostelli's tactical choice"
+        ],
+        "932": [
+            2034.0,
+            2036.0,
+            "Rostelli's tactical choice"
+        ],
+        "933": [
+            2036.0,
+            2038.0,
+            "Rostelli's tactical choice"
+        ],
+        "934": [
+            2038.0,
+            2040.0,
+            "Rostelli's tactical choice"
+        ],
+        "935": [
+            2040.0,
+            2042.0,
+            "Rostelli's tactical choice"
+        ],
+        "936": [
+            2042.0,
+            2044.0,
+            "Rostelli's tactical choice"
+        ],
+        "937": [
+            2044.0,
+            2046.0,
+            "Rostelli's tactical choice"
+        ],
+        "938": [
+            2046.0,
+            2048.0,
+            "Rostelli's tactical choice"
+        ],
+        "939": [
+            2048.0,
+            2050.0,
+            "Rostelli's tactical choice"
+        ],
+        "940": [
+            2050.0,
+            2052.0,
+            "Rostelli's tactical choice"
+        ],
+        "941": [
+            2052.0,
+            2054.0,
+            "Rostelli's tactical choice"
+        ],
+        "942": [
+            2054.0,
+            2056.0,
+            "Rostelli's tactical choice"
+        ],
+        "943": [
+            2056.0,
+            2058.0,
+            "Rostelli's tactical choice"
+        ],
+        "944": [
+            2058.0,
+            2060.0,
+            "Rostelli's tactical choice"
+        ],
+        "945": [
+            2060.0,
+            2062.0,
+            "Rostelli's tactical choice"
+        ],
+        "946": [
+            2062.0,
+            2064.0,
+            "Rostelli's tactical choice"
+        ],
+        "947": [
+            2064.0,
+            2066.0,
+            "Rostelli's tactical choice"
+        ],
+        "948": [
+            2066.0,
+            2068.0,
+            "Rostelli's tactical choice"
+        ],
+        "949": [
+            2068.0,
+            2070.0,
+            "Rostelli's tactical choice"
+        ],
+        "950": [
+            2070.0,
+            2072.0,
+            "Rostelli's tactical choice"
+        ],
+        "951": [
+            2072.0,
+            2074.0,
+            "Rostelli's tactical choice"
+        ],
+        "952": [
+            2074.0,
+            2076.0,
+            "Rostelli's tactical choice"
+        ],
+        "953": [
+            2076.0,
+            2078.0,
+            "Rostelli's tactical choice"
+        ],
+        "954": [
+            2078.0,
+            2080.0,
+            "Rostelli's tactical choice"
+        ],
+        "955": [
+            2080.0,
+            2082.0,
+            "Rostelli's tactical choice"
+        ],
+        "956": [
+            2082.0,
+            2084.0,
+            "Rostelli's tactical choice"
+        ],
+        "957": [
+            2084.0,
+            2086.0,
+            "Rostelli's tactical choice"
+        ],
+        "958": [
+            2086.0,
+            2088.0,
+            "Rostelli's tactical choice"
+        ],
+        "959": [
+            2088.0,
+            2090.0,
+            "Rostelli's tactical choice"
+        ],
+        "960": [
+            2090.0,
+            2092.0,
+            "Rostelli's tactical choice"
+        ],
+        "961": [
+            2092.0,
+            2094.0,
+            "Rostelli's tactical choice"
+        ],
+        "962": [
+            2094.0,
+            2096.0,
+            "Rostelli's tactical choice"
+        ],
+        "963": [
+            2096.0,
+            2098.0,
+            "Rostelli's tactical choice"
+        ],
+        "964": [
+            2098.0,
+            2100.0,
+            "Rostelli's tactical choice"
+        ],
+        "965": [
+            2100.0,
+            2102.0,
+            "Rostelli's tactical choice"
+        ],
+        "966": [
+            2102.0,
+            2104.0,
+            "Rostelli's tactical choice"
+        ],
+        "967": [
+            2104.0,
+            2106.0,
+            "Rostelli's tactical choice"
+        ],
+        "968": [
+            2106.0,
+            2108.0,
+            "Rostelli's tactical choice"
+        ],
+        "969": [
+            2108.0,
+            2110.0,
+            "Rostelli's tactical choice"
+        ],
+        "970": [
+            2110.0,
+            2112.0,
+            "Rostelli's tactical choice"
+        ],
+        "971": [
+            2112.0,
+            2114.0,
+            "He just plays great"
+        ],
+        "972": [
+            2116.0,
+            2118.0,
+            "Raoul Albiol"
+        ],
+        "973": [
+            2118.0,
+            2120.0,
+            "Marco Sau entered the operational space"
+        ],
+        "974": [
+            2130.0,
+            2132.0,
+            "Several repetitions"
+        ],
+        "975": [
+            2132.0,
+            2134.0,
+            "Situations"
+        ],
+        "976": [
+            2136.0,
+            2138.0,
+            "Only corner"
+        ],
+        "977": [
+            2142.0,
+            2144.0,
+            "Toyota Borella"
+        ],
+        "978": [
+            2144.0,
+            2146.0,
+            "Brunvalves jumps"
+        ],
+        "979": [
+            2146.0,
+            2148.0,
+            "The ball literally fell to Salamon"
+        ],
+        "980": [
+            2148.0,
+            2150.0,
+            "The ball literally fell to Salamon"
+        ],
+        "981": [
+            2150.0,
+            2152.0,
+            "But the Pole didn’t see him"
+        ],
+        "982": [
+            2152.0,
+            2154.0,
+            "Muru"
+        ],
+        "983": [
+            2162.0,
+            2164.0,
+            "Sau"
+        ],
+        "984": [
+            2164.0,
+            2166.0,
+            "Muru"
+        ],
+        "985": [
+            2166.0,
+            2168.0,
+            "Here on the flank"
+        ],
+        "986": [
+            2172.0,
+            2177.64,
+            "Callejon drops deep in search of the ball."
+        ],
+        "987": [
+            2177.64,
+            2180.52,
+            "Dries Mertens is no longer greedy here."
+        ],
+        "988": [
+            2180.52,
+            2186.52,
+            "Silje will go into the penalty area and shoot."
+        ],
+        "989": [
+            2186.52,
+            2190.4,
+            "There was a nicer option to play with Dries Mertens."
+        ],
+        "990": [
+            2203.0,
+            2205.0,
+            "And Raphael's lapel."
+        ],
+        "991": [
+            2205.0,
+            2208.0,
+            "The 37th minute is over. 1-0."
+        ],
+        "992": [
+            2208.0,
+            2215.0,
+            "The score, which was opened in the second minute by Dries Mertens, remains the same. 1-0."
+        ],
+        "993": [
+            2224.0,
+            2226.0,
+            "The joint is in the judge."
+        ],
+        "994": [
+            2226.0,
+            2228.0,
+            "Pisacana violated."
+        ],
+        "995": [
+            2232.0,
+            2243.0,
+            "Pisacana kicked out, but hit a player on the field."
+        ],
+        "996": [
+            2243.0,
+            2246.0,
+            "He immediately launches an attack. There was no one on the right."
+        ],
+        "997": [
+            2246.0,
+            2250.0,
+            "Moved to the center of Calejon. But Hysai was somehow embarrassed to go forward."
+        ],
+        "998": [
+            2250.0,
+            2252.0,
+            "I didn't take any risks."
+        ],
+        "999": [
+            2263.0,
+            2265.0,
+            "Jorginho."
+        ],
+        "1000": [
+            2275.0,
+            2278.0,
+            "A huge number of small transfers."
+        ],
+        "1001": [
+            2278.0,
+            2282.0,
+            "This is how Napoleon begins his attack on Jorginho."
+        ],
+        "1002": [
+            2282.0,
+            2285.0,
+            "Forward transmission can be harsh."
+        ],
+        "1003": [
+            2287.0,
+            2289.0,
+            "Second move combination as well."
+        ],
+        "1004": [
+            2289.0,
+            2296.0,
+            "Now they were planning everything great and Pyotr Shcheriisky was already running forward."
+        ],
+        "1005": [
+            2296.0,
+            2299.0,
+            "But no, the serve didn’t go through."
+        ],
+        "1006": [
+            2300.0,
+            2302.0,
+            "Runo Almich."
+        ],
+        "1007": [
+            2309.0,
+            2311.0,
+            "Kirikesh."
+        ],
+        "1008": [
+            2311.0,
+            2313.0,
+            "Gries Mertens."
+        ],
+        "1009": [
+            2313.0,
+            2315.0,
+            "Enters the penalty area with the ball."
+        ],
+        "1010": [
+            2315.0,
+            2318.0,
+            "But here, of course, it’s against four."
+        ],
+        "1011": [
+            2318.0,
+            2322.0,
+            "Maybe he doesn't dream of fame."
+        ],
+        "1012": [
+            2322.0,
+            2324.0,
+            "Maradona."
+        ],
+        "1013": [
+            2324.0,
+            2328.0,
+            "Famous photographs of the entire Belgian national team chasing him in 1986."
+        ],
+        "1014": [
+            2328.0,
+            2335.0,
+            "But here, of course, Mertens failed to cope."
+        ],
+        "1015": [
+            2335.0,
+            2337.0,
+            "Meanwhile, with your feet."
+        ],
+        "1016": [
+            2337.0,
+            2339.0,
+            "How did he come to live like this?"
+        ],
+        "1017": [
+            2339.0,
+            2342.0,
+            "And he had a very unfortunate encounter with Gries Mertens."
+        ],
+        "1018": [
+            2342.0,
+            2346.0,
+            "He was just one of those defensive players that the Belgians encountered."
+        ],
+        "1019": [
+            2346.0,
+            2348.0,
+            "And it looks like he was damaged."
+        ],
+        "1020": [
+            2348.0,
+            2354.0,
+            "But he gets up. Let's hope the damage isn't serious."
+        ],
+        "1021": [
+            2354.0,
+            2358.0,
+            "26 matches this season."
+        ],
+        "1022": [
+            2358.0,
+            2360.0,
+            "And still he gets up."
+        ],
+        "1023": [
+            2360.0,
+            2363.0,
+            "A player who can play in different positions."
+        ],
+        "1024": [
+            2363.0,
+            2367.0,
+            "He is both a right-back and a center."
+        ],
+        "1025": [
+            2367.0,
+            2371.0,
+            "He also happened to act on the left."
+        ],
+        "1026": [
+            2371.0,
+            2373.0,
+            "And this is where he comes in."
+        ],
+        "1027": [
+            2373.0,
+            2375.0,
+            "And this is where he comes in."
+        ],
+        "1028": [
+            2375.0,
+            2377.0,
+            "And this is where he comes in."
+        ],
+        "1029": [
+            2377.0,
+            2379.0,
+            "And this is where he comes in."
+        ],
+        "1030": [
+            2379.0,
+            2381.0,
+            "And this is where he comes in."
+        ],
+        "1031": [
+            2381.0,
+            2383.0,
+            "And this is where he comes in."
+        ],
+        "1032": [
+            2383.0,
+            2385.0,
+            "And this is where he comes in."
+        ],
+        "1033": [
+            2385.0,
+            2387.0,
+            "And this is where he comes in."
+        ],
+        "1034": [
+            2387.0,
+            2389.0,
+            "Left to act."
+        ],
+        "1035": [
+            2391.0,
+            2393.0,
+            "Patching holes."
+        ],
+        "1036": [
+            2396.0,
+            2398.0,
+            "And then Nikolai Hon."
+        ],
+        "1037": [
+            2398.0,
+            2400.0,
+            "Doesn't work."
+        ],
+        "1038": [
+            2400.0,
+            2406.0,
+            "I don’t think the referee will add much time to the first half."
+        ],
+        "1039": [
+            2406.0,
+            2408.0,
+            "I'll tell you who's in reserve."
+        ],
+        "1040": [
+            2408.0,
+            2416.0,
+            "In principle, I would definitely wait for Farias and Jao Pedro at the gallery today."
+        ],
+        "1041": [
+            2418.0,
+            2428.0,
+            "As for Naples, here I think we can expect one of Milik's pair of jack strikers to appear."
+        ],
+        "1042": [
+            2428.0,
+            2434.0,
+            "Well, maybe Leandri Nio, the young Brazilian, will be given the opportunity to make his debut in the series today."
+        ],
+        "1043": [
+            2434.0,
+            2436.0,
+            "He was included in the application."
+        ],
+        "1044": [
+            2441.0,
+            2443.0,
+            "Boriela."
+        ],
+        "1045": [
+            2443.0,
+            2445.0,
+            "Paduin."
+        ],
+        "1046": [
+            2446.0,
+            2448.0,
+            "Sau."
+        ],
+        "1047": [
+            2456.0,
+            2459.0,
+            "Khuliukhon is now lying on the lawn."
+        ],
+        "1048": [
+            2460.0,
+            2462.0,
+            "Hooked him."
+        ],
+        "1049": [
+            2462.0,
+            2466.0,
+            "Simon Paduin got the number 20 right."
+        ],
+        "1050": [
+            2476.0,
+            2478.0,
+            "Kirikesh."
+        ],
+        "1051": [
+            2482.0,
+            2484.0,
+            "Marek Hamsik went forward."
+        ],
+        "1052": [
+            2484.0,
+            2486.0,
+            "He has space."
+        ],
+        "1053": [
+            2486.0,
+            2488.0,
+            "There is space to run."
+        ],
+        "1054": [
+            2488.0,
+            2489.0,
+            "Gamshik."
+        ],
+        "1055": [
+            2489.0,
+            2490.0,
+            "Kulyam."
+        ],
+        "1056": [
+            2490.0,
+            2491.0,
+            "Lumbago."
+        ],
+        "1057": [
+            2491.0,
+            2493.0,
+            "And here Collejon himself will beat."
+        ],
+        "1058": [
+            2493.0,
+            2498.0,
+            "In general, no one will shoot because Marco Sau knocks the ball out."
+        ],
+        "1059": [
+            2500.0,
+            2503.0,
+            "But these are those who could close three shifts."
+        ],
+        "1060": [
+            2503.0,
+            2505.0,
+            "Please, this is how it all started."
+        ],
+        "1061": [
+            2505.0,
+            2507.0,
+            "Gamshik looked back."
+        ],
+        "1062": [
+            2507.0,
+            2509.0,
+            "Well, here is Kulyam."
+        ],
+        "1063": [
+            2516.0,
+            2518.0,
+            "Rafael."
+        ],
+        "1064": [
+            2519.0,
+            2521.0,
+            "The second half of the championship definitely."
+        ],
+        "1065": [
+            2521.0,
+            2523.0,
+            "Main goalkeeper."
+        ],
+        "1066": [
+            2524.0,
+            2526.0,
+            "Fight in the penalty area."
+        ],
+        "1067": [
+            2528.0,
+            2531.0,
+            "Zhilinsky tried to enter the penalty area and the same one."
+        ],
+        "1068": [
+            2531.0,
+            2532.0,
+            "Albiol."
+        ],
+        "1069": [
+            2532.0,
+            2534.0,
+            "Isla is being squeezed."
+        ],
+        "1070": [
+            2537.0,
+            2539.0,
+            "And they begin to attack."
+        ],
+        "1071": [
+            2541.0,
+            2543.0,
+            "And here is Kulyam."
+        ],
+        "1072": [
+            2543.0,
+            2545.0,
+            "And here is Kulyam."
+        ],
+        "1073": [
+            2545.0,
+            2547.0,
+            "And here is Kulyam."
+        ],
+        "1074": [
+            2547.0,
+            2549.0,
+            "And here is Kulyam."
+        ],
+        "1075": [
+            2549.0,
+            2551.0,
+            "And here is Kulyam."
+        ],
+        "1076": [
+            2551.0,
+            2553.0,
+            "And here is Kulyam."
+        ],
+        "1077": [
+            2562.0,
+            2564.0,
+            "The right flank attacked and attacked."
+        ],
+        "1078": [
+            2564.0,
+            2566.0,
+            "A completely restless team."
+        ],
+        "1079": [
+            2566.0,
+            2571.0,
+            "But this is exactly how Massimo Rostelli’s team plays caliar."
+        ],
+        "1080": [
+            2573.0,
+            2577.0,
+            "And Mertens is still looking for his chance."
+        ],
+        "1081": [
+            2577.0,
+            2580.0,
+            "The bomber race seems to inspire him."
+        ],
+        "1082": [
+            2583.0,
+            2587.0,
+            "Well, if things go like this, then the attackers will certainly score more."
+        ],
+        "1083": [
+            2587.0,
+            2589.0,
+            "Cagliara needs to look for counterplay."
+        ],
+        "1084": [
+            2589.0,
+            2591.0,
+            "Do you have motivation? No motivation."
+        ],
+        "1085": [
+            2591.0,
+            2593.0,
+            "Since you've come to play, you're welcome."
+        ],
+        "1086": [
+            2597.0,
+            2599.0,
+            "Kulyam."
+        ],
+        "1087": [
+            2600.0,
+            2602.0,
+            "Kulyam."
+        ],
+        "1088": [
+            2615.0,
+            2618.0,
+            "And again the Poletans with the ball."
+        ],
+        "1089": [
+            2618.0,
+            2623.0,
+            "Minute after minute, you and I are seeing almost the same thing."
+        ],
+        "1090": [
+            2625.0,
+            2627.0,
+            "Hysai."
+        ],
+        "1091": [
+            2628.0,
+            2630.0,
+            "Shurginho."
+        ],
+        "1092": [
+            2632.0,
+            2634.0,
+            "Good transfer."
+        ],
+        "1093": [
+            2635.0,
+            2637.0,
+            "Kaliekhon connects."
+        ],
+        "1094": [
+            2637.0,
+            2641.0,
+            "I served the penalty kick, but the ball went over to Signa."
+        ],
+        "1095": [
+            2646.0,
+            2648.0,
+            "Good selection."
+        ],
+        "1096": [
+            2648.0,
+            2652.0,
+            "And Dries Mertens can’t shoot properly."
+        ],
+        "1097": [
+            2652.0,
+            2654.0,
+            "Straight into Rafael's hands."
+        ],
+        "1098": [
+            2658.0,
+            2661.0,
+            "Rafael is on the cover of the club magazine today."
+        ],
+        "1099": [
+            2661.0,
+            2663.0,
+            "Cagliare, there are many different stories there."
+        ],
+        "1100": [
+            2663.0,
+            2668.0,
+            "But the main thing is the story of the Brazilian goalkeeper."
+        ],
+        "1101": [
+            2669.0,
+            2671.0,
+            "Motherly, motherly."
+        ],
+        "1102": [
+            2671.0,
+            2673.0,
+            "Materina, Cagliare."
+        ],
+        "1103": [
+            2698.0,
+            2700.0,
+            "There will be a penalty. There will be a penalty."
+        ]
+    }
+}

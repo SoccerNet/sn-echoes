@@ -1,0 +1,3404 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            6.0,
+            "Last week's match, Barça-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "1": [
+            6.0,
+            9.0,
+            "Barça-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "Barça-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "3": [
+            12.0,
+            15.0,
+            "Barça-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "4": [
+            15.0,
+            18.0,
+            "Barça-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "5": [
+            18.0,
+            21.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "6": [
+            21.0,
+            24.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "7": [
+            24.0,
+            27.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "8": [
+            27.0,
+            30.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille,"
+        ],
+        "9": [
+            30.0,
+            33.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille,"
+        ],
+        "10": [
+            33.0,
+            36.0,
+            "Barça-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille,"
+        ],
+        "11": [
+            36.0,
+            39.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille,"
+        ],
+        "12": [
+            39.0,
+            42.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille,"
+        ],
+        "13": [
+            42.0,
+            45.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "14": [
+            45.0,
+            48.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "15": [
+            48.0,
+            51.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "16": [
+            51.0,
+            54.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "17": [
+            54.0,
+            57.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "18": [
+            57.0,
+            60.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "19": [
+            60.0,
+            63.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "20": [
+            63.0,
+            66.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "21": [
+            66.0,
+            69.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "22": [
+            69.0,
+            72.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "23": [
+            72.0,
+            75.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "24": [
+            75.0,
+            78.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "25": [
+            78.0,
+            81.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "26": [
+            81.0,
+            84.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "27": [
+            84.0,
+            87.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "28": [
+            87.0,
+            90.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "29": [
+            90.0,
+            93.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "30": [
+            93.0,
+            96.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "31": [
+            96.0,
+            99.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "32": [
+            99.0,
+            102.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "33": [
+            102.0,
+            105.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "34": [
+            105.0,
+            108.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "35": [
+            108.0,
+            111.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "36": [
+            111.0,
+            114.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "37": [
+            114.0,
+            117.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "38": [
+            117.0,
+            120.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "39": [
+            120.0,
+            123.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "40": [
+            123.0,
+            126.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "41": [
+            126.0,
+            129.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "42": [
+            129.0,
+            132.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "43": [
+            132.0,
+            135.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "44": [
+            135.0,
+            138.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "45": [
+            138.0,
+            141.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "46": [
+            141.0,
+            144.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "47": [
+            144.0,
+            147.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "48": [
+            147.0,
+            150.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "49": [
+            150.0,
+            153.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "50": [
+            153.0,
+            156.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "51": [
+            156.0,
+            159.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "52": [
+            159.0,
+            162.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "53": [
+            162.0,
+            165.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "54": [
+            165.0,
+            168.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "55": [
+            168.0,
+            171.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "56": [
+            171.0,
+            174.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "57": [
+            174.0,
+            177.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "58": [
+            177.0,
+            180.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "59": [
+            180.0,
+            183.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "60": [
+            183.0,
+            186.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "61": [
+            186.0,
+            189.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "62": [
+            189.0,
+            192.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "63": [
+            192.0,
+            195.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "64": [
+            195.0,
+            198.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "65": [
+            198.0,
+            201.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "66": [
+            201.0,
+            204.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "67": [
+            204.0,
+            207.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "68": [
+            207.0,
+            210.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "69": [
+            210.0,
+            213.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "70": [
+            213.0,
+            216.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "71": [
+            216.0,
+            219.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "72": [
+            219.0,
+            222.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "73": [
+            222.0,
+            225.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "74": [
+            225.0,
+            228.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "75": [
+            228.0,
+            231.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "76": [
+            231.0,
+            234.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "77": [
+            234.0,
+            237.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "78": [
+            237.0,
+            240.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "79": [
+            240.0,
+            243.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "80": [
+            243.0,
+            246.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "81": [
+            246.0,
+            249.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "82": [
+            249.0,
+            252.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "83": [
+            252.0,
+            255.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "84": [
+            255.0,
+            258.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "85": [
+            258.0,
+            261.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "86": [
+            261.0,
+            264.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "87": [
+            264.0,
+            267.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "88": [
+            267.0,
+            270.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "89": [
+            270.0,
+            273.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "90": [
+            273.0,
+            276.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "91": [
+            276.0,
+            279.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "92": [
+            279.0,
+            282.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "93": [
+            282.0,
+            285.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "94": [
+            285.0,
+            288.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "95": [
+            288.0,
+            291.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "96": [
+            291.0,
+            294.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "97": [
+            294.0,
+            297.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "98": [
+            297.0,
+            300.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "99": [
+            300.0,
+            303.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "100": [
+            303.0,
+            306.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "101": [
+            306.0,
+            309.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "102": [
+            309.0,
+            312.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "103": [
+            312.0,
+            315.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "104": [
+            315.0,
+            318.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "105": [
+            318.0,
+            321.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "106": [
+            321.0,
+            324.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "107": [
+            324.0,
+            327.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "108": [
+            327.0,
+            330.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "109": [
+            330.0,
+            333.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "110": [
+            333.0,
+            336.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "111": [
+            336.0,
+            339.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "112": [
+            339.0,
+            342.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "113": [
+            342.0,
+            345.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "114": [
+            345.0,
+            348.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "115": [
+            348.0,
+            351.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "116": [
+            351.0,
+            354.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "117": [
+            354.0,
+            357.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "118": [
+            357.0,
+            360.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "119": [
+            360.0,
+            363.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "120": [
+            363.0,
+            366.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "121": [
+            366.0,
+            369.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "122": [
+            369.0,
+            372.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "123": [
+            372.0,
+            375.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "124": [
+            375.0,
+            378.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "125": [
+            378.0,
+            381.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "126": [
+            381.0,
+            384.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "127": [
+            384.0,
+            387.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "128": [
+            387.0,
+            390.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "129": [
+            390.0,
+            393.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "130": [
+            393.0,
+            396.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "131": [
+            396.0,
+            399.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "132": [
+            399.0,
+            402.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "133": [
+            402.0,
+            405.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "134": [
+            405.0,
+            408.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "135": [
+            408.0,
+            411.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "136": [
+            411.0,
+            414.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "137": [
+            414.0,
+            417.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "138": [
+            417.0,
+            420.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "139": [
+            420.0,
+            423.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "140": [
+            423.0,
+            426.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "141": [
+            426.0,
+            429.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "142": [
+            429.0,
+            432.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "143": [
+            432.0,
+            435.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "144": [
+            435.0,
+            438.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "145": [
+            438.0,
+            441.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "146": [
+            441.0,
+            444.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "147": [
+            444.0,
+            447.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "148": [
+            447.0,
+            450.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "149": [
+            450.0,
+            453.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "150": [
+            453.0,
+            456.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "151": [
+            456.0,
+            459.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "152": [
+            459.0,
+            462.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "153": [
+            462.0,
+            465.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "154": [
+            465.0,
+            468.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "155": [
+            468.0,
+            471.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "156": [
+            471.0,
+            474.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "157": [
+            474.0,
+            477.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "158": [
+            477.0,
+            480.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "159": [
+            480.0,
+            483.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "160": [
+            483.0,
+            486.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "161": [
+            486.0,
+            489.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "162": [
+            489.0,
+            492.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "163": [
+            492.0,
+            495.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "164": [
+            495.0,
+            498.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "165": [
+            498.0,
+            501.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "166": [
+            501.0,
+            504.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "167": [
+            504.0,
+            507.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "168": [
+            507.0,
+            510.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "169": [
+            510.0,
+            513.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "170": [
+            513.0,
+            516.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "171": [
+            516.0,
+            519.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "172": [
+            519.0,
+            522.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "173": [
+            522.0,
+            525.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "174": [
+            525.0,
+            528.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "175": [
+            528.0,
+            531.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "176": [
+            531.0,
+            534.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "177": [
+            534.0,
+            537.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "178": [
+            537.0,
+            540.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "179": [
+            540.0,
+            543.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "180": [
+            543.0,
+            546.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "181": [
+            546.0,
+            549.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "182": [
+            549.0,
+            552.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "183": [
+            552.0,
+            555.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "184": [
+            555.0,
+            558.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "185": [
+            558.0,
+            561.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "186": [
+            561.0,
+            564.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "187": [
+            564.0,
+            567.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "188": [
+            567.0,
+            570.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "189": [
+            570.0,
+            573.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "190": [
+            573.0,
+            576.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "191": [
+            576.0,
+            579.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "192": [
+            579.0,
+            582.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "193": [
+            582.0,
+            585.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "194": [
+            585.0,
+            588.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "195": [
+            588.0,
+            591.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "196": [
+            591.0,
+            594.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "197": [
+            594.0,
+            597.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "198": [
+            597.0,
+            600.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "199": [
+            600.0,
+            603.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "200": [
+            603.0,
+            606.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "201": [
+            606.0,
+            609.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "202": [
+            609.0,
+            612.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "203": [
+            612.0,
+            615.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "204": [
+            615.0,
+            618.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "205": [
+            618.0,
+            621.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "206": [
+            621.0,
+            624.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "207": [
+            624.0,
+            627.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "208": [
+            627.0,
+            630.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "209": [
+            630.0,
+            633.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "210": [
+            633.0,
+            636.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "211": [
+            636.0,
+            639.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "212": [
+            639.0,
+            642.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "213": [
+            642.0,
+            645.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "214": [
+            645.0,
+            648.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "215": [
+            648.0,
+            651.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "216": [
+            651.0,
+            654.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "217": [
+            654.0,
+            657.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "218": [
+            657.0,
+            660.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "219": [
+            660.0,
+            663.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "220": [
+            663.0,
+            666.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "221": [
+            666.0,
+            669.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "222": [
+            669.0,
+            672.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "223": [
+            672.0,
+            675.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "224": [
+            675.0,
+            678.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "225": [
+            678.0,
+            681.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "226": [
+            681.0,
+            684.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "227": [
+            684.0,
+            687.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "228": [
+            687.0,
+            690.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "229": [
+            690.0,
+            693.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "230": [
+            693.0,
+            696.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "231": [
+            696.0,
+            699.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "232": [
+            699.0,
+            702.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "233": [
+            702.0,
+            705.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "234": [
+            705.0,
+            708.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "235": [
+            708.0,
+            711.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "236": [
+            711.0,
+            714.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "237": [
+            714.0,
+            717.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "238": [
+            717.0,
+            720.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "239": [
+            720.0,
+            723.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "240": [
+            723.0,
+            726.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "241": [
+            726.0,
+            729.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "242": [
+            729.0,
+            732.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "243": [
+            732.0,
+            735.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "244": [
+            735.0,
+            738.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "245": [
+            738.0,
+            741.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "246": [
+            741.0,
+            744.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "247": [
+            744.0,
+            747.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "248": [
+            747.0,
+            750.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "249": [
+            750.0,
+            753.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "250": [
+            753.0,
+            756.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "251": [
+            756.0,
+            759.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "252": [
+            759.0,
+            762.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "253": [
+            762.0,
+            765.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "254": [
+            765.0,
+            768.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "255": [
+            768.0,
+            771.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "256": [
+            771.0,
+            774.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "257": [
+            774.0,
+            777.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "258": [
+            777.0,
+            780.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "259": [
+            780.0,
+            783.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "260": [
+            783.0,
+            786.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "261": [
+            786.0,
+            789.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "262": [
+            789.0,
+            792.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "263": [
+            792.0,
+            795.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "264": [
+            795.0,
+            798.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "265": [
+            798.0,
+            801.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "266": [
+            801.0,
+            804.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "267": [
+            804.0,
+            807.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "268": [
+            807.0,
+            810.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "269": [
+            810.0,
+            813.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "270": [
+            813.0,
+            816.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "271": [
+            816.0,
+            819.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "272": [
+            819.0,
+            822.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "273": [
+            822.0,
+            825.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "274": [
+            825.0,
+            828.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "275": [
+            828.0,
+            831.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "276": [
+            831.0,
+            834.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "277": [
+            834.0,
+            837.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "278": [
+            837.0,
+            840.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "279": [
+            840.0,
+            843.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "280": [
+            843.0,
+            846.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "281": [
+            846.0,
+            849.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "282": [
+            849.0,
+            852.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "283": [
+            852.0,
+            855.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "284": [
+            855.0,
+            858.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "285": [
+            858.0,
+            861.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "286": [
+            861.0,
+            864.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "287": [
+            864.0,
+            867.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "288": [
+            867.0,
+            870.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "289": [
+            870.0,
+            873.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "290": [
+            873.0,
+            876.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "291": [
+            876.0,
+            879.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "292": [
+            879.0,
+            882.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "293": [
+            882.0,
+            885.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "294": [
+            885.0,
+            888.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "295": [
+            888.0,
+            891.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "296": [
+            891.0,
+            894.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "297": [
+            894.0,
+            897.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "298": [
+            897.0,
+            900.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "299": [
+            900.0,
+            903.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "300": [
+            903.0,
+            906.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "301": [
+            906.0,
+            909.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "302": [
+            909.0,
+            912.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "303": [
+            912.0,
+            915.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "304": [
+            915.0,
+            918.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "305": [
+            918.0,
+            921.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "306": [
+            921.0,
+            924.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "307": [
+            924.0,
+            927.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "308": [
+            927.0,
+            930.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "309": [
+            930.0,
+            933.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "310": [
+            933.0,
+            936.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "311": [
+            936.0,
+            939.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "312": [
+            939.0,
+            942.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "313": [
+            942.0,
+            945.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "314": [
+            945.0,
+            948.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "315": [
+            948.0,
+            951.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "316": [
+            951.0,
+            954.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "317": [
+            954.0,
+            957.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "318": [
+            957.0,
+            960.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "319": [
+            960.0,
+            963.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "320": [
+            963.0,
+            966.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "321": [
+            966.0,
+            969.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "322": [
+            969.0,
+            972.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "323": [
+            972.0,
+            975.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "324": [
+            975.0,
+            978.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "325": [
+            978.0,
+            981.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "326": [
+            981.0,
+            984.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "327": [
+            984.0,
+            987.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "328": [
+            987.0,
+            990.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "329": [
+            990.0,
+            993.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "330": [
+            993.0,
+            996.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "331": [
+            996.0,
+            999.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "332": [
+            999.0,
+            1002.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "333": [
+            1002.0,
+            1005.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "334": [
+            1005.0,
+            1008.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "335": [
+            1008.0,
+            1011.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "336": [
+            1011.0,
+            1014.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "337": [
+            1014.0,
+            1017.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "338": [
+            1017.0,
+            1020.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "339": [
+            1020.0,
+            1023.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "340": [
+            1023.0,
+            1026.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "341": [
+            1026.0,
+            1029.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "342": [
+            1029.0,
+            1032.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "343": [
+            1032.0,
+            1035.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "344": [
+            1035.0,
+            1038.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "345": [
+            1038.0,
+            1041.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "346": [
+            1041.0,
+            1044.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "347": [
+            1044.0,
+            1047.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "348": [
+            1047.0,
+            1050.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "349": [
+            1050.0,
+            1053.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "350": [
+            1053.0,
+            1056.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "351": [
+            1056.0,
+            1059.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "352": [
+            1059.0,
+            1062.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "353": [
+            1062.0,
+            1065.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "354": [
+            1065.0,
+            1068.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "355": [
+            1068.0,
+            1071.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "356": [
+            1071.0,
+            1074.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "357": [
+            1074.0,
+            1077.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "358": [
+            1077.0,
+            1080.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "359": [
+            1080.0,
+            1083.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "360": [
+            1083.0,
+            1086.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "361": [
+            1086.0,
+            1089.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "362": [
+            1089.0,
+            1092.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "363": [
+            1092.0,
+            1095.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "364": [
+            1095.0,
+            1098.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "365": [
+            1098.0,
+            1101.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "366": [
+            1101.0,
+            1104.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "367": [
+            1104.0,
+            1107.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "368": [
+            1107.0,
+            1110.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "369": [
+            1110.0,
+            1113.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "370": [
+            1113.0,
+            1116.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "371": [
+            1116.0,
+            1119.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "372": [
+            1119.0,
+            1122.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "373": [
+            1122.0,
+            1125.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "374": [
+            1125.0,
+            1128.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "375": [
+            1128.0,
+            1131.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "376": [
+            1131.0,
+            1134.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "377": [
+            1134.0,
+            1137.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "378": [
+            1137.0,
+            1140.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "379": [
+            1140.0,
+            1143.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "380": [
+            1143.0,
+            1146.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "381": [
+            1146.0,
+            1149.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "382": [
+            1149.0,
+            1152.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "383": [
+            1152.0,
+            1155.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "384": [
+            1155.0,
+            1158.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "385": [
+            1158.0,
+            1161.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "386": [
+            1161.0,
+            1164.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "387": [
+            1164.0,
+            1167.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "388": [
+            1167.0,
+            1170.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "389": [
+            1170.0,
+            1173.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "390": [
+            1173.0,
+            1176.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "391": [
+            1176.0,
+            1179.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "392": [
+            1179.0,
+            1182.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "393": [
+            1182.0,
+            1185.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "394": [
+            1185.0,
+            1188.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "395": [
+            1188.0,
+            1191.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "396": [
+            1191.0,
+            1194.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "397": [
+            1194.0,
+            1197.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "398": [
+            1197.0,
+            1200.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "399": [
+            1200.0,
+            1203.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "400": [
+            1203.0,
+            1206.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "401": [
+            1206.0,
+            1209.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "402": [
+            1209.0,
+            1212.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "403": [
+            1212.0,
+            1215.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "404": [
+            1215.0,
+            1218.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "405": [
+            1218.0,
+            1221.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "406": [
+            1221.0,
+            1224.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "407": [
+            1224.0,
+            1227.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "408": [
+            1227.0,
+            1230.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "409": [
+            1230.0,
+            1233.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "410": [
+            1233.0,
+            1236.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "411": [
+            1237.0,
+            1240.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "412": [
+            1240.0,
+            1243.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "413": [
+            1243.0,
+            1246.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "414": [
+            1246.0,
+            1249.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "415": [
+            1249.0,
+            1252.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "416": [
+            1252.0,
+            1255.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "417": [
+            1255.0,
+            1258.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "418": [
+            1258.0,
+            1261.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "419": [
+            1261.0,
+            1264.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "420": [
+            1264.0,
+            1267.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "421": [
+            1267.0,
+            1270.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "422": [
+            1270.0,
+            1273.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "423": [
+            1273.0,
+            1276.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "424": [
+            1276.0,
+            1279.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "425": [
+            1279.0,
+            1282.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "426": [
+            1283.0,
+            1286.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "427": [
+            1286.0,
+            1289.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "428": [
+            1289.0,
+            1292.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "429": [
+            1292.0,
+            1295.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "430": [
+            1295.0,
+            1298.0,
+            "Barça-Marseille-Marseille-Marseille-Marseille, Barça-Marseille-Marseille-Marseille-Marseille,"
+        ],
+        "431": [
+            1299.0,
+            1304.0,
+            "Jaume Acosta retreats against Leo Messi, delivers for Trigueros, Mario goes up on the right,"
+        ],
+        "432": [
+            1304.0,
+            1310.0,
+            "They saw him, deep ball from Trigueros, he tries to reach it and it seems that Nobelda's player is going to do it,"
+        ],
+        "433": [
+            1310.0,
+            1315.0,
+            "not to continue playing, but to somehow change a goal kick for a throw-in."
+        ],
+        "434": [
+            1318.0,
+            1324.0,
+            "There we have Neymar's action again with Rodri Hernández, Sánchez Martínez did not indicate a foul."
+        ],
+        "435": [
+            1328.0,
+            1339.0,
+            "The Lucas Diñe raffle, Musachio cuts, ball to Rodri, Rakit Ixtábalo presses and he ends up getting away from that ball,"
+        ],
+        "436": [
+            1339.0,
+            1342.0,
+            "which Lucas Diñe will collect without opposition."
+        ],
+        "437": [
+            1345.0,
+            1347.0,
+            "Castillejo at Villarreal."
+        ],
+        "438": [
+            1347.0,
+            1348.0,
+            "Change."
+        ],
+        "439": [
+            1348.0,
+            1356.0,
+            "Samu Castillejo is preparing or is going to begin preparing, this is what Fran Escribá has indicated that he has sent him to the bench."
+        ],
+        "440": [
+            1356.0,
+            1360.0,
+            "Busquets made a mistake, Villarreal recovered first-hand Rodri, Trigueros wants to turn around."
+        ],
+        "441": [
+            1360.0,
+            1366.0,
+            "Trigueros opening, raises the referee's flag, out of play there."
+        ],
+        "442": [
+            1367.0,
+            1374.0,
+            "Roberto Soriano came forward, Rakitic quickly takes Sergi Roberto to run, tries to take advantage of this action to sting Barcelona."
+        ],
+        "443": [
+            1376.0,
+            1382.0,
+            "Sergi Roberto opens, Aria Suárez steps on, looks for the gap, Luis cuts back, Suárez continues."
+        ],
+        "444": [
+            1383.0,
+            1386.0,
+            "Goal!"
+        ],
+        "445": [
+            1393.0,
+            1397.0,
+            "From Barça in '68, goal from Luis Suárez."
+        ],
+        "446": [
+            1397.0,
+            1405.0,
+            "Where there is quality, where there is talent, where there is discipline, where there is a quality of the collective aspect,"
+        ],
+        "447": [
+            1405.0,
+            1411.0,
+            "There is also a street, there is also asphalt, there is also mischief, there is also that point that every competition requires"
+        ],
+        "448": [
+            1411.0,
+            1414.0,
+            "to be a little faster and smarter than your rival."
+        ],
+        "449": [
+            1414.0,
+            1421.0,
+            "FC Barcelona left the ball dead there and served quickly to take advantage of the fact that Villarreal had not reflected."
+        ],
+        "450": [
+            1421.0,
+            1428.0,
+            "Sergi Roberto's run to enable Luis Suárez who in the one-on-one, after the cut, marks the third for FC Barcelona."
+        ],
+        "451": [
+            1428.0,
+            1431.0,
+            "Goal from Suárez, Barça 3-1 Villarreal."
+        ],
+        "452": [
+            1431.0,
+            1433.0,
+            "Live Villarreal or not?"
+        ],
+        "453": [
+            1433.0,
+            1436.0,
+            "Yes, that's right, I think everything comes from there, right?"
+        ],
+        "454": [
+            1436.0,
+            1442.0,
+            "A player who is more astute, I would say more concentrated, more involved, is Rakitic."
+        ],
+        "455": [
+            1442.0,
+            1447.0,
+            "Rakitic serves quickly and, well, there is disorder in the defense."
+        ],
+        "456": [
+            1447.0,
+            1453.0,
+            "It doesn't take him long to retreat and in the end that quick attack, mind you, was Rakitic on Sergi Roberto."
+        ],
+        "457": [
+            1453.0,
+            1459.0,
+            "Sergi Roberto on Suárez, with three players, three passes and he scored the goal."
+        ],
+        "458": [
+            1459.0,
+            1468.0,
+            "It's already a one against one, which in the end is a two against one, but the defender who was going to Villarreal's help arrives late and it becomes 3-1."
+        ],
+        "459": [
+            1468.0,
+            1473.0,
+            "It seemed like Villarreal was hesitating, right? Which has been? Was it a mistake? Has it been offside? Is Rakitic going faster?"
+        ],
+        "460": [
+            1473.0,
+            1480.0,
+            "And there comes this third goal that can give him peace of mind when Villarreal had already advanced lines."
+        ],
+        "461": [
+            1480.0,
+            1487.0,
+            "He was already going to look for Barça more, he was even on the verge of penalizing him, it had forced him to make mistakes in that starting area"
+        ],
+        "462": [
+            1487.0,
+            1494.0,
+            "to look for the possibility of a tie, but he found that it was of no use and Barcelona's third arrived."
+        ],
+        "463": [
+            1494.0,
+            1507.0,
+            "27 goals from Luis Suárez in 33 games, or what is the same, 34 in the season, 50 from Leomés in the season, 16 from Neymar Junior in the season."
+        ],
+        "464": [
+            1507.0,
+            1513.0,
+            "The trident in all competitions reaches 100 goals this season with this 3-1"
+        ],
+        "465": [
+            1513.0,
+            1521.0,
+            "with which Barça beats Villarreal who is about to make the changes. Sansone and Samu Castillejo are going to enter."
+        ],
+        "466": [
+            1521.0,
+            1535.0,
+            "It is the third consecutive season in which this scoring association, Messi, Neymar Suárez, reaches, exceeds 100 goals in all competitions."
+        ],
+        "467": [
+            1536.0,
+            1549.0,
+            "Marcos Suárez, 3-1 for FC Barcelona, ​​the assist will be given to Sergi Roberto, but although the statistics do not appear, Iván Rakitic was in the Genesis, at the origin of everything with that quick serve."
+        ],
+        "468": [
+            1549.0,
+            1555.0,
+            "Once the double change is prepared at Villarreal, the modifications will also arrive at Barça with Jordi Alba."
+        ],
+        "469": [
+            1555.0,
+            1567.0,
+            "Ah well, yes, with Jordi Alba, who was already prepared and Luis Enrique Mascherano was also calling, but Jordi Alba is true, he had sneaked in here by the way and I had not seen him, he is now ready to enter the field of play ."
+        ],
+        "470": [
+            1567.0,
+            1570.0,
+            "Be careful, there is a card, for a Soldier."
+        ],
+        "471": [
+            1571.0,
+            1576.0,
+            "The fourth of the match, second for a Villarreal footballer."
+        ],
+        "472": [
+            1576.0,
+            1579.0,
+            "And he leaves, Soldier is one of the men who leaves."
+        ],
+        "473": [
+            1580.0,
+            1585.0,
+            "Whistled by the Camp Nou, Valencian footballer, raised in the Real Madrid youth academy."
+        ],
+        "474": [
+            1585.0,
+            1595.0,
+            "He had commented this week that he had not won at the Camp Nou, that it was a good time to do so, but at the moment 3-1 on the scoreboard, Sansone comes in as a soldier."
+        ],
+        "475": [
+            1596.0,
+            1602.0,
+            "Roberto Soriano leaves the field of play, the Italian enters, Samu Castillejo."
+        ],
+        "476": [
+            1602.0,
+            1610.0,
+            "The change that Fran Escriba could have planned, prepared, before the goal and that he also executes, although he has included one more modification."
+        ],
+        "477": [
+            1610.0,
+            1615.0,
+            "And the one who is going to wait now is Jordi Alba, let's see if we have to wait, well he's going to have to wait a little longer."
+        ],
+        "478": [
+            1616.0,
+            1622.0,
+            "There is the double change in Villarreal, Roberto Soriano left, Samu Castillejo came in, Soldado left."
+        ],
+        "479": [
+            1623.0,
+            1627.0,
+            "Inside to accompany Backenbou, the Italian Nicola Sansone."
+        ],
+        "480": [
+            1627.0,
+            1632.0,
+            "And Sansone seems to be going to occupy Soldado's position and Castillejo has come to the right."
+        ],
+        "481": [
+            1633.0,
+            1640.0,
+            "He will face in the same space with Digne, Jonathan dos Santos has passed to the left of Soriano's area against Sergi Roberto."
+        ],
+        "482": [
+            1640.0,
+            1645.0,
+            "Surely, as Ricardo said, he had already thought about these two changes, he could have changed them in case of a tie,"
+        ],
+        "483": [
+            1645.0,
+            1654.0,
+            "but by adding one more goal in favor of Barcelona, ​​they also serve to put in fresh players with rested legs."
+        ],
+        "484": [
+            1654.0,
+            1662.0,
+            "They will need them to attack and look for a goal that will put them in the game, but at the same time they cannot be careless defensively."
+        ],
+        "485": [
+            1663.0,
+            1668.0,
+            "Trigueros to the ground in that pumbaa with Rakitic, Neymar goes behind him, Neymar continues, more of Neymar."
+        ],
+        "486": [
+            1668.0,
+            1671.0,
+            "Neymar in the front, Neymar is surrounded by rival shirts."
+        ],
+        "487": [
+            1672.0,
+            1677.0,
+            "He left it to Suárez that he didn't get that touch right when he first ran, says Cedric Backenbou, and he runs a lot."
+        ],
+        "488": [
+            1678.0,
+            1682.0,
+            "There goes Backenbou who leaves Samuel Ontiti out of the way, Sansone follows him in that attacking action."
+        ],
+        "489": [
+            1683.0,
+            1686.0,
+            "He already steps on Arie Backenbou, Backenbou continues, Backenbou hits him, he takes it from the corner."
+        ],
+        "490": [
+            1687.0,
+            1693.0,
+            "Cedric Backenbou did it all from the moment he caught the ball about 60 meters from the Barcelona goal."
+        ],
+        "491": [
+            1693.0,
+            1698.0,
+            "He is in great shape, here we see how he recovers the ball near the center of the field."
+        ],
+        "492": [
+            1699.0,
+            1706.0,
+            "There is a very good unmarking by Sansone that in the end he does not interpret it, he continues and when he arrives in the area, I thought he would shoot,"
+        ],
+        "493": [
+            1707.0,
+            1711.0,
+            "but he makes a bicycle and then it is true that the shot was deflected by the Barcelona player."
+        ],
+        "494": [
+            1712.0,
+            1713.0,
+            "Good action."
+        ],
+        "495": [
+            1714.0,
+            1719.0,
+            "Jonathan dos Santos puts it inside the Trigueros area, sends the first post, the ball is rejected by Samu Castillejo."
+        ],
+        "496": [
+            1719.0,
+            1724.0,
+            "Castillejo, chased by Neymar, puts Neymar's body in, which he ends up recovering."
+        ],
+        "497": [
+            1725.0,
+            1731.0,
+            "He hides it, leaves a backheel for Digne, Digne does not follow that ball, the last one to touch was the Frenchman from Barça."
+        ],
+        "498": [
+            1732.0,
+            1734.0,
+            "Throw-in for Villarreal."
+        ],
+        "499": [
+            1735.0,
+            1739.0,
+            "Jordi Alba is still waiting for all this, a little more and Ricardo will have to warm up again."
+        ],
+        "500": [
+            1740.0,
+            1745.0,
+            "Yes, because in this stand, since the sun is no longer shining, the wind has been blowing for a long time and it is a little cool now."
+        ],
+        "501": [
+            1746.0,
+            1748.0,
+            "New interruption but the change is not carried out."
+        ],
+        "502": [
+            1749.0,
+            1755.0,
+            "No, and Marchena is not on the bench, also stripped of his tracksuit bib, also waiting for the modification."
+        ],
+        "503": [
+            1756.0,
+            1759.0,
+            "I don't know if he's going to do them at the same time or if he's going to make two stops in Luis Enrique's game."
+        ],
+        "504": [
+            1760.0,
+            1766.0,
+            "Trigueros could be encouraged by hitting, he prefers to open to the left, he does not understand Jaume Costa and now the change is going to come."
+        ],
+        "505": [
+            1767.0,
+            1771.0,
+            "Now, Luis Enrique makes the gesture to the fourth referee to now allow the modification."
+        ],
+        "506": [
+            1771.0,
+            1777.0,
+            "Carlos Naval there with the bracelet as a delegate waiting to see the numbers on the board."
+        ],
+        "507": [
+            1778.0,
+            1780.0,
+            "Sánchez Martínez giving permission for the change."
+        ],
+        "508": [
+            1781.0,
+            1784.0,
+            "The one who leaves the field of play is Lucas Diñe."
+        ],
+        "509": [
+            1785.0,
+            1796.0,
+            "The surprise today because we were expecting Jordi Alba and at this moment not on hand but on the pitch is the gala eleven."
+        ],
+        "510": [
+            1796.0,
+            1799.0,
+            "Something that has not happened all season in a starting eleven."
+        ],
+        "511": [
+            1800.0,
+            1807.0,
+            "Now with the entry of Jordi Alba on the field of play, this is Luis Enrique's gala team, FC Barcelona's gala team."
+        ],
+        "512": [
+            1808.0,
+            1813.0,
+            "It is surprising that this gala eleven has not been fielded throughout the league."
+        ],
+        "513": [
+            1814.0,
+            1819.0,
+            "Surprising when you hear this information and in the case of Diñe for me a complete game."
+        ],
+        "514": [
+            1819.0,
+            1822.0,
+            "Not only in defense, which is what he has to do as a left back, but in attack he has provided depth."
+        ],
+        "515": [
+            1823.0,
+            1826.0,
+            "Messi starts, Neymar is asking him for it. Neymar wants another one. Neymar, Neymar, Neymar."
+        ],
+        "516": [
+            1827.0,
+            1835.0,
+            "Andrés Fernández catches. He tried to hit it and the goalkeeper didn't give in. He stayed standing and meekly caught that shot."
+        ],
+        "517": [
+            1836.0,
+            1837.0,
+            "There was the Barça room."
+        ],
+        "518": [
+            1838.0,
+            1845.0,
+            "I don't know what he wanted to do from our position. Being left-footed, I thought that many forwards didn't want to do anything."
+        ],
+        "519": [
+            1845.0,
+            1851.0,
+            "Shoot under the goalkeeper's legs, which are normally open there, trying to occupy as much space as possible."
+        ],
+        "520": [
+            1852.0,
+            1861.0,
+            "But he has chosen to want to bite her, something very difficult. At no point has the goalkeeper let himself fall, he has won and stopped the ball very well."
+        ],
+        "521": [
+            1862.0,
+            1868.0,
+            "Again to the charge of the trident. Directed by Luis Suárez. Ball for Messi. Messi on the front, Messi on the ground. There is no lack of Jaume Acosta."
+        ],
+        "522": [
+            1868.0,
+            1870.0,
+            "He touched the ball clearly."
+        ],
+        "523": [
+            1872.0,
+            1873.0,
+            "Samu Castillejo."
+        ],
+        "524": [
+            1875.0,
+            1881.0,
+            "Trigueros. He turns around, Santos cries so much. He pulls Bakambú's uncheck. The ball is excellent. Bakambu."
+        ],
+        "525": [
+            1882.0,
+            1888.0,
+            "Put your toe in. Piqué appears about to invoke Nicolás Sansone. Bakambú insists that he is looking for space to hit."
+        ],
+        "526": [
+            1889.0,
+            1891.0,
+            "He wants to combine with Samu. A goal."
+        ],
+        "527": [
+            1891.0,
+            1895.0,
+            "The danger for Barcelona has passed. Very clear action for Villarreal's 3-2."
+        ],
+        "528": [
+            1896.0,
+            1899.0,
+            "There is a foul on Neymar. Yellow card for Rodri."
+        ],
+        "529": [
+            1900.0,
+            1901.0,
+            "Not for Musacio."
+        ],
+        "530": [
+            1902.0,
+            1903.0,
+            "Correct."
+        ],
+        "531": [
+            1904.0,
+            1909.0,
+            "For Musacio he was out of position. He went into that action with everything with Neymar."
+        ],
+        "532": [
+            1910.0,
+            1912.0,
+            "And the lack costs him speed."
+        ],
+        "533": [
+            1912.0,
+            1916.0,
+            "Barça's gala eleven did not last long on the pitch."
+        ],
+        "534": [
+            1917.0,
+            1923.0,
+            "Even if it was circumstantially, because the news is that Luis Enrique has not used it in any game so far in the league."
+        ],
+        "535": [
+            1924.0,
+            1925.0,
+            "We are on day 36."
+        ],
+        "536": [
+            1926.0,
+            1928.0,
+            "The truth is that the League game has not been seen."
+        ],
+        "537": [
+            1929.0,
+            1931.0,
+            "The truth is that the League game has not been seen."
+        ],
+        "538": [
+            1932.0,
+            1934.0,
+            "The truth is that the League game has not been seen."
+        ],
+        "539": [
+            1935.0,
+            1937.0,
+            "The truth is that the League game has not been seen."
+        ],
+        "540": [
+            1937.0,
+            1940.0,
+            "Luis Enrique has not used it in any game so far in the league."
+        ],
+        "541": [
+            1941.0,
+            1942.0,
+            "We are on day 36."
+        ],
+        "542": [
+            1943.0,
+            1944.0,
+            "The applause for Sergi Roberto."
+        ],
+        "543": [
+            1949.0,
+            1953.0,
+            "I think that at the Camp Nou it will take a while for them to forget that goal against PSG."
+        ],
+        "544": [
+            1954.0,
+            1959.0,
+            "Ricardo, if he changed Sergi Roberto before, you wouldn't have been able to tell."
+        ],
+        "545": [
+            1960.0,
+            1966.0,
+            "Well, I insist that the news is that the starting eleven has never used it."
+        ],
+        "546": [
+            1967.0,
+            1972.0,
+            "Today we expected him, but the option of Diñe instead of Jordi Alba, surprised."
+        ],
+        "547": [
+            1973.0,
+            1981.0,
+            "And that is where the comment that Barça has a gala eleven, but in the League it has not been released yet."
+        ],
+        "548": [
+            1982.0,
+            1983.0,
+            "Sergi Roberto left."
+        ],
+        "549": [
+            1984.0,
+            1987.0,
+            "Javier Mascherano came in, who is already asking for it, advancing on the right."
+        ],
+        "550": [
+            1987.0,
+            1991.0,
+            "There goes Messi, in speed. Messi continues. Opening for who? For Neymar."
+        ],
+        "551": [
+            1992.0,
+            1998.0,
+            "Neymar was offside, but he still went for the ball, aware that the flag was going to go up."
+        ],
+        "552": [
+            1999.0,
+            2003.0,
+            "Possession for Villarreal. We see Mascherano positioned as a right-back."
+        ],
+        "553": [
+            2004.0,
+            2010.0,
+            "Let's not lose sight of the fact that Sergi Roberto's yellow card in today's match leaves him out of the clash against Granada."
+        ],
+        "554": [
+            2010.0,
+            2023.0,
+            "Do you think this option will be the one that Luis Enrique likes the most?"
+        ],
+        "555": [
+            2024.0,
+            2028.0,
+            "Even for the Cup final, which cannot be lost sight of either."
+        ],
+        "556": [
+            2029.0,
+            2031.0,
+            "I think Sergi Roberto can't play it either."
+        ],
+        "557": [
+            2031.0,
+            2044.0,
+            "Now that there is no match during the week, there is no wear and tear due to another competition, Luis Enrique does not have as much need to rotate,"
+        ],
+        "558": [
+            2045.0,
+            2050.0,
+            "but to think about the commitments that lie ahead and above all also in that final of the Copa del Rey,"
+        ],
+        "559": [
+            2051.0,
+            2056.0,
+            "You already know which players you can count on and which ones you can't, unless there are more injuries."
+        ],
+        "560": [
+            2056.0,
+            2062.0,
+            "But it is one of the more possibilities to play with three, which he has also done in many games."
+        ],
+        "561": [
+            2063.0,
+            2070.0,
+            "Suárez does not play in that game either. André Gómez is going to enter the field of play. Then I say something about Lisbida."
+        ],
+        "562": [
+            2071.0,
+            2073.0,
+            "Neymar is very inspired today, but a lot."
+        ],
+        "563": [
+            2074.0,
+            2080.0,
+            "Iniesta. Leave Iniesta for Luis Suárez."
+        ],
+        "564": [
+            2080.0,
+            2087.0,
+            "Mascherano. He offers himself short to Messi, receives and turns around on the 10th."
+        ],
+        "565": [
+            2088.0,
+            2093.0,
+            "Iniesta steps on it so that Messi continues driving. More from Messi. 1-2 for Neymar to arrive."
+        ],
+        "566": [
+            2094.0,
+            2099.0,
+            "Neymar saves her on the same line, he is outside the area. Wonderful, Neymar continues to put it back."
+        ],
+        "567": [
+            2100.0,
+            2105.0,
+            "Suárez wants to finish. He has already covered one coast. Luis Suárez insists, a penalty is requested. Yes, there is."
+        ],
+        "568": [
+            2106.0,
+            2107.0,
+            "Ricardo, there is a penalty for Barcelona."
+        ],
+        "569": [
+            2107.0,
+            2109.0,
+            "What an outrage what Neymar just did."
+        ],
+        "570": [
+            2110.0,
+            2116.0,
+            "That yellow for Jaume Acosta. Aside from Neymar's play, Jaume Acosta tells him that he hit him in the chest."
+        ],
+        "571": [
+            2117.0,
+            2120.0,
+            "But Sánchez Martínez signaled a penalty at the request of his assistant."
+        ],
+        "572": [
+            2121.0,
+            2126.0,
+            "It took a while, I say this because he looked at the sideline a little and it was the linesman who gave him the penalty."
+        ],
+        "573": [
+            2127.0,
+            2129.0,
+            "Another thing is whether he is right or wrong, which we will see in the replay."
+        ],
+        "574": [
+            2130.0,
+            2133.0,
+            "He has not hesitated once, the assistant tells him the maximum sentence."
+        ],
+        "575": [
+            2133.0,
+            2134.0,
+            "Let's see."
+        ],
+        "576": [
+            2136.0,
+            2137.0,
+            "What do you think, Miquel?"
+        ],
+        "577": [
+            2138.0,
+            2142.0,
+            "It just doesn't look good. It doesn't look good if you first touch him on the chest and then on the arm."
+        ],
+        "578": [
+            2143.0,
+            2147.0,
+            "It touches him on the arm, but what is not seen in any of the shots is if it first touches him on the chest."
+        ],
+        "579": [
+            2148.0,
+            2152.0,
+            "Sánchez Martínez has his back turned. He sees Jaume Acosta's back."
+        ],
+        "580": [
+            2153.0,
+            2157.0,
+            "The thing is that it touches him on the arm, but what is not seen is if it first touches him on the chest."
+        ],
+        "581": [
+            2158.0,
+            2161.0,
+            "With which it would no longer be a penalty. Come on, the truth is that you can't see it."
+        ],
+        "582": [
+            2161.0,
+            2164.0,
+            "It wouldn't be a penalty, but come on, Neymar's play is impressive."
+        ],
+        "583": [
+            2165.0,
+            2169.0,
+            "He's going for Barcelona's fourth. 11 meters from the goal, Leo Messi."
+        ],
+        "584": [
+            2171.0,
+            2175.0,
+            "Hand in hand between Messi and Andrés. Authorize the referee, he's going to hit the 10. There goes Messi."
+        ],
+        "585": [
+            2176.0,
+            2184.0,
+            "Goal!"
+        ],
+        "586": [
+            2185.0,
+            2189.0,
+            "Barça goal in '81! Another from Leo Messi!"
+        ],
+        "587": [
+            2190.0,
+            2195.0,
+            "Tempered, calm, calm release. Panenka chopped and in the center."
+        ],
+        "588": [
+            2196.0,
+            2200.0,
+            "Almost almost touching the crossbar. Andrés was defeated on his side. It is Barcelona's ruling."
+        ],
+        "589": [
+            2201.0,
+            2204.0,
+            "Messi repeats. FC Barcelona 4-1 Villarreal."
+        ],
+        "590": [
+            2205.0,
+            2212.0,
+            "Messi did not want to be less compared to Neymar for the action that preceded that penalty."
+        ],
+        "591": [
+            2212.0,
+            2217.0,
+            "That bite he does to the Villarreal player. And here he also appears in Panenka style."
+        ],
+        "592": [
+            2218.0,
+            2222.0,
+            "Assuming that he is going to throw himself to the ground as if it had been Andrés'."
+        ],
+        "593": [
+            2223.0,
+            2229.0,
+            "Well, I think that's already 107 goals, right? This season in the League."
+        ],
+        "594": [
+            2230.0,
+            2231.0,
+            "From Barça, yes. From Barça."
+        ],
+        "595": [
+            2232.0,
+            2238.0,
+            "It is at 115 as Barcelona's record for Tito Vilanova's season. He is there at 7 goals."
+        ],
+        "596": [
+            2238.0,
+            2241.0,
+            "The applause goes to Rakitic. And now we go in parts."
+        ],
+        "597": [
+            2242.0,
+            2247.0,
+            "The Croatian footballer, the love of Camp Nou, retires. Andrés Gómez is going to enter the field of play."
+        ],
+        "598": [
+            2248.0,
+            2251.0,
+            "Change also at Villarreal. The one who leaves is Bakambú."
+        ],
+        "599": [
+            2252.0,
+            2258.0,
+            "Which has made the most dangerous actions, in addition to the goal against Villarreal."
+        ],
+        "600": [
+            2259.0,
+            2262.0,
+            "The one who enters the field of play is Adrián López."
+        ],
+        "601": [
+            2262.0,
+            2266.0,
+            "Messi's celebration. It is Messi's 51st goal this season."
+        ],
+        "602": [
+            2267.0,
+            2270.0,
+            "35th in the League. He is on his way to the golden boot."
+        ],
+        "603": [
+            2271.0,
+            2276.0,
+            "And it is the 101st goal for the Tridente this season and the 107th for Barça this year."
+        ],
+        "604": [
+            2278.0,
+            2282.0,
+            "Castillejo tried. The ball is about to reach Samson."
+        ],
+        "605": [
+            2283.0,
+            2285.0,
+            "He continues looking for the Italian who was offside."
+        ],
+        "606": [
+            2286.0,
+            2290.0,
+            "Ball for Barcelona. We are talking about season records."
+        ],
+        "607": [
+            2290.0,
+            2294.0,
+            "From the Argentine's final definition in that penalty shot."
+        ],
+        "608": [
+            2295.0,
+            2297.0,
+            "How difficult it was for us at times."
+        ],
+        "609": [
+            2298.0,
+            2303.0,
+            "See if that shot in which the hand is indicated in which the penalty is signaled."
+        ],
+        "610": [
+            2304.0,
+            2309.0,
+            "There is a touch before on the chest, as Jaume Acosta seemed to allege in the complaint with the referee."
+        ],
+        "611": [
+            2310.0,
+            2314.0,
+            "But between all that, we're left a little behind in that printing queue."
+        ],
+        "612": [
+            2315.0,
+            2318.0,
+            "What Neymar has done this season."
+        ],
+        "613": [
+            2318.0,
+            2321.0,
+            "What Neymar has done in the back line."
+        ],
+        "614": [
+            2322.0,
+            2324.0,
+            "Neymar is in a tremendously sweet moment."
+        ],
+        "615": [
+            2325.0,
+            2328.0,
+            "We said it before, it has already left 5, 6, 7, 8 spectacular details."
+        ],
+        "616": [
+            2329.0,
+            2333.0,
+            "This one, surely because it combines spectacularity with effectiveness, has been one of the best of the game."
+        ],
+        "617": [
+            2334.0,
+            2336.0,
+            "Yes, the truth is that he has gone from less to more in the game."
+        ],
+        "618": [
+            2337.0,
+            2339.0,
+            "He's doing a fantastic second part."
+        ],
+        "619": [
+            2340.0,
+            2343.0,
+            "Well, he is the player who dribbles the most in the League by far."
+        ],
+        "620": [
+            2343.0,
+            2348.0,
+            "And in every game when he is fit he doesn't stop trying and inventing things."
+        ],
+        "621": [
+            2349.0,
+            2353.0,
+            "Those actions, well, can only occur to him or Messi."
+        ],
+        "622": [
+            2354.0,
+            2358.0,
+            "But right at the moment he stops the ball, I think he already sees that the rival is coming with speed."
+        ],
+        "623": [
+            2359.0,
+            2360.0,
+            "And he has imagined what he is going to do."
+        ],
+        "624": [
+            2361.0,
+            2362.0,
+            "And then, of course, the execution is missing."
+        ],
+        "625": [
+            2363.0,
+            2365.0,
+            "Not just think about it and decide it, but do it."
+        ],
+        "626": [
+            2366.0,
+            2367.0,
+            "Which also turns out well."
+        ],
+        "627": [
+            2368.0,
+            2372.0,
+            "Neymar is precisely there putting pressure on the Villarreal defender."
+        ],
+        "628": [
+            2373.0,
+            2374.0,
+            "He ends up committing a foul."
+        ],
+        "629": [
+            2376.0,
+            2381.0,
+            "Well, this second half has, I think, in the statistics, perhaps Barcelona's position has dropped."
+        ],
+        "630": [
+            2382.0,
+            2384.0,
+            "He has also had it a little more than the first half of Villarreal."
+        ],
+        "631": [
+            2385.0,
+            2392.0,
+            "But I also believe that there have been more chances for both Barcelona, ​​especially Barcelona and also Villarreal."
+        ],
+        "632": [
+            2392.0,
+            2397.0,
+            "Because? Well, because Villarreal has decided at some point to advance its lines,"
+        ],
+        "633": [
+            2398.0,
+            2404.0,
+            "Also separate your lines and unprotect yourself or leave more spaces, large spaces,"
+        ],
+        "634": [
+            2405.0,
+            2411.0,
+            "where Barcelona has felt very comfortable when attacking it, thanks to this extremely talented trident."
+        ],
+        "635": [
+            2414.0,
+            2418.0,
+            "We are already in the last five minutes of regulation time of the game."
+        ],
+        "636": [
+            2423.0,
+            2427.0,
+            "André Gómez, who has just entered, replacing Rakitic at Villarreal."
+        ],
+        "637": [
+            2428.0,
+            2434.0,
+            "By the way, Adrián López came in to replace Bakambú, who has been very dangerous in practically all his appearances."
+        ],
+        "638": [
+            2435.0,
+            2440.0,
+            "Yes, we must highlight someone from Villarreal, of course there is Bakambú, who has been the best of the team."
+        ],
+        "639": [
+            2441.0,
+            2447.0,
+            "Not only because of the goal, but because in all his actions he has created danger and has been a continuous nuisance for the center backs, Tití and Piqué."
+        ],
+        "640": [
+            2448.0,
+            2453.0,
+            "Yes, Neymar's Helena after that cross from Luis Suárez, it was almost impossible to direct the goal."
+        ],
+        "641": [
+            2454.0,
+            2459.0,
+            "Barcelona insists, Suárez insists, who is already in the area, Suárez puts it in, Messi is waiting for it, Mario heads in,"
+        ],
+        "642": [
+            2460.0,
+            2462.0,
+            "Iniesta to the front, Iniesta hits him, Andrés catches."
+        ],
+        "643": [
+            2464.0,
+            2468.0,
+            "With the previous argument I wanted to say that Villarreal has been a team that has controlled the situation more."
+        ],
+        "644": [
+            2469.0,
+            2472.0,
+            "Despite losing in the first half, they controlled the match 2-1."
+        ],
+        "645": [
+            2473.0,
+            2478.0,
+            "Epito, Barcelona's great possession has helped them have three scoring chances."
+        ],
+        "646": [
+            2479.0,
+            2481.0,
+            "Villarreal has had two, having had very little of the ball."
+        ],
+        "647": [
+            2482.0,
+            2488.0,
+            "However, in this second half, when he has already advanced lines, I repeat, and there have been spaces for Messi, for Neymar and for Suárez,"
+        ],
+        "648": [
+            2489.0,
+            2494.0,
+            "Well, Barcelona has been very, very superior, not only on the scoreboard, but also in the game."
+        ],
+        "649": [
+            2495.0,
+            2500.0,
+            "Although Villarreal has had some chances, when stealing near Ter Stegen's goal and not taking advantage of it,"
+        ],
+        "650": [
+            2500.0,
+            2504.0,
+            "not convert it into a goal, since all that has already penalized him a lot in defense."
+        ],
+        "651": [
+            2530.0,
+            2532.0,
+            "Villarreal, with the position of Barça's full-back."
+        ],
+        "652": [
+            2533.0,
+            2537.0,
+            "Busquets pressured by Sansone. Andres Gomez. Messi."
+        ],
+        "653": [
+            2539.0,
+            2543.0,
+            "Facing Messi to Trigueros, he delivers Messi to Busquets first."
+        ],
+        "654": [
+            2544.0,
+            2546.0,
+            "Messi jumped Jordi Alba. Villarreal keeps it."
+        ],
+        "655": [
+            2548.0,
+            2549.0,
+            "Jonathan dos Santos."
+        ],
+        "656": [
+            2552.0,
+            2555.0,
+            "Jonathan ends up on the ground. Sergio Busquets is missing there."
+        ],
+        "657": [
+            2557.0,
+            2558.0,
+            "Ball for Villarreal."
+        ],
+        "658": [
+            2561.0,
+            2562.0,
+            "Trigueros."
+        ],
+        "659": [
+            2565.0,
+            2569.0,
+            "Deep ball over Samu Castillejo's unmarking. Jordi Alba anticipates."
+        ],
+        "660": [
+            2570.0,
+            2574.0,
+            "Pay attention to the Hospitalet footballer, to avoid the progress of Samu Castillejo."
+        ],
+        "661": [
+            2585.0,
+            2586.0,
+            "Messi."
+        ],
+        "662": [
+            2590.0,
+            2594.0,
+            "Playing and playing Barcelona. Neymar between the lines. He connects again with Messi."
+        ],
+        "663": [
+            2596.0,
+            2601.0,
+            "Suárez is deployed. Suárez launches into the autopass. He can't escape from Jonathan dos Santos."
+        ],
+        "664": [
+            2601.0,
+            2603.0,
+            "The rebound falls to Suárez himself. Suárez hits him wide."
+        ],
+        "665": [
+            2605.0,
+            2610.0,
+            "Luis Suárez tried it from the border, when he got hold of a ball that surely not even the Barcelona forward himself expected to have."
+        ],
+        "666": [
+            2611.0,
+            2615.0,
+            "Yes, the pressure has increased immediately after losing Cherano."
+        ],
+        "667": [
+            2616.0,
+            2621.0,
+            "Thanks to the fact that he was well positioned, occupying Barcelona's spaces well in Villarreal's field."
+        ],
+        "668": [
+            2622.0,
+            2626.0,
+            "There is always a player close to the ball holder and there, when recovering, they allow the shot."
+        ],
+        "669": [
+            2629.0,
+            2638.0,
+            "We use this Intel technology to see the action that resulted in the penalty from various angles."
+        ],
+        "670": [
+            2639.0,
+            2642.0,
+            "The penalty taken by Leo Messi was indicated by Jaume Acosta."
+        ],
+        "671": [
+            2642.0,
+            2649.0,
+            "I repeat, I don't see it clearly. I don't see any shots that show it going directly to the arm."
+        ],
+        "672": [
+            2650.0,
+            2655.0,
+            "The contact with the arm exists, but your question is whether there is a previous rebound."
+        ],
+        "673": [
+            2656.0,
+            2660.0,
+            "In the two shots I've seen I can't say. It goes directly to the arm."
+        ],
+        "674": [
+            2661.0,
+            2667.0,
+            "So it is true that he has it bent, but he has it raised and it would be a penalty."
+        ],
+        "675": [
+            2667.0,
+            2674.0,
+            "But if it has hit him before on another part of the body, in this case on the chest, and then it hits the arm, it would not be a penalty."
+        ],
+        "676": [
+            2675.0,
+            2681.0,
+            "It is clear that the referee was nearby and now he has appreciated, if not him, then the assistant who has been like that."
+        ],
+        "677": [
+            2682.0,
+            2684.0,
+            "But no shot has made it clear to me."
+        ],
+        "678": [
+            2685.0,
+            2692.0,
+            "There is a lack of Suárez. We are already awaiting the extension time. No clue at the moment, right, Ricardo?"
+        ],
+        "679": [
+            2692.0,
+            2695.0,
+            "We are waiting for you to place and lift board 3."
+        ]
+    }
+}

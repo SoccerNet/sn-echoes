@@ -1,0 +1,4669 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.0,
+            "the playing time."
+        ],
+        "1": [
+            1.0,
+            2.0,
+            "The team is in the first half of the season."
+        ],
+        "2": [
+            2.0,
+            3.0,
+            "The team is in the first half of the season."
+        ],
+        "3": [
+            3.0,
+            4.0,
+            "The team is in the first half of the season."
+        ],
+        "4": [
+            4.0,
+            5.0,
+            "The team is in the first half of the season."
+        ],
+        "5": [
+            5.0,
+            6.0,
+            "The team is in the first half of the season."
+        ],
+        "6": [
+            6.0,
+            7.0,
+            "The team is in the first half of the season."
+        ],
+        "7": [
+            7.0,
+            8.0,
+            "The team is in the first half of the season."
+        ],
+        "8": [
+            8.0,
+            9.0,
+            "The team is in the first half of the season."
+        ],
+        "9": [
+            9.0,
+            10.0,
+            "The team is in the first half of the season."
+        ],
+        "10": [
+            10.0,
+            11.0,
+            "The team is in the first half of the season."
+        ],
+        "11": [
+            11.0,
+            12.0,
+            "The team is in the first half of the season."
+        ],
+        "12": [
+            12.0,
+            13.0,
+            "The team is in the first half of the season."
+        ],
+        "13": [
+            13.0,
+            14.0,
+            "The team is in the first half of the season."
+        ],
+        "14": [
+            14.0,
+            15.0,
+            "The team is in the first half of the season."
+        ],
+        "15": [
+            15.0,
+            16.0,
+            "The team is in the first half of the season."
+        ],
+        "16": [
+            16.0,
+            17.0,
+            "The team is in the first half of the season."
+        ],
+        "17": [
+            17.0,
+            18.0,
+            "The team is in the first half of the season."
+        ],
+        "18": [
+            18.0,
+            19.0,
+            "The team is in the first half of the season."
+        ],
+        "19": [
+            19.0,
+            20.0,
+            "The team is in the first half of the season."
+        ],
+        "20": [
+            20.0,
+            21.0,
+            "The team is in the first half of the season."
+        ],
+        "21": [
+            21.0,
+            22.0,
+            "The team is in the first half of the season."
+        ],
+        "22": [
+            22.0,
+            23.0,
+            "The team is in the first half of the season."
+        ],
+        "23": [
+            23.0,
+            24.0,
+            "The team is in the first half of the season."
+        ],
+        "24": [
+            24.0,
+            25.0,
+            "The team is in the first half of the season."
+        ],
+        "25": [
+            25.0,
+            26.0,
+            "The team is in the first half of the season."
+        ],
+        "26": [
+            26.0,
+            27.0,
+            "The team is in the first half of the season."
+        ],
+        "27": [
+            27.0,
+            28.0,
+            "The team is in the first half of the season."
+        ],
+        "28": [
+            28.0,
+            29.0,
+            "The team is in the first half of the season."
+        ],
+        "29": [
+            29.0,
+            30.0,
+            "The team is in the first half of the season."
+        ],
+        "30": [
+            30.0,
+            31.0,
+            "The team is in the first half of the season."
+        ],
+        "31": [
+            31.0,
+            32.0,
+            "The team is in the first half of the season."
+        ],
+        "32": [
+            32.0,
+            33.0,
+            "The team is in the first half of the season."
+        ],
+        "33": [
+            33.0,
+            34.0,
+            "The team is in the first half of the season."
+        ],
+        "34": [
+            34.0,
+            35.0,
+            "The team is in the first half of the season."
+        ],
+        "35": [
+            35.0,
+            36.0,
+            "The team is in the first half of the season."
+        ],
+        "36": [
+            36.0,
+            37.0,
+            "The team is in the first half of the season."
+        ],
+        "37": [
+            37.0,
+            38.0,
+            "The team is in the first half of the season."
+        ],
+        "38": [
+            38.0,
+            39.0,
+            "The team is in the first half of the season."
+        ],
+        "39": [
+            39.0,
+            40.0,
+            "The team is in the first half of the season."
+        ],
+        "40": [
+            40.0,
+            41.0,
+            "The team is in the first half of the season."
+        ],
+        "41": [
+            41.0,
+            42.0,
+            "The team is in the first half of the season."
+        ],
+        "42": [
+            42.0,
+            43.0,
+            "The team is in the first half of the season."
+        ],
+        "43": [
+            43.0,
+            44.0,
+            "The team is in the first half of the season."
+        ],
+        "44": [
+            44.0,
+            45.0,
+            "The team is in the first half of the season."
+        ],
+        "45": [
+            45.0,
+            46.0,
+            "The team is in the first half of the season."
+        ],
+        "46": [
+            46.0,
+            47.0,
+            "The team is in the first half of the season."
+        ],
+        "47": [
+            47.0,
+            48.0,
+            "The team is in the first half of the season."
+        ],
+        "48": [
+            48.0,
+            49.0,
+            "The team is in the first half of the season."
+        ],
+        "49": [
+            49.0,
+            50.0,
+            "The team is in the first half of the season."
+        ],
+        "50": [
+            50.0,
+            51.0,
+            "The team is in the first half of the season."
+        ],
+        "51": [
+            51.0,
+            52.0,
+            "The team is in the first half of the season."
+        ],
+        "52": [
+            52.0,
+            53.0,
+            "The team is in the first half of the season."
+        ],
+        "53": [
+            53.0,
+            54.0,
+            "The team is in the first half of the season."
+        ],
+        "54": [
+            54.0,
+            55.0,
+            "The team is in the first half of the season."
+        ],
+        "55": [
+            55.0,
+            56.0,
+            "The team is in the first half of the season."
+        ],
+        "56": [
+            56.0,
+            57.0,
+            "The team is in the first half of the season."
+        ],
+        "57": [
+            57.0,
+            58.0,
+            "The team is in the first half of the season."
+        ],
+        "58": [
+            58.0,
+            59.0,
+            "The team is in the first half of the season."
+        ],
+        "59": [
+            59.0,
+            60.0,
+            "The team is in the first half of the season."
+        ],
+        "60": [
+            60.0,
+            61.0,
+            "The team is in the first half of the season."
+        ],
+        "61": [
+            61.0,
+            62.0,
+            "The team is in the first half of the season."
+        ],
+        "62": [
+            62.0,
+            63.0,
+            "The team is in the first half of the season."
+        ],
+        "63": [
+            63.0,
+            64.0,
+            "The team is in the first half of the season."
+        ],
+        "64": [
+            64.0,
+            65.0,
+            "The team is in the first half of the season."
+        ],
+        "65": [
+            65.0,
+            66.0,
+            "The team is in the first half of the season."
+        ],
+        "66": [
+            66.0,
+            67.0,
+            "The team is in the first half of the season."
+        ],
+        "67": [
+            67.0,
+            68.0,
+            "The team is in the first half of the season."
+        ],
+        "68": [
+            68.0,
+            69.0,
+            "The team is in the first half of the season."
+        ],
+        "69": [
+            69.0,
+            70.0,
+            "The team is in the first half of the season."
+        ],
+        "70": [
+            70.0,
+            71.0,
+            "The team is in the first half of the season."
+        ],
+        "71": [
+            71.0,
+            72.0,
+            "The team is in the first half of the season."
+        ],
+        "72": [
+            72.0,
+            73.0,
+            "The team is in the first half of the season."
+        ],
+        "73": [
+            73.0,
+            74.0,
+            "The team is in the first half of the season."
+        ],
+        "74": [
+            74.0,
+            75.0,
+            "The team is in the first half of the season."
+        ],
+        "75": [
+            75.0,
+            76.0,
+            "The team is in the first half of the season."
+        ],
+        "76": [
+            76.0,
+            77.0,
+            "The team is in the first half of the season."
+        ],
+        "77": [
+            77.0,
+            78.0,
+            "The team is in the first half of the season."
+        ],
+        "78": [
+            78.0,
+            79.0,
+            "The team is in the first half of the season."
+        ],
+        "79": [
+            79.0,
+            80.0,
+            "The team is in the first half of the season."
+        ],
+        "80": [
+            80.0,
+            81.0,
+            "The team is in the first half of the season."
+        ],
+        "81": [
+            81.0,
+            82.0,
+            "The team is in the first half of the season."
+        ],
+        "82": [
+            82.0,
+            83.0,
+            "The team is in the first half of the season."
+        ],
+        "83": [
+            83.0,
+            84.0,
+            "The team is in the first half of the season."
+        ],
+        "84": [
+            84.0,
+            85.0,
+            "The team is in the first half of the season."
+        ],
+        "85": [
+            85.0,
+            86.0,
+            "The team is in the first half of the season."
+        ],
+        "86": [
+            86.0,
+            87.0,
+            "The team is in the first half of the season."
+        ],
+        "87": [
+            87.0,
+            88.0,
+            "The team is in the first half of the season."
+        ],
+        "88": [
+            88.0,
+            89.0,
+            "The team is in the first half of the season."
+        ],
+        "89": [
+            89.0,
+            90.0,
+            "The team is in the first half of the season."
+        ],
+        "90": [
+            90.0,
+            91.0,
+            "The team is in the first half of the season."
+        ],
+        "91": [
+            91.0,
+            92.0,
+            "The team is in the first half of the season."
+        ],
+        "92": [
+            92.0,
+            93.0,
+            "The team is in the first half of the season."
+        ],
+        "93": [
+            93.0,
+            94.0,
+            "The team is in the first half of the season."
+        ],
+        "94": [
+            94.0,
+            95.0,
+            "The team is in the first half of the season."
+        ],
+        "95": [
+            95.0,
+            96.0,
+            "The team is in the first half of the season."
+        ],
+        "96": [
+            96.0,
+            97.0,
+            "The team is in the first half of the season."
+        ],
+        "97": [
+            97.0,
+            98.0,
+            "The team is in the first half of the season."
+        ],
+        "98": [
+            98.0,
+            99.0,
+            "The team is in the first half of the season."
+        ],
+        "99": [
+            99.0,
+            100.0,
+            "The team is in the first half of the season."
+        ],
+        "100": [
+            100.0,
+            101.0,
+            "The team is in the first half of the season."
+        ],
+        "101": [
+            101.0,
+            102.0,
+            "The team is in the first half of the season."
+        ],
+        "102": [
+            102.0,
+            103.0,
+            "The team is in the first half of the season."
+        ],
+        "103": [
+            103.0,
+            104.0,
+            "The team is in the first half of the season."
+        ],
+        "104": [
+            104.0,
+            105.0,
+            "The team is in the first half of the season."
+        ],
+        "105": [
+            105.0,
+            106.0,
+            "The team is in the first half of the season."
+        ],
+        "106": [
+            106.0,
+            107.0,
+            "The team is in the first half of the season."
+        ],
+        "107": [
+            107.0,
+            108.0,
+            "The team is in the first half of the season."
+        ],
+        "108": [
+            108.0,
+            109.0,
+            "The team is in the first half of the season."
+        ],
+        "109": [
+            109.0,
+            110.0,
+            "The team is in the first half of the season."
+        ],
+        "110": [
+            110.0,
+            111.0,
+            "The team is in the first half of the season."
+        ],
+        "111": [
+            111.0,
+            112.0,
+            "The team is in the first half of the season."
+        ],
+        "112": [
+            112.0,
+            113.0,
+            "The team is in the first half of the season."
+        ],
+        "113": [
+            113.0,
+            114.0,
+            "The team is in the first half of the season."
+        ],
+        "114": [
+            114.0,
+            115.0,
+            "The team is in the first half of the season."
+        ],
+        "115": [
+            115.0,
+            116.0,
+            "The team is in the first half of the season."
+        ],
+        "116": [
+            116.0,
+            117.0,
+            "The team is in the first half of the season."
+        ],
+        "117": [
+            117.0,
+            118.0,
+            "The team is in the first half of the season."
+        ],
+        "118": [
+            118.0,
+            119.0,
+            "The team is in the first half of the season."
+        ],
+        "119": [
+            119.0,
+            120.0,
+            "The team is in the first half of the season."
+        ],
+        "120": [
+            120.0,
+            121.0,
+            "The team is in the first half of the season."
+        ],
+        "121": [
+            121.0,
+            122.0,
+            "The team is in the first half of the season."
+        ],
+        "122": [
+            122.0,
+            123.0,
+            "The team is in the first half of the season."
+        ],
+        "123": [
+            123.0,
+            124.0,
+            "The team is in the first half of the season."
+        ],
+        "124": [
+            124.0,
+            125.0,
+            "The team is in the first half of the season."
+        ],
+        "125": [
+            125.0,
+            126.0,
+            "The team is in the first half of the season."
+        ],
+        "126": [
+            126.0,
+            127.0,
+            "The team is in the first half of the season."
+        ],
+        "127": [
+            127.0,
+            128.0,
+            "The team is in the first half of the season."
+        ],
+        "128": [
+            128.0,
+            129.0,
+            "The team is in the first half of the season."
+        ],
+        "129": [
+            129.0,
+            130.0,
+            "The team is in the first half of the season."
+        ],
+        "130": [
+            130.0,
+            131.0,
+            "The team is in the first half of the season."
+        ],
+        "131": [
+            132.0,
+            133.0,
+            "The team is in the first half of the season."
+        ],
+        "132": [
+            133.0,
+            134.0,
+            "The team is in the first half of the season."
+        ],
+        "133": [
+            134.0,
+            135.0,
+            "The team is in the first half of the season."
+        ],
+        "134": [
+            135.0,
+            136.0,
+            "The team is in the first half of the season."
+        ],
+        "135": [
+            136.0,
+            137.0,
+            "The team is in the first half of the season."
+        ],
+        "136": [
+            137.0,
+            138.0,
+            "The team is in the first half of the season."
+        ],
+        "137": [
+            138.0,
+            139.0,
+            "The team is in the first half of the season."
+        ],
+        "138": [
+            139.0,
+            140.0,
+            "The team is in the first half of the season."
+        ],
+        "139": [
+            140.0,
+            141.0,
+            "The team is in the first half of the season."
+        ],
+        "140": [
+            141.0,
+            142.0,
+            "The team is in the first half of the season."
+        ],
+        "141": [
+            142.0,
+            143.0,
+            "The team is in the first half of the season."
+        ],
+        "142": [
+            143.0,
+            144.0,
+            "The team is in the first half of the season."
+        ],
+        "143": [
+            144.0,
+            145.0,
+            "The team is in the first half of the season."
+        ],
+        "144": [
+            146.0,
+            147.0,
+            "The team is in the first half of the season."
+        ],
+        "145": [
+            147.0,
+            148.0,
+            "The team is in the first half of the season."
+        ],
+        "146": [
+            148.0,
+            149.0,
+            "The team is in the first half of the season."
+        ],
+        "147": [
+            149.0,
+            150.0,
+            "The team is in the first half of the season."
+        ],
+        "148": [
+            150.0,
+            151.0,
+            "The team is in the first half of the season."
+        ],
+        "149": [
+            151.0,
+            152.0,
+            "The team is in the first half of the season."
+        ],
+        "150": [
+            152.0,
+            153.0,
+            "The team is in the first half of the season."
+        ],
+        "151": [
+            153.0,
+            154.0,
+            "The team is in the first half of the season."
+        ],
+        "152": [
+            154.0,
+            155.0,
+            "The team is in the first half of the season."
+        ],
+        "153": [
+            155.0,
+            156.0,
+            "The team is in the first half of the season."
+        ],
+        "154": [
+            156.0,
+            157.0,
+            "The team is in the first half of the season."
+        ],
+        "155": [
+            157.0,
+            158.0,
+            "The team is in the first half of the season."
+        ],
+        "156": [
+            158.0,
+            159.0,
+            "The team is in the first half of the season."
+        ],
+        "157": [
+            159.0,
+            160.0,
+            "The team is in the first half of the season."
+        ],
+        "158": [
+            160.0,
+            161.0,
+            "The team is in the first half of the season."
+        ],
+        "159": [
+            161.0,
+            162.0,
+            "The team is in the first half of the season."
+        ],
+        "160": [
+            162.0,
+            163.0,
+            "The team is in the first half of the season."
+        ],
+        "161": [
+            163.0,
+            164.0,
+            "The team is in the first half of the season."
+        ],
+        "162": [
+            164.0,
+            165.0,
+            "The team is in the first half of the season."
+        ],
+        "163": [
+            165.0,
+            166.0,
+            "The team is in the first half of the season."
+        ],
+        "164": [
+            166.0,
+            167.0,
+            "The team is in the first half of the season."
+        ],
+        "165": [
+            167.0,
+            168.0,
+            "The team is in the first half of the season."
+        ],
+        "166": [
+            168.0,
+            169.0,
+            "The team is in the first half of the season."
+        ],
+        "167": [
+            169.0,
+            170.0,
+            "The team is in the first half of the season."
+        ],
+        "168": [
+            170.0,
+            171.0,
+            "The team is in the first half of the season."
+        ],
+        "169": [
+            171.0,
+            172.0,
+            "The team is in the first half of the season."
+        ],
+        "170": [
+            172.0,
+            173.0,
+            "The team is in the first half of the season."
+        ],
+        "171": [
+            173.0,
+            174.0,
+            "The team is in the first half of the season."
+        ],
+        "172": [
+            174.0,
+            175.0,
+            "The team is in the first half of the season."
+        ],
+        "173": [
+            175.0,
+            176.0,
+            "The team is in the first half of the season."
+        ],
+        "174": [
+            176.0,
+            177.0,
+            "The team is in the first half of the season."
+        ],
+        "175": [
+            177.0,
+            178.0,
+            "The team is in the first half of the season."
+        ],
+        "176": [
+            178.0,
+            179.0,
+            "The team is in the first half of the season."
+        ],
+        "177": [
+            179.0,
+            180.0,
+            "The team is in the first half of the season."
+        ],
+        "178": [
+            180.0,
+            181.0,
+            "The team is in the first half of the season."
+        ],
+        "179": [
+            181.0,
+            182.0,
+            "The team is in the first half of the season."
+        ],
+        "180": [
+            182.0,
+            183.0,
+            "The team is in the first half of the season."
+        ],
+        "181": [
+            183.0,
+            184.0,
+            "The team is in the first half of the season."
+        ],
+        "182": [
+            184.0,
+            185.0,
+            "The team is in the first half of the season."
+        ],
+        "183": [
+            185.0,
+            186.0,
+            "The team is in the first half of the season."
+        ],
+        "184": [
+            186.0,
+            187.0,
+            "The team is in the first half of the season."
+        ],
+        "185": [
+            187.0,
+            188.0,
+            "The team is in the first half of the season."
+        ],
+        "186": [
+            188.0,
+            189.0,
+            "The team is in the first half of the season."
+        ],
+        "187": [
+            189.0,
+            190.0,
+            "The team is in the first half of the season."
+        ],
+        "188": [
+            190.0,
+            191.0,
+            "The team is in the first half of the season."
+        ],
+        "189": [
+            191.0,
+            192.0,
+            "The team is in the first half of the season."
+        ],
+        "190": [
+            192.0,
+            193.0,
+            "The team is in the first half of the season."
+        ],
+        "191": [
+            193.0,
+            194.0,
+            "The team is in the first half of the season."
+        ],
+        "192": [
+            194.0,
+            195.0,
+            "The team is in the first half of the season."
+        ],
+        "193": [
+            195.0,
+            196.0,
+            "The team is in the first half of the season."
+        ],
+        "194": [
+            196.0,
+            197.0,
+            "The team is in the first half of the season."
+        ],
+        "195": [
+            197.0,
+            198.0,
+            "The team is in the first half of the season."
+        ],
+        "196": [
+            199.0,
+            200.0,
+            "The team is in the first half of the season."
+        ],
+        "197": [
+            200.0,
+            201.0,
+            "The team is in the first half of the season."
+        ],
+        "198": [
+            201.0,
+            202.0,
+            "The team is in the first half of the season."
+        ],
+        "199": [
+            202.0,
+            203.0,
+            "The team is in the first half of the season."
+        ],
+        "200": [
+            203.0,
+            204.0,
+            "The team is in the first half of the season."
+        ],
+        "201": [
+            204.0,
+            205.0,
+            "The team is in the first half of the season."
+        ],
+        "202": [
+            205.0,
+            206.0,
+            "The team is in the first half of the season."
+        ],
+        "203": [
+            206.0,
+            207.0,
+            "The team is in the first half of the season."
+        ],
+        "204": [
+            207.0,
+            208.0,
+            "The team is in the first half of the season."
+        ],
+        "205": [
+            208.0,
+            209.0,
+            "The team is in the first half of the season."
+        ],
+        "206": [
+            209.0,
+            210.0,
+            "The team is in the first half of the season."
+        ],
+        "207": [
+            210.0,
+            211.0,
+            "The team is in the first half of the season."
+        ],
+        "208": [
+            211.0,
+            212.0,
+            "The team is in the first half of the season."
+        ],
+        "209": [
+            212.0,
+            213.0,
+            "The team is in the first half of the season."
+        ],
+        "210": [
+            213.0,
+            214.0,
+            "The team is in the first half of the season."
+        ],
+        "211": [
+            214.0,
+            215.0,
+            "The team is in the first half of the season."
+        ],
+        "212": [
+            215.0,
+            216.0,
+            "The team is in the first half of the season."
+        ],
+        "213": [
+            216.0,
+            217.0,
+            "The team is in the first half of the season."
+        ],
+        "214": [
+            217.0,
+            218.0,
+            "The team is in the first half of the season."
+        ],
+        "215": [
+            218.0,
+            219.0,
+            "The team is in the first half of the season."
+        ],
+        "216": [
+            219.0,
+            220.0,
+            "The team is in the first half of the season."
+        ],
+        "217": [
+            220.0,
+            221.0,
+            "The team is in the first half of the season."
+        ],
+        "218": [
+            221.0,
+            222.0,
+            "The team is in the first half of the season."
+        ],
+        "219": [
+            222.0,
+            223.0,
+            "The team is in the first half of the season."
+        ],
+        "220": [
+            223.0,
+            224.0,
+            "The team is in the first half of the season."
+        ],
+        "221": [
+            224.0,
+            225.0,
+            "The team is in the first half of the season."
+        ],
+        "222": [
+            225.0,
+            226.0,
+            "The team is in the first half of the season."
+        ],
+        "223": [
+            226.0,
+            227.0,
+            "The team is in the first half of the season."
+        ],
+        "224": [
+            227.0,
+            228.0,
+            "The team is in the first half of the season."
+        ],
+        "225": [
+            228.0,
+            229.0,
+            "The team is in the first half of the season."
+        ],
+        "226": [
+            229.0,
+            230.0,
+            "The team is in the first half of the season."
+        ],
+        "227": [
+            230.0,
+            231.0,
+            "The team is in the first half of the season."
+        ],
+        "228": [
+            231.0,
+            232.0,
+            "The team is in the first half of the season."
+        ],
+        "229": [
+            232.0,
+            233.0,
+            "The team is in the first half of the season."
+        ],
+        "230": [
+            233.0,
+            234.0,
+            "The team is in the first half of the season."
+        ],
+        "231": [
+            234.0,
+            235.0,
+            "The team is in the first half of the season."
+        ],
+        "232": [
+            235.0,
+            236.0,
+            "The team is in the first half of the season."
+        ],
+        "233": [
+            236.0,
+            237.0,
+            "The team is in the first half of the season."
+        ],
+        "234": [
+            237.0,
+            238.0,
+            "The team is in the first half of the season."
+        ],
+        "235": [
+            238.0,
+            239.0,
+            "The team is in the first half of the season."
+        ],
+        "236": [
+            239.0,
+            240.0,
+            "The team is in the first half of the season."
+        ],
+        "237": [
+            240.0,
+            241.0,
+            "The team is in the first half of the season."
+        ],
+        "238": [
+            241.0,
+            242.0,
+            "The team is in the first half of the season."
+        ],
+        "239": [
+            242.0,
+            243.0,
+            "The team is in the first half of the season."
+        ],
+        "240": [
+            243.0,
+            244.0,
+            "The team is in the first half of the season."
+        ],
+        "241": [
+            244.0,
+            245.0,
+            "The team is in the first half of the season."
+        ],
+        "242": [
+            245.0,
+            246.0,
+            "The team is in the first half of the season."
+        ],
+        "243": [
+            246.0,
+            247.0,
+            "The team is in the first half of the season."
+        ],
+        "244": [
+            247.0,
+            248.0,
+            "The team is in the first half of the season."
+        ],
+        "245": [
+            248.0,
+            249.0,
+            "The team is in the first half of the season."
+        ],
+        "246": [
+            249.0,
+            250.0,
+            "The team is in the first half of the season."
+        ],
+        "247": [
+            250.0,
+            251.0,
+            "The team is in the first half of the season."
+        ],
+        "248": [
+            251.0,
+            252.0,
+            "The team is in the first half of the season."
+        ],
+        "249": [
+            252.0,
+            253.0,
+            "The team is in the first half of the season."
+        ],
+        "250": [
+            253.0,
+            254.0,
+            "The team is in the first half of the season."
+        ],
+        "251": [
+            254.0,
+            255.0,
+            "The team is in the first half of the season."
+        ],
+        "252": [
+            255.0,
+            256.0,
+            "The team is in the first half of the season."
+        ],
+        "253": [
+            256.0,
+            257.0,
+            "The team is in the first half of the season."
+        ],
+        "254": [
+            257.0,
+            258.0,
+            "The team is in the first half of the season."
+        ],
+        "255": [
+            258.0,
+            259.0,
+            "The team is in the first half of the season."
+        ],
+        "256": [
+            259.0,
+            260.0,
+            "The team is in the first half of the season."
+        ],
+        "257": [
+            260.0,
+            261.0,
+            "The team is in the first half of the season."
+        ],
+        "258": [
+            261.0,
+            262.0,
+            "The team is in the first half of the season."
+        ],
+        "259": [
+            262.0,
+            263.0,
+            "The team is in the first half of the season."
+        ],
+        "260": [
+            263.0,
+            264.0,
+            "The team is in the first half of the season."
+        ],
+        "261": [
+            264.0,
+            265.0,
+            "The team is in the first half of the season."
+        ],
+        "262": [
+            265.0,
+            266.0,
+            "The team is in the first half of the season."
+        ],
+        "263": [
+            266.0,
+            267.0,
+            "The team is in the first half of the season."
+        ],
+        "264": [
+            267.0,
+            268.0,
+            "The team is in the first half of the season."
+        ],
+        "265": [
+            268.0,
+            269.0,
+            "The team is in the first half of the season."
+        ],
+        "266": [
+            269.0,
+            270.0,
+            "The team is in the first half of the season."
+        ],
+        "267": [
+            270.0,
+            271.0,
+            "The team is in the first half of the season."
+        ],
+        "268": [
+            271.0,
+            272.0,
+            "The team is in the first half of the season."
+        ],
+        "269": [
+            272.0,
+            273.0,
+            "The team is in the first half of the season."
+        ],
+        "270": [
+            273.0,
+            274.0,
+            "The team is in the first half of the season."
+        ],
+        "271": [
+            274.0,
+            275.0,
+            "The team is in the first half of the season."
+        ],
+        "272": [
+            275.0,
+            276.0,
+            "The team is in the first half of the season."
+        ],
+        "273": [
+            276.0,
+            277.0,
+            "The team is in the first half of the season."
+        ],
+        "274": [
+            277.0,
+            278.0,
+            "The team is in the first half of the season."
+        ],
+        "275": [
+            278.0,
+            279.0,
+            "The team is in the first half of the season."
+        ],
+        "276": [
+            279.0,
+            280.0,
+            "The team is in the first half of the season."
+        ],
+        "277": [
+            280.0,
+            281.0,
+            "The team is in the first half of the season."
+        ],
+        "278": [
+            281.0,
+            282.0,
+            "The team is in the first half of the season."
+        ],
+        "279": [
+            282.0,
+            283.0,
+            "The team is in the first half of the season."
+        ],
+        "280": [
+            283.0,
+            284.0,
+            "The team is in the first half of the season."
+        ],
+        "281": [
+            284.0,
+            285.0,
+            "The team is in the first half of the season."
+        ],
+        "282": [
+            285.0,
+            286.0,
+            "The team is in the first half of the season."
+        ],
+        "283": [
+            286.0,
+            287.0,
+            "The team is in the first half of the season."
+        ],
+        "284": [
+            287.0,
+            288.0,
+            "The team is in the first half of the season."
+        ],
+        "285": [
+            288.0,
+            289.0,
+            "The team is in the first half of the season."
+        ],
+        "286": [
+            289.0,
+            290.0,
+            "The team is in the first half of the season."
+        ],
+        "287": [
+            291.0,
+            292.0,
+            "He is Kampel."
+        ],
+        "288": [
+            292.0,
+            293.0,
+            "He is Kampel."
+        ],
+        "289": [
+            293.0,
+            294.0,
+            "He will now swap sides with Mkhitaryan."
+        ],
+        "290": [
+            294.0,
+            295.0,
+            "He will now swap sides with Mkhitaryan."
+        ],
+        "291": [
+            295.0,
+            296.0,
+            "He will now swap sides with Mkhitaryan."
+        ],
+        "292": [
+            296.0,
+            297.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "293": [
+            297.0,
+            298.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "294": [
+            298.0,
+            299.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "295": [
+            299.0,
+            300.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "296": [
+            300.0,
+            301.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "297": [
+            301.0,
+            302.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "298": [
+            303.0,
+            304.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "299": [
+            304.0,
+            305.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "300": [
+            305.0,
+            306.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "301": [
+            306.0,
+            307.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "302": [
+            307.0,
+            308.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "303": [
+            308.0,
+            309.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "304": [
+            309.0,
+            310.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "305": [
+            310.0,
+            311.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "306": [
+            312.0,
+            313.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "307": [
+            313.0,
+            314.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "308": [
+            314.0,
+            315.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "309": [
+            315.0,
+            316.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "310": [
+            316.0,
+            317.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "311": [
+            317.0,
+            318.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "312": [
+            318.0,
+            319.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "313": [
+            319.0,
+            320.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "314": [
+            320.0,
+            321.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "315": [
+            321.0,
+            322.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "316": [
+            322.0,
+            323.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "317": [
+            323.0,
+            324.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "318": [
+            324.0,
+            325.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "319": [
+            325.0,
+            326.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "320": [
+            326.0,
+            327.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "321": [
+            327.0,
+            328.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "322": [
+            328.0,
+            329.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "323": [
+            329.0,
+            330.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "324": [
+            330.0,
+            331.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "325": [
+            331.0,
+            332.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "326": [
+            332.0,
+            333.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "327": [
+            333.0,
+            334.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "328": [
+            334.0,
+            335.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "329": [
+            335.0,
+            336.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "330": [
+            337.0,
+            338.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "331": [
+            338.0,
+            339.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "332": [
+            339.0,
+            340.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "333": [
+            340.0,
+            341.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "334": [
+            341.0,
+            342.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "335": [
+            342.0,
+            343.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "336": [
+            343.0,
+            344.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "337": [
+            344.0,
+            345.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "338": [
+            346.0,
+            347.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "339": [
+            347.0,
+            348.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "340": [
+            348.0,
+            349.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "341": [
+            349.0,
+            350.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "342": [
+            350.0,
+            351.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "343": [
+            351.0,
+            352.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "344": [
+            352.0,
+            353.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "345": [
+            353.0,
+            354.0,
+            "He will be the Armenian Kampel on the right, the Slovenian international on the left."
+        ],
+        "346": [
+            355.0,
+            358.0,
+            "This is Roland Gier's second goal."
+        ],
+        "347": [
+            358.0,
+            359.0,
+            "This is Roland Gier's second goal."
+        ],
+        "348": [
+            359.0,
+            360.0,
+            "Modest."
+        ],
+        "349": [
+            360.0,
+            361.0,
+            "Great ball and take away."
+        ],
+        "350": [
+            361.0,
+            362.0,
+            "Modest."
+        ],
+        "351": [
+            362.0,
+            363.0,
+            "Great ball and take away."
+        ],
+        "352": [
+            363.0,
+            364.0,
+            "Rommels out in time."
+        ],
+        "353": [
+            364.0,
+            365.0,
+            "Rommels out in time."
+        ],
+        "354": [
+            365.0,
+            366.0,
+            "Modest again."
+        ],
+        "355": [
+            366.0,
+            367.0,
+            "Modest again."
+        ],
+        "356": [
+            367.0,
+            368.0,
+            "Modest again."
+        ],
+        "357": [
+            368.0,
+            369.0,
+            "Modest again."
+        ],
+        "358": [
+            369.0,
+            370.0,
+            "Modest again."
+        ],
+        "359": [
+            370.0,
+            371.0,
+            "Modest again."
+        ],
+        "360": [
+            371.0,
+            372.0,
+            "Modest again."
+        ],
+        "361": [
+            372.0,
+            373.0,
+            "Modest again."
+        ],
+        "362": [
+            373.0,
+            374.0,
+            "Modest again."
+        ],
+        "363": [
+            374.0,
+            375.0,
+            "Modest again."
+        ],
+        "364": [
+            375.0,
+            376.0,
+            "Modest again."
+        ],
+        "365": [
+            376.0,
+            377.0,
+            "Modest again."
+        ],
+        "366": [
+            377.0,
+            378.0,
+            "Modest again."
+        ],
+        "367": [
+            378.0,
+            379.0,
+            "Modest again."
+        ],
+        "368": [
+            379.0,
+            380.0,
+            "Modest again."
+        ],
+        "369": [
+            380.0,
+            381.0,
+            "Modest again."
+        ],
+        "370": [
+            381.0,
+            382.0,
+            "Modest again."
+        ],
+        "371": [
+            382.0,
+            383.0,
+            "Modest again."
+        ],
+        "372": [
+            383.0,
+            384.0,
+            "Modest again."
+        ],
+        "373": [
+            384.0,
+            385.0,
+            "Modest again."
+        ],
+        "374": [
+            385.0,
+            386.0,
+            "Modest again."
+        ],
+        "375": [
+            386.0,
+            387.0,
+            "Another great set in the state parliament and the desired “Well danced Sue”."
+        ],
+        "376": [
+            387.0,
+            388.0,
+            "Modest again."
+        ],
+        "377": [
+            388.0,
+            389.0,
+            "Modest again."
+        ],
+        "378": [
+            389.0,
+            390.0,
+            "Modest again."
+        ],
+        "379": [
+            390.0,
+            391.0,
+            "Modest again."
+        ],
+        "380": [
+            404.0,
+            405.0,
+            "Great, Jan."
+        ],
+        "381": [
+            405.0,
+            406.0,
+            "At full throttle."
+        ],
+        "382": [
+            406.0,
+            407.0,
+            "Let's become modest."
+        ],
+        "383": [
+            407.0,
+            408.0,
+            "Kampel."
+        ],
+        "384": [
+            408.0,
+            409.0,
+            "Rommel."
+        ],
+        "385": [
+            409.0,
+            410.0,
+            "Punctual."
+        ],
+        "386": [
+            410.0,
+            411.0,
+            "Modest again."
+        ],
+        "387": [
+            411.0,
+            412.0,
+            "Modest again."
+        ],
+        "388": [
+            412.0,
+            414.0,
+            "This was an attack on the ball with collateral damage."
+        ],
+        "389": [
+            414.0,
+            416.0,
+            "No accusation against Toljan."
+        ],
+        "390": [
+            416.0,
+            418.0,
+            "He meets Mkhitaryan there."
+        ],
+        "391": [
+            418.0,
+            420.0,
+            "But he played the ball beforehand."
+        ],
+        "392": [
+            420.0,
+            422.0,
+            "This is the scene."
+        ],
+        "393": [
+            422.0,
+            424.0,
+            "He rushes there."
+        ],
+        "394": [
+            424.0,
+            426.0,
+            "He plays the ball."
+        ],
+        "395": [
+            426.0,
+            428.0,
+            "He meets the national player Amine."
+        ],
+        "396": [
+            428.0,
+            430.0,
+            "He meets the national player Amine."
+        ],
+        "397": [
+            430.0,
+            432.0,
+            "He meets the national player Amine."
+        ],
+        "398": [
+            432.0,
+            434.0,
+            "He meets the national player Amine."
+        ],
+        "399": [
+            434.0,
+            436.0,
+            "He meets the national player Amine."
+        ],
+        "400": [
+            436.0,
+            438.0,
+            "He meets the national player Amine."
+        ],
+        "401": [
+            438.0,
+            440.0,
+            "He meets the national player Amine."
+        ],
+        "402": [
+            440.0,
+            442.0,
+            "He's thinking about himself."
+        ],
+        "403": [
+            445.0,
+            447.0,
+            "He meets the national player Amine."
+        ],
+        "404": [
+            449.0,
+            451.02,
+            "He now met many tacklers."
+        ],
+        "405": [
+            456.0,
+            459.0,
+            "Introduced to the animal selection game,"
+        ],
+        "406": [
+            460.0,
+            462.0,
+            "but in the clear."
+        ],
+        "407": [
+            464.0,
+            466.0,
+            "Amines not exaggerated."
+        ],
+        "408": [
+            466.0,
+            468.0,
+            "The team is very well prepared."
+        ],
+        "409": [
+            470.98,
+            473.98,
+            "I promise that as a team we will do everything,"
+        ],
+        "410": [
+            474.0,
+            476.0,
+            "to win this game."
+        ],
+        "411": [
+            488.0,
+            490.0,
+            "The team adheres to the instructions."
+        ],
+        "412": [
+            497.0,
+            499.0,
+            "The team is very well prepared."
+        ],
+        "413": [
+            500.0,
+            502.0,
+            "The team is very well prepared."
+        ],
+        "414": [
+            503.0,
+            505.0,
+            "The team is very well prepared."
+        ],
+        "415": [
+            506.0,
+            508.0,
+            "The team is very well prepared."
+        ],
+        "416": [
+            509.0,
+            511.0,
+            "The team is very well prepared."
+        ],
+        "417": [
+            512.0,
+            514.0,
+            "The team is very well prepared."
+        ],
+        "418": [
+            515.0,
+            517.0,
+            "The team is very well prepared."
+        ],
+        "419": [
+            520.0,
+            522.0,
+            "Now Schwegler is on the bases."
+        ],
+        "420": [
+            523.0,
+            525.0,
+            "That was a bummer for Oberjahn."
+        ],
+        "421": [
+            532.0,
+            536.0,
+            "The Hoffenheim team finished this attack themselves."
+        ],
+        "422": [
+            538.0,
+            540.0,
+            "That was a bummer for Oberjahn."
+        ],
+        "423": [
+            541.0,
+            543.0,
+            "That was a bummer for Oberjahn."
+        ],
+        "424": [
+            545.0,
+            547.0,
+            "No continued play to be seen."
+        ],
+        "425": [
+            548.0,
+            550.0,
+            "Schwegler fell uncomfortably."
+        ],
+        "426": [
+            551.0,
+            553.0,
+            "But he is standing again."
+        ],
+        "427": [
+            559.0,
+            561.0,
+            "There is plenty of room for Nikitarjan."
+        ],
+        "428": [
+            562.0,
+            564.0,
+            "Receiving the ball is suspicious."
+        ],
+        "429": [
+            565.0,
+            567.0,
+            "The team is very well prepared."
+        ],
+        "430": [
+            570.0,
+            572.0,
+            "The team is very well prepared."
+        ],
+        "431": [
+            575.0,
+            577.0,
+            "The center is occupied by Firmino and Modest."
+        ],
+        "432": [
+            580.0,
+            582.0,
+            "Hectic atmosphere."
+        ],
+        "433": [
+            583.0,
+            585.0,
+            "Every duel discussed."
+        ],
+        "434": [
+            586.0,
+            588.0,
+            "Yellow against Kampel."
+        ],
+        "435": [
+            595.0,
+            597.0,
+            "That was a good ball."
+        ],
+        "436": [
+            598.0,
+            600.0,
+            "That was a good ball."
+        ],
+        "437": [
+            600.0,
+            602.0,
+            "That was a good ball."
+        ],
+        "438": [
+            603.0,
+            605.0,
+            "That was a good ball."
+        ],
+        "439": [
+            606.0,
+            608.0,
+            "That was a good ball."
+        ],
+        "440": [
+            609.0,
+            611.0,
+            "That was a good ball."
+        ],
+        "441": [
+            612.0,
+            614.0,
+            "That was a good ball."
+        ],
+        "442": [
+            615.0,
+            617.0,
+            "That was a good ball."
+        ],
+        "443": [
+            618.0,
+            620.0,
+            "That was a good ball."
+        ],
+        "444": [
+            621.0,
+            623.0,
+            "That was a good ball."
+        ],
+        "445": [
+            624.0,
+            626.0,
+            "That was a good ball."
+        ],
+        "446": [
+            627.0,
+            629.0,
+            "That was a good ball."
+        ],
+        "447": [
+            630.0,
+            632.0,
+            "That was a good ball."
+        ],
+        "448": [
+            633.0,
+            635.0,
+            "That was a good ball."
+        ],
+        "449": [
+            636.0,
+            638.0,
+            "That was a good ball."
+        ],
+        "450": [
+            639.0,
+            641.0,
+            "The yellow card against Kevin Kampel."
+        ],
+        "451": [
+            642.0,
+            645.0,
+            "The action that precedes this yellow card."
+        ],
+        "452": [
+            646.0,
+            648.0,
+            "Obermeyer vs. Vyacheslav Vyacheslav."
+        ],
+        "453": [
+            649.0,
+            651.0,
+            "Three in a duel."
+        ],
+        "454": [
+            652.0,
+            654.0,
+            "Corner for BVB."
+        ],
+        "455": [
+            660.0,
+            662.0,
+            "BVB is in the second round."
+        ],
+        "456": [
+            663.0,
+            665.0,
+            "BVB is in the second round."
+        ],
+        "457": [
+            666.0,
+            668.0,
+            "Erke Mkhitaryan."
+        ],
+        "458": [
+            675.0,
+            677.0,
+            "Erke Mkhitaryan."
+        ],
+        "459": [
+            678.0,
+            680.0,
+            "He's in the jersey."
+        ],
+        "460": [
+            681.0,
+            683.0,
+            "He's in the jersey."
+        ],
+        "461": [
+            684.0,
+            686.0,
+            "He's in the jersey."
+        ],
+        "462": [
+            686.0,
+            688.0,
+            "He's in the jersey."
+        ],
+        "463": [
+            689.0,
+            691.0,
+            "He's in the jersey."
+        ],
+        "464": [
+            706.0,
+            708.0,
+            "BVB wins the first duel."
+        ],
+        "465": [
+            709.0,
+            711.0,
+            "Against Mats Hummels."
+        ],
+        "466": [
+            711.0,
+            714.0,
+            "The team didn't take the ball into their hands."
+        ],
+        "467": [
+            714.98,
+            718.0,
+            "But the team took the ball into their hands."
+        ],
+        "468": [
+            718.0,
+            720.0,
+            "And there is Miki Tarjan."
+        ],
+        "469": [
+            720.98,
+            722.0,
+            "It was all clean."
+        ],
+        "470": [
+            722.98,
+            724.0,
+            "Dresden was doing well."
+        ],
+        "471": [
+            724.98,
+            727.0,
+            "Some Dortmund players are calling for penalties."
+        ],
+        "472": [
+            727.98,
+            730.0,
+            "I didn't see anything from up here."
+        ],
+        "473": [
+            734.0,
+            736.0,
+            "But that's a wild miss."
+        ],
+        "474": [
+            736.98,
+            738.0,
+            "And Modest has the chance."
+        ],
+        "475": [
+            738.98,
+            740.98,
+            "And forgives Dom for this lapse."
+        ],
+        "476": [
+            741.0,
+            742.02,
+            "That was a good chance."
+        ],
+        "477": [
+            743.0,
+            745.02,
+            "But the team has the chance."
+        ],
+        "478": [
+            746.0,
+            748.02,
+            "And Markus Gisdol’s team"
+        ],
+        "479": [
+            749.0,
+            751.02,
+            "has the chance to bring the front again."
+        ],
+        "480": [
+            752.0,
+            753.02,
+            "Here Dom with this dropout."
+        ],
+        "481": [
+            754.0,
+            756.02,
+            "He wanted to pass back to Langerak."
+        ],
+        "482": [
+            757.0,
+            760.0,
+            "And Modest has a 100 percent chance here."
+        ],
+        "483": [
+            760.02,
+            762.02,
+            "And before that, Obermeyer's chance."
+        ],
+        "484": [
+            763.0,
+            765.02,
+            "Maybe it doesn't really work here."
+        ],
+        "485": [
+            766.0,
+            769.0,
+            "But perhaps we also underestimate Abraham."
+        ],
+        "486": [
+            769.02,
+            770.02,
+            "It is very good."
+        ],
+        "487": [
+            771.0,
+            772.02,
+            "He has the chance"
+        ],
+        "488": [
+            773.0,
+            776.02,
+            "that the central defender moves very quickly on foot."
+        ],
+        "489": [
+            781.0,
+            784.0,
+            "And Abraham, similar to the other side,"
+        ],
+        "490": [
+            784.02,
+            786.02,
+            "with an exquisite duel record."
+        ],
+        "491": [
+            787.0,
+            788.02,
+            "87% won duels."
+        ],
+        "492": [
+            799.02,
+            801.02,
+            "And then Obermeyer’s chance."
+        ],
+        "493": [
+            803.02,
+            805.02,
+            "And then Obermeyer’s chance."
+        ],
+        "494": [
+            806.02,
+            808.02,
+            "A great game at this stage."
+        ],
+        "495": [
+            810.02,
+            812.02,
+            "Maybe the decisive phase."
+        ],
+        "496": [
+            814.02,
+            815.02,
+            "The 60th minute."
+        ],
+        "497": [
+            816.02,
+            817.02,
+            "1 to 1."
+        ],
+        "498": [
+            818.02,
+            820.02,
+            "Vorland and Hummels scored the goals."
+        ],
+        "499": [
+            821.0,
+            822.02,
+            "Chance plus for Hoffenheim."
+        ],
+        "500": [
+            823.0,
+            824.02,
+            "Lots of temperament in there again."
+        ],
+        "501": [
+            825.0,
+            826.02,
+            "Lots of close duels."
+        ],
+        "502": [
+            826.04,
+            828.04,
+            "And then Obermeyer’s chance."
+        ],
+        "503": [
+            830.04,
+            832.04,
+            "And then Obermeyer’s chance."
+        ],
+        "504": [
+            833.04,
+            834.04,
+            "50-50."
+        ],
+        "505": [
+            838.04,
+            839.04,
+            "A similar strategy."
+        ],
+        "506": [
+            841.04,
+            842.04,
+            "Winning the ball."
+        ],
+        "507": [
+            844.04,
+            846.04,
+            "There is the injured Jakub Borsikowski."
+        ],
+        "508": [
+            848.04,
+            852.04,
+            "In the muscle strain he may be out next week"
+        ],
+        "509": [
+            852.04,
+            854.04,
+            "are not yet available again."
+        ],
+        "510": [
+            854.06,
+            855.06,
+            "But it's a good chance."
+        ],
+        "511": [
+            857.06,
+            861.06,
+            "There's a good chance they can play through exactly."
+        ],
+        "512": [
+            861.06,
+            862.06,
+            "Up to the target players."
+        ],
+        "513": [
+            864.06,
+            866.06,
+            "And Obermeyer on the other side."
+        ],
+        "514": [
+            868.06,
+            872.06,
+            "And at some point we will talk about the physical and physical"
+        ],
+        "515": [
+            872.06,
+            873.06,
+            "skills need to speak."
+        ],
+        "516": [
+            875.06,
+            878.06,
+            "Borussia Dortmund have 120 minutes under their belt."
+        ],
+        "517": [
+            878.06,
+            879.06,
+            "Not much rotation."
+        ],
+        "518": [
+            879.0799999999999,
+            880.0799999999999,
+            "But it's a good chance."
+        ],
+        "519": [
+            886.0799999999999,
+            887.0799999999999,
+            "Modest."
+        ],
+        "520": [
+            891.0799999999999,
+            894.0799999999999,
+            "He seems incredibly present and self-confident."
+        ],
+        "521": [
+            896.0799999999999,
+            899.0799999999999,
+            "He's gradually getting stronger this afternoon."
+        ],
+        "522": [
+            900.0799999999999,
+            901.0799999999999,
+            "Difficult for the right foot."
+        ],
+        "523": [
+            904.0799999999999,
+            906.0799999999999,
+            "To hit crosses from the left side."
+        ],
+        "524": [
+            909.0799999999999,
+            910.0799999999999,
+            "He has a very good grip."
+        ],
+        "525": [
+            912.0799999999999,
+            913.0799999999999,
+            "He has a very good grip."
+        ],
+        "526": [
+            915.0799999999999,
+            918.0799999999999,
+            "He got the captain under control."
+        ],
+        "527": [
+            933.0799999999999,
+            934.0799999999999,
+            "He forces the ball through."
+        ],
+        "528": [
+            934.1,
+            935.1,
+            "He got the ball through."
+        ],
+        "529": [
+            938.1,
+            941.1,
+            "And then the Australian national goalkeeper."
+        ],
+        "530": [
+            942.1,
+            943.1,
+            "He is angry."
+        ],
+        "531": [
+            945.1,
+            947.1,
+            "Hummels casually lets him through."
+        ],
+        "532": [
+            948.1,
+            950.1,
+            "Modest doesn't give up a ball."
+        ],
+        "533": [
+            952.1,
+            955.1,
+            "And it's legitimate for him to go up there."
+        ],
+        "534": [
+            956.1,
+            957.1,
+            "And then he has the chance."
+        ],
+        "535": [
+            959.1,
+            961.1,
+            "And Lengereck is there and regulated."
+        ],
+        "536": [
+            961.12,
+            963.12,
+            "And then it's a good chance."
+        ],
+        "537": [
+            965.12,
+            967.12,
+            "And then it's a good chance."
+        ],
+        "538": [
+            968.12,
+            970.12,
+            "And then it's a good chance."
+        ],
+        "539": [
+            972.12,
+            974.12,
+            "Great game in this phase."
+        ],
+        "540": [
+            975.12,
+            976.12,
+            "Schwegler."
+        ],
+        "541": [
+            991.12,
+            993.12,
+            "He didn't declare the ball."
+        ],
+        "542": [
+            995.12,
+            997.12,
+            "That was still up for Lengereck."
+        ],
+        "543": [
+            999.12,
+            1002.12,
+            "This is not a proven header monster."
+        ],
+        "544": [
+            1003.12,
+            1004.12,
+            "Roberto Firmino 1.81."
+        ],
+        "545": [
+            1006.12,
+            1008.12,
+            "But then he gets free to head the ball."
+        ],
+        "546": [
+            1010.12,
+            1013.12,
+            "And Borussia Dortmund with the counterattack chance."
+        ],
+        "547": [
+            1014.12,
+            1016.12,
+            "He tried to put that aside too simply."
+        ],
+        "548": [
+            1017.12,
+            1018.12,
+            "Wasted counter-attack opportunity."
+        ],
+        "549": [
+            1021.12,
+            1023.12,
+            "And then it's a good chance."
+        ],
+        "550": [
+            1025.1200000000001,
+            1028.1200000000001,
+            "And then the ball comes against Volland."
+        ],
+        "551": [
+            1029.1200000000001,
+            1031.1200000000001,
+            "It's pressing against pressing."
+        ],
+        "552": [
+            1036.1200000000001,
+            1037.1200000000001,
+            "With the outside crack."
+        ],
+        "553": [
+            1039.1200000000001,
+            1040.1200000000001,
+            "With the outside crack."
+        ],
+        "554": [
+            1042.1200000000001,
+            1043.1200000000001,
+            "With the outside crack."
+        ],
+        "555": [
+            1045.1200000000001,
+            1046.1200000000001,
+            "Slide out."
+        ],
+        "556": [
+            1047.1200000000001,
+            1048.1200000000001,
+            "Schmelzer is still on it."
+        ],
+        "557": [
+            1051.12,
+            1053.12,
+            "And then it's a good chance."
+        ],
+        "558": [
+            1055.12,
+            1057.12,
+            "And then it's a good chance."
+        ],
+        "559": [
+            1081.12,
+            1083.12,
+            "And then it's a good chance."
+        ],
+        "560": [
+            1085.12,
+            1087.12,
+            "And then it's a good chance."
+        ],
+        "561": [
+            1088.12,
+            1090.12,
+            "And then it's a good chance."
+        ],
+        "562": [
+            1092.12,
+            1094.12,
+            "Lengereck would have been defeated."
+        ],
+        "563": [
+            1097.12,
+            1099.12,
+            "Great header from Roberto Firmino."
+        ],
+        "564": [
+            1099.1399999999999,
+            1101.1399999999999,
+            "And then it's a good chance."
+        ],
+        "565": [
+            1103.1399999999999,
+            1105.1399999999999,
+            "And then it's a good chance."
+        ],
+        "566": [
+            1108.1399999999999,
+            1110.1399999999999,
+            "Obermeyer against Vyacheslav Csitsch."
+        ],
+        "567": [
+            1111.1399999999999,
+            1113.1399999999999,
+            "Obermeyer, angle unfavorable."
+        ],
+        "568": [
+            1115.1399999999999,
+            1116.1399999999999,
+            "With the right."
+        ],
+        "569": [
+            1117.1399999999999,
+            1118.1399999999999,
+            "Stronger on the move."
+        ],
+        "570": [
+            1120.1399999999999,
+            1121.1399999999999,
+            "Next chance for BVB."
+        ],
+        "571": [
+            1123.1399999999999,
+            1126.1399999999999,
+            "Here he had to look for the finish with his left."
+        ],
+        "572": [
+            1126.16,
+            1128.16,
+            "That was a good ending."
+        ],
+        "573": [
+            1130.16,
+            1132.16,
+            "It was a good ending."
+        ],
+        "574": [
+            1133.16,
+            1135.16,
+            "But the team is in demand,"
+        ],
+        "575": [
+            1136.14,
+            1138.16,
+            "that they need to get past the point of pain."
+        ],
+        "576": [
+            1145.16,
+            1148.16,
+            "But BVB still needs three this afternoon,"
+        ],
+        "577": [
+            1148.16,
+            1150.16,
+            "four or five such sprints."
+        ],
+        "578": [
+            1150.18,
+            1152.18,
+            "That was a good ending."
+        ],
+        "579": [
+            1154.18,
+            1157.18,
+            "A strong second half of the game from both teams."
+        ],
+        "580": [
+            1157.18,
+            1158.18,
+            "Offensively led."
+        ],
+        "581": [
+            1161.18,
+            1162.18,
+            "Little frills."
+        ],
+        "582": [
+            1164.18,
+            1167.18,
+            "The straight direct route to the gate is announced."
+        ],
+        "583": [
+            1180.18,
+            1182.18,
+            "That was a good ending."
+        ],
+        "584": [
+            1184.18,
+            1186.18,
+            "That was a good ending."
+        ],
+        "585": [
+            1195.18,
+            1199.18,
+            "Sven Schiplock, most recently successful as a substitute"
+        ],
+        "586": [
+            1199.18,
+            1200.18,
+            "in Hannover."
+        ],
+        "587": [
+            1201.18,
+            1203.18,
+            "He has three goals this season."
+        ],
+        "588": [
+            1203.2,
+            1206.2,
+            "He has the chance, the chance, the chance."
+        ],
+        "589": [
+            1207.2,
+            1209.2,
+            "He has the chance, the chance."
+        ],
+        "590": [
+            1210.18,
+            1212.2,
+            "He has an awful lot of balls."
+        ],
+        "591": [
+            1214.2,
+            1217.2,
+            "Even if he doesn't succeed in this cross,"
+        ],
+        "592": [
+            1217.2,
+            1219.2,
+            "as he imagined it."
+        ],
+        "593": [
+            1220.2,
+            1221.2,
+            "Anthony Modest."
+        ],
+        "594": [
+            1225.2,
+            1227.2,
+            "He came from Bordeaux two years ago."
+        ],
+        "595": [
+            1233.2,
+            1235.2,
+            "He came from Bordeaux two years ago."
+        ],
+        "596": [
+            1237.2,
+            1239.2,
+            "He came from Bordeaux two years ago."
+        ],
+        "597": [
+            1242.2,
+            1244.2,
+            "30,000 were sold out in the arena."
+        ],
+        "598": [
+            1245.2,
+            1247.2,
+            "I hope they only get 1%."
+        ],
+        "599": [
+            1249.2,
+            1251.2,
+            "At least 1% with this acoustics."
+        ],
+        "600": [
+            1253.2,
+            1256.2,
+            "This means they can fill the whole street with sound,"
+        ],
+        "601": [
+            1256.2,
+            1258.2,
+            "when they open the windows."
+        ],
+        "602": [
+            1258.22,
+            1260.22,
+            "That was a good ending."
+        ],
+        "603": [
+            1262.22,
+            1264.22,
+            "That was a good ending."
+        ],
+        "604": [
+            1272.22,
+            1276.22,
+            "He took a moment too long to control the ball."
+        ],
+        "605": [
+            1277.2,
+            1279.22,
+            "That was the decisive moment."
+        ],
+        "606": [
+            1280.22,
+            1283.22,
+            "Offside position correctly recorded by Raphael Foltin."
+        ],
+        "607": [
+            1289.2,
+            1291.2,
+            "Apply Alone!"
+        ],
+        "608": [
+            1293.22,
+            1295.22,
+            "Copyright WDR 2019"
+        ],
+        "609": [
+            1318.2,
+            1320.2,
+            "That was a good ball."
+        ],
+        "610": [
+            1340.2,
+            1344.2,
+            "Baumann briefly had the idea of ​​getting out of the box."
+        ],
+        "611": [
+            1344.2,
+            1346.2,
+            "F Victorino Gatt protects Helle."
+        ],
+        "612": [
+            1350.2,
+            1352.18,
+            "차�ler against the one who has advanced farther."
+        ],
+        "613": [
+            1356.2,
+            1358.2,
+            "Jan Szwedt Terre for Szwedt."
+        ],
+        "614": [
+            1365.18,
+            1367.18,
+            "Maximilian Полanski in the real tambourine."
+        ],
+        "615": [
+            1374.2,
+            1376.2,
+            "The smelters."
+        ],
+        "616": [
+            1377.18,
+            1379.18,
+            "Modest missed."
+        ],
+        "617": [
+            1379.2,
+            1381.2,
+            "Firmino at the back."
+        ],
+        "618": [
+            1382.18,
+            1384.18,
+            "Firmino not good enough for Solloj."
+        ],
+        "619": [
+            1385.2,
+            1387.2,
+            "Zubutic."
+        ],
+        "620": [
+            1405.2,
+            1407.2,
+            "That was a good ball."
+        ],
+        "621": [
+            1408.18,
+            1410.18,
+            "That was a good ball."
+        ],
+        "622": [
+            1410.2,
+            1413.2,
+            "Do you have time for the understatement of the afternoon?"
+        ],
+        "623": [
+            1414.18,
+            1416.2,
+            "This is an intense football game."
+        ],
+        "624": [
+            1417.18,
+            1420.2,
+            "The question is, how long will BVB’s strength last?"
+        ],
+        "625": [
+            1421.18,
+            1423.2,
+            "How long is it enough?"
+        ],
+        "626": [
+            1424.18,
+            1426.2,
+            "Will you all reach the finish line on time?"
+        ],
+        "627": [
+            1427.18,
+            1429.18,
+            "Over 20 minutes left."
+        ],
+        "628": [
+            1435.2,
+            1437.2,
+            "That was a good ball."
+        ],
+        "629": [
+            1438.2,
+            1440.2,
+            "That was a good ball."
+        ],
+        "630": [
+            1441.2,
+            1443.2,
+            "That was a good ball."
+        ],
+        "631": [
+            1444.2,
+            1446.2,
+            "That was a good ball."
+        ],
+        "632": [
+            1447.2,
+            1449.2,
+            "That was a good ball."
+        ],
+        "633": [
+            1450.2,
+            1452.2,
+            "That was a good ball."
+        ],
+        "634": [
+            1453.2,
+            1455.2,
+            "That was a good ball."
+        ],
+        "635": [
+            1456.2,
+            1460.2,
+            "We are relying on Alexander Rosen and Marcus Gisdol in Hoffenheim."
+        ],
+        "636": [
+            1461.2,
+            1463.2,
+            "The one a few days ago"
+        ],
+        "637": [
+            1464.2,
+            1466.2,
+            "in the first half."
+        ],
+        "638": [
+            1467.18,
+            1469.18,
+            "That was a good ball."
+        ],
+        "639": [
+            1470.2,
+            1472.2,
+            "That was a good ball."
+        ],
+        "640": [
+            1473.18,
+            1475.18,
+            "That was a good ball."
+        ],
+        "641": [
+            1477.2,
+            1479.2,
+            "The alternative to Borussia Dortmund."
+        ],
+        "642": [
+            1480.18,
+            1483.2,
+            "Thomas Tuchel will take over from Jürgen Klopp there."
+        ],
+        "643": [
+            1484.2,
+            1486.2,
+            "That was a real offside position."
+        ],
+        "644": [
+            1487.18,
+            1489.18,
+            "Solloj came offside."
+        ],
+        "645": [
+            1494.2,
+            1496.2,
+            "That was a good offside position."
+        ],
+        "646": [
+            1497.2,
+            1499.2,
+            "That was a good offside position."
+        ],
+        "647": [
+            1500.2,
+            1503.2,
+            "Abraham and Solloj were clearly offside."
+        ],
+        "648": [
+            1523.2,
+            1525.2,
+            "That was a good ball."
+        ],
+        "649": [
+            1554.2,
+            1556.2,
+            "There was a gate."
+        ],
+        "650": [
+            1558.2,
+            1560.2,
+            "That was a good ball."
+        ],
+        "651": [
+            1561.2,
+            1563.2,
+            "It was a tactical goal."
+        ],
+        "652": [
+            1566.2,
+            1568.2,
+            "There would have to be money."
+        ],
+        "653": [
+            1569.2,
+            1571.2,
+            "There would have to be money."
+        ],
+        "654": [
+            1572.2,
+            1574.2,
+            "That was a loss."
+        ],
+        "655": [
+            1575.2,
+            1577.2,
+            "Time has passed."
+        ],
+        "656": [
+            1578.2,
+            1580.2,
+            "The card is fine too."
+        ],
+        "657": [
+            1583.2,
+            1585.2,
+            "The card is fine too."
+        ],
+        "658": [
+            1586.2,
+            1588.2,
+            "The card is fine too."
+        ],
+        "659": [
+            1589.2,
+            1591.2,
+            "Logically too."
+        ],
+        "660": [
+            1597.2,
+            1599.2,
+            "Schwegler's ball."
+        ],
+        "661": [
+            1600.2,
+            1602.2,
+            "Away with Schwegler."
+        ],
+        "662": [
+            1614.2,
+            1616.2,
+            "That was a good ball."
+        ],
+        "663": [
+            1617.2,
+            1619.2,
+            "That was a good ball."
+        ],
+        "664": [
+            1627.2,
+            1629.2,
+            "Kampel with the error."
+        ],
+        "665": [
+            1630.2,
+            1632.2,
+            "That was also difficult for Kevin Kampel."
+        ],
+        "666": [
+            1637.2,
+            1639.2,
+            "That was a physical challenge."
+        ],
+        "667": [
+            1640.2,
+            1642.2,
+            "That was a good ball."
+        ],
+        "668": [
+            1645.2,
+            1647.2,
+            "The camp games ran over 86 km."
+        ],
+        "669": [
+            1648.2,
+            1650.2,
+            "Every single team."
+        ],
+        "670": [
+            1653.2,
+            1656.2,
+            "Willingness to run will remain a big issue."
+        ],
+        "671": [
+            1657.2,
+            1659.2,
+            "It's a big topic."
+        ],
+        "672": [
+            1660.2,
+            1663.2,
+            "The question remains, how long will the strength last?"
+        ],
+        "673": [
+            1670.2,
+            1673.2,
+            "The question remains, how long will the strength last?"
+        ],
+        "674": [
+            1674.2,
+            1677.2,
+            "The question remains, how long will the strength last?"
+        ],
+        "675": [
+            1678.2,
+            1681.2,
+            "The question remains, how long will the strength last?"
+        ],
+        "676": [
+            1682.2,
+            1684.2,
+            "Here is Firmino after the fall of Kehl"
+        ],
+        "677": [
+            1685.2,
+            1687.2,
+            "played the ball again too early."
+        ],
+        "678": [
+            1688.2,
+            1690.2,
+            "He must follow the rules at rest."
+        ],
+        "679": [
+            1691.2,
+            1693.2,
+            "That's why Dr. Jorgen Drees"
+        ],
+        "680": [
+            1694.2,
+            1696.2,
+            "take this free kick again."
+        ],
+        "681": [
+            1696.2,
+            1698.2,
+            "He has a few technical problems."
+        ],
+        "682": [
+            1700.2,
+            1702.2,
+            "Giro Immobile is coming for him."
+        ],
+        "683": [
+            1705.2,
+            1707.2,
+            "Modeste is great there."
+        ],
+        "684": [
+            1708.2,
+            1710.2,
+            "The ball reception was accurate."
+        ],
+        "685": [
+            1711.2,
+            1713.2,
+            "The first contact is crucial."
+        ],
+        "686": [
+            1714.2,
+            1716.2,
+            "Then he has a little reserve."
+        ],
+        "687": [
+            1717.2,
+            1719.2,
+            "You can see it again in this slow motion."
+        ],
+        "688": [
+            1720.2,
+            1722.2,
+            "That's strong."
+        ],
+        "689": [
+            1722.2,
+            1724.2,
+            "That's strong."
+        ],
+        "690": [
+            1725.2,
+            1727.2,
+            "He has a bit of reserve."
+        ],
+        "691": [
+            1728.2,
+            1730.2,
+            "He loses control when finishing."
+        ],
+        "692": [
+            1731.2,
+            1733.2,
+            "That was a good ball."
+        ],
+        "693": [
+            1734.2,
+            1736.2,
+            "That was a good ball."
+        ],
+        "694": [
+            1749.2,
+            1752.2,
+            "Markus Gisdol also made his first substitution."
+        ],
+        "695": [
+            1753.2,
+            1755.2,
+            "I really liked Modeste."
+        ],
+        "696": [
+            1756.2,
+            1759.2,
+            "I don't understand why he takes it down."
+        ],
+        "697": [
+            1760.2,
+            1762.2,
+            "He held up well."
+        ],
+        "698": [
+            1763.2,
+            1765.2,
+            "He held up well."
+        ],
+        "699": [
+            1766.2,
+            1768.2,
+            "He held up well."
+        ],
+        "700": [
+            1769.2,
+            1771.2,
+            "That was a strong Bundesliga game."
+        ],
+        "701": [
+            1772.2,
+            1774.2,
+            "For him now Sven Schiplock."
+        ],
+        "702": [
+            1775.2,
+            1777.2,
+            "It doesn't change anything about Hoffenheim's 442."
+        ],
+        "703": [
+            1791.2,
+            1793.2,
+            "That was a good ball."
+        ],
+        "704": [
+            1794.2,
+            1796.2,
+            "That was a good ball."
+        ],
+        "705": [
+            1797.2,
+            1799.2,
+            "The furniture also looks more like a 442."
+        ],
+        "706": [
+            1800.2,
+            1802.2,
+            "The furniture also looks more like a 442."
+        ],
+        "707": [
+            1803.2,
+            1805.2,
+            "Exciting last 15 minutes."
+        ],
+        "708": [
+            1806.2,
+            1808.2,
+            "I'm sure."
+        ],
+        "709": [
+            1809.2,
+            1811.2,
+            "Exciting football game."
+        ],
+        "710": [
+            1812.2,
+            1814.2,
+            "Goal chances plus for TSG."
+        ],
+        "711": [
+            1815.2,
+            1817.2,
+            "Firmino hit the aluminum."
+        ],
+        "712": [
+            1817.2,
+            1819.2,
+            "That was a good ball."
+        ],
+        "713": [
+            1820.2,
+            1822.2,
+            "That was a good ball."
+        ],
+        "714": [
+            1823.2,
+            1825.2,
+            "That was a good ball."
+        ],
+        "715": [
+            1826.2,
+            1828.2,
+            "That was a good ball."
+        ],
+        "716": [
+            1829.2,
+            1831.2,
+            "Lots of duels."
+        ],
+        "717": [
+            1832.2,
+            1834.2,
+            "A straight football game."
+        ],
+        "718": [
+            1835.2,
+            1839.2,
+            "Both want and both are not satisfied with this one point."
+        ],
+        "719": [
+            1848.2,
+            1850.2,
+            "That was a good ball."
+        ],
+        "720": [
+            1851.2,
+            1853.2,
+            "That was a good ball."
+        ],
+        "721": [
+            1854.2,
+            1856.2,
+            "Abraham and Bicakic high-five each other."
+        ],
+        "722": [
+            1857.2,
+            1859.2,
+            "This is an important measure."
+        ],
+        "723": [
+            1860.2,
+            1862.2,
+            "Offside decision."
+        ],
+        "724": [
+            1863.2,
+            1865.2,
+            "That was a distorted decision."
+        ],
+        "725": [
+            1866.2,
+            1869.2,
+            "Rafael Foltin had to make the decision."
+        ],
+        "726": [
+            1870.2,
+            1872.2,
+            "This is a tool."
+        ],
+        "727": [
+            1873.2,
+            1875.2,
+            "A clear tactical tool."
+        ],
+        "728": [
+            1875.2,
+            1877.2,
+            "You can't trust the club."
+        ],
+        "729": [
+            1878.2,
+            1880.2,
+            "We look at Andreas Schmelzer."
+        ],
+        "730": [
+            1900.2,
+            1902.2,
+            "The goalkeeper Jesus Schmelzer."
+        ],
+        "731": [
+            1902.2,
+            1905.2,
+            "The team is in the second half of the game."
+        ],
+        "732": [
+            1918.18,
+            1921.2,
+            "Vicky and Hoffi are just as excited as everyone else."
+        ],
+        "733": [
+            1921.2,
+            1923.2,
+            "This afternoon."
+        ],
+        "734": [
+            1923.2,
+            1925.2,
+            "Schwegler's corner."
+        ],
+        "735": [
+            1925.2,
+            1927.2,
+            "Great, Jan."
+        ],
+        "736": [
+            1928.2,
+            1930.2,
+            "That was a good ball."
+        ],
+        "737": [
+            1930.2,
+            1932.2,
+            "A good entrance."
+        ],
+        "738": [
+            1933.18,
+            1935.2,
+            "The next entrance for TSG."
+        ],
+        "739": [
+            1944.2,
+            1946.2,
+            "Dortmund covers in space."
+        ],
+        "740": [
+            1948.2,
+            1950.2,
+            "And there is Schwegler's corner."
+        ],
+        "741": [
+            1958.2,
+            1960.2,
+            "That was a good ball."
+        ],
+        "742": [
+            1962.2,
+            1964.2,
+            "And the next entrance from Jan."
+        ],
+        "743": [
+            1977.2,
+            1979.2,
+            "8 to 3 the entrance."
+        ],
+        "744": [
+            1987.2,
+            1989.2,
+            "That was a good ball."
+        ],
+        "745": [
+            1990.2,
+            1992.2,
+            "That was a good ball."
+        ],
+        "746": [
+            1994.2,
+            1996.2,
+            "No security in the center."
+        ],
+        "747": [
+            1998.2,
+            2000.2,
+            "But we're focusing on Kevin Kampel."
+        ],
+        "748": [
+            2001.18,
+            2003.18,
+            "And the real estate with Obermeyer."
+        ],
+        "749": [
+            2003.2,
+            2005.2,
+            "Baumann had to risk everything."
+        ],
+        "750": [
+            2006.18,
+            2008.2,
+            "But the flag above was offside."
+        ],
+        "751": [
+            2009.18,
+            2011.2,
+            "Now we can take care of Abraham."
+        ],
+        "752": [
+            2012.18,
+            2014.2,
+            "If they have the slow motion again."
+        ],
+        "753": [
+            2015.2,
+            2017.2,
+            "The ball is in the middle."
+        ],
+        "754": [
+            2018.18,
+            2020.18,
+            "But it's a good ball."
+        ],
+        "755": [
+            2021.2,
+            2023.2,
+            "This is the action."
+        ],
+        "756": [
+            2024.18,
+            2026.18,
+            "No foul on Abraham."
+        ],
+        "757": [
+            2028.2,
+            2030.2,
+            "He was set up."
+        ],
+        "758": [
+            2031.18,
+            2033.18,
+            "He landed roughly."
+        ],
+        "759": [
+            2035.2,
+            2039.2,
+            "And maybe also a break, which he would like to treat himself to here."
+        ],
+        "760": [
+            2040.18,
+            2042.18,
+            "David Abraham."
+        ],
+        "761": [
+            2043.18,
+            2045.18,
+            "That was a good ball."
+        ],
+        "762": [
+            2048.16,
+            2051.16,
+            "Now perhaps both teams have to"
+        ],
+        "763": [
+            2051.1800000000003,
+            2053.1800000000003,
+            "beyond the painful point."
+        ],
+        "764": [
+            2054.16,
+            2056.16,
+            "In the last ten minutes."
+        ],
+        "765": [
+            2061.1800000000003,
+            2063.1800000000003,
+            "That's the scene again."
+        ],
+        "766": [
+            2064.16,
+            2066.16,
+            "Langereck before Abraham."
+        ],
+        "767": [
+            2066.1800000000003,
+            2068.1800000000003,
+            "And now the landing."
+        ],
+        "768": [
+            2068.1800000000003,
+            2070.1800000000003,
+            "Ouch."
+        ],
+        "769": [
+            2073.18,
+            2075.18,
+            "That was a good ball."
+        ],
+        "770": [
+            2078.16,
+            2080.16,
+            "There was the central defender."
+        ],
+        "771": [
+            2082.18,
+            2084.18,
+            "He had already had a cruciate ligament injury for a long time."
+        ],
+        "772": [
+            2085.16,
+            2087.18,
+            "Apparently it can't go on."
+        ],
+        "773": [
+            2088.16,
+            2090.16,
+            "There you see Kim."
+        ],
+        "774": [
+            2091.16,
+            2094.18,
+            "This can only mean that Toljan will move into the center."
+        ],
+        "775": [
+            2095.16,
+            2097.16,
+            "And Kim takes over the site."
+        ],
+        "776": [
+            2097.18,
+            2100.16,
+            "Apparently also a muscular problem."
+        ],
+        "777": [
+            2101.16,
+            2103.16,
+            "But it's a good ball."
+        ],
+        "778": [
+            2106.14,
+            2108.14,
+            "It's a good ball."
+        ],
+        "779": [
+            2110.16,
+            2112.16,
+            "He is a left defender."
+        ],
+        "780": [
+            2113.14,
+            2115.14,
+            "It is that the side changes."
+        ],
+        "781": [
+            2117.16,
+            2119.16,
+            "The page returns to its original position."
+        ],
+        "782": [
+            2120.14,
+            2122.16,
+            "Abraham is about to leave the place."
+        ],
+        "783": [
+            2123.14,
+            2125.14,
+            "The calf is already cooled."
+        ],
+        "784": [
+            2126.16,
+            2128.16,
+            "And treated with a compression bandage."
+        ],
+        "785": [
+            2129.16,
+            2131.16,
+            "That was a good ball."
+        ],
+        "786": [
+            2134.14,
+            2136.14,
+            "And then the central defender."
+        ],
+        "787": [
+            2138.16,
+            2140.16,
+            "Compliments to David Abraham."
+        ],
+        "788": [
+            2142.16,
+            2145.16,
+            "He played a really good football game today."
+        ],
+        "789": [
+            2147.16,
+            2149.16,
+            "72% won in duels."
+        ],
+        "790": [
+            2150.14,
+            2152.14,
+            "That's a good rate."
+        ],
+        "791": [
+            2154.16,
+            2158.14,
+            "It doesn't quite match the statistics of Bicakic and Hummels."
+        ],
+        "792": [
+            2159.16,
+            2162.16,
+            "It doesn't match the mood of Bicakic and Hummels."
+        ],
+        "793": [
+            2163.14,
+            2165.16,
+            "It doesn't match the mood of Bicakic and Hummels."
+        ],
+        "794": [
+            2166.14,
+            2168.14,
+            "Immobile against Bicakic."
+        ],
+        "795": [
+            2188.16,
+            2190.16,
+            "That was a good ball."
+        ],
+        "796": [
+            2219.14,
+            2221.14,
+            "It was a good ball."
+        ],
+        "797": [
+            2223.16,
+            2225.16,
+            "It was a good ball."
+        ],
+        "798": [
+            2226.16,
+            2228.16,
+            "It was a good ball."
+        ],
+        "799": [
+            2231.14,
+            2233.14,
+            "It was a good ball."
+        ],
+        "800": [
+            2237.16,
+            2239.16,
+            "Schwegler."
+        ],
+        "801": [
+            2241.16,
+            2243.16,
+            "Kehl with two fights."
+        ],
+        "802": [
+            2244.14,
+            2246.14,
+            "No foreplay from Dortmund."
+        ],
+        "803": [
+            2248.16,
+            2251.16,
+            "And a rough landing for the former Frankfurter."
+        ],
+        "804": [
+            2252.14,
+            2254.14,
+            "He moved to TSG in the summer."
+        ],
+        "805": [
+            2256.16,
+            2259.14,
+            "He was in the first half of the first half."
+        ],
+        "806": [
+            2259.16,
+            2262.16,
+            "He was in the first half of the first half."
+        ],
+        "807": [
+            2263.14,
+            2266.16,
+            "He has to be happy with his team's performance."
+        ],
+        "808": [
+            2267.14,
+            2269.14,
+            "Not with the utilization of opportunities."
+        ],
+        "809": [
+            2271.16,
+            2274.16,
+            "If we want to complain, then that's a lot of things"
+        ],
+        "810": [
+            2275.14,
+            2277.14,
+            "opportunities offered."
+        ],
+        "811": [
+            2277.16,
+            2280.16,
+            "The short break in the game is used immediately."
+        ],
+        "812": [
+            2281.14,
+            2283.14,
+            "This is the scene."
+        ],
+        "813": [
+            2286.16,
+            2288.16,
+            "That was a good ball."
+        ],
+        "814": [
+            2291.14,
+            2294.14,
+            "He was in the first half of the first half."
+        ],
+        "815": [
+            2294.16,
+            2297.16,
+            "He was in the first half of the first half."
+        ],
+        "816": [
+            2298.14,
+            2301.16,
+            "He was in the first half of the first half."
+        ],
+        "817": [
+            2302.14,
+            2304.14,
+            "He was a fighter."
+        ],
+        "818": [
+            2304.16,
+            2306.16,
+            "He had an incredible number of injuries."
+        ],
+        "819": [
+            2307.14,
+            2309.14,
+            "He had many operations."
+        ],
+        "820": [
+            2311.16,
+            2313.16,
+            "He always found his way back."
+        ],
+        "821": [
+            2316.16,
+            2319.16,
+            "He was in the first half of the first half"
+        ],
+        "822": [
+            2320.14,
+            2322.14,
+            "injured again."
+        ],
+        "823": [
+            2322.16,
+            2324.14,
+            "He's good for Oliver Baumann."
+        ],
+        "824": [
+            2325.14,
+            2327.14,
+            "He's good for Oliver Baumann."
+        ],
+        "825": [
+            2329.16,
+            2331.16,
+            "He'll be out in time."
+        ],
+        "826": [
+            2332.14,
+            2334.14,
+            "He'll be out in time."
+        ],
+        "827": [
+            2336.16,
+            2338.16,
+            "He has two really good chances."
+        ],
+        "828": [
+            2341.14,
+            2343.16,
+            "He has great assertiveness."
+        ],
+        "829": [
+            2346.16,
+            2348.16,
+            "He has great assertiveness."
+        ],
+        "830": [
+            2349.16,
+            2351.16,
+            "He has the chance, the chance, the chance."
+        ],
+        "831": [
+            2352.14,
+            2354.16,
+            "He has the chance, the chance."
+        ],
+        "832": [
+            2355.16,
+            2357.16,
+            "He has the chance, the chance."
+        ],
+        "833": [
+            2358.16,
+            2360.16,
+            "He has the chance, the chance."
+        ],
+        "834": [
+            2362.16,
+            2364.16,
+            "Obermeyer against Bicakic."
+        ],
+        "835": [
+            2365.16,
+            2368.16,
+            "And then there was a strong reaction from Oliver Baumann."
+        ],
+        "836": [
+            2369.14,
+            2371.16,
+            "And then there was a strong reaction from Oliver Baumann."
+        ],
+        "837": [
+            2372.14,
+            2374.16,
+            "Two great goals this afternoon."
+        ],
+        "838": [
+            2375.16,
+            2378.16,
+            "He got injured again in the first half."
+        ],
+        "839": [
+            2379.14,
+            2381.16,
+            "He got injured again in the first half."
+        ],
+        "840": [
+            2382.14,
+            2384.16,
+            "It is from one's own, then from another's."
+        ],
+        "841": [
+            2385.16,
+            2387.16,
+            "And of course he gets up again."
+        ],
+        "842": [
+            2389.16,
+            2391.16,
+            "Tugutic against Schiblock."
+        ],
+        "843": [
+            2405.16,
+            2407.16,
+            "He laid on his head again."
+        ],
+        "844": [
+            2410.14,
+            2412.16,
+            "He laid on his head again."
+        ],
+        "845": [
+            2414.14,
+            2416.16,
+            "He laid on his head again."
+        ],
+        "846": [
+            2418.16,
+            2420.16,
+            "Today from 3:30 a.m."
+        ],
+        "847": [
+            2422.16,
+            2425.16,
+            "It's about the Kronenwelter weight in Las Vegas."
+        ],
+        "848": [
+            2426.14,
+            2428.16,
+            "It's about the Kronenwelter weight in Las Vegas."
+        ],
+        "849": [
+            2429.14,
+            2431.14,
+            "Live on Sky Select."
+        ],
+        "850": [
+            2435.16,
+            2437.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "851": [
+            2438.14,
+            2440.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "852": [
+            2441.14,
+            2443.14,
+            "5 more minutes."
+        ],
+        "853": [
+            2450.16,
+            2452.16,
+            "The foot is too high."
+        ],
+        "854": [
+            2453.16,
+            2455.16,
+            "Dangerous game by Sebastian Kehl."
+        ],
+        "855": [
+            2456.14,
+            2458.14,
+            "Free kick for TSG."
+        ],
+        "856": [
+            2465.16,
+            2467.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "857": [
+            2470.14,
+            2472.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "858": [
+            2474.14,
+            2476.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "859": [
+            2478.16,
+            2480.16,
+            "Hoffenheim in Frankfurt next week."
+        ],
+        "860": [
+            2483.14,
+            2485.16,
+            "Then again away in Leverkusen."
+        ],
+        "861": [
+            2486.14,
+            2488.16,
+            "And finally Hertha BSC in Sinsheim."
+        ],
+        "862": [
+            2489.14,
+            2490.16,
+            "So two more away games."
+        ],
+        "863": [
+            2491.16,
+            2493.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "864": [
+            2496.14,
+            2498.16,
+            "The Kronenwelter Weight in Las Vegas."
+        ],
+        "865": [
+            2499.14,
+            2501.14,
+            "Maybe to Europe."
+        ],
+        "866": [
+            2502.16,
+            2504.16,
+            "And Borussia Dortmund."
+        ],
+        "867": [
+            2505.14,
+            2507.16,
+            "Berlin at home next week."
+        ],
+        "868": [
+            2508.14,
+            2509.16,
+            "Then Wolfsburg away."
+        ],
+        "869": [
+            2510.14,
+            2511.16,
+            "Bremen at home."
+        ],
+        "870": [
+            2513.16,
+            2516.16,
+            "And on May 30th, 8 p.m. at the Olympic Stadium in Berlin."
+        ],
+        "871": [
+            2517.14,
+            2518.16,
+            "Cup final."
+        ],
+        "872": [
+            2519.16,
+            2521.16,
+            "The goalscorer is there."
+        ],
+        "873": [
+            2526.14,
+            2528.14,
+            "Immobile has to do it."
+        ],
+        "874": [
+            2530.16,
+            2532.16,
+            "The current top scorer."
+        ],
+        "875": [
+            2533.14,
+            2534.16,
+            "A great counterattack."
+        ],
+        "876": [
+            2537.14,
+            2540.16,
+            "Obermeyer played sideways at the ideal moment."
+        ],
+        "877": [
+            2549.16,
+            2551.16,
+            "The goalscorer is there."
+        ],
+        "878": [
+            2554.14,
+            2555.16,
+            "The goalscorer is there."
+        ],
+        "879": [
+            2558.14,
+            2559.16,
+            "The goalscorer is there."
+        ],
+        "880": [
+            2564.14,
+            2568.16,
+            "So Dortmund doesn't take note of this one point either."
+        ],
+        "881": [
+            2569.14,
+            2571.16,
+            "They all go to three points here."
+        ],
+        "882": [
+            2572.14,
+            2573.16,
+            "Here again."
+        ],
+        "883": [
+            2574.16,
+            2576.16,
+            "And once again Oliver Baumann."
+        ],
+        "884": [
+            2577.16,
+            2578.16,
+            "The goalscorer is there."
+        ],
+        "885": [
+            2580.14,
+            2581.16,
+            "The goalscorer is there."
+        ],
+        "886": [
+            2582.14,
+            2583.16,
+            "The goalscorer is there."
+        ],
+        "887": [
+            2586.14,
+            2588.16,
+            "And afterwards the peace itself."
+        ],
+        "888": [
+            2595.16,
+            2597.16,
+            "Very good for BVB."
+        ],
+        "889": [
+            2599.16,
+            2603.16,
+            "Jürgen Klopp's team clearly goes above and beyond here"
+        ],
+        "890": [
+            2603.16,
+            2604.16,
+            "Pain threshold."
+        ],
+        "891": [
+            2605.16,
+            2609.16,
+            "Jürgen Klopp's team is well above the pain threshold here."
+        ],
+        "892": [
+            2610.14,
+            2612.16,
+            "And Aki Watzke can't take it anymore."
+        ],
+        "893": [
+            2614.14,
+            2617.16,
+            "Or maybe he just wants to avoid the traffic jam."
+        ],
+        "894": [
+            2618.14,
+            2619.16,
+            "He doesn't pull that corner."
+        ],
+        "895": [
+            2621.16,
+            2622.16,
+            "By Mkhitaryan."
+        ],
+        "896": [
+            2625.16,
+            2629.16,
+            "Of course, Hoffenheim may feel disadvantaged"
+        ],
+        "897": [
+            2630.14,
+            2633.16,
+            "through the irregularly swallowed 1 on 1 by Hummels."
+        ],
+        "898": [
+            2635.16,
+            2637.16,
+            "But it's a good goal."
+        ],
+        "899": [
+            2640.14,
+            2641.16,
+            "And in four."
+        ],
+        "900": [
+            2644.14,
+            2645.16,
+            "Real estate."
+        ],
+        "901": [
+            2653.14,
+            2655.14,
+            "The 90th minute is now underway."
+        ],
+        "902": [
+            2656.16,
+            2658.16,
+            "A spectacular second half of the game."
+        ],
+        "903": [
+            2660.16,
+            2663.16,
+            "No goals, but still a great football game."
+        ],
+        "904": [
+            2665.16,
+            2667.16,
+            "And then the second half."
+        ],
+        "905": [
+            2670.14,
+            2672.16,
+            "There will probably be three minutes of injury time."
+        ],
+        "906": [
+            2675.14,
+            2677.14,
+            "Past Beck, past Schlegler."
+        ],
+        "907": [
+            2679.16,
+            2680.16,
+            "Not past Bicakic."
+        ],
+        "908": [
+            2683.14,
+            2686.16,
+            "We saw four good central defenders here today."
+        ],
+        "909": [
+            2687.14,
+            2689.16,
+            "For me, Bicakic is the best of the four good ones."
+        ],
+        "910": [
+            2690.16,
+            2692.16,
+            "And Schlegler is the best."
+        ],
+        "911": [
+            2695.14,
+            2696.16,
+            "And Schlegler is the best."
+        ],
+        "912": [
+            2699.14,
+            2700.16,
+            "Corner for BVB."
+        ],
+        "913": [
+            2705.14,
+            2706.16,
+            "Hummels is coming over there."
+        ],
+        "914": [
+            2709.14,
+            2710.16,
+            "There you have it."
+        ],
+        "915": [
+            2711.14,
+            2712.16,
+            "Red on black."
+        ],
+        "916": [
+            2713.14,
+            2714.16,
+            "Three minutes."
+        ],
+        "917": [
+            2715.14,
+            2718.16,
+            "Hummels could have added six minutes."
+        ],
+        "918": [
+            2720.16,
+            2722.16,
+            "And then it was a good goal."
+        ],
+        "919": [
+            2725.14,
+            2727.14,
+            "And then it was a good goal."
+        ],
+        "920": [
+            2729.16,
+            2732.14,
+            "Hoffenheim was basically relegated."
+        ],
+        "921": [
+            2734.16,
+            2736.16,
+            "Then they won 2-1 in Dortmund."
+        ],
+        "922": [
+            2738.14,
+            2740.14,
+            "Back then, Weidenfeller was red."
+        ],
+        "923": [
+            2742.16,
+            2745.16,
+            "Großkreutz had to go into Salihowitsch's second penalty"
+        ],
+        "924": [
+            2745.16,
+            2746.16,
+            "Goal."
+        ],
+        "925": [
+            2747.16,
+            2749.16,
+            "Then it was another good goal."
+        ],
+        "926": [
+            2752.14,
+            2753.16,
+            "Then it was another good goal."
+        ],
+        "927": [
+            2756.14,
+            2757.16,
+            "Then it was another good goal."
+        ],
+        "928": [
+            2767.14,
+            2770.16,
+            "If Hoffenheim get another free kick"
+        ],
+        "929": [
+            2771.14,
+            2772.16,
+            "could,"
+        ],
+        "930": [
+            2772.16,
+            2774.14,
+            "then these two would probably be under pressure on the other side."
+        ],
+        "931": [
+            2777.16,
+            2778.14,
+            "Gutestone."
+        ],
+        "932": [
+            2779.14,
+            2780.16,
+            "With the loyal enemy quick fight."
+        ]
+    }
+}

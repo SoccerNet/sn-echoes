@@ -1,0 +1,3939 @@
+{
+    "segments": {
+        "0": [
+            90.0,
+            94.0,
+            "Time! Time! Time!"
+        ],
+        "1": [
+            120.0,
+            125.0,
+            "Time! Time! Time!"
+        ],
+        "2": [
+            150.0,
+            155.0,
+            "Time! Time! Time! Time!"
+        ],
+        "3": [
+            180.0,
+            185.0,
+            "Time! Time! Time! Time!"
+        ],
+        "4": [
+            185.0,
+            190.0,
+            "Time! Time! Time! Time!"
+        ],
+        "5": [
+            190.0,
+            195.0,
+            "Time! Time! Time! Time!"
+        ],
+        "6": [
+            195.0,
+            200.0,
+            "Time! Time! Time! Time!"
+        ],
+        "7": [
+            200.0,
+            205.0,
+            "Time! Time! Time! Time!"
+        ],
+        "8": [
+            205.0,
+            210.0,
+            "Time! Time! Time! Time!"
+        ],
+        "9": [
+            210.0,
+            215.0,
+            "Time! Time! Time! Time!"
+        ],
+        "10": [
+            215.0,
+            220.0,
+            "Time! Time! Time! Time!"
+        ],
+        "11": [
+            220.0,
+            225.0,
+            "Time! Time! Time! Time!"
+        ],
+        "12": [
+            225.0,
+            230.0,
+            "Time! Time! Time! Time!"
+        ],
+        "13": [
+            230.0,
+            235.0,
+            "Time! Time! Time! Time!"
+        ],
+        "14": [
+            235.0,
+            240.0,
+            "Time! Time! Time! Time!"
+        ],
+        "15": [
+            240.0,
+            245.0,
+            "Time! Time! Time! Time!"
+        ],
+        "16": [
+            245.0,
+            250.0,
+            "Time! Time! Time! Time!"
+        ],
+        "17": [
+            250.0,
+            255.0,
+            "Time! Time! Time! Time!"
+        ],
+        "18": [
+            255.0,
+            260.0,
+            "Time! Time! Time! Time!"
+        ],
+        "19": [
+            260.0,
+            265.0,
+            "Time! Time! Time! Time!"
+        ],
+        "20": [
+            265.0,
+            270.0,
+            "Time! Time! Time! Time!"
+        ],
+        "21": [
+            270.0,
+            275.0,
+            "Time! Time! Time! Time!"
+        ],
+        "22": [
+            275.0,
+            280.0,
+            "Time! Time! Time! Time!"
+        ],
+        "23": [
+            280.0,
+            285.0,
+            "Time! Time! Time! Time!"
+        ],
+        "24": [
+            285.0,
+            290.0,
+            "Time! Time! Time! Time!"
+        ],
+        "25": [
+            290.0,
+            295.0,
+            "Time! Time! Time! Time!"
+        ],
+        "26": [
+            295.0,
+            300.0,
+            "Time! Time! Time! Time!"
+        ],
+        "27": [
+            300.0,
+            305.0,
+            "Time! Time! Time! Time!"
+        ],
+        "28": [
+            305.0,
+            310.0,
+            "Time! Time! Time! Time!"
+        ],
+        "29": [
+            310.0,
+            315.0,
+            "Time! Time! Time! Time!"
+        ],
+        "30": [
+            315.0,
+            320.0,
+            "Time! Time! Time! Time!"
+        ],
+        "31": [
+            320.0,
+            325.0,
+            "Time! Time! Time! Time!"
+        ],
+        "32": [
+            325.0,
+            330.0,
+            "Time! Time! Time! Time!"
+        ],
+        "33": [
+            330.0,
+            335.0,
+            "Time! Time! Time! Time!"
+        ],
+        "34": [
+            335.0,
+            340.0,
+            "Time! Time! Time! Time!"
+        ],
+        "35": [
+            340.0,
+            345.0,
+            "Time! Time! Time! Time!"
+        ],
+        "36": [
+            345.0,
+            350.0,
+            "Time! Time! Time! Time!"
+        ],
+        "37": [
+            350.0,
+            355.0,
+            "Time! Time! Time! Time!"
+        ],
+        "38": [
+            355.0,
+            360.0,
+            "Time! Time! Time! Time!"
+        ],
+        "39": [
+            360.0,
+            365.0,
+            "Time! Time! Time! Time!"
+        ],
+        "40": [
+            365.0,
+            370.0,
+            "Time! Time! Time! Time!"
+        ],
+        "41": [
+            370.0,
+            375.0,
+            "Time! Time! Time! Time!"
+        ],
+        "42": [
+            375.0,
+            380.0,
+            "Time! Time! Time! Time!"
+        ],
+        "43": [
+            380.0,
+            385.0,
+            "Time! Time! Time! Time!"
+        ],
+        "44": [
+            385.0,
+            390.0,
+            "Time! Time! Time! Time!"
+        ],
+        "45": [
+            390.0,
+            395.0,
+            "Time! Time! Time! Time!"
+        ],
+        "46": [
+            395.0,
+            400.0,
+            "Time! Time! Time! Time!"
+        ],
+        "47": [
+            400.0,
+            405.0,
+            "Time! Time! Time! Time!"
+        ],
+        "48": [
+            405.0,
+            410.0,
+            "Time! Time! Time! Time!"
+        ],
+        "49": [
+            410.0,
+            415.0,
+            "Time! Time! Time! Time!"
+        ],
+        "50": [
+            415.0,
+            420.0,
+            "Time! Time! Time! Time!"
+        ],
+        "51": [
+            420.0,
+            425.0,
+            "Time! Time! Time! Time!"
+        ],
+        "52": [
+            425.0,
+            430.0,
+            "Time! Time! Time! Time!"
+        ],
+        "53": [
+            430.0,
+            435.0,
+            "Time! Time! Time! Time!"
+        ],
+        "54": [
+            435.0,
+            440.0,
+            "Time! Time! Time! Time!"
+        ],
+        "55": [
+            440.0,
+            445.0,
+            "Time! Time! Time! Time!"
+        ],
+        "56": [
+            445.0,
+            450.0,
+            "Time! Time! Time! Time!"
+        ],
+        "57": [
+            450.0,
+            455.0,
+            "Time! Time! Time! Time!"
+        ],
+        "58": [
+            455.0,
+            460.0,
+            "Time! Time! Time! Time!"
+        ],
+        "59": [
+            460.0,
+            465.0,
+            "Time! Time! Time! Time!"
+        ],
+        "60": [
+            465.0,
+            470.0,
+            "Time! Time! Time! Time!"
+        ],
+        "61": [
+            470.0,
+            475.0,
+            "Time! Time! Time! Time!"
+        ],
+        "62": [
+            475.0,
+            480.0,
+            "Time! Time! Time! Time!"
+        ],
+        "63": [
+            480.0,
+            485.0,
+            "Time! Time! Time! Time!"
+        ],
+        "64": [
+            485.0,
+            490.0,
+            "Time! Time! Time! Time!"
+        ],
+        "65": [
+            490.0,
+            495.0,
+            "Time! Time! Time! Time!"
+        ],
+        "66": [
+            495.0,
+            500.0,
+            "Time! Time! Time! Time!"
+        ],
+        "67": [
+            500.0,
+            505.0,
+            "Time! Time! Time! Time!"
+        ],
+        "68": [
+            505.0,
+            510.0,
+            "Time! Time! Time! Time!"
+        ],
+        "69": [
+            510.0,
+            515.0,
+            "Time! Time! Time! Time!"
+        ],
+        "70": [
+            515.0,
+            520.0,
+            "Time! Time! Time! Time!"
+        ],
+        "71": [
+            520.0,
+            525.0,
+            "Time! Time! Time! Time!"
+        ],
+        "72": [
+            525.0,
+            530.0,
+            "Time! Time! Time! Time!"
+        ],
+        "73": [
+            530.0,
+            535.0,
+            "Time! Time! Time! Time!"
+        ],
+        "74": [
+            535.0,
+            540.0,
+            "Time! Time! Time! Time!"
+        ],
+        "75": [
+            540.0,
+            545.0,
+            "Time! Time! Time! Time!"
+        ],
+        "76": [
+            545.0,
+            550.0,
+            "Time! Time! Time! Time!"
+        ],
+        "77": [
+            550.0,
+            555.0,
+            "Time! Time! Time! Time!"
+        ],
+        "78": [
+            555.0,
+            560.0,
+            "Time! Time! Time! Time!"
+        ],
+        "79": [
+            560.0,
+            565.0,
+            "Time! Time! Time! Time!"
+        ],
+        "80": [
+            565.0,
+            570.0,
+            "Time! Time! Time! Time!"
+        ],
+        "81": [
+            570.0,
+            575.0,
+            "Time! Time! Time! Time!"
+        ],
+        "82": [
+            575.0,
+            580.0,
+            "Time! Time! Time! Time!"
+        ],
+        "83": [
+            580.0,
+            585.0,
+            "Time! Time! Time! Time!"
+        ],
+        "84": [
+            585.0,
+            590.0,
+            "Time! Time! Time! Time!"
+        ],
+        "85": [
+            590.0,
+            595.0,
+            "Time! Time! Time! Time!"
+        ],
+        "86": [
+            595.0,
+            600.0,
+            "Time! Time! Time! Time!"
+        ],
+        "87": [
+            600.0,
+            605.0,
+            "Time! Time! Time! Time!"
+        ],
+        "88": [
+            605.0,
+            610.0,
+            "Time! Time! Time! Time!"
+        ],
+        "89": [
+            610.0,
+            615.0,
+            "Time! Time! Time! Time!"
+        ],
+        "90": [
+            615.0,
+            620.0,
+            "Time! Time! Time! Time!"
+        ],
+        "91": [
+            620.0,
+            625.0,
+            "Time! Time! Time! Time!"
+        ],
+        "92": [
+            625.0,
+            630.0,
+            "Time! Time! Time! Time!"
+        ],
+        "93": [
+            630.0,
+            635.0,
+            "Time! Time! Time! Time!"
+        ],
+        "94": [
+            635.0,
+            640.0,
+            "Time! Time! Time! Time!"
+        ],
+        "95": [
+            640.0,
+            645.0,
+            "Time! Time! Time! Time!"
+        ],
+        "96": [
+            645.0,
+            650.0,
+            "Time! Time! Time! Time!"
+        ],
+        "97": [
+            650.0,
+            655.0,
+            "Time! Time! Time! Time!"
+        ],
+        "98": [
+            655.0,
+            660.0,
+            "Time! Time! Time! Time!"
+        ],
+        "99": [
+            660.0,
+            665.0,
+            "Time! Time! Time! Time!"
+        ],
+        "100": [
+            665.0,
+            670.0,
+            "Time! Time! Time! Time!"
+        ],
+        "101": [
+            670.0,
+            675.0,
+            "Time! Time! Time! Time!"
+        ],
+        "102": [
+            675.0,
+            680.0,
+            "Time! Time! Time! Time!"
+        ],
+        "103": [
+            680.0,
+            685.0,
+            "Time! Time! Time! Time!"
+        ],
+        "104": [
+            685.0,
+            690.0,
+            "Time! Time! Time! Time!"
+        ],
+        "105": [
+            690.0,
+            695.0,
+            "Time! Time! Time! Time!"
+        ],
+        "106": [
+            695.0,
+            700.0,
+            "Time! Time! Time! Time!"
+        ],
+        "107": [
+            700.0,
+            705.0,
+            "Time! Time! Time! Time!"
+        ],
+        "108": [
+            705.0,
+            710.0,
+            "Time! Time! Time! Time!"
+        ],
+        "109": [
+            710.0,
+            715.0,
+            "Time! Time! Time! Time!"
+        ],
+        "110": [
+            715.0,
+            720.0,
+            "Time! Time! Time! Time!"
+        ],
+        "111": [
+            720.0,
+            725.0,
+            "Time! Time! Time! Time!"
+        ],
+        "112": [
+            725.0,
+            730.0,
+            "Time! Time! Time! Time!"
+        ],
+        "113": [
+            730.0,
+            735.0,
+            "Debala, here's Hidiro, Smazhuki, why, in fact, they did not understand each other."
+        ],
+        "114": [
+            741.0,
+            743.0,
+            "Gennady Yaan."
+        ],
+        "115": [
+            748.0,
+            752.0,
+            "And one more out in favor of Eventus."
+        ],
+        "116": [
+            754.0,
+            757.0,
+            "This is where Debala played beautifully, of course, as a heel."
+        ],
+        "117": [
+            758.0,
+            760.0,
+            "Tomaso Miriano-Alegre."
+        ],
+        "118": [
+            765.0,
+            766.0,
+            "Osamua."
+        ],
+        "119": [
+            768.0,
+            769.0,
+            "Limina."
+        ],
+        "120": [
+            770.0,
+            772.0,
+            "Dangerous Kellyni."
+        ],
+        "121": [
+            775.0,
+            778.0,
+            "And the violation of the rules went to Osamua."
+        ],
+        "122": [
+            779.0,
+            783.0,
+            "Hit from behind on the legs."
+        ],
+        "123": [
+            783.0,
+            786.0,
+            "And MacQuida is quite categorical here."
+        ],
+        "124": [
+            786.0,
+            788.0,
+            "Guain nasads."
+        ],
+        "125": [
+            817.0,
+            819.0,
+            "Two options, of course."
+        ],
+        "126": [
+            820.0,
+            822.0,
+            "Two great masters of set pieces."
+        ],
+        "127": [
+            829.0,
+            835.0,
+            "So, Debala serves, Immobiles play well."
+        ],
+        "128": [
+            836.0,
+            839.0,
+            "Alves in one touch."
+        ],
+        "129": [
+            840.0,
+            842.0,
+            "Trying to play the ball."
+        ],
+        "130": [
+            842.0,
+            844.0,
+            "How well Lulic works here."
+        ],
+        "131": [
+            845.0,
+            853.0,
+            "True, there, in my opinion, Dani Alves received a blow to the face, just from Lulic."
+        ],
+        "132": [
+            854.0,
+            855.0,
+            "Let's watch."
+        ],
+        "133": [
+            856.0,
+            858.0,
+            "Well, yes, of course I got it."
+        ],
+        "134": [
+            860.0,
+            866.0,
+            "Thoroughly, let's say, on the cheek of Dani Alves Saint-Ad Lulic."
+        ],
+        "135": [
+            867.0,
+            868.0,
+            "But everything seems to be fine."
+        ],
+        "136": [
+            868.0,
+            873.0,
+            "Dani Alves came with Barcelona, ​​or rather, he broke his contract."
+        ],
+        "137": [
+            874.0,
+            876.0,
+            "He had such a clause in his agreement with Barcelona."
+        ],
+        "138": [
+            877.0,
+            882.0,
+            "And in the end he moved to Juventus for free."
+        ],
+        "139": [
+            885.0,
+            889.0,
+            "Alves himself stated that he wanted to change the country, wanted to change the club."
+        ],
+        "140": [
+            890.0,
+            895.0,
+            "Well, joining Juventus was perceived as the same as in Barcelona."
+        ],
+        "141": [
+            895.0,
+            901.0,
+            "And Juventus perceived it as such a mission."
+        ],
+        "142": [
+            902.0,
+            907.0,
+            "For Juventus to win the Champions League."
+        ],
+        "143": [
+            908.0,
+            916.0,
+            "But a player like Dani Alves, an experienced player who has won the tournament three times, should help the old family."
+        ],
+        "144": [
+            917.0,
+            920.0,
+            "Alexandro Limina."
+        ],
+        "145": [
+            921.0,
+            929.0,
+            "Defrey, a central mover from Holland, plays well in tackling."
+        ],
+        "146": [
+            933.0,
+            936.0,
+            "Well, Market is in no hurry, the goalkeeper."
+        ],
+        "147": [
+            937.0,
+            941.0,
+            "Watsu is asked to go far ahead, but Juventus did not award it."
+        ],
+        "148": [
+            943.0,
+            945.0,
+            "Gnatya."
+        ],
+        "149": [
+            951.0,
+            953.0,
+            "Bastos."
+        ],
+        "150": [
+            954.0,
+            958.0,
+            "Pass on Basta practically, namesakes Bastos."
+        ],
+        "151": [
+            967.0,
+            971.0,
+            "Jordan Lukako passed to Radu again."
+        ],
+        "152": [
+            973.0,
+            975.0,
+            "Boldly ahead of Alves."
+        ],
+        "153": [
+            975.0,
+            979.0,
+            "Lulic across the Basta field."
+        ],
+        "154": [
+            980.0,
+            982.0,
+            "He tries to cross Juventus, but is not very successful."
+        ],
+        "155": [
+            983.0,
+            984.0,
+            "Another long pass forward."
+        ],
+        "156": [
+            985.0,
+            986.0,
+            "Mobiles."
+        ],
+        "157": [
+            987.0,
+            989.0,
+            "And now there will be a corner kick."
+        ],
+        "158": [
+            1000.0,
+            1002.0,
+            "Standard position."
+        ],
+        "159": [
+            1006.0,
+            1010.0,
+            "Philippe Anderson and Lucas Biglia."
+        ],
+        "160": [
+            1011.0,
+            1013.0,
+            "This is the answer."
+        ],
+        "161": [
+            1014.0,
+            1015.0,
+            "Latzo."
+        ],
+        "162": [
+            1016.0,
+            1021.0,
+            "Juventus, if the Argentinean Debalo and the Brazilian Alves play as standard in the game,"
+        ],
+        "163": [
+            1022.0,
+            1024.0,
+            "here is the Brazilian Anderson and the Argentinean Biglia."
+        ],
+        "164": [
+            1025.0,
+            1026.0,
+            "Innings."
+        ],
+        "165": [
+            1027.0,
+            1030.0,
+            "Limina, at the last second, essentially removes the ball from the head of the player Latzo."
+        ],
+        "166": [
+            1031.0,
+            1032.0,
+            "Lukako."
+        ],
+        "167": [
+            1033.0,
+            1034.0,
+            "Basta."
+        ],
+        "168": [
+            1035.0,
+            1036.0,
+            "Anderson."
+        ],
+        "169": [
+            1039.0,
+            1042.0,
+            "Another back pass to goalkeeper Marchetti."
+        ],
+        "170": [
+            1054.0,
+            1055.0,
+            "Bartush."
+        ],
+        "171": [
+            1060.0,
+            1061.0,
+            "Killini plays well."
+        ],
+        "172": [
+            1062.0,
+            1064.0,
+            "Head in this situation."
+        ],
+        "173": [
+            1065.0,
+            1066.0,
+            "Bartush."
+        ],
+        "174": [
+            1067.0,
+            1069.0,
+            "And here Debalo will have a very important moment."
+        ],
+        "175": [
+            1070.0,
+            1071.0,
+            "Bartush."
+        ],
+        "176": [
+            1072.0,
+            1073.0,
+            "Bartush."
+        ],
+        "177": [
+            1074.0,
+            1075.0,
+            "Bartush."
+        ],
+        "178": [
+            1076.0,
+            1077.0,
+            "Bartush."
+        ],
+        "179": [
+            1078.0,
+            1079.0,
+            "Bartush."
+        ],
+        "180": [
+            1080.0,
+            1081.0,
+            "Bartush."
+        ],
+        "181": [
+            1082.0,
+            1083.0,
+            "Bartush."
+        ],
+        "182": [
+            1084.0,
+            1085.0,
+            "Bartush."
+        ],
+        "183": [
+            1086.0,
+            1087.0,
+            "Bartush."
+        ],
+        "184": [
+            1088.0,
+            1089.0,
+            "Bartush."
+        ],
+        "185": [
+            1090.0,
+            1091.0,
+            "Bartush."
+        ],
+        "186": [
+            1092.0,
+            1093.0,
+            "Bartush."
+        ],
+        "187": [
+            1093.0,
+            1094.0,
+            "Bartush."
+        ],
+        "188": [
+            1095.0,
+            1096.0,
+            "Bartush."
+        ],
+        "189": [
+            1097.0,
+            1098.0,
+            "Bartush."
+        ],
+        "190": [
+            1099.0,
+            1100.0,
+            "Bartush."
+        ],
+        "191": [
+            1101.0,
+            1108.0,
+            "Let’s look again at how Radu Pavel Debale ended up hitting Radu’s leg from behind."
+        ],
+        "192": [
+            1110.0,
+            1112.0,
+            "Well, of course, of course, flow."
+        ],
+        "193": [
+            1113.0,
+            1115.0,
+            "Perhaps it could even be shown to him."
+        ],
+        "194": [
+            1116.0,
+            1119.0,
+            "Although no, a yellow card is enough in this situation."
+        ],
+        "195": [
+            1120.0,
+            1121.0,
+            "Brackley."
+        ],
+        "196": [
+            1124.0,
+            1125.0,
+            "There..."
+        ],
+        "197": [
+            1128.0,
+            1130.0,
+            "Something could have been even tougher."
+        ],
+        "198": [
+            1131.0,
+            1132.0,
+            "So."
+        ],
+        "199": [
+            1134.0,
+            1135.0,
+            "Free kick."
+        ],
+        "200": [
+            1138.0,
+            1140.0,
+            "And again Alves and Debalo."
+        ],
+        "201": [
+            1141.0,
+            1142.0,
+            "One of them will hit in this situation."
+        ],
+        "202": [
+            1143.0,
+            1146.0,
+            "The point is ideal for Debalo, in my opinion, because you can..."
+        ],
+        "203": [
+            1147.0,
+            1149.0,
+            "He punches Alves and hits the wall."
+        ],
+        "204": [
+            1149.0,
+            1154.0,
+            "The spot is ideal because he can use his left foot to spin the ball over the wall."
+        ],
+        "205": [
+            1155.0,
+            1157.0,
+            "In the end, Alves shot, but shot poorly."
+        ],
+        "206": [
+            1158.0,
+            1159.0,
+            "This is Benatya."
+        ],
+        "207": [
+            1161.0,
+            1163.0,
+            "How did Sandro handle the ball?"
+        ],
+        "208": [
+            1165.0,
+            1166.0,
+            "Samua."
+        ],
+        "209": [
+            1167.0,
+            1169.0,
+            "Another pass to Benatia."
+        ],
+        "210": [
+            1170.0,
+            1172.0,
+            "Merdivenatya with a kilini ball."
+        ],
+        "211": [
+            1176.0,
+            1177.0,
+            "Sandro."
+        ],
+        "212": [
+            1178.0,
+            1180.0,
+            "Alexandro went forward."
+        ],
+        "213": [
+            1181.0,
+            1183.0,
+            "It's against two, but Sandro keeps the ball."
+        ],
+        "214": [
+            1184.0,
+            1186.0,
+            "He also left him as a heel, although he left it for Philippe Anderson."
+        ],
+        "215": [
+            1187.0,
+            1190.0,
+            "But not for Kladva Samua."
+        ],
+        "216": [
+            1199.0,
+            1200.0,
+            "Basta."
+        ],
+        "217": [
+            1201.0,
+            1202.0,
+            "Anderson."
+        ],
+        "218": [
+            1202.0,
+            1205.0,
+            "Before touching, Latsua has the worst one so far from Philip Anderson."
+        ],
+        "219": [
+            1206.0,
+            1209.0,
+            "Almost no useful action."
+        ],
+        "220": [
+            1213.0,
+            1217.0,
+            "He may still be moving away from the Olympic Games in Rio de Janeiro."
+        ],
+        "221": [
+            1232.0,
+            1233.0,
+            "Basta."
+        ],
+        "222": [
+            1234.0,
+            1236.0,
+            "Basta plays well."
+        ],
+        "223": [
+            1237.0,
+            1241.0,
+            "Samua, however, returned and intercepted the ball."
+        ],
+        "224": [
+            1242.0,
+            1243.0,
+            "Borzali."
+        ],
+        "225": [
+            1244.0,
+            1246.0,
+            "Dani Alves immediately goes to the right flank."
+        ],
+        "226": [
+            1247.0,
+            1248.0,
+            "Acts confidently."
+        ],
+        "227": [
+            1249.0,
+            1251.0,
+            "We see how much struggle there is in the center of the field."
+        ],
+        "228": [
+            1255.0,
+            1256.0,
+            "Basta."
+        ],
+        "229": [
+            1259.0,
+            1260.0,
+            "Serbian bullet."
+        ],
+        "230": [
+            1261.0,
+            1262.0,
+            "Serbian half back."
+        ],
+        "231": [
+            1267.0,
+            1268.0,
+            "Pass to Phillip Anderson."
+        ],
+        "232": [
+            1269.0,
+            1271.0,
+            "And here Anderson played just well."
+        ],
+        "233": [
+            1272.0,
+            1273.0,
+            "Covered the ball with his body."
+        ],
+        "234": [
+            1274.0,
+            1276.0,
+            "I was in a difficult situation, but kept the ball."
+        ],
+        "235": [
+            1277.0,
+            1278.0,
+            "It's a free kick from Alves."
+        ],
+        "236": [
+            1280.0,
+            1281.0,
+            "There was, of course, no hand."
+        ],
+        "237": [
+            1282.0,
+            1287.0,
+            "The ball hit Latz's player in the head."
+        ],
+        "238": [
+            1288.0,
+            1290.0,
+            "Many fans from Turin."
+        ],
+        "239": [
+            1291.0,
+            1296.0,
+            "And not only from Turin, but in general, I think, from the residents, including Rome and surrounding cities, who are rooting for Julius."
+        ],
+        "240": [
+            1297.0,
+            1300.0,
+            "We know that Venturs is in a pretty good position in this regard."
+        ],
+        "241": [
+            1301.0,
+            1306.0,
+            "This club is supported all over Italy, so for any match won, Venturs does not lose its fans."
+        ],
+        "242": [
+            1307.0,
+            1312.0,
+            "There is only the Federation, they have entered the League, they do not close the guest stands, as sometimes happens."
+        ],
+        "243": [
+            1313.0,
+            1314.0,
+            "Alexandro Dibala."
+        ],
+        "244": [
+            1314.0,
+            1315.0,
+            "I placed Dibal's body."
+        ],
+        "245": [
+            1316.0,
+            1318.0,
+            "How easily he left Bigley."
+        ],
+        "246": [
+            1319.0,
+            1320.0,
+            "Next is a pass to the right flank."
+        ],
+        "247": [
+            1321.0,
+            1322.0,
+            "This is where Dani Alves comes into play."
+        ],
+        "248": [
+            1323.0,
+            1324.0,
+            "Throws it, no, doesn’t throw it, that means past Lukakov."
+        ],
+        "249": [
+            1325.0,
+            1327.0,
+            "Alves' serve, well, not exactly."
+        ],
+        "250": [
+            1328.0,
+            1329.0,
+            "Played by Dani Alves."
+        ],
+        "251": [
+            1330.0,
+            1332.0,
+            "Limina, Mario Limina with the ball from Dybala."
+        ],
+        "252": [
+            1333.0,
+            1334.0,
+            "How technical."
+        ],
+        "253": [
+            1336.0,
+            1337.0,
+            "Dybala is in action."
+        ],
+        "254": [
+            1338.0,
+            1339.0,
+            "Kellyni."
+        ],
+        "255": [
+            1340.0,
+            1341.0,
+            "Alex Sandro."
+        ],
+        "256": [
+            1344.0,
+            1345.0,
+            "Limina."
+        ],
+        "257": [
+            1347.0,
+            1348.0,
+            "Mario Limina's mistake."
+        ],
+        "258": [
+            1349.0,
+            1350.0,
+            "And quite a simple situation."
+        ],
+        "259": [
+            1351.0,
+            1353.0,
+            "Atsou has a great chance to score."
+        ],
+        "260": [
+            1354.0,
+            1355.0,
+            "Lulic."
+        ],
+        "261": [
+            1356.0,
+            1357.0,
+            "Philip Anderson."
+        ],
+        "262": [
+            1358.0,
+            1359.0,
+            "Serve, dangerous moment."
+        ],
+        "263": [
+            1360.0,
+            1362.0,
+            "And how Ciro Emobel doesn’t score here."
+        ],
+        "264": [
+            1363.0,
+            1364.0,
+            "It was, of course, not easy for him."
+        ],
+        "265": [
+            1365.0,
+            1366.0,
+            "Megdibi Nation is also good, of course, in my opinion."
+        ],
+        "266": [
+            1367.0,
+            1368.0,
+            "But the moment was crazy."
+        ],
+        "267": [
+            1369.0,
+            1371.0,
+            "The moment was to score."
+        ],
+        "268": [
+            1374.0,
+            1375.0,
+            "From the Roman side."
+        ],
+        "269": [
+            1383.0,
+            1384.0,
+            "Bastos."
+        ],
+        "270": [
+            1390.0,
+            1391.0,
+            "Alves."
+        ],
+        "271": [
+            1392.0,
+            1393.0,
+            "Dibala."
+        ],
+        "272": [
+            1394.0,
+            1395.0,
+            "Dani Alves again. Transfer back."
+        ],
+        "273": [
+            1396.0,
+            1397.0,
+            "Bardzalia."
+        ],
+        "274": [
+            1398.0,
+            1399.0,
+            "Kellyni."
+        ],
+        "275": [
+            1400.0,
+            1401.0,
+            "Kellyni turned around."
+        ],
+        "276": [
+            1402.0,
+            1403.0,
+            "He ran back with his own collar."
+        ],
+        "277": [
+            1404.0,
+            1405.0,
+            "Pass to Gianla Djibufon."
+        ],
+        "278": [
+            1406.0,
+            1407.0,
+            "Yes Yes Yes."
+        ],
+        "279": [
+            1408.0,
+            1410.0,
+            "It is clear that Ventus is experiencing some problems in the center of the field."
+        ],
+        "280": [
+            1411.0,
+            1413.0,
+            "Let us understand that even without transfers,"
+        ],
+        "281": [
+            1414.0,
+            1416.0,
+            "which Yuvi will probably implement again,"
+        ],
+        "282": [
+            1417.0,
+            1419.0,
+            "there are no two cumulus football players."
+        ],
+        "283": [
+            1420.0,
+            1422.0,
+            "This is Claudio Martizio and, of course, Mirali Pianis."
+        ],
+        "284": [
+            1423.0,
+            1424.0,
+            "Okay, more on that later."
+        ],
+        "285": [
+            1425.0,
+            1426.0,
+            "So far, Alexandro is serving long-distance football."
+        ],
+        "286": [
+            1426.0,
+            1428.0,
+            "Madzukic wanted to throw the ball to Dybala."
+        ],
+        "287": [
+            1429.0,
+            1430.0,
+            "Did not work out."
+        ],
+        "288": [
+            1433.0,
+            1435.0,
+            "Andersan picks up speed Philippe Andersan."
+        ],
+        "289": [
+            1436.0,
+            1437.0,
+            "But Alexandro catches up with him."
+        ],
+        "290": [
+            1438.0,
+            1439.0,
+            "The two Brazilians met on the flank."
+        ],
+        "291": [
+            1440.0,
+            1441.0,
+            "Ciro and Mobile."
+        ],
+        "292": [
+            1444.0,
+            1446.0,
+            "One against six players."
+        ],
+        "293": [
+            1447.0,
+            1448.0,
+            "He turned around Mobile."
+        ],
+        "294": [
+            1449.0,
+            1451.0,
+            "And in the end I saw six Ventus players in front of me."
+        ],
+        "295": [
+            1452.0,
+            1453.0,
+            "It's not enough anymore."
+        ],
+        "296": [
+            1453.0,
+            1454.0,
+            "Lukako."
+        ],
+        "297": [
+            1455.0,
+            1456.0,
+            "Again and Mobile."
+        ],
+        "298": [
+            1457.0,
+            1458.0,
+            "He's already in the penalty area."
+        ],
+        "299": [
+            1459.0,
+            1460.0,
+            "Latso is attacking well now."
+        ],
+        "300": [
+            1461.0,
+            1462.0,
+            "Mobile puts the body."
+        ],
+        "301": [
+            1463.0,
+            1465.0,
+            "But he easily neutralized Mobile."
+        ],
+        "302": [
+            1466.0,
+            1467.0,
+            "Dibala."
+        ],
+        "303": [
+            1469.0,
+            1470.0,
+            "Misunderstanding with Majukic."
+        ],
+        "304": [
+            1471.0,
+            1472.0,
+            "Interception of the ball."
+        ],
+        "305": [
+            1473.0,
+            1474.0,
+            "Defrey plays Mobile."
+        ],
+        "306": [
+            1475.0,
+            1476.0,
+            "The attack is not bad for Latso."
+        ],
+        "307": [
+            1477.0,
+            1478.0,
+            "Defrey."
+        ],
+        "308": [
+            1479.0,
+            1480.0,
+            "And to whom Defrey left the ball is not entirely clear."
+        ],
+        "309": [
+            1481.0,
+            1482.0,
+            "After all, Liminat was remote."
+        ],
+        "310": [
+            1483.0,
+            1484.0,
+            "But he was there."
+        ],
+        "311": [
+            1485.0,
+            1486.0,
+            "And in the end, Mario Limina intercepted the ball."
+        ],
+        "312": [
+            1487.0,
+            1488.0,
+            "Alves."
+        ],
+        "313": [
+            1489.0,
+            1490.0,
+            "Dani Alves is in no hurry."
+        ],
+        "314": [
+            1491.0,
+            1492.0,
+            "Well, let's look at six here."
+        ],
+        "315": [
+            1493.0,
+            1496.0,
+            "Seven Latso players are already on their field plan."
+        ],
+        "316": [
+            1497.0,
+            1498.0,
+            "Asamua."
+        ],
+        "317": [
+            1511.0,
+            1512.0,
+            "Federant Majukic."
+        ],
+        "318": [
+            1513.0,
+            1514.0,
+            "Bastos."
+        ],
+        "319": [
+            1515.0,
+            1516.0,
+            "It was bought for six million euros."
+        ],
+        "320": [
+            1518.0,
+            1519.0,
+            "Bastos."
+        ],
+        "321": [
+            1520.0,
+            1521.0,
+            "Let me remind you that he is an ex-football player from Rostov."
+        ],
+        "322": [
+            1523.0,
+            1525.0,
+            "The football player, let me remind you, is from Angola."
+        ],
+        "323": [
+            1529.0,
+            1532.0,
+            "He is only 25 years old."
+        ],
+        "324": [
+            1533.0,
+            1534.0,
+            "He played in Russia for quite a long time."
+        ],
+        "325": [
+            1535.0,
+            1538.0,
+            "And Latso successfully bought not the richest club."
+        ],
+        "326": [
+            1539.0,
+            1540.0,
+            "But he didn't forget that he was playing in Russia."
+        ],
+        "327": [
+            1540.0,
+            1543.0,
+            "And Latso was successfully bought by not the richest."
+        ],
+        "328": [
+            1544.0,
+            1546.0,
+            "There is also an extremely greedy president, Claudio Latite."
+        ],
+        "329": [
+            1547.0,
+            1548.0,
+            "That is why he was paid such a serious amount."
+        ],
+        "330": [
+            1549.0,
+            1550.0,
+            "Bastos."
+        ],
+        "331": [
+            1551.0,
+            1552.0,
+            "Sandro."
+        ],
+        "332": [
+            1555.0,
+            1556.0,
+            "Kellyni."
+        ],
+        "333": [
+            1557.0,
+            1558.0,
+            "Dibala."
+        ],
+        "334": [
+            1559.0,
+            1560.0,
+            "Translation to the right."
+        ],
+        "335": [
+            1561.0,
+            1562.0,
+            "Good translation."
+        ],
+        "336": [
+            1563.0,
+            1564.0,
+            "Minatya is here."
+        ],
+        "337": [
+            1565.0,
+            1566.0,
+            "Alves."
+        ],
+        "338": [
+            1567.0,
+            1568.0,
+            "Dani Alves with the ball."
+        ],
+        "339": [
+            1570.0,
+            1571.0,
+            "Submission to Powell by Dibalo."
+        ],
+        "340": [
+            1572.0,
+            1573.0,
+            "Dibalo."
+        ],
+        "341": [
+            1574.0,
+            1575.0,
+            "Dangerous moment."
+        ],
+        "342": [
+            1576.0,
+            1579.0,
+            "But the delivery turned out to be inaccurate."
+        ],
+        "343": [
+            1580.0,
+            1583.0,
+            "It fell right into Marchetti's hands."
+        ],
+        "344": [
+            1584.0,
+            1587.0,
+            "Let's see here how Remina lost the ball."
+        ],
+        "345": [
+            1588.0,
+            1589.0,
+            "And then there was a very dangerous attack."
+        ],
+        "346": [
+            1590.0,
+            1591.0,
+            "Anderson served."
+        ],
+        "347": [
+            1592.0,
+            1593.0,
+            "He sat in the background hesitantly."
+        ],
+        "348": [
+            1594.0,
+            1599.0,
+            "And you see, Minatya at the last moment, at the last second, literally saved his new team."
+        ],
+        "349": [
+            1601.0,
+            1602.0,
+            "The line changes, everything."
+        ],
+        "350": [
+            1608.0,
+            1611.0,
+            "Collision between Rollo and Alves."
+        ],
+        "351": [
+            1614.0,
+            1618.0,
+            "We see how everything happened here."
+        ],
+        "352": [
+            1623.0,
+            1625.0,
+            "While the players are taking advantage of the breaks."
+        ],
+        "353": [
+            1625.0,
+            1631.0,
+            "Well, for now the players are taking advantage of the pause. Yes, it's hot, it's hot time."
+        ],
+        "354": [
+            1631.0,
+            1636.0,
+            "Therefore, now it’s almost orderly, almost in order."
+        ],
+        "355": [
+            1636.0,
+            1643.0,
+            "The match referee stops the game."
+        ],
+        "356": [
+            1646.0,
+            1647.0,
+            "There is a chance."
+        ],
+        "357": [
+            1647.0,
+            1663.0,
+            "Even the coaches carry important instructions to their players, their players, that they are improving."
+        ],
+        "358": [
+            1693.0,
+            1703.0,
+            "He is not playing. Second match in a row. But at the same time, Mallegri explains that this is due to the shape and the slight damage that occurred."
+        ],
+        "359": [
+            1707.0,
+            1716.0,
+            "Pjanic is even given a specific date in the off-season. This happened in the Villa-Perrous match, in the famous Ventus match before the start of the season."
+        ],
+        "360": [
+            1716.0,
+            1723.0,
+            "Against Primavera. Double. That's what they call the second team in Italy."
+        ],
+        "361": [
+            1725.0,
+            1726.0,
+            "Essentially a double."
+        ],
+        "362": [
+            1726.0,
+            1729.0,
+            "The time is now that you understand, yes, the situation. The time now is plus 32 degrees."
+        ],
+        "363": [
+            1729.0,
+            1734.0,
+            "Right this minute. Therefore, there is probably nothing surprising."
+        ],
+        "364": [
+            1734.0,
+            1738.0,
+            "The referee gives the players the opportunity to fully relax."
+        ],
+        "365": [
+            1738.0,
+            1740.0,
+            "And this is very important."
+        ],
+        "366": [
+            1740.0,
+            1742.0,
+            "And this is very important."
+        ],
+        "367": [
+            1742.0,
+            1744.0,
+            "And this is very important."
+        ],
+        "368": [
+            1744.0,
+            1746.0,
+            "And this is very important."
+        ],
+        "369": [
+            1746.0,
+            1748.0,
+            "And this is very important."
+        ],
+        "370": [
+            1748.0,
+            1750.0,
+            "And this is very important."
+        ],
+        "371": [
+            1750.0,
+            1752.0,
+            "And this is very important."
+        ],
+        "372": [
+            1752.0,
+            1754.0,
+            "And this is very important."
+        ],
+        "373": [
+            1754.0,
+            1756.0,
+            "And this is very important."
+        ],
+        "374": [
+            1756.0,
+            1758.0,
+            "And this is very important."
+        ],
+        "375": [
+            1758.0,
+            1760.0,
+            "And this is very important."
+        ],
+        "376": [
+            1760.0,
+            1762.0,
+            "And this is very important."
+        ],
+        "377": [
+            1762.0,
+            1764.0,
+            "And this is very important."
+        ],
+        "378": [
+            1764.0,
+            1766.0,
+            "And this is very important."
+        ],
+        "379": [
+            1766.0,
+            1768.0,
+            "And this is very important."
+        ],
+        "380": [
+            1768.0,
+            1770.0,
+            "And this is very important."
+        ],
+        "381": [
+            1770.0,
+            1772.0,
+            "And this is very important."
+        ],
+        "382": [
+            1772.0,
+            1774.0,
+            "And this is very important."
+        ],
+        "383": [
+            1774.0,
+            1776.0,
+            "And this is very important."
+        ],
+        "384": [
+            1776.0,
+            1778.0,
+            "And this is very important."
+        ],
+        "385": [
+            1778.0,
+            1780.0,
+            "With a ball. Pass back. Anderson."
+        ],
+        "386": [
+            1780.0,
+            1782.0,
+            "Another transfer to the Rada."
+        ],
+        "387": [
+            1782.0,
+            1784.0,
+            "Another transfer to the Rada."
+        ],
+        "388": [
+            1784.0,
+            1786.0,
+            "Lukaku."
+        ],
+        "389": [
+            1786.0,
+            1788.0,
+            "And Mobiles."
+        ],
+        "390": [
+            1788.0,
+            1790.0,
+            "Anderson."
+        ],
+        "391": [
+            1792.0,
+            1794.0,
+            "Although, in my opinion, it didn’t turn out beautifully."
+        ],
+        "392": [
+            1794.0,
+            1796.0,
+            "Although, in my opinion, it didn’t turn out beautifully."
+        ],
+        "393": [
+            1796.0,
+            1798.0,
+            "You know, Eventus has no advantage."
+        ],
+        "394": [
+            1798.0,
+            1800.0,
+            "I can't say that Latziko has this advantage."
+        ],
+        "395": [
+            1800.0,
+            1802.0,
+            "Equal match."
+        ],
+        "396": [
+            1802.0,
+            1807.0,
+            "With all this, in half an hour we essentially didn’t see any scoring chances."
+        ],
+        "397": [
+            1807.0,
+            1811.0,
+            "Those that could actually lead to a goal being scored."
+        ],
+        "398": [
+            1811.0,
+            1819.0,
+            "I remember that last season Eventus very confidently beat Latzico in the match in Rome."
+        ],
+        "399": [
+            1819.0,
+            1821.0,
+            "2-0 then."
+        ],
+        "400": [
+            1821.0,
+            1823.0,
+            "Yuri also won in Turin."
+        ],
+        "401": [
+            1823.0,
+            1825.0,
+            "It was 3-0."
+        ],
+        "402": [
+            1825.0,
+            1829.0,
+            "So, speaking of which, here in Rome he probably scored one of the most beautiful goals of his entire career, I think."
+        ],
+        "403": [
+            1829.0,
+            1831.0,
+            "It's a big deal."
+        ],
+        "404": [
+            1831.0,
+            1835.0,
+            "Who remembers the ice kick into the corner of Federico Marchetti's goal."
+        ],
+        "405": [
+            1835.0,
+            1837.0,
+            "I don't think anyone has forgotten."
+        ],
+        "406": [
+            1837.0,
+            1839.0,
+            "Khidira is back in striking position."
+        ],
+        "407": [
+            1839.0,
+            1844.0,
+            "Khidira themselves try to shoot, but Parolo covers him in time."
+        ],
+        "408": [
+            1844.0,
+            1846.0,
+            "Uterus Parolo."
+        ],
+        "409": [
+            1846.0,
+            1849.0,
+            "He has already played against Khidira."
+        ],
+        "410": [
+            1849.0,
+            1851.0,
+            "Not for long, really."
+        ],
+        "411": [
+            1851.0,
+            1853.0,
+            "At the European Championships in France."
+        ],
+        "412": [
+            1853.0,
+            1856.0,
+            "While Khidira received damage during the game."
+        ],
+        "413": [
+            1856.0,
+            1860.0,
+            "But they had already spent some part of the meeting against each other."
+        ],
+        "414": [
+            1860.0,
+            1862.0,
+            "Parolo and Khidira."
+        ],
+        "415": [
+            1865.0,
+            1867.0,
+            "It's a big deal."
+        ],
+        "416": [
+            1869.0,
+            1871.0,
+            "The problem with Parolo. It's a big deal."
+        ],
+        "417": [
+            1874.0,
+            1876.0,
+            "And he lost the ball."
+        ],
+        "418": [
+            1889.0,
+            1891.0,
+            "Barzali."
+        ],
+        "419": [
+            1892.0,
+            1894.0,
+            "Kellyni."
+        ],
+        "420": [
+            1894.0,
+            1896.0,
+            "Massandro."
+        ],
+        "421": [
+            1899.0,
+            1901.0,
+            "Kellyni again."
+        ],
+        "422": [
+            1904.0,
+            1906.0,
+            "Benatya."
+        ],
+        "423": [
+            1906.0,
+            1908.0,
+            "Khidira. Alves."
+        ],
+        "424": [
+            1919.0,
+            1921.0,
+            "It's a big deal. Transfer to the left flank."
+        ],
+        "425": [
+            1922.0,
+            1924.0,
+            "Otherwise, Alex Sandro will let you in."
+        ],
+        "426": [
+            1924.0,
+            1929.0,
+            "Dani Alves, by the way, came into contact with the ball 103 times in the first round."
+        ],
+        "427": [
+            1929.0,
+            1931.0,
+            "These were the statistics."
+        ],
+        "428": [
+            1931.0,
+            1933.0,
+            "In Italy this is the best indicator."
+        ],
+        "429": [
+            1933.0,
+            1937.0,
+            "In the first round, in general, Alves, of course, made a solid impression."
+        ],
+        "430": [
+            1937.0,
+            1939.0,
+            "Today his game is not quite going well."
+        ],
+        "431": [
+            1939.0,
+            1942.0,
+            "Although, probably, only applicable to the whole team."
+        ],
+        "432": [
+            1942.0,
+            1944.0,
+            "Juventus."
+        ],
+        "433": [
+            1944.0,
+            1946.0,
+            "It seems to me that Adsen is already doing better."
+        ],
+        "434": [
+            1946.0,
+            1948.0,
+            "Alves."
+        ],
+        "435": [
+            1949.0,
+            1951.0,
+            "With the ball from Debalo."
+        ],
+        "436": [
+            1951.0,
+            1955.0,
+            "They play together all the time, trying to feel each other."
+        ],
+        "437": [
+            1956.0,
+            1958.0,
+            "Violation of rules on Alves."
+        ],
+        "438": [
+            1960.0,
+            1962.0,
+            "Somehow he ended up in the center of the field."
+        ],
+        "439": [
+            1974.0,
+            1976.0,
+            "Juventus is great."
+        ],
+        "440": [
+            1976.0,
+            1978.0,
+            "Philip Anderson."
+        ],
+        "441": [
+            1978.0,
+            1980.0,
+            "I really just took it and demolished it."
+        ],
+        "442": [
+            1980.0,
+            1982.0,
+            "Free kick."
+        ],
+        "443": [
+            1982.0,
+            1984.0,
+            "But here it is far from the gate."
+        ],
+        "444": [
+            1984.0,
+            1986.0,
+            "Debalo, however, takes responsibility."
+        ],
+        "445": [
+            1986.0,
+            1988.0,
+            "The penalty encore plays out."
+        ],
+        "446": [
+            1989.0,
+            1991.0,
+            "Danatyan."
+        ],
+        "447": [
+            1995.0,
+            1997.0,
+            "Eliminan."
+        ],
+        "448": [
+            1997.0,
+            1999.0,
+            "Sandro."
+        ],
+        "449": [
+            2001.0,
+            2003.0,
+            "Alex Sandro."
+        ],
+        "450": [
+            2003.0,
+            2005.0,
+            "Danatyan. Khidira."
+        ],
+        "451": [
+            2007.0,
+            2009.0,
+            "Innings."
+        ],
+        "452": [
+            2009.0,
+            2011.0,
+            "Shot on the move by Asamua."
+        ],
+        "453": [
+            2011.0,
+            2013.0,
+            "And such a moment arises for Juventus."
+        ],
+        "454": [
+            2013.0,
+            2015.0,
+            "A slightly clumsy blow hit Asamua's treasure."
+        ],
+        "455": [
+            2015.0,
+            2019.0,
+            "But he hit the target."
+        ],
+        "456": [
+            2021.0,
+            2024.0,
+            "We see how Marchetti hit the ball."
+        ],
+        "457": [
+            2026.0,
+            2028.0,
+            "Yes, he struck right away."
+        ],
+        "458": [
+            2029.0,
+            2031.0,
+            "But basically, some thunderstorm."
+        ],
+        "459": [
+            2031.0,
+            2033.0,
+            "The gate somehow got carried away."
+        ],
+        "460": [
+            2033.0,
+            2035.0,
+            "Majukic's pass didn't go through."
+        ],
+        "461": [
+            2035.0,
+            2037.0,
+            "Defrey played confidently."
+        ],
+        "462": [
+            2037.0,
+            2039.0,
+            "One of the best football players so far."
+        ],
+        "463": [
+            2039.0,
+            2041.0,
+            "Made up of fathers. Central defense from Holland."
+        ],
+        "464": [
+            2041.0,
+            2043.0,
+            "Danatyan."
+        ],
+        "465": [
+            2043.0,
+            2045.0,
+            "On the right flank."
+        ],
+        "466": [
+            2045.0,
+            2047.0,
+            "He is not afraid of Lukaku."
+        ],
+        "467": [
+            2047.0,
+            2049.0,
+            "And how does Lukaku play?"
+        ],
+        "468": [
+            2049.0,
+            2051.0,
+            "Competently at this moment."
+        ],
+        "469": [
+            2051.0,
+            2053.0,
+            "Big guy."
+        ],
+        "470": [
+            2053.0,
+            2055.0,
+            "You just can't get through it."
+        ],
+        "471": [
+            2055.0,
+            2057.0,
+            "Jordan Lukaku."
+        ],
+        "472": [
+            2058.0,
+            2060.0,
+            "Pass forward."
+        ],
+        "473": [
+            2060.0,
+            2062.0,
+            "Asamua."
+        ],
+        "474": [
+            2067.0,
+            2070.0,
+            "And this is no longer an accurate pass from Alex Sandro."
+        ],
+        "475": [
+            2070.0,
+            2072.0,
+            "Yes, Juventus needs a replacement."
+        ],
+        "476": [
+            2072.0,
+            2074.0,
+            "More so than Latzu."
+        ],
+        "477": [
+            2074.0,
+            2076.0,
+            "I think that Simonin from behind would not make such a grimace."
+        ],
+        "478": [
+            2076.0,
+            2079.0,
+            "On the whole, he looks happy on his face, I think he is playing."
+        ],
+        "479": [
+            2087.0,
+            2089.0,
+            "Well done."
+        ],
+        "480": [
+            2089.0,
+            2091.0,
+            "Debala."
+        ],
+        "481": [
+            2091.0,
+            2093.0,
+            "I didn’t quite get to the point of debate."
+        ],
+        "482": [
+            2093.0,
+            2095.0,
+            "And here it is again."
+        ],
+        "483": [
+            2095.0,
+            2097.0,
+            "Pretending to be Ales."
+        ],
+        "484": [
+            2097.0,
+            2099.0,
+            "But this one hit me in the arm."
+        ],
+        "485": [
+            2099.0,
+            2101.0,
+            "Brazilian."
+        ],
+        "486": [
+            2103.0,
+            2105.0,
+            "Moreover, something terrible, apparently."
+        ],
+        "487": [
+            2105.0,
+            2107.0,
+            "Because as you see,"
+        ],
+        "488": [
+            2107.0,
+            2109.0,
+            "Lukak can't play."
+        ],
+        "489": [
+            2109.0,
+            2111.0,
+            "And, of course, he can't play."
+        ],
+        "490": [
+            2111.0,
+            2113.0,
+            "But as you see,"
+        ],
+        "491": [
+            2113.0,
+            2115.0,
+            "Lukak can't play."
+        ],
+        "492": [
+            2115.0,
+            2117.0,
+            "Something terrible, apparently."
+        ],
+        "493": [
+            2117.0,
+            2119.0,
+            "Because"
+        ],
+        "494": [
+            2119.0,
+            2121.0,
+            "very, very painful."
+        ],
+        "495": [
+            2125.0,
+            2127.0,
+            "Perhaps he broke his finger."
+        ],
+        "496": [
+            2129.0,
+            2131.0,
+            "Yes, not Ales."
+        ],
+        "497": [
+            2131.0,
+            2133.0,
+            "But this is Masimiliana Allegri"
+        ],
+        "498": [
+            2133.0,
+            2135.0,
+            "with his assistants."
+        ],
+        "499": [
+            2135.0,
+            2137.0,
+            "He's probably thinking now about"
+        ],
+        "500": [
+            2137.0,
+            2139.0,
+            "What is wrong with Juventus?"
+        ],
+        "501": [
+            2139.0,
+            2141.0,
+            "Is it all about the weather?"
+        ],
+        "502": [
+            2141.0,
+            2143.0,
+            "Although I personally chose this version."
+        ],
+        "503": [
+            2143.0,
+            2145.0,
+            "On such a large scale."
+        ],
+        "504": [
+            2145.0,
+            2147.0,
+            "But Daniel Ales continues"
+        ],
+        "505": [
+            2147.0,
+            2149.0,
+            "learn to."
+        ],
+        "506": [
+            2149.0,
+            2151.0,
+            "And, I mean, he has a substitution already in the first half."
+        ],
+        "507": [
+            2151.0,
+            2153.0,
+            "There is Stefan Eisteiner."
+        ],
+        "508": [
+            2153.0,
+            2155.0,
+            "At Yuli's."
+        ],
+        "509": [
+            2155.0,
+            2157.0,
+            "who has been all these years"
+        ],
+        "510": [
+            2157.0,
+            2159.0,
+            "mainstream right"
+        ],
+        "511": [
+            2159.0,
+            2161.0,
+            "Juventus defender."
+        ],
+        "512": [
+            2161.0,
+            2163.0,
+            "But here he is today"
+        ],
+        "513": [
+            2163.0,
+            2165.0,
+            "on the bench."
+        ],
+        "514": [
+            2165.0,
+            2167.0,
+            "He's number 26."
+        ],
+        "515": [
+            2167.0,
+            2169.0,
+            "Let me remind you that he previously spoke"
+        ],
+        "516": [
+            2169.0,
+            2171.0,
+            "in deprivation in due time."
+        ],
+        "517": [
+            2173.0,
+            2175.0,
+            "Yes, it really, really hurts Ales."
+        ],
+        "518": [
+            2175.0,
+            2177.0,
+            "Something unpleasant happened to him."
+        ],
+        "519": [
+            2193.0,
+            2195.0,
+            "Apparently, he is warming up for Eisteiner."
+        ],
+        "520": [
+            2195.0,
+            2197.0,
+            "Once such a reaction"
+        ],
+        "521": [
+            2197.0,
+            2199.0,
+            "Turin public."
+        ],
+        "522": [
+            2199.0,
+            2201.0,
+            "More precisely, Turin fans,"
+        ],
+        "523": [
+            2201.0,
+            2203.0,
+            "which are located in Rome."
+        ],
+        "524": [
+            2203.0,
+            2205.0,
+            "The audience, of course, is Roman."
+        ],
+        "525": [
+            2205.0,
+            2207.0,
+            "Yes, Eisteiner, not him."
+        ],
+        "526": [
+            2207.0,
+            2209.0,
+            "I went to warm up."
+        ],
+        "527": [
+            2209.0,
+            2211.0,
+            "Stefan Eysteiner."
+        ],
+        "528": [
+            2211.0,
+            2213.0,
+            "The Swiss Express, as they call it."
+        ],
+        "529": [
+            2213.0,
+            2215.0,
+            "And Daniel Ales, apparently,"
+        ],
+        "530": [
+            2215.0,
+            2217.0,
+            "wants to continue playing."
+        ],
+        "531": [
+            2217.0,
+            2219.0,
+            "True, two fingers"
+        ],
+        "532": [
+            2219.0,
+            2221.0,
+            "Already bandaged, apparently"
+        ],
+        "533": [
+            2221.0,
+            2223.0,
+            "all the water."
+        ],
+        "534": [
+            2225.0,
+            2227.0,
+            "There will be"
+        ],
+        "535": [
+            2227.0,
+            2229.0,
+            "trample"
+        ],
+        "536": [
+            2229.0,
+            2231.0,
+            "bandage,"
+        ],
+        "537": [
+            2231.0,
+            2233.0,
+            "bandage,"
+        ],
+        "538": [
+            2233.0,
+            2235.0,
+            "so that"
+        ],
+        "539": [
+            2235.0,
+            2237.0,
+            "safety"
+        ],
+        "540": [
+            2239.0,
+            2241.0,
+            "create"
+        ],
+        "541": [
+            2241.0,
+            2243.0,
+            "for Daniel Ales."
+        ],
+        "542": [
+            2243.0,
+            2245.0,
+            "But we command."
+        ],
+        "543": [
+            2245.0,
+            2247.0,
+            "It was possible to play on touch, but Lulic"
+        ],
+        "544": [
+            2247.0,
+            2249.0,
+            "waited for Jordan. Of course, Lulic too"
+        ],
+        "545": [
+            2249.0,
+            2251.0,
+            "plays a very good match."
+        ],
+        "546": [
+            2251.0,
+            2253.0,
+            "This is what the best player can do:"
+        ],
+        "547": [
+            2253.0,
+            2255.0,
+            "Defre and Lulic"
+        ],
+        "548": [
+            2255.0,
+            2257.0,
+            "and Lazio. Although, in general, all teams"
+        ],
+        "549": [
+            2257.0,
+            2259.0,
+            "They play very usefully and efficiently."
+        ],
+        "550": [
+            2263.0,
+            2265.0,
+            "That's Simon Enzaghi, by the way."
+        ],
+        "551": [
+            2265.0,
+            2267.0,
+            "Yes, that's too little"
+        ],
+        "552": [
+            2267.0,
+            2269.0,
+            "replay of the match,"
+        ],
+        "553": [
+            2269.0,
+            2271.0,
+            "such far-reaching conclusions, but"
+        ],
+        "554": [
+            2271.0,
+            2273.0,
+            "basically, we expected the worst."
+        ],
+        "555": [
+            2273.0,
+            2275.0,
+            "We remember how"
+        ],
+        "556": [
+            2275.0,
+            2277.0,
+            "threw it along the way"
+        ],
+        "557": [
+            2277.0,
+            2279.0,
+            "off-season, along the way"
+        ],
+        "558": [
+            2279.0,
+            2281.0,
+            "July, in fact,"
+        ],
+        "559": [
+            2281.0,
+            2283.0,
+            "Marshal Lobielsa."
+        ],
+        "560": [
+            2283.0,
+            2285.0,
+            "He signed the contract, should have already arrived"
+        ],
+        "561": [
+            2285.0,
+            2287.0,
+            "to Rome, to train"
+        ],
+        "562": [
+            2287.0,
+            2289.0,
+            "Lazio, and then abruptly refused"
+        ],
+        "563": [
+            2289.0,
+            2291.0,
+            "for unknown reasons. One of the main"
+        ],
+        "564": [
+            2291.0,
+            2293.0,
+            "versions that he was unhappy"
+        ],
+        "565": [
+            2293.0,
+            2295.0,
+            "the club's transfer campaign, he"
+        ],
+        "566": [
+            2295.0,
+            2297.0,
+            "promised to patch up 5 new football players"
+        ],
+        "567": [
+            2297.0,
+            2299.0,
+            "by the first day of collection."
+        ],
+        "568": [
+            2299.0,
+            2301.0,
+            "Seeing them, Lobiels"
+        ],
+        "569": [
+            2301.0,
+            2303.0,
+            "didn't even take off."
+        ],
+        "570": [
+            2303.0,
+            2305.0,
+            "I just didn’t come to Rome,"
+        ],
+        "571": [
+            2305.0,
+            2307.0,
+            "that the contract was torn"
+        ],
+        "572": [
+            2307.0,
+            2309.0,
+            "in a non-partisan manner. Going with him"
+        ],
+        "573": [
+            2309.0,
+            2311.0,
+            "sue and get some"
+        ],
+        "574": [
+            2311.0,
+            2313.0,
+            "money as"
+        ],
+        "575": [
+            2313.0,
+            2315.0,
+            "compensation. But that's all"
+        ],
+        "576": [
+            2315.0,
+            2317.0,
+            "no longer football. And what"
+        ],
+        "577": [
+            2317.0,
+            2319.0,
+            "regarding the decision, then"
+        ],
+        "578": [
+            2319.0,
+            2321.0,
+            "staying along the way, I repeat,"
+        ],
+        "579": [
+            2321.0,
+            2323.0,
+            "off-season without a coach,"
+        ],
+        "580": [
+            2323.0,
+            2325.0,
+            "chosen by Simon Elzaghi"
+        ],
+        "581": [
+            2325.0,
+            2327.0,
+            "Latito, who"
+        ],
+        "582": [
+            2327.0,
+            2329.0,
+            "worked for several months"
+        ],
+        "583": [
+            2329.0,
+            2331.0,
+            "main thing last season."
+        ],
+        "584": [
+            2331.0,
+            2333.0,
+            "But still he was a coach"
+        ],
+        "585": [
+            2333.0,
+            2335.0,
+            "Lazio youth team."
+        ],
+        "586": [
+            2337.0,
+            2339.0,
+            "Bastan!"
+        ],
+        "587": [
+            2341.0,
+            2343.0,
+            "Bufflon!"
+        ],
+        "588": [
+            2343.0,
+            2345.0,
+            "On Borzalia!"
+        ],
+        "589": [
+            2347.0,
+            2349.0,
+            "Kellyny!"
+        ],
+        "590": [
+            2349.0,
+            2351.0,
+            "He was already ahead"
+        ],
+        "591": [
+            2351.0,
+            2353.0,
+            "kellini. And so"
+        ],
+        "592": [
+            2353.0,
+            2355.0,
+            "inaccurate transmission. Yes, very very"
+        ],
+        "593": [
+            2355.0,
+            2357.0,
+            "Eventus has a lot of mistakes."
+        ],
+        "594": [
+            2357.0,
+            2359.0,
+            "Lazio has a little less of them, but Lazio"
+        ],
+        "595": [
+            2359.0,
+            2361.0,
+            "there is no way to attack."
+        ],
+        "596": [
+            2361.0,
+            2363.0,
+            "Lazio is more modest"
+        ],
+        "597": [
+            2363.0,
+            2365.0,
+            "looks ahead. Although here are the moments"
+        ],
+        "598": [
+            2365.0,
+            2367.0,
+            "It's not that bad, I think"
+        ],
+        "599": [
+            2367.0,
+            2369.0,
+            "as you say, coordination"
+        ],
+        "600": [
+            2369.0,
+            2371.0,
+            "Nagdibi Nadia"
+        ],
+        "601": [
+            2371.0,
+            2373.0,
+            "saved Eventus."
+        ],
+        "602": [
+            2373.0,
+            2375.0,
+            "I think we remembered this episode."
+        ],
+        "603": [
+            2387.0,
+            2389.0,
+            "Debala!"
+        ],
+        "604": [
+            2391.0,
+            2393.0,
+            "Stopped Debala."
+        ],
+        "605": [
+            2393.0,
+            2395.0,
+            "And this is Mobury"
+        ],
+        "606": [
+            2395.0,
+            2397.0,
+            "receives the ball. Order one Borzalia."
+        ],
+        "607": [
+            2397.0,
+            2399.0,
+            "Mobury tries"
+        ],
+        "608": [
+            2399.0,
+            2401.0,
+            "beat Andrey Bordzalia."
+        ],
+        "609": [
+            2401.0,
+            2403.0,
+            "But all this is not happening very confidently."
+        ],
+        "610": [
+            2403.0,
+            2405.0,
+            "And in the end I passed back."
+        ],
+        "611": [
+            2405.0,
+            2407.0,
+            "Lukaku leaves the ball in play. Andersan can"
+        ],
+        "612": [
+            2407.0,
+            2409.0,
+            "and break through Andersan. Hit."
+        ],
+        "613": [
+            2409.0,
+            2411.0,
+            "But Philippe Andersan earned a corner."
+        ],
+        "614": [
+            2415.0,
+            2417.0,
+            "Corner, which is not so bad, per se."
+        ],
+        "615": [
+            2427.0,
+            2429.0,
+            "So."
+        ],
+        "616": [
+            2433.0,
+            2435.0,
+            "Angular."
+        ],
+        "617": [
+            2437.0,
+            2439.0,
+            "Pink ball rush."
+        ],
+        "618": [
+            2447.0,
+            2449.0,
+            "Majukic"
+        ],
+        "619": [
+            2449.0,
+            2451.0,
+            "did not run in the penalty spot."
+        ],
+        "620": [
+            2451.0,
+            2453.0,
+            "Although it seemed that"
+        ],
+        "621": [
+            2453.0,
+            2455.0,
+            "it started to be very difficult."
+        ],
+        "622": [
+            2455.0,
+            2457.0,
+            "But this is already a violation of the Samua rule."
+        ],
+        "623": [
+            2457.0,
+            2459.0,
+            "We need to watch the replay. Necessarily."
+        ],
+        "624": [
+            2459.0,
+            2461.0,
+            "Where did the ball hit Majukic?"
+        ],
+        "625": [
+            2471.0,
+            2473.0,
+            "Everything is clear here."
+        ],
+        "626": [
+            2473.0,
+            2475.0,
+            "We sorted it out here."
+        ],
+        "627": [
+            2475.0,
+            2477.0,
+            "But it's more likely there"
+        ],
+        "628": [
+            2477.0,
+            2479.0,
+            "who removed Madzukic's hands."
+        ],
+        "629": [
+            2479.0,
+            2481.0,
+            "I didn't think the ball hit my hand."
+        ],
+        "630": [
+            2481.0,
+            2483.0,
+            "This was the basis"
+        ],
+        "631": [
+            2483.0,
+            2485.0,
+            "for a penalty."
+        ],
+        "632": [
+            2485.0,
+            2487.0,
+            "Maybe,"
+        ],
+        "633": [
+            2487.0,
+            2489.0,
+            "were"
+        ],
+        "634": [
+            2491.0,
+            2493.0,
+            "pinned down."
+        ],
+        "635": [
+            2493.0,
+            2495.0,
+            "Yes, and dispute judges"
+        ],
+        "636": [
+            2495.0,
+            2497.0,
+            "did not like."
+        ],
+        "637": [
+            2497.0,
+            2499.0,
+            "More precisely, my father's football players"
+        ],
+        "638": [
+            2499.0,
+            2501.0,
+            "so that they don’t even appeal to the court."
+        ],
+        "639": [
+            2501.0,
+            2503.0,
+            "There is no violation of the rules. You can play."
+        ],
+        "640": [
+            2503.0,
+            2505.0,
+            "Latzo with the ball."
+        ],
+        "641": [
+            2505.0,
+            2507.0,
+            "Lulic. Long long time"
+        ],
+        "642": [
+            2507.0,
+            2509.0,
+            "makes a decision."
+        ],
+        "643": [
+            2509.0,
+            2511.0,
+            "Therefore, Alexander, although no,"
+        ],
+        "644": [
+            2511.0,
+            2513.0,
+            "Alexandru just now"
+        ],
+        "645": [
+            2513.0,
+            2515.0,
+            "Katya knocked the ball out."
+        ],
+        "646": [
+            2515.0,
+            2517.0,
+            "And he deserved a yellow card."
+        ],
+        "647": [
+            2517.0,
+            2519.0,
+            "Yellow card second"
+        ],
+        "648": [
+            2519.0,
+            2521.0,
+            "in our match. Alexander for this foul"
+        ],
+        "649": [
+            2521.0,
+            2523.0,
+            "against Lulic"
+        ],
+        "650": [
+            2523.0,
+            2525.0,
+            "one warning at a time"
+        ],
+        "651": [
+            2525.0,
+            2527.0,
+            "at the team."
+        ],
+        "652": [
+            2527.0,
+            2529.0,
+            "Alexandru."
+        ],
+        "653": [
+            2535.0,
+            2537.0,
+            "It was clean here. What next?"
+        ],
+        "654": [
+            2537.0,
+            2539.0,
+            "Next too"
+        ],
+        "655": [
+            2539.0,
+            2541.0,
+            "approached from the side. Like, the ball was played by Alexander."
+        ],
+        "656": [
+            2547.0,
+            2549.0,
+            "It was not visible with this factor."
+        ],
+        "657": [
+            2549.0,
+            2551.0,
+            "But"
+        ],
+        "658": [
+            2555.0,
+            2557.0,
+            "difficult to figure out"
+        ],
+        "659": [
+            2557.0,
+            2559.0,
+            "in the episode with Mario Majukic."
+        ],
+        "660": [
+            2565.0,
+            2567.0,
+            "Free kick."
+        ],
+        "661": [
+            2569.0,
+            2571.0,
+            "And the ball"
+        ],
+        "662": [
+            2571.0,
+            2573.0,
+            "arrives"
+        ],
+        "663": [
+            2573.0,
+            2575.0,
+            "to Bufon."
+        ],
+        "664": [
+            2575.0,
+            2577.0,
+            "Quite calm"
+        ],
+        "665": [
+            2577.0,
+            2579.0,
+            "John Lulic and Bufon ball"
+        ],
+        "666": [
+            2579.0,
+            2581.0,
+            "took away."
+        ],
+        "667": [
+            2583.0,
+            2585.0,
+            "Let's podzol."
+        ],
+        "668": [
+            2591.0,
+            2593.0,
+            "Kellyni"
+        ],
+        "669": [
+            2593.0,
+            2595.0,
+            "started dribbling. Certainly,"
+        ],
+        "670": [
+            2595.0,
+            2597.0,
+            "lacks."
+        ],
+        "671": [
+            2597.0,
+            2599.0,
+            "Kellyni started dribbling."
+        ],
+        "672": [
+            2599.0,
+            2601.0,
+            "John Giochellini was wrong."
+        ],
+        "673": [
+            2601.0,
+            2603.0,
+            "Dangerous moment."
+        ],
+        "674": [
+            2603.0,
+            2605.0,
+            "Again the referee doesn't give me boobs."
+        ],
+        "675": [
+            2605.0,
+            2607.0,
+            "Andersan."
+        ],
+        "676": [
+            2607.0,
+            2609.0,
+            "Innings."
+        ],
+        "677": [
+            2609.0,
+            2611.0,
+            "Gennady"
+        ],
+        "678": [
+            2611.0,
+            2613.0,
+            "didn't get to the ball."
+        ],
+        "679": [
+            2613.0,
+            2615.0,
+            "Auvez."
+        ],
+        "680": [
+            2619.0,
+            2621.0,
+            "I think it's the end of the inning"
+        ],
+        "681": [
+            2621.0,
+            2623.0,
+            "gives us every reason"
+        ],
+        "682": [
+            2623.0,
+            2625.0,
+            "consider that this half is left behind."
+        ],
+        "683": [
+            2625.0,
+            2627.0,
+            "The bowl has begun"
+        ],
+        "684": [
+            2627.0,
+            2629.0,
+            "be used."
+        ],
+        "685": [
+            2629.0,
+            2631.0,
+            "Because Juventus are having a bad first half."
+        ],
+        "686": [
+            2631.0,
+            2633.0,
+            "Very bad."
+        ],
+        "687": [
+            2633.0,
+            2635.0,
+            "No chances, essentially no attack"
+        ],
+        "688": [
+            2635.0,
+            2637.0,
+            "as such."
+        ],
+        "689": [
+            2637.0,
+            2639.0,
+            "And the task for Massimiliano Olegov"
+        ],
+        "690": [
+            2639.0,
+            2641.0,
+            "somehow change the game."
+        ],
+        "691": [
+            2641.0,
+            2643.0,
+            "Already Juventus"
+        ],
+        "692": [
+            2643.0,
+            2645.0,
+            "the club that amazed everyone this summer."
+        ],
+        "693": [
+            2645.0,
+            2647.0,
+            "And of course Juventus"
+        ],
+        "694": [
+            2647.0,
+            2649.0,
+            "must, must"
+        ],
+        "695": [
+            2649.0,
+            2651.0,
+            "play differently. And Juventus demand"
+        ],
+        "696": [
+            2651.0,
+            2653.0,
+            "completely different from other teams"
+        ],
+        "697": [
+            2653.0,
+            2655.0,
+            "in Russia."
+        ],
+        "698": [
+            2683.0,
+            2685.0,
+            "Delini."
+        ],
+        "699": [
+            2687.0,
+            2689.0,
+            "Another pass back."
+        ],
+        "700": [
+            2691.0,
+            2693.0,
+            "Debala."
+        ],
+        "701": [
+            2693.0,
+            2695.0,
+            "No, no, breaking the rules. We need to play."
+        ],
+        "702": [
+            2695.0,
+            2697.0,
+            "Anderson."
+        ],
+        "703": [
+            2701.0,
+            2703.0,
+            "Parolo. Immobiles. One touch. Basta."
+        ],
+        "704": [
+            2703.0,
+            2705.0,
+            "Continues Imobili"
+        ],
+        "705": [
+            2705.0,
+            2707.0,
+            "Attack."
+        ],
+        "706": [
+            2707.0,
+            2709.0,
+            "But he’s already losing here"
+        ],
+        "707": [
+            2709.0,
+            2711.0,
+            "speed duel to Alex Sandra."
+        ],
+        "708": [
+            2711.0,
+            2713.0,
+            "Referee Raguida adds"
+        ],
+        "709": [
+            2713.0,
+            2715.0,
+            "3 minutes into the first half."
+        ],
+        "710": [
+            2715.0,
+            2717.0,
+            "Well I do not know,"
+        ],
+        "711": [
+            2717.0,
+            2719.0,
+            "what a fair decision."
+        ],
+        "712": [
+            2719.0,
+            2721.0,
+            "Yes, there were pauses."
+        ],
+        "713": [
+            2721.0,
+            2723.0,
+            "There was, in my opinion, a wait for Alaves. But in other way,"
+        ],
+        "714": [
+            2723.0,
+            2725.0,
+            "no heads, no substitutions."
+        ],
+        "715": [
+            2725.0,
+            2727.0,
+            "Nothing happened in the first half."
+        ],
+        "716": [
+            2727.0,
+            2729.0,
+            "Osamoa na Kellini."
+        ],
+        "717": [
+            2729.0,
+            2731.0,
+            "He threw the ball."
+        ],
+        "718": [
+            2731.0,
+            2733.0,
+            "Kellyni walked forward. He's in the first match"
+        ],
+        "719": [
+            2733.0,
+            2735.0,
+            "recalled his assist to Khidira."
+        ],
+        "720": [
+            2735.0,
+            2737.0,
+            "But now"
+        ],
+        "721": [
+            2737.0,
+            2739.0,
+            "This trick didn't work."
+        ],
+        "722": [
+            2739.0,
+            2741.0,
+            "Benatyan."
+        ],
+        "723": [
+            2741.0,
+            2743.0,
+            "Khidira."
+        ],
+        "724": [
+            2743.0,
+            2745.0,
+            "On Majukic."
+        ],
+        "725": [
+            2745.0,
+            2747.0,
+            "Majukic didn't even jump."
+        ],
+        "726": [
+            2747.0,
+            2749.0,
+            "Just not a hindsight moment."
+        ],
+        "727": [
+            2749.0,
+            2751.0,
+            "This is Mario Majukic."
+        ],
+        "728": [
+            2751.0,
+            2753.0,
+            "All respect to the Croatian striker."
+        ],
+        "729": [
+            2753.0,
+            2755.0,
+            "Has a bad half."
+        ],
+        "730": [
+            2755.0,
+            2757.0,
+            "Basta."
+        ],
+        "731": [
+            2757.0,
+            2759.0,
+            "Well, even more so"
+        ],
+        "732": [
+            2759.0,
+            2761.0,
+            "Eventus has an alternative."
+        ],
+        "733": [
+            2761.0,
+            2763.0,
+            "This is, of course, Gonzalo Higuai."
+        ],
+        "734": [
+            2763.0,
+            2765.0,
+            "He is from the rescue committee."
+        ],
+        "735": [
+            2765.0,
+            2767.0,
+            "Radon."
+        ],
+        "736": [
+            2767.0,
+            2769.0,
+            "Dangerous moment. Rado."
+        ],
+        "737": [
+            2769.0,
+            2771.0,
+            "One laminate."
+        ],
+        "738": [
+            2773.0,
+            2775.0,
+            "Substitutes."
+        ],
+        "739": [
+            2775.0,
+            2777.0,
+            "He is now playing Alisa Sandra."
+        ],
+        "740": [
+            2777.0,
+            2779.0,
+            "it will be here for him"
+        ],
+        "741": [
+            2779.0,
+            2781.0,
+            "free kick"
+        ],
+        "742": [
+            2781.0,
+            2783.0,
+            "Insidevali"
+        ],
+        "743": [
+            2783.0,
+            2785.0,
+            "Gakilation."
+        ],
+        "744": [
+            2785.0,
+            2787.0,
+            "And he easily lost the ball."
+        ],
+        "745": [
+            2787.0,
+            2789.0,
+            "But in the end, Eventus went on the attack."
+        ],
+        "746": [
+            2789.0,
+            2791.0,
+            "Danialis on the right flank."
+        ],
+        "747": [
+            2791.0,
+            2793.0,
+            "One of the last."
+        ],
+        "748": [
+            2793.0,
+            2795.0,
+            "Attack."
+        ],
+        "749": [
+            2795.0,
+            2797.0,
+            "First part of the match."
+        ],
+        "750": [
+            2797.0,
+            2799.0,
+            "And Danialis is playing poorly too."
+        ],
+        "751": [
+            2799.0,
+            2801.0,
+            "Danialis loses the ball."
+        ],
+        "752": [
+            2801.0,
+            2803.0,
+            "The dilemma is who to change."
+        ],
+        "753": [
+            2803.0,
+            2805.0,
+            "In fact"
+        ],
+        "754": [
+            2805.0,
+            2807.0,
+            "almost half the team"
+        ],
+        "755": [
+            2807.0,
+            2809.0,
+            "can change."
+        ],
+        "756": [
+            2809.0,
+            2811.0,
+            "There is a reason for this."
+        ],
+        "757": [
+            2813.0,
+            2815.0,
+            "I'm a little confused about Kellyni."
+        ],
+        "758": [
+            2815.0,
+            2817.0,
+            "Anderson."
+        ],
+        "759": [
+            2817.0,
+            2819.0,
+            "Anderson plays beautifully."
+        ],
+        "760": [
+            2819.0,
+            2821.0,
+            "How he ran away."
+        ],
+        "761": [
+            2821.0,
+            2823.0,
+            "Brazilian."
+        ],
+        "762": [
+            2823.0,
+            2825.0,
+            "At the end."
+        ],
+        "763": [
+            2825.0,
+            2827.0,
+            "The first half is already"
+        ],
+        "764": [
+            2827.0,
+            2829.0,
+            "Its efficiency has become somewhat better."
+        ],
+        "765": [
+            2829.0,
+            2831.0,
+            "Than in the first half hour."
+        ],
+        "766": [
+            2831.0,
+            2833.0,
+            "Khidira."
+        ],
+        "767": [
+            2833.0,
+            2835.0,
+            "Liminate."
+        ],
+        "768": [
+            2835.0,
+            2837.0,
+            "Asamua."
+        ],
+        "769": [
+            2837.0,
+            2839.0,
+            "Second half."
+        ],
+        "770": [
+            2839.0,
+            2841.0,
+            "And in the end."
+        ],
+        "771": [
+            2841.0,
+            2843.0,
+            "And in the end."
+        ],
+        "772": [
+            2843.0,
+            2845.0,
+            "Asamua."
+        ],
+        "773": [
+            2845.0,
+            2847.0,
+            "Liminate again."
+        ],
+        "774": [
+            2847.0,
+            2849.0,
+            "To Khidira."
+        ],
+        "775": [
+            2851.0,
+            2853.0,
+            "Liminate."
+        ],
+        "776": [
+            2853.0,
+            2855.0,
+            "And again the mistake of Mario Majukic."
+        ],
+        "777": [
+            2857.0,
+            2859.0,
+            "Lurich."
+        ],
+        "778": [
+            2861.0,
+            2863.0,
+            "Biglia."
+        ],
+        "779": [
+            2865.0,
+            2867.0,
+            "Back."
+        ],
+        "780": [
+            2867.0,
+            2869.0,
+            "Biglia is back with the ball."
+        ],
+        "781": [
+            2869.0,
+            2871.0,
+            "One more transfer."
+        ],
+        "782": [
+            2871.0,
+            2873.0,
+            "On board Marchetti."
+        ],
+        "783": [
+            2873.0,
+            2875.0,
+            "Bash."
+        ],
+        "784": [
+            2875.0,
+            2877.0,
+            "The series debuts."
+        ],
+        "785": [
+            2877.0,
+            2879.0,
+            "So far the debut is going well."
+        ],
+        "786": [
+            2879.0,
+            2881.0,
+            "For the ex-defender of Rostov."
+        ]
+    }
+}

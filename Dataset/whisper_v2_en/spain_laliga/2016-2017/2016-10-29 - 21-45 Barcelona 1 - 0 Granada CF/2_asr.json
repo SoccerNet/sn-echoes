@@ -1,0 +1,5779 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            4.0,
+            "The match is on the line between the two teams."
+        ],
+        "1": [
+            5.0,
+            8.0,
+            "The match is on the line between the two teams."
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "The match is on the line between the two teams."
+        ],
+        "3": [
+            13.0,
+            16.0,
+            "The match is on the line between the two teams."
+        ],
+        "4": [
+            17.0,
+            20.0,
+            "The match is on the line between the two teams."
+        ],
+        "5": [
+            21.0,
+            24.0,
+            "The match is on the line between the two teams."
+        ],
+        "6": [
+            25.0,
+            28.0,
+            "The match is on the line between the two teams."
+        ],
+        "7": [
+            28.0,
+            31.0,
+            "The match is on the line between the two teams."
+        ],
+        "8": [
+            32.0,
+            35.0,
+            "The match is on the line between the two teams."
+        ],
+        "9": [
+            36.0,
+            39.0,
+            "The match is on the line between the two teams."
+        ],
+        "10": [
+            40.0,
+            43.0,
+            "The match is on the line between the two teams."
+        ],
+        "11": [
+            44.0,
+            47.0,
+            "The match is on the line between the two teams."
+        ],
+        "12": [
+            48.0,
+            51.0,
+            "The match is on the line between the two teams."
+        ],
+        "13": [
+            52.0,
+            55.0,
+            "The match is on the line between the two teams."
+        ],
+        "14": [
+            55.0,
+            58.0,
+            "The match is on the line between the two teams."
+        ],
+        "15": [
+            59.0,
+            62.0,
+            "The match is on the line between the two teams."
+        ],
+        "16": [
+            63.0,
+            66.0,
+            "The match is on the line between the two teams."
+        ],
+        "17": [
+            67.0,
+            70.0,
+            "The match is on the line between the two teams."
+        ],
+        "18": [
+            71.0,
+            74.0,
+            "The match is on the line between the two teams."
+        ],
+        "19": [
+            75.0,
+            78.0,
+            "The match is on the line between the two teams."
+        ],
+        "20": [
+            79.0,
+            82.0,
+            "The match is on the line between the two teams."
+        ],
+        "21": [
+            82.0,
+            85.0,
+            "The match is on the line between the two teams."
+        ],
+        "22": [
+            86.0,
+            89.0,
+            "The match is on the line between the two teams."
+        ],
+        "23": [
+            90.0,
+            93.0,
+            "The match is on the line between the two teams."
+        ],
+        "24": [
+            94.0,
+            97.0,
+            "The match is on the line between the two teams."
+        ],
+        "25": [
+            98.0,
+            101.0,
+            "The match is on the line between the two teams."
+        ],
+        "26": [
+            102.0,
+            105.0,
+            "The match is on the line between the two teams."
+        ],
+        "27": [
+            106.0,
+            109.0,
+            "The match is on the line between the two teams."
+        ],
+        "28": [
+            109.0,
+            112.0,
+            "The match is on the line between the two teams."
+        ],
+        "29": [
+            113.0,
+            116.0,
+            "The match is on the line between the two teams."
+        ],
+        "30": [
+            117.0,
+            120.0,
+            "The match is on the line between the two teams."
+        ],
+        "31": [
+            121.0,
+            124.0,
+            "The match is on the line between the two teams."
+        ],
+        "32": [
+            125.0,
+            128.0,
+            "The match is on the line between the two teams."
+        ],
+        "33": [
+            129.0,
+            132.0,
+            "The match is on the line between the two teams."
+        ],
+        "34": [
+            133.0,
+            136.0,
+            "The match is on the line between the two teams."
+        ],
+        "35": [
+            136.0,
+            139.0,
+            "The match is on the line between the two teams."
+        ],
+        "36": [
+            140.0,
+            143.0,
+            "The match is on the line between the two teams."
+        ],
+        "37": [
+            144.0,
+            147.0,
+            "The match is on the line between the two teams."
+        ],
+        "38": [
+            148.0,
+            151.0,
+            "The match is on the line between the two teams."
+        ],
+        "39": [
+            152.0,
+            155.0,
+            "The match is on the line between the two teams."
+        ],
+        "40": [
+            156.0,
+            159.0,
+            "The match is on the line between the two teams."
+        ],
+        "41": [
+            160.0,
+            163.0,
+            "The match is on the line between the two teams."
+        ],
+        "42": [
+            164.0,
+            167.0,
+            "Pereira has passed the ball to Messi."
+        ],
+        "43": [
+            168.0,
+            171.0,
+            "Luis Suarez has passed it to Messi."
+        ],
+        "44": [
+            172.0,
+            175.0,
+            "Luis Suarez has passed it to Neymar."
+        ],
+        "45": [
+            176.0,
+            179.0,
+            "There's the goal!"
+        ],
+        "46": [
+            180.0,
+            183.0,
+            "It's a Chilean goal from Rafinha."
+        ],
+        "47": [
+            184.0,
+            187.0,
+            "It looked like no one had found a way to open the box."
+        ],
+        "48": [
+            188.0,
+            191.0,
+            "But Rafinha found it after the shot to the post."
+        ],
+        "49": [
+            191.0,
+            194.0,
+            "It's the first goal for Barcelona."
+        ],
+        "50": [
+            195.0,
+            198.0,
+            "Luis Suarez has passed it to Neymar."
+        ],
+        "51": [
+            199.0,
+            202.0,
+            "He's going to finish it off."
+        ],
+        "52": [
+            203.0,
+            206.0,
+            "It looked like no one had found a way to open the box."
+        ],
+        "53": [
+            207.0,
+            210.0,
+            "It was a strange move from Messi and Suarez."
+        ],
+        "54": [
+            211.0,
+            214.0,
+            "It's a strange move from Messi and Suarez."
+        ],
+        "55": [
+            215.0,
+            218.0,
+            "Neymar has passed it to Suarez."
+        ],
+        "56": [
+            218.0,
+            223.0,
+            "Rafinha made a perfect shot for Vincent remains."
+        ],
+        "57": [
+            224.0,
+            227.0,
+            "That's the save."
+        ],
+        "58": [
+            228.0,
+            230.0,
+            "Navasqua has jumped on it."
+        ],
+        "59": [
+            231.0,
+            234.0,
+            "USA go after Barça."
+        ],
+        "60": [
+            235.0,
+            240.0,
+            "Miraalgo and Alberto are there to help Barça defend their main goal."
+        ],
+        "61": [
+            241.0,
+            244.0,
+            "Soambiro goes for the connection."
+        ],
+        "62": [
+            244.0,
+            248.92,
+            "on his back with that return to Messi who then breaks with that driving in a few meters"
+        ],
+        "63": [
+            248.92,
+            253.32,
+            "and well, that speed that Barça needed, especially speed in the last meters."
+        ],
+        "64": [
+            253.32,
+            257.68,
+            "has had in the play of the goal. Well, the old football cliché says that when you"
+        ],
+        "65": [
+            257.68,
+            262.32,
+            "opens the can, Ibanemar really opens up, breaking everything on the left, putting the ball in for"
+        ],
+        "66": [
+            262.32,
+            266.16,
+            "Messi the ball is left behind Rakitié appears and plays it over Luis Suárez with his back turned Luis Suárez"
+        ],
+        "67": [
+            266.16,
+            271.08,
+            "Uche leaves Luis Suárez who is already looking for the area for the shot and opens the ball towards the wing"
+        ],
+        "68": [
+            272.08,
+            276.64,
+            "Barcelona regains tranquility by playing back Sergi Roberto for a marmoset"
+        ],
+        "69": [
+            280.76,
+            288.08,
+            "in short Rakitié a marmoset a marmoset for Javier Mascherano to the band for Sergi Roberto"
+        ],
+        "70": [
+            288.08,
+            295.08,
+            "Leo Messi in front of Kravitz ball for a marmoset"
+        ],
+        "71": [
+            295.08,
+            302.96,
+            "Rakitié touching towards Inaimar's position there goes Rakitié again good diagonal from Sergi"
+        ],
+        "72": [
+            302.96,
+            308.96,
+            "Roberto hooks it on the side of the area and puts it down Luis Suárez is not the day of the"
+        ],
+        "73": [
+            308.96,
+            316.44,
+            "Uruguayan leaves Granada up Kravitz Barcelona reverses the ball back for Gabriel Silva"
+        ],
+        "74": [
+            316.44,
+            323.52,
+            "playing on the wing for Pereira, attention that comes from inside Toral continues to fail"
+        ],
+        "75": [
+            325.64,
+            331.32,
+            "Granada plays into space that are apparently easy yes yes yes because"
+        ],
+        "76": [
+            331.32,
+            335.64,
+            "There is no need to specify a space, there is the repetition of the goal again."
+        ],
+        "77": [
+            337.64,
+            344.84,
+            "Rafinha's final shot that scores a goal that gives peace of mind to Luis Enrique's team"
+        ],
+        "78": [
+            344.84,
+            351.32,
+            "Now in the Gandó stands the ball is for Mascherano to play Mascherano returns the ball to Nisuare"
+        ],
+        "79": [
+            351.32,
+            356.36,
+            "Luis Suárez's offside kick for Granada"
+        ],
+        "80": [
+            359.96,
+            369.4,
+            "More from this take played his great shot by Rafinha at the end complicated complicated happens everything"
+        ],
+        "81": [
+            369.4,
+            373.68,
+            "Inaimar's shot hits the post, Rubén Bezo appears, which I still don't believe"
+        ],
+        "82": [
+            373.68,
+            378.24,
+            "physically that he did not feel the ball inside his goal, he did not see the three or four"
+        ],
+        "83": [
+            378.24,
+            386.64,
+            "laws of physics and the ball goes back the foot for Rafinha's overhead kick now they do it"
+        ],
+        "84": [
+            386.64,
+            392.8,
+            "titi in defense of the ball to Cuenca Cuenca who attacks looking to tickle Rafinha there"
+        ],
+        "85": [
+            392.8,
+            398.44,
+            "Cuenca, who can play inside for Uche, delivers the ball to Carcela"
+        ],
+        "86": [
+            398.44,
+            402.56,
+            "He lost the ball there because he was surrounded by Barcelona players, Rafinha comes out playing"
+        ],
+        "87": [
+            402.56,
+            405.72,
+            "That ball that Rubén Bezo cuts was too much for the long run"
+        ],
+        "88": [
+            409.44,
+            410.72,
+            "take out Digne"
+        ],
+        "89": [
+            415.28000000000003,
+            416.2,
+            "Rakitic"
+        ],
+        "90": [
+            418.88,
+            423.48,
+            "Rakitic plays short with a titi titi for Rakitic"
+        ],
+        "91": [
+            427.28,
+            431.56,
+            "the ball for Digne, Digne again with Rakitic"
+        ],
+        "92": [
+            432.88,
+            438.24,
+            "Rakitic in front of a titi the ball arrives Javier Mascherano opens Mascherano"
+        ],
+        "93": [
+            438.24,
+            442.92,
+            "Leo Messi looking up Luis Suárez raised the flag online for Luis Suárez's offside"
+        ],
+        "94": [
+            445.08,
+            449.72,
+            "fighting with Saunier for the ball for him Granada"
+        ],
+        "95": [
+            451.4,
+            457.76,
+            "In any case, Michael Julio, Barça is in the rhythm of the territory prior to the Champions League."
+        ],
+        "96": [
+            457.76,
+            465.48,
+            "Yes, it is in saving effort, not for the entire game and even after the goal, already winning the"
+        ],
+        "97": [
+            465.48,
+            470.64,
+            "logically you can understand a little more, I think it would only have changed if it really advanced"
+        ],
+        "98": [
+            470.64,
+            472.24,
+            "much the second half would not have reached the goal"
+        ],
+        "99": [
+            472.24,
+            477.4,
+            "What I'm not seeing is also no spark in the center of the field I'm not seeing"
+        ],
+        "100": [
+            477.4,
+            486.32,
+            "spark without and with the ball I am seeing a dull Barça in the center of the field I don't like it one bit"
+        ],
+        "101": [
+            487.76,
+            491.44,
+            "ball for Barcelona in defense with a titi"
+        ],
+        "102": [
+            491.44,
+            496.52,
+            "I'm also going to play them and we are a little spoiled with the Barcelona football club in the center of the field"
+        ],
+        "103": [
+            496.52,
+            498.36,
+            "and this is tremendously high"
+        ],
+        "104": [
+            498.36,
+            503.8,
+            "one of the things, a simple curiosity, one of the things that changes with the entry of Rakitic"
+        ],
+        "105": [
+            503.8,
+            508.44,
+            "It is the search essence in that game that the play always begins between the two centre-backs and here what"
+        ],
+        "106": [
+            508.44,
+            513.28,
+            "What always ends up happening is that Rakitic places himself to the left of a titi and Mascherano to the"
+        ],
+        "107": [
+            513.28,
+            517.3199999999999,
+            "right, so things like this end up happening where it's a titi that really starts the"
+        ],
+        "108": [
+            517.32,
+            523.4000000000001,
+            "pass there he goes with speed, he has done well now Diñé arrived very just but he arrived to prison"
+        ],
+        "109": [
+            523.4000000000001,
+            524.72,
+            "corner kick"
+        ],
+        "110": [
+            524.72,
+            530.6400000000001,
+            "With the Rakitic issue I insist although he can play, in fact he is playing there and he is having a good game"
+        ],
+        "111": [
+            531.6400000000001,
+            535.9200000000001,
+            "Luis Enrique is fulfilling what Luis Enrique asks of him but he is underused a lot"
+        ],
+        "112": [
+            535.9200000000001,
+            539.6800000000001,
+            "Barcelona is going to take a corner"
+        ],
+        "113": [
+            539.68,
+            549.9599999999999,
+            "They have Denis Suárez short, he is going to play directly into the area, he hits the ball at the near post"
+        ],
+        "114": [
+            549.9599999999999,
+            555.5999999999999,
+            "Mascherano touched it but it deflected over Ochoa's goal and it will be a goal kick"
+        ],
+        "115": [
+            555.5999999999999,
+            560.8399999999999,
+            "This is what Julián goes through when Busquets is there, he uses his interiors much more"
+        ],
+        "116": [
+            560.8399999999999,
+            567.56,
+            "he is not doing it either they are not offering or he is not using them"
+        ],
+        "117": [
+            567.92,
+            570.16,
+            "Busquets always looks for the closest person"
+        ],
+        "118": [
+            570.16,
+            572.16,
+            "or both"
+        ],
+        "119": [
+            572.16,
+            587.16,
+            "When roles are changed, things don't work the same for us, but of course this team has always had a problem, which is the replacement of Sergio Busquets because in all the years of Sergio Busquets there has not been a Sergio Busquets two."
+        ],
+        "120": [
+            587.16,
+            590.16,
+            "no no it has not even appeared and today it is being demonstrated for example"
+        ],
+        "121": [
+            590.76,
+            595.16,
+            "ball up header manages to touch the ball Gabriel Silva gets the ball for Toral"
+        ],
+        "122": [
+            595.16,
+            602.36,
+            "Toral for the full-back Gabriel Silva playing a short ball on Pereira starts Pereira caracolea is stolen by Sergi Roberto"
+        ],
+        "123": [
+            602.36,
+            610.88,
+            "the applause of the stands touches behind Mascherano Mascherano with Ter Stegen today passenger of the match"
+        ],
+        "124": [
+            610.88,
+            617.9599999999999,
+            "82,900 spectators came to the Canó today to see this 1-0 for Barcelona"
+        ],
+        "125": [
+            618.36,
+            627.1600000000001,
+            "There goes the pressure of Uche winning the ball Leo Messi has played for Carcela Carcela who comes and who falls by himself"
+        ],
+        "126": [
+            627.1600000000001,
+            631.1600000000001,
+            "It is a rigorous hand perhaps"
+        ],
+        "127": [
+            631.1600000000001,
+            639.1600000000001,
+            "Yes, because he didn't try to play the ball with his arm, but it was so clear that he didn't even protest and he is"
+        ],
+        "128": [
+            639.1600000000001,
+            642.1600000000001,
+            "Yes, but that can mean that also with the Lucas Alcaraz gesture, right?"
+        ],
+        "129": [
+            642.1600000000001,
+            644.1600000000001,
+            "fourth assistant referee"
+        ],
+        "130": [
+            644.1600000000001,
+            646.1600000000001,
+            "but if the hand is clear"
+        ],
+        "131": [
+            648.1600000000001,
+            652.1600000000001,
+            "Sergi Roberto's last steal of the ball"
+        ],
+        "132": [
+            652.1600000000001,
+            657.1600000000001,
+            "ball for Leo Messi who seems to get bored and looks at the line of creation"
+        ],
+        "133": [
+            657.1600000000001,
+            662.1600000000001,
+            "There he held his own against Kravets and scored a long ball for Neymar"
+        ],
+        "134": [
+            662.1600000000001,
+            666.1600000000001,
+            "Cuenca tries from behind, keeps fighting and manages to hold it off"
+        ],
+        "135": [
+            666.1600000000001,
+            671.1600000000001,
+            "the last pass for Kravets is about to arrive again"
+        ],
+        "136": [
+            671.1600000000001,
+            673.1600000000001,
+            "Toral couldn't do it"
+        ],
+        "137": [
+            673.36,
+            676.36,
+            "The singing goes so much in the fountain that in some of these"
+        ],
+        "138": [
+            676.36,
+            679.36,
+            "and Granada is going to be presented hand in hand with Ter Stegen"
+        ],
+        "139": [
+            679.36,
+            684.36,
+            "the ball is for Denis Suárez playing Leo Messi looks for an inside Beza appears again"
+        ],
+        "140": [
+            684.36,
+            687.36,
+            "Luis Suárez Messi goes to the ground raises the flag"
+        ],
+        "141": [
+            687.36,
+            689.36,
+            "no nothing happens"
+        ],
+        "142": [
+            689.36,
+            691.36,
+            "he takes the ball to Granada"
+        ],
+        "143": [
+            691.36,
+            693.36,
+            "Use for Toral"
+        ],
+        "144": [
+            693.36,
+            697.36,
+            "Pereira asks for it on the side and continues driving the ball Toral"
+        ],
+        "145": [
+            697.36,
+            700.36,
+            "he played it for Pereira"
+        ],
+        "146": [
+            700.5600000000001,
+            705.5600000000001,
+            "again Pereira who is surrounded by up to three players until he ends up losing it"
+        ],
+        "147": [
+            705.5600000000001,
+            708.5600000000001,
+            "Gabriel Silva arrived late"
+        ],
+        "148": [
+            708.5600000000001,
+            710.5600000000001,
+            "that may have hurt Rafinha"
+        ],
+        "149": [
+            710.5600000000001,
+            712.5600000000001,
+            "Gabriel Silva who has yellow cardboard"
+        ],
+        "150": [
+            712.5600000000001,
+            715.5600000000001,
+            "I believe that in fact Ricardo is the only player in the game who has it."
+        ],
+        "151": [
+            715.5600000000001,
+            717.5600000000001,
+            "the only one, the only one for an entry in the first part"
+        ],
+        "152": [
+            717.5600000000001,
+            719.5600000000001,
+            "Gabriel Silva for that clash"
+        ],
+        "153": [
+            719.5600000000001,
+            722.5600000000001,
+            "in that jump with Sergi Roberto the only player cautioned in the match"
+        ],
+        "154": [
+            724.5600000000001,
+            727.5600000000001,
+            "with this clash between Rubén Bezo and Leo Messi"
+        ],
+        "155": [
+            730.5600000000001,
+            733.5600000000001,
+            "play the ball again Untiti"
+        ],
+        "156": [
+            734.5600000000001,
+            736.5600000000001,
+            "André Gómez throws himself into the base"
+        ],
+        "157": [
+            736.5600000000001,
+            740.5600000000001,
+            "and there will be a change in Granada shortly, he is giving the latest instructions"
+        ],
+        "158": [
+            740.5600000000001,
+            742.5600000000001,
+            "Lucas Alcaraz advocates"
+        ],
+        "159": [
+            743.5600000000001,
+            745.5600000000001,
+            "Rakitic plays the ball"
+        ],
+        "160": [
+            745.5600000000001,
+            749.5600000000001,
+            "playing for Untiti, Untiti for Javier Mascherano in the Barcelona field"
+        ],
+        "161": [
+            749.5600000000001,
+            752.5600000000001,
+            "He already gets into Granada's team when Luis Suárez unchecks on the side"
+        ],
+        "162": [
+            752.5600000000001,
+            755.5600000000001,
+            "chased by Saunier, here's what Luis Suárez just did to him"
+        ],
+        "163": [
+            755.5600000000001,
+            757.5600000000001,
+            "looked for Vaseline"
+        ],
+        "164": [
+            757.76,
+            759.76,
+            "I touched the ball to a defender I think it was Lombán"
+        ],
+        "165": [
+            760.76,
+            761.76,
+            "Neymar arrives"
+        ],
+        "166": [
+            762.76,
+            764.76,
+            "he holds it on the field of play"
+        ],
+        "167": [
+            764.76,
+            765.76,
+            "in face"
+        ],
+        "168": [
+            766.76,
+            768.76,
+            "what a kick Garcela just hit him"
+        ],
+        "169": [
+            768.76,
+            769.76,
+            "my mother"
+        ],
+        "170": [
+            769.76,
+            771.76,
+            "I think it was going for value, it just wasn't there"
+        ],
+        "171": [
+            771.76,
+            775.76,
+            "Garcela has had two recent interventions"
+        ],
+        "172": [
+            777.76,
+            778.76,
+            "just as"
+        ],
+        "173": [
+            780.76,
+            783.76,
+            "little successful as well as curious"
+        ],
+        "174": [
+            783.76,
+            786.76,
+            "no, no, it's just that Neymar was so fast"
+        ],
+        "175": [
+            786.96,
+            790.96,
+            "He goes for the ball but the ball wasn't there when he hit it."
+        ],
+        "176": [
+            790.96,
+            792.96,
+            "also below the knee"
+        ],
+        "177": [
+            792.96,
+            795.96,
+            "Because since he can't find the ball on the ground, that's where it goes."
+        ],
+        "178": [
+            795.96,
+            799.96,
+            "Of course, the leg rises due to inertia and ends up hitting Neymar's knee."
+        ],
+        "179": [
+            800.96,
+            801.96,
+            "a blow that could have hurt him"
+        ],
+        "180": [
+            802.96,
+            805.96,
+            "Now what Barcelona puts at stake with Neymar and Messi"
+        ],
+        "181": [
+            805.96,
+            807.96,
+            "stuck to him, to the ball"
+        ],
+        "182": [
+            808.1600000000001,
+            811.1600000000001,
+            "Messi prepares to hit, he does it, penalty spot"
+        ],
+        "183": [
+            811.1600000000001,
+            812.1600000000001,
+            "has taken out the defense"
+        ],
+        "184": [
+            812.1600000000001,
+            814.1600000000001,
+            "the ball to the front, Diñeque jumps"
+        ],
+        "185": [
+            814.1600000000001,
+            815.1600000000001,
+            "Pereira does it too"
+        ],
+        "186": [
+            815.1600000000001,
+            816.1600000000001,
+            "Denis Suárez appears"
+        ],
+        "187": [
+            816.1600000000001,
+            818.1600000000001,
+            "he recovers it for Barcelona"
+        ],
+        "188": [
+            820.1600000000001,
+            822.1600000000001,
+            "Sergi Roberto who calms down"
+        ],
+        "189": [
+            824.1600000000001,
+            826.1600000000001,
+            "with the ball Sergi Roberto looking for"
+        ],
+        "190": [
+            827.1600000000001,
+            829.1600000000001,
+            "Leo Messi's head shortened Rubén Bezo"
+        ],
+        "191": [
+            830.1600000000001,
+            831.1600000000001,
+            "and Messi's ball"
+        ],
+        "192": [
+            832.1600000000001,
+            833.1600000000001,
+            "and Messi's ball"
+        ],
+        "193": [
+            834.1600000000001,
+            835.1600000000001,
+            "and Messi's ball"
+        ],
+        "194": [
+            835.36,
+            837.36,
+            "Leo Messi's head shortened Rubén Bezo"
+        ],
+        "195": [
+            838.36,
+            839.36,
+            "ball for Rakitic"
+        ],
+        "196": [
+            842.36,
+            844.36,
+            "Rakitic is going to look for the unchecking of Neymar"
+        ],
+        "197": [
+            844.36,
+            845.36,
+            "the ball comes perfectly chopped"
+        ],
+        "198": [
+            845.36,
+            846.36,
+            "raised the flag"
+        ],
+        "199": [
+            847.36,
+            848.36,
+            "a great ball from Rakitic"
+        ],
+        "200": [
+            849.36,
+            850.36,
+            "good and control"
+        ],
+        "201": [
+            852.36,
+            853.36,
+            "It was sweet, eh, Maikel"
+        ],
+        "202": [
+            853.36,
+            855.36,
+            "that ball came there with spin"
+        ],
+        "203": [
+            855.36,
+            858.36,
+            "so that it would slow down"
+        ],
+        "204": [
+            858.36,
+            860.36,
+            "when the first change occurs"
+        ],
+        "205": [
+            861.36,
+            862.36,
+            "the first of the match"
+        ],
+        "206": [
+            862.36,
+            864.36,
+            "the first in the ranks of Granada"
+        ],
+        "207": [
+            864.5600000000001,
+            865.5600000000001,
+            "Andrés Pereira leaves"
+        ],
+        "208": [
+            865.5600000000001,
+            866.5600000000001,
+            "of the playing field"
+        ],
+        "209": [
+            866.5600000000001,
+            867.5600000000001,
+            "Voga will come into his place"
+        ],
+        "210": [
+            868.5600000000001,
+            869.5600000000001,
+            "Yes, Juan, I imagine that on the left"
+        ],
+        "211": [
+            869.5600000000001,
+            871.5600000000001,
+            "a fairly quick Chelsea trial"
+        ],
+        "212": [
+            871.5600000000001,
+            872.5600000000001,
+            "but"
+        ],
+        "213": [
+            873.5600000000001,
+            874.5600000000001,
+            "The problem is that Granada"
+        ],
+        "214": [
+            874.5600000000001,
+            875.5600000000001,
+            "has very little ball"
+        ],
+        "215": [
+            875.5600000000001,
+            876.5600000000001,
+            "as for a player like him"
+        ],
+        "216": [
+            876.5600000000001,
+            878.5600000000001,
+            "or how Carcela can do harm"
+        ],
+        "217": [
+            878.5600000000001,
+            879.5600000000001,
+            "Just too tight"
+        ],
+        "218": [
+            880.5600000000001,
+            881.5600000000001,
+            "out of the game"
+        ],
+        "219": [
+            882.5600000000001,
+            883.5600000000001,
+            "Neymar"
+        ],
+        "220": [
+            883.5600000000001,
+            884.5600000000001,
+            "we see the play of Luis Suárez"
+        ],
+        "221": [
+            885.5600000000001,
+            886.5600000000001,
+            "well almost almost what"
+        ],
+        "222": [
+            887.5600000000001,
+            888.5600000000001,
+            "at the individual level"
+        ],
+        "223": [
+            888.5600000000001,
+            889.5600000000001,
+            "of the most accurate"
+        ],
+        "224": [
+            889.5600000000001,
+            890.5600000000001,
+            "of the Uruguayan in the match"
+        ],
+        "225": [
+            890.76,
+            891.76,
+            "there goes a marmoset with everything"
+        ],
+        "226": [
+            892.76,
+            893.76,
+            "Well"
+        ],
+        "227": [
+            893.76,
+            894.76,
+            "a blow comes out of Carcela"
+        ],
+        "228": [
+            894.76,
+            895.76,
+            "that carries one after another"
+        ],
+        "229": [
+            895.76,
+            896.76,
+            "it's gone as we go"
+        ],
+        "230": [
+            896.76,
+            898.76,
+            "Carcela arrives with his hand in front"
+        ],
+        "231": [
+            898.76,
+            899.76,
+            "hits a marmoset"
+        ],
+        "232": [
+            900.76,
+            901.76,
+            "but there have been three"
+        ],
+        "233": [
+            901.76,
+            902.76,
+            "very rare influences"
+        ],
+        "234": [
+            903.76,
+            904.76,
+            "And this one too"
+        ],
+        "235": [
+            905.76,
+            906.76,
+            "and Martínez Monuera"
+        ],
+        "236": [
+            906.76,
+            907.76,
+            "what admonishes"
+        ],
+        "237": [
+            907.76,
+            908.76,
+            "truly to Lucas Alcanaz"
+        ],
+        "238": [
+            908.76,
+            909.76,
+            "because I protested that last one"
+        ],
+        "239": [
+            909.76,
+            910.76,
+            "arbitration decision"
+        ],
+        "240": [
+            910.76,
+            911.76,
+            "asks him to calm down"
+        ],
+        "241": [
+            911.76,
+            912.76,
+            "take advantage of Luis Enrique"
+        ],
+        "242": [
+            912.76,
+            913.76,
+            "to talk"
+        ],
+        "243": [
+            913.76,
+            914.76,
+            "and give instructions to Neymar"
+        ],
+        "244": [
+            914.96,
+            916.96,
+            "Temporary entries"
+        ],
+        "245": [
+            917.96,
+            918.96,
+            "from Jail"
+        ],
+        "246": [
+            919.96,
+            920.96,
+            "The ball for Barcelona"
+        ],
+        "247": [
+            920.96,
+            922.96,
+            "15 minutes of the second half"
+        ],
+        "248": [
+            923.96,
+            924.96,
+            "Barça started very well"
+        ],
+        "249": [
+            924.96,
+            925.96,
+            "in minute 3"
+        ],
+        "250": [
+            925.96,
+            926.96,
+            "with the goal that"
+        ],
+        "251": [
+            926.96,
+            927.96,
+            "the Camp Nou scoreboard shows off"
+        ],
+        "252": [
+            928.96,
+            929.96,
+            "but"
+        ],
+        "253": [
+            929.96,
+            930.96,
+            "the match is back"
+        ],
+        "254": [
+            930.96,
+            931.96,
+            "at the pace of the first half"
+        ],
+        "255": [
+            932.96,
+            933.96,
+            "Neymar with the ball"
+        ],
+        "256": [
+            933.96,
+            935.96,
+            "chased by Carcela"
+        ],
+        "257": [
+            935.96,
+            936.96,
+            "and the goal of"
+        ],
+        "258": [
+            936.96,
+            937.96,
+            "Luis Enrique"
+        ],
+        "259": [
+            937.96,
+            938.96,
+            "that is gone"
+        ],
+        "260": [
+            938.96,
+            939.96,
+            "to the half"
+        ],
+        "261": [
+            939.96,
+            940.96,
+            "and the goal"
+        ],
+        "262": [
+            940.96,
+            941.96,
+            "of"
+        ],
+        "263": [
+            941.96,
+            942.96,
+            "the Barca"
+        ],
+        "264": [
+            942.96,
+            943.96,
+            "that is gone"
+        ],
+        "265": [
+            944.1600000000001,
+            945.1600000000001,
+            "to the half"
+        ],
+        "266": [
+            945.1600000000001,
+            946.1600000000001,
+            "and the goal"
+        ],
+        "267": [
+            946.1600000000001,
+            947.1600000000001,
+            "of"
+        ],
+        "268": [
+            947.1600000000001,
+            948.1600000000001,
+            "Jail"
+        ],
+        "269": [
+            948.1600000000001,
+            949.1600000000001,
+            "Uche"
+        ],
+        "270": [
+            949.1600000000001,
+            950.1600000000001,
+            "has touched back"
+        ],
+        "271": [
+            950.1600000000001,
+            951.1600000000001,
+            "the ball to Uctití"
+        ],
+        "272": [
+            951.1600000000001,
+            952.1600000000001,
+            "and Boga went"
+        ],
+        "273": [
+            952.1600000000001,
+            953.1600000000001,
+            "to bother Mascherano"
+        ],
+        "274": [
+            954.1600000000001,
+            955.1600000000001,
+            "Uctití with"
+        ],
+        "275": [
+            955.1600000000001,
+            956.1600000000001,
+            "to Rakitic"
+        ],
+        "276": [
+            959.1600000000001,
+            960.1600000000001,
+            "bad delivery now"
+        ],
+        "277": [
+            960.1600000000001,
+            961.1600000000001,
+            "throw-in"
+        ],
+        "278": [
+            963.1600000000001,
+            964.1600000000001,
+            "Well, me instead of"
+        ],
+        "279": [
+            964.1600000000001,
+            965.1600000000001,
+            "by Luis Enrique"
+        ],
+        "280": [
+            965.1600000000001,
+            966.1600000000001,
+            "already"
+        ],
+        "281": [
+            966.1600000000001,
+            967.1600000000001,
+            "I will make that change"
+        ],
+        "282": [
+            967.1600000000001,
+            968.1600000000001,
+            "I will put André Gómez"
+        ],
+        "283": [
+            968.1600000000001,
+            969.1600000000001,
+            "and I would have what Julio says"
+        ],
+        "284": [
+            969.1600000000001,
+            970.1600000000001,
+            "put Rakitic"
+        ],
+        "285": [
+            970.1600000000001,
+            971.1600000000001,
+            "more from Claria"
+        ],
+        "286": [
+            972.1600000000001,
+            973.1600000000001,
+            "and remove Dénes Suárez"
+        ],
+        "287": [
+            974.1600000000001,
+            975.1600000000001,
+            "which is the one"
+        ],
+        "288": [
+            975.1600000000001,
+            976.1600000000001,
+            "it's gone halfway"
+        ],
+        "289": [
+            976.1600000000001,
+            977.1600000000001,
+            "headlong"
+        ],
+        "290": [
+            977.1600000000001,
+            978.1600000000001,
+            "Uche"
+        ],
+        "291": [
+            978.1600000000001,
+            979.1600000000001,
+            "Díñez lets her vote"
+        ],
+        "292": [
+            979.1600000000001,
+            980.1600000000001,
+            "he just accompanies her"
+        ],
+        "293": [
+            980.1600000000001,
+            981.1600000000001,
+            "for it to come out"
+        ],
+        "294": [
+            981.1600000000001,
+            982.1600000000001,
+            "off the field"
+        ],
+        "295": [
+            982.1600000000001,
+            983.1600000000001,
+            "of game"
+        ],
+        "296": [
+            983.1600000000001,
+            984.1600000000001,
+            "already puts it in motion"
+        ],
+        "297": [
+            984.1600000000001,
+            985.1600000000001,
+            "delivering the ball"
+        ],
+        "298": [
+            985.1600000000001,
+            986.1600000000001,
+            "for a marmoset"
+        ],
+        "299": [
+            986.1600000000001,
+            987.1600000000001,
+            "this"
+        ],
+        "300": [
+            987.1600000000001,
+            988.1600000000001,
+            "about the position"
+        ],
+        "301": [
+            988.1600000000001,
+            989.1600000000001,
+            "by Javier Mascherano"
+        ],
+        "302": [
+            989.1600000000001,
+            990.1600000000001,
+            "the ball"
+        ],
+        "303": [
+            990.1600000000001,
+            991.1600000000001,
+            "for Rakitic"
+        ],
+        "304": [
+            991.1600000000001,
+            992.1600000000001,
+            "Rakitic plays"
+        ],
+        "305": [
+            992.1600000000001,
+            993.1600000000001,
+            "for Neymar"
+        ],
+        "306": [
+            996.1600000000001,
+            997.1600000000001,
+            "Neymar in short"
+        ],
+        "307": [
+            997.1600000000001,
+            998.1600000000001,
+            "again"
+        ],
+        "308": [
+            998.1600000000001,
+            999.1600000000001,
+            "for Iván Rakitic"
+        ],
+        "309": [
+            999.1600000000001,
+            1000.1600000000001,
+            "change of game"
+        ],
+        "310": [
+            1000.1600000000001,
+            1001.1600000000001,
+            "by Rakitic"
+        ],
+        "311": [
+            1001.1600000000001,
+            1002.1600000000001,
+            "towards the band"
+        ],
+        "312": [
+            1002.1600000000001,
+            1003.1600000000001,
+            "Sergi Roberto"
+        ],
+        "313": [
+            1003.36,
+            1004.36,
+            "he is going to play it"
+        ],
+        "314": [
+            1004.36,
+            1005.36,
+            "about Mascherano"
+        ],
+        "315": [
+            1005.36,
+            1006.36,
+            "Boga does not arrive"
+        ],
+        "316": [
+            1006.36,
+            1007.36,
+            "he goes with the ball"
+        ],
+        "317": [
+            1007.36,
+            1008.36,
+            "inside Nisuarez"
+        ],
+        "318": [
+            1008.36,
+            1009.36,
+            "Luis Suarez"
+        ],
+        "319": [
+            1009.36,
+            1010.36,
+            "touching the ball"
+        ],
+        "320": [
+            1010.36,
+            1011.36,
+            "for Leo Messi"
+        ],
+        "321": [
+            1011.36,
+            1012.36,
+            "turns around Leo Messi"
+        ],
+        "322": [
+            1012.36,
+            1013.36,
+            "leaves the first"
+        ],
+        "323": [
+            1013.36,
+            1014.36,
+            "in Cordia"
+        ],
+        "324": [
+            1014.36,
+            1015.36,
+            "to the second"
+        ],
+        "325": [
+            1015.36,
+            1016.36,
+            "throw a heel"
+        ],
+        "326": [
+            1016.36,
+            1017.36,
+            "coordination"
+        ],
+        "327": [
+            1017.36,
+            1018.36,
+            "in the entrances"
+        ],
+        "328": [
+            1018.36,
+            1019.36,
+            "of the two"
+        ],
+        "329": [
+            1019.36,
+            1020.36,
+            "center half"
+        ],
+        "330": [
+            1020.36,
+            1021.36,
+            "steals the ball"
+        ],
+        "331": [
+            1021.36,
+            1022.36,
+            "Toral takes her"
+        ],
+        "332": [
+            1022.36,
+            1023.36,
+            "Toral that is holding up"
+        ],
+        "333": [
+            1023.36,
+            1024.36,
+            "more than necessary"
+        ],
+        "334": [
+            1024.36,
+            1025.36,
+            "and loses the ball"
+        ],
+        "335": [
+            1025.36,
+            1026.36,
+            "finally"
+        ],
+        "336": [
+            1026.36,
+            1027.36,
+            "in Rafinha's possession"
+        ],
+        "337": [
+            1027.36,
+            1028.36,
+            "attention that now"
+        ],
+        "338": [
+            1028.36,
+            1029.36,
+            "the Granada is broken"
+        ],
+        "339": [
+            1029.36,
+            1030.36,
+            "with speed"
+        ],
+        "340": [
+            1030.36,
+            1031.36,
+            "by Sergi Roberto"
+        ],
+        "341": [
+            1031.36,
+            1032.36,
+            "winning for the band"
+        ],
+        "342": [
+            1032.56,
+            1033.56,
+            "a paralon"
+        ],
+        "343": [
+            1033.56,
+            1034.56,
+            "How good Sergio Roberto"
+        ],
+        "344": [
+            1034.56,
+            1035.56,
+            "magnificent again"
+        ],
+        "345": [
+            1035.56,
+            1036.56,
+            "is leaving details"
+        ],
+        "346": [
+            1036.56,
+            1037.56,
+            "the best of the game"
+        ],
+        "347": [
+            1037.56,
+            1038.56,
+            "without a doubt Sergio Roberto"
+        ],
+        "348": [
+            1041.56,
+            1042.56,
+            "Uchoa's heavy hand"
+        ],
+        "349": [
+            1042.56,
+            1043.56,
+            "which is the greatest merit"
+        ],
+        "350": [
+            1043.56,
+            1044.56,
+            "what's the game"
+        ],
+        "351": [
+            1044.56,
+            1045.56,
+            "for the goalkeeper"
+        ],
+        "352": [
+            1045.56,
+            1046.56,
+            "because the ending"
+        ],
+        "353": [
+            1046.56,
+            1047.56,
+            "it's almost point blank"
+        ],
+        "354": [
+            1049.56,
+            1050.56,
+            "and hold on well there"
+        ],
+        "355": [
+            1051.56,
+            1052.56,
+            "with a firm arm"
+        ],
+        "356": [
+            1055.56,
+            1056.56,
+            "applause for Sergi Roberto"
+        ],
+        "357": [
+            1056.56,
+            1057.56,
+            "while going to hit"
+        ],
+        "358": [
+            1057.56,
+            1058.56,
+            "the Neymar ball"
+        ],
+        "359": [
+            1058.76,
+            1059.76,
+            "Neymar goes to the corner"
+        ],
+        "360": [
+            1060.76,
+            1061.76,
+            "Neymar's advance"
+        ],
+        "361": [
+            1061.76,
+            1062.76,
+            "penalty spot"
+        ],
+        "362": [
+            1062.76,
+            1063.76,
+            "a titino rises"
+        ],
+        "363": [
+            1063.76,
+            1064.76,
+            "arrives"
+        ],
+        "364": [
+            1064.76,
+            1065.76,
+            "the ball remains"
+        ],
+        "365": [
+            1066.76,
+            1067.76,
+            "Franco Ayadine"
+        ],
+        "366": [
+            1067.76,
+            1068.76,
+            "touched the ball"
+        ],
+        "367": [
+            1068.76,
+            1069.76,
+            "for Sergi Roberto"
+        ],
+        "368": [
+            1074.76,
+            1075.76,
+            "short the ball"
+        ],
+        "369": [
+            1075.76,
+            1076.76,
+            "for Leo Messi"
+        ],
+        "370": [
+            1076.76,
+            1077.76,
+            "Messi looking for the entrance"
+        ],
+        "371": [
+            1077.76,
+            1078.76,
+            "by Neymar"
+        ],
+        "372": [
+            1078.76,
+            1079.76,
+            "the play could be good"
+        ],
+        "373": [
+            1079.76,
+            1080.76,
+            "he wants to pinch her"
+        ],
+        "374": [
+            1080.76,
+            1081.76,
+            "do not get it"
+        ],
+        "375": [
+            1081.76,
+            1082.76,
+            "goal kick"
+        ],
+        "376": [
+            1084.76,
+            1085.76,
+            "Gusts wake up"
+        ],
+        "377": [
+            1085.76,
+            1086.76,
+            "goes to the corner"
+        ],
+        "378": [
+            1086.96,
+            1087.96,
+            "Gusts wake up"
+        ],
+        "379": [
+            1087.96,
+            1088.96,
+            "the Barcelona"
+        ],
+        "380": [
+            1088.96,
+            1089.96,
+            "in moments when"
+        ],
+        "381": [
+            1089.96,
+            1090.96,
+            "the team puts"
+        ],
+        "382": [
+            1090.96,
+            1091.96,
+            "a little more speed"
+        ],
+        "383": [
+            1091.96,
+            1092.96,
+            "and search"
+        ],
+        "384": [
+            1092.96,
+            1093.96,
+            "be a little deeper"
+        ],
+        "385": [
+            1093.96,
+            1094.96,
+            "very good Sergi Roberto"
+        ],
+        "386": [
+            1094.96,
+            1095.96,
+            "look how he lifts here"
+        ],
+        "387": [
+            1095.96,
+            1096.96,
+            "head now"
+        ],
+        "388": [
+            1096.96,
+            1097.96,
+            "and how to put it on"
+        ],
+        "389": [
+            1097.96,
+            1098.96,
+            "perfect Neymar"
+        ],
+        "390": [
+            1098.96,
+            1099.96,
+            "lift your head"
+        ],
+        "391": [
+            1099.96,
+            1100.96,
+            "always"
+        ],
+        "392": [
+            1100.96,
+            1101.96,
+            "It is one of its merits"
+        ],
+        "393": [
+            1101.96,
+            1102.96,
+            "Sergi Roberto"
+        ],
+        "394": [
+            1102.96,
+            1103.96,
+            "in fact it runs"
+        ],
+        "395": [
+            1103.96,
+            1104.96,
+            "with the head"
+        ],
+        "396": [
+            1104.96,
+            1105.96,
+            "very very raised"
+        ],
+        "397": [
+            1106.96,
+            1107.96,
+            "the ball is for"
+        ],
+        "398": [
+            1108.96,
+            1109.96,
+            "the Barcelona"
+        ],
+        "399": [
+            1109.96,
+            1110.96,
+            "a marmoset is playing"
+        ],
+        "400": [
+            1114.96,
+            1115.96,
+            "Javier Mascherano"
+        ],
+        "401": [
+            1116.96,
+            1117.96,
+            "the Barca"
+        ],
+        "402": [
+            1119.96,
+            1120.96,
+            "every time now"
+        ],
+        "403": [
+            1120.96,
+            1121.96,
+            "he has less and less energy"
+        ],
+        "404": [
+            1121.96,
+            1122.96,
+            "to complicate your life"
+        ],
+        "405": [
+            1122.96,
+            1123.96,
+            "at the exit"
+        ],
+        "406": [
+            1123.96,
+            1124.96,
+            "to the two central"
+        ],
+        "407": [
+            1124.96,
+            1125.96,
+            "you can already see him"
+        ],
+        "408": [
+            1125.96,
+            1126.96,
+            "voluntarily lacks"
+        ],
+        "409": [
+            1126.96,
+            1127.96,
+            "to the creature"
+        ],
+        "410": [
+            1127.96,
+            1128.96,
+            "but you see him there"
+        ],
+        "411": [
+            1128.96,
+            1129.96,
+            "that your step"
+        ],
+        "412": [
+            1129.96,
+            1130.96,
+            "it's much more tiring"
+        ],
+        "413": [
+            1130.96,
+            1131.96,
+            "because it has stuck"
+        ],
+        "414": [
+            1131.96,
+            1132.96,
+            "a beating"
+        ],
+        "415": [
+            1132.96,
+            1133.96,
+            "absolutely huge"
+        ],
+        "416": [
+            1133.96,
+            1134.96,
+            "the Granada player"
+        ],
+        "417": [
+            1139.96,
+            1140.96,
+            "hand"
+        ],
+        "418": [
+            1141.96,
+            1142.96,
+            "of"
+        ],
+        "419": [
+            1143.96,
+            1144.96,
+            "Basin"
+        ],
+        "420": [
+            1145.16,
+            1146.16,
+            "hands that this year"
+        ],
+        "421": [
+            1146.16,
+            1147.16,
+            "as we told them"
+        ],
+        "422": [
+            1147.16,
+            1148.16,
+            "It seems to me that last week"
+        ],
+        "423": [
+            1148.16,
+            1149.16,
+            "they are going to give some other"
+        ],
+        "424": [
+            1150.16,
+            1151.16,
+            "day of controversy"
+        ],
+        "425": [
+            1151.16,
+            1152.16,
+            "with the"
+        ],
+        "426": [
+            1152.16,
+            1153.16,
+            "cut or not"
+        ],
+        "427": [
+            1153.16,
+            1154.16,
+            "a promising attack"
+        ],
+        "428": [
+            1157.16,
+            1158.16,
+            "regulations and interpretations"
+        ],
+        "429": [
+            1158.16,
+            1159.16,
+            "that"
+        ],
+        "430": [
+            1159.16,
+            1160.16,
+            "of course"
+        ],
+        "431": [
+            1160.16,
+            1161.16,
+            "sometimes they attract attention"
+        ],
+        "432": [
+            1162.16,
+            1163.16,
+            "pilot for"
+        ],
+        "433": [
+            1164.16,
+            1165.16,
+            "Leo Messi"
+        ],
+        "434": [
+            1165.16,
+            1166.16,
+            "Leo Messi the band again"
+        ],
+        "435": [
+            1166.16,
+            1167.16,
+            "playing for Sergi Roberto"
+        ],
+        "436": [
+            1167.16,
+            1168.16,
+            "delivers the ball short"
+        ],
+        "437": [
+            1168.16,
+            1169.16,
+            "the peak of the area"
+        ],
+        "438": [
+            1169.16,
+            1170.16,
+            "Denis Suarez"
+        ],
+        "439": [
+            1170.16,
+            1171.16,
+            "that returns to the side"
+        ],
+        "440": [
+            1171.16,
+            1172.16,
+            "Sergi Roberto"
+        ],
+        "441": [
+            1172.16,
+            1173.16,
+            "has behind"
+        ],
+        "442": [
+            1173.16,
+            1174.16,
+            "to Javier Mascherano"
+        ],
+        "443": [
+            1174.3600000000001,
+            1175.3600000000001,
+            "What are you going to look for inside?"
+        ],
+        "444": [
+            1175.3600000000001,
+            1176.3600000000001,
+            "Luis Suarez"
+        ],
+        "445": [
+            1176.3600000000001,
+            1177.3600000000001,
+            "to fail or not to fail"
+        ],
+        "446": [
+            1178.3600000000001,
+            1179.3600000000001,
+            "insist, insist"
+        ],
+        "447": [
+            1179.3600000000001,
+            1180.3600000000001,
+            "insist, insist"
+        ],
+        "448": [
+            1180.3600000000001,
+            1181.3600000000001,
+            "even if it's not good"
+        ],
+        "449": [
+            1181.3600000000001,
+            1182.3600000000001,
+            "that is not right"
+        ],
+        "450": [
+            1182.3600000000001,
+            1183.3600000000001,
+            "He's done a couple of good things."
+        ],
+        "451": [
+            1183.3600000000001,
+            1184.3600000000001,
+            "But it's not good"
+        ],
+        "452": [
+            1184.3600000000001,
+            1185.3600000000001,
+            "side door kick"
+        ],
+        "453": [
+            1185.3600000000001,
+            1186.3600000000001,
+            "will never hide"
+        ],
+        "454": [
+            1186.3600000000001,
+            1187.3600000000001,
+            "that"
+        ],
+        "455": [
+            1187.3600000000001,
+            1188.3600000000001,
+            "that is sure"
+        ],
+        "456": [
+            1188.3600000000001,
+            1189.3600000000001,
+            "in Luis Suárez"
+        ],
+        "457": [
+            1191.3600000000001,
+            1192.3600000000001,
+            "keep going"
+        ],
+        "458": [
+            1193.3600000000001,
+            1194.3600000000001,
+            "Luis Suárez trying"
+        ],
+        "459": [
+            1194.3600000000001,
+            1195.3600000000001,
+            "and indeed"
+        ],
+        "460": [
+            1195.3600000000001,
+            1196.3600000000001,
+            "was the last to play"
+        ],
+        "461": [
+            1196.3600000000001,
+            1197.3600000000001,
+            "the ball there with the knee"
+        ],
+        "462": [
+            1198.3600000000001,
+            1199.3600000000001,
+            "got it right online"
+        ],
+        "463": [
+            1199.3600000000001,
+            1200.3600000000001,
+            "kick goal"
+        ],
+        "464": [
+            1200.3600000000001,
+            1201.3600000000001,
+            "Ochoa is going to take out"
+        ],
+        "465": [
+            1204.3600000000001,
+            1205.3600000000001,
+            "Ochoa who takes so much time now"
+        ],
+        "466": [
+            1205.3600000000001,
+            1206.3600000000001,
+            "like when they were 0-0"
+        ],
+        "467": [
+            1207.3600000000001,
+            1208.3600000000001,
+            "so it must be your habit"
+        ],
+        "468": [
+            1208.3600000000001,
+            1209.3600000000001,
+            "I wasn't wasting time"
+        ],
+        "469": [
+            1209.3600000000001,
+            1210.3600000000001,
+            "no, he's thinking that"
+        ],
+        "470": [
+            1212.3600000000001,
+            1214.3600000000001,
+            "than scoring a goal very late"
+        ],
+        "471": [
+            1214.3600000000001,
+            1215.3600000000001,
+            "yes, they are in the game"
+        ],
+        "472": [
+            1215.3600000000001,
+            1216.3600000000001,
+            "while they are in the game"
+        ],
+        "473": [
+            1216.3600000000001,
+            1217.3600000000001,
+            "and they win with just one goal"
+        ],
+        "474": [
+            1217.3600000000001,
+            1218.3600000000001,
+            "there may be some option"
+        ],
+        "475": [
+            1219.3600000000001,
+            1220.3600000000001,
+            "and in fact"
+        ],
+        "476": [
+            1220.3600000000001,
+            1221.3600000000001,
+            "in fact you can have it"
+        ],
+        "477": [
+            1221.3600000000001,
+            1222.3600000000001,
+            "has had them"
+        ],
+        "478": [
+            1223.3600000000001,
+            1224.3600000000001,
+            "let's say it's been"
+        ],
+        "479": [
+            1224.3600000000001,
+            1226.3600000000001,
+            "in advance"
+        ],
+        "480": [
+            1226.3600000000001,
+            1227.3600000000001,
+            "yes, yes, that's it"
+        ],
+        "481": [
+            1227.3600000000001,
+            1228.3600000000001,
+            "ball, attention again"
+        ],
+        "482": [
+            1228.3600000000001,
+            1229.3600000000001,
+            "to the band"
+        ],
+        "483": [
+            1229.3600000000001,
+            1230.3600000000001,
+            "Mouth that goes away"
+        ],
+        "484": [
+            1230.3600000000001,
+            1231.3600000000001,
+            "Boca leaves"
+        ],
+        "485": [
+            1231.3600000000001,
+            1232.3600000000001,
+            "there is Kravitz asking for it"
+        ],
+        "486": [
+            1232.3600000000001,
+            1233.3600000000001,
+            "Kravitz gets involved"
+        ],
+        "487": [
+            1233.56,
+            1234.56,
+            "goes offside"
+        ],
+        "488": [
+            1234.56,
+            1235.56,
+            "Mouth continues"
+        ],
+        "489": [
+            1235.56,
+            1236.56,
+            "Shooting"
+        ],
+        "490": [
+            1236.56,
+            1237.56,
+            "what have you done?"
+        ],
+        "491": [
+            1237.56,
+            1238.56,
+            "corner kick"
+        ],
+        "492": [
+            1238.56,
+            1239.56,
+            "he did it really badly"
+        ],
+        "493": [
+            1240.56,
+            1241.56,
+            "Kravitz is saying"
+        ],
+        "494": [
+            1241.56,
+            1242.56,
+            "he took"
+        ],
+        "495": [
+            1242.56,
+            1243.56,
+            "Yes Yes"
+        ],
+        "496": [
+            1243.56,
+            1244.56,
+            "65 minutes"
+        ],
+        "497": [
+            1245.56,
+            1246.56,
+            "leaving my life"
+        ],
+        "498": [
+            1246.56,
+            1247.56,
+            "in a hurry"
+        ],
+        "499": [
+            1247.56,
+            1248.56,
+            "to everywhere"
+        ],
+        "500": [
+            1249.56,
+            1250.56,
+            "and the only time"
+        ],
+        "501": [
+            1250.56,
+            1251.56,
+            "I'm there"
+        ],
+        "502": [
+            1251.56,
+            1252.56,
+            "close to mine"
+        ],
+        "503": [
+            1252.56,
+            1253.56,
+            "They don't even plug it in"
+        ],
+        "504": [
+            1253.56,
+            1254.56,
+            "They don't even put it on me"
+        ],
+        "505": [
+            1255.56,
+            1256.56,
+            "corner kick for Granada"
+        ],
+        "506": [
+            1256.56,
+            1257.56,
+            "there goes the center"
+        ],
+        "507": [
+            1257.56,
+            1258.56,
+            "first stick"
+        ],
+        "508": [
+            1258.56,
+            1259.56,
+            "a titi that clears"
+        ],
+        "509": [
+            1259.56,
+            1260.56,
+            "throw-in"
+        ],
+        "510": [
+            1263.56,
+            1264.56,
+            "Not that he was complaining."
+        ],
+        "511": [
+            1264.56,
+            1265.56,
+            "to his partner"
+        ],
+        "512": [
+            1265.56,
+            1266.56,
+            "is that he cried out in the desert"
+        ],
+        "513": [
+            1268.56,
+            1269.56,
+            "Granada plays"
+        ],
+        "514": [
+            1269.56,
+            1270.56,
+            "Uche"
+        ],
+        "515": [
+            1273.56,
+            1275.56,
+            "short the ball"
+        ],
+        "516": [
+            1277.56,
+            1278.56,
+            "Bezos change"
+        ],
+        "517": [
+            1279.56,
+            1280.56,
+            "on the same line"
+        ],
+        "518": [
+            1280.56,
+            1281.56,
+            "offside"
+        ],
+        "519": [
+            1281.56,
+            1282.56,
+            "I have one thing clear"
+        ],
+        "520": [
+            1282.56,
+            1283.56,
+            "Mouth was in the wrong position"
+        ],
+        "521": [
+            1283.56,
+            1284.56,
+            "if Kravitz thought"
+        ],
+        "522": [
+            1284.56,
+            1285.56,
+            "that football"
+        ],
+        "523": [
+            1285.56,
+            1286.56,
+            "it was going to be like this"
+        ],
+        "524": [
+            1286.56,
+            1287.56,
+            "for him"
+        ],
+        "525": [
+            1287.56,
+            1288.56,
+            "would have dedicated"
+        ],
+        "526": [
+            1288.56,
+            1289.56,
+            "to something else"
+        ],
+        "527": [
+            1289.56,
+            1290.56,
+            "I would have preferred"
+        ],
+        "528": [
+            1290.56,
+            1291.56,
+            "another position"
+        ],
+        "529": [
+            1291.56,
+            1292.56,
+            "yes, maybe not"
+        ],
+        "530": [
+            1292.76,
+            1293.76,
+            "but if there were not"
+        ],
+        "531": [
+            1293.76,
+            1294.76,
+            "had to do"
+        ],
+        "532": [
+            1294.76,
+            1295.76,
+            "a dred suit"
+        ],
+        "533": [
+            1295.76,
+            1296.76,
+            "something like that"
+        ],
+        "534": [
+            1296.76,
+            1297.76,
+            "but"
+        ],
+        "535": [
+            1297.76,
+            1298.76,
+            "who spent"
+        ],
+        "536": [
+            1298.76,
+            1299.76,
+            "his work"
+        ],
+        "537": [
+            1299.76,
+            1300.76,
+            "the present day"
+        ],
+        "538": [
+            1301.76,
+            1302.76,
+            "pilot for Macerano"
+        ],
+        "539": [
+            1302.76,
+            1303.76,
+            "Macerano"
+        ],
+        "540": [
+            1303.76,
+            1304.76,
+            "for Sergi Roberto"
+        ],
+        "541": [
+            1306.76,
+            1307.76,
+            "Macerano again"
+        ],
+        "542": [
+            1308.76,
+            1309.76,
+            "plays Macerano"
+        ],
+        "543": [
+            1309.76,
+            1310.76,
+            "short with a"
+        ],
+        "544": [
+            1310.76,
+            1311.76,
+            "Teriz"
+        ],
+        "545": [
+            1311.76,
+            1312.76,
+            "touch back"
+        ],
+        "546": [
+            1312.76,
+            1313.76,
+            "for a titi"
+        ],
+        "547": [
+            1313.76,
+            1314.76,
+            "this"
+        ],
+        "548": [
+            1314.76,
+            1315.76,
+            "for Rakitic"
+        ],
+        "549": [
+            1315.76,
+            1316.76,
+            "there goes Kravitz"
+        ],
+        "550": [
+            1316.76,
+            1317.76,
+            "again"
+        ],
+        "551": [
+            1317.76,
+            1318.76,
+            "playing for a titi"
+        ],
+        "552": [
+            1319.76,
+            1320.76,
+            "and again Kravitz"
+        ],
+        "553": [
+            1320.76,
+            1321.76,
+            "is getting closer"
+        ],
+        "554": [
+            1322.76,
+            1323.76,
+            "for the boarding of Luis Suárez"
+        ],
+        "555": [
+            1324.76,
+            1325.76,
+            "Saunier closes"
+        ],
+        "556": [
+            1326.76,
+            1327.76,
+            "stops before"
+        ],
+        "557": [
+            1327.76,
+            1328.76,
+            "deliver a corner"
+        ],
+        "558": [
+            1328.76,
+            1329.76,
+            "he takes it out on the side"
+        ],
+        "559": [
+            1329.76,
+            1330.76,
+            "will take out"
+        ],
+        "560": [
+            1330.76,
+            1331.76,
+            "from the side"
+        ],
+        "561": [
+            1331.76,
+            1332.76,
+            "the Barcelona"
+        ],
+        "562": [
+            1334.76,
+            1335.76,
+            "André Gómez prepares"
+        ],
+        "563": [
+            1335.76,
+            1336.76,
+            "to enter"
+        ],
+        "564": [
+            1336.76,
+            1337.76,
+            "it will happen soon"
+        ],
+        "565": [
+            1337.76,
+            1338.76,
+            "that relay"
+        ],
+        "566": [
+            1338.76,
+            1339.76,
+            "we'll see"
+        ],
+        "567": [
+            1339.76,
+            1340.76,
+            "if it is Denis Suárez"
+        ],
+        "568": [
+            1340.76,
+            1341.76,
+            "the man who comes out"
+        ],
+        "569": [
+            1341.76,
+            1342.76,
+            "of course than"
+        ],
+        "570": [
+            1342.76,
+            1343.76,
+            "is in the midfield"
+        ],
+        "571": [
+            1343.76,
+            1344.76,
+            "is the one that is worst"
+        ],
+        "572": [
+            1344.76,
+            1345.76,
+            "Rafinha is not that he is"
+        ],
+        "573": [
+            1345.76,
+            1346.76,
+            "doing a lot"
+        ],
+        "574": [
+            1346.76,
+            1347.76,
+            "But at least"
+        ],
+        "575": [
+            1347.76,
+            1348.76,
+            "he scored the goal"
+        ],
+        "576": [
+            1348.76,
+            1349.76,
+            "play the ball"
+        ],
+        "577": [
+            1349.76,
+            1350.76,
+            "Neymar"
+        ],
+        "578": [
+            1350.76,
+            1351.76,
+            "Neymar starts"
+        ],
+        "579": [
+            1351.96,
+            1352.96,
+            "and goes to Diñé"
+        ],
+        "580": [
+            1352.96,
+            1353.96,
+            "that was already stopped"
+        ],
+        "581": [
+            1353.96,
+            1354.96,
+            "in a position"
+        ],
+        "582": [
+            1354.96,
+            1355.96,
+            "not very comfortable"
+        ],
+        "583": [
+            1355.96,
+            1356.96,
+            "for the side"
+        ],
+        "584": [
+            1356.96,
+            1357.96,
+            "that when it arrives"
+        ],
+        "585": [
+            1357.96,
+            1358.96,
+            "in speed"
+        ],
+        "586": [
+            1358.96,
+            1359.96,
+            "obviously has"
+        ],
+        "587": [
+            1359.96,
+            1360.96,
+            "resources"
+        ],
+        "588": [
+            1360.96,
+            1361.96,
+            "but already stopped"
+        ],
+        "589": [
+            1361.96,
+            1362.96,
+            "and on your back"
+        ],
+        "590": [
+            1362.96,
+            1363.96,
+            "it's more complicated"
+        ],
+        "591": [
+            1363.96,
+            1364.96,
+            "throw-in"
+        ],
+        "592": [
+            1364.96,
+            1365.96,
+            "for Granada"
+        ],
+        "593": [
+            1367.96,
+            1368.96,
+            "mamma mia"
+        ],
+        "594": [
+            1369.96,
+            1370.96,
+            "we have already seen"
+        ],
+        "595": [
+            1370.96,
+            1371.96,
+            "a meaningless lack"
+        ],
+        "596": [
+            1371.96,
+            1372.96,
+            "in the first half"
+        ],
+        "597": [
+            1372.96,
+            1373.96,
+            "already a throw-in"
+        ],
+        "598": [
+            1373.96,
+            1374.96,
+            "this is new"
+        ],
+        "599": [
+            1376.96,
+            1377.96,
+            "to join"
+        ],
+        "600": [
+            1377.96,
+            1378.96,
+            "to the anthology"
+        ],
+        "601": [
+            1378.96,
+            1379.96,
+            "of nonsense"
+        ],
+        "602": [
+            1379.96,
+            1380.96,
+            "football"
+        ],
+        "603": [
+            1381.96,
+            1382.96,
+            "ball for which"
+        ],
+        "604": [
+            1382.96,
+            1383.96,
+            "Barcelona"
+        ],
+        "605": [
+            1383.96,
+            1384.96,
+            "is already holding"
+        ],
+        "606": [
+            1384.96,
+            1385.96,
+            "Rafinha"
+        ],
+        "607": [
+            1385.96,
+            1386.96,
+            "Uche's entrance"
+        ],
+        "608": [
+            1387.96,
+            1388.96,
+            "plays Mascherano"
+        ],
+        "609": [
+            1388.96,
+            1389.96,
+            "comes with speed"
+        ],
+        "610": [
+            1389.96,
+            1390.96,
+            "to the wall"
+        ],
+        "611": [
+            1390.96,
+            1391.96,
+            "there it is unleashed"
+        ],
+        "612": [
+            1391.96,
+            1392.96,
+            "Leo Messi"
+        ],
+        "613": [
+            1392.96,
+            1393.96,
+            "has had no effect"
+        ],
+        "614": [
+            1394.96,
+            1395.96,
+            "Uche stopped him"
+        ],
+        "615": [
+            1395.96,
+            1396.96,
+            "also Kravitz"
+        ],
+        "616": [
+            1396.96,
+            1397.96,
+            "there the clue"
+        ],
+        "617": [
+            1397.96,
+            1398.96,
+            "Kravitz gets to play"
+        ],
+        "618": [
+            1398.96,
+            1399.96,
+            "steals the ball"
+        ],
+        "619": [
+            1399.96,
+            1400.96,
+            "to Leo Messi"
+        ],
+        "620": [
+            1400.96,
+            1401.96,
+            "who gets angry with himself"
+        ],
+        "621": [
+            1401.96,
+            1402.96,
+            "the ball for Uche"
+        ],
+        "622": [
+            1402.96,
+            1403.96,
+            "for wedding"
+        ],
+        "623": [
+            1403.96,
+            1404.96,
+            "tried"
+        ],
+        "624": [
+            1404.96,
+            1405.96,
+            "play up to Boga"
+        ],
+        "625": [
+            1405.96,
+            1406.96,
+            "but did not progress"
+        ],
+        "626": [
+            1406.96,
+            1407.96,
+            "that play"
+        ],
+        "627": [
+            1407.96,
+            1408.96,
+            "now a good ball"
+        ],
+        "628": [
+            1408.96,
+            1409.96,
+            "what Denis steals"
+        ],
+        "629": [
+            1409.96,
+            1410.96,
+            "the goal rushes"
+        ],
+        "630": [
+            1411.16,
+            1412.16,
+            "not a single one comes out"
+        ],
+        "631": [
+            1412.16,
+            1413.16,
+            "Denis Suarez"
+        ],
+        "632": [
+            1413.16,
+            1414.16,
+            "today"
+        ],
+        "633": [
+            1414.16,
+            1415.16,
+            "let a marmoset fly"
+        ],
+        "634": [
+            1415.16,
+            1416.16,
+            "for Ter Stegen to play"
+        ],
+        "635": [
+            1417.16,
+            1418.16,
+            "the only one that accelerates"
+        ],
+        "636": [
+            1418.16,
+            1419.16,
+            "the game a little"
+        ],
+        "637": [
+            1419.16,
+            1420.16,
+            "when it appears"
+        ],
+        "638": [
+            1420.16,
+            1421.16,
+            "It's Messi"
+        ],
+        "639": [
+            1421.16,
+            1422.16,
+            "It's the only thing we see"
+        ],
+        "640": [
+            1422.16,
+            1423.16,
+            "a little to put another speed"
+        ],
+        "641": [
+            1423.16,
+            1424.16,
+            "and it appears little"
+        ],
+        "642": [
+            1424.16,
+            1425.16,
+            "one of the appearances"
+        ],
+        "643": [
+            1425.16,
+            1426.16,
+            "it was the goal"
+        ],
+        "644": [
+            1426.16,
+            1427.16,
+            "but constantly"
+        ],
+        "645": [
+            1427.16,
+            1428.16,
+            "every time you receive it"
+        ],
+        "646": [
+            1428.16,
+            1429.16,
+            "Sergio Roberto"
+        ],
+        "647": [
+            1429.16,
+            1430.16,
+            "like now"
+        ],
+        "648": [
+            1430.16,
+            1431.16,
+            "it never fails"
+        ],
+        "649": [
+            1431.16,
+            1432.16,
+            "your contribution"
+        ],
+        "650": [
+            1432.16,
+            1433.16,
+            "to this 1-0"
+        ],
+        "651": [
+            1433.16,
+            1434.16,
+            "momentary now"
+        ],
+        "652": [
+            1434.16,
+            1435.16,
+            "it has been fantastic"
+        ],
+        "653": [
+            1436.16,
+            1437.16,
+            "the ball for Denis Suárez"
+        ],
+        "654": [
+            1437.16,
+            1438.16,
+            "plays Denis Suárez"
+        ],
+        "655": [
+            1438.16,
+            1439.16,
+            "about Mascherano"
+        ],
+        "656": [
+            1439.16,
+            1440.16,
+            "Mascherano"
+        ],
+        "657": [
+            1440.3600000000001,
+            1441.3600000000001,
+            "with temptation"
+        ],
+        "658": [
+            1441.3600000000001,
+            1442.3600000000001,
+            "also"
+        ],
+        "659": [
+            1442.3600000000001,
+            1443.3600000000001,
+            "that Granada"
+        ],
+        "660": [
+            1443.3600000000001,
+            1444.3600000000001,
+            "it comes a little higher"
+        ],
+        "661": [
+            1444.3600000000001,
+            1445.3600000000001,
+            "let them look for him"
+        ],
+        "662": [
+            1445.3600000000001,
+            1446.3600000000001,
+            "and create space"
+        ],
+        "663": [
+            1446.3600000000001,
+            1447.3600000000001,
+            "about that exit"
+        ],
+        "664": [
+            1448.3600000000001,
+            1449.3600000000001,
+            "the ball is for"
+        ],
+        "665": [
+            1449.3600000000001,
+            1450.3600000000001,
+            "Rakitic"
+        ],
+        "666": [
+            1451.3600000000001,
+            1452.3600000000001,
+            "touch"
+        ],
+        "667": [
+            1452.3600000000001,
+            1453.3600000000001,
+            "Rafinha"
+        ],
+        "668": [
+            1453.3600000000001,
+            1454.3600000000001,
+            "a marmoset"
+        ],
+        "669": [
+            1455.3600000000001,
+            1456.3600000000001,
+            "past Ecuador"
+        ],
+        "670": [
+            1456.3600000000001,
+            1457.3600000000001,
+            "of the second half"
+        ],
+        "671": [
+            1457.3600000000001,
+            1458.3600000000001,
+            "still worth it"
+        ],
+        "672": [
+            1458.3600000000001,
+            1459.3600000000001,
+            "The goal"
+        ],
+        "673": [
+            1459.3600000000001,
+            1460.3600000000001,
+            "and what value does it have"
+        ],
+        "674": [
+            1460.3600000000001,
+            1461.3600000000001,
+            "the goal of"
+        ],
+        "675": [
+            1461.3600000000001,
+            1462.3600000000001,
+            "Rafinha"
+        ],
+        "676": [
+            1462.3600000000001,
+            1463.3600000000001,
+            "that at the moment"
+        ],
+        "677": [
+            1463.3600000000001,
+            1464.3600000000001,
+            "gives the three points"
+        ],
+        "678": [
+            1464.3600000000001,
+            1465.3600000000001,
+            "To Barcelona"
+        ],
+        "679": [
+            1465.3600000000001,
+            1466.3600000000001,
+            "on this day"
+        ],
+        "680": [
+            1466.3600000000001,
+            1467.3600000000001,
+            "in which Madrid"
+        ],
+        "681": [
+            1467.3600000000001,
+            1468.3600000000001,
+            "has scored"
+        ],
+        "682": [
+            1468.3600000000001,
+            1469.3600000000001,
+            "and Atlético de Madrid"
+        ],
+        "683": [
+            1469.56,
+            1470.56,
+            "has had a tie"
+        ],
+        "684": [
+            1470.56,
+            1471.56,
+            "In sevilla"
+        ],
+        "685": [
+            1471.56,
+            1472.56,
+            "among those who were"
+        ],
+        "686": [
+            1472.56,
+            1473.56,
+            "higher"
+        ],
+        "687": [
+            1473.56,
+            1474.56,
+            "and the royal"
+        ],
+        "688": [
+            1474.56,
+            1475.56,
+            "hasn't played yet"
+        ],
+        "689": [
+            1475.56,
+            1476.56,
+            "the ball"
+        ],
+        "690": [
+            1476.56,
+            1477.56,
+            "is for"
+        ],
+        "691": [
+            1477.56,
+            1478.56,
+            "the Granada"
+        ],
+        "692": [
+            1478.56,
+            1479.56,
+            "who wants to get out quickly"
+        ],
+        "693": [
+            1479.56,
+            1480.56,
+            "trying to surprise"
+        ],
+        "694": [
+            1480.56,
+            1481.56,
+            "has cut off head"
+        ],
+        "695": [
+            1481.56,
+            1482.56,
+            "Rakitic"
+        ],
+        "696": [
+            1482.56,
+            1483.56,
+            "touch"
+        ],
+        "697": [
+            1483.56,
+            1484.56,
+            "a marmoset"
+        ],
+        "698": [
+            1484.56,
+            1485.56,
+            "Denis Suarez"
+        ],
+        "699": [
+            1486.56,
+            1487.56,
+            "Denis Suarez"
+        ],
+        "700": [
+            1487.56,
+            1488.56,
+            "that opens the ball"
+        ],
+        "701": [
+            1488.56,
+            1489.56,
+            "towards the band"
+        ],
+        "702": [
+            1489.56,
+            1490.56,
+            "for Sergio Roberto"
+        ],
+        "703": [
+            1490.56,
+            1491.56,
+            "touch inside"
+        ],
+        "704": [
+            1491.56,
+            1492.56,
+            "about Leo Messi"
+        ],
+        "705": [
+            1493.56,
+            1494.56,
+            "ball for Javier Mascherano"
+        ],
+        "706": [
+            1495.56,
+            1496.56,
+            "Mascherano"
+        ],
+        "707": [
+            1496.56,
+            1497.56,
+            "a marmoset"
+        ],
+        "708": [
+            1497.56,
+            1498.56,
+            "wait André Gómez"
+        ],
+        "709": [
+            1498.76,
+            1499.76,
+            "what comes into play"
+        ],
+        "710": [
+            1499.76,
+            1500.76,
+            "as for the game"
+        ],
+        "711": [
+            1500.76,
+            1501.76,
+            "stop"
+        ],
+        "712": [
+            1501.76,
+            1502.76,
+            "but the play is long"
+        ],
+        "713": [
+            1502.76,
+            1503.76,
+            "continue being"
+        ],
+        "714": [
+            1503.76,
+            1504.76,
+            "Barcelona possession"
+        ],
+        "715": [
+            1504.76,
+            1505.76,
+            "now yes"
+        ],
+        "716": [
+            1505.76,
+            1506.76,
+            "Boga touched the ball"
+        ],
+        "717": [
+            1506.76,
+            1507.76,
+            "and the throw-in"
+        ],
+        "718": [
+            1507.76,
+            1508.76,
+            "it will produce"
+        ],
+        "719": [
+            1508.76,
+            1509.76,
+            "The relay"
+        ],
+        "720": [
+            1509.76,
+            1510.76,
+            "in the ranks of Barça"
+        ],
+        "721": [
+            1510.76,
+            1511.76,
+            "It's the first change"
+        ],
+        "722": [
+            1511.76,
+            1512.76,
+            "in the ranks of the team"
+        ],
+        "723": [
+            1512.76,
+            1513.76,
+            "directed by Luis Enrique"
+        ],
+        "724": [
+            1513.76,
+            1514.76,
+            "is going to leave"
+        ],
+        "725": [
+            1514.76,
+            1515.76,
+            "Denis Suarez"
+        ],
+        "726": [
+            1515.76,
+            1516.76,
+            "of the playing field"
+        ],
+        "727": [
+            1516.76,
+            1517.76,
+            "is going to enter"
+        ],
+        "728": [
+            1517.76,
+            1518.76,
+            "Andre Gomez"
+        ],
+        "729": [
+            1518.76,
+            1519.76,
+            "instead"
+        ],
+        "730": [
+            1519.76,
+            1520.76,
+            "it was clear there"
+        ],
+        "731": [
+            1520.76,
+            1521.76,
+            "the motion for Denis Suárez"
+        ],
+        "732": [
+            1521.76,
+            1522.76,
+            "and let's see"
+        ],
+        "733": [
+            1522.76,
+            1523.76,
+            "how they are relocated"
+        ],
+        "734": [
+            1523.76,
+            1524.76,
+            "because in this second part"
+        ],
+        "735": [
+            1524.76,
+            1525.76,
+            "We have seen"
+        ],
+        "736": [
+            1525.76,
+            1526.76,
+            "how practically"
+        ],
+        "737": [
+            1526.76,
+            1527.76,
+            "Ivan Rakitic"
+        ],
+        "738": [
+            1527.96,
+            1528.96,
+            "has been put in half"
+        ],
+        "739": [
+            1528.96,
+            1529.96,
+            "when Barcelona"
+        ],
+        "740": [
+            1529.96,
+            1530.96,
+            "had the ball"
+        ],
+        "741": [
+            1530.96,
+            1531.96,
+            "to leave more depth"
+        ],
+        "742": [
+            1531.96,
+            1532.96,
+            "and more breadth"
+        ],
+        "743": [
+            1532.96,
+            1533.96,
+            "to the sides"
+        ],
+        "744": [
+            1533.96,
+            1534.96,
+            "to Sergio Roberto Adiñé"
+        ],
+        "745": [
+            1534.96,
+            1535.96,
+            "Let's see where it is placed"
+        ],
+        "746": [
+            1535.96,
+            1536.96,
+            "now André Gómez"
+        ],
+        "747": [
+            1536.96,
+            1537.96,
+            "Let's see where it is placed"
+        ],
+        "748": [
+            1537.96,
+            1538.96,
+            "Ivan Rakitic"
+        ],
+        "749": [
+            1538.96,
+            1539.96,
+            "and also prepares"
+        ],
+        "750": [
+            1539.96,
+            1540.96,
+            "change"
+        ],
+        "751": [
+            1540.96,
+            1541.96,
+            "in the ranks of Granada"
+        ],
+        "752": [
+            1541.96,
+            1542.96,
+            "David Barral is going to enter"
+        ],
+        "753": [
+            1542.96,
+            1543.96,
+            "well yes"
+        ],
+        "754": [
+            1543.96,
+            1544.96,
+            "the change"
+        ],
+        "755": [
+            1544.96,
+            1545.96,
+            "André Gómez enters"
+        ],
+        "756": [
+            1545.96,
+            1546.96,
+            "leaves the field"
+        ],
+        "757": [
+            1546.96,
+            1547.96,
+            "game Denis Suárez"
+        ],
+        "758": [
+            1547.96,
+            1548.96,
+            "and Barral is going to enter"
+        ],
+        "759": [
+            1548.96,
+            1549.96,
+            "we'll see"
+        ],
+        "760": [
+            1549.96,
+            1550.96,
+            "I guess because of Kravets"
+        ],
+        "761": [
+            1550.96,
+            1551.96,
+            "No?"
+        ],
+        "762": [
+            1551.96,
+            1552.96,
+            "because of course"
+        ],
+        "763": [
+            1552.96,
+            1553.96,
+            "Kravets"
+        ],
+        "764": [
+            1553.96,
+            1554.96,
+            "clear"
+        ],
+        "765": [
+            1554.96,
+            1555.96,
+            "front by front"
+        ],
+        "766": [
+            1555.96,
+            1556.96,
+            "at least"
+        ],
+        "767": [
+            1557.16,
+            1558.16,
+            "you need two things"
+        ],
+        "768": [
+            1558.16,
+            1559.16,
+            "needs"
+        ],
+        "769": [
+            1559.16,
+            1560.16,
+            "an ovation"
+        ],
+        "770": [
+            1560.16,
+            1561.16,
+            "what if I were"
+        ],
+        "771": [
+            1561.16,
+            1562.16,
+            "Granada teammate"
+        ],
+        "772": [
+            1562.16,
+            1563.16,
+            "I would give it to him"
+        ],
+        "773": [
+            1563.16,
+            1564.16,
+            "has run a lot"
+        ],
+        "774": [
+            1564.16,
+            1565.16,
+            "no no"
+        ],
+        "775": [
+            1565.16,
+            1566.16,
+            "and an oxygen bottle"
+        ],
+        "776": [
+            1566.16,
+            1567.16,
+            "very much"
+        ],
+        "777": [
+            1567.16,
+            1568.16,
+            "yes indeed"
+        ],
+        "778": [
+            1568.16,
+            1569.16,
+            "with little participation"
+        ],
+        "779": [
+            1569.16,
+            1570.16,
+            "with the ball"
+        ],
+        "780": [
+            1570.16,
+            1571.16,
+            "Kravets leaves"
+        ],
+        "781": [
+            1571.16,
+            1572.16,
+            "exhausted"
+        ],
+        "782": [
+            1572.16,
+            1573.16,
+            "we imagine later"
+        ],
+        "783": [
+            1573.16,
+            1574.16,
+            "of everything that has run"
+        ],
+        "784": [
+            1574.16,
+            1575.16,
+            "at the match"
+        ],
+        "785": [
+            1575.16,
+            1576.16,
+            "congratulates him"
+        ],
+        "786": [
+            1576.16,
+            1577.16,
+            "Lucas Alcaraz"
+        ],
+        "787": [
+            1577.16,
+            1578.16,
+            "of course"
+        ],
+        "788": [
+            1578.16,
+            1579.16,
+            "David Barral enters"
+        ],
+        "789": [
+            1579.16,
+            1580.16,
+            "and Rakitic"
+        ],
+        "790": [
+            1580.16,
+            1581.16,
+            "will not change position"
+        ],
+        "791": [
+            1581.16,
+            1582.16,
+            "stays where he was"
+        ],
+        "792": [
+            1582.16,
+            1583.16,
+            "and it's André Gómez"
+        ],
+        "793": [
+            1583.16,
+            1584.16,
+            "who is going to play indoors"
+        ],
+        "794": [
+            1584.16,
+            1585.16,
+            "It has been touching"
+        ],
+        "795": [
+            1585.16,
+            1586.16,
+            "Kravets' effort"
+        ],
+        "796": [
+            1586.3600000000001,
+            1587.3600000000001,
+            "what I think the game has done"
+        ],
+        "797": [
+            1587.3600000000001,
+            1588.3600000000001,
+            "in the position he had"
+        ],
+        "798": [
+            1588.3600000000001,
+            1589.3600000000001,
+            "what he asked his coach"
+        ],
+        "799": [
+            1589.3600000000001,
+            1590.3600000000001,
+            "and that he asked for the meeting"
+        ],
+        "800": [
+            1590.3600000000001,
+            1591.3600000000001,
+            "because Granada"
+        ],
+        "801": [
+            1591.3600000000001,
+            1592.3600000000001,
+            "has not had opportunities"
+        ],
+        "802": [
+            1592.3600000000001,
+            1593.3600000000001,
+            "couldn't do much more"
+        ],
+        "803": [
+            1593.3600000000001,
+            1594.3600000000001,
+            "and what he has done"
+        ],
+        "804": [
+            1594.3600000000001,
+            1595.3600000000001,
+            "has been sticking"
+        ],
+        "805": [
+            1595.3600000000001,
+            1596.3600000000001,
+            "a huge beating"
+        ],
+        "806": [
+            1596.3600000000001,
+            1597.3600000000001,
+            "severally"
+        ],
+        "807": [
+            1597.3600000000001,
+            1598.3600000000001,
+            "with his partners"
+        ],
+        "808": [
+            1598.3600000000001,
+            1599.3600000000001,
+            "the ball is for a marmoset"
+        ],
+        "809": [
+            1599.3600000000001,
+            1600.3600000000001,
+            "attention there"
+        ],
+        "810": [
+            1600.3600000000001,
+            1601.3600000000001,
+            "to the referee who participates"
+        ],
+        "811": [
+            1601.3600000000001,
+            1602.3600000000001,
+            "touch the ball"
+        ],
+        "812": [
+            1602.3600000000001,
+            1603.3600000000001,
+            "what a bad touch"
+        ],
+        "813": [
+            1603.3600000000001,
+            1604.3600000000001,
+            "has the referee"
+        ],
+        "814": [
+            1604.3600000000001,
+            1605.3600000000001,
+            "this one has it a little better"
+        ],
+        "815": [
+            1605.3600000000001,
+            1606.3600000000001,
+            "Neymar"
+        ],
+        "816": [
+            1606.3600000000001,
+            1607.3600000000001,
+            "looking up Rafinha"
+        ],
+        "817": [
+            1607.3600000000001,
+            1608.3600000000001,
+            "Ruben Beto"
+        ],
+        "818": [
+            1608.3600000000001,
+            1609.3600000000001,
+            "but this is not jumping"
+        ],
+        "819": [
+            1609.3600000000001,
+            1610.3600000000001,
+            "on top of the opponent"
+        ],
+        "820": [
+            1610.3600000000001,
+            1611.3600000000001,
+            "Well"
+        ],
+        "821": [
+            1611.3600000000001,
+            1612.3600000000001,
+            "But is that"
+        ],
+        "822": [
+            1612.3600000000001,
+            1613.3600000000001,
+            "it's a match"
+        ],
+        "823": [
+            1613.3600000000001,
+            1614.3600000000001,
+            "It is not possible"
+        ],
+        "824": [
+            1614.3600000000001,
+            1615.3600000000001,
+            "do"
+        ],
+        "825": [
+            1615.56,
+            1616.56,
+            "and it is not necessary"
+        ],
+        "826": [
+            1616.56,
+            1617.56,
+            "Well"
+        ],
+        "827": [
+            1617.56,
+            1618.56,
+            "apply the moisturizer"
+        ],
+        "828": [
+            1618.56,
+            1619.56,
+            "there it goes"
+        ],
+        "829": [
+            1619.56,
+            1620.56,
+            "uuuh"
+        ],
+        "830": [
+            1620.56,
+            1621.56,
+            "the entrance"
+        ],
+        "831": [
+            1621.56,
+            1622.56,
+            "huge Toral"
+        ],
+        "832": [
+            1622.56,
+            1623.56,
+            "John Toral"
+        ],
+        "833": [
+            1623.56,
+            1624.56,
+            "Yellow Cardboard"
+        ],
+        "834": [
+            1624.56,
+            1625.56,
+            "that entry"
+        ],
+        "835": [
+            1625.56,
+            1626.56,
+            "very clear lack"
+        ],
+        "836": [
+            1626.56,
+            1627.56,
+            "about Neymar"
+        ],
+        "837": [
+            1627.56,
+            1628.56,
+            "I think I read"
+        ],
+        "838": [
+            1628.56,
+            1629.56,
+            "some statements"
+        ],
+        "839": [
+            1629.56,
+            1630.56,
+            "from Neymar's father"
+        ],
+        "840": [
+            1630.56,
+            1631.56,
+            "saying that"
+        ],
+        "841": [
+            1631.56,
+            1632.56,
+            "Neymar who accepts"
+        ],
+        "842": [
+            1632.56,
+            1633.56,
+            "Toral entrance"
+        ],
+        "843": [
+            1633.56,
+            1634.56,
+            "I say that"
+        ],
+        "844": [
+            1634.56,
+            1635.56,
+            "saying that he is very used to it"
+        ],
+        "845": [
+            1635.56,
+            1636.56,
+            "obviously Neymar"
+        ],
+        "846": [
+            1636.56,
+            1637.56,
+            "to get hit"
+        ],
+        "847": [
+            1637.56,
+            1638.56,
+            "and it is very light"
+        ],
+        "848": [
+            1638.56,
+            1639.56,
+            "And he is absolutely right"
+        ],
+        "849": [
+            1639.56,
+            1640.56,
+            "there"
+        ],
+        "850": [
+            1640.56,
+            1641.56,
+            "jump before it reaches you"
+        ],
+        "851": [
+            1641.56,
+            1642.56,
+            "the contact"
+        ],
+        "852": [
+            1642.56,
+            1643.56,
+            "but"
+        ],
+        "853": [
+            1643.56,
+            1644.56,
+            "knows it's coming"
+        ],
+        "854": [
+            1644.76,
+            1645.76,
+            "it's less bad"
+        ],
+        "855": [
+            1645.76,
+            1646.76,
+            "goodness"
+        ],
+        "856": [
+            1646.76,
+            1647.76,
+            "that is to say that"
+        ],
+        "857": [
+            1647.76,
+            1648.76,
+            "many people will say"
+        ],
+        "858": [
+            1648.76,
+            1649.76,
+            "is not throwing"
+        ],
+        "859": [
+            1649.76,
+            1650.76,
+            "yes he is throwing"
+        ],
+        "860": [
+            1650.76,
+            1651.76,
+            "because if he stays standing"
+        ],
+        "861": [
+            1651.76,
+            1652.76,
+            "has"
+        ],
+        "862": [
+            1652.76,
+            1653.76,
+            "knee"
+        ],
+        "863": [
+            1653.76,
+            1654.76,
+            "with problems"
+        ],
+        "864": [
+            1654.76,
+            1655.76,
+            "It is an evasive action"
+        ],
+        "865": [
+            1655.76,
+            1656.76,
+            "is not looking for a trap"
+        ],
+        "866": [
+            1656.76,
+            1657.76,
+            "No"
+        ],
+        "867": [
+            1657.76,
+            1658.76,
+            "is that simply"
+        ],
+        "868": [
+            1658.76,
+            1659.76,
+            "want to play"
+        ],
+        "869": [
+            1659.76,
+            1660.76,
+            "but here it comes"
+        ],
+        "870": [
+            1660.76,
+            1661.76,
+            "extremely light"
+        ],
+        "871": [
+            1661.76,
+            1662.76,
+            "Neymar"
+        ],
+        "872": [
+            1662.76,
+            1663.76,
+            "and that suits him well"
+        ],
+        "873": [
+            1663.76,
+            1664.76,
+            "for the hits"
+        ],
+        "874": [
+            1664.76,
+            1665.76,
+            "there it goes"
+        ],
+        "875": [
+            1665.76,
+            1666.76,
+            "with the ball Neymar"
+        ],
+        "876": [
+            1666.76,
+            1667.76,
+            "that tries to reach"
+        ],
+        "877": [
+            1667.76,
+            1668.76,
+            "aaaah"
+        ],
+        "878": [
+            1668.76,
+            1669.76,
+            "did not arrive"
+        ],
+        "879": [
+            1669.76,
+            1670.76,
+            "doesn't give even one"
+        ],
+        "880": [
+            1670.76,
+            1671.76,
+            "no no"
+        ],
+        "881": [
+            1671.76,
+            1672.76,
+            "it's really bad"
+        ],
+        "882": [
+            1672.76,
+            1673.76,
+            "yes that ball"
+        ],
+        "883": [
+            1673.96,
+            1674.96,
+            "I do not let it"
+        ],
+        "884": [
+            1674.96,
+            1675.96,
+            "for"
+        ],
+        "885": [
+            1675.96,
+            1676.96,
+            "for"
+        ],
+        "886": [
+            1676.96,
+            1677.96,
+            "Neymar"
+        ],
+        "887": [
+            1677.96,
+            1678.96,
+            "Blom"
+        ],
+        "888": [
+            1678.96,
+            1679.96,
+            "wet field"
+        ],
+        "889": [
+            1679.96,
+            1680.96,
+            "it's not"
+        ],
+        "890": [
+            1680.96,
+            1681.96,
+            "the thing is"
+        ],
+        "891": [
+            1681.96,
+            1682.96,
+            "it's in your head"
+        ],
+        "892": [
+            1682.96,
+            1683.96,
+            "Blom goes to him"
+        ],
+        "893": [
+            1683.96,
+            1684.96,
+            "and let it go"
+        ],
+        "894": [
+            1684.96,
+            1685.96,
+            "for Neymar"
+        ],
+        "895": [
+            1685.96,
+            1686.96,
+            "very difficult to reach"
+        ],
+        "896": [
+            1686.96,
+            1687.96,
+            "the field is wet"
+        ],
+        "897": [
+            1687.96,
+            1688.96,
+            "boot"
+        ],
+        "898": [
+            1688.96,
+            1689.96,
+            "and he is spit"
+        ],
+        "899": [
+            1689.96,
+            1690.96,
+            "Cayuche"
+        ],
+        "900": [
+            1690.96,
+            1691.96,
+            "lack of Rakitic"
+        ],
+        "901": [
+            1691.96,
+            1692.96,
+            "No"
+        ],
+        "902": [
+            1692.96,
+            1693.96,
+            "says the referee"
+        ],
+        "903": [
+            1693.96,
+            1694.96,
+            "throw in"
+        ],
+        "904": [
+            1694.96,
+            1695.96,
+            "favorable to Barcelona"
+        ],
+        "905": [
+            1695.96,
+            1696.96,
+            "aaaah"
+        ],
+        "906": [
+            1696.96,
+            1697.96,
+            "goal"
+        ],
+        "907": [
+            1697.96,
+            1698.96,
+            "throw out"
+        ],
+        "908": [
+            1698.96,
+            1699.96,
+            "The goal"
+        ],
+        "909": [
+            1699.96,
+            1700.96,
+            "and the goal"
+        ],
+        "910": [
+            1700.96,
+            1701.96,
+            "and the goal"
+        ],
+        "911": [
+            1701.96,
+            1702.96,
+            "and the goal"
+        ],
+        "912": [
+            1703.16,
+            1704.16,
+            "goal already scored"
+        ],
+        "913": [
+            1704.16,
+            1705.16,
+            "Said"
+        ],
+        "914": [
+            1705.16,
+            1707.16,
+            "Rafinha plays"
+        ],
+        "915": [
+            1709.16,
+            1710.16,
+            "play"
+        ],
+        "916": [
+            1710.16,
+            1711.16,
+            "Mascherano"
+        ],
+        "917": [
+            1711.16,
+            1712.16,
+            "Mascherano"
+        ],
+        "918": [
+            1712.16,
+            1713.16,
+            "toward"
+        ],
+        "919": [
+            1713.16,
+            1714.16,
+            "Sergi Roberto"
+        ],
+        "920": [
+            1714.16,
+            1715.16,
+            "will be sighing"
+        ],
+        "921": [
+            1715.16,
+            1716.16,
+            "Luis Enrique"
+        ],
+        "922": [
+            1716.16,
+            1717.16,
+            "for a second goal"
+        ],
+        "923": [
+            1717.16,
+            1718.16,
+            "because with everything dominated"
+        ],
+        "924": [
+            1718.16,
+            1719.16,
+            "What does the party have?"
+        ],
+        "925": [
+            1719.16,
+            1720.16,
+            "From Barcelona"
+        ],
+        "926": [
+            1720.16,
+            1721.16,
+            "I could fall into temptation"
+        ],
+        "927": [
+            1721.16,
+            1722.16,
+            "sometimes"
+        ],
+        "928": [
+            1722.16,
+            1723.16,
+            "of"
+        ],
+        "929": [
+            1723.16,
+            1724.16,
+            "think that the pomegranate"
+        ],
+        "930": [
+            1724.16,
+            1725.16,
+            "can't hurt him"
+        ],
+        "931": [
+            1725.16,
+            1726.16,
+            "somehow"
+        ],
+        "932": [
+            1726.16,
+            1727.16,
+            "and"
+        ],
+        "933": [
+            1727.16,
+            1728.16,
+            "and so?"
+        ],
+        "934": [
+            1728.16,
+            1729.16,
+            "could be a mistake"
+        ],
+        "935": [
+            1729.16,
+            1730.16,
+            "plays Rakitic"
+        ],
+        "936": [
+            1730.16,
+            1731.16,
+            "headshot"
+        ],
+        "937": [
+            1731.3600000000001,
+            1732.3600000000001,
+            "on the side"
+        ],
+        "938": [
+            1732.3600000000001,
+            1733.3600000000001,
+            "Sergi Roberto"
+        ],
+        "939": [
+            1733.3600000000001,
+            1734.3600000000001,
+            "the ball for a marmoset"
+        ],
+        "940": [
+            1734.3600000000001,
+            1735.3600000000001,
+            "and goes on top of the bar"
+        ],
+        "941": [
+            1735.3600000000001,
+            1736.3600000000001,
+            "Mascherano has played"
+        ],
+        "942": [
+            1736.3600000000001,
+            1737.3600000000001,
+            "delivery for Rakitic"
+        ],
+        "943": [
+            1737.3600000000001,
+            1738.3600000000001,
+            "Rakitic"
+        ],
+        "944": [
+            1738.3600000000001,
+            1739.3600000000001,
+            "towards the left wing"
+        ],
+        "945": [
+            1739.3600000000001,
+            1740.3600000000001,
+            "with Neymar"
+        ],
+        "946": [
+            1740.3600000000001,
+            1741.3600000000001,
+            "Neymar puts inside"
+        ],
+        "947": [
+            1741.3600000000001,
+            1742.3600000000001,
+            "for Luis Suárez"
+        ],
+        "948": [
+            1742.3600000000001,
+            1743.3600000000001,
+            "Luis Suarez"
+        ],
+        "949": [
+            1743.3600000000001,
+            1744.3600000000001,
+            "closed"
+        ],
+        "950": [
+            1744.3600000000001,
+            1745.3600000000001,
+            "Luis Suarez"
+        ],
+        "951": [
+            1745.3600000000001,
+            1746.3600000000001,
+            "lombar goes well"
+        ],
+        "952": [
+            1746.3600000000001,
+            1747.3600000000001,
+            "Luis Suárez continues"
+        ],
+        "953": [
+            1747.3600000000001,
+            1748.3600000000001,
+            "makes it perfect"
+        ],
+        "954": [
+            1748.3600000000001,
+            1749.3600000000001,
+            "appears"
+        ],
+        "955": [
+            1749.3600000000001,
+            1750.3600000000001,
+            "Andre Gomez"
+        ],
+        "956": [
+            1750.3600000000001,
+            1751.3600000000001,
+            "can't finish"
+        ],
+        "957": [
+            1751.3600000000001,
+            1752.3600000000001,
+            "the play"
+        ],
+        "958": [
+            1752.3600000000001,
+            1753.3600000000001,
+            "the Barcelona"
+        ],
+        "959": [
+            1753.3600000000001,
+            1754.3600000000001,
+            "backward"
+        ],
+        "960": [
+            1754.3600000000001,
+            1755.3600000000001,
+            "Vogue"
+        ],
+        "961": [
+            1755.3600000000001,
+            1756.3600000000001,
+            "opening the space"
+        ],
+        "962": [
+            1756.3600000000001,
+            1757.3600000000001,
+            "and"
+        ],
+        "963": [
+            1757.3600000000001,
+            1758.3600000000001,
+            "and"
+        ],
+        "964": [
+            1758.3600000000001,
+            1759.3600000000001,
+            "and"
+        ],
+        "965": [
+            1759.3600000000001,
+            1760.3600000000001,
+            "and"
+        ],
+        "966": [
+            1760.56,
+            1761.56,
+            "open the whistle again"
+        ],
+        "967": [
+            1761.56,
+            1762.56,
+            "for Vogue"
+        ],
+        "968": [
+            1762.56,
+            1763.56,
+            "Boga crashes"
+        ],
+        "969": [
+            1763.56,
+            1764.56,
+            "lack"
+        ],
+        "970": [
+            1764.56,
+            1765.56,
+            "No"
+        ],
+        "971": [
+            1765.56,
+            1766.56,
+            "throw-in"
+        ],
+        "972": [
+            1766.56,
+            1767.56,
+            "for Barcelona"
+        ],
+        "973": [
+            1769.56,
+            1770.56,
+            "With the ball"
+        ],
+        "974": [
+            1770.56,
+            1771.56,
+            "Neymar"
+        ],
+        "975": [
+            1771.56,
+            1772.56,
+            "try an individual move"
+        ],
+        "976": [
+            1772.56,
+            1773.56,
+            "it doesn't come out"
+        ],
+        "977": [
+            1773.56,
+            1774.56,
+            "take the ball to the bar"
+        ],
+        "978": [
+            1774.56,
+            1775.56,
+            "delivery to barral"
+        ],
+        "979": [
+            1775.56,
+            1776.56,
+            "for Vogue"
+        ],
+        "980": [
+            1776.56,
+            1777.56,
+            "Boga that stops there"
+        ],
+        "981": [
+            1777.56,
+            1778.56,
+            "by the opposition"
+        ],
+        "982": [
+            1778.56,
+            1779.56,
+            "by Sergi Roberto"
+        ],
+        "983": [
+            1779.56,
+            1780.56,
+            "ordered to remove"
+        ],
+        "984": [
+            1780.56,
+            1781.56,
+            "what have you done"
+        ],
+        "985": [
+            1781.56,
+            1782.56,
+            "has taken the ball"
+        ],
+        "986": [
+            1782.56,
+            1783.56,
+            "because there is a partner"
+        ],
+        "987": [
+            1783.56,
+            1784.56,
+            "that has problems"
+        ],
+        "988": [
+            1784.56,
+            1785.56,
+            "Toral"
+        ],
+        "989": [
+            1785.56,
+            1786.56,
+            "Toral"
+        ],
+        "990": [
+            1786.56,
+            1787.56,
+            "what has been taken out"
+        ],
+        "991": [
+            1787.56,
+            1788.56,
+            "what has been taken out"
+        ],
+        "992": [
+            1788.56,
+            1789.56,
+            "what has been taken out"
+        ],
+        "993": [
+            1789.76,
+            1790.76,
+            "with cramp"
+        ],
+        "994": [
+            1790.76,
+            1791.76,
+            "with cramp"
+        ],
+        "995": [
+            1795.76,
+            1796.76,
+            "I was not playing"
+        ],
+        "996": [
+            1796.76,
+            1797.76,
+            "and"
+        ],
+        "997": [
+            1797.76,
+            1798.76,
+            "intense match"
+        ],
+        "998": [
+            1798.76,
+            1799.76,
+            "Yes Yes"
+        ],
+        "999": [
+            1799.76,
+            1800.76,
+            "noticeable"
+        ],
+        "1000": [
+            1800.76,
+            1801.76,
+            "it's taking a toll on me"
+        ],
+        "1001": [
+            1801.76,
+            1802.76,
+            "Without a doubt"
+        ],
+        "1002": [
+            1802.76,
+            1803.76,
+            "intense for players"
+        ],
+        "1003": [
+            1803.76,
+            1804.76,
+            "from Granada"
+        ],
+        "1004": [
+            1804.76,
+            1805.76,
+            "who have run a lot"
+        ],
+        "1005": [
+            1805.76,
+            1806.76,
+            "another that left good details"
+        ],
+        "1006": [
+            1806.76,
+            1807.76,
+            "at Barça"
+        ],
+        "1007": [
+            1807.76,
+            1808.76,
+            "it's a marmoset"
+        ],
+        "1008": [
+            1808.76,
+            1809.76,
+            "has left 3 or 4"
+        ],
+        "1009": [
+            1809.76,
+            1810.76,
+            "good details"
+        ],
+        "1010": [
+            1810.76,
+            1811.76,
+            "correct"
+        ],
+        "1011": [
+            1811.76,
+            1812.76,
+            "notice what we are talking about"
+        ],
+        "1012": [
+            1812.76,
+            1813.76,
+            "Michael"
+        ],
+        "1013": [
+            1813.76,
+            1814.76,
+            "about what"
+        ],
+        "1014": [
+            1814.76,
+            1815.76,
+            "a marmoset"
+        ],
+        "1015": [
+            1815.76,
+            1816.76,
+            "Sergi Roberto"
+        ],
+        "1016": [
+            1816.76,
+            1817.76,
+            "that means"
+        ],
+        "1017": [
+            1817.76,
+            1818.76,
+            "a little what has been"
+        ],
+        "1018": [
+            1818.76,
+            1824.08,
+            "Regarding a marmoset, I think he is the best defensive signing he has made since Piqué."
+        ],
+        "1019": [
+            1824.08,
+            1831.2,
+            "He seems like a Barça footballer to me, I really like him, he changed the ranks of Granada."
+        ],
+        "1020": [
+            1831.2,
+            1837.28,
+            "If he cannot continue, Saper will enter the grenade on the field of play and will retire."
+        ],
+        "1021": [
+            1837.28,
+            1843.48,
+            "jon toral i still remember the mess that when he debuted in barcelona we called him sáper"
+        ],
+        "1022": [
+            1843.64,
+            1852.8,
+            "and the thing was simply that we asked sáper what he wanted to be called, no, and he wanted the"
+        ],
+        "1023": [
+            1852.8,
+            1856.52,
+            "They will call him saper, we are not going to change the name of the creature, not what they called him, although he"
+        ],
+        "1024": [
+            1856.52,
+            1864.76,
+            "obviously it's called sáper but the team of beloved before and sáper has always wanted it"
+        ],
+        "1025": [
+            1864.76,
+            1870.88,
+            "They keep calling him, he is on loan from Barça in Granada and he is the center midfielder, the truth is that"
+        ],
+        "1026": [
+            1870.88,
+            1876.96,
+            "Barça does not usually use the clause of fear and that means that Sáper can play today in the game"
+        ],
+        "1027": [
+            1876.96,
+            1881.0,
+            "He has given Granada to play so that he can grow and he was not entering the last stages."
+        ],
+        "1028": [
+            1881.0,
+            1885.96,
+            "calls and it counted for paco gmx but well today he plays again now he does it with what he jumps"
+        ],
+        "1029": [
+            1885.96,
+            1889.0400000000002,
+            "In fact, they asked Enrique that Luz was thinking about the last press conference."
+        ],
+        "1030": [
+            1889.0400000000002,
+            1894.6000000000001,
+            "repescar to sáper and what he said was categorical, he said that at the moment he was not thinking about that"
+        ],
+        "1031": [
+            1895.04,
+            1901.1599999999999,
+            "option 8 to clear the fight as best you can to win the rafinha"
+        ],
+        "1032": [
+            1903.8799999999999,
+            1908.0,
+            "a magician kiss with playing long has touched the ball long up for barral barral paired"
+        ],
+        "1033": [
+            1908.0,
+            1913.9199999999998,
+            "with a marmoset there goes barral who turns around looking for company he finds it behind in uche"
+        ],
+        "1034": [
+            1915.3999999999999,
+            1920.84,
+            "uche for sáper there goes the change of orientation of captain lombard looking for the side in vogue"
+        ],
+        "1035": [
+            1920.84,
+            1925.8,
+            "that the brakes are going to confront Sergio Roberto, Gabriel Silva's help is coming, there he goes with everything, he leaves"
+        ],
+        "1036": [
+            1925.8,
+            1931.36,
+            "of two men falls, let the referee continue because the saper grenade that handles the"
+        ],
+        "1037": [
+            1931.36,
+            1936.72,
+            "ball with uche plays for uche opens uche the ball to the band for gabriel silva inside he asks for it"
+        ],
+        "1038": [
+            1936.72,
+            1945.0,
+            "boga el unmark up there is a cut of a marmoset Macerano takes it out recovers barral for the granada"
+        ],
+        "1039": [
+            1945.88,
+            1950.36,
+            "probably the play in which Granada has been handling the ball the longest in"
+        ],
+        "1040": [
+            1950.36,
+            1955.16,
+            "Barcelona field throughout the match Macerano missed a side kick for the team"
+        ],
+        "1041": [
+            1955.16,
+            1961.88,
+            "of the Barcelona football club character is forgetting to win this match or close it let's say it is and one"
+        ],
+        "1042": [
+            1961.88,
+            1969.68,
+            "zero is that it wouldn't surprise me in the least to see the carnal do or have a chance"
+        ],
+        "1043": [
+            1969.72,
+            1977.16,
+            "Granada Cuenca plays the ball again trying to go from two men and three by"
+        ],
+        "1044": [
+            1977.16,
+            1983.52,
+            "The closing corner left Diñé divided, she managed to reach Uche, she won over rickets"
+        ],
+        "1045": [
+            1983.52,
+            1989.76,
+            "He takes out the sea ball and goes from uche with power, neither sea in face nor sea also in face of Bezo"
+        ],
+        "1046": [
+            1989.76,
+            1997.0,
+            "It continues, it is going to continue and the frontal sea of ​​​​the Lombard area demolitions, you already read before that"
+        ],
+        "1047": [
+            1997.0,
+            2004.68,
+            "he could continue there as best he could, and the second yellow cardboard for lombar was impossible because"
+        ],
+        "1048": [
+            2004.68,
+            2012.24,
+            "a fantastic foul for lions and even to encourage you will know that being messed up but oh well"
+        ],
+        "1049": [
+            2012.24,
+            2020.76,
+            "He has also thrown me many great individual plays by Neymar, there is the last foul and the last"
+        ],
+        "1050": [
+            2020.76,
+            2029.64,
+            "because he suffered more in the play and has had to prepare to have minutes when hunting to"
+        ],
+        "1051": [
+            2029.64,
+            2038.44,
+            "Trying to score his first official goal in the league with Barcelona is missing Barcelona today"
+        ],
+        "1052": [
+            2038.44,
+            2044.56,
+            "which at the moment is one zero in the 34th minute of the second half, a result that a priori was"
+        ],
+        "1053": [
+            2044.56,
+            2051.12,
+            "little predictable but he is the one who scored the game, barça tries the second with this"
+        ],
+        "1054": [
+            2051.12,
+            2056.7599999999998,
+            "set piece play very good option to achieve it leo mesi neymar"
+        ],
+        "1055": [
+            2059.52,
+            2064.2,
+            "8 a he must not see anything with everything in front of him he is going to hit mesi he hits mesi against"
+        ],
+        "1056": [
+            2064.2,
+            2070.24,
+            "the barrier again the fart in the area is taken out by april silva becomes a pass for boga"
+        ],
+        "1057": [
+            2070.56,
+            2076.4799999999996,
+            "It returns to the side, not to you, the ball reaches April Silva, he plays on the side, looking for"
+        ],
+        "1058": [
+            2076.4799999999996,
+            2081.4399999999996,
+            "bar the advantage for more were or more were or the low playing short for racquet you play"
+        ],
+        "1059": [
+            2081.4399999999996,
+            2088.8399999999997,
+            "raquete is the ball for a titi a titi delivers about diñe diñe for iván raquete"
+        ],
+        "1060": [
+            2088.84,
+            2101.08,
+            "open racket for barça's sergi roberto thinking about the good citi for a while"
+        ],
+        "1061": [
+            2101.08,
+            2108.6400000000003,
+            "Not for 90 minutes in the area is Luis Suárez going to turn the ball over to"
+        ],
+        "1062": [
+            2108.6400000000003,
+            2114.84,
+            "say play say touch the ball for neymar neymar who makes a beautiful bicycle"
+        ],
+        "1063": [
+            2114.84,
+            2121.36,
+            "They step on the peak of the area, Neymar slips but recovers the vertical, he touches André Gómez"
+        ],
+        "1064": [
+            2121.36,
+            2130.04,
+            "change of andré gómez for sergi roberto opens sergi roberto la banda en cara on the Barcelona side"
+        ],
+        "1065": [
+            2133.1200000000003,
+            2141.8,
+            "with the ball more serano to serano andré gómez andré gómez for rafinha rafinha on racket"
+        ],
+        "1066": [
+            2142.8,
+            2148.92,
+            "racket opens the ball to the band comes neymar starts neymar tries to leave jail saves"
+        ],
+        "1067": [
+            2148.92,
+            2155.1600000000003,
+            "the ball in front of barral touched for racket racket looks up low the ball tries"
+        ],
+        "1068": [
+            2155.1600000000003,
+            2161.1200000000003,
+            "neymar has cut uche the barral's touch, rafinha and el cacer take it, thinking this is not known"
+        ],
+        "1069": [
+            2161.1200000000003,
+            2168.6400000000003,
+            "separates 36 minutes and has been there for a couple of minutes ready to hunt to jump onto the field"
+        ],
+        "1070": [
+            2168.64,
+            2175.24,
+            "of play but the ball is still in play touching the ball andré gómez plays on a marmoset"
+        ],
+        "1071": [
+            2175.24,
+            2184.16,
+            "plays a marmoset for javier macerano looks for the diagonal macerano towards diñe controls diñe"
+        ],
+        "1072": [
+            2184.16,
+            2190.16,
+            "who faces the Cuenca band, there he is going to play short on André Gómez andré Gómez"
+        ],
+        "1073": [
+            2190.16,
+            2194.92,
+            "in front of the prison he returns the ball to racket he looks for the diagonal for sergi"
+        ],
+        "1074": [
+            2195.48,
+            2201.52,
+            "Gabriela Silva is overwhelmed, receives the support of Javier Macerano, Macerano, who controls the front"
+        ],
+        "1075": [
+            2201.52,
+            2208.16,
+            "Sergi Sánchez went to the center, it's good, the hand is Luis Suárez's shot, he doesn't finish it"
+        ],
+        "1076": [
+            2208.16,
+            2213.56,
+            "If you believe what happens to him today, he caught the ball eight, there is obviously merit to the Cacerbero"
+        ],
+        "1077": [
+            2213.56,
+            2219.0,
+            "but above all, the ball goes right to the center of the goal, the mambo eight does not"
+        ],
+        "1078": [
+            2219.0,
+            2226.48,
+            "can avoid the ball he finishes practically to the area where it was most comfortable for eight trying"
+        ],
+        "1079": [
+            2226.48,
+            2231.64,
+            "get out of the way less is that you can't you couldn't shouts of a Uruguayan Uruguayan trying"
+        ],
+        "1080": [
+            2231.64,
+            2236.36,
+            "encourage luis suárez the truth is that he is desperate with himself but he keeps trying"
+        ],
+        "1081": [
+            2236.36,
+            2242.96,
+            "the hour is looking for the unmarking I wanted to find him neymar touched the ball the grenade kick"
+        ],
+        "1082": [
+            2243.48,
+            2247.76,
+            "paco alcácer because the ball finally comes out and he can finally enter the field of play precisely"
+        ],
+        "1083": [
+            2247.76,
+            2252.32,
+            "to relieve luis suárez who is leaving for cariaconte, he approaches the pitch"
+        ],
+        "1084": [
+            2252.32,
+            2258.4,
+            "andré gómez to encourage him, today he celebrated that golden boot with the camp audience, no today it wasn't"
+        ],
+        "1085": [
+            2258.4,
+            2262.6,
+            "completely correct state but there is also iván raquetes to encourage the goalscorer of the"
+        ],
+        "1086": [
+            2262.6,
+            2266.7200000000003,
+            "football club barcelona leaves luis suárez paco alcácer who has had in the"
+        ],
+        "1087": [
+            2266.7200000000003,
+            2271.8,
+            "goal play key participation when touching the ball with his back to mesi but the game"
+        ],
+        "1088": [
+            2273.76,
+            2281.04,
+            "the public is as affectionate as fair with luis suárez and I say fair because this"
+        ],
+        "1089": [
+            2281.04,
+            2287.28,
+            "player has given a lot and keeps giving a lot and sometimes there are days and days of poor delivery"
+        ],
+        "1090": [
+            2287.28,
+            2293.44,
+            "It is always total that you can never say that he does not give everything that Luis Suárez has now"
+        ],
+        "1091": [
+            2293.44,
+            2298.52,
+            "Luis Suárez wears a fine balloon and I think that fundamentally maybe almost exclusively"
+        ],
+        "1092": [
+            2298.52,
+            2307.2,
+            "with himself he is tremendously demanding, this last mate is very easy but"
+        ],
+        "1093": [
+            2307.2,
+            2315.16,
+            "missing perfect height comes only a lot of goal can play both sides at the perfect height"
+        ],
+        "1094": [
+            2315.16,
+            2320.72,
+            "For a front-end you don't even have to turn your neck, it's true, but as I say, there is"
+        ],
+        "1095": [
+            2320.72,
+            2326.2,
+            "days and days nothing has come out today the ball for granada is playing gabriel silva with vogue in"
+        ],
+        "1096": [
+            2326.2,
+            2333.04,
+            "The side pressured by Sergi Roberto also pressures Rafinha there he goes inside looking"
+        ],
+        "1097": [
+            2333.04,
+            2337.8799999999997,
+            "up gabriel silva cut the racquet ball they already ask for it eymar neymar with space to start"
+        ],
+        "1098": [
+            2337.8799999999997,
+            2344.6,
+            "wants to oppose prison plays leo messi with his back to him he falls there on the front he recovers the cuesca for"
+        ],
+        "1099": [
+            2344.6,
+            2350.12,
+            "up the ball for the cacerá the cacerá back but for the scorer of the goal to iván rafinha the"
+        ],
+        "1100": [
+            2350.12,
+            2359.24,
+            "hangs second post reacts as best he can just enough to touch the basin says andré gómez neymar"
+        ],
+        "1101": [
+            2359.24,
+            2367.88,
+            "Sergi Sánchez facing almost a street game there to pay attention to that freestyle loose ball"
+        ],
+        "1102": [
+            2367.88,
+            2373.7999999999997,
+            "It seemed like Neymar left with the ball Cuenca, chased by André Gómez, managed to score"
+        ],
+        "1103": [
+            2373.7999999999997,
+            2377.3199999999997,
+            "ball up to bar the bar has no legs to start the solo so he holds on and does it"
+        ],
+        "1104": [
+            2377.32,
+            2381.76,
+            "Well, it is moving up in vogue but no one from Granada has the energy to look for the counterattack."
+        ],
+        "1105": [
+            2381.76,
+            2388.56,
+            "with the ball prison prison prison with abarral that does not progress the grenade ran too far behind"
+        ],
+        "1106": [
+            2388.56,
+            2394.0800000000004,
+            "of the ball to have energy now to start when he has it or makes a simple play"
+        ],
+        "1107": [
+            2394.0800000000004,
+            2401.2000000000003,
+            "pass behind the defense when you have to win it you need a ball space a counterattack"
+        ],
+        "1108": [
+            2401.2,
+            2408.08,
+            "let's see if hand to hand solutions playing playing that is not going to create anything will believe it when it is a"
+        ],
+        "1109": [
+            2408.08,
+            2414.64,
+            "It's a backlash when the bar is overturned 40 minutes 5 so we get to the 90"
+        ],
+        "1110": [
+            2414.64,
+            2419.64,
+            "Barcelona wins the game 1-0 against Granada, obviously that goal counts for the three points"
+        ],
+        "1111": [
+            2419.64,
+            2425.3999999999996,
+            "although no one expected such a short result at this point in the game before starting the match."
+        ],
+        "1112": [
+            2425.4,
+            2431.7200000000003,
+            "I find the ball for Iván Raquete, the band is moving, say, here goes the ball for the side."
+        ],
+        "1113": [
+            2431.7200000000003,
+            2436.56,
+            "good control plays inside neymar is not going to arrive anticipation of rubén bezo who gives him the stands"
+        ],
+        "1114": [
+            2436.56,
+            2445.56,
+            "throw-in for barcelona up neymar neymar facing samper goes to look for the"
+        ],
+        "1115": [
+            2445.56,
+            2452.88,
+            "roulette does not come out and cuts the ball samper samper who stops delivers the ball to Cuenca 2x"
+        ],
+        "1116": [
+            2453.6800000000003,
+            2460.84,
+            "in the Barcelona quarry with the ball the ball catches the ball for Bezo Bezo complicated"
+        ],
+        "1117": [
+            2460.84,
+            2466.12,
+            "there in Alcácer returns for Cuenca presses Neymar throw-in"
+        ],
+        "1118": [
+            2469.96,
+            2476.36,
+            "Sometimes in marquees they confront the person who comes to tell them if they didn't like what they did"
+        ],
+        "1119": [
+            2476.88,
+            2479.1600000000003,
+            "and they take out for not having removed"
+        ],
+        "1120": [
+            2481.1600000000003,
+            2488.32,
+            "makes an entrance and sea to that account basin a little stronger than the account"
+        ],
+        "1121": [
+            2497.32,
+            2498.84,
+            "and that is why it is inflated"
+        ],
+        "1122": [
+            2498.84,
+            2502.92,
+            "started to think"
+        ],
+        "1123": [
+            2505.04,
+            2509.0,
+            "85 match a little harder that is much worse"
+        ],
+        "1124": [
+            2511.36,
+            2518.6800000000003,
+            "El Granada plays the ball and this time or playing for Cuenca, Bezo finally clears it now"
+        ],
+        "1125": [
+            2518.6800000000003,
+            2523.2000000000003,
+            "If there was a lack of signal to Neymar because he collided knee against knee with socket"
+        ],
+        "1126": [
+            2529.7200000000003,
+            2535.6400000000003,
+            "Enrique would be delighted to see the regulatory time fulfilled now not because the"
+        ],
+        "1127": [
+            2535.6400000000003,
+            2540.2400000000002,
+            "danger the game seems to be in danger but because it does not seem that Barcelona can do it either"
+        ],
+        "1128": [
+            2540.2400000000002,
+            2544.08,
+            "finish defining no no the game is so much in the risk zone with that 1-0"
+        ],
+        "1129": [
+            2546.84,
+            2554.56,
+            "a titi samper has taken choa to the jump fighting with andré gómez barral who"
+        ],
+        "1130": [
+            2554.56,
+            2556.4,
+            "failure but completion of a good screen"
+        ],
+        "1131": [
+            2558.88,
+            2561.88,
+            "Now I'm lost I don't know well I'm missing it"
+        ],
+        "1132": [
+            2563.84,
+            2565.72,
+            "the barral night I believe in that play"
+        ],
+        "1133": [
+            2567.88,
+            2572.12,
+            "They already have at least one stopped ball, the Granada with this is why he is telling the"
+        ],
+        "1134": [
+            2572.12,
+            2576.96,
+            "face, I think Ricardo from the well I was going to say from the technique not 10 meters outside the"
+        ],
+        "1135": [
+            2576.96,
+            2580.96,
+            "technical area to try to make a set piece"
+        ],
+        "1136": [
+            2583.88,
+            2589.28,
+            "That's what Cuenca is asking for to come closer to give it support and to take it out directly."
+        ],
+        "1137": [
+            2589.28,
+            2593.32,
+            "Whoever puts it remembers, there goes the hitting of the socket with thread, the ball is loose"
+        ],
+        "1138": [
+            2593.32,
+            2602.4,
+            "tries to reach without success saunier final ball for uche hierra gabriel silva who plays"
+        ],
+        "1139": [
+            2602.4,
+            2611.12,
+            "for eight to good played standing are not the virtues of Granada let's pay attention to the"
+        ],
+        "1140": [
+            2611.12,
+            2618.88,
+            "center inside arrives only arrives only above month and about the departure of eight to what was very"
+        ],
+        "1141": [
+            2618.88,
+            2627.6,
+            "good and very correct, staying there to cover the spaces for Leo Mesi, the hit was the center"
+        ],
+        "1142": [
+            2627.6,
+            2632.12,
+            "It was very good from Paco Alcácer, eight percent, who is having a hard time showing his level"
+        ],
+        "1143": [
+            2632.12,
+            2635.7599999999998,
+            "In the Spanish league he didn't do so much in Malaga today he played a good game he finished three or four"
+        ],
+        "1144": [
+            2635.7599999999998,
+            2642.4,
+            "eight in Malaga it happened that he met a camini who seemed to have taken the elixir of"
+        ],
+        "1145": [
+            2642.4,
+            2651.24,
+            "eternal youth well yes I remember one that stopped but not even that July is what you imagine coming"
+        ],
+        "1146": [
+            2651.24,
+            2659.2,
+            "with granada I would have expected to see a much busier eighta than you have seen that the"
+        ],
+        "1147": [
+            2659.2,
+            2663.2,
+            "Barça in attack has left very little, very very little, the best thing that can happen to Barça now"
+        ],
+        "1148": [
+            2663.2,
+            2668.04,
+            "that the game ends with this 1-0 and it is the three points but the game for me has been"
+        ],
+        "1149": [
+            2668.04,
+            2672.56,
+            "much less passed in many things than ball speed in pressure without the ball"
+        ],
+        "1150": [
+            2672.56,
+            2680.0,
+            "etcetera to the one who receives the anger from Martín Emanuela and even if he ends up losing he could still"
+        ],
+        "1151": [
+            2680.0,
+            2685.08,
+            "tie but I was losing I think this match is useful and a lot yes yes we have seen"
+        ],
+        "1152": [
+            2685.08,
+            2693.12,
+            "team defend very orderly I don't know very well how they attack it is also true but they have defended"
+        ],
+        "1153": [
+            2693.12,
+            2699.4,
+            "defended very orderly ball for javier marcelano marcelano looking up there"
+        ],
+        "1154": [
+            2699.4,
+            2699.96,
+            "is the author of"
+        ]
+    }
+}
