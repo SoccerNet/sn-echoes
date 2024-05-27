@@ -1,0 +1,4239 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.0,
+            "Let's go!"
+        ],
+        "1": [
+            60.0,
+            61.0,
+            "Slider."
+        ],
+        "2": [
+            61.0,
+            77.0,
+            "In football jargon we speak of so-called wall players, i.e. players who are high"
+        ],
+        "3": [
+            77.0,
+            81.72,
+            "who can then hold, shield and distribute the ball."
+        ],
+        "4": [
+            81.72,
+            96.92,
+            "At the moment, Schieber is still a bit behind Ibisiewicz and remains at the moment"
+        ],
+        "5": [
+            96.92,
+            99.44,
+            "Niklas Stark also in defensive midfield."
+        ],
+        "6": [
+            99.44,
+            105.16,
+            "So Hertha starts with a back four."
+        ],
+        "7": [
+            105.16,
+            117.67999999999999,
+            "Naguchi is too far inside and is prevented by this unclean pass from Ibisiewicz"
+        ],
+        "8": [
+            117.67999999999999,
+            124.0,
+            "reminded that he has to occupy the wing."
+        ],
+        "9": [
+            124.0,
+            134.24,
+            "Ibisiewicz captain of this team, an important pillar of Hertha BSC this season."
+        ],
+        "10": [
+            135.16,
+            136.16,
+            "Wise."
+        ],
+        "11": [
+            136.16,
+            137.16,
+            "Haaland."
+        ],
+        "12": [
+            137.16,
+            138.16,
+            "Goes over Jarstein at the back."
+        ],
+        "13": [
+            138.16,
+            139.16,
+            "Married last week."
+        ],
+        "14": [
+            139.16,
+            140.16,
+            "Plate resin."
+        ],
+        "15": [
+            140.16,
+            141.16,
+            "Good first half of the season from Martin."
+        ],
+        "16": [
+            141.16,
+            142.16,
+            "Until here."
+        ],
+        "17": [
+            142.16,
+            143.16,
+            "That was the first time the team played so well."
+        ],
+        "18": [
+            143.16,
+            144.16,
+            "That was the first time the team played so well."
+        ],
+        "19": [
+            144.16,
+            145.16,
+            "That was the first time the team played so well."
+        ],
+        "20": [
+            145.16,
+            146.16,
+            "That was the first time the team played so well."
+        ],
+        "21": [
+            146.16,
+            147.16,
+            "That was the first time the team played so well."
+        ],
+        "22": [
+            147.16,
+            148.16,
+            "That was the first time the team played so well."
+        ],
+        "23": [
+            148.16,
+            149.16,
+            "That was the first time the team played so well."
+        ],
+        "24": [
+            149.16,
+            150.16,
+            "That was the first time the team played so well."
+        ],
+        "25": [
+            150.16,
+            151.16,
+            "That was the first time the team played so well."
+        ],
+        "26": [
+            151.16,
+            152.16,
+            "That was the first time the team played so well."
+        ],
+        "27": [
+            152.16,
+            153.16,
+            "That was the first time the team played so well."
+        ],
+        "28": [
+            153.16,
+            154.16,
+            "That was the first time the team played so well."
+        ],
+        "29": [
+            171.16,
+            172.16,
+            "That was the first time the team played so well."
+        ],
+        "30": [
+            172.16,
+            173.16,
+            "That was the first time the team played so well."
+        ],
+        "31": [
+            173.16,
+            174.16,
+            "That was the first time the team played so well."
+        ],
+        "32": [
+            174.16,
+            175.16,
+            "That was the first time the team played so well."
+        ],
+        "33": [
+            175.16,
+            176.16,
+            "That was the first time the team played so well."
+        ],
+        "34": [
+            176.16,
+            177.16,
+            "That was the first time the team played so well."
+        ],
+        "35": [
+            177.16,
+            178.16,
+            "That was the first time the team played so well."
+        ],
+        "36": [
+            178.16,
+            179.16,
+            "That was the first time the team played so well."
+        ],
+        "37": [
+            179.16,
+            180.16,
+            "That was the first time the team played so well."
+        ],
+        "38": [
+            180.16,
+            181.16,
+            "That was the first time the team played so well."
+        ],
+        "39": [
+            181.16,
+            182.16,
+            "That was the first time the team played so well."
+        ],
+        "40": [
+            182.16,
+            183.16,
+            "That was the first time the team played so well."
+        ],
+        "41": [
+            183.16,
+            184.16,
+            "That was the first time the team played so well."
+        ],
+        "42": [
+            184.16,
+            185.16,
+            "That was the first time the team played so well."
+        ],
+        "43": [
+            185.16,
+            186.16,
+            "That was the first time the team played so well."
+        ],
+        "44": [
+            186.16,
+            187.16,
+            "That was the first time the team played so well."
+        ],
+        "45": [
+            187.16,
+            188.16,
+            "That was the first time the team played so well."
+        ],
+        "46": [
+            188.16,
+            189.16,
+            "That was the first time the team played so well."
+        ],
+        "47": [
+            189.16,
+            190.16,
+            "That was the first time the team played so well."
+        ],
+        "48": [
+            190.16,
+            191.16,
+            "That was the first time the team played so well."
+        ],
+        "49": [
+            191.16,
+            192.16,
+            "That was the first time the team played so well."
+        ],
+        "50": [
+            192.16,
+            193.16,
+            "That was the first time the team played so well."
+        ],
+        "51": [
+            193.16,
+            194.16,
+            "That was the first time the team played so well."
+        ],
+        "52": [
+            194.16,
+            195.16,
+            "That was the first time the team played so well."
+        ],
+        "53": [
+            195.16,
+            196.16,
+            "That was the first time the team played so well."
+        ],
+        "54": [
+            196.16,
+            197.16,
+            "That was the first time the team played so well."
+        ],
+        "55": [
+            197.16,
+            198.16,
+            "That was the first time the team played so well."
+        ],
+        "56": [
+            198.16,
+            199.16,
+            "That was the first time the team played so well."
+        ],
+        "57": [
+            199.16,
+            200.16,
+            "That was the first time the team played so well."
+        ],
+        "58": [
+            200.16,
+            201.16,
+            "That was the first time the team played so well."
+        ],
+        "59": [
+            201.16,
+            202.16,
+            "That was the first time the team played so well."
+        ],
+        "60": [
+            202.16,
+            203.16,
+            "That was the first time the team played so well."
+        ],
+        "61": [
+            203.16,
+            204.16,
+            "That was the first time the team played so well."
+        ],
+        "62": [
+            204.16,
+            205.16,
+            "That was the first time the team played so well."
+        ],
+        "63": [
+            205.16,
+            206.16,
+            "That was the first time the team played so well."
+        ],
+        "64": [
+            206.16,
+            207.16,
+            "That was the first time the team played so well."
+        ],
+        "65": [
+            207.16,
+            208.16,
+            "That was the first time the team played so well."
+        ],
+        "66": [
+            208.16,
+            209.16,
+            "That was the first time the team played so well."
+        ],
+        "67": [
+            209.16,
+            210.16,
+            "That was the first time the team played so well."
+        ],
+        "68": [
+            210.16,
+            211.16,
+            "That was the first time the team played so well."
+        ],
+        "69": [
+            211.16,
+            212.16,
+            "That was the first time the team played so well."
+        ],
+        "70": [
+            212.16,
+            213.16,
+            "That was the first time the team played so well."
+        ],
+        "71": [
+            213.16,
+            214.16,
+            "That was the first time the team played so well."
+        ],
+        "72": [
+            214.16,
+            215.16,
+            "That was the first time the team played so well."
+        ],
+        "73": [
+            215.16,
+            216.16,
+            "That was the first time the team played so well."
+        ],
+        "74": [
+            216.16,
+            217.16,
+            "That was the first time the team played so well."
+        ],
+        "75": [
+            217.16,
+            218.16,
+            "That was the first time the team played so well."
+        ],
+        "76": [
+            218.16,
+            219.16,
+            "That was the first time the team played so well."
+        ],
+        "77": [
+            219.16,
+            220.16,
+            "That was the first time the team played so well."
+        ],
+        "78": [
+            220.16,
+            221.16,
+            "That was the first time the team played so well."
+        ],
+        "79": [
+            221.16,
+            222.16,
+            "That was the first time the team played so well."
+        ],
+        "80": [
+            222.16,
+            223.16,
+            "That was the first time the team played so well."
+        ],
+        "81": [
+            223.16,
+            224.16,
+            "That was the first time the team played so well."
+        ],
+        "82": [
+            224.16,
+            225.16,
+            "That was the first time the team played so well."
+        ],
+        "83": [
+            225.16,
+            226.16,
+            "That was the first time the team played so well."
+        ],
+        "84": [
+            226.16,
+            227.16,
+            "That was the first time the team played so well."
+        ],
+        "85": [
+            227.16,
+            228.16,
+            "That was the first time the team played so well."
+        ],
+        "86": [
+            228.16,
+            229.16,
+            "That was the first time the team played so well."
+        ],
+        "87": [
+            229.16,
+            230.16,
+            "That was the first time the team played so well."
+        ],
+        "88": [
+            230.16,
+            231.16,
+            "That was the first time the team played so well."
+        ],
+        "89": [
+            231.16,
+            232.16,
+            "That was the first time the team played so well."
+        ],
+        "90": [
+            232.16,
+            233.16,
+            "That was the first time the team played so well."
+        ],
+        "91": [
+            233.16,
+            234.16,
+            "That was the first time the team played so well."
+        ],
+        "92": [
+            234.16,
+            235.16,
+            "That was the first time the team played so well."
+        ],
+        "93": [
+            235.16,
+            236.16,
+            "That was the first time the team played so well."
+        ],
+        "94": [
+            236.16,
+            237.16,
+            "That was the first time the team played so well."
+        ],
+        "95": [
+            237.16,
+            238.16,
+            "That was the first time the team played so well."
+        ],
+        "96": [
+            238.16,
+            239.16,
+            "That was the first time the team played so well."
+        ],
+        "97": [
+            239.16,
+            240.16,
+            "That was the first time the team played so well."
+        ],
+        "98": [
+            240.16,
+            241.16,
+            "That was the first time the team played so well."
+        ],
+        "99": [
+            241.16,
+            242.16,
+            "That was the first time the team played so well."
+        ],
+        "100": [
+            242.16,
+            243.16,
+            "That was the first time the team played so well."
+        ],
+        "101": [
+            243.16,
+            244.16,
+            "That was the first time the team played so well."
+        ],
+        "102": [
+            244.16,
+            245.16,
+            "That was the first time the team played so well."
+        ],
+        "103": [
+            245.16,
+            246.16,
+            "That was the first time the team played so well."
+        ],
+        "104": [
+            246.16,
+            247.16,
+            "That was the first time the team played so well."
+        ],
+        "105": [
+            247.16,
+            248.16,
+            "That was the first time the team played so well."
+        ],
+        "106": [
+            248.16,
+            249.16,
+            "That was the first time the team played so well."
+        ],
+        "107": [
+            249.16,
+            250.16,
+            "That was the first time the team played so well."
+        ],
+        "108": [
+            250.16,
+            251.16,
+            "That was the first time the team played so well."
+        ],
+        "109": [
+            251.16,
+            252.16,
+            "That was the first time the team played so well."
+        ],
+        "110": [
+            252.16,
+            253.16,
+            "That was the first time the team played so well."
+        ],
+        "111": [
+            253.16,
+            254.16,
+            "That was the first time the team played so well."
+        ],
+        "112": [
+            254.16,
+            255.16,
+            "That was the first time the team played so well."
+        ],
+        "113": [
+            255.16,
+            256.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "114": [
+            256.15999999999997,
+            257.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "115": [
+            257.15999999999997,
+            258.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "116": [
+            258.15999999999997,
+            259.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "117": [
+            259.15999999999997,
+            260.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "118": [
+            260.15999999999997,
+            261.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "119": [
+            261.15999999999997,
+            262.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "120": [
+            262.15999999999997,
+            263.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "121": [
+            263.15999999999997,
+            264.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "122": [
+            264.15999999999997,
+            265.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "123": [
+            265.15999999999997,
+            266.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "124": [
+            266.15999999999997,
+            267.15999999999997,
+            "That was the first time the team played so well."
+        ],
+        "125": [
+            267.16,
+            268.16,
+            "That was the first time the team played so well."
+        ],
+        "126": [
+            268.16,
+            269.16,
+            "That was the first time the team played so well."
+        ],
+        "127": [
+            269.16,
+            270.16,
+            "That was the first time the team played so well."
+        ],
+        "128": [
+            270.16,
+            271.16,
+            "That was the first time the team played so well."
+        ],
+        "129": [
+            271.16,
+            272.16,
+            "That was the first time the team played so well."
+        ],
+        "130": [
+            272.16,
+            273.16,
+            "That was the first time the team played so well."
+        ],
+        "131": [
+            273.16,
+            274.16,
+            "That was the first time the team played so well."
+        ],
+        "132": [
+            274.16,
+            275.16,
+            "That was the first time the team played so well."
+        ],
+        "133": [
+            275.16,
+            276.16,
+            "That was the first time the team played so well."
+        ],
+        "134": [
+            276.16,
+            277.16,
+            "That was the first time the team played so well."
+        ],
+        "135": [
+            277.16,
+            278.16,
+            "That was the first time the team played so well."
+        ],
+        "136": [
+            278.16,
+            279.16,
+            "That was the first time the team played so well."
+        ],
+        "137": [
+            279.16,
+            280.16,
+            "That was the first time the team played so well."
+        ],
+        "138": [
+            280.16,
+            281.16,
+            "That was the first time the team played so well."
+        ],
+        "139": [
+            281.16,
+            282.16,
+            "That was the first time the team played so well."
+        ],
+        "140": [
+            282.16,
+            283.16,
+            "That was the first time the team played so well."
+        ],
+        "141": [
+            283.16,
+            284.16,
+            "That was the first time the team played so well."
+        ],
+        "142": [
+            284.16,
+            285.16,
+            "That was the first time the team played so well."
+        ],
+        "143": [
+            285.16,
+            286.16,
+            "That was the first time the team played so well."
+        ],
+        "144": [
+            286.16,
+            287.16,
+            "That was the first time the team played so well."
+        ],
+        "145": [
+            287.16,
+            288.16,
+            "That was the first time the team played so well."
+        ],
+        "146": [
+            288.16,
+            289.16,
+            "That was the first time the team played so well."
+        ],
+        "147": [
+            289.16,
+            290.16,
+            "That was the first time the team played so well."
+        ],
+        "148": [
+            290.16,
+            291.16,
+            "That was the first time the team played so well."
+        ],
+        "149": [
+            291.16,
+            292.16,
+            "That was the first time the team played so well."
+        ],
+        "150": [
+            292.16,
+            293.16,
+            "That was the first time the team played so well."
+        ],
+        "151": [
+            293.16,
+            294.16,
+            "That was the first time the team played so well."
+        ],
+        "152": [
+            294.16,
+            295.16,
+            "That was the first time the team played so well."
+        ],
+        "153": [
+            295.16,
+            296.16,
+            "That was the first time the team played so well."
+        ],
+        "154": [
+            296.16,
+            297.16,
+            "That was the first time the team played so well."
+        ],
+        "155": [
+            297.16,
+            298.16,
+            "That was the first time the team played so well."
+        ],
+        "156": [
+            298.16,
+            299.16,
+            "That was the first time the team played so well."
+        ],
+        "157": [
+            299.16,
+            300.16,
+            "That was the first time the team played so well."
+        ],
+        "158": [
+            300.16,
+            301.16,
+            "That was the first time the team played so well."
+        ],
+        "159": [
+            301.16,
+            302.16,
+            "That was the first time the team played so well."
+        ],
+        "160": [
+            302.16,
+            303.16,
+            "That was the first time the team played so well."
+        ],
+        "161": [
+            303.16,
+            304.16,
+            "That was the first time the team played so well."
+        ],
+        "162": [
+            304.16,
+            305.16,
+            "That was the first time the team played so well."
+        ],
+        "163": [
+            305.16,
+            306.16,
+            "That was the first time the team played so well."
+        ],
+        "164": [
+            306.16,
+            307.16,
+            "That was the first time the team played so well."
+        ],
+        "165": [
+            307.16,
+            308.16,
+            "That was the first time the team played so well."
+        ],
+        "166": [
+            308.16,
+            309.16,
+            "That was the first time the team played so well."
+        ],
+        "167": [
+            309.16,
+            310.16,
+            "That was the first time the team played so well."
+        ],
+        "168": [
+            310.16,
+            311.16,
+            "That was the first time the team played so well."
+        ],
+        "169": [
+            311.16,
+            312.16,
+            "That was the first time the team played so well."
+        ],
+        "170": [
+            312.16,
+            313.16,
+            "That was the first time the team played so well."
+        ],
+        "171": [
+            313.16,
+            314.16,
+            "That was the first time the team played so well."
+        ],
+        "172": [
+            314.16,
+            315.16,
+            "That was the first time the team played so well."
+        ],
+        "173": [
+            315.16,
+            316.16,
+            "That was the first time the team played so well."
+        ],
+        "174": [
+            316.16,
+            317.16,
+            "That was the first time the team played so well."
+        ],
+        "175": [
+            317.16,
+            318.16,
+            "That was the first time the team played so well."
+        ],
+        "176": [
+            318.16,
+            319.16,
+            "That was the first time the team played so well."
+        ],
+        "177": [
+            319.16,
+            320.16,
+            "That was the first time the team played so well."
+        ],
+        "178": [
+            320.16,
+            321.16,
+            "That was the first time the team played so well."
+        ],
+        "179": [
+            321.16,
+            322.16,
+            "That was the first time the team played so well."
+        ],
+        "180": [
+            322.16,
+            323.16,
+            "That was the first time the team played so well."
+        ],
+        "181": [
+            323.16,
+            324.16,
+            "That was the first time the team played so well."
+        ],
+        "182": [
+            324.16,
+            325.16,
+            "That was the first time the team played so well."
+        ],
+        "183": [
+            325.16,
+            326.16,
+            "That was the first time the team played so well."
+        ],
+        "184": [
+            326.16,
+            327.16,
+            "That was the first time the team played so well."
+        ],
+        "185": [
+            327.16,
+            328.16,
+            "That was the first time the team played so well."
+        ],
+        "186": [
+            328.16,
+            329.16,
+            "That was the first time the team played so well."
+        ],
+        "187": [
+            329.16,
+            330.16,
+            "That was the first time the team played so well."
+        ],
+        "188": [
+            330.16,
+            331.16,
+            "That was the first time the team played so well."
+        ],
+        "189": [
+            331.16,
+            332.16,
+            "That was the first time the team played so well."
+        ],
+        "190": [
+            332.16,
+            333.16,
+            "That was the first time the team played so well."
+        ],
+        "191": [
+            333.16,
+            334.16,
+            "That was the first time the team played so well."
+        ],
+        "192": [
+            334.16,
+            335.16,
+            "That was the first time the team played so well."
+        ],
+        "193": [
+            335.16,
+            336.16,
+            "That was the first time the team played so well."
+        ],
+        "194": [
+            336.16,
+            337.16,
+            "That was the first time the team played so well."
+        ],
+        "195": [
+            337.16,
+            338.16,
+            "That was the first time the team played so well."
+        ],
+        "196": [
+            338.16,
+            339.16,
+            "That was the first time the team played so well."
+        ],
+        "197": [
+            339.16,
+            340.16,
+            "That was the first time the team played so well."
+        ],
+        "198": [
+            340.16,
+            341.16,
+            "That was the first time the team played so well."
+        ],
+        "199": [
+            341.16,
+            342.16,
+            "That was the first time the team played so well."
+        ],
+        "200": [
+            342.16,
+            343.16,
+            "That was the first time the team played so well."
+        ],
+        "201": [
+            343.16,
+            344.16,
+            "That was the first time the team played so well."
+        ],
+        "202": [
+            344.16,
+            345.16,
+            "That was the first time the team played so well."
+        ],
+        "203": [
+            345.16,
+            346.16,
+            "That was the first time the team played so well."
+        ],
+        "204": [
+            346.16,
+            347.16,
+            "That was the first time the team played so well."
+        ],
+        "205": [
+            347.16,
+            348.16,
+            "That was the first time the team played so well."
+        ],
+        "206": [
+            348.16,
+            349.16,
+            "That was the first time the team played so well."
+        ],
+        "207": [
+            349.16,
+            350.16,
+            "That was the first time the team played so well."
+        ],
+        "208": [
+            350.16,
+            351.16,
+            "That was the first time the team played so well."
+        ],
+        "209": [
+            351.16,
+            352.16,
+            "That was the first time the team played so well."
+        ],
+        "210": [
+            352.16,
+            353.16,
+            "That was the first time the team played so well."
+        ],
+        "211": [
+            353.16,
+            354.16,
+            "That was the first time the team played so well."
+        ],
+        "212": [
+            354.16,
+            355.16,
+            "That was the first time the team played so well."
+        ],
+        "213": [
+            355.16,
+            356.16,
+            "That was the first time the team played so well."
+        ],
+        "214": [
+            356.16,
+            357.16,
+            "That was the first time the team played so well."
+        ],
+        "215": [
+            357.16,
+            358.16,
+            "That was the first time the team played so well."
+        ],
+        "216": [
+            358.16,
+            359.16,
+            "That was the first time the team played so well."
+        ],
+        "217": [
+            359.16,
+            360.16,
+            "That was the first time the team played so well."
+        ],
+        "218": [
+            360.16,
+            361.16,
+            "That was the first time the team played so well."
+        ],
+        "219": [
+            361.16,
+            362.16,
+            "That was the first time the team played so well."
+        ],
+        "220": [
+            362.16,
+            363.16,
+            "That was the first time the team played so well."
+        ],
+        "221": [
+            363.16,
+            364.16,
+            "That was the first time the team played so well."
+        ],
+        "222": [
+            364.16,
+            365.16,
+            "That was the first time the team played so well."
+        ],
+        "223": [
+            365.16,
+            366.16,
+            "That was the first time the team played so well."
+        ],
+        "224": [
+            366.16,
+            367.16,
+            "That was the first time the team played so well."
+        ],
+        "225": [
+            367.16,
+            368.16,
+            "That was the first time the team played so well."
+        ],
+        "226": [
+            368.16,
+            369.16,
+            "That was the first time the team played so well."
+        ],
+        "227": [
+            369.16,
+            370.16,
+            "That was the first time the team played so well."
+        ],
+        "228": [
+            370.16,
+            371.16,
+            "That was the first time the team played so well."
+        ],
+        "229": [
+            371.16,
+            372.16,
+            "That was the first time the team played so well."
+        ],
+        "230": [
+            372.16,
+            373.16,
+            "That was the first time the team played so well."
+        ],
+        "231": [
+            373.16,
+            374.16,
+            "That was the first time the team played so well."
+        ],
+        "232": [
+            374.16,
+            375.16,
+            "That was the first time the team played so well."
+        ],
+        "233": [
+            375.16,
+            376.16,
+            "That was the first time the team played so well."
+        ],
+        "234": [
+            376.16,
+            377.16,
+            "That was the first time the team played so well."
+        ],
+        "235": [
+            377.16,
+            378.16,
+            "That was the first time the team played so well."
+        ],
+        "236": [
+            378.16,
+            379.16,
+            "That was the first time the team played so well."
+        ],
+        "237": [
+            379.16,
+            380.16,
+            "That was the first time the team played so well."
+        ],
+        "238": [
+            380.16,
+            381.16,
+            "That was the first time the team played so well."
+        ],
+        "239": [
+            381.16,
+            382.16,
+            "That was the first time the team played so well."
+        ],
+        "240": [
+            382.16,
+            383.16,
+            "That was the first time the team played so well."
+        ],
+        "241": [
+            383.16,
+            384.16,
+            "That was the first time the team played so well."
+        ],
+        "242": [
+            384.16,
+            385.16,
+            "That was the first time the team played so well."
+        ],
+        "243": [
+            385.16,
+            386.16,
+            "That was the first time the team played so well."
+        ],
+        "244": [
+            386.16,
+            387.16,
+            "That was the first time the team played so well."
+        ],
+        "245": [
+            387.16,
+            391.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "246": [
+            391.16,
+            392.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "247": [
+            392.16,
+            393.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "248": [
+            393.16,
+            394.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "249": [
+            394.16,
+            395.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "250": [
+            395.16,
+            396.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "251": [
+            396.16,
+            397.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "252": [
+            397.16,
+            398.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "253": [
+            398.16,
+            399.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "254": [
+            399.16,
+            400.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "255": [
+            400.16,
+            401.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "256": [
+            401.16,
+            402.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "257": [
+            402.16,
+            403.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "258": [
+            403.16,
+            404.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "259": [
+            404.16,
+            405.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "260": [
+            405.16,
+            406.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "261": [
+            406.16,
+            407.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "262": [
+            407.16,
+            408.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "263": [
+            408.16,
+            409.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "264": [
+            409.16,
+            410.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "265": [
+            410.16,
+            411.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "266": [
+            411.16,
+            412.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "267": [
+            412.16,
+            413.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "268": [
+            413.16,
+            414.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "269": [
+            414.16,
+            415.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "270": [
+            415.16,
+            416.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "271": [
+            416.16,
+            417.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "272": [
+            417.16,
+            418.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "273": [
+            418.16,
+            419.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "274": [
+            419.16,
+            420.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "275": [
+            420.16,
+            421.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "276": [
+            421.16,
+            422.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "277": [
+            422.16,
+            423.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "278": [
+            423.16,
+            424.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "279": [
+            424.16,
+            425.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "280": [
+            425.16,
+            426.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "281": [
+            426.16,
+            427.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "282": [
+            427.16,
+            428.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "283": [
+            428.16,
+            429.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "284": [
+            429.16,
+            430.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "285": [
+            430.16,
+            431.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "286": [
+            431.16,
+            432.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "287": [
+            432.16,
+            433.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "288": [
+            433.16,
+            434.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "289": [
+            434.16,
+            435.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "290": [
+            435.16,
+            436.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "291": [
+            436.16,
+            437.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "292": [
+            437.16,
+            438.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "293": [
+            438.16,
+            439.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "294": [
+            439.16,
+            440.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "295": [
+            440.16,
+            441.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "296": [
+            441.16,
+            442.16,
+            "But if you think about it, he's absolutely right."
+        ],
+        "297": [
+            442.16,
+            449.16,
+            "This is the only way he can prevent two Leipzig players from having follow-up chances."
+        ],
+        "298": [
+            472.16,
+            492.16,
+            "The speed that Leipzig can play is breathtaking."
+        ],
+        "299": [
+            522.16,
+            524.16,
+            "That is the path that FC Bayern wants to take."
+        ],
+        "300": [
+            524.16,
+            526.16,
+            "That is the path that FC Bayern wants to take."
+        ],
+        "301": [
+            526.16,
+            527.16,
+            "He wants clear balls."
+        ],
+        "302": [
+            527.16,
+            528.16,
+            "He wants clear balls."
+        ],
+        "303": [
+            528.16,
+            529.16,
+            "He wants long balls."
+        ],
+        "304": [
+            529.16,
+            530.16,
+            "He wants to go up and out the back."
+        ],
+        "305": [
+            530.16,
+            531.16,
+            "He wants long balls."
+        ],
+        "306": [
+            531.16,
+            532.16,
+            "He wants to go up and out the back."
+        ],
+        "307": [
+            532.16,
+            533.16,
+            "But no hara-kiri runs."
+        ],
+        "308": [
+            533.16,
+            534.16,
+            "But no hara-kiri runs."
+        ],
+        "309": [
+            534.16,
+            535.16,
+            "But no hara-kiri runs."
+        ],
+        "310": [
+            536.16,
+            538.16,
+            "But no hara-kiri runs."
+        ],
+        "311": [
+            547.16,
+            549.16,
+            "With Gretl and Kapsaloff, Soon..."
+        ],
+        "312": [
+            549.16,
+            551.16,
+            "With Gretl and Kapsaloff, Soon..."
+        ],
+        "313": [
+            558.16,
+            559.8399999999999,
+            "with Bo spectrums"
+        ],
+        "314": [
+            559.84,
+            564.84,
+            "brought up to play along and as a result he is sought after by his colleagues."
+        ],
+        "315": [
+            564.84,
+            565.84,
+            "Without Herrstein."
+        ],
+        "316": [
+            565.84,
+            568.84,
+            "Five clean sheets this season."
+        ],
+        "317": [
+            568.84,
+            571.84,
+            "Only Bayern and Eintracht Frankfurt are more common."
+        ],
+        "318": [
+            602.84,
+            607.84,
+            "So the fact is, if Herthardt keeps playing like this, things won't last long."
+        ],
+        "319": [
+            607.84,
+            609.84,
+            "Gate now the change."
+        ],
+        "320": [
+            631.84,
+            644.84,
+            "Yes, get into the cabin immediately."
+        ],
+        "321": [
+            644.84,
+            646.84,
+            "Physio goes for treatment afterwards."
+        ],
+        "322": [
+            646.84,
+            652.84,
+            "So as soon as we know something, Jens Westen is on the trail, you'll be the first to know."
+        ],
+        "323": [
+            661.84,
+            677.84,
+            "Platnath, Ibizovic."
+        ],
+        "324": [
+            678.84,
+            690.84,
+            "Herthardt stays with the back four."
+        ],
+        "325": [
+            690.84,
+            696.84,
+            "Against the ball 4-4-2."
+        ],
+        "326": [
+            696.84,
+            698.84,
+            "Paulsen."
+        ],
+        "327": [
+            698.84,
+            704.84,
+            "Because we talked about wall players."
+        ],
+        "328": [
+            704.84,
+            729.84,
+            "So Paulsen is the one who embodies this phenomenon at RB."
+        ],
+        "329": [
+            730.84,
+            733.84,
+            "New route from Paul Dardai."
+        ],
+        "330": [
+            733.84,
+            736.84,
+            "We'll watch it."
+        ],
+        "331": [
+            736.84,
+            738.84,
+            "Regardless of the outcome of this game."
+        ],
+        "332": [
+            738.84,
+            740.84,
+            "Paul Dardai is the best thing that could have happened to Herthardt."
+        ],
+        "333": [
+            740.84,
+            748.84,
+            "He lives this club with every fiber of his being."
+        ],
+        "334": [
+            748.84,
+            750.84,
+            "Sporting expertise is undisputed anyway."
+        ],
+        "335": [
+            750.84,
+            752.84,
+            "Werner."
+        ],
+        "336": [
+            752.84,
+            753.84,
+            "They were careful at the back."
+        ],
+        "337": [
+            753.84,
+            756.84,
+            "Now Stark comes in from behind."
+        ],
+        "338": [
+            757.84,
+            767.84,
+            "That was important."
+        ],
+        "339": [
+            767.84,
+            777.84,
+            "Ilsacker."
+        ],
+        "340": [
+            778.84,
+            784.84,
+            "Davidsson, Forsberg."
+        ],
+        "341": [
+            784.84,
+            792.84,
+            "They can't get Forsberg under control."
+        ],
+        "342": [
+            792.84,
+            798.84,
+            "Werner takes off."
+        ],
+        "343": [
+            798.84,
+            804.84,
+            "Stark clears him up."
+        ],
+        "344": [
+            805.84,
+            811.84,
+            "That's probably where it happened."
+        ],
+        "345": [
+            811.84,
+            817.84,
+            "White man grabbed on the left thigh."
+        ],
+        "346": [
+            817.84,
+            823.84,
+            "That's probably where it happened."
+        ],
+        "347": [
+            824.84,
+            830.84,
+            "That's probably where it happened."
+        ],
+        "348": [
+            830.84,
+            834.84,
+            "Werner."
+        ],
+        "349": [
+            834.84,
+            838.84,
+            "Kathe."
+        ],
+        "350": [
+            838.84,
+            844.84,
+            "Demme."
+        ],
+        "351": [
+            845.84,
+            851.84,
+            "That's probably where it happened."
+        ],
+        "352": [
+            851.84,
+            855.84,
+            "But Werner is there."
+        ],
+        "353": [
+            855.84,
+            859.84,
+            "Stock fault."
+        ],
+        "354": [
+            859.84,
+            863.84,
+            "Bernardo."
+        ],
+        "355": [
+            863.84,
+            867.84,
+            "They got it for 6 million at the start of the season."
+        ],
+        "356": [
+            868.84,
+            874.84,
+            "Werner."
+        ],
+        "357": [
+            874.84,
+            878.84,
+            "Werner."
+        ],
+        "358": [
+            878.84,
+            882.84,
+            "Werner."
+        ],
+        "359": [
+            882.84,
+            886.84,
+            "Werner."
+        ],
+        "360": [
+            886.84,
+            890.84,
+            "Werner."
+        ],
+        "361": [
+            890.84,
+            894.84,
+            "Werner."
+        ],
+        "362": [
+            895.84,
+            899.84,
+            "Werner."
+        ],
+        "363": [
+            899.84,
+            903.84,
+            "Werner."
+        ],
+        "364": [
+            903.84,
+            907.84,
+            "Kathe."
+        ],
+        "365": [
+            907.84,
+            911.84,
+            "Forsberg."
+        ],
+        "366": [
+            911.84,
+            915.84,
+            "Alstenberg."
+        ],
+        "367": [
+            915.84,
+            919.84,
+            "Alan."
+        ],
+        "368": [
+            920.84,
+            924.84,
+            "Werner."
+        ],
+        "369": [
+            924.84,
+            928.84,
+            "Alan."
+        ],
+        "370": [
+            928.84,
+            932.84,
+            "We have our best man on the trail."
+        ],
+        "371": [
+            932.84,
+            936.84,
+            "He has fresh information."
+        ],
+        "372": [
+            936.84,
+            940.84,
+            "He's faster than me."
+        ],
+        "373": [
+            940.84,
+            944.84,
+            "I'm after him."
+        ],
+        "374": [
+            945.84,
+            949.84,
+            "He has problems with his left thigh."
+        ],
+        "375": [
+            949.84,
+            953.84,
+            "This is what it looks like."
+        ],
+        "376": [
+            953.84,
+            957.84,
+            "He has a free kick version."
+        ],
+        "377": [
+            957.84,
+            961.84,
+            "He is a free kick man."
+        ],
+        "378": [
+            961.84,
+            965.84,
+            "He is a free kick man."
+        ],
+        "379": [
+            965.84,
+            969.84,
+            "He is a free kick man."
+        ],
+        "380": [
+            970.84,
+            974.84,
+            "He has a good free-kick position."
+        ],
+        "381": [
+            988.84,
+            992.84,
+            "He does too."
+        ],
+        "382": [
+            992.84,
+            996.84,
+            "He does too."
+        ],
+        "383": [
+            997.84,
+            1001.84,
+            "He does too."
+        ],
+        "384": [
+            1001.84,
+            1005.84,
+            "He does too."
+        ],
+        "385": [
+            1005.84,
+            1009.84,
+            "Plattnath."
+        ],
+        "386": [
+            1009.84,
+            1013.84,
+            "Plattnath."
+        ],
+        "387": [
+            1013.84,
+            1017.84,
+            "Into the wall."
+        ],
+        "388": [
+            1017.84,
+            1021.84,
+            "The game is being complained about."
+        ],
+        "389": [
+            1022.84,
+            1026.8400000000001,
+            "He shot the ball into the wall."
+        ],
+        "390": [
+            1026.8400000000001,
+            1030.8400000000001,
+            "He shot the ball into the wall."
+        ],
+        "391": [
+            1030.8400000000001,
+            1034.8400000000001,
+            "Starting point."
+        ],
+        "392": [
+            1034.8400000000001,
+            1038.8400000000001,
+            "Starting point."
+        ],
+        "393": [
+            1038.8400000000001,
+            1042.8400000000001,
+            "Plattnath."
+        ],
+        "394": [
+            1052.84,
+            1056.84,
+            "He didn't give them anything like that."
+        ],
+        "395": [
+            1086.84,
+            1092.84,
+            "Then to his New Year's Eve party and then again to the 17th matchday."
+        ],
+        "396": [
+            1092.84,
+            1095.84,
+            "January 22nd in Eberkusen."
+        ],
+        "397": [
+            1096.84,
+            1097.84,
+            "Samitze."
+        ],
+        "398": [
+            1101.84,
+            1111.84,
+            "Tata is basically Ora et Labora in action and that's exactly what Hertha plays"
+        ],
+        "399": [
+            1111.84,
+            1113.84,
+            "and what makes Hertha strong."
+        ],
+        "400": [
+            1114.84,
+            1120.84,
+            "Because, with the exception of last week's game against Hertha, they are doing it at 100 percent."
+        ],
+        "401": [
+            1120.84,
+            1123.84,
+            "And the same applies to Hasenhüttl and the Leipzig team."
+        ],
+        "402": [
+            1123.84,
+            1142.84,
+            "And that's exactly what makes this duel so appealing and we'll do it here"
+        ],
+        "403": [
+            1142.84,
+            1144.84,
+            "Didn't disappoint in the first 19 minutes."
+        ],
+        "404": [
+            1146.84,
+            1147.84,
+            "Alan."
+        ],
+        "405": [
+            1153.84,
+            1154.84,
+            "Keita."
+        ],
+        "406": [
+            1154.84,
+            1156.84,
+            "Leipzig with 60 percent possession."
+        ],
+        "407": [
+            1156.84,
+            1157.84,
+            "Shot by Samitze."
+        ],
+        "408": [
+            1157.84,
+            1158.84,
+            "And that was it."
+        ],
+        "409": [
+            1158.84,
+            1159.84,
+            "I hope you liked it."
+        ],
+        "410": [
+            1159.84,
+            1160.84,
+            "If yes, then leave a subscription and subscribe to the channel."
+        ],
+        "411": [
+            1160.84,
+            1161.84,
+            "See you next time."
+        ],
+        "412": [
+            1161.84,
+            1162.84,
+            "Bye."
+        ],
+        "413": [
+            1162.84,
+            1163.84,
+            "Bye."
+        ],
+        "414": [
+            1163.84,
+            1164.84,
+            "Bye."
+        ],
+        "415": [
+            1164.84,
+            1165.84,
+            "Bye."
+        ],
+        "416": [
+            1165.84,
+            1166.84,
+            "Bye."
+        ],
+        "417": [
+            1166.84,
+            1167.84,
+            "Bye."
+        ],
+        "418": [
+            1167.84,
+            1168.84,
+            "Bye."
+        ],
+        "419": [
+            1168.84,
+            1169.84,
+            "Bye."
+        ],
+        "420": [
+            1169.84,
+            1170.84,
+            "Bye."
+        ],
+        "421": [
+            1170.84,
+            1171.84,
+            "Bye."
+        ],
+        "422": [
+            1171.84,
+            1172.84,
+            "Bye."
+        ],
+        "423": [
+            1172.84,
+            1173.84,
+            "Bye."
+        ],
+        "424": [
+            1173.84,
+            1174.84,
+            "Bye."
+        ],
+        "425": [
+            1174.84,
+            1175.84,
+            "Bye."
+        ],
+        "426": [
+            1175.84,
+            1176.84,
+            "Bye."
+        ],
+        "427": [
+            1176.84,
+            1177.84,
+            "Bye."
+        ],
+        "428": [
+            1177.84,
+            1178.84,
+            "Bye."
+        ],
+        "429": [
+            1178.84,
+            1179.84,
+            "Bye."
+        ],
+        "430": [
+            1179.84,
+            1180.84,
+            "Bye."
+        ],
+        "431": [
+            1180.84,
+            1181.84,
+            "Bye."
+        ],
+        "432": [
+            1181.84,
+            1182.84,
+            "Bye."
+        ],
+        "433": [
+            1182.84,
+            1183.84,
+            "Bye."
+        ],
+        "434": [
+            1183.84,
+            1184.84,
+            "Bye."
+        ],
+        "435": [
+            1184.84,
+            1185.84,
+            "Bye."
+        ],
+        "436": [
+            1185.84,
+            1186.84,
+            "Bye."
+        ],
+        "437": [
+            1186.84,
+            1187.84,
+            "Bye."
+        ],
+        "438": [
+            1187.84,
+            1188.84,
+            "Bye."
+        ],
+        "439": [
+            1188.84,
+            1189.84,
+            "Bye."
+        ],
+        "440": [
+            1189.84,
+            1190.84,
+            "Bye."
+        ],
+        "441": [
+            1190.84,
+            1191.84,
+            "Bye."
+        ],
+        "442": [
+            1191.84,
+            1192.84,
+            "Bye."
+        ],
+        "443": [
+            1192.84,
+            1193.84,
+            "Bye."
+        ],
+        "444": [
+            1193.84,
+            1194.84,
+            "Bye."
+        ],
+        "445": [
+            1194.84,
+            1195.84,
+            "Bye."
+        ],
+        "446": [
+            1195.84,
+            1196.84,
+            "Bye."
+        ],
+        "447": [
+            1196.84,
+            1197.84,
+            "Bye."
+        ],
+        "448": [
+            1197.84,
+            1198.84,
+            "Bye."
+        ],
+        "449": [
+            1198.84,
+            1199.84,
+            "Bye."
+        ],
+        "450": [
+            1199.84,
+            1200.84,
+            "Bye."
+        ],
+        "451": [
+            1200.84,
+            1201.84,
+            "Bye."
+        ],
+        "452": [
+            1201.84,
+            1202.84,
+            "Bye."
+        ],
+        "453": [
+            1202.84,
+            1203.84,
+            "Bye."
+        ],
+        "454": [
+            1203.84,
+            1204.84,
+            "Bye."
+        ],
+        "455": [
+            1204.84,
+            1205.84,
+            "Bye."
+        ],
+        "456": [
+            1205.84,
+            1206.84,
+            "Bye."
+        ],
+        "457": [
+            1206.84,
+            1207.84,
+            "Bye."
+        ],
+        "458": [
+            1207.84,
+            1208.84,
+            "Bye."
+        ],
+        "459": [
+            1208.84,
+            1209.84,
+            "Bye."
+        ],
+        "460": [
+            1209.84,
+            1210.84,
+            "Bye."
+        ],
+        "461": [
+            1210.84,
+            1211.84,
+            "Bye."
+        ],
+        "462": [
+            1211.84,
+            1212.84,
+            "Bye."
+        ],
+        "463": [
+            1212.84,
+            1213.84,
+            "Bye."
+        ],
+        "464": [
+            1213.84,
+            1214.84,
+            "Bye."
+        ],
+        "465": [
+            1214.84,
+            1215.84,
+            "Bye."
+        ],
+        "466": [
+            1215.84,
+            1216.84,
+            "Bye."
+        ],
+        "467": [
+            1216.84,
+            1217.84,
+            "Bye."
+        ],
+        "468": [
+            1217.84,
+            1218.84,
+            "Bye."
+        ],
+        "469": [
+            1218.84,
+            1219.84,
+            "Bye."
+        ],
+        "470": [
+            1219.84,
+            1220.84,
+            "Bye."
+        ],
+        "471": [
+            1220.84,
+            1221.84,
+            "Bye."
+        ],
+        "472": [
+            1221.84,
+            1222.84,
+            "Bye."
+        ],
+        "473": [
+            1222.84,
+            1223.84,
+            "Bye."
+        ],
+        "474": [
+            1223.84,
+            1224.84,
+            "Bye."
+        ],
+        "475": [
+            1224.84,
+            1225.84,
+            "Bye."
+        ],
+        "476": [
+            1225.84,
+            1226.84,
+            "Bye."
+        ],
+        "477": [
+            1226.84,
+            1227.84,
+            "Bye."
+        ],
+        "478": [
+            1227.84,
+            1228.84,
+            "Bye."
+        ],
+        "479": [
+            1228.84,
+            1229.84,
+            "Bye."
+        ],
+        "480": [
+            1229.84,
+            1230.84,
+            "Bye."
+        ],
+        "481": [
+            1230.84,
+            1231.84,
+            "Bye."
+        ],
+        "482": [
+            1231.84,
+            1232.84,
+            "Bye."
+        ],
+        "483": [
+            1232.84,
+            1233.84,
+            "Bye."
+        ],
+        "484": [
+            1233.84,
+            1234.84,
+            "Bye."
+        ],
+        "485": [
+            1234.84,
+            1235.84,
+            "Bye."
+        ],
+        "486": [
+            1235.84,
+            1236.84,
+            "Bye."
+        ],
+        "487": [
+            1236.84,
+            1237.84,
+            "Bye."
+        ],
+        "488": [
+            1237.84,
+            1238.84,
+            "Bye."
+        ],
+        "489": [
+            1238.84,
+            1239.84,
+            "Bye."
+        ],
+        "490": [
+            1239.84,
+            1240.84,
+            "Bye."
+        ],
+        "491": [
+            1240.84,
+            1241.84,
+            "Bye."
+        ],
+        "492": [
+            1241.84,
+            1242.84,
+            "Bye."
+        ],
+        "493": [
+            1242.84,
+            1243.84,
+            "Bye."
+        ],
+        "494": [
+            1243.84,
+            1244.84,
+            "Bye."
+        ],
+        "495": [
+            1244.84,
+            1245.84,
+            "Bye."
+        ],
+        "496": [
+            1245.84,
+            1246.84,
+            "Bye."
+        ],
+        "497": [
+            1246.84,
+            1247.84,
+            "Bye."
+        ],
+        "498": [
+            1247.84,
+            1248.84,
+            "Bye."
+        ],
+        "499": [
+            1248.84,
+            1249.84,
+            "Bye."
+        ],
+        "500": [
+            1249.84,
+            1250.84,
+            "Bye."
+        ],
+        "501": [
+            1250.84,
+            1251.84,
+            "Bye."
+        ],
+        "502": [
+            1251.84,
+            1252.84,
+            "Bye."
+        ],
+        "503": [
+            1252.84,
+            1253.84,
+            "Bye."
+        ],
+        "504": [
+            1253.84,
+            1254.84,
+            "Bye."
+        ],
+        "505": [
+            1254.84,
+            1255.84,
+            "Bye."
+        ],
+        "506": [
+            1255.84,
+            1256.84,
+            "Bye."
+        ],
+        "507": [
+            1256.84,
+            1257.84,
+            "Bye."
+        ],
+        "508": [
+            1257.84,
+            1258.84,
+            "Bye."
+        ],
+        "509": [
+            1258.84,
+            1259.84,
+            "Bye."
+        ],
+        "510": [
+            1259.84,
+            1260.84,
+            "Bye."
+        ],
+        "511": [
+            1260.84,
+            1261.84,
+            "Bye."
+        ],
+        "512": [
+            1261.84,
+            1262.84,
+            "Bye."
+        ],
+        "513": [
+            1262.84,
+            1263.84,
+            "Bye."
+        ],
+        "514": [
+            1263.84,
+            1264.84,
+            "Bye."
+        ],
+        "515": [
+            1264.84,
+            1265.84,
+            "Bye."
+        ],
+        "516": [
+            1265.84,
+            1266.84,
+            "Bye."
+        ],
+        "517": [
+            1266.84,
+            1267.84,
+            "Bye."
+        ],
+        "518": [
+            1267.84,
+            1268.84,
+            "Bye."
+        ],
+        "519": [
+            1268.84,
+            1269.84,
+            "Bye."
+        ],
+        "520": [
+            1269.84,
+            1270.84,
+            "Bye."
+        ],
+        "521": [
+            1270.84,
+            1271.84,
+            "Bye."
+        ],
+        "522": [
+            1271.84,
+            1272.84,
+            "Bye."
+        ],
+        "523": [
+            1272.84,
+            1273.84,
+            "Bye."
+        ],
+        "524": [
+            1273.84,
+            1274.84,
+            "Bye."
+        ],
+        "525": [
+            1274.84,
+            1275.84,
+            "Bye."
+        ],
+        "526": [
+            1275.84,
+            1276.84,
+            "Bye."
+        ],
+        "527": [
+            1276.84,
+            1277.84,
+            "Bye."
+        ],
+        "528": [
+            1277.84,
+            1278.84,
+            "Bye."
+        ],
+        "529": [
+            1278.84,
+            1279.84,
+            "Bye."
+        ],
+        "530": [
+            1279.84,
+            1280.84,
+            "Bye."
+        ],
+        "531": [
+            1280.84,
+            1281.84,
+            "Bye."
+        ],
+        "532": [
+            1281.84,
+            1282.84,
+            "Bye."
+        ],
+        "533": [
+            1282.84,
+            1283.84,
+            "Bye."
+        ],
+        "534": [
+            1283.84,
+            1284.84,
+            "Bye."
+        ],
+        "535": [
+            1284.84,
+            1285.84,
+            "Bye."
+        ],
+        "536": [
+            1285.84,
+            1286.84,
+            "Bye."
+        ],
+        "537": [
+            1286.84,
+            1287.84,
+            "Bye."
+        ],
+        "538": [
+            1287.84,
+            1288.84,
+            "Bye."
+        ],
+        "539": [
+            1288.84,
+            1289.84,
+            "Bye."
+        ],
+        "540": [
+            1289.84,
+            1290.84,
+            "Bye."
+        ],
+        "541": [
+            1290.84,
+            1291.84,
+            "Bye."
+        ],
+        "542": [
+            1291.84,
+            1292.84,
+            "Bye."
+        ],
+        "543": [
+            1292.84,
+            1293.84,
+            "Bye."
+        ],
+        "544": [
+            1293.84,
+            1294.84,
+            "Bye."
+        ],
+        "545": [
+            1294.84,
+            1295.84,
+            "Bye."
+        ],
+        "546": [
+            1295.84,
+            1296.84,
+            "Bye."
+        ],
+        "547": [
+            1296.84,
+            1297.84,
+            "Bye."
+        ],
+        "548": [
+            1297.84,
+            1298.84,
+            "Bye."
+        ],
+        "549": [
+            1298.84,
+            1299.84,
+            "Bye."
+        ],
+        "550": [
+            1299.84,
+            1300.84,
+            "Bye."
+        ],
+        "551": [
+            1300.84,
+            1301.84,
+            "Bye."
+        ],
+        "552": [
+            1301.84,
+            1302.84,
+            "Bye."
+        ],
+        "553": [
+            1302.84,
+            1303.84,
+            "Bye."
+        ],
+        "554": [
+            1303.84,
+            1304.84,
+            "Bye."
+        ],
+        "555": [
+            1304.84,
+            1305.84,
+            "Bye."
+        ],
+        "556": [
+            1305.84,
+            1306.84,
+            "Bye."
+        ],
+        "557": [
+            1306.84,
+            1307.84,
+            "Bye."
+        ],
+        "558": [
+            1307.84,
+            1308.84,
+            "Bye."
+        ],
+        "559": [
+            1308.84,
+            1309.84,
+            "Bye."
+        ],
+        "560": [
+            1309.84,
+            1310.84,
+            "Bye."
+        ],
+        "561": [
+            1310.84,
+            1311.84,
+            "Bye."
+        ],
+        "562": [
+            1311.84,
+            1312.84,
+            "Bye."
+        ],
+        "563": [
+            1312.84,
+            1313.84,
+            "Bye."
+        ],
+        "564": [
+            1313.84,
+            1314.84,
+            "Bye."
+        ],
+        "565": [
+            1314.84,
+            1315.84,
+            "Bye."
+        ],
+        "566": [
+            1315.84,
+            1316.84,
+            "Bye."
+        ],
+        "567": [
+            1316.84,
+            1317.84,
+            "Bye."
+        ],
+        "568": [
+            1317.84,
+            1318.84,
+            "Bye."
+        ],
+        "569": [
+            1318.84,
+            1319.84,
+            "Bye."
+        ],
+        "570": [
+            1319.84,
+            1320.84,
+            "Bye."
+        ],
+        "571": [
+            1320.84,
+            1321.84,
+            "Bye."
+        ],
+        "572": [
+            1321.84,
+            1322.84,
+            "Bye."
+        ],
+        "573": [
+            1322.84,
+            1323.84,
+            "Bye."
+        ],
+        "574": [
+            1323.84,
+            1324.84,
+            "Bye."
+        ],
+        "575": [
+            1324.84,
+            1325.84,
+            "Bye."
+        ],
+        "576": [
+            1325.84,
+            1326.84,
+            "Bye."
+        ],
+        "577": [
+            1326.84,
+            1327.84,
+            "Bye."
+        ],
+        "578": [
+            1327.84,
+            1328.84,
+            "Bye Bye."
+        ],
+        "579": [
+            1328.84,
+            1329.84,
+            "Bye!"
+        ],
+        "580": [
+            1329.84,
+            1330.84,
+            "Bye."
+        ],
+        "581": [
+            1330.84,
+            1331.84,
+            "Bye!"
+        ],
+        "582": [
+            1331.84,
+            1332.84,
+            "Bye!"
+        ],
+        "583": [
+            1332.84,
+            1333.84,
+            "Bye!"
+        ],
+        "584": [
+            1333.84,
+            1334.84,
+            "Bye!"
+        ],
+        "585": [
+            1334.84,
+            1335.84,
+            "Bye!"
+        ],
+        "586": [
+            1335.84,
+            1336.84,
+            "Bye!"
+        ],
+        "587": [
+            1350.84,
+            1355.84,
+            "Stackalow, slider tries to go for it."
+        ],
+        "588": [
+            1357.84,
+            1358.84,
+            "Breaks."
+        ],
+        "589": [
+            1358.84,
+            1359.84,
+            "Forsberg."
+        ],
+        "590": [
+            1362.84,
+            1364.84,
+            "Now Pekarik gets the ball."
+        ],
+        "591": [
+            1364.84,
+            1366.84,
+            "But Gucci is there immediately."
+        ],
+        "592": [
+            1367.84,
+            1368.84,
+            "Forsberg has to wait, Demme."
+        ],
+        "593": [
+            1374.84,
+            1375.84,
+            "Calou."
+        ],
+        "594": [
+            1375.84,
+            1376.84,
+            "It's too easy."
+        ],
+        "595": [
+            1376.84,
+            1377.84,
+            "Breaks."
+        ],
+        "596": [
+            1378.84,
+            1379.84,
+            "And then it's over."
+        ],
+        "597": [
+            1381.84,
+            1382.84,
+            "Gucci."
+        ],
+        "598": [
+            1383.84,
+            1384.84,
+            "And then it's over."
+        ],
+        "599": [
+            1387.84,
+            1388.84,
+            "Slider."
+        ],
+        "600": [
+            1389.84,
+            1390.84,
+            "Unclean."
+        ],
+        "601": [
+            1394.84,
+            1395.84,
+            "Dietrich Matteschitz."
+        ],
+        "602": [
+            1398.84,
+            1400.84,
+            "The Lord of the Cans and the Lord of the Bulls."
+        ],
+        "603": [
+            1402.84,
+            1404.84,
+            "He has the game explained to him."
+        ],
+        "604": [
+            1404.84,
+            1406.84,
+            "That's a good shot."
+        ],
+        "605": [
+            1408.84,
+            1410.84,
+            "And now is the moment"
+        ],
+        "606": [
+            1411.84,
+            1413.84,
+            "where Valery Lobanovsky memory look."
+        ],
+        "607": [
+            1422.84,
+            1424.84,
+            "Here for the first time this season."
+        ],
+        "608": [
+            1427.84,
+            1429.84,
+            "He wants to come to Munich on Wednesday."
+        ],
+        "609": [
+            1430.84,
+            1432.84,
+            "For the big showdown before Christmas."
+        ],
+        "610": [
+            1432.84,
+            1434.84,
+            "The ball is not fully caught."
+        ],
+        "611": [
+            1435.84,
+            1436.84,
+            "Naby Keita again."
+        ],
+        "612": [
+            1447.84,
+            1448.84,
+            "Naby Keita again."
+        ],
+        "613": [
+            1453.84,
+            1455.84,
+            "The ball is not fully caught."
+        ],
+        "614": [
+            1463.84,
+            1464.84,
+            "The balls are too light."
+        ],
+        "615": [
+            1466.84,
+            1467.84,
+            "Then over the page."
+        ],
+        "616": [
+            1481.84,
+            1483.84,
+            "Hertha loses the balls too easily."
+        ],
+        "617": [
+            1484.84,
+            1486.84,
+            "The pass rate is 60%."
+        ],
+        "618": [
+            1487.84,
+            1490.84,
+            "That's a bit thin even for counterattack football."
+        ],
+        "619": [
+            1499.84,
+            1502.84,
+            "But they win almost 60% of the duels."
+        ],
+        "620": [
+            1508.84,
+            1509.84,
+            "Zabitza."
+        ],
+        "621": [
+            1512.84,
+            1513.84,
+            "Forsberg."
+        ],
+        "622": [
+            1517.84,
+            1519.84,
+            "That was a good shot."
+        ],
+        "623": [
+            1522.84,
+            1525.84,
+            "Pekarik got the ball from the side."
+        ],
+        "624": [
+            1526.84,
+            1528.84,
+            "Then it gets a little quieter."
+        ],
+        "625": [
+            1529.84,
+            1530.84,
+            "Forsberg."
+        ],
+        "626": [
+            1531.84,
+            1532.84,
+            "Fake."
+        ],
+        "627": [
+            1533.84,
+            1534.84,
+            "Forsberg."
+        ],
+        "628": [
+            1547.84,
+            1549.84,
+            "That was a good shot."
+        ],
+        "629": [
+            1550.84,
+            1552.84,
+            "That was a good shot."
+        ],
+        "630": [
+            1553.84,
+            1555.84,
+            "That was a good shot."
+        ],
+        "631": [
+            1556.84,
+            1559.84,
+            "Promotion and relegation with Ingolstadt."
+        ],
+        "632": [
+            1560.84,
+            1563.84,
+            "That is the previous sporting reference."
+        ],
+        "633": [
+            1564.84,
+            1565.84,
+            "In League 1 and League 2."
+        ],
+        "634": [
+            1566.84,
+            1567.84,
+            "By Ralf Hasenüttel."
+        ],
+        "635": [
+            1577.84,
+            1581.84,
+            "This is a team that is tried by all teams,"
+        ],
+        "636": [
+            1581.84,
+            1582.84,
+            "to transport."
+        ],
+        "637": [
+            1585.84,
+            1589.84,
+            "Ralf Hasenüttel's idea, as he understands football,"
+        ],
+        "638": [
+            1589.84,
+            1591.84,
+            "harmonize extremely well."
+        ],
+        "639": [
+            1600.84,
+            1602.84,
+            "It's a bit like barroom chatter."
+        ],
+        "640": [
+            1603.84,
+            1606.84,
+            "But Fritz has a clear view of what is happening."
+        ],
+        "641": [
+            1607.84,
+            1608.84,
+            "Nothing happens."
+        ],
+        "642": [
+            1609.84,
+            1610.84,
+            "Kalu."
+        ],
+        "643": [
+            1616.84,
+            1618.84,
+            "So, Maragucci versus Keita."
+        ],
+        "644": [
+            1619.84,
+            1621.84,
+            "If you can whistle, you don't have to."
+        ],
+        "645": [
+            1622.84,
+            1623.84,
+            "Pants against Alain."
+        ],
+        "646": [
+            1624.84,
+            1625.84,
+            "Arm goes out."
+        ],
+        "647": [
+            1626.84,
+            1628.84,
+            "If you can whistle, you don't have to."
+        ],
+        "648": [
+            1632.84,
+            1634.84,
+            "That was a good shot."
+        ],
+        "649": [
+            1635.84,
+            1637.84,
+            "That was a good shot."
+        ],
+        "650": [
+            1637.84,
+            1639.84,
+            "That was a good shot."
+        ],
+        "651": [
+            1640.84,
+            1642.84,
+            "That was a good shot."
+        ],
+        "652": [
+            1661.84,
+            1665.84,
+            "It had something of the Batsbenzer Terence Hill loop."
+        ],
+        "653": [
+            1668.84,
+            1670.84,
+            "A little bludgeoned."
+        ],
+        "654": [
+            1671.84,
+            1672.84,
+            "A few fall above."
+        ],
+        "655": [
+            1673.84,
+            1674.84,
+            "Everyone gets up again."
+        ],
+        "656": [
+            1675.84,
+            1676.84,
+            "Continue with football."
+        ],
+        "657": [
+            1681.84,
+            1682.84,
+            "Herzberg."
+        ],
+        "658": [
+            1698.84,
+            1699.84,
+            "Keita."
+        ],
+        "659": [
+            1701.84,
+            1702.84,
+            "Zabitza."
+        ],
+        "660": [
+            1709.84,
+            1711.84,
+            "Ball possession conditions stable."
+        ],
+        "661": [
+            1712.84,
+            1713.84,
+            "60-40 per Leipzig."
+        ],
+        "662": [
+            1728.84,
+            1729.84,
+            "Maragucci."
+        ],
+        "663": [
+            1748.84,
+            1749.84,
+            "Pecsik."
+        ],
+        "664": [
+            1753.84,
+            1756.84,
+            "He has already become German champion in Wolfsburg."
+        ],
+        "665": [
+            1757.84,
+            1760.84,
+            "He has already become German champion in Wolfsburg."
+        ],
+        "666": [
+            1761.84,
+            1762.84,
+            "He's in the Bundesliga."
+        ],
+        "667": [
+            1763.84,
+            1764.84,
+            "He's in the Bundesliga."
+        ],
+        "668": [
+            1765.84,
+            1766.84,
+            "Kladnath."
+        ],
+        "669": [
+            1767.84,
+            1768.84,
+            "Slider."
+        ],
+        "670": [
+            1769.84,
+            1770.84,
+            "Slider."
+        ],
+        "671": [
+            1775.84,
+            1779.84,
+            "Incidentally, this was the first ball action by a Hertha player."
+        ],
+        "672": [
+            1780.84,
+            1782.84,
+            "In the opponent's 16-meter round."
+        ],
+        "673": [
+            1788.84,
+            1791.84,
+            "That was in the opponent's 16-meter round."
+        ],
+        "674": [
+            1792.84,
+            1794.84,
+            "That was in the opponent's 16-meter round."
+        ],
+        "675": [
+            1795.84,
+            1796.84,
+            "45,000 standing."
+        ],
+        "676": [
+            1797.84,
+            1798.84,
+            "45,000 standing."
+        ],
+        "677": [
+            1805.84,
+            1807.84,
+            "This is a gigantic atmosphere."
+        ],
+        "678": [
+            1808.84,
+            1810.84,
+            "This is a gigantic atmosphere."
+        ],
+        "679": [
+            1811.84,
+            1813.84,
+            "This is a gigantic atmosphere."
+        ],
+        "680": [
+            1814.84,
+            1815.84,
+            "You can't buy them."
+        ],
+        "681": [
+            1816.84,
+            1817.84,
+            "You can't buy them."
+        ],
+        "682": [
+            1828.84,
+            1829.84,
+            "The foul by Stark."
+        ],
+        "683": [
+            1830.84,
+            1831.84,
+            "The foul by Stark."
+        ],
+        "684": [
+            1836.84,
+            1838.84,
+            "Stark is immediately removed from circulation."
+        ],
+        "685": [
+            1839.84,
+            1841.84,
+            "Stark is immediately removed from circulation."
+        ],
+        "686": [
+            1845.84,
+            1847.84,
+            "Stark is immediately removed from circulation."
+        ],
+        "687": [
+            1849.84,
+            1851.84,
+            "Stark is immediately removed from circulation."
+        ],
+        "688": [
+            1856.84,
+            1859.84,
+            "Fritz continues to keep this game on a long leash."
+        ],
+        "689": [
+            1860.84,
+            1863.84,
+            "Fritz continues to keep this game on a long leash."
+        ],
+        "690": [
+            1872.84,
+            1874.84,
+            "Strong is the Vopach with serious consequences"
+        ],
+        "691": [
+            1875.84,
+            1879.84,
+            "was publicly defended by those responsible."
+        ],
+        "692": [
+            1882.84,
+            1886.84,
+            "At 21, he can still make mistakes."
+        ],
+        "693": [
+            1897.84,
+            1899.84,
+            "Good this way. Dams!"
+        ],
+        "694": [
+            1905.84,
+            1908.84,
+            "Sabitzer!"
+        ],
+        "695": [
+            1927.84,
+            1930.84,
+            "Kulaci!"
+        ],
+        "696": [
+            1936.84,
+            1939.84,
+            "Get your head off!"
+        ],
+        "697": [
+            1945.84,
+            1948.84,
+            "That was tighter in the beginning."
+        ],
+        "698": [
+            1948.84,
+            1951.84,
+            "That was a good hit."
+        ],
+        "699": [
+            1970.84,
+            1973.84,
+            "He can live with the result."
+        ],
+        "700": [
+            1978.84,
+            1981.84,
+            "That was a good hit."
+        ],
+        "701": [
+            1982.84,
+            1985.84,
+            "This does not have to be implemented."
+        ],
+        "702": [
+            1986.84,
+            1989.84,
+            "At least the ideas when it comes to the offensive game."
+        ],
+        "703": [
+            1990.84,
+            1993.84,
+            "Leipziger is on the ground."
+        ],
+        "704": [
+            1994.84,
+            1997.84,
+            "Now it's interrupted."
+        ],
+        "705": [
+            2001.84,
+            2004.84,
+            "Keita apparently took a big hit from Niklas."
+        ],
+        "706": [
+            2004.84,
+            2007.84,
+            "That was a good hit."
+        ],
+        "707": [
+            2034.84,
+            2037.84,
+            "Keita!"
+        ],
+        "708": [
+            2037.84,
+            2040.84,
+            "Keita!"
+        ],
+        "709": [
+            2040.84,
+            2043.84,
+            "Keita!"
+        ],
+        "710": [
+            2043.84,
+            2046.84,
+            "Keita!"
+        ],
+        "711": [
+            2059.84,
+            2062.84,
+            "Keita!"
+        ],
+        "712": [
+            2065.84,
+            2068.84,
+            "Merda!"
+        ],
+        "713": [
+            2073.84,
+            2076.84,
+            "Keita!"
+        ],
+        "714": [
+            2079.84,
+            2082.84,
+            "Keita!"
+        ],
+        "715": [
+            2083.84,
+            2086.84,
+            "Keita!"
+        ],
+        "716": [
+            2091.84,
+            2094.84,
+            "This is the player with the most ball actions."
+        ],
+        "717": [
+            2095.84,
+            2098.84,
+            "The goalkeeper."
+        ],
+        "718": [
+            2103.84,
+            2106.84,
+            "That was a good hit."
+        ],
+        "719": [
+            2107.84,
+            2110.84,
+            "Year stone at 21."
+        ],
+        "720": [
+            2133.84,
+            2136.84,
+            "That was a good hit."
+        ],
+        "721": [
+            2137.84,
+            2140.84,
+            "That was a good hit."
+        ],
+        "722": [
+            2141.84,
+            2144.84,
+            "That was a good hit."
+        ],
+        "723": [
+            2145.84,
+            2148.84,
+            "Niklas rocked that one."
+        ],
+        "724": [
+            2163.84,
+            2166.84,
+            "That was a good hit."
+        ],
+        "725": [
+            2167.84,
+            2170.84,
+            "That was a good hit."
+        ],
+        "726": [
+            2171.84,
+            2174.84,
+            "Gattuso would have liked to have been a good preparer."
+        ],
+        "727": [
+            2175.84,
+            2178.84,
+            "Gattuso."
+        ],
+        "728": [
+            2179.84,
+            2182.84,
+            "That's the one who barked on the pitch."
+        ],
+        "729": [
+            2183.84,
+            2186.84,
+            "Pirlo would have liked to have been that quick."
+        ],
+        "730": [
+            2187.84,
+            2190.84,
+            "Pirlo has elevated the castle to art."
+        ],
+        "731": [
+            2193.84,
+            2196.84,
+            "That was a good hit."
+        ],
+        "732": [
+            2197.84,
+            2200.84,
+            "That was a good hit."
+        ],
+        "733": [
+            2201.84,
+            2204.84,
+            "That was a good hit."
+        ],
+        "734": [
+            2205.84,
+            2208.84,
+            "Demme."
+        ],
+        "735": [
+            2209.84,
+            2212.84,
+            "Orban."
+        ],
+        "736": [
+            2213.84,
+            2216.84,
+            "Ilse Anker."
+        ],
+        "737": [
+            2217.84,
+            2220.84,
+            "Ernest."
+        ],
+        "738": [
+            2223.84,
+            2226.84,
+            "Ernest."
+        ],
+        "739": [
+            2227.84,
+            2230.84,
+            "Ernest."
+        ],
+        "740": [
+            2231.84,
+            2234.84,
+            "He has the ball in good hands."
+        ],
+        "741": [
+            2235.84,
+            2238.84,
+            "He has the ball in good hands."
+        ],
+        "742": [
+            2239.84,
+            2242.84,
+            "He has the ball in good hands."
+        ],
+        "743": [
+            2243.84,
+            2246.84,
+            "The Berliners took it offline."
+        ],
+        "744": [
+            2247.84,
+            2250.84,
+            "The Berliners took it offline."
+        ],
+        "745": [
+            2253.84,
+            2256.84,
+            "That was a good hit."
+        ],
+        "746": [
+            2257.84,
+            2260.84,
+            "That was a good hit."
+        ],
+        "747": [
+            2261.84,
+            2264.84,
+            "Paulsen."
+        ],
+        "748": [
+            2265.84,
+            2268.84,
+            "Paulsen."
+        ],
+        "749": [
+            2269.84,
+            2272.84,
+            "The Berliners always manage to"
+        ],
+        "750": [
+            2273.84,
+            2276.84,
+            "to focus on the Leipzig game."
+        ],
+        "751": [
+            2277.84,
+            2280.84,
+            "There are many of them."
+        ],
+        "752": [
+            2280.84,
+            2283.84,
+            "There are many of them."
+        ],
+        "753": [
+            2284.84,
+            2287.84,
+            "There are many of them."
+        ],
+        "754": [
+            2288.84,
+            2291.84,
+            "There are many of them."
+        ],
+        "755": [
+            2292.84,
+            2295.84,
+            "Leipzig manages it with Halstenberg,"
+        ],
+        "756": [
+            2296.84,
+            2299.84,
+            "Bernardo,"
+        ],
+        "757": [
+            2300.84,
+            2303.84,
+            "and Forsberg rarely gets to the baseline."
+        ],
+        "758": [
+            2304.84,
+            2307.84,
+            "and Forsberg rarely gets to the baseline."
+        ],
+        "759": [
+            2307.84,
+            2310.84,
+            "That was a good hit."
+        ],
+        "760": [
+            2311.84,
+            2314.84,
+            "That was a good hit."
+        ],
+        "761": [
+            2315.84,
+            2318.84,
+            "He was against pushers."
+        ],
+        "762": [
+            2319.84,
+            2322.84,
+            "He was against pushers."
+        ],
+        "763": [
+            2323.84,
+            2326.84,
+            "He was well in front of the goal."
+        ],
+        "764": [
+            2327.84,
+            2330.84,
+            "He was well in front of the goal."
+        ],
+        "765": [
+            2331.84,
+            2334.84,
+            "Tomorrow is the KIA football debate."
+        ],
+        "766": [
+            2334.84,
+            2337.84,
+            "Tomorrow is the KIA football debate."
+        ],
+        "767": [
+            2338.84,
+            2341.84,
+            "The KIA football debate."
+        ],
+        "768": [
+            2342.84,
+            2345.84,
+            "There is Jürgen Kohler from RB Leipzig."
+        ],
+        "769": [
+            2346.84,
+            2349.84,
+            "There is Jürgen Kohler from RB Leipzig."
+        ],
+        "770": [
+            2350.84,
+            2353.84,
+            "And Sven Töllner."
+        ],
+        "771": [
+            2354.84,
+            2357.84,
+            "Paulsen."
+        ],
+        "772": [
+            2358.84,
+            2361.84,
+            "Paulsen."
+        ],
+        "773": [
+            2364.84,
+            2367.84,
+            "Paulsen."
+        ],
+        "774": [
+            2368.84,
+            2371.84,
+            "Paulsen."
+        ],
+        "775": [
+            2372.84,
+            2375.84,
+            "Paulsen."
+        ],
+        "776": [
+            2376.84,
+            2379.84,
+            "Paulsen."
+        ],
+        "777": [
+            2380.84,
+            2383.84,
+            "Paulsen."
+        ],
+        "778": [
+            2384.84,
+            2387.84,
+            "Totti."
+        ],
+        "779": [
+            2388.84,
+            2391.84,
+            "Totti."
+        ],
+        "780": [
+            2391.84,
+            2394.84,
+            "Totti."
+        ],
+        "781": [
+            2395.84,
+            2398.84,
+            "Totti."
+        ],
+        "782": [
+            2399.84,
+            2402.84,
+            "Werner."
+        ],
+        "783": [
+            2403.84,
+            2406.84,
+            "Werner."
+        ],
+        "784": [
+            2407.84,
+            2410.84,
+            "40 minutes."
+        ],
+        "785": [
+            2421.84,
+            2424.84,
+            "The KIA football debate."
+        ],
+        "786": [
+            2424.84,
+            2427.84,
+            "The KIA football debate."
+        ],
+        "787": [
+            2427.84,
+            2430.84,
+            "The KIA football debate."
+        ],
+        "788": [
+            2431.84,
+            2434.84,
+            "Goal for RB Leipzig."
+        ],
+        "789": [
+            2435.84,
+            2438.84,
+            "Goal for RB Leipzig."
+        ],
+        "790": [
+            2439.84,
+            2442.84,
+            "For a moment."
+        ],
+        "791": [
+            2443.84,
+            2446.84,
+            "For a moment."
+        ],
+        "792": [
+            2446.84,
+            2449.84,
+            "Goal for RB Leipzig."
+        ],
+        "793": [
+            2450.84,
+            2453.84,
+            "Goal for RB Leipzig."
+        ],
+        "794": [
+            2454.84,
+            2457.84,
+            "Werner puts it in the corner."
+        ],
+        "795": [
+            2458.84,
+            2461.84,
+            "9th goal of the season for him."
+        ],
+        "796": [
+            2462.84,
+            2465.84,
+            "And that is the story"
+        ],
+        "797": [
+            2466.84,
+            2469.84,
+            "from 14 days ago finally off the table."
+        ],
+        "798": [
+            2470.84,
+            2473.84,
+            "Yes, he made a mistake."
+        ],
+        "799": [
+            2473.84,
+            2476.84,
+            "That was a mistake."
+        ],
+        "800": [
+            2477.84,
+            2480.84,
+            "That was a mistake."
+        ],
+        "801": [
+            2481.84,
+            2484.84,
+            "This shouldn't be given a higher moral priority"
+        ],
+        "802": [
+            2485.84,
+            2488.84,
+            "as absolutely necessary."
+        ],
+        "803": [
+            2489.84,
+            2492.84,
+            "It makes no sense,"
+        ],
+        "804": [
+            2493.84,
+            2496.84,
+            "to shake off every duel."
+        ],
+        "805": [
+            2497.84,
+            2500.84,
+            "How much did he stage?"
+        ],
+        "806": [
+            2500.84,
+            2503.84,
+            "He scored the goal"
+        ],
+        "807": [
+            2504.84,
+            2507.84,
+            "because he is an excellent footballer."
+        ],
+        "808": [
+            2508.84,
+            2511.84,
+            "Slider with gate track."
+        ],
+        "809": [
+            2512.84,
+            2515.84,
+            "Back again."
+        ],
+        "810": [
+            2516.84,
+            2519.84,
+            "Kehter."
+        ],
+        "811": [
+            2520.84,
+            2523.84,
+            "Kehter."
+        ],
+        "812": [
+            2524.84,
+            2527.84,
+            "A tad too long."
+        ],
+        "813": [
+            2527.84,
+            2530.84,
+            "A tad too long."
+        ],
+        "814": [
+            2531.84,
+            2534.84,
+            "Too little relief in your own game."
+        ],
+        "815": [
+            2535.84,
+            2538.84,
+            "Too little relief in your own game."
+        ],
+        "816": [
+            2539.84,
+            2542.84,
+            "And once in the center."
+        ],
+        "817": [
+            2543.84,
+            2546.84,
+            "And once in the center."
+        ],
+        "818": [
+            2547.84,
+            2550.84,
+            "Half a meter too far."
+        ],
+        "819": [
+            2551.84,
+            2554.84,
+            "Half a meter too far."
+        ],
+        "820": [
+            2554.84,
+            2557.84,
+            "And once in the center."
+        ],
+        "821": [
+            2558.84,
+            2561.84,
+            "Half a meter too far."
+        ],
+        "822": [
+            2562.84,
+            2565.84,
+            "And Lustenberger."
+        ],
+        "823": [
+            2566.84,
+            2569.84,
+            "And Lustenberger."
+        ],
+        "824": [
+            2570.84,
+            2573.84,
+            "And Lustenberger."
+        ],
+        "825": [
+            2574.84,
+            2577.84,
+            "And if you base your game shares on that,"
+        ],
+        "826": [
+            2578.84,
+            2581.84,
+            "it is a deserved leadership."
+        ],
+        "827": [
+            2581.84,
+            2584.84,
+            "And he did it."
+        ],
+        "828": [
+            2585.84,
+            2588.84,
+            "I am already experiencing gap loss."
+        ],
+        "829": [
+            2589.84,
+            2592.84,
+            "He loses the balls too easily."
+        ],
+        "830": [
+            2593.84,
+            2596.84,
+            "He did it."
+        ],
+        "831": [
+            2597.84,
+            2600.84,
+            "He did it."
+        ],
+        "832": [
+            2601.84,
+            2604.84,
+            "He did it."
+        ],
+        "833": [
+            2606.84,
+            2609.84,
+            "Zabitzer."
+        ],
+        "834": [
+            2610.84,
+            2613.84,
+            "Kehter."
+        ],
+        "835": [
+            2614.84,
+            2617.84,
+            "And the last Pegarek in between."
+        ],
+        "836": [
+            2622.84,
+            2625.84,
+            "And flat out plagiarized."
+        ],
+        "837": [
+            2645.84,
+            2648.84,
+            "slatur Druivice."
+        ],
+        "838": [
+            2648.84,
+            2657.04,
+            "Advantage awaited. I think it's impartial, because that's also the case"
+        ],
+        "839": [
+            2657.04,
+            2662.36,
+            "Disposition stood before the game, impartiality has nothing to do with it"
+        ],
+        "840": [
+            2662.36,
+            2665.1600000000003,
+            "let debts arise. If we see the hit here again, last game"
+        ],
+        "841": [
+            2665.1600000000003,
+            2669.48,
+            "the long leash. Players don't overdo it."
+        ],
+        "842": [
+            2672.52,
+            2676.88,
+            "And the entertainment value benefits."
+        ],
+        "843": [
+            2677.08,
+            2685.44,
+            "The people of Leipzig are now leading in all relevant statistical values."
+        ],
+        "844": [
+            2685.44,
+            2692.44,
+            "Result clear, possession 62 38, shots on goal 8 to 2."
+        ],
+        "845": [
+            2692.44,
+            2699.08,
+            "But from Berlin's perspective, everything was scraped together in some form"
+        ],
+        "846": [
+            2699.08,
+            2703.7200000000003,
+            "moved towards Coulache."
+        ]
+    }
+}

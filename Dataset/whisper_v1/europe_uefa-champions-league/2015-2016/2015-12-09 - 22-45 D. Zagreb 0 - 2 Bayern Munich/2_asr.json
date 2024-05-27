@@ -1,0 +1,149 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            1.0,
+            "This is the point."
+        ],
+        "1": [
+            1.0,
+            2.0,
+            "This is the point."
+        ],
+        "2": [
+            2.0,
+            3.0,
+            "This is the point."
+        ],
+        "3": [
+            3.0,
+            4.0,
+            "This is the point."
+        ],
+        "4": [
+            4.0,
+            5.0,
+            "This is the point."
+        ],
+        "5": [
+            5.0,
+            6.0,
+            "This is the point."
+        ],
+        "6": [
+            6.0,
+            7.0,
+            "This is the point."
+        ],
+        "7": [
+            7.0,
+            8.0,
+            "This is the point."
+        ],
+        "8": [
+            8.0,
+            9.0,
+            "This is the point."
+        ],
+        "9": [
+            9.0,
+            10.0,
+            "This is the point."
+        ],
+        "10": [
+            10.0,
+            11.0,
+            "This is the point."
+        ],
+        "11": [
+            11.0,
+            12.0,
+            "This is the point."
+        ],
+        "12": [
+            12.0,
+            13.0,
+            "This is the point."
+        ],
+        "13": [
+            13.0,
+            14.0,
+            "This is the point."
+        ],
+        "14": [
+            14.0,
+            15.0,
+            "This is the point."
+        ],
+        "15": [
+            15.0,
+            16.0,
+            "This is the point."
+        ],
+        "16": [
+            16.0,
+            17.0,
+            "This is the point."
+        ],
+        "17": [
+            17.0,
+            18.0,
+            "This is the point."
+        ],
+        "18": [
+            18.0,
+            19.0,
+            "This is the point."
+        ],
+        "19": [
+            19.0,
+            20.0,
+            "This is the point."
+        ],
+        "20": [
+            20.0,
+            21.0,
+            "This is the point."
+        ],
+        "21": [
+            21.0,
+            22.0,
+            "This is the point."
+        ],
+        "22": [
+            22.0,
+            23.0,
+            "This is the point."
+        ],
+        "23": [
+            23.0,
+            24.0,
+            "This is the point."
+        ],
+        "24": [
+            24.0,
+            25.0,
+            "This is the point."
+        ],
+        "25": [
+            25.0,
+            26.0,
+            "This is the point."
+        ],
+        "26": [
+            26.0,
+            27.0,
+            "This is the point."
+        ],
+        "27": [
+            27.0,
+            28.0,
+            "This is the point."
+        ],
+        "28": [
+            28.0,
+            29.0,
+            "This is the point."
+        ]
+    }
+}

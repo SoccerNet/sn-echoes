@@ -1,0 +1,479 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            7.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important."
+        ],
+        "1": [
+            7.0,
+            14.0,
+            "Both sides will be playing against each other, and the result will be decided by the winners."
+        ],
+        "2": [
+            30.0,
+            58.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "3": [
+            60.0,
+            75.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "4": [
+            90.0,
+            105.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "5": [
+            120.0,
+            140.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "6": [
+            140.0,
+            160.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "7": [
+            160.0,
+            175.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "8": [
+            175.0,
+            190.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "9": [
+            190.0,
+            215.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "10": [
+            215.0,
+            230.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "11": [
+            230.0,
+            250.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "12": [
+            250.0,
+            278.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "13": [
+            280.0,
+            305.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "14": [
+            305.0,
+            333.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "15": [
+            335.0,
+            363.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "16": [
+            365.0,
+            393.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "17": [
+            395.0,
+            423.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "18": [
+            425.0,
+            453.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "19": [
+            455.0,
+            483.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "20": [
+            485.0,
+            513.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "21": [
+            515.0,
+            543.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "22": [
+            545.0,
+            573.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "23": [
+            575.0,
+            603.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "24": [
+            605.0,
+            633.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "25": [
+            635.0,
+            663.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "26": [
+            665.0,
+            693.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "27": [
+            695.0,
+            723.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "28": [
+            725.0,
+            753.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "29": [
+            755.0,
+            783.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "30": [
+            785.0,
+            813.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "31": [
+            815.0,
+            843.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "32": [
+            845.0,
+            873.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "33": [
+            875.0,
+            903.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "34": [
+            905.0,
+            933.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "35": [
+            935.0,
+            963.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "36": [
+            965.0,
+            993.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "37": [
+            995.0,
+            1023.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "38": [
+            1025.0,
+            1053.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "39": [
+            1055.0,
+            1083.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "40": [
+            1085.0,
+            1113.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "41": [
+            1115.0,
+            1143.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "42": [
+            1145.0,
+            1173.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "43": [
+            1175.0,
+            1203.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "44": [
+            1205.0,
+            1233.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "45": [
+            1235.0,
+            1263.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "46": [
+            1265.0,
+            1293.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "47": [
+            1295.0,
+            1323.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "48": [
+            1325.0,
+            1353.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "49": [
+            1355.0,
+            1383.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "50": [
+            1385.0,
+            1413.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "51": [
+            1415.0,
+            1443.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "52": [
+            1445.0,
+            1473.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "53": [
+            1475.0,
+            1503.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "54": [
+            1505.0,
+            1533.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "55": [
+            1533.0,
+            1561.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "56": [
+            1563.0,
+            1591.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "57": [
+            1593.0,
+            1621.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "58": [
+            1623.0,
+            1651.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "59": [
+            1653.0,
+            1681.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "60": [
+            1683.0,
+            1711.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "61": [
+            1711.0,
+            1739.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "62": [
+            1741.0,
+            1769.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "63": [
+            1771.0,
+            1799.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "64": [
+            1801.0,
+            1829.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "65": [
+            1831.0,
+            1859.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "66": [
+            1861.0,
+            1889.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "67": [
+            1891.0,
+            1919.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "68": [
+            1921.0,
+            1949.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "69": [
+            1951.0,
+            1979.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "70": [
+            1981.0,
+            2009.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "71": [
+            2011.0,
+            2039.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "72": [
+            2041.0,
+            2069.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "73": [
+            2071.0,
+            2099.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "74": [
+            2101.0,
+            2129.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "75": [
+            2131.0,
+            2159.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "76": [
+            2161.0,
+            2189.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "77": [
+            2191.0,
+            2219.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "78": [
+            2221.0,
+            2249.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "79": [
+            2251.0,
+            2279.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "80": [
+            2281.0,
+            2309.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "81": [
+            2311.0,
+            2339.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "82": [
+            2341.0,
+            2369.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "83": [
+            2371.0,
+            2399.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "84": [
+            2401.0,
+            2429.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "85": [
+            2431.0,
+            2459.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "86": [
+            2461.0,
+            2489.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "87": [
+            2491.0,
+            2519.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "88": [
+            2521.0,
+            2549.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "89": [
+            2551.0,
+            2577.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "90": [
+            2581.0,
+            2609.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "91": [
+            2611.0,
+            2639.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "92": [
+            2641.0,
+            2669.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "93": [
+            2669.0,
+            2697.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ],
+        "94": [
+            2699.0,
+            2700.0,
+            "The match between Kevin De Bruyne and Sergi Roberto will be very important"
+        ]
+    }
+}

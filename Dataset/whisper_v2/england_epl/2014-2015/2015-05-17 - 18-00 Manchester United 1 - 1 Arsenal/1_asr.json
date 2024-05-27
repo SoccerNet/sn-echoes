@@ -1,0 +1,3184 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            7.0,
+            "El equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "1": [
+            7.0,
+            14.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "2": [
+            14.0,
+            21.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "3": [
+            21.0,
+            28.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "4": [
+            28.0,
+            35.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "5": [
+            35.0,
+            42.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "6": [
+            42.0,
+            49.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "7": [
+            49.0,
+            56.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "8": [
+            56.0,
+            63.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "9": [
+            63.0,
+            70.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "10": [
+            70.0,
+            77.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "11": [
+            77.0,
+            84.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "12": [
+            84.0,
+            91.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "13": [
+            91.0,
+            98.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "14": [
+            98.0,
+            105.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "15": [
+            105.0,
+            113.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "16": [
+            113.0,
+            120.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "17": [
+            120.0,
+            127.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "18": [
+            127.0,
+            134.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "19": [
+            134.0,
+            142.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "20": [
+            142.0,
+            149.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "21": [
+            149.0,
+            156.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "22": [
+            156.0,
+            163.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "23": [
+            163.0,
+            170.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "24": [
+            170.0,
+            177.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "25": [
+            177.0,
+            184.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "26": [
+            184.0,
+            191.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "27": [
+            191.0,
+            199.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "28": [
+            199.0,
+            206.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "29": [
+            206.0,
+            213.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "30": [
+            213.0,
+            220.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "31": [
+            220.0,
+            227.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "32": [
+            228.0,
+            234.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "33": [
+            234.0,
+            241.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "34": [
+            241.0,
+            248.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "35": [
+            248.0,
+            255.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "36": [
+            255.0,
+            262.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "37": [
+            262.0,
+            269.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "38": [
+            269.0,
+            276.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "39": [
+            276.0,
+            283.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "40": [
+            283.0,
+            290.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "41": [
+            290.0,
+            297.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "42": [
+            297.0,
+            304.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "43": [
+            304.0,
+            311.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "44": [
+            311.0,
+            318.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "45": [
+            318.0,
+            325.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "46": [
+            325.0,
+            332.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "47": [
+            332.0,
+            339.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "48": [
+            339.0,
+            346.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "49": [
+            346.0,
+            353.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "50": [
+            353.0,
+            360.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "51": [
+            360.0,
+            367.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "52": [
+            367.0,
+            374.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "53": [
+            374.0,
+            381.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "54": [
+            381.0,
+            388.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "55": [
+            388.0,
+            395.0,
+            "el equipo de la semana, el equipo de la semana, el equipo de la semana, el equipo de la semana,"
+        ],
+        "56": [
+            396.0,
+            407.0,
+            "PSG también, por cierto, incluso se comenta que Sarkozy, Nicolás Sarkozy, estaría dispuesto a poner dinero de su bolsillo,"
+        ],
+        "57": [
+            407.0,
+            414.0,
+            "eso he leído yo ayer, para que el PSG, el Paris Saint Germain, fichara a Paul Pogba."
+        ],
+        "58": [
+            416.0,
+            422.0,
+            "Ese balón que baja Valencia, tocándolo para Radamel Falcao,"
+        ],
+        "59": [
+            422.0,
+            426.0,
+            "puntos contra uno, que han hecho ahí al colombiano,"
+        ],
+        "60": [
+            427.0,
+            432.0,
+            "Koekelén, retrasó Ramsey, Ramsey para Mertesaka,"
+        ],
+        "61": [
+            434.0,
+            438.0,
+            "va a pedir el balón Cazorla, que yo creo que es el primero que toca, lo devuelve Cazorla a Mertesaka,"
+        ],
+        "62": [
+            443.0,
+            447.0,
+            "aguanta Cazorla porque le presionaba, estaba delante, lo está pulizando el Emar Juan Fellaini,"
+        ],
+        "63": [
+            453.0,
+            459.0,
+            "Blind. Es importante, Blind juega con mediocentros más retrasados, posicionarse, quita los centrales, ahí tenemos la jugada,"
+        ],
+        "64": [
+            459.0,
+            464.0,
+            "ahí lo vemos claramente, y claro, Fellaini, sobre todo Ander Herrera, también Fellaini, pero más Ander Herrera,"
+        ],
+        "65": [
+            464.0,
+            470.0,
+            "incluso alguna de Juan Mata viene a ayudar, y es muy importante tener interiores de mucha calidad con la pelota"
+        ],
+        "66": [
+            470.0,
+            474.0,
+            "cuando tienes un mediocentro que juega claramente muy retrasado, como es Dani Blind."
+        ],
+        "67": [
+            474.0,
+            478.0,
+            "Ahí está, precisamente sacando el balón, Daley Blind. Como es Daley Blind, Dani Blind es su padre,"
+        ],
+        "68": [
+            479.0,
+            481.0,
+            "que fue campeón de Europa con el Ajax."
+        ],
+        "69": [
+            482.0,
+            488.0,
+            "Y del Ajax, llegó también Daley Blind al United el pasado verano, cosa más extraña, de hecho ahí Marcos Rojo"
+        ],
+        "70": [
+            489.0,
+            491.0,
+            "con el balón pide disculpas a Asli Young."
+        ],
+        "71": [
+            494.0,
+            501.0,
+            "Saque de banda para Bellerín, más que titular, titularísimo en los últimos dos meses, más o menos,"
+        ],
+        "72": [
+            502.0,
+            505.0,
+            "de competición, titularísimo en el Arsenal, en ese lateral derecho."
+        ],
+        "73": [
+            506.0,
+            508.0,
+            "Abre Mata, para Asli Young."
+        ],
+        "74": [
+            511.0,
+            515.0,
+            "Uno para uno con Bellerín, el centro de Asli Young, segundo palo, buscaba, se quedó un poquito corto,"
+        ],
+        "75": [
+            515.0,
+            519.0,
+            "pero buena acción de Asli Young, despejó Koscielny, recupera al United de Valencia,"
+        ],
+        "76": [
+            519.0,
+            526.0,
+            "antes tocó Ander Herrera, otra vez Ander, combina con Mata, control orientado y el pase para que se filtre Falcao,"
+        ],
+        "77": [
+            527.0,
+            529.0,
+            "se cruzó Koscielny, buena jugada del United."
+        ],
+        "78": [
+            529.0,
+            534.0,
+            "Sí, bien Falcao el movimiento, muy bien Mata, viendo perfectamente el desmarque que iba a trazar ahí Falcao."
+        ],
+        "79": [
+            535.0,
+            539.0,
+            "Bueno, tocando por abajo, veis como tiene que jugar el United con jugadores del nivel de Mata, de Ander Herrera."
+        ],
+        "80": [
+            540.0,
+            543.0,
+            "Y es como puede hacer daño, lógicamente, al Arsenal."
+        ],
+        "81": [
+            543.0,
+            546.0,
+            "Saque de esquina, los Red Devils."
+        ],
+        "82": [
+            548.0,
+            550.0,
+            "A la izquierda de la portería David Osfina."
+        ],
+        "83": [
+            550.0,
+            561.0,
+            "No tenemos entre los dos casi cuatro metros, Mertes saca, metro noventa y ocho y Mauron Fellain, metro noventa y cinco."
+        ],
+        "84": [
+            563.0,
+            566.0,
+            "José Balón que le cae a Chris Smolin, córner."
+        ],
+        "85": [
+            567.0,
+            572.0,
+            "El disparo del hoy capitán del Manchester United, Chris Smolin."
+        ],
+        "86": [
+            572.0,
+            575.0,
+            "Meca con el pecho y su disparo pegó en Bellerín."
+        ],
+        "87": [
+            579.0,
+            582.0,
+            "Ahora el saque de esquina a la derecha de la portería del Arsenal."
+        ],
+        "88": [
+            583.0,
+            588.0,
+            "Mata atrás, para Asle Young, es el que termina centrando."
+        ],
+        "89": [
+            589.0,
+            595.0,
+            "Espejo Mertes saca, ese balón de cabeza lo juega mal Daley Blain, Alexis, el pase se queda corto, interceptación de Ander Herrera."
+        ],
+        "90": [
+            595.0,
+            600.0,
+            "Blain combina con Smolin y este abre a Radamel Falcao ante el Nacho Monreal."
+        ],
+        "91": [
+            603.0,
+            607.0,
+            "Falcao lejos de su zona de influencia, ahí se complica la vida Falcao."
+        ],
+        "92": [
+            609.0,
+            613.0,
+            "Con el cuerpo perfectamente Valencia, recuperación del ecuatoriano."
+        ],
+        "93": [
+            614.0,
+            619.0,
+            "Diez minutos de partido en Old Trafford, donde ya ganó por cierto esta temporada el Arsenal en FA Cup."
+        ],
+        "94": [
+            619.0,
+            625.0,
+            "Aunque en Liga hace tiempo que no gana en Old Trafford, pero esta temporada ganó en la competición Copera por excelencia en la FA Cup."
+        ],
+        "95": [
+            626.0,
+            631.0,
+            "Y es cierto que jugará la final el día 30 de mayo el Arsenal ante el Aston Villa."
+        ],
+        "96": [
+            634.0,
+            639.0,
+            "En Wembley, jugando Asle Young a Aaron Ramsey delante de él."
+        ],
+        "97": [
+            639.0,
+            643.0,
+            "El control de espaldas se gira a Fellaini, cae pero al final le falta el propio Fellaini."
+        ],
+        "98": [
+            644.0,
+            650.0,
+            "Bueno, tomó un control, de todas formas Mertesaca se la juega ahí con Fellaini, porque claro Felipe al tener tanta envergadura a Fellaini le puede complicar bastante."
+        ],
+        "99": [
+            651.0,
+            655.0,
+            "Mertesaca que le va agarrando la verdad. Se juega el penalti pero vamos claramente Mertesaca."
+        ],
+        "100": [
+            656.0,
+            660.0,
+            "Fellaini ha mejorado mucho en este tramo de partidos, ha mejorado mucho en este tramo de partidos."
+        ],
+        "101": [
+            660.0,
+            664.0,
+            "Pero en el juego por arriba es muy peligroso y por abajo ha mejorado bastante también."
+        ],
+        "102": [
+            665.0,
+            668.0,
+            "Yo si pienso que es un jugador que el Everton era un poco su techo."
+        ],
+        "103": [
+            669.0,
+            674.0,
+            "Fue una apuesta de David Moyes en su momento que no ha triunfonado y con Van Gaal después de un partido de la temporada."
+        ],
+        "104": [
+            675.0,
+            678.0,
+            "Pero bueno, no es un jugador que se ha perdido, no es un jugador que se ha perdido."
+        ],
+        "105": [
+            679.0,
+            682.0,
+            "Es un jugador que se ha perdido, pero no es un jugador que se ha perdido."
+        ],
+        "106": [
+            682.0,
+            685.0,
+            "Yo si pienso que es un jugador que el Everton era un poco su techo."
+        ],
+        "107": [
+            686.0,
+            692.0,
+            "Fue una apuesta de David Moyes en su momento que no ha triunfonado y con Van Gaal después de que al principio prácticamente no le quisiera."
+        ],
+        "108": [
+            693.0,
+            696.0,
+            "De hecho Diego va a decir que se podía marchar. Al final acaba jugando mucho."
+        ],
+        "109": [
+            697.0,
+            700.0,
+            "Un poco de esos, digamos, bandazos que ha ido dando Van Gaal."
+        ],
+        "110": [
+            701.0,
+            703.0,
+            "Sin duda, pero sin duda."
+        ],
+        "111": [
+            705.0,
+            709.0,
+            "Ahí aguanta el balón Fellaini y lo dejó atrás para Daley Blind."
+        ],
+        "112": [
+            709.0,
+            713.0,
+            "Recupera de nuevo el belga. Juega de nuevo el belga apoyándose en Phil Jones."
+        ],
+        "113": [
+            717.0,
+            719.0,
+            "Protege de espaldas a Sassley Young."
+        ],
+        "114": [
+            721.0,
+            723.0,
+            "Atrasó Young, juega Blind."
+        ],
+        "115": [
+            732.0,
+            734.0,
+            "Una apertura, no tan buena."
+        ],
+        "116": [
+            735.0,
+            737.0,
+            "No llegó a perder el balón en el United con apuros."
+        ],
+        "117": [
+            738.0,
+            741.0,
+            "Evitó que saliera Sassley Young, que es el que recibe de nuevo el pase de Marwan Fellaini."
+        ],
+        "118": [
+            742.0,
+            744.0,
+            "Raso el envío para Marcos Rojo, el centro del argentino."
+        ],
+        "119": [
+            745.0,
+            747.0,
+            "Balón en la frontal contra el Fellaini, se le echaba encima ya Coquela."
+        ],
+        "120": [
+            748.0,
+            750.0,
+            "Vuelta a empezar para el United, centro de Young."
+        ],
+        "121": [
+            751.0,
+            752.0,
+            "Va a tocar Falcao."
+        ],
+        "122": [
+            754.0,
+            755.0,
+            "Baja el balón el Arsenal."
+        ],
+        "123": [
+            758.0,
+            761.0,
+            "Primero que toca Mesut Ozil. Lo juega bien, lo juega bien Ozil para Alexis Sánchez."
+        ],
+        "124": [
+            761.0,
+            765.0,
+            "Por delante, dibuja el desmarque ya Giroud. Se adelantó mucho el balón a Alexis."
+        ],
+        "125": [
+            766.0,
+            770.0,
+            "Y eso dio oportunidad para que Asli, aunque había bajado a defender de manera formidable, recuperara."
+        ],
+        "126": [
+            771.0,
+            777.0,
+            "Hemos visto antes la estadística. La última vez que la vimos hace tres minutos, 60% de posición para el United ante el Arsenal."
+        ],
+        "127": [
+            778.0,
+            779.0,
+            "Que es un equipo al que le gusta mucho tener la bola."
+        ],
+        "128": [
+            780.0,
+            782.0,
+            "A mí me sorprende en cierto sentido, me sorprende bastante."
+        ],
+        "129": [
+            783.0,
+            787.0,
+            "Pero este Arsenal también ha habido partidos y lo ha demostrado mucho en los que no le ha importado para nada perder la posición."
+        ],
+        "130": [
+            788.0,
+            790.0,
+            "Un equipo bastante distinto al de los últimos años."
+        ],
+        "131": [
+            791.0,
+            796.0,
+            "No tiene el disparo, no tiene el pase. Se va a girar Falcao. Se gira, no se gira. Falta peligrosísima jugada que puede ser de gol."
+        ],
+        "132": [
+            797.0,
+            801.0,
+            "Falta muy peligrosa. Vamos a ver quién le pega. No está Rooney, que podría ser uno de los lanzadores."
+        ],
+        "133": [
+            805.0,
+            807.0,
+            "Vamos a ver la jugada. Yo creo que Mata se está tirando."
+        ],
+        "134": [
+            810.0,
+            814.0,
+            "A mí no me parece falta. Yo creo que se tira Mata y al final acaba habiendo contacto, pero Mata se está tirando ya."
+        ],
+        "135": [
+            815.0,
+            818.0,
+            "Vito Maikdini va a ser el propio Mata seguramente. Bueno, Mata o Falcao."
+        ],
+        "136": [
+            818.0,
+            826.0,
+            "Decías esto, que el Arsenal, lo hemos visto, sobre todo cuando empieza ganando los partidos, es un equipo que no le importa replegar mucho y estar bastante atrás."
+        ],
+        "137": [
+            827.0,
+            834.0,
+            "Hoy el partido lo está llevando el dominio el United, porque el Arsenal considera que el 0-0 le vale, que es verdad que le vale."
+        ],
+        "138": [
+            835.0,
+            839.0,
+            "Hay que saber que con buenos lanzadores y buenos sprinters a la conta también puede generar mucho peligro."
+        ],
+        "139": [
+            840.0,
+            845.0,
+            "De todas formas, dicho esto, yo al Arsenal de verdad que creo que su ADN es tener la pelota."
+        ],
+        "140": [
+            846.0,
+            849.0,
+            "Por los jugadores que tiene en el campo y por lo que ha sido históricamente en los últimos tiempos."
+        ],
+        "141": [
+            851.0,
+            855.0,
+            "Está claro. Y lo que está claro es que esto puede ser el 1-0. Bastante claro."
+        ],
+        "142": [
+            856.0,
+            861.0,
+            "Mata, Mata para el 1-0. Mata, no. Demasiado centrado. Al final lo tuvo controlado David Ospina."
+        ],
+        "143": [
+            862.0,
+            867.0,
+            "El paro no es malo del todo. Sí, muy flojito. Era muy llamativa la diferencia de estatura entre Cazorla, que estaba al lado de Fellaini."
+        ],
+        "144": [
+            867.0,
+            869.0,
+            "La barrera era impresionante."
+        ],
+        "145": [
+            873.0,
+            875.0,
+            "Puede haber ahí 30 centímetros fácil."
+        ],
+        "146": [
+            876.0,
+            881.0,
+            "La imagen típica de los niños que salen con los jugadores para hacerse la foto cuando están todos formados."
+        ],
+        "147": [
+            881.0,
+            883.0,
+            "Parece algo parecido."
+        ],
+        "148": [
+            885.0,
+            889.0,
+            "Cazorla ahí con un 68 y Fellaini, como dije antes, con un 95."
+        ],
+        "149": [
+            893.0,
+            895.0,
+            "Más el plus del pelo, ¿no? El Fellaini."
+        ],
+        "150": [
+            898.0,
+            904.0,
+            "Saque de banda para el Arsenal. Hace tiempo que no atravesaba la divisoria en el equipo del Emirates."
+        ],
+        "151": [
+            910.0,
+            916.0,
+            "Toca a Bellerín. Intercepta el pase Marcos Rojo. Ese balón es para Radamel Falcao."
+        ],
+        "152": [
+            917.0,
+            926.0,
+            "Seguramente en su penúltimo partido en el Manchester United, por todo lo que se está comentando ya hace bastantes semanas, se asegura que no va a seguir Falcao en el United."
+        ],
+        "153": [
+            928.0,
+            940.0,
+            "Caso parecido al de Di María. Aunque en este caso llegó recién recuperado o incluso sin estar recuperado totalmente de la gravísima lesión que sufrió la pasada temporada."
+        ],
+        "154": [
+            941.0,
+            951.0,
+            "Que le impidió jugar el Mundial. Y entre la lesión, la recuperación que se retrasó, el adaptarse a una liga nueva y que tampoco ha contado con la confianza de Luis Van Gaal."
+        ],
+        "155": [
+            951.0,
+            961.0,
+            "Luis Van Gaal, el fantástico Falcao de Loporto, del Atlético de Madrid. Del Monaco no lo sé porque yo no lo he visto jugar. No ha tenido nada que ver con el Falcao del United."
+        ],
+        "156": [
+            965.0,
+            972.0,
+            "Tiene mucho fútbol por delante de Falcao y muchos goles por marcar todavía el fantástico delantero centrocolombiano."
+        ],
+        "157": [
+            973.0,
+            979.0,
+            "Abre y mata. Baje con el pecho de Adri Jaun. Salto de banda para el United."
+        ],
+        "158": [
+            980.0,
+            988.0,
+            "Estaba recordando el partido que jugaron estos dos equipos en el campo del Arsenal, en el Emirates. Fue un partido que, recuerdo, ganó el United pero dominó completamente el Arsenal."
+        ],
+        "159": [
+            989.0,
+            998.0,
+            "Que quedó por cento de ocasiones la primera parte. Estaba pensando en que aquel partido tuve el balón, dominé con claridad y lo perdí de una forma casi increíble. Y hoy voy a hacer todo lo contrario."
+        ],
+        "160": [
+            999.0,
+            1006.0,
+            "Falcao que cae, resbala, no pasa nada. Nada pide tampoco el colombiano. Despeje de Nacho Monreal."
+        ],
+        "161": [
+            1007.0,
+            1022.0,
+            "Y puede salirle bien, pero yo creo que el Arsenal obtendría a largo plazo mejores resultados teniendo la pelota. Ya sé lo que estás pensando, que es verdad que no ha ganado prácticamente nada, solo una copa."
+        ],
+        "162": [
+            1022.0,
+            1026.0,
+            "Pero aún así, yo creo que este equipo está preparado para dominar."
+        ],
+        "163": [
+            1027.0,
+            1032.0,
+            "También se nos está poniendo difícil de momento el United, al que también le gusta tener el balón. Grande Herrera con mata."
+        ],
+        "164": [
+            1033.0,
+            1034.0,
+            "Pero es que no veo nada."
+        ],
+        "165": [
+            1035.0,
+            1041.0,
+            "Sí, eso es verdad. Pero yo no veo ninguna intención real del Arsenal en cambiar esto. Me parece que está cómodo con eso el Arsenal."
+        ],
+        "166": [
+            1042.0,
+            1050.0,
+            "Han intervenido poco los jugadores, los manejadores del balón del Arsenal han intervenido poco. Cazorlao, Phil, Ramsey, muy poquito han jugado, han intervenido hasta ahora."
+        ],
+        "167": [
+            1051.0,
+            1053.0,
+            "Lo hace Ramsey precisamente apoyándose en Ozil."
+        ],
+        "168": [
+            1056.0,
+            1060.0,
+            "Deja atrás el alemán, lo hace para Cazorlao."
+        ],
+        "169": [
+            1063.0,
+            1068.0,
+            "A punto estuvo de arrebatar el balón Ander Herrera. La pelea entre españoles, Cazorlao-Ander."
+        ],
+        "170": [
+            1069.0,
+            1070.0,
+            "El balón atrás para Mertesaka."
+        ],
+        "171": [
+            1071.0,
+            1076.0,
+            "Ha subido el otro alemán. Apertura a Bellerin, centra a Bellerin, despeja, rojo."
+        ],
+        "172": [
+            1077.0,
+            1081.0,
+            "El balón queda para Aaron Ramsey, el recorte del galés. A ver el centro, se quiere girar Giroud."
+        ],
+        "173": [
+            1082.0,
+            1084.0,
+            "Otro agarrón más. Este caso fue de Phil Jones."
+        ],
+        "174": [
+            1085.0,
+            1092.0,
+            "Cazorlao, Cazorlao que combina con Giroud, deja atrás Giroud, vuelta a empezar."
+        ],
+        "175": [
+            1093.0,
+            1096.0,
+            "Está ahí ahora repliegado el United que recupera. Error de Cazorlao en ese pase."
+        ],
+        "176": [
+            1097.0,
+            1101.0,
+            "Sale con el balón, mata. Mata para Marwan Felaini."
+        ],
+        "177": [
+            1102.0,
+            1108.0,
+            "Abre el belga, Ashley Young. Una posición larga del Arsenal pero poco vertical."
+        ],
+        "178": [
+            1111.0,
+            1114.0,
+            "Y poco precisa además. Smolin."
+        ],
+        "179": [
+            1117.0,
+            1120.0,
+            "Opta por regalar el balón, lo que pasa es que resbala Kostielny."
+        ],
+        "180": [
+            1120.0,
+            1123.0,
+            "Resbala también Falcao, todo el mundo resbala."
+        ],
+        "181": [
+            1124.0,
+            1127.0,
+            "El esférico para Monreal que se apoya en Pemertesaka."
+        ],
+        "182": [
+            1130.0,
+            1131.0,
+            "Kostielny."
+        ],
+        "183": [
+            1134.0,
+            1138.0,
+            "Estuvo atento ahí Valencia, baja con el pecho Falcao. Falcao con mata."
+        ],
+        "184": [
+            1139.0,
+            1140.0,
+            "Valencia línea de tres cuartos."
+        ],
+        "185": [
+            1141.0,
+            1144.0,
+            "Se adelanta el esférico, pone el cuerpo perfectamente. Monreal."
+        ],
+        "186": [
+            1144.0,
+            1145.0,
+            "Monreal."
+        ],
+        "187": [
+            1146.0,
+            1147.0,
+            "Atrás Alexis, Monreal."
+        ],
+        "188": [
+            1150.0,
+            1154.0,
+            "El planito lo engancha muy bien Olivier Giroud. Eso que le estaba obstaculizando a Eddy Blin."
+        ],
+        "189": [
+            1156.0,
+            1157.0,
+            "Pemertesaka."
+        ],
+        "190": [
+            1159.0,
+            1161.0,
+            "Subiendo de nuevo el teutón."
+        ],
+        "191": [
+            1162.0,
+            1165.0,
+            "Terreno ya del Manchester United. Atrás Abellerin."
+        ],
+        "192": [
+            1166.0,
+            1171.0,
+            "Pemertesaka. Corre Ramsey, ante él Chris Smolin. Ya dentro del área se sale por esa parte lateral."
+        ],
+        "193": [
+            1171.0,
+            1174.0,
+            "Ramsey espera la llegada de compañeros y de ayuda. Se gira."
+        ],
+        "194": [
+            1175.0,
+            1178.0,
+            "Se cierra Marcos Rojo, saque de banda y United."
+        ],
+        "195": [
+            1180.0,
+            1183.0,
+            "Se quedan grandes sus compañeros porque la verdad es que nadie llegó para apoyarlo."
+        ],
+        "196": [
+            1189.0,
+            1191.0,
+            "Le sacó el equipo de Luis Van Gaal."
+        ],
+        "197": [
+            1194.0,
+            1195.0,
+            "Y sacará de nuevo."
+        ],
+        "198": [
+            1196.0,
+            1198.0,
+            "El tecnico holandés."
+        ],
+        "199": [
+            1201.0,
+            1202.0,
+            "Fellaini."
+        ],
+        "200": [
+            1204.0,
+            1206.0,
+            "Demasiado fuerte ese pase de Fellaini."
+        ],
+        "201": [
+            1207.0,
+            1208.0,
+            "Demasiada opción."
+        ],
+        "202": [
+            1209.0,
+            1211.0,
+            "Esos no son los balones que tiene que meter Fellaini."
+        ],
+        "203": [
+            1212.0,
+            1213.0,
+            "Se los tienen que dar a él, ese tipo de balones."
+        ],
+        "204": [
+            1214.0,
+            1215.0,
+            "A Fellaini."
+        ],
+        "205": [
+            1216.0,
+            1218.0,
+            "A ver si ahora se da por lo menos, recupera un poco el balón."
+        ],
+        "206": [
+            1218.0,
+            1219.0,
+            "Atrás a Pemertesaka."
+        ],
+        "207": [
+            1220.0,
+            1223.0,
+            "Bueno, lo está teniendo más en los últimos minutos el Arsenal, un poquito más que antes."
+        ],
+        "208": [
+            1232.0,
+            1233.0,
+            "Un árbol de David Ospina."
+        ],
+        "209": [
+            1234.0,
+            1235.0,
+            "Toca en la cabeza Giroud."
+        ],
+        "210": [
+            1236.0,
+            1238.0,
+            "Retrasó Valencia para Phil Jones."
+        ],
+        "211": [
+            1239.0,
+            1240.0,
+            "Despeja Tejea."
+        ],
+        "212": [
+            1241.0,
+            1242.0,
+            "Y el equipo de Maradona."
+        ],
+        "213": [
+            1243.0,
+            1245.0,
+            "Retrasó Valencia para Phil Jones."
+        ],
+        "214": [
+            1246.0,
+            1247.0,
+            "Despeja Tejea."
+        ],
+        "215": [
+            1248.0,
+            1249.0,
+            "Ese balón largo del guardameta madrileño."
+        ],
+        "216": [
+            1250.0,
+            1251.0,
+            "Saltó Fellaini, llegó a rozar el balón."
+        ],
+        "217": [
+            1252.0,
+            1253.0,
+            "Y es para Montreal."
+        ],
+        "218": [
+            1255.0,
+            1256.0,
+            "Retrasa el Navarro."
+        ],
+        "219": [
+            1258.0,
+            1259.0,
+            "Y sale el área David Ospina."
+        ],
+        "220": [
+            1264.0,
+            1265.0,
+            "Pemertesaka."
+        ],
+        "221": [
+            1265.0,
+            1266.0,
+            "Y el balón del alemán largo."
+        ],
+        "222": [
+            1267.0,
+            1268.0,
+            "Allá, con un gancho al balón."
+        ],
+        "223": [
+            1269.0,
+            1270.0,
+            "Ahí, Giroud."
+        ],
+        "224": [
+            1271.0,
+            1272.0,
+            "Giroud resbaló."
+        ],
+        "225": [
+            1273.0,
+            1274.0,
+            "Jones se lo da al balón, golpea a Giroud."
+        ],
+        "226": [
+            1275.0,
+            1276.0,
+            "No giró al balón."
+        ],
+        "227": [
+            1277.0,
+            1279.0,
+            "Sí, Giroud estuvo tentado a Jones de meter la mano ahí, como se ha quedado en el suelo."
+        ],
+        "228": [
+            1280.0,
+            1281.0,
+            "Pero al final resolvió bastante bien."
+        ],
+        "229": [
+            1282.0,
+            1283.0,
+            "No se llega a tocar de cabeza Phil Jones."
+        ],
+        "230": [
+            1286.0,
+            1287.0,
+            "Ahí resbala."
+        ],
+        "231": [
+            1288.0,
+            1289.0,
+            "Y ahí no se llega a tocar."
+        ],
+        "232": [
+            1290.0,
+            1291.0,
+            "Pero desde luego parece que se va a tocar."
+        ],
+        "233": [
+            1291.0,
+            1292.0,
+            "Al final con la cabeza."
+        ],
+        "234": [
+            1293.0,
+            1294.0,
+            "Ahí va a meter la cabeza de una manera extrañísima."
+        ],
+        "235": [
+            1296.0,
+            1297.0,
+            "La verdad es que no deja de ser curiosísima la jugada."
+        ],
+        "236": [
+            1298.0,
+            1300.0,
+            "Pero reacciona de la mejor forma posible para impedir que se lleve la pelota a Giroud."
+        ],
+        "237": [
+            1301.0,
+            1303.0,
+            "La cara de esfuerzo que llevaba ahí, que tenía Phil Jones."
+        ],
+        "238": [
+            1304.0,
+            1305.0,
+            "Esa jugada poco ortodoxa."
+        ],
+        "239": [
+            1306.0,
+            1307.0,
+            "Es un jugador esforzado de por sí, Phil Jones."
+        ],
+        "240": [
+            1308.0,
+            1309.0,
+            "Siempre tiene esa..."
+        ],
+        "241": [
+            1310.0,
+            1311.0,
+            "Acabarás de tapar el Black & Rovers, cuando lo llevamos de lateral."
+        ],
+        "242": [
+            1312.0,
+            1313.0,
+            "Y la verdad es que no se llega a tocar."
+        ],
+        "243": [
+            1314.0,
+            1315.0,
+            "Y ahí, no se llega a tocar."
+        ],
+        "244": [
+            1316.0,
+            1317.0,
+            "Pero desde luego parece que se llega a tocar."
+        ],
+        "245": [
+            1318.0,
+            1319.0,
+            "Al final con la cabeza."
+        ],
+        "246": [
+            1319.0,
+            1320.0,
+            "Acabarás de tapar el Black & Rovers, cuando lo llevamos de lateral."
+        ],
+        "247": [
+            1321.0,
+            1323.0,
+            "Y la verdad es que daba la sensación de que era un jugador que iba a ser importante."
+        ],
+        "248": [
+            1324.0,
+            1325.0,
+            "Y ha llegado un grande."
+        ],
+        "249": [
+            1326.0,
+            1329.0,
+            "La primera media temporada en el United lo hizo bastante bien."
+        ],
+        "250": [
+            1330.0,
+            1331.0,
+            "Lo hicieron él y Cleverly."
+        ],
+        "251": [
+            1332.0,
+            1333.0,
+            "¿Te acuerdas?"
+        ],
+        "252": [
+            1334.0,
+            1335.0,
+            "Que empezaron los dos como cohetes y los dos perdieron gas, perdieron fuerza."
+        ],
+        "253": [
+            1336.0,
+            1337.0,
+            "Cleverly fue muy bien."
+        ],
+        "254": [
+            1338.0,
+            1340.0,
+            "En aquel doble pivote que formaba con Carrick."
+        ],
+        "255": [
+            1341.0,
+            1345.0,
+            "Y que creo que fue el doble pivote que se enfrentó al Madrid en aquella eliminatoria de Champions."
+        ],
+        "256": [
+            1345.0,
+            1349.0,
+            "O sea que, por lo largo, acabó logrando el Madrid con aquel gol de Modric."
+        ],
+        "257": [
+            1350.0,
+            1351.0,
+            "La expulsión de Nani."
+        ],
+        "258": [
+            1352.0,
+            1353.0,
+            "El gol de Trafford, sí, exactamente."
+        ],
+        "259": [
+            1354.0,
+            1355.0,
+            "El gol de Modric es que pega en alguien, ¿no?"
+        ],
+        "260": [
+            1356.0,
+            1357.0,
+            "Es claro."
+        ],
+        "261": [
+            1358.0,
+            1359.0,
+            "Yo creo que no."
+        ],
+        "262": [
+            1360.0,
+            1361.0,
+            "Yo creo que pega en él."
+        ],
+        "263": [
+            1362.0,
+            1363.0,
+            "Que no va directo a puerta."
+        ],
+        "264": [
+            1364.0,
+            1365.0,
+            "Un rechazo, me pareció, me parece."
+        ],
+        "265": [
+            1366.0,
+            1367.0,
+            "Quiero recordar."
+        ],
+        "266": [
+            1370.0,
+            1371.0,
+            "Saque de banda para Monreal."
+        ],
+        "267": [
+            1376.0,
+            1377.0,
+            "0-0, 23 minutos."
+        ],
+        "268": [
+            1379.0,
+            1381.0,
+            "De la primera parte."
+        ],
+        "269": [
+            1390.0,
+            1391.0,
+            "Sacando el balón rojo, otro que resbala."
+        ],
+        "270": [
+            1392.0,
+            1395.0,
+            "Algo les pasa, ¿no? A las botas, a los tacos de las botas de los jugadores."
+        ],
+        "271": [
+            1396.0,
+            1397.0,
+            "Están resbalando muchos."
+        ],
+        "272": [
+            1398.0,
+            1399.0,
+            "Creo que habrá cambio en el descanso."
+        ],
+        "273": [
+            1401.0,
+            1403.0,
+            "Pues sí, él le deja pasar el esférico para David Ospina."
+        ],
+        "274": [
+            1404.0,
+            1406.0,
+            "El partido que, de momento, no es ningún primor."
+        ],
+        "275": [
+            1407.0,
+            1409.0,
+            "Y el realizador que, lógicamente, busca recursos."
+        ],
+        "276": [
+            1410.0,
+            1411.0,
+            "El doble plano."
+        ],
+        "277": [
+            1412.0,
+            1414.0,
+            "El que se va a ir y el que, de momento, está."
+        ],
+        "278": [
+            1415.0,
+            1416.0,
+            "El que ha llegado en esta temporada a Valdez."
+        ],
+        "279": [
+            1417.0,
+            1418.0,
+            "El que se va a ir, David De Gea."
+        ],
+        "280": [
+            1419.0,
+            1420.0,
+            "Eso nos quería decir."
+        ],
+        "281": [
+            1421.0,
+            1422.0,
+            "Yo, como realizador, o por lo menos que hay muchas posibilidades"
+        ],
+        "282": [
+            1423.0,
+            1427.0,
+            "de que David De Gea se marche y que Víctor Valdez sea el portero titular."
+        ],
+        "283": [
+            1428.0,
+            1432.0,
+            "La próxima temporada, si es que no ficha Lionel, te da otro gran portero."
+        ],
+        "284": [
+            1433.0,
+            1434.0,
+            "Estar en ello."
+        ],
+        "285": [
+            1435.0,
+            1436.0,
+            "Como Andranovic."
+        ],
+        "286": [
+            1437.0,
+            1438.0,
+            "Estar en ello, yo creo que va a llegar."
+        ],
+        "287": [
+            1439.0,
+            1442.0,
+            "De momento, Víctor Valdez no ha jugado en Premier, sí que ha jugado con el segundo equipo."
+        ],
+        "288": [
+            1443.0,
+            1444.0,
+            "Varios partidos."
+        ],
+        "289": [
+            1445.0,
+            1447.0,
+            "Y ha estado en el barquillo en los partidos."
+        ],
+        "290": [
+            1452.0,
+            1454.0,
+            "Ahora, otra vez, para David De Gea."
+        ],
+        "291": [
+            1454.0,
+            1455.0,
+            "La primera."
+        ],
+        "292": [
+            1460.0,
+            1463.0,
+            "Incluso la prensa inglesa publicaba que, según los cálculos,"
+        ],
+        "293": [
+            1464.0,
+            1467.0,
+            "podría incluso hasta perder dinero el United con respecto a lo que pagó"
+        ],
+        "294": [
+            1468.0,
+            1471.0,
+            "al Atlético de Madrid por el fichaje de David De Gea."
+        ],
+        "295": [
+            1472.0,
+            1475.0,
+            "Porque como termina contrato la próxima temporada, aunque el United va a pedir mucho,"
+        ],
+        "296": [
+            1476.0,
+            1478.0,
+            "el equipo que le ficha, que se supone que va a ser el Real Madrid,"
+        ],
+        "297": [
+            1479.0,
+            1481.0,
+            "pues jugará esa baza de que solo le queda un año."
+        ],
+        "298": [
+            1481.0,
+            1485.0,
+            "Aunque recordaban que le pagó al Atlético de Madrid 18 millones de libras."
+        ],
+        "299": [
+            1486.0,
+            1493.0,
+            "Y se especula en Inglaterra con que el fichaje por el Madrid se puede cerrar en 15 millones de libras."
+        ],
+        "300": [
+            1494.0,
+            1498.0,
+            "Es decir, perdería 3 millones de libras en la operación."
+        ],
+        "301": [
+            1500.0,
+            1504.0,
+            "Según cálculos, los que siguen la actualidad del United en Inglaterra."
+        ],
+        "302": [
+            1512.0,
+            1513.0,
+            "Bermertesaca."
+        ],
+        "303": [
+            1516.0,
+            1517.0,
+            "Saca el balón Bellerín."
+        ],
+        "304": [
+            1520.0,
+            1523.0,
+            "El que toca con el hombro, no con la cabeza. Ni siquiera con el hombro Felaini."
+        ],
+        "305": [
+            1525.0,
+            1529.0,
+            "Giroud, aguanta el balón Giroud. Cambia la orientación del juego, pero ahí está atento"
+        ],
+        "306": [
+            1530.0,
+            1532.0,
+            "a la fase defensiva, a la labor defensiva. Mata."
+        ],
+        "307": [
+            1533.0,
+            1535.0,
+            "Retrasa Herrera. David De Gea."
+        ],
+        "308": [
+            1535.0,
+            1541.0,
+            "De Gea buscando a Felaini. Ganó por arriba. Se ha pegado un golpe ahí."
+        ],
+        "309": [
+            1542.0,
+            1543.0,
+            "Bermertesaca."
+        ],
+        "310": [
+            1544.0,
+            1545.0,
+            "El choque de Treinen con Mertesacker y Felaini."
+        ],
+        "311": [
+            1546.0,
+            1552.0,
+            "No desentonarían por altura a Maldini, ni Felaini, ni Mertesacker en el partido que podrán ver a partir de las 8.00"
+        ],
+        "312": [
+            1553.0,
+            1558.0,
+            "en este mismo canal, en Canal Plus 1 Multi. Este dial del 59.00. La gran final de la Euroliga."
+        ],
+        "313": [
+            1559.0,
+            1565.0,
+            "En Madrid, el Real Madrid que busca la novena Copa de Europa ante el Olympiacos de Spanis."
+        ],
+        "314": [
+            1566.0,
+            1573.0,
+            "A las 8.00, aquí, en Canal Plus 1 Multi. Real Madrid-Olympiacos."
+        ],
+        "315": [
+            1574.0,
+            1579.0,
+            "El salto de Felaini es tremendo con el... no sé qué le decía al árbitro a Mertesacker,"
+        ],
+        "316": [
+            1580.0,
+            1583.0,
+            "pero tiene razón en que es alzada el alemán, porque es que le da con un codazo en la cara."
+        ],
+        "317": [
+            1584.0,
+            1586.0,
+            "Tremendo, como arriesga ahí Felaini."
+        ],
+        "318": [
+            1588.0,
+            1591.0,
+            "Ahí los dos números 12. Molling, Giroud, saque de banda para el Arsenal."
+        ],
+        "319": [
+            1592.0,
+            1594.0,
+            "Se ha quitado bastante el dominio del United del Arsenal."
+        ],
+        "320": [
+            1595.0,
+            1598.0,
+            "Yo creo que ahora sí tengo sensación de que puede empezar a complicarle la vida, de verdad."
+        ],
+        "321": [
+            1599.0,
+            1600.0,
+            "El verbo que se utilizaba cuando tú y yo empezamos esto es..."
+        ],
+        "322": [
+            1601.0,
+            1602.0,
+            "Se ha sacudido. Se ha sacudido, sí."
+        ],
+        "323": [
+            1603.0,
+            1605.0,
+            "El dominio del equipo rival."
+        ],
+        "324": [
+            1610.0,
+            1611.0,
+            "Mata."
+        ],
+        "325": [
+            1612.0,
+            1615.0,
+            "El botón de Ander. Juan Mata. Se gira."
+        ],
+        "326": [
+            1616.0,
+            1619.0,
+            "Mata deja atrás. Saque el balón a Valencia."
+        ],
+        "327": [
+            1620.0,
+            1623.0,
+            "Retrasa Dele Blanc. Abre Phil Jones. Marcos, un rojo."
+        ],
+        "328": [
+            1625.0,
+            1629.0,
+            "Domina con Felaini. Está esperando recibir el balón a Slijaun en su banda a la izquierda."
+        ],
+        "329": [
+            1630.0,
+            1632.0,
+            "Ahí toca el ex del Aston Villa."
+        ],
+        "330": [
+            1634.0,
+            1635.0,
+            "Slijaun."
+        ],
+        "331": [
+            1637.0,
+            1638.0,
+            "Jones."
+        ],
+        "332": [
+            1641.0,
+            1645.0,
+            "Progresa por dentro ahora Slijaun. Le estaba haciendo falta yo creo, ¿no?"
+        ],
+        "333": [
+            1646.0,
+            1649.0,
+            "Aunque la reclama Slijaun, yo creo que sí que le estaba haciendo falta el jugador del Arsenal."
+        ],
+        "334": [
+            1650.0,
+            1654.0,
+            "No nos han entendido Jones y De Gea. Y providencialmente despejó De Gea."
+        ],
+        "335": [
+            1659.0,
+            1662.0,
+            "No puede llegar ese balón falcao. Es para Mesut Ozil. Lo juega Ozil. Alexis."
+        ],
+        "336": [
+            1663.0,
+            1665.0,
+            "El control complicado. Taconazo de Alexis."
+        ],
+        "337": [
+            1666.0,
+            1668.0,
+            "Ventaja para Chris Molling."
+        ],
+        "338": [
+            1668.0,
+            1671.0,
+            "Hoy ha aparecido muy poquito Mesut Ozil, pero realmente tampoco es culpa suya."
+        ],
+        "339": [
+            1672.0,
+            1674.0,
+            "Es culpa un poco del equipo no tener que llevar la pelota a sus dos."
+        ],
+        "340": [
+            1675.0,
+            1676.0,
+            "El fútbol en general, el juego en general."
+        ],
+        "341": [
+            1677.0,
+            1679.0,
+            "Claro, el juego de los dos. Bastante espeso."
+        ],
+        "342": [
+            1680.0,
+            1684.0,
+            "No estaba viendo un partido hasta ahora. Y eso que excelente jugador sobre el campo."
+        ],
+        "343": [
+            1686.0,
+            1687.0,
+            "Retrasa Felaini."
+        ],
+        "344": [
+            1688.0,
+            1689.0,
+            "David De Gea."
+        ],
+        "345": [
+            1689.0,
+            1690.0,
+            "No se lo puede hacer."
+        ],
+        "346": [
+            1697.0,
+            1698.0,
+            "Pasamos de tiempo."
+        ],
+        "347": [
+            1699.0,
+            1700.0,
+            "Guarda meta a Espanyol."
+        ],
+        "348": [
+            1701.0,
+            1703.0,
+            "El envío buscando a Felaini como siempre, o como casi siempre."
+        ],
+        "349": [
+            1704.0,
+            1706.0,
+            "Es el gran recurso para que baje el balón el Internacional Belga."
+        ],
+        "350": [
+            1708.0,
+            1709.0,
+            "Es Feliko que juega Marcos Rojo."
+        ],
+        "351": [
+            1710.0,
+            1713.0,
+            "No puede controlar Felaini. Ahora sí pita la falta Mike Dean, que es el árbitro que está dirigiendo este partido."
+        ],
+        "352": [
+            1714.0,
+            1715.0,
+            "Falta de Francis Coqueland."
+        ],
+        "353": [
+            1719.0,
+            1720.0,
+            "El equipo de Luis Van Gaal."
+        ],
+        "354": [
+            1721.0,
+            1722.0,
+            "Phil Jones."
+        ],
+        "355": [
+            1725.0,
+            1726.0,
+            "Y basculó perfectamente a Monreal."
+        ],
+        "356": [
+            1727.0,
+            1728.0,
+            "Fue el que despejó. Toca de cabeza corto."
+        ],
+        "357": [
+            1729.0,
+            1730.0,
+            "Se queda el pase de Felaini."
+        ],
+        "358": [
+            1731.0,
+            1732.0,
+            "Preciso ahora el de Bellerín."
+        ],
+        "359": [
+            1733.0,
+            1735.0,
+            "Más errores que aciertos en el partido."
+        ],
+        "360": [
+            1736.0,
+            1740.0,
+            "Esta es la acción en la que De Gea finalmente corrigió el error de Phil Jones."
+        ],
+        "361": [
+            1740.0,
+            1745.0,
+            "Luces y sombras, como ayer decíamos en Borata, con lo joya que es el gol, hoy en Phil Jones."
+        ],
+        "362": [
+            1746.0,
+            1751.0,
+            "Centro. Ojo a ese. Gol de Ander. Gol de Ander Herrera."
+        ],
+        "363": [
+            1752.0,
+            1756.0,
+            "Marca el Manchester United, el 1-0. Minuto 30 de esta primera parte."
+        ],
+        "364": [
+            1757.0,
+            1758.0,
+            "Se adelanta el partido."
+        ],
+        "365": [
+            1759.0,
+            1760.0,
+            "El partido de Ander Herrera."
+        ],
+        "366": [
+            1761.0,
+            1762.0,
+            "El partido de Ander Herrera."
+        ],
+        "367": [
+            1762.0,
+            1763.0,
+            "Gol de Ander Herrera."
+        ],
+        "368": [
+            1764.0,
+            1768.0,
+            "Marca el Manchester United, el 1-0. Minuto 30 de esta primera parte."
+        ],
+        "369": [
+            1769.0,
+            1773.0,
+            "Se adelanta el equipo de Old Trafford con ese gol de Ander Herrera."
+        ],
+        "370": [
+            1774.0,
+            1777.0,
+            "Ahora mismo con este resultado, el United superaría en la tabla al Arsenal."
+        ],
+        "371": [
+            1778.0,
+            1780.0,
+            "Bueno, buen balón de Ashley Young, que no ha aparecido mucho en el partido hasta ahora."
+        ],
+        "372": [
+            1781.0,
+            1783.0,
+            "Y la engancha perfecta de Ander Herrera, que entra completamente solo de marco."
+        ],
+        "373": [
+            1784.0,
+            1788.0,
+            "El remate es bueno, sí, pero es que el remate es absolutamente solo."
+        ],
+        "374": [
+            1789.0,
+            1790.0,
+            "Es que remata a placer."
+        ],
+        "375": [
+            1790.0,
+            1791.0,
+            "Tiene que llegar Alexis, pero ya está."
+        ],
+        "376": [
+            1792.0,
+            1795.0,
+            "Alexis bascula tardísimo. Yo creo que tarda mucho en reaccionar Alexis."
+        ],
+        "377": [
+            1796.0,
+            1797.0,
+            "Y es un error de basculación, claro, ¿no?"
+        ],
+        "378": [
+            1798.0,
+            1800.0,
+            "Controla. Luego dirige bien, ¿eh?"
+        ],
+        "379": [
+            1801.0,
+            1802.0,
+            "Sí, sí, luego dirige bien. Es un buen remate, por supuesto."
+        ],
+        "380": [
+            1803.0,
+            1804.0,
+            "Es un buen remate, ¿por qué no?"
+        ],
+        "381": [
+            1805.0,
+            1807.0,
+            "A un jugador de este nivel dejarle rematar tan cómodo en esa posición."
+        ],
+        "382": [
+            1808.0,
+            1809.0,
+            "Bueno, la clave Herrera y al palo."
+        ],
+        "383": [
+            1810.0,
+            1811.0,
+            "Estaba pasando muy poco en el partido."
+        ],
+        "384": [
+            1812.0,
+            1813.0,
+            "Estaba recuperándose un poquito al Arsenal y estaba quitándole el dominio al United."
+        ],
+        "385": [
+            1814.0,
+            1818.0,
+            "Y vamos a ver a partir de ahora si queda el Arsenal ya obligado, con este gol en contra, a llevar el peso."
+        ],
+        "386": [
+            1819.0,
+            1821.0,
+            "Octavo gol de la temporada para Ander Herrera."
+        ],
+        "387": [
+            1822.0,
+            1824.0,
+            "Un cambio de registro en el Arsenal probablemente esperamos, ¿no?"
+        ],
+        "388": [
+            1825.0,
+            1829.0,
+            "Lleva 6 en Liga y 2 que marcó en FA Cup. 8 goles que no está mal para Ander Herrera."
+        ],
+        "389": [
+            1830.0,
+            1832.0,
+            "1-0 ganando el United al Arsenal."
+        ],
+        "390": [
+            1833.0,
+            1835.0,
+            "Llegó el primero del partido."
+        ],
+        "391": [
+            1837.0,
+            1839.0,
+            "Corta de cabeza de Eilean Blaine."
+        ],
+        "392": [
+            1841.0,
+            1843.0,
+            "Recupera. Finalmente se lleva el balón del holandés."
+        ],
+        "393": [
+            1844.0,
+            1845.0,
+            "Otro que resbala."
+        ],
+        "394": [
+            1845.0,
+            1848.0,
+            "Se apoyó en Juan Mata. Apertura. Mata, la llegada de Valencia."
+        ],
+        "395": [
+            1849.0,
+            1852.0,
+            "Valencia que va a tirar el centro sobre la frontal del área más o menos."
+        ],
+        "396": [
+            1853.0,
+            1854.0,
+            "Vasco Lodi en Bellerín, gol que despejó."
+        ],
+        "397": [
+            1855.0,
+            1859.0,
+            "Recuperación del United. Ander Herrera. Valencia busca el segundo. El equipo de Luis Van Gaal."
+        ],
+        "398": [
+            1861.0,
+            1862.0,
+            "Vuelve a empezar."
+        ],
+        "399": [
+            1863.0,
+            1864.0,
+            "El equipo de casa."
+        ],
+        "400": [
+            1866.0,
+            1867.0,
+            "Fillons."
+        ],
+        "401": [
+            1868.0,
+            1870.0,
+            "Apertura a Asle Young."
+        ],
+        "402": [
+            1870.0,
+            1874.0,
+            "71 puntos ahora Manchester United. 70 Arsenal."
+        ],
+        "403": [
+            1875.0,
+            1877.0,
+            "Tercero ahora mismo el equipo de Luis Van Gaal."
+        ],
+        "404": [
+            1878.0,
+            1880.0,
+            "Esto le da una importancia mucho mayor al partido de miércoles en Sunderland."
+        ],
+        "405": [
+            1881.0,
+            1882.0,
+            "No, en el Emirates."
+        ],
+        "406": [
+            1883.0,
+            1884.0,
+            "Perdón, en el Emirates contra el Sunderland."
+        ],
+        "407": [
+            1885.0,
+            1886.0,
+            "Es en Londres ante el Sunderland."
+        ],
+        "408": [
+            1887.0,
+            1892.0,
+            "Porque el Arsenal, si ese partido lo pierde, sí que ya depende de sí mismo."
+        ],
+        "409": [
+            1893.0,
+            1894.0,
+            "Y el Sunderland se está jugando el descenso."
+        ],
+        "410": [
+            1895.0,
+            1896.0,
+            "Y el empate al final de la temporada."
+        ],
+        "411": [
+            1896.0,
+            1898.0,
+            "Pero el empate, habría que mirar la diferencia de goles si le vale o no al Arsenal."
+        ],
+        "412": [
+            1899.0,
+            1902.0,
+            "Ahora tiene más 26 el United. Vamos a ver."
+        ],
+        "413": [
+            1903.0,
+            1905.0,
+            "Más 26 el United, más 31 el Arsenal."
+        ],
+        "414": [
+            1906.0,
+            1907.0,
+            "Con este resultado que se está dando ahora."
+        ],
+        "415": [
+            1908.0,
+            1912.0,
+            "Al Arsenal le queda ese partido. Arsenal-Sunderland. Miércoles 9-4."
+        ],
+        "416": [
+            1913.0,
+            1916.0,
+            "Y luego ya el próximo domingo, todos a las 4, Arsenal-West Brom."
+        ],
+        "417": [
+            1917.0,
+            1919.0,
+            "Ese domingo el United jugará en el Emirates."
+        ],
+        "418": [
+            1920.0,
+            1921.0,
+            "Y el partido de miércoles."
+        ],
+        "419": [
+            1921.0,
+            1922.0,
+            "Vamos a ver."
+        ],
+        "420": [
+            1923.0,
+            1926.0,
+            "Ese partido de miércoles, todos a las 4, Arsenal-West Brom."
+        ],
+        "421": [
+            1927.0,
+            1929.0,
+            "Ese domingo el United jugará en el Hall."
+        ],
+        "422": [
+            1930.0,
+            1932.0,
+            "Cuidado que se está jugando la permanencia."
+        ],
+        "423": [
+            1933.0,
+            1935.0,
+            "Todavía no está descendido el Hall, Siri."
+        ],
+        "424": [
+            1936.0,
+            1937.0,
+            "De ganar ese partido el Hall."
+        ],
+        "425": [
+            1938.0,
+            1941.0,
+            "Y combinado con algún otro resultado, por ejemplo, que el Newcastle no ganara."
+        ],
+        "426": [
+            1942.0,
+            1944.0,
+            "Bajaría el Newcastle, se salvaría el Hall."
+        ],
+        "427": [
+            1945.0,
+            1947.0,
+            "Por ejemplo. O lo que haga el Sunder."
+        ],
+        "428": [
+            1948.0,
+            1949.0,
+            "Ese va a ser el partido de la jornada, sin duda."
+        ],
+        "429": [
+            1949.0,
+            1950.0,
+            "El domingo a las 4."
+        ],
+        "430": [
+            1951.0,
+            1955.0,
+            "El domingo a las 4, va a ser el partido cumbre de la jornada."
+        ],
+        "431": [
+            1956.0,
+            1959.0,
+            "Una lucha por la permanencia del Hall y por la tercera plaza del United."
+        ],
+        "432": [
+            1960.0,
+            1961.0,
+            "Sí, veremos el miércoles ese partido."
+        ],
+        "433": [
+            1962.0,
+            1965.0,
+            "Veremos ese partido el miércoles también, pero va a ser en el Sunderland tan importante."
+        ],
+        "434": [
+            1966.0,
+            1967.0,
+            "También, también."
+        ],
+        "435": [
+            1968.0,
+            1971.0,
+            "Exactamente lo mismo, la lucha por la permanencia del Sunderland y por la tercera plaza del Arsenal."
+        ],
+        "436": [
+            1974.0,
+            1978.0,
+            "En este sprint final ya definitivo de la Premier League 2014-2015."
+        ],
+        "437": [
+            1980.0,
+            1981.0,
+            "Valencia."
+        ],
+        "438": [
+            1982.0,
+            1983.0,
+            "Combina Valencia con Ander."
+        ],
+        "439": [
+            1987.0,
+            1990.0,
+            "Lo del ADN, que decías tú, el Arsenal que no tiene el balón."
+        ],
+        "440": [
+            1991.0,
+            1995.0,
+            "Y bueno, si alguna vez le puede salir bien, porque tiene jugadores con el que lanzar el contraataque."
+        ],
+        "441": [
+            1996.0,
+            1997.0,
+            "Pero no está cómodo."
+        ],
+        "442": [
+            1998.0,
+            2000.0,
+            "A ver, le ha salido bien contra rivales como Crystal Palace."
+        ],
+        "443": [
+            2001.0,
+            2002.0,
+            "Contra rivales claramente inferiores."
+        ],
+        "444": [
+            2003.0,
+            2004.0,
+            "Le ha acabado saliendo bien y sufriendo mucho."
+        ],
+        "445": [
+            2005.0,
+            2007.0,
+            "Contra el Newcastle, recuerdo, los dos partidos Newcastle y Palace fuera."
+        ],
+        "446": [
+            2007.0,
+            2008.0,
+            "Fueron muy parecidos."
+        ],
+        "447": [
+            2009.0,
+            2010.0,
+            "Marca y ya se echa atrás a defenderlo."
+        ],
+        "448": [
+            2011.0,
+            2012.0,
+            "Los dos lo gana pero sufre."
+        ],
+        "449": [
+            2013.0,
+            2014.0,
+            "Sufre bastante además."
+        ],
+        "450": [
+            2015.0,
+            2019.0,
+            "Y contra un equipo verdaderamente superior a esos dos, pues realmente le está saliendo mal."
+        ],
+        "451": [
+            2021.0,
+            2023.0,
+            "En este minuto ya 34 de la primera parte en Old Trafford."
+        ],
+        "452": [
+            2024.0,
+            2025.0,
+            "El envío demasiado largo, eso es un regalo para David De Gea."
+        ],
+        "453": [
+            2027.0,
+            2028.0,
+            "Se hizo con el esférico al guardameta del Manchester United."
+        ],
+        "454": [
+            2029.0,
+            2030.0,
+            "Balón que juega Slidjau."
+        ],
+        "455": [
+            2037.0,
+            2041.0,
+            "Cuidado que la cuarta plaza es un regalo, sí, pero puede ser un regalo envenenado."
+        ],
+        "456": [
+            2043.0,
+            2046.0,
+            "Se podría cruzar con el cuarto de España, por ejemplo."
+        ],
+        "457": [
+            2047.0,
+            2048.0,
+            "No, no, claro, claro."
+        ],
+        "458": [
+            2049.0,
+            2051.0,
+            "Con el cuarto de la Bundesliga, con el tercero de Italia."
+        ],
+        "459": [
+            2052.0,
+            2053.0,
+            "Cuidado, eh."
+        ],
+        "460": [
+            2055.0,
+            2058.0,
+            "Y eso lo que quieren evitar estos dos equipos, la cuarta plaza, ya que la tienen conseguida."
+        ],
+        "461": [
+            2059.0,
+            2061.0,
+            "Como mínimo intentar lograr la tercera."
+        ],
+        "462": [
+            2063.0,
+            2064.0,
+            "Otro vez Herrera bastante activo en ataque."
+        ],
+        "463": [
+            2064.0,
+            2069.0,
+            "Hoy lo comentaban en Inglaterra, decían, ojo que la cuarta plaza, para el que no lo sepa, con el cambio que hace tiempo."
+        ],
+        "464": [
+            2070.0,
+            2071.0,
+            "Vamos a ver la jugada primero."
+        ],
+        "465": [
+            2072.0,
+            2073.0,
+            "La del gol, ¿no?"
+        ],
+        "466": [
+            2074.0,
+            2075.0,
+            "La jugada del gol, sí."
+        ],
+        "467": [
+            2076.0,
+            2077.0,
+            "Fíjate cómo llega André Herrera."
+        ],
+        "468": [
+            2078.0,
+            2079.0,
+            "Alexis no le sigue, no le sigue, no le sigue."
+        ],
+        "469": [
+            2080.0,
+            2081.0,
+            "Sigue, está mirando el partido."
+        ],
+        "470": [
+            2082.0,
+            2083.0,
+            "André Herrera mirando."
+        ],
+        "471": [
+            2084.0,
+            2085.0,
+            "Sí, sí, Alexis mirando."
+        ],
+        "472": [
+            2086.0,
+            2087.0,
+            "André Herrera mirando."
+        ],
+        "473": [
+            2088.0,
+            2089.0,
+            "Mirando el balón, para luego marcar el gol y Alexis mirando a André Herrera."
+        ],
+        "474": [
+            2090.0,
+            2091.0,
+            "Está mirando el partido Alexis y cuando quiere reaccionar llega tarde."
+        ],
+        "475": [
+            2091.0,
+            2095.0,
+            "Lógicamente no tiene el instinto defensivo, pero eso se trabaja, es bien, ¿no?"
+        ],
+        "476": [
+            2096.0,
+            2098.0,
+            "Y Alexis es un jugador que en ese tipo de cosas suele ser bastante aplicado."
+        ],
+        "477": [
+            2100.0,
+            2101.0,
+            "Ahí está Wenger."
+        ],
+        "478": [
+            2103.0,
+            2108.0,
+            "Ese mismo artículo al que igual me estoy adelantando, pero que has leído tú, lo he leído yo,"
+        ],
+        "479": [
+            2109.0,
+            2113.0,
+            "y citaban exactamente como dos ejemplos, ponían al Valencia como posible rival y al Shakhtar Donetsk."
+        ],
+        "480": [
+            2114.0,
+            2117.0,
+            "También lo ponían como posible rival del cuarto de Inglaterra."
+        ],
+        "481": [
+            2117.0,
+            2121.0,
+            "Es que claro, con el cambio de regla, digamos, con Platini,"
+        ],
+        "482": [
+            2122.0,
+            2126.0,
+            "que quiere que haya equipos de ligas más modestas que jueguen la Champions, la fase final,"
+        ],
+        "483": [
+            2127.0,
+            2134.0,
+            "enfrentan lo que llaman los non-Champions, o sea, lo que llaman el cuadro de los países grandes y los países pequeños."
+        ],
+        "484": [
+            2135.0,
+            2138.0,
+            "Pero igual vas a tener un grande, por eso ha habido un Nápoles, hazle tiriloado."
+        ],
+        "485": [
+            2139.0,
+            2140.0,
+            "Exactamente."
+        ],
+        "486": [
+            2141.0,
+            2142.0,
+            "También podría ser el tercero Italia."
+        ],
+        "487": [
+            2143.0,
+            2144.0,
+            "Sí, ya lo sé yo, o el cuarto Alemania."
+        ],
+        "488": [
+            2144.0,
+            2154.0,
+            "Imagínate, ¿eh? Ahora mismo sería Valencia, Lazio o Bayern Música."
+        ],
+        "489": [
+            2155.0,
+            2157.0,
+            "Es decir, son rivales contra los que puedes perder."
+        ],
+        "490": [
+            2158.0,
+            2162.0,
+            "No es un chollo. No tienes garantizado ese equipo de Champions."
+        ],
+        "491": [
+            2163.0,
+            2169.0,
+            "Y en Inglaterra también, Maldini, en ese mismo artículo, creo que era en ese o en otro, no sé, me parece."
+        ],
+        "492": [
+            2170.0,
+            2174.0,
+            "Andan con la mosca detrás de la oreja por el asunto del coeficiente UEFA,"
+        ],
+        "493": [
+            2175.0,
+            2179.0,
+            "por el subidón que está pegando Italia y que para los próximos cinco años,"
+        ],
+        "494": [
+            2180.0,
+            2185.0,
+            "si sigue así el desplome del fútbol inglés en las competiciones europeas"
+        ],
+        "495": [
+            2186.0,
+            2192.0,
+            "y el repunte importante de Italia, podría incluso perder la cuarta plaza, la Premier,"
+        ],
+        "496": [
+            2193.0,
+            2197.0,
+            "y ganarla Italia, como pasó hace un par de temporadas, que la perdió Italia y la ganó Alemania."
+        ],
+        "497": [
+            2197.0,
+            2202.0,
+            "Ya están ahí mirando el coeficiente. Esta temporada ha sido un desastre."
+        ],
+        "498": [
+            2203.0,
+            2207.0,
+            "Y la pasada también, pero esta ha sido un desastre absoluto en los equipos ingleses en Europa."
+        ],
+        "499": [
+            2208.0,
+            2212.0,
+            "Sin embargo, Italia lo está haciendo muy bien."
+        ],
+        "500": [
+            2213.0,
+            2218.0,
+            "Ha llegado a tener dos semifinalistas en Europa League y un finalista en Champions."
+        ],
+        "501": [
+            2222.0,
+            2224.0,
+            "Toca de cabeza Fellaini, Ashley Young."
+        ],
+        "502": [
+            2227.0,
+            2230.0,
+            "Es falta, y aquí recibe Radamel Falcao García."
+        ],
+        "503": [
+            2235.0,
+            2237.0,
+            "De momento, ni rastro del Arsenal."
+        ],
+        "504": [
+            2239.0,
+            2242.0,
+            "Valencia quiere aprovechar esta fase, el United, para marcar el segundo."
+        ],
+        "505": [
+            2243.0,
+            2246.0,
+            "Busca desbordar el centro de Valencia, punto de penalti."
+        ],
+        "506": [
+            2247.0,
+            2251.0,
+            "El espejocto Kellan, aleja un poquito más el balón, aleja. Bueno, en vez de alejarlo, se lo dio Falcao."
+        ],
+        "507": [
+            2252.0,
+            2255.0,
+            "Pero ya había picado el árbitro, fuera de juego."
+        ],
+        "508": [
+            2258.0,
+            2262.0,
+            "Se lo dio el Linier, que cubre el ataque del Manchester United."
+        ],
+        "509": [
+            2266.0,
+            2268.0,
+            "Con Andrade el balón en juego, David Ospina."
+        ],
+        "510": [
+            2273.0,
+            2275.0,
+            "Ya lo hace el guardameta de Colombia."
+        ],
+        "511": [
+            2275.0,
+            2277.0,
+            "No se si el balón, o Phil Jones."
+        ],
+        "512": [
+            2279.0,
+            2282.0,
+            "Quieren enseñar la posición que comentábamos de Alejandro Puro, de Plin."
+        ],
+        "513": [
+            2283.0,
+            2284.0,
+            "Ojo, Mata, Mata dentro del área."
+        ],
+        "514": [
+            2285.0,
+            2288.0,
+            "A ver, línea de fondo, tira al centro, al segundo palo, quiere llegar Falcao."
+        ],
+        "515": [
+            2289.0,
+            2293.0,
+            "Con muchos apuros llegó, el balón venía blando y no le pudo dar cagó con fuerza a Falcao."
+        ],
+        "516": [
+            2294.0,
+            2295.0,
+            "No sé si cagó con la mano, Falcao."
+        ],
+        "517": [
+            2296.0,
+            2298.0,
+            "A ver, ha pitado algo el árbitro, no sé si pita mano."
+        ],
+        "518": [
+            2299.0,
+            2302.0,
+            "Ahí fuera de juego, de Falcao posicional, pero no le pudo dar cagó con fuerza."
+        ],
+        "519": [
+            2302.0,
+            2303.0,
+            "Vamos a ver aquí."
+        ],
+        "520": [
+            2304.0,
+            2306.0,
+            "No, pues no, no sé qué pide, que igual falta."
+        ],
+        "521": [
+            2307.0,
+            2309.0,
+            "Pero yo no veo nada en la jugada, la verdad, del Tigre."
+        ],
+        "522": [
+            2311.0,
+            2313.0,
+            "Siete para llegar, siete minutos para llegar al descanso."
+        ],
+        "523": [
+            2315.0,
+            2316.0,
+            "Bern Mertes saca."
+        ],
+        "524": [
+            2319.0,
+            2320.0,
+            "Dejó atrás a David Ospina."
+        ],
+        "525": [
+            2324.0,
+            2325.0,
+            "Está bien, está bien, está bien."
+        ],
+        "526": [
+            2326.0,
+            2327.0,
+            "Pero no se puede ver, no se puede ver."
+        ],
+        "527": [
+            2327.0,
+            2328.0,
+            "Se ha quedado David Ospina."
+        ],
+        "528": [
+            2332.0,
+            2339.0,
+            "Esta misma temporada, Maldini, ¿no fue el Arsenal el que sufrió ante el Besiktas en la previa?"
+        ],
+        "529": [
+            2340.0,
+            2343.0,
+            "En la previa, el Arsenal… Sí, fue el Arsenal."
+        ],
+        "530": [
+            2344.0,
+            2345.0,
+            "Fue contra el Besiktas, ¿no?"
+        ],
+        "531": [
+            2346.0,
+            2348.0,
+            "Sí, fue contra el Besiktas. Ganó por un gol."
+        ],
+        "532": [
+            2352.0,
+            2353.0,
+            "Y luego allí también… Yo sé que lo pasó mal."
+        ],
+        "533": [
+            2354.0,
+            2356.0,
+            "Lo pasó mal, lo pasó mal y fue contra el Besiktas de Estambul."
+        ],
+        "534": [
+            2357.0,
+            2359.0,
+            "No puedo recordar el mando de eso, de la cuarta plaza."
+        ],
+        "535": [
+            2362.0,
+            2365.0,
+            "El Besiktas que luego eliminaría al Liverpool de la Europa League por penaltis."
+        ],
+        "536": [
+            2367.0,
+            2368.0,
+            "Sí, es verdad."
+        ],
+        "537": [
+            2369.0,
+            2370.0,
+            "Ahí fue el que venía rebotado de la Champions."
+        ],
+        "538": [
+            2372.0,
+            2375.0,
+            "Sí, sí, sí, estoy recordando. Además hicimos los partidos tuyos, yo creo, si estos son los partidos."
+        ],
+        "539": [
+            2380.0,
+            2382.0,
+            "Pues hicimos, ¿no? Eso no me acuerdo ya."
+        ],
+        "540": [
+            2383.0,
+            2387.0,
+            "Pero seguramente los haríamos al final del agosto o principio de septiembre."
+        ],
+        "541": [
+            2391.0,
+            2396.0,
+            "Pues ahí está el Arsenal, buscando llegar a la portería a David de Gea, que tiene una tarde bastante plácida."
+        ],
+        "542": [
+            2397.0,
+            2399.0,
+            "Tampoco ha tenido que trabajar mucho David Ospina, pero…"
+        ],
+        "543": [
+            2400.0,
+            2404.0,
+            "Sí, fue empate a cero en el campo del Besiktas y luego ganó 1-0 con un gol de Alexis. Hicimos los dos partidos."
+        ],
+        "544": [
+            2405.0,
+            2406.0,
+            "Y ganó 1-0 con un gol de Alexis."
+        ],
+        "545": [
+            2407.0,
+            2409.0,
+            "En la previa. Es que esa cuarta plaza, cuidadito."
+        ],
+        "546": [
+            2410.0,
+            2411.0,
+            "No, no, no, no es fácil."
+        ],
+        "547": [
+            2413.0,
+            2418.0,
+            "Que ya le gustaría, por otro lado, claro, todo es relativo, le gustaría tener esa cuarta plaza en Liverpool,"
+        ],
+        "548": [
+            2419.0,
+            2422.0,
+            "pero claro, teniendo la oportunidad de ser tercero y evitar esos sufrimientos…"
+        ],
+        "549": [
+            2423.0,
+            2424.0,
+            "Tienes que pelearlo al 100%."
+        ],
+        "550": [
+            2425.0,
+            2426.0,
+            "Claro que sí."
+        ],
+        "551": [
+            2429.0,
+            2430.0,
+            "Porque la…"
+        ],
+        "552": [
+            2433.0,
+            2437.0,
+            "La segunda plaza ya prácticamente la tiene el Manchester City con la victoria 2-4 en Swansea."
+        ],
+        "553": [
+            2438.0,
+            2440.0,
+            "Porque tiene 76 puntos…"
+        ],
+        "554": [
+            2445.0,
+            2447.0,
+            "Bueno, si pinchara todavía…"
+        ],
+        "555": [
+            2448.0,
+            2449.0,
+            "Lo que pasa es que la diferencia de goles…"
+        ],
+        "556": [
+            2450.0,
+            2451.0,
+            "No, no."
+        ],
+        "557": [
+            2451.0,
+            2455.0,
+            "Pero bueno, por la diferencia de goles, si el Arsenal ganara los tres, si ganara los tres, sumaría 79."
+        ],
+        "558": [
+            2456.0,
+            2461.0,
+            "Y dependiendo por qué diferencia ganara los tres partidos, la diferencia de goles la podría enjugar."
+        ],
+        "559": [
+            2462.0,
+            2463.0,
+            "Enjugar…"
+        ],
+        "560": [
+            2463.0,
+            2470.0,
+            "El Manchester City que tiene más 43, pero si perdiera, aunque fuera por uno, tendría más 42."
+        ],
+        "561": [
+            2471.0,
+            2477.0,
+            "Si el Arsenal gana los tres, podría llegar, está en más 31 ahora, pero tendría que ganar los tres y por diferencia."
+        ],
+        "562": [
+            2478.0,
+            2479.0,
+            "La tiene casi asegurada."
+        ],
+        "563": [
+            2480.0,
+            2481.0,
+            "El Arsenal podría llegar a 79, ¿no?"
+        ],
+        "564": [
+            2482.0,
+            2483.0,
+            "Y el City tiene 76."
+        ],
+        "565": [
+            2484.0,
+            2487.0,
+            "Simplemente con que el City no gane el último partido, ya está, ya sería el segundo del Arsenal."
+        ],
+        "566": [
+            2488.0,
+            2492.0,
+            "Se está tratando por eso, que el City va a ganar el último partido, pero si no lo gana, pues…"
+        ],
+        "567": [
+            2493.0,
+            2494.0,
+            "Exactamente."
+        ],
+        "568": [
+            2494.0,
+            2495.0,
+            "Ya le pasaría."
+        ],
+        "569": [
+            2495.0,
+            2496.0,
+            "Exactamente."
+        ],
+        "570": [
+            2496.0,
+            2499.0,
+            "Pero bueno, lo tiene muy difícil también, lo normal es que el City gane el último partido."
+        ],
+        "571": [
+            2503.0,
+            2504.0,
+            "Está Jack Wilser, otro…"
+        ],
+        "572": [
+            2505.0,
+            2506.0,
+            "Que será encasante el Southampton, bueno…"
+        ],
+        "573": [
+            2507.0,
+            2508.0,
+            "Bueno, nunca se sabe."
+        ],
+        "574": [
+            2508.0,
+            2509.0,
+            "Hay que ganarlo."
+        ],
+        "575": [
+            2509.0,
+            2510.0,
+            "Nunca se sabe."
+        ],
+        "576": [
+            2510.0,
+            2511.0,
+            "Hay que ganarlo."
+        ],
+        "577": [
+            2511.0,
+            2514.0,
+            "Digo que veíamos ya a Jack Wilser, un jugador que tampoco ha tenido, lamentablemente, demasiado peso en el juego por las lesiones,"
+        ],
+        "578": [
+            2515.0,
+            2519.0,
+            "que le están verdaderamente maltratando, le están triturando las lesiones."
+        ],
+        "579": [
+            2521.0,
+            2524.0,
+            "42 de la primera, sprint final de este primer tiempo en Old Trafford."
+        ],
+        "580": [
+            2525.0,
+            2526.0,
+            "Jugando Ashley Young."
+        ],
+        "581": [
+            2528.0,
+            2530.0,
+            "A Roblind, el goleador Ander Herrera."
+        ],
+        "582": [
+            2531.0,
+            2536.0,
+            "Escondiendo el esférico, Ander, qué bien, qué bien, con qué habilidad de Herrera para el desmarque de Falcao."
+        ],
+        "583": [
+            2537.0,
+            2538.0,
+            "Estuvo ahí muy atento Kusielny."
+        ],
+        "584": [
+            2539.0,
+            2541.0,
+            "Full que recuperó y despejó, o combinó más bien."
+        ],
+        "585": [
+            2541.0,
+            2542.0,
+            "Con un super full."
+        ],
+        "586": [
+            2545.0,
+            2549.0,
+            "Recuperó rojo, rojo para Falcao, el toque es bueno de Falcao, mata entrando para la izquierda."
+        ],
+        "587": [
+            2550.0,
+            2553.0,
+            "Intenta despejar a Monreal, no lo consigue, el esférico va a ser para Marwan Felainy."
+        ],
+        "588": [
+            2562.0,
+            2565.0,
+            "Ander, atrás a Ander, a Phil Jones."
+        ],
+        "589": [
+            2567.0,
+            2568.0,
+            "Marcos en rojo."
+        ],
+        "590": [
+            2569.0,
+            2571.0,
+            "Marcos en rojo, Ashley Young."
+        ],
+        "591": [
+            2574.0,
+            2577.0,
+            "¿No te parece el bicharraco que ha aparecido en la cámara?"
+        ],
+        "592": [
+            2578.0,
+            2579.0,
+            "Una mosca sería, ¿no?"
+        ],
+        "593": [
+            2579.0,
+            2580.0,
+            "Sí."
+        ],
+        "594": [
+            2583.0,
+            2587.0,
+            "Hay que apuntar esto para el tele, ese programa de nuestros compañeros, ¿no?"
+        ],
+        "595": [
+            2588.0,
+            2589.0,
+            "Imágenes curiosas."
+        ],
+        "596": [
+            2590.0,
+            2591.0,
+            "Seguro que juega Ashley Young."
+        ],
+        "597": [
+            2593.0,
+            2595.0,
+            "No reacciona el Arsenal, está dormido en el partido."
+        ],
+        "598": [
+            2595.0,
+            2596.0,
+            "No reacciona, no, no, no reacciona."
+        ],
+        "599": [
+            2596.0,
+            2597.0,
+            "El equipo está..."
+        ],
+        "600": [
+            2597.0,
+            2599.0,
+            "Se esquecita, se está pegando el equipo de Londres."
+        ],
+        "601": [
+            2599.0,
+            2601.0,
+            "Quizás de repente el son sí que no mereció, por cierto."
+        ],
+        "602": [
+            2602.0,
+            2608.0,
+            "Pero le hizo daño y el United está bastante cómodo, está ganando el partido y sigue cómodo, que eso es lo que más me sorprende a mí."
+        ],
+        "603": [
+            2608.0,
+            2610.0,
+            "Y eso está siendo el mejor jugador del partido, Ander Herrera."
+        ],
+        "604": [
+            2610.0,
+            2612.0,
+            "Tampoco estoy viendo un problema de Ander Herrera, no."
+        ],
+        "605": [
+            2612.0,
+            2613.0,
+            "No, no, no, no, no, no."
+        ],
+        "606": [
+            2613.0,
+            2614.0,
+            "No, no, no, no, no, no."
+        ],
+        "607": [
+            2614.0,
+            2615.0,
+            "No, no, no, no, no, no."
+        ],
+        "608": [
+            2615.0,
+            2616.0,
+            "No, no, no, no, no, no."
+        ],
+        "609": [
+            2616.0,
+            2618.0,
+            "Y eso está siendo el mejor jugador del partido, Ander Herrera."
+        ],
+        "610": [
+            2618.0,
+            2620.0,
+            "Tampoco estoy viendo un partido especialmente bueno del United."
+        ],
+        "611": [
+            2620.0,
+            2622.0,
+            "Los ha hecho mejores en este tramo que ha tenido bueno de..."
+        ],
+        "612": [
+            2623.0,
+            2624.0,
+            "Hace un mes, más o menos, ¿no?"
+        ],
+        "613": [
+            2624.0,
+            2625.0,
+            "Vale, claro, claro, Felaini."
+        ],
+        "614": [
+            2626.0,
+            2631.0,
+            "Cazorla ha desaparecido, como ha desaparecido Stauzy, ha desaparecido Ramsey, ha desaparecido Alexis."
+        ],
+        "615": [
+            2631.0,
+            2635.0,
+            "Si están desaparecidos todos esos, evidentemente, no puede aparecer Giroud, que depende de ellos."
+        ],
+        "616": [
+            2636.0,
+            2638.0,
+            "También están desaparecidos porque están desaparecidos los de atrás."
+        ],
+        "617": [
+            2638.0,
+            2640.0,
+            "Hoy Cazorla no está prácticamente participando."
+        ],
+        "618": [
+            2640.0,
+            2642.0,
+            "Y ha hecho algún partido excelente últimamente Cazorla."
+        ],
+        "619": [
+            2643.0,
+            2644.0,
+            "Felaini."
+        ],
+        "620": [
+            2646.0,
+            2650.0,
+            "Falta de Kokelaan, que se enfada mucho con el árbitro, con Mike Dean."
+        ],
+        "621": [
+            2651.0,
+            2653.0,
+            "Bueno, balón parado para el United."
+        ],
+        "622": [
+            2653.0,
+            2654.0,
+            "Subirán Jones y Smolin."
+        ],
+        "623": [
+            2655.0,
+            2656.0,
+            "Más Falcao."
+        ],
+        "624": [
+            2656.0,
+            2659.0,
+            "Felaini, los que van mejor de cabeza en este equipo."
+        ],
+        "625": [
+            2660.0,
+            2662.0,
+            "También Blind se acerca ya a la frontal."
+        ],
+        "626": [
+            2662.0,
+            2664.0,
+            "Algo hablan Falcao y Blind."
+        ],
+        "627": [
+            2666.0,
+            2668.0,
+            "Y Rojo, que también es buen cabeceado."
+        ],
+        "628": [
+            2672.0,
+            2675.0,
+            "Y en otro sector, junto al balón, hablan Jaun y Mata."
+        ],
+        "629": [
+            2675.0,
+            2676.0,
+            "Hablaban."
+        ],
+        "630": [
+            2678.0,
+            2680.0,
+            "Mucho ojo, mucho ojito."
+        ],
+        "631": [
+            2681.0,
+            2683.0,
+            "Esto hayas liado a nuestros compañeros."
+        ],
+        "632": [
+            2688.0,
+            2690.0,
+            "Jugada ensayada para Blind."
+        ],
+        "633": [
+            2691.0,
+            2694.0,
+            "Pudo salir. La verdad es que es buena maniobra, buen laboratorio."
+        ],
+        "634": [
+            2695.0,
+            2697.0,
+            "Sí, pero con qué facilidad le han hecho esas jugadas ensayadas."
+        ],
+        "635": [
+            2697.0,
+            2700.0,
+            "Y Blind ha llegado a porción de remate muy claro, ahí en el borde del área."
+        ]
+    }
+}

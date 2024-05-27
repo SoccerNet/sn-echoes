@@ -1,0 +1,2454 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            3.0,
+            "Der Ball ist in der Hand."
+        ],
+        "1": [
+            3.0,
+            5.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "2": [
+            5.0,
+            7.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "3": [
+            7.0,
+            9.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "4": [
+            9.0,
+            11.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "5": [
+            11.0,
+            13.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "6": [
+            13.0,
+            15.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "7": [
+            15.0,
+            17.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "8": [
+            17.0,
+            19.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "9": [
+            19.0,
+            21.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "10": [
+            21.0,
+            23.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "11": [
+            23.0,
+            25.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "12": [
+            25.0,
+            27.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "13": [
+            27.0,
+            29.0,
+            "Die Mannschaft ist in der Hand."
+        ],
+        "14": [
+            29.0,
+            31.0,
+            "Der Ball ist in der Hand."
+        ],
+        "15": [
+            31.0,
+            33.0,
+            "Der Ball ist in der Hand."
+        ],
+        "16": [
+            33.0,
+            35.0,
+            "Der Ball ist in der Hand."
+        ],
+        "17": [
+            35.0,
+            37.0,
+            "Der Ball ist in der Hand."
+        ],
+        "18": [
+            37.0,
+            39.0,
+            "Der Ball ist in der Hand."
+        ],
+        "19": [
+            39.0,
+            41.0,
+            "Der Ball ist in der Hand."
+        ],
+        "20": [
+            41.0,
+            43.0,
+            "Der Ball ist in der Hand."
+        ],
+        "21": [
+            43.0,
+            45.0,
+            "Der Ball ist in der Hand."
+        ],
+        "22": [
+            45.0,
+            47.0,
+            "Der Ball ist in der Hand."
+        ],
+        "23": [
+            47.0,
+            49.0,
+            "Der Ball ist in der Hand."
+        ],
+        "24": [
+            49.0,
+            51.0,
+            "Der Ball ist in der Hand."
+        ],
+        "25": [
+            51.0,
+            53.0,
+            "Der Ball ist in der Hand."
+        ],
+        "26": [
+            53.0,
+            55.0,
+            "Der Ball ist in der Hand."
+        ],
+        "27": [
+            55.0,
+            57.0,
+            "Der Ball ist in der Hand."
+        ],
+        "28": [
+            57.0,
+            59.0,
+            "Die Mannschaft ist wachsam."
+        ],
+        "29": [
+            59.0,
+            61.0,
+            "Die Mannschaft ist wachsam."
+        ],
+        "30": [
+            71.0,
+            73.0,
+            "Die Seite des Balles Besitz."
+        ],
+        "31": [
+            81.0,
+            83.0,
+            "Erste Spielerpflicht."
+        ],
+        "32": [
+            83.0,
+            85.0,
+            "Erste Spielerpflicht."
+        ],
+        "33": [
+            85.0,
+            89.8,
+            "Meier, Di Santo haben das stark gemacht vergangene Woche gegen Mainz"
+        ],
+        "34": [
+            91.16,
+            93.36,
+            "und das Aufbauspiel im Keim"
+        ],
+        "35": [
+            94.88,
+            97.2,
+            "ersticken, respektive komplett unterfinden"
+        ],
+        "36": [
+            108.2,
+            110.2,
+            "Nastasic"
+        ],
+        "37": [
+            111.6,
+            113.6,
+            "Sogates"
+        ],
+        "38": [
+            115.0,
+            117.0,
+            "Di Santo"
+        ],
+        "39": [
+            117.0,
+            119.0,
+            "Di Santo"
+        ],
+        "40": [
+            119.0,
+            121.0,
+            "Loretzka"
+        ],
+        "41": [
+            121.0,
+            123.0,
+            "Loretzka"
+        ],
+        "42": [
+            123.0,
+            125.0,
+            "Kötze behauptet den Ball"
+        ],
+        "43": [
+            125.0,
+            127.0,
+            "Kötze behauptet den Ball"
+        ],
+        "44": [
+            127.0,
+            129.0,
+            "Di Santo"
+        ],
+        "45": [
+            129.0,
+            131.0,
+            "Di Santo"
+        ],
+        "46": [
+            131.0,
+            133.0,
+            "Di Santo"
+        ],
+        "47": [
+            133.0,
+            135.0,
+            "Schöpf"
+        ],
+        "48": [
+            135.0,
+            137.0,
+            "Gut verteidigt von Weigel"
+        ],
+        "49": [
+            137.0,
+            139.0,
+            "Höwedes weit mit aufgerückt"
+        ],
+        "50": [
+            139.0,
+            141.0,
+            "Und dann geht es schnell und direkt über Meier"
+        ],
+        "51": [
+            141.0,
+            143.0,
+            "Und dann geht es schnell und direkt über Meier"
+        ],
+        "52": [
+            144.0,
+            146.0,
+            "Und dann geht es schnell und direkt über Weigel"
+        ],
+        "53": [
+            146.0,
+            148.0,
+            "Schalke hat es die wesentlichste Ergebnis"
+        ],
+        "54": [
+            148.0,
+            150.0,
+            "Schalke hat es die wesentlichste Ergebnis"
+        ],
+        "55": [
+            150.0,
+            152.0,
+            "Für Bölingsbau in den letzten Wochen"
+        ],
+        "56": [
+            152.0,
+            154.0,
+            "Für Bölingsbau in den letzten Wochen"
+        ],
+        "57": [
+            154.0,
+            156.0,
+            "Mittlerweile verstanden, was Mainz hier will"
+        ],
+        "58": [
+            156.0,
+            158.0,
+            "Mittlerweile verstanden, was Mainz hier will"
+        ],
+        "59": [
+            158.0,
+            160.0,
+            "Taktik ist gar nicht so elemental"
+        ],
+        "60": [
+            160.0,
+            162.0,
+            "Taktik ist gar nicht so elemental"
+        ],
+        "61": [
+            162.0,
+            164.0,
+            "Es geht, um so fußballerische Grundtugenden"
+        ],
+        "62": [
+            164.0,
+            166.0,
+            "Es geht, um so fußballerische Grundtugenden"
+        ],
+        "63": [
+            166.0,
+            168.0,
+            "Es geht, um so fußballerische Grundtugenden"
+        ],
+        "64": [
+            168.0,
+            170.0,
+            "Wie vor ein paar Tagen"
+        ],
+        "65": [
+            170.0,
+            172.0,
+            "In der neuen Ausbildung"
+        ],
+        "66": [
+            172.0,
+            179.0,
+            "Die Bereitschaft, wie Einsatz, wie Zweikämpfe führen von der ersten Linie an."
+        ],
+        "67": [
+            182.0,
+            187.0,
+            "Tötze, Tuchel sagt er ist auf dem Weg zu seiner Top-Four."
+        ],
+        "68": [
+            190.0,
+            195.0,
+            "Ein Derby, die Möglichkeit für ihn ein wesentliches Ausrufezeichen zu setzen."
+        ],
+        "69": [
+            196.0,
+            201.0,
+            "Zogatis, der ist für solche Spiele gebaut, Kriegsschädenverteidiger."
+        ],
+        "70": [
+            201.0,
+            209.0,
+            "Kagawa, gut in die Saison gekommen, dann zwischenzeitlich mal raus rotiert, dadurch ein bisschen den Rhythmus verloren."
+        ],
+        "71": [
+            211.0,
+            213.0,
+            "Heute muss er, Tötze."
+        ],
+        "72": [
+            214.0,
+            217.0,
+            "Dembele, Aubameyang startet. Dembele gegen Oevides."
+        ],
+        "73": [
+            217.0,
+            218.0,
+            "Oevides."
+        ],
+        "74": [
+            222.0,
+            225.0,
+            "Und wieder hilft Schöpf mit, also soviel zum Thema Bereitschaft."
+        ],
+        "75": [
+            231.0,
+            235.0,
+            "Malocher auf Schalke ist eine Tugend und er versucht das fußballerisch interpretieren zu lassen."
+        ],
+        "76": [
+            235.0,
+            236.0,
+            "Markus Weinzierl."
+        ],
+        "77": [
+            238.0,
+            242.0,
+            "Das ist sein Gegenüber, Thomas Tuchel, der Herbergsvater der Dortmunder Rasselbande."
+        ],
+        "78": [
+            243.0,
+            246.0,
+            "Er dirigiert ein Ensemble an hochtalentierten Jungen."
+        ],
+        "79": [
+            251.0,
+            255.0,
+            "Und manchmal merkt man, dass der Mannschaft anders jung ist."
+        ],
+        "80": [
+            257.0,
+            261.0,
+            "Das war an der Grenze des Zum-Ball-Gehens."
+        ],
+        "81": [
+            266.0,
+            269.0,
+            "Also immerhin, der Ball hat eine eher untergeordnete Rolle gespielt."
+        ],
+        "82": [
+            270.0,
+            275.0,
+            "Ein herzhafter Kolasinac, Schalker Junge, das war gelbwürdig."
+        ],
+        "83": [
+            278.0,
+            282.0,
+            "Also wenn irgendwer Fragen hat zur Bedeutung dieses Derbys, also von den Neuen,"
+        ],
+        "84": [
+            282.0,
+            289.0,
+            "der muss sich an Kolasinac oder Fährmann oder Oevides oder Max Maier richten."
+        ],
+        "85": [
+            293.0,
+            296.0,
+            "Nur fürs Protokoll, Burkhardt hat kein Foulspiel geführt."
+        ],
+        "86": [
+            297.0,
+            299.0,
+            "Das war es in jedem Fall."
+        ],
+        "87": [
+            300.0,
+            301.0,
+            "Kein guter Einsatz."
+        ],
+        "88": [
+            303.0,
+            305.0,
+            "Guter langer Ball, kein Abseits."
+        ],
+        "89": [
+            306.0,
+            307.0,
+            "Di Santo."
+        ],
+        "90": [
+            309.0,
+            311.0,
+            "Kische, Kagawa, Di Santo."
+        ],
+        "91": [
+            315.0,
+            319.0,
+            "Schalker rückt nach, lassen die Abstände nicht zu groß werden."
+        ],
+        "92": [
+            327.0,
+            333.0,
+            "Im Grunde ist es das, was Mainz in der vergangenen Spielzeit mit Augsburg gemacht hat."
+        ],
+        "93": [
+            334.0,
+            339.0,
+            "Nur, dass die individuelle Qualität der Schalker noch deutlich höher ist."
+        ],
+        "94": [
+            342.0,
+            346.0,
+            "Und das müsste sich über kurz oder lang auch tabellarisch niederschlagen."
+        ],
+        "95": [
+            357.0,
+            359.0,
+            "Nastasic gegen Kagawa."
+        ],
+        "96": [
+            361.0,
+            363.0,
+            "Da stellt er den Fuß rein und das pfeift ruhig ab."
+        ],
+        "97": [
+            364.0,
+            365.0,
+            "Darauf anraten wir das Assystem."
+        ],
+        "98": [
+            378.0,
+            380.0,
+            "Exzellente Spielgemacht von Di Santo."
+        ],
+        "99": [
+            381.0,
+            384.0,
+            "Vergangene Woche beim 3-0 gegen Mainz."
+        ],
+        "100": [
+            387.0,
+            389.0,
+            "Zwei Tore vorbereitet."
+        ],
+        "101": [
+            391.0,
+            393.0,
+            "Tor vor und 1-1 in Augsburg."
+        ],
+        "102": [
+            394.0,
+            397.0,
+            "4-0 gegen Borussia Mönchengladbach. Drei Spiele in Folge ohne Niederlage."
+        ],
+        "103": [
+            399.0,
+            401.0,
+            "Geld gegen Kagawa."
+        ],
+        "104": [
+            407.0,
+            412.0,
+            "Unverhältnismäßig im Vergleich zu Kolasinac."
+        ],
+        "105": [
+            413.0,
+            416.0,
+            "Kolasinac lässt den Arm da hängen."
+        ],
+        "106": [
+            418.0,
+            420.0,
+            "Kein bewusster Schlag."
+        ],
+        "107": [
+            421.0,
+            423.0,
+            "Geiß springt ihm da rein."
+        ],
+        "108": [
+            426.0,
+            428.0,
+            "Ein normaler Freistoßpfiff hätte es auch getan."
+        ],
+        "109": [
+            429.0,
+            431.0,
+            "De Belli."
+        ],
+        "110": [
+            432.0,
+            434.0,
+            "Der Ball ist ausgelegt."
+        ],
+        "111": [
+            439.0,
+            441.0,
+            "Das war ein guter Tor."
+        ],
+        "112": [
+            444.0,
+            447.0,
+            "Was den Ellbogeneinsatz betrifft, ist Brüch äußerst sensibel."
+        ],
+        "113": [
+            450.0,
+            452.0,
+            "Er geht immer noch einmal in die Kabine."
+        ],
+        "114": [
+            456.0,
+            459.0,
+            "Um den Akteuren genau zu sagen, auf was er achten wird."
+        ],
+        "115": [
+            461.0,
+            463.0,
+            "Der Ball ist ausgelegt."
+        ],
+        "116": [
+            469.0,
+            471.0,
+            "Kagawa, der nächste."
+        ],
+        "117": [
+            472.0,
+            474.0,
+            "Der nächste."
+        ],
+        "118": [
+            480.0,
+            482.0,
+            "Der Belli."
+        ],
+        "119": [
+            492.0,
+            494.0,
+            "Der Ball ist ausgelegt."
+        ],
+        "120": [
+            495.0,
+            497.0,
+            "Der Ball ist ausgelegt."
+        ],
+        "121": [
+            506.0,
+            508.0,
+            "Jetzt werden es fünf."
+        ],
+        "122": [
+            509.0,
+            512.0,
+            "Kölzer versucht, es mit einem Slalomlauf zu lösen."
+        ],
+        "123": [
+            522.0,
+            524.0,
+            "Das war ein guter Ball."
+        ],
+        "124": [
+            525.0,
+            527.0,
+            "Das war ein guter Ball."
+        ],
+        "125": [
+            528.0,
+            530.0,
+            "Das war ein guter Ball."
+        ],
+        "126": [
+            531.0,
+            533.0,
+            "Das war ein guter Ball."
+        ],
+        "127": [
+            534.0,
+            536.0,
+            "Das war ein guter Ball."
+        ],
+        "128": [
+            537.0,
+            539.0,
+            "Das war ein guter Ball."
+        ],
+        "129": [
+            543.0,
+            545.0,
+            "Für den Stil, den Schalke jetzt spielt,"
+        ],
+        "130": [
+            546.0,
+            548.0,
+            "Franco Di Santo,"
+        ],
+        "131": [
+            549.0,
+            551.0,
+            "der vielleicht geeignetere Stürmertyp."
+        ],
+        "132": [
+            552.0,
+            554.0,
+            "Im Vergleich zu Rundela."
+        ],
+        "133": [
+            555.0,
+            558.0,
+            "Der hat in der Nürnberge Pokal auch bewiesen,"
+        ],
+        "134": [
+            559.0,
+            562.0,
+            "dass er jetzt weiß, wie Weinzierl zu spielen gedenkt."
+        ],
+        "135": [
+            563.0,
+            566.0,
+            "Dass er jetzt weiß, wie Weinzierl zu spielen gedenkt."
+        ],
+        "136": [
+            567.0,
+            569.0,
+            "Jetzt gibt es einen zweiten Ball."
+        ],
+        "137": [
+            570.0,
+            572.0,
+            "Jetzt gibt es einen zweiten Ball."
+        ],
+        "138": [
+            573.0,
+            575.0,
+            "Da sind sie die Fünferkette."
+        ],
+        "139": [
+            576.0,
+            578.0,
+            "Da sind sie die Fünferkette."
+        ],
+        "140": [
+            579.0,
+            582.0,
+            "Mit Schöpf und Kolasinac als den äußersten Gliedern."
+        ],
+        "141": [
+            583.0,
+            586.0,
+            "Mit Schöpf und Kolasinac als den äußersten Gliedern."
+        ],
+        "142": [
+            587.0,
+            589.0,
+            "Das funktioniert gut bis hierher."
+        ],
+        "143": [
+            590.0,
+            592.0,
+            "Das funktioniert gut bis hierher."
+        ],
+        "144": [
+            593.0,
+            595.0,
+            "Jetzt haben sie gut im Griff."
+        ],
+        "145": [
+            597.0,
+            600.0,
+            "Aubameyang nehmen sie bis hierhin vom Netz."
+        ],
+        "146": [
+            602.0,
+            607.0,
+            "Und dann besteht das Dortmunder Spiel ausschließlich aus Ballbesitz bis hierhin."
+        ],
+        "147": [
+            624.0,
+            633.0,
+            "Kagawa, Piszczek, Kagawa, Weigl."
+        ],
+        "148": [
+            636.0,
+            641.0,
+            "Bis auf Di Santo alle Schalker Richtung 61 Meterraum orientiert."
+        ],
+        "149": [
+            642.0,
+            644.0,
+            "Selbst Max Meier. Jetzt kommt Di Santo auch noch zurück."
+        ],
+        "150": [
+            646.0,
+            647.0,
+            "Dembélé."
+        ],
+        "151": [
+            654.0,
+            655.0,
+            "Turecka."
+        ],
+        "152": [
+            657.0,
+            660.0,
+            "Meier. Praktisches Foul."
+        ],
+        "153": [
+            661.0,
+            663.0,
+            "Mit Schuh ausziehen auf das Gelb."
+        ],
+        "154": [
+            668.0,
+            670.0,
+            "Wobei das ist tatsächlich Gelb."
+        ],
+        "155": [
+            670.0,
+            685.0,
+            "11 Minuten vorbei. 2x Gelb für seine Mannschaft. Für das Protokoll."
+        ],
+        "156": [
+            700.0,
+            711.0,
+            "Der Dortmunder hat in der vergangenen Woche wieder einen gewaltigen Kraftakt hinlegen müssen gegen Union Berlin."
+        ],
+        "157": [
+            712.0,
+            716.0,
+            "Mouraz Inac abgeführt."
+        ],
+        "158": [
+            717.0,
+            722.0,
+            "Wieder deutlich mehr Körner gekostet als gedacht bzw. erhofft."
+        ],
+        "159": [
+            722.0,
+            732.0,
+            "Wobei ganz im Ernst, wer dachte gegen Union Berlin, das wird ein entspannter Wellnessmittwoch mit Kaffee und Kuchen."
+        ],
+        "160": [
+            733.0,
+            734.0,
+            "Der war von vornherein schief gewickelt."
+        ],
+        "161": [
+            735.0,
+            738.0,
+            "Aber sie haben es ja dann gepackt. Über das Elfmeterschießen."
+        ],
+        "162": [
+            739.0,
+            741.0,
+            "Nächste Runde geht es gegen Hertha."
+        ],
+        "163": [
+            743.0,
+            745.0,
+            "Schalke in Sandhausen."
+        ],
+        "164": [
+            748.0,
+            749.0,
+            "Piszczek."
+        ],
+        "165": [
+            752.0,
+            753.0,
+            "Pazlak."
+        ],
+        "166": [
+            771.0,
+            772.0,
+            "Pientele."
+        ],
+        "167": [
+            773.0,
+            774.0,
+            "Kulasi Nac."
+        ],
+        "168": [
+            782.0,
+            784.0,
+            "Wegen."
+        ],
+        "169": [
+            812.0,
+            813.0,
+            "Kein Abseits."
+        ],
+        "170": [
+            814.0,
+            815.0,
+            "Kuretsuka."
+        ],
+        "171": [
+            815.0,
+            816.0,
+            "Di Santo."
+        ],
+        "172": [
+            843.0,
+            844.0,
+            "Schmidt."
+        ],
+        "173": [
+            844.0,
+            845.0,
+            "Egon."
+        ],
+        "174": [
+            865.0,
+            866.0,
+            "Schmidt."
+        ],
+        "175": [
+            867.0,
+            868.0,
+            "Rvali."
+        ],
+        "176": [
+            868.0,
+            869.0,
+            "Wegen."
+        ],
+        "177": [
+            869.0,
+            871.0,
+            "der"
+        ],
+        "178": [
+            871.24,
+            877.46,
+            "Attitüde einer Auswärtsmannschaft. Macht ihr mal Dortmund mit 65 Prozent Ballbesitz. Die Schalker gucken sich das an, lassen nichts zu"
+        ],
+        "179": [
+            879.48,
+            885.48,
+            "und versuchen dann zu kontern. Das geht sehr schnell, das geht sehr direkt"
+        ],
+        "180": [
+            888.92,
+            893.28,
+            "und ist bislang in Ansätzen gefährlich."
+        ],
+        "181": [
+            899.0,
+            906.0,
+            "Es wird mit einem klaren Plan auf Schalker angetreten, wie die meisten seiner Vorgänger auch. Allerdings, und das ist der Unterschied zu seinen Vorgängern,"
+        ],
+        "182": [
+            906.0,
+            910.0,
+            "auf langfristigen Erfolg angelegt und nicht zwingend aufs schnelle Glück."
+        ],
+        "183": [
+            910.0,
+            915.0,
+            "Das Ganze wurde abgesichert und die Schalker haben sich jetzt in der letzten Minute"
+        ],
+        "184": [
+            915.0,
+            919.0,
+            "mit einem sehr starken Druck auf den Ball gesetzt."
+        ],
+        "185": [
+            919.0,
+            921.0,
+            "Und das ist der Unterschied zu seinen Vorgängern."
+        ],
+        "186": [
+            921.0,
+            924.0,
+            "Die Schalker haben sich jetzt in der letzten Minute"
+        ],
+        "187": [
+            924.0,
+            927.0,
+            "mit einem klaren Plan auf Schalker angetreten, wie die meisten seiner Vorgänger auch."
+        ],
+        "188": [
+            927.0,
+            933.0,
+            "Das Ganze wurde abgesichert und die Schalker haben sich jetzt in der letzten Minute"
+        ],
+        "189": [
+            933.0,
+            935.0,
+            "mit einem klaren Plan aufs schnelle Glück."
+        ],
+        "190": [
+            935.0,
+            941.0,
+            "Das Ganze wurde abgesichert von einem neuen, starken, sportlichen Leiter Christian Heidel,"
+        ],
+        "191": [
+            941.0,
+            947.0,
+            "der ihm den Rücken frei hält, auch nach fünf Niederlagen zum Auftakt."
+        ],
+        "192": [
+            947.0,
+            950.0,
+            "Heidel hat sämtliche Unruhestifter weggeblockt."
+        ],
+        "193": [
+            950.0,
+            953.0,
+            "Meinziel arbeitet in Ruhe weiter."
+        ],
+        "194": [
+            953.0,
+            956.0,
+            "Und so langsam, aber sicher ist Erntezeit."
+        ],
+        "195": [
+            956.0,
+            958.0,
+            "Paslak."
+        ],
+        "196": [
+            965.0,
+            967.0,
+            "Springt in den Mann."
+        ],
+        "197": [
+            968.0,
+            970.0,
+            "Insofern Freistoß richtig entscheidend."
+        ],
+        "198": [
+            970.0,
+            973.0,
+            "Tucheltrachte, wir müssen die Zweikämpfe annehmen."
+        ],
+        "199": [
+            973.0,
+            976.0,
+            "Im Moment geben sie die Zweikämpfe aus."
+        ],
+        "200": [
+            981.0,
+            985.0,
+            "Und jetzt ist es der Moment, der sie für den ersten Mal in der Bundesliga spielen."
+        ],
+        "201": [
+            985.0,
+            988.0,
+            "Die Mannschaft ist wieder in der letzten Minute."
+        ],
+        "202": [
+            988.0,
+            991.0,
+            "Und die Mannschaft ist wieder in der letzten Minute."
+        ],
+        "203": [
+            991.0,
+            994.0,
+            "Und die Mannschaft ist wieder in der letzten Minute."
+        ],
+        "204": [
+            994.0,
+            997.0,
+            "Und die Mannschaft ist wieder in der letzten Minute."
+        ],
+        "205": [
+            998.0,
+            1000.0,
+            "Nastasic."
+        ],
+        "206": [
+            1010.0,
+            1012.0,
+            "Geiß."
+        ],
+        "207": [
+            1013.0,
+            1015.0,
+            "Gurazinac."
+        ],
+        "208": [
+            1015.0,
+            1017.0,
+            "Panno."
+        ],
+        "209": [
+            1028.0,
+            1030.0,
+            "Zagades."
+        ],
+        "210": [
+            1030.0,
+            1033.0,
+            "Auch mit muskulären Problemen zu tun."
+        ],
+        "211": [
+            1051.0,
+            1055.0,
+            "Der Dortmunder, der im Moment nicht mit muskulären Problemen zu tun hat,"
+        ],
+        "212": [
+            1055.0,
+            1057.0,
+            "ist kein Dortmunder."
+        ],
+        "213": [
+            1057.0,
+            1060.0,
+            "Zumindest kein Dortmunder Lizenzspieler."
+        ],
+        "214": [
+            1066.0,
+            1068.0,
+            "Pentalep."
+        ],
+        "215": [
+            1070.0,
+            1072.0,
+            "Alles sauber."
+        ],
+        "216": [
+            1072.0,
+            1074.0,
+            "Firma."
+        ],
+        "217": [
+            1074.0,
+            1076.0,
+            "Nastasic."
+        ],
+        "218": [
+            1078.0,
+            1081.0,
+            "Serbischer Nationalspieler, seit Januar 2015 auf Schalke."
+        ],
+        "219": [
+            1082.0,
+            1084.0,
+            "24. Bundesligaspiel."
+        ],
+        "220": [
+            1084.0,
+            1088.0,
+            "Er hat die komplette Vorsaison wegen eines Achillessehnenrisses pausiert."
+        ],
+        "221": [
+            1096.0,
+            1099.0,
+            "Und so wird erst jetzt zunehmend gewahr,"
+        ],
+        "222": [
+            1099.0,
+            1101.0,
+            "wegen Qualitätenerhart."
+        ],
+        "223": [
+            1101.0,
+            1103.0,
+            "Matija Nastasic."
+        ],
+        "224": [
+            1111.0,
+            1114.0,
+            "Der Torhüter ist draufgegangen."
+        ],
+        "225": [
+            1142.0,
+            1144.0,
+            "Wege."
+        ],
+        "226": [
+            1144.0,
+            1146.0,
+            "Wegen Geiß."
+        ],
+        "227": [
+            1159.0,
+            1161.0,
+            "Geiß macht es schlau."
+        ],
+        "228": [
+            1161.0,
+            1164.0,
+            "Sucht den Kontakt, geht als erster runter."
+        ],
+        "229": [
+            1165.0,
+            1168.0,
+            "Den Freistoß haben sie sich mit Cleverness geholt,"
+        ],
+        "230": [
+            1168.0,
+            1170.0,
+            "wenn man das so nennen darf."
+        ],
+        "231": [
+            1171.0,
+            1173.0,
+            "Böke."
+        ],
+        "232": [
+            1182.0,
+            1185.0,
+            "So was braucht der Böke gar nicht machen."
+        ],
+        "233": [
+            1185.0,
+            1188.0,
+            "Im Stadion hat ohnehin jeder Puls."
+        ],
+        "234": [
+            1192.0,
+            1195.0,
+            "Im Übrigen auch Schalke-Boss Clemens Tönnies,"
+        ],
+        "235": [
+            1195.0,
+            1199.0,
+            "der sich hier unter den 7000 im Stehblock"
+        ],
+        "236": [
+            1200.0,
+            1202.0,
+            "mit rumdrückt."
+        ],
+        "237": [
+            1210.0,
+            1212.0,
+            "Bentaleb."
+        ],
+        "238": [
+            1217.0,
+            1220.0,
+            "Bentaleb versuchen, den Borussen auch zu doppeln."
+        ],
+        "239": [
+            1222.0,
+            1224.0,
+            "Geiß."
+        ],
+        "240": [
+            1224.0,
+            1226.0,
+            "Guter Ball."
+        ],
+        "241": [
+            1226.0,
+            1228.0,
+            "Exzellenter Ball."
+        ],
+        "242": [
+            1229.0,
+            1232.0,
+            "Da ist er, der klatschende Schalke-Boss."
+        ],
+        "243": [
+            1232.0,
+            1234.0,
+            "Textsicher ohnehin."
+        ],
+        "244": [
+            1234.0,
+            1236.0,
+            "Ein ausgezeichneter Sänger."
+        ],
+        "245": [
+            1238.0,
+            1242.0,
+            "Über die gesanglichen Qualitäten von Christian Heidel"
+        ],
+        "246": [
+            1242.0,
+            1244.0,
+            "ist nichts bekannt."
+        ],
+        "247": [
+            1244.0,
+            1248.0,
+            "Aber er hat sich über das Schalke-Lied gut informiert."
+        ],
+        "248": [
+            1248.0,
+            1250.0,
+            "Mit dem 1. Arbeitstag."
+        ],
+        "249": [
+            1253.0,
+            1256.0,
+            "Und jetzt ist es schon wieder so."
+        ],
+        "250": [
+            1257.0,
+            1259.0,
+            "Das ist der 2. Schalke-Ball."
+        ],
+        "251": [
+            1259.0,
+            1261.0,
+            "Der ist gut."
+        ],
+        "252": [
+            1261.0,
+            1263.0,
+            "Der ist gut."
+        ],
+        "253": [
+            1263.0,
+            1265.0,
+            "Bentaleb."
+        ],
+        "254": [
+            1265.0,
+            1267.0,
+            "Borecka."
+        ],
+        "255": [
+            1267.0,
+            1269.0,
+            "Guter Hieb."
+        ],
+        "256": [
+            1269.0,
+            1271.0,
+            "Wenn er ihn trifft."
+        ],
+        "257": [
+            1287.0,
+            1289.0,
+            "Kacaua."
+        ],
+        "258": [
+            1295.0,
+            1297.0,
+            "Heigl."
+        ],
+        "259": [
+            1302.0,
+            1304.0,
+            "Dembele."
+        ],
+        "260": [
+            1304.0,
+            1306.0,
+            "Gut aufgepasst von Naldo."
+        ],
+        "261": [
+            1312.0,
+            1314.0,
+            "Molasinac."
+        ],
+        "262": [
+            1316.0,
+            1320.0,
+            "Kulisic kriegt das Foul nicht."
+        ],
+        "263": [
+            1347.0,
+            1349.0,
+            "Das war ein guter Ball."
+        ],
+        "264": [
+            1349.0,
+            1351.0,
+            "Das war gut."
+        ],
+        "265": [
+            1351.0,
+            1353.0,
+            "Max Meyer hat einen erzählt."
+        ],
+        "266": [
+            1361.0,
+            1363.0,
+            "Es wird halten von Di Santo."
+        ],
+        "267": [
+            1363.0,
+            1365.0,
+            "Wobei Sogat es auch gehalten hat."
+        ],
+        "268": [
+            1366.0,
+            1368.0,
+            "Das war ein guter Ball."
+        ],
+        "269": [
+            1368.0,
+            1370.0,
+            "Das war gut."
+        ],
+        "270": [
+            1370.0,
+            1372.0,
+            "Das war gut."
+        ],
+        "271": [
+            1372.0,
+            1374.0,
+            "Das war gut."
+        ],
+        "272": [
+            1374.0,
+            1376.0,
+            "Das war gut."
+        ],
+        "273": [
+            1376.0,
+            1379.0,
+            "Die letzte Sicherheit in der Zweikampf-Vorurteilung geht"
+        ],
+        "274": [
+            1379.0,
+            1381.0,
+            "Felix Brüchner ab."
+        ],
+        "275": [
+            1381.0,
+            1383.0,
+            "Kacaua."
+        ],
+        "276": [
+            1383.0,
+            1385.0,
+            "Naldo Kulisic."
+        ],
+        "277": [
+            1385.0,
+            1387.0,
+            "Mit Tempo."
+        ],
+        "278": [
+            1387.0,
+            1390.0,
+            "Das ist aber auch eine Tischtennis-Serie."
+        ],
+        "279": [
+            1390.0,
+            1392.0,
+            "Das ist eine Tischtennis-Serie."
+        ],
+        "280": [
+            1393.0,
+            1395.0,
+            "Kacaua."
+        ],
+        "281": [
+            1395.0,
+            1397.0,
+            "Das war gut."
+        ],
+        "282": [
+            1397.0,
+            1399.0,
+            "Das war gut."
+        ],
+        "283": [
+            1399.0,
+            1401.0,
+            "Das war gut."
+        ],
+        "284": [
+            1401.0,
+            1403.0,
+            "Das war gut."
+        ],
+        "285": [
+            1403.0,
+            1405.0,
+            "Das war gut."
+        ],
+        "286": [
+            1405.0,
+            1407.0,
+            "Das war gut."
+        ],
+        "287": [
+            1407.0,
+            1409.0,
+            "Da geht es zum Ball."
+        ],
+        "288": [
+            1409.0,
+            1411.0,
+            "Da geht es zum Ball."
+        ],
+        "289": [
+            1411.0,
+            1413.0,
+            "Jeder Zweikampf ist ein gegretschtes"
+        ],
+        "290": [
+            1413.0,
+            1415.0,
+            "Jeder Zweikampf ist ein gegretschtes"
+        ],
+        "291": [
+            1416.0,
+            1418.0,
+            "Kapitän.\""
+        ],
+        "292": [
+            1418.0,
+            1420.0,
+            "Kapitän.\""
+        ],
+        "293": [
+            1420.0,
+            1423.0,
+            "Kapot"
+        ],
+        "294": [
+            1425.0,
+            1427.0,
+            "Konter."
+        ],
+        "295": [
+            1427.0,
+            1429.0,
+            "Konter."
+        ],
+        "296": [
+            1429.0,
+            1431.0,
+            "Gods?"
+        ],
+        "297": [
+            1431.0,
+            1433.0,
+            "Gods?"
+        ],
+        "298": [
+            1433.0,
+            1435.0,
+            "God"
+        ],
+        "299": [
+            1437.0,
+            1440.0,
+            "eri"
+        ],
+        "300": [
+            1440.0,
+            1443.0,
+            "Wa"
+        ],
+        "301": [
+            1443.0,
+            1447.5,
+            "Nach vorne spielen sie die Dreierkette, weil sie die beiden Außenverteidiger sehr weit nach vorne schieben,"
+        ],
+        "302": [
+            1447.5,
+            1454.5,
+            "um sie als Mittelfeldspieler zu nutzen, als Anspielstation, also hohe Flexibilität in diesen Abwehrverhalten,"
+        ],
+        "303": [
+            1454.5,
+            1457.0,
+            "sowohl nach hinten als auch nach vorne."
+        ],
+        "304": [
+            1457.0,
+            1459.5,
+            "Und das macht Dortmund das Leben sehr schwer."
+        ],
+        "305": [
+            1459.5,
+            1463.5,
+            "Sie kommen eigentlich nicht in die gefährliche Zone, wo sie gerne hinkommen möchten."
+        ],
+        "306": [
+            1463.5,
+            1473.5,
+            "Also da muss sich Dortmund noch reinarbeiten."
+        ],
+        "307": [
+            1480.5,
+            1489.5,
+            "In diese defensive, flexible Struktur von der S04."
+        ],
+        "308": [
+            1490.5,
+            1492.5,
+            "Behövedes."
+        ],
+        "309": [
+            1495.5,
+            1499.5,
+            "Auch das ist auffällig, einer Behövedes schiebt immer mit nach vorne."
+        ],
+        "310": [
+            1499.5,
+            1501.5,
+            "Der Weltpräsident."
+        ],
+        "311": [
+            1509.5,
+            1511.5,
+            "Dr. Rainer Trauball."
+        ],
+        "312": [
+            1511.5,
+            1513.5,
+            "Übrigens ein Stellvertreter Peter Peters."
+        ],
+        "313": [
+            1513.5,
+            1516.5,
+            "Sein Stein ist auch Finanzvorstand bei Schalke 04."
+        ],
+        "314": [
+            1516.5,
+            1518.5,
+            "Er wohnt in Dortmund."
+        ],
+        "315": [
+            1524.5,
+            1526.5,
+            "Bentaleb."
+        ],
+        "316": [
+            1528.5,
+            1530.5,
+            "Zu optimistisch."
+        ],
+        "317": [
+            1546.5,
+            1553.5,
+            "So, jetzt gibt es die erste wirkliche Derby-Provokation an diesem Abend."
+        ],
+        "318": [
+            1553.5,
+            1559.5,
+            "Es wird auf der Südtribüne ein Schalke-Banner."
+        ],
+        "319": [
+            1559.5,
+            1561.5,
+            "Ich kann es von hier aus ehrlich gesagt nie erkennen."
+        ],
+        "320": [
+            1562.5,
+            1568.5,
+            "Ein offenbar entwendetes Schalke-Banner als Trophäe vorgeführt."
+        ],
+        "321": [
+            1576.5,
+            1606.5,
+            "Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Schalke, Sch"
+        ],
+        "322": [
+            1606.5,
+            1636.5,
+            "alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, alle, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all, all"
+        ],
+        "323": [
+            1636.5,
+            1645.78,
+            "und Schalke Fan. Ist mittlerweile ins schwarz-gelbe konvertiert."
+        ],
+        "324": [
+            1666.5,
+            1695.9,
+            "Nach einer halben Stunde gespielt. Ein intensives Derby, das sich zumeist zwischen den beiden"
+        ],
+        "325": [
+            1695.9,
+            1710.26,
+            "Strafräumen bewegt. Schalke verteidigt sehr variabel, wir haben schon darüber geredet,"
+        ],
+        "326": [
+            1710.26,
+            1721.98,
+            "sehr resolut. Versucht immer mal wieder ein Konter zu setzen. So gerade ist. So, jetzt gibt's Platz."
+        ],
+        "327": [
+            1722.18,
+            1724.46,
+            "Er hat in zwei Reihen überspielt. So gerade ist."
+        ],
+        "328": [
+            1724.46,
+            1729.38,
+            "Götze auf dem Flügel."
+        ],
+        "329": [
+            1729.38,
+            1740.7,
+            "Schwarz-gelb sucht nach Lösungen."
+        ],
+        "330": [
+            1743.02,
+            1745.18,
+            "Und Schalke verweigert jedwede Angebote."
+        ],
+        "331": [
+            1751.98,
+            1757.74,
+            "Penta-Lap."
+        ],
+        "332": [
+            1757.74,
+            1764.82,
+            "Max Meier."
+        ],
+        "333": [
+            1764.82,
+            1770.46,
+            "Schöpf, Di Santo zwischen den beiden Innenverteidigern, Ginter."
+        ],
+        "334": [
+            1770.46,
+            1774.98,
+            "Und so gerade ist kein Abseits. Das war mit der Ansage, Schöpf."
+        ],
+        "335": [
+            1774.98,
+            1778.54,
+            "Gut aufgepasst von Vergara."
+        ],
+        "336": [
+            1804.98,
+            1822.58,
+            "Schöpf, Di Santo lässt ihn nur über den Mittelscheid und schon Bürki."
+        ],
+        "337": [
+            1822.58,
+            1830.9,
+            "Wir haben in Dortmund lange gegen die Kritiker angespielt und davon gab es nicht wenige."
+        ],
+        "338": [
+            1831.02,
+            1833.46,
+            "Vorbehalte gegenüber Roman Bürki gibt es noch immer."
+        ],
+        "339": [
+            1833.46,
+            1837.98,
+            "Und trotzdem wirkt der Schweizer in dieser Saison ein bisschen befreiter,"
+        ],
+        "340": [
+            1837.98,
+            1840.14,
+            "etwas souveräner, etwas abgeklärter."
+        ],
+        "341": [
+            1844.26,
+            1852.58,
+            "Er hat dann doch ein Jahr gebraucht, um die Umstellung von Freiburg auf Dortmund"
+        ],
+        "342": [
+            1852.58,
+            1854.62,
+            "hinzubekommen. Das ist natürlich ein neues Torhüterspiel."
+        ],
+        "343": [
+            1855.22,
+            1861.02,
+            "Freiburg hat da viel mehr zu tun als in Dortmund."
+        ],
+        "344": [
+            1861.02,
+            1864.82,
+            "Insofern sind Fehler in Dortmund deutlich auffälliger."
+        ],
+        "345": [
+            1864.82,
+            1869.46,
+            "Daran muss er sich erst gewöhnen."
+        ],
+        "346": [
+            1869.46,
+            1873.5,
+            "Ballbesitzwerte 60-40 pro BVB."
+        ],
+        "347": [
+            1873.5,
+            1879.54,
+            "Wir haben noch nicht einen wirklichen Torschuss der Dortmunder gesehen."
+        ],
+        "348": [
+            1879.54,
+            1889.94,
+            "Obermeer-Jank bislang mit zwei, in Worten zwei, Ballkontakten."
+        ],
+        "349": [
+            1909.54,
+            1915.7,
+            "Wir bitten euch, das Zündelenkverfolger auf der Tribüne sofort zu unterlassen."
+        ],
+        "350": [
+            1915.7,
+            1916.7,
+            "Vielen Dank."
+        ],
+        "351": [
+            1921.7,
+            1928.02,
+            "Auf der Züchterbühne werden jetzt die präsentierten Schalker Zaunfahnen,"
+        ],
+        "352": [
+            1928.02,
+            1931.3,
+            "die entwendeten Zaunfahnen, verbrannt."
+        ],
+        "353": [
+            1970.3,
+            1975.42,
+            "Lissanto, Volasic nach links, Pulisic macht den Weg mit."
+        ],
+        "354": [
+            1979.42,
+            1979.92,
+            "Tor."
+        ],
+        "355": [
+            1980.1,
+            1981.1,
+            "Mastasic."
+        ],
+        "356": [
+            1987.3,
+            1989.62,
+            "Zieht die nächste gelbe Karte."
+        ],
+        "357": [
+            1999.62,
+            2000.62,
+            "Jupp."
+        ],
+        "358": [
+            2011.26,
+            2015.22,
+            "Romagnan gerade im Begriff, seinem dritten Ballkontakt entgegenzunehmen."
+        ],
+        "359": [
+            2015.9,
+            2031.1,
+            "Das ist das Rezept, also jetzt nicht vollzuspielen, aber gegen die Stellen, auch Dembélé."
+        ],
+        "360": [
+            2031.1,
+            2037.94,
+            "Es gelingt den Schalkern, Obermeer-Jank und Dembélé schon bei der Ballannahme,"
+        ],
+        "361": [
+            2037.94,
+            2043.22,
+            "beziehungsweise knapp davor, zu stören, beziehungsweise zu stellen."
+        ],
+        "362": [
+            2045.22,
+            2048.18,
+            "Und damit sind beide komplett aus dem Spiel genommen."
+        ],
+        "363": [
+            2075.22,
+            2082.98,
+            "Rüders schiebt ein Stück mit nach vorne."
+        ],
+        "364": [
+            2082.98,
+            2087.78,
+            "Sokrati ist jetzt alleiniger letzter Mann."
+        ],
+        "365": [
+            2087.78,
+            2096.26,
+            "Rezente Stoff unter Risiko."
+        ],
+        "366": [
+            2096.26,
+            2100.1,
+            "Dembélé gegen Schöpf."
+        ],
+        "367": [
+            2100.1,
+            2101.1,
+            "Dembélé."
+        ],
+        "368": [
+            2101.1,
+            2103.62,
+            "Alle eingelaufen."
+        ],
+        "369": [
+            2103.62,
+            2104.62,
+            "Lassi nach."
+        ],
+        "370": [
+            2104.62,
+            2105.62,
+            "Pulisic, Sokratis."
+        ],
+        "371": [
+            2105.62,
+            2110.62,
+            "Ich gebe was Neues bei Sky, einem neuen Sender."
+        ],
+        "372": [
+            2110.62,
+            2126.02,
+            "Sky One, der neue Entertainment-Sender ab 3. November."
+        ],
+        "373": [
+            2126.02,
+            2133.82,
+            "Und da seien sie insbesondere hingewiesen auf die Sendung Masterchef."
+        ],
+        "374": [
+            2133.82,
+            2134.82,
+            "Da wird gekocht."
+        ],
+        "375": [
+            2134.82,
+            2135.82,
+            "Donnerstag, 20.15 Uhr."
+        ],
+        "376": [
+            2135.82,
+            2136.82,
+            "Hinterleb."
+        ],
+        "377": [
+            2136.82,
+            2137.82,
+            "Es ist mindestens gelb."
+        ],
+        "378": [
+            2197.82,
+            2219.9,
+            "Es geht ihm zunehmend besser, wie es heißt."
+        ],
+        "379": [
+            2219.9,
+            2222.3,
+            "Befindet sich Aufbautraining."
+        ],
+        "380": [
+            2222.3,
+            2226.94,
+            "Er kann schon wieder erste Einheiten mitmachen."
+        ],
+        "381": [
+            2227.06,
+            2229.38,
+            "Es soll eine Frage von Wochen sein."
+        ],
+        "382": [
+            2229.38,
+            2234.42,
+            "Also eine Schambeinentzündung ist eine ganz linke Nummer."
+        ],
+        "383": [
+            2234.42,
+            2239.7,
+            "Wenn man sich eigentlich erst unter voller Belastung bemerkbar macht."
+        ],
+        "384": [
+            2239.7,
+            2242.86,
+            "Also man wird abwarten."
+        ],
+        "385": [
+            2242.86,
+            2245.3,
+            "Abwarten müssen."
+        ],
+        "386": [
+            2275.3,
+            2292.14,
+            "Christian Kakaba."
+        ],
+        "387": [
+            2292.14,
+            2298.9,
+            "Die Schalker sind sich für keinen Weg zu schade."
+        ],
+        "388": [
+            2298.9,
+            2300.38,
+            "Jetzt ist Schöpf mal hinten rausgegangen."
+        ],
+        "389": [
+            2300.38,
+            2301.7,
+            "So ein Pass lag ein bisschen mehr Platz."
+        ],
+        "390": [
+            2301.7,
+            2306.26,
+            "Aber die müssen sich auf den anderen Fuß legen."
+        ],
+        "391": [
+            2306.26,
+            2314.3,
+            "Das ist so eine Sache."
+        ],
+        "392": [
+            2314.3,
+            2318.26,
+            "Außenverteidiger in Dortmund werden gemacht."
+        ],
+        "393": [
+            2318.26,
+            2322.9,
+            "Mittlerweile gute Tradition."
+        ],
+        "394": [
+            2322.9,
+            2324.18,
+            "Also werden selbst gebaut."
+        ],
+        "395": [
+            2324.18,
+            2328.82,
+            "Knapp abseits."
+        ],
+        "396": [
+            2328.82,
+            2334.74,
+            "Christian Ulisic."
+        ],
+        "397": [
+            2334.74,
+            2335.74,
+            "16."
+        ],
+        "398": [
+            2335.74,
+            2336.74,
+            "Bundesligaspiel."
+        ],
+        "399": [
+            2336.74,
+            2337.74,
+            "22-Paar-Kontakte."
+        ],
+        "400": [
+            2337.74,
+            2347.74,
+            "Für einen Gutisandro, den wir gerade gesehen haben."
+        ],
+        "401": [
+            2347.74,
+            2348.74,
+            "Zwölf Zweikämpfe."
+        ],
+        "402": [
+            2348.74,
+            2352.46,
+            "Davon 67% gewonnen."
+        ],
+        "403": [
+            2352.46,
+            2359.46,
+            "Das ist ein unfassbar guter Wert für einen Stürmer."
+        ],
+        "404": [
+            2359.46,
+            2365.02,
+            "Also kriegt ein Innenverteidiger schon ein Sternchen für."
+        ],
+        "405": [
+            2365.02,
+            2366.02,
+            "Aber ein Stürmer, dann hat er das."
+        ],
+        "406": [
+            2412.46,
+            2420.06,
+            "Zuspiel nicht optimal."
+        ],
+        "407": [
+            2420.06,
+            2423.06,
+            "Sofort nimmt Goretzka Tempo auf."
+        ],
+        "408": [
+            2423.06,
+            2426.54,
+            "Und Dembélé muss die Bremse ziehen."
+        ],
+        "409": [
+            2426.54,
+            2435.82,
+            "Fünfte gelbe Karte im Spiel."
+        ],
+        "410": [
+            2435.82,
+            2451.82,
+            "Weigel der Spieler mit den meisten Ballaktionen, Ballkontakten."
+        ],
+        "411": [
+            2451.82,
+            2459.82,
+            "Schöpf auf der anderen Seite."
+        ],
+        "412": [
+            2459.82,
+            2462.18,
+            "Schöpf ein eher offensiv ausgerichteter Spieler."
+        ],
+        "413": [
+            2462.18,
+            2463.18,
+            "Schalke."
+        ],
+        "414": [
+            2463.18,
+            2464.18,
+            "Weigel zentral-defensiver Aufbauspieler."
+        ],
+        "415": [
+            2495.18,
+            2496.18,
+            "Tempo, Entschlossenheit, Aggressivität."
+        ],
+        "416": [
+            2496.18,
+            2497.18,
+            "Und dann der Ball."
+        ],
+        "417": [
+            2497.18,
+            2498.18,
+            "Und dann der Ball."
+        ],
+        "418": [
+            2498.18,
+            2499.18,
+            "Und dann der Ball."
+        ],
+        "419": [
+            2499.18,
+            2500.18,
+            "Und dann der Ball."
+        ],
+        "420": [
+            2500.18,
+            2501.18,
+            "Und dann der Ball."
+        ],
+        "421": [
+            2501.18,
+            2502.18,
+            "Und dann der Ball."
+        ],
+        "422": [
+            2502.18,
+            2503.18,
+            "Und dann der Ball."
+        ],
+        "423": [
+            2503.18,
+            2504.18,
+            "Und dann der Ball."
+        ],
+        "424": [
+            2504.18,
+            2505.18,
+            "Und dann der Ball."
+        ],
+        "425": [
+            2505.18,
+            2506.18,
+            "Und dann der Ball."
+        ],
+        "426": [
+            2506.18,
+            2507.18,
+            "Und dann der Ball."
+        ],
+        "427": [
+            2507.18,
+            2508.18,
+            "Und dann der Ball."
+        ],
+        "428": [
+            2508.18,
+            2509.18,
+            "Und dann der Ball."
+        ],
+        "429": [
+            2509.18,
+            2510.18,
+            "Und dann der Ball."
+        ],
+        "430": [
+            2510.18,
+            2511.18,
+            "Und dann der Ball."
+        ],
+        "431": [
+            2511.18,
+            2512.18,
+            "Und dann der Ball."
+        ],
+        "432": [
+            2512.18,
+            2513.18,
+            "Und dann der Ball."
+        ],
+        "433": [
+            2513.18,
+            2514.18,
+            "Und dann der Ball."
+        ],
+        "434": [
+            2514.18,
+            2515.18,
+            "Und dann der Ball."
+        ],
+        "435": [
+            2515.18,
+            2516.18,
+            "Und dann der Ball."
+        ],
+        "436": [
+            2516.18,
+            2517.18,
+            "Und dann der Ball."
+        ],
+        "437": [
+            2517.18,
+            2518.18,
+            "Und dann der Ball."
+        ],
+        "438": [
+            2518.18,
+            2519.18,
+            "Und dann der Ball."
+        ],
+        "439": [
+            2519.18,
+            2520.18,
+            "Und dann der Ball."
+        ],
+        "440": [
+            2520.18,
+            2521.18,
+            "Und dann der Ball."
+        ],
+        "441": [
+            2521.18,
+            2522.18,
+            "Und dann der Ball."
+        ],
+        "442": [
+            2522.18,
+            2523.18,
+            "Und dann der Ball."
+        ],
+        "443": [
+            2523.18,
+            2524.18,
+            "Und dann der Ball."
+        ],
+        "444": [
+            2524.18,
+            2525.18,
+            "Und dann der Ball."
+        ],
+        "445": [
+            2525.18,
+            2526.18,
+            "Und dann der Ball."
+        ],
+        "446": [
+            2526.18,
+            2527.18,
+            "Und dann der Ball."
+        ],
+        "447": [
+            2527.18,
+            2528.18,
+            "Und dann der Ball."
+        ],
+        "448": [
+            2528.18,
+            2529.18,
+            "Und dann der Ball."
+        ],
+        "449": [
+            2529.18,
+            2530.18,
+            "Und dann der Ball."
+        ],
+        "450": [
+            2530.18,
+            2531.18,
+            "Und dann der Ball."
+        ],
+        "451": [
+            2531.18,
+            2532.18,
+            "Und dann der Ball."
+        ],
+        "452": [
+            2532.18,
+            2533.18,
+            "Und dann der Ball."
+        ],
+        "453": [
+            2533.18,
+            2534.18,
+            "Und dann der Ball."
+        ],
+        "454": [
+            2534.18,
+            2535.18,
+            "Und dann der Ball."
+        ],
+        "455": [
+            2535.18,
+            2536.18,
+            "Und dann der Ball."
+        ],
+        "456": [
+            2536.18,
+            2537.18,
+            "Und dann der Ball."
+        ],
+        "457": [
+            2537.18,
+            2538.18,
+            "Und dann der Ball."
+        ],
+        "458": [
+            2538.18,
+            2539.18,
+            "Und dann der Ball."
+        ],
+        "459": [
+            2539.18,
+            2540.18,
+            "Und dann der Ball."
+        ],
+        "460": [
+            2540.18,
+            2541.18,
+            "Und dann der Ball."
+        ],
+        "461": [
+            2541.18,
+            2542.18,
+            "Und dann der Ball."
+        ],
+        "462": [
+            2542.18,
+            2543.18,
+            "Und dann der Ball."
+        ],
+        "463": [
+            2543.18,
+            2544.18,
+            "Und dann der Ball."
+        ],
+        "464": [
+            2544.18,
+            2545.18,
+            "Und dann der Ball."
+        ],
+        "465": [
+            2545.18,
+            2546.18,
+            "Und dann der Ball."
+        ],
+        "466": [
+            2546.18,
+            2547.18,
+            "Und dann der Ball."
+        ],
+        "467": [
+            2547.18,
+            2548.18,
+            "Und dann der Ball."
+        ],
+        "468": [
+            2548.18,
+            2549.18,
+            "Und dann der Ball."
+        ],
+        "469": [
+            2549.18,
+            2550.18,
+            "Und dann der Ball."
+        ],
+        "470": [
+            2550.18,
+            2551.18,
+            "Und dann der Ball."
+        ],
+        "471": [
+            2551.18,
+            2552.18,
+            "Und dann der Ball."
+        ],
+        "472": [
+            2552.18,
+            2572.44,
+            "Ein ganz kleiner Teil jenseits dessen wie es erlaubt ist."
+        ],
+        "473": [
+            2582.18,
+            2589.26,
+            "den top 100 höchstgeschwindigkeitsfußball so zu verändern, das nötigt einem schon Respekt ab."
+        ],
+        "474": [
+            2593.06,
+            2593.7,
+            "Pulisic."
+        ],
+        "475": [
+            2596.18,
+            2600.46,
+            "Das war gut gespielt. Kürze, Kürze auch noch kein Faktor."
+        ],
+        "476": [
+            2612.74,
+            2613.86,
+            "Unglaublich gut."
+        ],
+        "477": [
+            2619.38,
+            2620.34,
+            "Is not allowed."
+        ],
+        "478": [
+            2642.18,
+            2644.18,
+            "vor Obermeer."
+        ],
+        "479": [
+            2644.18,
+            2647.18,
+            "Tissanto, Colasinac, Spentale."
+        ],
+        "480": [
+            2649.18,
+            2651.18,
+            "Merhaba kommt dazu."
+        ],
+        "481": [
+            2660.18,
+            2662.18,
+            "Wirkt nicht unzufrieden."
+        ],
+        "482": [
+            2662.18,
+            2664.18,
+            "Achtmal gegen Borussia Dortmund gespielt, Marcus Weinzierg."
+        ],
+        "483": [
+            2664.18,
+            2666.18,
+            "Sechs Spiele verloren."
+        ],
+        "484": [
+            2666.18,
+            2668.18,
+            "Ein Sieg, ein Unentschieden."
+        ],
+        "485": [
+            2668.18,
+            2671.18,
+            "Einziger Sieg mit Augsburg, klar."
+        ],
+        "486": [
+            2671.18,
+            2674.18,
+            "Hinrunde 2014, 2015 hier."
+        ],
+        "487": [
+            2674.18,
+            2676.18,
+            "1-0."
+        ],
+        "488": [
+            2683.18,
+            2686.18,
+            "Wir haben uns mit Augsburg in der vergangenen Saison hier richtig gekriegt."
+        ],
+        "489": [
+            2686.18,
+            2689.18,
+            "1 zu 5 verloren."
+        ]
+    }
+}

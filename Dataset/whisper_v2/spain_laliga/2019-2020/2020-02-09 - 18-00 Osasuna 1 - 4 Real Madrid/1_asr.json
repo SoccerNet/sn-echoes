@@ -1,0 +1,3004 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            5.0,
+            "La pelota pasa a ser para el cuadro de..."
+        ],
+        "1": [
+            5.0,
+            7.0,
+            "¡Es un gol!"
+        ],
+        "2": [
+            7.0,
+            9.0,
+            "¡Es un gol!"
+        ],
+        "3": [
+            9.0,
+            11.0,
+            "¡Es un gol!"
+        ],
+        "4": [
+            11.0,
+            13.0,
+            "¡Es un gol!"
+        ],
+        "5": [
+            13.0,
+            15.0,
+            "¡Es un gol!"
+        ],
+        "6": [
+            15.0,
+            17.0,
+            "¡Es un gol!"
+        ],
+        "7": [
+            17.0,
+            19.0,
+            "¡Es un gol!"
+        ],
+        "8": [
+            19.0,
+            21.0,
+            "¡Es un gol!"
+        ],
+        "9": [
+            21.0,
+            23.0,
+            "¡Es un gol!"
+        ],
+        "10": [
+            23.0,
+            25.0,
+            "¡Es un gol!"
+        ],
+        "11": [
+            25.0,
+            27.0,
+            "¡Es un gol!"
+        ],
+        "12": [
+            27.0,
+            29.0,
+            "¡Es un gol!"
+        ],
+        "13": [
+            29.0,
+            31.0,
+            "Para el cuadro de..."
+        ],
+        "14": [
+            31.0,
+            33.0,
+            "¡Jacoba Rasate!"
+        ],
+        "15": [
+            33.0,
+            35.0,
+            "Cabeza... Estupiñan..."
+        ],
+        "16": [
+            35.0,
+            37.0,
+            "Buena anticipación de Rafael Barani..."
+        ],
+        "17": [
+            37.0,
+            39.0,
+            "Insiste Pervis..."
+        ],
+        "18": [
+            39.0,
+            41.0,
+            "La gana José Arnaiz..."
+        ],
+        "19": [
+            41.0,
+            43.0,
+            "Sigue tocando Sasuna..."
+        ],
+        "20": [
+            43.0,
+            45.0,
+            "Construyendo por el costado izquierdo del ataque..."
+        ],
+        "21": [
+            45.0,
+            47.0,
+            "Recibe entre líneas Darko Brasanac..."
+        ],
+        "22": [
+            47.0,
+            49.0,
+            "Levanta la cabeza al balcánico..."
+        ],
+        "23": [
+            49.0,
+            51.0,
+            "La pone en la frontal..."
+        ],
+        "24": [
+            51.0,
+            53.0,
+            "La prologación de Rubén le cae a Nacho Vidal..."
+        ],
+        "25": [
+            53.0,
+            55.0,
+            "El disparo de Nacho Cruzado, la primera del partido..."
+        ],
+        "26": [
+            55.0,
+            57.0,
+            "No hubo que esperar ni un minuto..."
+        ],
+        "27": [
+            57.0,
+            59.0,
+            "La transición de Osasuna..."
+        ],
+        "28": [
+            59.0,
+            61.0,
+            "Cambia el frente del ataque..."
+        ],
+        "29": [
+            61.0,
+            65.0,
+            "El tiro era de una posición difícil para encontrar el gol..."
+        ],
+        "30": [
+            65.0,
+            71.0,
+            "Pero le pegó tan bien a esa pelota que generó inquietud..."
+        ],
+        "31": [
+            71.0,
+            73.0,
+            "Sacó de portería el Real Madrid..."
+        ],
+        "32": [
+            73.0,
+            76.0,
+            "Le duró muy poquito la posesión al elenco de Zinedine Zidane..."
+        ],
+        "33": [
+            76.0,
+            78.0,
+            "Lo mismo sucede ahora con Osasuna..."
+        ],
+        "34": [
+            78.0,
+            80.0,
+            "El voleón de Sergio Herrera de momento no tiene dueño..."
+        ],
+        "35": [
+            80.0,
+            84.0,
+            "La domestica Roberto Torres que intenta deshacerse de Sergio Ramos..."
+        ],
+        "36": [
+            84.0,
+            86.0,
+            "El último en tocar en tiende el colegiado..."
+        ],
+        "37": [
+            86.0,
+            89.0,
+            "Ha sido Roberto Torres así que saque de banda para Fernan Mendy..."
+        ],
+        "38": [
+            89.0,
+            92.0,
+            "Todavía accediendo aficionados a sus butacas..."
+        ],
+        "39": [
+            92.0,
+            95.0,
+            "Se va a llenar, vamos a llegar a los 18.000 espectadores..."
+        ],
+        "40": [
+            95.0,
+            101.0,
+            "Es la capacidad de este estadio del Sadar antes de la reforma que lo llevará en los próximos años a 24.000..."
+        ],
+        "41": [
+            101.0,
+            103.0,
+            "Qué buena maniobra de Gareth Bale..."
+        ],
+        "42": [
+            103.0,
+            105.0,
+            "Intenta escapar pero no lo consigue..."
+        ],
+        "43": [
+            105.0,
+            107.0,
+            "Le cierra la puerta a Pervis Estupiñán..."
+        ],
+        "44": [
+            107.0,
+            109.0,
+            "Aguanta la pelota el ecuatoriano..."
+        ],
+        "45": [
+            109.0,
+            111.0,
+            "Tocando atrás para la distribución de David García..."
+        ],
+        "46": [
+            111.0,
+            113.0,
+            "Nacho Vidal..."
+        ],
+        "47": [
+            114.0,
+            116.0,
+            "Brazhanach..."
+        ],
+        "48": [
+            117.0,
+            119.0,
+            "Apoyándose en corto en Íñigo Pérez..."
+        ],
+        "49": [
+            119.0,
+            123.0,
+            "Aunque de primeras de Arnaiz para que corra Pervis Estupiñán por el costado izquierdo..."
+        ],
+        "50": [
+            123.0,
+            125.0,
+            "Puede meter el centro, envío directo al área..."
+        ],
+        "51": [
+            125.0,
+            128.0,
+            "Corto en ese esfuerzo de Fensilo Gareth Bale..."
+        ],
+        "52": [
+            129.0,
+            133.0,
+            "La rifa se la quita de encima y la entrega directamente a Club Atlético Osasuna..."
+        ],
+        "53": [
+            133.0,
+            136.0,
+            "Así que ha salido con un 4-4-2 en rombo..."
+        ],
+        "54": [
+            136.0,
+            138.0,
+            "Novedad táctica en el equipo de Yago Barrajate..."
+        ],
+        "55": [
+            139.0,
+            141.0,
+            "Porque realmente está jugando Moncayola de medio centro..."
+        ],
+        "56": [
+            141.0,
+            143.0,
+            "Íñigo Pérez de interior izquierdo..."
+        ],
+        "57": [
+            143.0,
+            145.0,
+            "Roberto Torres de interior derecho..."
+        ],
+        "58": [
+            145.0,
+            147.0,
+            "Brazhanach de media punta..."
+        ],
+        "59": [
+            147.0,
+            150.0,
+            "Arnaiz arriba con Rubén García..."
+        ],
+        "60": [
+            150.0,
+            155.0,
+            "En cuanto al Madrid salió simulando un 4-3-3 pero inmediatamente..."
+        ],
+        "61": [
+            155.0,
+            156.0,
+            "Corre Arnaiz que está en el área..."
+        ],
+        "62": [
+            156.0,
+            157.0,
+            "Sigue Arnaiz..."
+        ],
+        "63": [
+            157.0,
+            158.0,
+            "Arriba..."
+        ],
+        "64": [
+            158.0,
+            161.0,
+            "Arriba el disparo de José Arnaiz..."
+        ],
+        "65": [
+            161.0,
+            163.0,
+            "No contamos ni tres minutos de partido..."
+        ],
+        "66": [
+            163.0,
+            165.0,
+            "Esta es la segunda llegada con peligro de Osasuna..."
+        ],
+        "67": [
+            166.0,
+            168.0,
+            "Esta desde una mejor posición de tiro..."
+        ],
+        "68": [
+            168.0,
+            172.0,
+            "La enganchó con la zurda perfectamente habilitada en la salida..."
+        ],
+        "69": [
+            174.0,
+            176.0,
+            "Muy bien la atropella con la cabeza..."
+        ],
+        "70": [
+            176.0,
+            178.0,
+            "Luego le queda para el tiro..."
+        ],
+        "71": [
+            178.0,
+            179.0,
+            "Sale desviada..."
+        ],
+        "72": [
+            179.0,
+            182.0,
+            "Pero Osasuna no salió a estudiar al Real Madrid..."
+        ],
+        "73": [
+            183.0,
+            187.0,
+            "Y Osasuna ha variado el dibujo sobre todo por cómo juega últimamente el Madrid..."
+        ],
+        "74": [
+            187.0,
+            188.0,
+            "Con mucha gente por dentro..."
+        ],
+        "75": [
+            188.0,
+            190.0,
+            "La idea Brazhanach sobre Casemiro..."
+        ],
+        "76": [
+            190.0,
+            194.0,
+            "Los otros dos interiores sobre los dos interiores del Real Madrid..."
+        ],
+        "77": [
+            194.0,
+            197.0,
+            "Es decir, Irigo Pérez sobre Modric..."
+        ],
+        "78": [
+            197.0,
+            201.0,
+            "Y la posición de Roberto Torres sobre Valverde..."
+        ],
+        "79": [
+            204.0,
+            206.0,
+            "Busca esa pelota y la gana Moncayola..."
+        ],
+        "80": [
+            206.0,
+            209.0,
+            "Aparece Mehendi tocando con el interior para Carlos Casemiro..."
+        ],
+        "81": [
+            209.0,
+            210.0,
+            "Pelota a la espalda de la zaga..."
+        ],
+        "82": [
+            210.0,
+            212.0,
+            "Se pican en velocidad Bale y Estupiñán..."
+        ],
+        "83": [
+            212.0,
+            216.0,
+            "Pero el servicio demasiado potente acaba entre los guantes de Sergio Herrera..."
+        ],
+        "84": [
+            216.0,
+            218.0,
+            "Algo no le gusta a Zidane en este arranque de partido..."
+        ],
+        "85": [
+            218.0,
+            222.0,
+            "Está haciendo indicaciones a Benzema para la posición en la que lo quiere también Isco..."
+        ],
+        "86": [
+            222.0,
+            225.0,
+            "Está intentando ajustar el técnico francés en el inicio..."
+        ],
+        "87": [
+            225.0,
+            227.0,
+            "Esas posiciones de ataque de su equipo..."
+        ],
+        "88": [
+            227.0,
+            228.0,
+            "Otra diagonal de Rubén García..."
+        ],
+        "89": [
+            228.0,
+            232.0,
+            "Se quedó a media salida Courtois que corrige en el área de espera Brazhanach..."
+        ],
+        "90": [
+            232.0,
+            233.0,
+            "Sigue Rubén, que la Rubén más de Rubén..."
+        ],
+        "91": [
+            233.0,
+            235.0,
+            "Rubén, Rubén, Rubén..."
+        ],
+        "92": [
+            235.0,
+            236.0,
+            "Ha tapado Courtois..."
+        ],
+        "93": [
+            236.0,
+            238.0,
+            "Insiste Nacho Vidal arriba..."
+        ],
+        "94": [
+            238.0,
+            241.0,
+            "Fue Roberto Torres quien cazó esa pelota suelta..."
+        ],
+        "95": [
+            241.0,
+            246.0,
+            "Tercera aproximación y diría yo que la mejor hasta el momento para Club Atlético Osasuna..."
+        ],
+        "96": [
+            246.0,
+            250.0,
+            "Lo hizo todo, todo, absolutamente todo Rubén García..."
+        ],
+        "97": [
+            250.0,
+            255.0,
+            "Sí, esta vez encontró desacomodada a la defensa del Real Madrid..."
+        ],
+        "98": [
+            255.0,
+            257.0,
+            "Muy mal parada atrás..."
+        ],
+        "99": [
+            257.0,
+            264.0,
+            "La jugada fue maravillosa porque los dos cortes lo pusieron en dirección a la portería..."
+        ],
+        "100": [
+            264.0,
+            267.0,
+            "Muy, pero muy atento Courtois..."
+        ],
+        "101": [
+            267.0,
+            272.0,
+            "Ganando 4 o 5 metros y no dándole espacio para el tiro..."
+        ],
+        "102": [
+            272.0,
+            276.0,
+            "Y eso que partía el portero belga del Real Madrid de una situación poco favorable..."
+        ],
+        "103": [
+            276.0,
+            278.0,
+            "Porque dudó entre salir o no..."
+        ],
+        "104": [
+            278.0,
+            281.0,
+            "Estaba en plena corrección cuando Rubén avanzaba hacia la portería..."
+        ],
+        "105": [
+            281.0,
+            283.0,
+            "Por lo tanto mérito de más para el portero del Real Madrid..."
+        ],
+        "106": [
+            283.0,
+            286.0,
+            "Es el gran pase de Stupiñán, al espacio formidable..."
+        ],
+        "107": [
+            288.0,
+            290.0,
+            "Isco, se le escapa el control, se le echó encima a Moncayola..."
+        ],
+        "108": [
+            290.0,
+            293.0,
+            "Este es Roberto Torres, ya le ha doblado Nacho Vidal..."
+        ],
+        "109": [
+            295.0,
+            299.0,
+            "Recibe el futbolista del Campello, ahí está Vidal rompiendo hacia adentro..."
+        ],
+        "110": [
+            299.0,
+            302.0,
+            "Toque atrás para Moncayola, muy atento Karim Encema..."
+        ],
+        "111": [
+            302.0,
+            305.0,
+            "Desde aquí intenta montar el contragolpe el Real Madrid..."
+        ],
+        "112": [
+            305.0,
+            308.0,
+            "Carvajal al centro para Luka Modric, le tapa a Íñigo Pérez..."
+        ],
+        "113": [
+            308.0,
+            310.0,
+            "No consigue escapar, le quita la pelota a Arnaiz..."
+        ],
+        "114": [
+            310.0,
+            312.0,
+            "Hay falta, hay mano Ricardo..."
+        ],
+        "115": [
+            312.0,
+            314.0,
+            "Sí, es lo que le dice Gil Manzano a Íñigo Pérez..."
+        ],
+        "116": [
+            314.0,
+            317.0,
+            "Que ese balón ha pegado en la mano y por lo tanto favorece al Real Madrid..."
+        ],
+        "117": [
+            318.0,
+            321.0,
+            "Seguramente Sidane lo que le está pidiendo al Madrid..."
+        ],
+        "118": [
+            321.0,
+            325.0,
+            "Es un poco más de tranquilidad con la pelota..."
+        ],
+        "119": [
+            325.0,
+            329.0,
+            "Era el reclamo que le hacía también Benzema a Casemiro..."
+        ],
+        "120": [
+            329.0,
+            332.0,
+            "Cuando metió ese pelotazo largo hacia Abey..."
+        ],
+        "121": [
+            332.0,
+            338.0,
+            "La única manera de avanzar a este Osasuna que ha salido impetuoso..."
+        ],
+        "122": [
+            338.0,
+            341.0,
+            "Es con la pelota y para eso no puede entrar en contagio..."
+        ],
+        "123": [
+            342.0,
+            343.0,
+            "Estupiñán..."
+        ],
+        "124": [
+            344.0,
+            349.0,
+            "Tapón a Dani Carvajal, saque de banda para el equipo navarro..."
+        ],
+        "125": [
+            350.0,
+            353.0,
+            "Tapón el juego rápidamente Estupiñán conectando con Brasanac..."
+        ],
+        "126": [
+            353.0,
+            355.0,
+            "Que la cambia toda, metros para que avance Nacho Vidal..."
+        ],
+        "127": [
+            355.0,
+            359.0,
+            "La ventaja sin embargo es para Mendy que protege esa posición..."
+        ],
+        "128": [
+            359.0,
+            361.0,
+            "Y obtiene el saque de banda para el Real Madrid..."
+        ],
+        "129": [
+            361.0,
+            365.0,
+            "Muchísima profundidad de Nacho Vidal en este inicio de partido..."
+        ],
+        "130": [
+            365.0,
+            369.0,
+            "A menudo se mete dentro como decíamos Roberto Torres..."
+        ],
+        "131": [
+            369.0,
+            371.0,
+            "Y le deja todo el carril a Nacho Vidal..."
+        ],
+        "132": [
+            371.0,
+            376.0,
+            "Sin embargo Roberto Torres con más licencia para soltarse que Íñigo Pérez en el otro costado..."
+        ],
+        "133": [
+            376.0,
+            379.0,
+            "Uy que le ha pasado ahí a Abey, le enseguida me lo cuenta Ricardo..."
+        ],
+        "134": [
+            379.0,
+            383.0,
+            "Antes la réplica de Osasuna Roberto Torres buscaba el desmarque de Brasanac..."
+        ],
+        "135": [
+            383.0,
+            387.0,
+            "El rebote le cae a Rubén García que espera la llegada de más efectivos..."
+        ],
+        "136": [
+            387.0,
+            390.0,
+            "Se perfila Rubén, la pisa en la derecha la está esperando Nacho Vidal..."
+        ],
+        "137": [
+            390.0,
+            394.0,
+            "Se la dio tarde y mal, se perdió la posibilidad para Osasuna..."
+        ],
+        "138": [
+            394.0,
+            398.0,
+            "Una posibilidad de ataque Ricardo que venía de un golpeo muy defectuoso de Gález Bale..."
+        ],
+        "139": [
+            398.0,
+            402.0,
+            "Que se quedaba mirando al césped como si algo le hubiera jugado en contra..."
+        ],
+        "140": [
+            402.0,
+            409.0,
+            "Hay una especie de tepe que se ha levantado, no sé si es eso lo que ha provocado que se le colocase la pelota..."
+        ],
+        "141": [
+            409.0,
+            413.0,
+            "O que ha tocado con la pierna de apoyo y luego le ha golpeado con la izquierda..."
+        ],
+        "142": [
+            413.0,
+            415.0,
+            "Uy que balón para Bale que arranca hacia la portería..."
+        ],
+        "143": [
+            415.0,
+            417.0,
+            "Sigue Bale, se cruza en su camino Estupiñán..."
+        ],
+        "144": [
+            417.0,
+            419.0,
+            "Aparece para bloquear Sergio Herrera..."
+        ],
+        "145": [
+            419.0,
+            422.0,
+            "Mientras medio equipo de Osasuna pedía fuera de juego..."
+        ],
+        "146": [
+            423.0,
+            428.0,
+            "El espacio que ganó Isco metiendo ese pase sensacional..."
+        ],
+        "147": [
+            428.0,
+            430.0,
+            "Estaba habilitado Bale..."
+        ],
+        "148": [
+            430.0,
+            439.0,
+            "Lo perdió de luego Bale con una falta de astucia para defender esa pelota con el cuerpo..."
+        ],
+        "149": [
+            439.0,
+            445.0,
+            "Ahí hay que cruzarse delante del defensor para dejarlo sin posibilidades de intervenir..."
+        ],
+        "150": [
+            445.0,
+            451.0,
+            "Estaba todavía pensando en la conjura del campo, en ese mal bote que le dio en la ocasión anterior..."
+        ],
+        "151": [
+            451.0,
+            458.0,
+            "Pero acaba de perder en Madrid una gran ocasión de gol, la primera que se le presentaba en el partido..."
+        ],
+        "152": [
+            458.0,
+            461.0,
+            "Quieren más los chicos de Zidane, ahí está Bale preparado para el centro..."
+        ],
+        "153": [
+            461.0,
+            465.0,
+            "La pone Bale con la pierna derecha, envió Manso que bloca sin problema Sergio..."
+        ],
+        "154": [
+            469.0,
+            471.0,
+            "Buscaba opciones para sacar en corto..."
+        ],
+        "155": [
+            472.0,
+            474.0,
+            "El guardameta de Miranda de Ebro, finalmente..."
+        ],
+        "156": [
+            475.0,
+            479.0,
+            "Optará por desplazar de forma directa hacia los jugadores de ataque..."
+        ],
+        "157": [
+            479.0,
+            483.0,
+            "Prolonga Darko Brasanac, pero nadie vestido de rojo busca ese balón..."
+        ],
+        "158": [
+            483.0,
+            485.0,
+            "Esférico de extremo a extremo del terreno del juego..."
+        ],
+        "159": [
+            485.0,
+            487.0,
+            "Empieza desde atrás el Real Madrid..."
+        ],
+        "160": [
+            487.0,
+            491.0,
+            "Ahora quien pide calma y quien pide tranquilidad, Osasuna Brasanac tendido en el campo..."
+        ],
+        "161": [
+            491.0,
+            492.0,
+            "Oh no, perdona, Moncayola..."
+        ],
+        "162": [
+            492.0,
+            495.0,
+            "Sí, Moncayola se ha hecho daño en el recorte de Modric..."
+        ],
+        "163": [
+            495.0,
+            497.0,
+            "Que le ha dejado en el suelo con un giro..."
+        ],
+        "164": [
+            497.0,
+            503.0,
+            "Y enseguida se ha visto que algo había ido mal ahí para el joven canterano de Osasuna..."
+        ],
+        "165": [
+            503.0,
+            509.0,
+            "Y ese puñetazo sobre el césped, ese gesto propio de la frustración..."
+        ],
+        "166": [
+            509.0,
+            512.0,
+            "Nos hace pensar que Moncayola se conoce y que sabe que algo no va bien..."
+        ],
+        "167": [
+            512.0,
+            513.0,
+            "Que está fuera del partido eso es..."
+        ],
+        "168": [
+            513.0,
+            514.0,
+            "Cuéntame Ricardo..."
+        ],
+        "169": [
+            514.0,
+            516.0,
+            "Pues mira, el gesto como de no puedo..."
+        ],
+        "170": [
+            516.0,
+            519.0,
+            "Y en ese recorte de Modric hace aproximadamente un minuto..."
+        ],
+        "171": [
+            519.0,
+            521.0,
+            "En esta zona de banquillos cuando se iba al suelo..."
+        ],
+        "172": [
+            521.0,
+            525.0,
+            "Y ya el gesto le delataba de algo aquí ha pasado..."
+        ],
+        "173": [
+            525.0,
+            528.0,
+            "Pues se va a tener que marchar y vamos a ver por qué Osasuna..."
+        ],
+        "174": [
+            528.0,
+            529.0,
+            "Va Fran Mérida..."
+        ],
+        "175": [
+            529.0,
+            533.0,
+            "Ya prepara el cambio, es Fran Mérida, un veterano en las filas de Osasuna..."
+        ],
+        "176": [
+            533.0,
+            537.0,
+            "El que va a entrar en el terreno de juego en la primera modificación..."
+        ],
+        "177": [
+            537.0,
+            540.0,
+            "En el primer imprevisto para el equipo de Iago Barrasate..."
+        ],
+        "178": [
+            540.0,
+            546.0,
+            "Mucha mala suerte para Osasuna de entrada porque Moncayola en principio no tenía que ir a esa presión sobre Modric..."
+        ],
+        "179": [
+            546.0,
+            553.0,
+            "Pero Íñigo Pérez había saltado a una más arriba y le obliga a Moncayola a ir a una zona que en principio no es la que le toca..."
+        ],
+        "180": [
+            553.0,
+            558.0,
+            "Y luego en ese recorte magnífico de Modric le hace desajustarse..."
+        ],
+        "181": [
+            558.0,
+            562.0,
+            "Y mucha mala suerte porque se lesiona un jugador en una zona en la que ya hay bajas importantes..."
+        ],
+        "182": [
+            562.0,
+            567.0,
+            "No está de hecho Ierzan Jurjo que es el medio centro defensivo más habitual..."
+        ],
+        "183": [
+            567.0,
+            571.0,
+            "Y por lo tanto Fran Mérida tiene que actuar sin ser realmente ese perfil..."
+        ],
+        "184": [
+            571.0,
+            576.0,
+            "Ya estamos viendo que Brasanac retrasa su posición, estaba jugando prácticamente de media punta hoy Brasanac..."
+        ],
+        "185": [
+            576.0,
+            578.0,
+            "Ahora va a jugar de medio centro..."
+        ],
+        "186": [
+            578.0,
+            583.0,
+            "Insisto que Osasuna estaba aprovechando o estaba en ese momento del partido pidiendo un poquito de calma..."
+        ],
+        "187": [
+            583.0,
+            588.0,
+            "Después de esas dos llegadas del Real Madrid pidiendo un poquito de tranquilidad para que dejasen de pasar cosas..."
+        ],
+        "188": [
+            588.0,
+            591.0,
+            "Sí, sí y el cambio es evidente..."
+        ],
+        "189": [
+            591.0,
+            594.0,
+            "Fran Mérida donde estaba Brasanac, Brasanac donde estaba Moncayola..."
+        ],
+        "190": [
+            595.0,
+            600.0,
+            "Son los primeros minutos en Liga en este año natural, en este año 2020 para Fran Mérida..."
+        ],
+        "191": [
+            600.0,
+            608.0,
+            "Que no aparecía con Club Atlético Osasuna en el torneo regular desde el último partido de 2019..."
+        ],
+        "192": [
+            608.0,
+            613.0,
+            "Desde la jornada 18 ante la Real Sociedad, eso sí teniendo minutos en Copa del Rey..."
+        ],
+        "193": [
+            613.0,
+            616.0,
+            "Incluso marcando goles en el torneo eliminatorio..."
+        ],
+        "194": [
+            616.0,
+            623.0,
+            "El amague de Modric lo descoordinó, hizo un movimiento muy muy forzado..."
+        ],
+        "195": [
+            624.0,
+            630.0,
+            "Y le costó la lesión, no sabemos si muscular o articular..."
+        ],
+        "196": [
+            631.0,
+            636.0,
+            "Pelota arriba de Sergio Herrera, la controla del Real Madrid recibe, se da la vuelta Carlos Casemiro..."
+        ],
+        "197": [
+            636.0,
+            637.0,
+            "Ahí no hay tiempo para pensar..."
+        ],
+        "198": [
+            637.0,
+            642.0,
+            "No y además que el Real Madrid lo está interpretando bien, en los primeros cinco recibió cuatro tiros..."
+        ],
+        "199": [
+            642.0,
+            648.0,
+            "En los segundos cinco minutos no recibió ninguno y además se está haciendo poco a poco con el dominio de la pelota..."
+        ],
+        "200": [
+            649.0,
+            653.0,
+            "El toque de primeras de Casemiro no lo interpretó de la manera adecuada ninguno de sus compañeros..."
+        ],
+        "201": [
+            653.0,
+            660.0,
+            "Recoge sin problemas el portero de Osasuna, que quiere sacar rápido hacia el costado derecho donde ya la recibe Nacho Vidal..."
+        ],
+        "202": [
+            660.0,
+            664.0,
+            "Y ahora han hablado Fran Mérida y Brasanac y se han intercambiado la posición..."
+        ],
+        "203": [
+            664.0,
+            670.0,
+            "No sé si es solo en salida de balón pero se ofrecía atrás Fran Mérida y se soltaba hacia arriba Brasanac..."
+        ],
+        "204": [
+            670.0,
+            676.0,
+            "Arnaiz esperando la llegada de algún compañero, se le echa encima Carvajal, metió la puntera, la pelota suelta es para Nacho Vidal..."
+        ],
+        "205": [
+            676.0,
+            680.0,
+            "Que prepara el envío directo al área, tiene el apoyo Roberto Torres, el centro toca en Fernandes..."
+        ],
+        "206": [
+            680.0,
+            685.0,
+            "Este grito es la celebración de la hinchada de Osasuna ante el primer córner del partido..."
+        ],
+        "207": [
+            687.0,
+            692.0,
+            "Hay mucha gente para meterla con calidad ahí, con la zurda..."
+        ],
+        "208": [
+            693.0,
+            699.0,
+            "Tienen a Rubén, tienen a Inigo Pérez, tienen a Fran Mérida que acaba de entrar, tres jugadores de muy buen golpeo..."
+        ],
+        "209": [
+            700.0,
+            704.0,
+            "La quiere Unai García, la busca también David García, cómo no dar cobras a Nacho..."
+        ],
+        "210": [
+            704.0,
+            708.0,
+            "Cinco jugadores de Osasuna merodeando en torno a la portería de Courtois..."
+        ],
+        "211": [
+            708.0,
+            712.0,
+            "El centro cerrado, tenso, primer palo, rechazo en la frontal, ¿para quién? Para Inigo Pérez..."
+        ],
+        "212": [
+            713.0,
+            718.0,
+            "Deja de cara para Pervis Estupiñán, que prepara un nuevo envío directo, no puede cazarla..."
+        ],
+        "213": [
+            720.0,
+            723.0,
+            "José Arnaiz, el asaque de portería para Thibaut Courtois..."
+        ],
+        "214": [
+            723.0,
+            728.0,
+            "Como apunte José, que yo no sé si o en las cámaras de televisión se puede ver o vosotros desde arriba lo podéis apreciar..."
+        ],
+        "215": [
+            728.0,
+            734.0,
+            "Desde la lateral del área hasta la zona de banda, en esta parte de los banquillos han cambiado el césped..."
+        ],
+        "216": [
+            734.0,
+            738.0,
+            "Se aprecia también en la transmisión televisiva, está en la parte inferior de la imagen..."
+        ],
+        "217": [
+            739.0,
+            743.0,
+            "Es el trozo de césped que, entre comillas, para que nos entendamos, está peinado de manera diferente..."
+        ],
+        "218": [
+            743.0,
+            751.0,
+            "Claro, entonces, lo digo por explicar el bote de Bale o por la posibilidad de que se pudiese influir en esa posible lesión de Moncayola..."
+        ],
+        "219": [
+            751.0,
+            753.0,
+            "Sí, efectivamente..."
+        ],
+        "220": [
+            754.0,
+            755.0,
+            "Bien visto..."
+        ],
+        "221": [
+            755.0,
+            760.0,
+            "Distribuye David García sin demasiado acierto, envío muy potente que no pudo amortiguar Nacho Vidal..."
+        ],
+        "222": [
+            762.0,
+            764.0,
+            "Esaque de banda para Fernan Mendy..."
+        ],
+        "223": [
+            768.0,
+            770.0,
+            "Benzema, dejando de cara para Fede Valverde..."
+        ],
+        "224": [
+            771.0,
+            775.0,
+            "Recupera Darko Brasanac, a la carga Osasuna, a la carga Fran Mérida..."
+        ],
+        "225": [
+            776.0,
+            781.0,
+            "Apertura de Fran Mérida, recibe Íñigo Pérez, prepara el centro, la pone de primeras, tocadita, Estupiñán en el área..."
+        ],
+        "226": [
+            781.0,
+            786.0,
+            "Puede pegar Pervis, se le echa encima Carlos Casemiro, otro córner para Osasuna..."
+        ],
+        "227": [
+            787.0,
+            797.0,
+            "Contra Osasuna vas a tener que jugar muy concentrado, con una actitud muy atenta porque te pone a prueba cada minuto..."
+        ],
+        "228": [
+            798.0,
+            805.0,
+            "Y hoy la profundidad en Osasuna la aportan claramente los laterales, hemos hablado antes de Nacho Vidal, ahora Estupiñán es el que ha llegado a línea de fondo..."
+        ],
+        "229": [
+            806.0,
+            812.0,
+            "Prepara el centro desde la esquina Rubén García, buscando la cabeza de los dos centrales, de Unai y de David, le envía al punto de penalti..."
+        ],
+        "230": [
+            813.0,
+            832.0,
+            "¡Gol! Dios Asura en el 14, gol de Unai García, lo puso Rubén al pico del área pequeña, se lanzó en plancha el central de Esquiroz..."
+        ],
+        "231": [
+            833.0,
+            837.0,
+            "Cabezazo cruzado y para adentro, para celebrar de esta forma su primera titularidad de liga..."
+        ],
+        "232": [
+            837.0,
+            845.0,
+            "Se acabó lo del ligamento cruzado, lesiones a un lado, marcó Unai García, marcó Osasuna, Osasuna 1-1 Real Madrid 0."
+        ],
+        "233": [
+            846.0,
+            856.0,
+            "Remate dificilísimo de Unai, que se lanza, que le gana esta acción a Casemiro, que gira todo el cuello, espectacular el remate del central Navarro para el 1-0."
+        ],
+        "234": [
+            857.0,
+            875.0,
+            "Llega fuerte ese córner, llega abajo, pero sin embargo gana por anticipación a Casemiro, la clava en un rincón, no es necesario darle fuerza a esa pelota, ya la traía desde el córner, pero la dirección fue buenísima, imparable el cabezazo."
+        ],
+        "235": [
+            876.0,
+            892.0,
+            "Gol tremendamente especial para el futbolista de Osasuna, que en el día de hoy volvía a ser titular en un partido de liga, desde el día en que se lesionó, desde el 4 de mayo en aquel partido frente al Alcorcón, donde el cruzado de Unai García dijo bastante, desde ese día Ricardo no jugaba de inicio partido de liga."
+        ],
+        "236": [
+            892.0,
+            906.0,
+            "Pues mira que ha llovido y hoy es el tanto que lo celebra con esa rabia, se le ha acercado prácticamente todo el equipo, ha rugido el salar, pero sobre todo ese abrazo, ese puño en alto, ese gesto de rabia de Unai García simboliza que ha regresado y como lo ha hecho."
+        ],
+        "237": [
+            907.0,
+            916.0,
+            "Golpeo primero, Club Atlético Osasuna intentaba reaccionar de manera inmediata al Real Madrid, que dispone después de la internada de Fernand Mendy del primer córner del partido a su favor."
+        ],
+        "238": [
+            916.0,
+            923.0,
+            "Bueno ahora ya sabemos por qué festeja los córner la afición de Osasuna."
+        ],
+        "239": [
+            946.0,
+            953.0,
+            "Roberto Torres de primeras para Nacho Vidal, acaba de golpear el equipo de Yago Barrasate con el cabezazo ganador de Unai García."
+        ],
+        "240": [
+            954.0,
+            962.0,
+            "Y ahora se está viendo, no hay una referencia en Osasuna y eso siempre dificulta a los centrales del Real Madrid, se mueven todos en ataque en el equipo navarro."
+        ],
+        "241": [
+            962.0,
+            973.0,
+            "Buen balón para Benzema, se queda media salida, Sergio que decide ir hasta el final, más de Benzema fuera del área, sigue Benzema, consiguió conectar el disparo a portería, la salvó cuando se colaba David García."
+        ],
+        "242": [
+            974.0,
+            978.0,
+            "Insiste el Real Madrid, se la quita Íñigo Pérez a correr dices Osasuna, Barán que propone lo contrario."
+        ],
+        "243": [
+            979.0,
+            983.0,
+            "Otro cabezazo en defensa ahora del equipo rojillo, la baja al piso Roberto Torres."
+        ],
+        "244": [
+            983.0,
+            988.0,
+            "Buena maniobra de Nacho Vidal, entregando hacia el costado para Roberto Torres."
+        ],
+        "245": [
+            989.0,
+            994.0,
+            "Balón en la zona central del campo, aparece Fran Mérida con un toque de primeras que no prospera, recuperación del Real Madrid."
+        ],
+        "246": [
+            999.0,
+            1009.0,
+            "Casemiro, a la izquierda para Fernan Mendís, se ofrece Gález Bale que ha permutado su posición o que ha decidido caer por esa zona que se le antoja más la torre."
+        ],
+        "247": [
+            1009.0,
+            1013.0,
+            "Llegó Bale para Isco, balón de izquierda a derecha, turno para Dani Carvajal."
+        ],
+        "248": [
+            1014.0,
+            1018.0,
+            "Miraba el desmarque Benzema, la pone dentro del área, el remate de Bale al lateral de la red."
+        ],
+        "249": [
+            1019.0,
+            1025.0,
+            "Respondió de manera casi instantánea el Real Madrid, el centro fue de Carvajal, la enganchó tal cual venía sin demasiada convicción, Gález Bale."
+        ],
+        "250": [
+            1026.0,
+            1032.0,
+            "Estamos viendo la pelota ahora con más velocidad en Madrid y con más ambición, llegando con frecuencia."
+        ],
+        "251": [
+            1033.0,
+            1036.0,
+            "Tuvo una buena oportunidad, se ha ido muy bien, se ha ido muy bien."
+        ],
+        "252": [
+            1036.0,
+            1045.0,
+            "Llegando con frecuencia, tuvo una buena oportunidad Benzema, que sí cubrió bien la pelota con el cuerpo, se la terminó llevando y el tiro fue muy forzado."
+        ],
+        "253": [
+            1046.0,
+            1051.0,
+            "Tampoco tenía muchas alternativas, solo Bale, muy marcado, había llegado para acompañarlo."
+        ],
+        "254": [
+            1056.0,
+            1058.0,
+            "En la cabeza Rubén García, hace lo propio Modric."
+        ],
+        "255": [
+            1059.0,
+            1064.0,
+            "La baja el futbolista de Zadar, atento Stupiñán para que la pelota siga siendo rojilla, ahí está Rubén."
+        ],
+        "256": [
+            1065.0,
+            1076.0,
+            "Llega Rubén para Stupiñán, en cara el ecuatoriano a Carvajal, juega otra vez con Rubén, la pelota en la frontal, la pelea a Fran Bérida, llegó a prolongar el jugador catalán pero se la queda Isco."
+        ],
+        "257": [
+            1078.0,
+            1085.0,
+            "Benzema, tocando para Fernand Mendy, aparecía Arnaiz, sigue jugando el Real Madrid, distribuye a Isco, que deja en el camino a Roberto Torres."
+        ],
+        "258": [
+            1085.0,
+            1094.0,
+            "Carvajal, la está viendo Bale, también Benzema en el otro costado, opta por seguir asociándose en pase a pases cortos el equipo de Zinedine Zidane."
+        ],
+        "259": [
+            1095.0,
+            1103.0,
+            "Ahora sí, Benzema encarando a Nacho Vidal, pisa área, sigue Benzema, la pone Benzema, va al suelo y atraja en dos tiempos Sergio Herrera."
+        ],
+        "260": [
+            1104.0,
+            1110.0,
+            "Pues con este gol va a tener un reto el Real Madrid, que solo en esta temporada le ha podido remontar a la Real Sociedad en el Bernabéu."
+        ],
+        "261": [
+            1110.0,
+            1118.0,
+            "En el resto de las ocasiones no son muchos los equipos que se han puesto por delante, pero en esas oportunidades el conjunto de Zidane no ha conseguido darle la vuelta al marcador."
+        ],
+        "262": [
+            1119.0,
+            1123.0,
+            "París, o por ejemplo, su última derrota, la única en liga en Mallorca."
+        ],
+        "263": [
+            1123.0,
+            1130.0,
+            "Carvajal, busca opciones Rafael Varane, se ofrece Isco, la espera Mendy en la izquierda, pelota para el lateral francés."
+        ],
+        "264": [
+            1131.0,
+            1138.0,
+            "Sí, cuando Isco se ofrece por ahí se ocupa de él Roberto Torres y se queda el medio centro, en este caso Brassanach con Valverde."
+        ],
+        "265": [
+            1139.0,
+            1147.0,
+            "Modric, que se puede incluso animar con el golpe, o prefiere abrir hacia la derecha, prepara el centro de la partida, y se queda el medio centro, en este caso Brassanach con Valverde."
+        ],
+        "266": [
+            1147.0,
+            1156.0,
+            "Modric, que se puede incluso animar con el golpe, o prefiere abrir hacia la derecha, prepara el centro Gareth Bale, tiene el apoyo de Carvajal, envió con Rosca el primer palo, la buscaba Luka Modric."
+        ],
+        "267": [
+            1157.0,
+            1165.0,
+            "Ha cortado David García, Rubén dejando de cara para Fran Mérida, a correr por el costado izquierdo dice Pervis Estupiñán."
+        ],
+        "268": [
+            1166.0,
+            1174.0,
+            "Pervis al centro para Arnaiz, vieron a Roberto Torres, correcto, avanza Roberto Torres, encarando ya Mendy, se puede perfilar para el golpeo, sigue Roberto, que ahora Roberto rompe para dentro."
+        ],
+        "269": [
+            1174.0,
+            1182.0,
+            "Roberto Torres contra el cuerpo del zaguero, recoge el esférico suelto Luka Modric, que puede proponer un nuevo ataque para el Real Madrid."
+        ],
+        "270": [
+            1183.0,
+            1194.0,
+            "Qué bien mueve la pelota Osasuna, con qué ritmo, en pases además largos, y está desarmando al Real Madrid cada salida del equipo."
+        ],
+        "271": [
+            1195.0,
+            1209.0,
+            "Y es que, como decíamos, hay mucha movilidad, es difícil de detectar por dónde te va a atacar Osasuna, teniendo en cuenta que no hay una referencia, que Rubén y Arnaiz entran, salen, se van a los costados, bajan a tres cuartos,"
+        ],
+        "272": [
+            1210.0,
+            1222.0,
+            "que Roberto Torres a veces está por dentro, otras veces está por fuera, que el profundo a veces es él, a veces es Nacho Vidal, que Braz, Anachi, Fran, Mérida intercambian en función de si el equipo inicia el ataque desde atrás o la jugada es más larga."
+        ],
+        "273": [
+            1223.0,
+            1230.0,
+            "O sea que realmente es muy complicado para el Real Madrid el escenario que le ha diseñado Iago Barrasante esta tarde aquí en Pamplona."
+        ],
+        "274": [
+            1231.0,
+            1234.0,
+            "Y además de eso, la precisión en velocidad con la que están jugando."
+        ],
+        "275": [
+            1236.0,
+            1247.0,
+            "Roberto Torres, atrás Rubén para Nacho Vidal, posesión otra vez para Osasuna, en ventaja desde el 14, marcó Unai García."
+        ],
+        "276": [
+            1247.0,
+            1254.0,
+            "La deja pasar Rubén, toque de escuela de Roberto Torres."
+        ],
+        "277": [
+            1255.0,
+            1264.0,
+            "Rubén García, de hecho se queda en el suelo dolorido el futbolista valenciano, ajeno a esa situación, intenta armar una nueva acción ofensiva, el cuadro de Zinedine Zidane."
+        ],
+        "278": [
+            1265.0,
+            1271.0,
+            "Toque atrás Bale para Rafael Varane, moviendo en defensa al Real Madrid, mientras Rubén continúa tendido sobre el verde."
+        ],
+        "279": [
+            1272.0,
+            1280.0,
+            "La va a echar Sergio Ramos fuera, la tira directamente a la grada, Jesús Gilmanzano que viene a interesarse por Rubén García, que sigue tendido sobre el terreno del juego."
+        ],
+        "280": [
+            1281.0,
+            1284.0,
+            "Creo que es un tobillo, un pie, un posible pisotón."
+        ],
+        "281": [
+            1285.0,
+            1286.0,
+            "A ver."
+        ],
+        "282": [
+            1287.0,
+            1288.0,
+            "Sí, es en esta entrada de Ramos."
+        ],
+        "283": [
+            1289.0,
+            1292.0,
+            "Entra en contacto primero con la pelota y luego con el tobillo."
+        ],
+        "284": [
+            1293.0,
+            1295.0,
+            "Pero es falta esto, debió señalarse falta."
+        ],
+        "285": [
+            1296.0,
+            1298.0,
+            "Sí, porque va con los tacos hacia adelante, claramente."
+        ],
+        "286": [
+            1298.0,
+            1307.0,
+            "Hay que decir que empieza a aparecer Isco, que abandonó la banda izquierda muy rápidamente para enganchar por el medio."
+        ],
+        "287": [
+            1308.0,
+            1310.0,
+            "Está participando Modric con muchísima movilidad."
+        ],
+        "288": [
+            1311.0,
+            1317.0,
+            "Nos está faltando Valverde, que prácticamente no ha tenido intervenciones desde que empezó el partido."
+        ],
+        "289": [
+            1318.0,
+            1324.0,
+            "Un poco más mortificado por la falta de espacio, que no deja hacer pesar su juego."
+        ],
+        "290": [
+            1324.0,
+            1327.0,
+            "Se ha acercado Ñigo Pérez a la banda para hablar con Yago Barrasate."
+        ],
+        "291": [
+            1328.0,
+            1333.0,
+            "Y es como el altavoz o como el que propaga el mensaje, porque se ha ido a hablar con Frank Merida para hacer algunos retoques."
+        ],
+        "292": [
+            1334.0,
+            1336.0,
+            "En el Madrid quien se ha acercado es Carvajal a hablar con Zidane."
+        ],
+        "293": [
+            1337.0,
+            1340.0,
+            "Se juega otra vez en Bablona, moviendo el Real Madrid, moviendo Casemiro."
+        ],
+        "294": [
+            1344.0,
+            1345.0,
+            "Isco."
+        ],
+        "295": [
+            1347.0,
+            1348.0,
+            "Conduce Isco."
+        ],
+        "296": [
+            1349.0,
+            1350.0,
+            "Presionado por Nacho Vidal."
+        ],
+        "297": [
+            1351.0,
+            1353.0,
+            "Busca el envío agudo a la espalda de la faga."
+        ],
+        "298": [
+            1354.0,
+            1355.0,
+            "Excelente el pase buscando a Gárez Bale."
+        ],
+        "299": [
+            1356.0,
+            1358.0,
+            "Cabecea Unai García. La pelota está dentro del área de Osasuna."
+        ],
+        "300": [
+            1359.0,
+            1364.0,
+            "Controla la situación. El hoy goleador en el cuadro rojillo, que acaba enviándola al centro del campo."
+        ],
+        "301": [
+            1366.0,
+            1367.0,
+            "Mendy."
+        ],
+        "302": [
+            1368.0,
+            1369.0,
+            "Se ofrece Gárez Bale. Sigue Mendy."
+        ],
+        "303": [
+            1370.0,
+            1373.0,
+            "Más de Mendy, que la pone con el exterior. No hay fuera de juego."
+        ],
+        "304": [
+            1374.0,
+            1376.0,
+            "Puede meter el centro a Gárez Bale. Balón muy bombeado, el segundo palo."
+        ],
+        "305": [
+            1377.0,
+            1379.0,
+            "Que no extraña ninguna complicación para Sergio Herrera."
+        ],
+        "306": [
+            1380.0,
+            1386.0,
+            "Otra conjura del terreno de juego, esta vez en el sector que no está sembrado."
+        ],
+        "307": [
+            1388.0,
+            1389.0,
+            "Estupiñán."
+        ],
+        "308": [
+            1390.0,
+            1397.0,
+            "Si, Brasanet se estaba tirando un desmarque en un hueco tremendo que habían dejado en el Real Madrid los dos centrales separadísimos."
+        ],
+        "309": [
+            1398.0,
+            1403.0,
+            "Hay que aguantarlo Estupiñán. Es tremenda la presencia que tienen en los partidos."
+        ],
+        "310": [
+            1403.0,
+            1407.0,
+            "Que barre el campo de arriba abajo."
+        ],
+        "311": [
+            1410.0,
+            1413.0,
+            "Lo echa de menos el Mallorca este año en primera división."
+        ],
+        "312": [
+            1415.0,
+            1416.0,
+            "Rafael Balán."
+        ],
+        "313": [
+            1417.0,
+            1419.0,
+            "Golgando para Sergio Ramos."
+        ],
+        "314": [
+            1420.0,
+            1426.0,
+            "Mendy presionado ya por Roberto Torres. Lo propio hace Nacho Vidal con Bale. Obligando al cuadro blanco a jugar al primer toque."
+        ],
+        "315": [
+            1426.0,
+            1433.0,
+            "El primer toque, el cual aumenta la posibilidad de ser impreciso y de acabar perdiendo la pelota."
+        ],
+        "316": [
+            1434.0,
+            1435.0,
+            "Le toca proponer a Osasuna."
+        ],
+        "317": [
+            1438.0,
+            1451.0,
+            "No acaba de encontrar el partido el Madrid. Es de esos equipos que se ordenan alrededor de la pelota y no es fácil hoy tenerla ante esta intensidad que tiene adelante."
+        ],
+        "318": [
+            1452.0,
+            1458.0,
+            "A punto de bajar ese balón Rubén García. El balón se pierde por el costado. Sacará de banda Mendy."
+        ],
+        "319": [
+            1465.0,
+            1472.0,
+            "Entra Carvajal con la cabeza para Urtua. Presión arriba a Osasuna con Rubén, con José Arnaez, con Roberto Torres, con Íñigo Pérez."
+        ],
+        "320": [
+            1473.0,
+            1482.0,
+            "Lo que han cambiado es la presión sobre Casemiro. El último mensaje de Iago Barrasate iba en este sentido. Se ocupan de él ahora uno de los dos puntas."
+        ],
+        "321": [
+            1483.0,
+            1494.0,
+            "Y el teórico media punta baja a formar doble pivote con Brazanac. O sea, Fran Mérida-Brazanac más atrás y que sea Arnaiz el que persiga a Casemiro."
+        ],
+        "322": [
+            1495.0,
+            1499.0,
+            "Balón de Casemiro a la espalda de Nacho Vidal. Arranca Gareth Bale, que no va a llegar."
+        ],
+        "323": [
+            1500.0,
+            1511.0,
+            "Demasiado potente ese pase de Carlos Casemiro. El saque de banda para Osasuna, pero el Real Madrid aprovechará la circunstancia para intensificar la presión, para estirarse, para ganar metros hacia la portería de Sergio Herrera."
+        ],
+        "324": [
+            1512.0,
+            1519.0,
+            "Mientras, aprovechamos para ver desde diferentes ángulos el cabezazo imperial, y no se me ocurre otro adjetivo que lo defina mejor, de Unai García."
+        ],
+        "325": [
+            1521.0,
+            1523.0,
+            "No se le fue a cualquiera, se le fue a Casemiro."
+        ],
+        "326": [
+            1523.0,
+            1525.0,
+            "Se acerca para recibir Isco Alarcón."
+        ],
+        "327": [
+            1526.0,
+            1540.0,
+            "Que está pidiendo responsabilidad, se está asomando por todo el frente de ataque, moviéndose él y Modric. Son los que más están haciendo para intentar el control del partido."
+        ],
+        "328": [
+            1540.0,
+            1541.0,
+            "Gareth Bale."
+        ],
+        "329": [
+            1543.0,
+            1549.0,
+            "Le echa una mano Fede Valverde, pero el pase no fue preciso. El pase se fue más allá de la línea lateral."
+        ],
+        "330": [
+            1550.0,
+            1551.0,
+            "Saque de banda para Nacho Vidal."
+        ],
+        "331": [
+            1552.0,
+            1555.0,
+            "Fran Mérida, dejando de cara para el boleón de Nacho Vidal."
+        ],
+        "332": [
+            1556.0,
+            1558.0,
+            "Peleando completamente solo José Arnaiz."
+        ],
+        "333": [
+            1559.0,
+            1561.0,
+            "Es el que más está pidiendo responsabilidad."
+        ],
+        "334": [
+            1562.0,
+            1564.0,
+            "Y es el que más está pidiendo responsabilidad."
+        ],
+        "335": [
+            1565.0,
+            1568.0,
+            "La verdad es que es el que más está pidiendo responsabilidad."
+        ],
+        "336": [
+            1569.0,
+            1571.0,
+            "Y es el que más está pidiendo responsabilidad."
+        ],
+        "337": [
+            1572.0,
+            1574.0,
+            "Y es el que más está pidiendo responsabilidad."
+        ],
+        "338": [
+            1575.0,
+            1578.0,
+            "Fran Mérida, dejando de cara para el boleón de Nacho Vidal."
+        ],
+        "339": [
+            1579.0,
+            1581.0,
+            "Peleando completamente solo José Arnaiz."
+        ],
+        "340": [
+            1582.0,
+            1585.0,
+            "Ahí tenían todas las de ganar los centrales del Real Madrid."
+        ],
+        "341": [
+            1586.0,
+            1588.0,
+            "Isco, balón en diagonal buscando a Benzema."
+        ],
+        "342": [
+            1589.0,
+            1591.0,
+            "Corta Unai García, aparece Fran Mérida, se le echa encima Modric."
+        ],
+        "343": [
+            1592.0,
+            1595.0,
+            "También Casemiro al suelo. Fran Mérida, muy encima de la acción Gil Manzano."
+        ],
+        "344": [
+            1596.0,
+            1597.0,
+            "Ahí falta, favorable a Osasuna."
+        ],
+        "345": [
+            1604.0,
+            1608.0,
+            "Destupiñán, al centro para Brasanac, que levanta la cabeza, busca un socio."
+        ],
+        "346": [
+            1609.0,
+            1610.0,
+            "Toca en corto para Fran Mérida."
+        ],
+        "347": [
+            1616.0,
+            1618.0,
+            "Presiona Valverde, obligando a Unai García."
+        ],
+        "348": [
+            1619.0,
+            1620.0,
+            "Acelera atrás para su portero."
+        ],
+        "349": [
+            1621.0,
+            1623.0,
+            "Pelotazo en diagonal de Sergio Herrera, buena maniobra de Pervis."
+        ],
+        "350": [
+            1624.0,
+            1627.0,
+            "Tira la combinación con Arnaiz, más Destupiñán, aparece en su camino."
+        ],
+        "351": [
+            1628.0,
+            1631.0,
+            "Dani Carvajal, posesión para el Real Madrid."
+        ],
+        "352": [
+            1632.0,
+            1635.0,
+            "Modric, poder exterior para Casemiro, que le mete una marcha más."
+        ],
+        "353": [
+            1636.0,
+            1639.0,
+            "Pendiente del desmarque de Bale, la pone hacia la izquierda, finalmente para Ferland Mendy."
+        ],
+        "354": [
+            1640.0,
+            1641.0,
+            "Dos jugadores blancos en zona de remate."
+        ],
+        "355": [
+            1642.0,
+            1643.0,
+            "Me envía a la frontal, otra vez con Casemiro."
+        ],
+        "356": [
+            1644.0,
+            1645.0,
+            "Casemiro le tira al callo a Fran Mérida."
+        ],
+        "357": [
+            1646.0,
+            1650.0,
+            "Modric asume el mando, toca para Bale, que no pudo controlar, que venía de posición de fuera de juego."
+        ],
+        "358": [
+            1651.0,
+            1652.0,
+            "Se la queda Sergio Herrera."
+        ],
+        "359": [
+            1653.0,
+            1656.0,
+            "Tiene que salir más rápido Bale en ese tipo de situaciones."
+        ],
+        "360": [
+            1656.0,
+            1664.0,
+            "No se puede salir caminando cuando estás teniendo una mínima posibilidad de provocar peligro."
+        ],
+        "361": [
+            1665.0,
+            1672.0,
+            "Con las dificultades que están encontrando sus compañeros para encontrar algún espacio en los últimos metros."
+        ],
+        "362": [
+            1673.0,
+            1675.0,
+            "Estaba en fuera de juego Bale, y no solo Bale, también Benzema."
+        ],
+        "363": [
+            1679.0,
+            1683.0,
+            "Roberto Torres, atrás para David García, estira por la izquierda, como siempre Destupiñán."
+        ],
+        "364": [
+            1686.0,
+            1693.0,
+            "Balón arriba de David García, consigue cortar la defensa del Real Madrid."
+        ],
+        "365": [
+            1694.0,
+            1697.0,
+            "Opción de contragolpe que gestiona Fede Valverde, el último en tocar y va vestido de rojo."
+        ],
+        "366": [
+            1698.0,
+            1699.0,
+            "Saque de banda para el Real Madrid."
+        ],
+        "367": [
+            1706.0,
+            1712.0,
+            "No ha entrado Fede en el partido todavía, y todos sabemos lo importante que es en el juego del Madrid."
+        ],
+        "368": [
+            1713.0,
+            1723.0,
+            "Es un partido que se juega a un ritmo que a él le gusta, pero no tiene esa superioridad en energía que tantas veces tiene con respecto a los rivales."
+        ],
+        "369": [
+            1724.0,
+            1727.0,
+            "Para eso necesita unos espacios que hoy todavía no ha encontrado."
+        ],
+        "370": [
+            1732.0,
+            1733.0,
+            "Fernand Mendy."
+        ],
+        "371": [
+            1735.0,
+            1739.0,
+            "Avanza el ex del Olympique de Lyon, toca en corto para Isco, se ofrece Benzema."
+        ],
+        "372": [
+            1740.0,
+            1741.0,
+            "Sigue Isco."
+        ],
+        "373": [
+            1742.0,
+            1744.0,
+            "La aleja para el Real Madrid, que completa la apertura."
+        ],
+        "374": [
+            1745.0,
+            1748.0,
+            "Se viene el centro de Mendy, la está esperando Gareth Bale, al punto de penalti."
+        ],
+        "375": [
+            1749.0,
+            1751.0,
+            "Aparece Darko Brasanac, ¿quién la aleja?"
+        ],
+        "376": [
+            1752.0,
+            1754.0,
+            "La aleja Nacho Vidal, insiste el equipo de Zidane."
+        ],
+        "377": [
+            1755.0,
+            1757.0,
+            "Balón colgado por Casemiro, la busca Benzema, sale y palmea Sergio Herrera."
+        ],
+        "378": [
+            1758.0,
+            1760.0,
+            "Balón para Carvajal, ha tapado Pervis."
+        ],
+        "379": [
+            1761.0,
+            1764.0,
+            "Ha tapado Pervis Destupiñán, porque parecía que se volieron de Carvajal."
+        ],
+        "380": [
+            1765.0,
+            1767.0,
+            "Podía colarse en la portería, insiste el Real Madrid."
+        ],
+        "381": [
+            1767.0,
+            1769.0,
+            "Otra vez Carvajal para Bale, arriba."
+        ],
+        "382": [
+            1770.0,
+            1773.0,
+            "Se pierde la posibilidad para el Real Madrid, la ha tenido Gareth Bale."
+        ],
+        "383": [
+            1775.0,
+            1781.0,
+            "La clarísima, clarísima, la más importante que ha generado el Real Madrid en este primer tiempo."
+        ],
+        "384": [
+            1782.0,
+            1790.0,
+            "Perfecto el centro de Carvajal, llega desde atrás Bale, no acaba de encontrar esa pelota."
+        ],
+        "385": [
+            1791.0,
+            1794.0,
+            "Le sobra un poquito la pelota y no le da dirección."
+        ],
+        "386": [
+            1794.0,
+            1798.0,
+            "Estaba fuera de juego Isco pero no Bale, que llegaba desde segunda línea."
+        ],
+        "387": [
+            1799.0,
+            1803.0,
+            "Por lo tanto era perfectamente legal la jugada y la ocasión de gol para el Real Madrid."
+        ],
+        "388": [
+            1804.0,
+            1807.0,
+            "Lo sabía Zidane con un gesto de rabia, ha visto como ese balón de Gareth Bale,"
+        ],
+        "389": [
+            1808.0,
+            1812.0,
+            "en la casi oportunidad más clara del Real Madrid, se ha ido por encima del travesaño de la portería de Sergio."
+        ],
+        "390": [
+            1813.0,
+            1816.0,
+            "Doble oportunidad porque la de Carvajal no es para soslayarla."
+        ],
+        "391": [
+            1817.0,
+            1820.0,
+            "Carvajal aparecía en el pase, en la asistencia, en ese segundo lance."
+        ],
+        "392": [
+            1820.0,
+            1824.0,
+            "En el primero era quien definía y ese balón si no iba a portería le faltaba muy poquito."
+        ],
+        "393": [
+            1825.0,
+            1829.0,
+            "Sí, además le pegó con una convicción tremenda, no parecía que el ángulo invitara al tiro,"
+        ],
+        "394": [
+            1830.0,
+            1832.0,
+            "pero lo intentó, iba muy pero muy bien, pegó en este hombro."
+        ],
+        "395": [
+            1833.0,
+            1837.0,
+            "La sacó Pervis, medio de rodillas, no sé si con el muslo o con el pecho."
+        ],
+        "396": [
+            1838.0,
+            1841.0,
+            "Acción poco frecuente, tampoco es un amante de la ortodoxia, Pervis es tu piñal,"
+        ],
+        "397": [
+            1842.0,
+            1844.0,
+            "pero es un tipo efectivo en todos los recursos que encuentra."
+        ],
+        "398": [
+            1844.0,
+            1849.0,
+            "Darco Brasanac rompiendo a Sergio Ramos, sigue Brasanac, le acompaña por la esquina a Rubén,"
+        ],
+        "399": [
+            1850.0,
+            1854.0,
+            "ahí está Rubén, pisa, Álex del Levante la pone, Rubén, estaba buscando la devolución para Brasanac,"
+        ],
+        "400": [
+            1855.0,
+            1860.0,
+            "segunda tentativa para Rubén García, Pervis, línea de fondo, Pervis recorta, incluso se recorta a sí mismo."
+        ],
+        "401": [
+            1861.0,
+            1864.0,
+            "Se le escapó la pelota al futbolista de Esmeraldas, pero quiere más Osasuna."
+        ],
+        "402": [
+            1865.0,
+            1868.0,
+            "Falta clarísima sobre Bale, clarísima."
+        ],
+        "403": [
+            1869.0,
+            1872.0,
+            "Nueva presionada punible, Gil Manzano sigue tocando Osasuna,"
+        ],
+        "404": [
+            1873.0,
+            1875.0,
+            "siguen jugando los chicos de Arrasate que ganan desde el 14."
+        ],
+        "405": [
+            1877.0,
+            1882.0,
+            "Impreciso en ese toque hacia el sector izquierdo, David García recupera la posesión en el Real Madrid,"
+        ],
+        "406": [
+            1883.0,
+            1884.0,
+            "estamos ya dentro del último cuarto de hora de la primera parte."
+        ],
+        "407": [
+            1885.0,
+            1889.0,
+            "Hacía tiempo que no se asomaba en ataque Osasuna, pero cuando engancha cuatro o cinco pases seguidos,"
+        ],
+        "408": [
+            1890.0,
+            1896.0,
+            "encuentra unos espacios útiles que terminan generando peligro."
+        ],
+        "409": [
+            1896.0,
+            1905.0,
+            "La verdad es que es un equipo ambicioso, es un equipo digno de elogio, Osasuna."
+        ],
+        "410": [
+            1906.0,
+            1909.0,
+            "Modric, perseguido por Brasanac."
+        ],
+        "411": [
+            1910.0,
+            1915.0,
+            "Este vuelo con el exterior, el jugador croata, la pelota ya ha llegado al costado izquierdo."
+        ],
+        "412": [
+            1916.0,
+            1917.0,
+            "Turno para Fede Valverde."
+        ],
+        "413": [
+            1922.0,
+            1923.0,
+            "Otra vez a la carga Carvajal."
+        ],
+        "414": [
+            1923.0,
+            1928.0,
+            "Se ofrece y recibe Benzema, Benzema quería tirar la combinación con Bale, que se fue al suelo, no hay falta de David García."
+        ],
+        "415": [
+            1929.0,
+            1933.0,
+            "Se la queda Sergio Herrera, se la queda el portero del club Atlético Osasuna."
+        ],
+        "416": [
+            1936.0,
+            1937.0,
+            "Ahí tenemos al Chimi Ávila."
+        ],
+        "417": [
+            1940.0,
+            1948.0,
+            "Tercer partido en el que no puede contar con su principal figura, con su mejor finalizador, Club Atlético Osasuna."
+        ],
+        "418": [
+            1948.0,
+            1955.0,
+            "Y del cual había muchos rumores sobre una posible marcha incluso en este mercado de invierno, después de ese fatídico partido ante el Levante."
+        ],
+        "419": [
+            1957.0,
+            1958.0,
+            "Mendy."
+        ],
+        "420": [
+            1959.0,
+            1964.0,
+            "Centro de Mendy, ha tocado Roberto Torres, aparece Gárez Bale, balón para Isco."
+        ],
+        "421": [
+            1965.0,
+            1970.0,
+            "Goal."
+        ],
+        "422": [
+            1971.0,
+            1975.0,
+            "Goool."
+        ],
+        "423": [
+            1976.0,
+            1980.0,
+            "Del Real Madrid en el 33, gol de Isco Narcón."
+        ],
+        "424": [
+            1981.0,
+            1988.0,
+            "Aparecía Bale en carrera, quería presentar el interior, no completó el golpeo, pero ese rebote en parábola fue una invitación al disparo para Isco."
+        ],
+        "425": [
+            1989.0,
+            1991.0,
+            "Zurdazo, derechazo mejor dicho y para dentro."
+        ],
+        "426": [
+            1992.0,
+            1995.0,
+            "Ahí está la volea de Isco para empatar el partido, marca el Real Madrid."
+        ],
+        "427": [
+            1996.0,
+            1997.0,
+            "Osasuna 1, Real Madrid 1."
+        ],
+        "428": [
+            1997.0,
+            2001.0,
+            "Se duerme Stupiñán, balón en el que tenía ventaja, le gana Bale."
+        ],
+        "429": [
+            2002.0,
+            2011.0,
+            "Bale le anticipa a Stupiñán y de ese rebote acaba llegando el remate de Isco que está oportuno y luego remata además con mucha habilidad."
+        ],
+        "430": [
+            2012.0,
+            2020.0,
+            "Si tiene un centrito en Mendy, que es rechazado, corregida su trayectoria por un jugador de Osasuna."
+        ],
+        "431": [
+            2021.0,
+            2027.0,
+            "Efectivamente la pelota es discutida por Stupiñán y por Bale."
+        ],
+        "432": [
+            2028.0,
+            2033.0,
+            "Sale rebotada con tanta buena suerte que le llega a Isco que la pone en un rincón."
+        ],
+        "433": [
+            2034.0,
+            2040.0,
+            "Muy buen remate en el tramo más peligroso del Real Madrid, si no el mejor del partido, sí en el más peligroso."
+        ],
+        "434": [
+            2041.0,
+            2044.0,
+            "Tres ocasiones seguidas a la tercera llegó el gol del empate."
+        ],
+        "435": [
+            2044.0,
+            2049.0,
+            "Pues marca Isco que en su regreso a la titularidad marca el tanto del empate."
+        ],
+        "436": [
+            2050.0,
+            2057.0,
+            "Me quedo con el gesto de Casemiro que se ha quedado un buen rato con el puño apretado para celebrar el gesto de Rafael Varane."
+        ],
+        "437": [
+            2058.0,
+            2066.0,
+            "Y si no me fallan las estadísticas, no marca Isco desde el 31 de marzo en partido ante el Huesca en el Bernabéu."
+        ],
+        "438": [
+            2067.0,
+            2070.0,
+            "En lo que tiene que ver con la Liga sí, en Supercopa sí que marca ante el Valencia."
+        ],
+        "439": [
+            2070.0,
+            2073.0,
+            "Más del Real Madrid con el disparo de Benzema que se marcha desviado."
+        ],
+        "440": [
+            2074.0,
+            2079.0,
+            "En Liga sí que es el primero, en la Supercopa ya había anotado su único tanto de este curso."
+        ],
+        "441": [
+            2080.0,
+            2085.0,
+            "2019-2020 es el tercer gol que le marca Osasuna y todos los ha metido aquí en Pamplona."
+        ],
+        "442": [
+            2086.0,
+            2088.0,
+            "Es un estadio que se le da francamente bien a Isco Larcon."
+        ],
+        "443": [
+            2089.0,
+            2098.0,
+            "Está muy bien Isco, se le nota físicamente mucho más fresco, intentando intervenir permanentemente, dándole al equipo soluciones."
+        ],
+        "444": [
+            2098.0,
+            2105.0,
+            "Y de hecho su número de intervenciones hoy está siendo muy alto para la dificultad del partido."
+        ],
+        "445": [
+            2128.0,
+            2147.0,
+            "Ha conseguido revertir el cuadro de Zidane, una situación que no le era en absoluto favorable en el arranque del partido."
+        ],
+        "446": [
+            2148.0,
+            2149.0,
+            "¿Cómo respiran los entrenadores abajo, Ricardo?"
+        ],
+        "447": [
+            2150.0,
+            2154.0,
+            "Pues de momento con brazos cruzados de Jagoba que no deja de dar instrucciones a sus jugadores."
+        ],
+        "448": [
+            2155.0,
+            2161.0,
+            "Muy activo también Zinedine Zidane, muy perspicaz a la hora de los movimientos, las ubicaciones de sus jugadores."
+        ],
+        "449": [
+            2162.0,
+            2168.0,
+            "Mendy arrancó la moto, Estupiñán la controla dentro del área, se equivoca en el despeje y le otorga una segunda tentativa a Carvajal."
+        ],
+        "450": [
+            2169.0,
+            2174.0,
+            "Balón de Carvajal, palmea, toca con la yema de los dedos Sergio Herrera, ese balón podía colarse."
+        ],
+        "451": [
+            2175.0,
+            2177.0,
+            "No tiene problemas Nacho Vidal que concede un córner para el Real Madrid."
+        ],
+        "452": [
+            2178.0,
+            2185.0,
+            "Está haciendo muchas cosas bien el Madrid, los dos laterales llegando y dándole alas al equipo por afuera."
+        ],
+        "453": [
+            2186.0,
+            2194.0,
+            "Este centro de Mendy fue muy pero muy bueno, cayó en el otro lado, le cayó a Carvajal y sacó ese centro convertido casi en tiro."
+        ],
+        "454": [
+            2195.0,
+            2199.0,
+            "De hecho en la repetición yo apostaría en esa toma desde atrás porque ese balón se colaba."
+        ],
+        "455": [
+            2199.0,
+            2206.0,
+            "Y otro que está haciendo las cosas bien es Benzema que se está asomando al centro del campo y se está convirtiendo en un estratega cuando se tira atrás."
+        ],
+        "456": [
+            2207.0,
+            2211.0,
+            "Acción ensayada, toca en corto Modric, le quiere dar vuelta al partido al Real Madrid."
+        ],
+        "457": [
+            2212.0,
+            2216.0,
+            "Modric, amaga con el exterior, sigue Modric, otro recortante Nacho, la pone Modric."
+        ],
+        "458": [
+            2217.0,
+            2221.0,
+            "Ese también iba para adentro, mete los puños Sergio Herrera, es córner otra vez para el Real Madrid."
+        ],
+        "459": [
+            2223.0,
+            2228.0,
+            "Necesita el descanso Osasuna y todavía le quedan ocho minutos más en el área."
+        ],
+        "460": [
+            2229.0,
+            2239.0,
+            "Está pidiendo, yo no sé si es Ñigo Pérez o Darko Brasanac, algo en la jugada de ese centro de Modric, lo pedía también Fran Mérida y lo está revisando aquí Manzano."
+        ],
+        "461": [
+            2240.0,
+            2241.0,
+            "Se lleva aparte a Fran Mérida y a Sergio Ramos."
+        ],
+        "462": [
+            2242.0,
+            2254.0,
+            "Yo no sé si en una pugna es lo que ha podido llamar la atención, si se queda simplemente en esta revisión o si es una jugada susceptible de ahora porque la verdad que yo no he visto lo que reclaman de Osasuna."
+        ],
+        "463": [
+            2254.0,
+            2259.0,
+            "Es un pique, pique sofocado, se juega otra vez en Pamplona, es córner para el Real Madrid."
+        ],
+        "464": [
+            2260.0,
+            2262.0,
+            "El centro de Modric con rosca, segundo palo, Casemiro."
+        ],
+        "465": [
+            2263.0,
+            2270.0,
+            "¡Gol!"
+        ],
+        "466": [
+            2271.0,
+            2274.0,
+            "Del Real Madrid en el 38, gol de Sergio Ramos."
+        ],
+        "467": [
+            2275.0,
+            2281.0,
+            "Balón preciso desde la esquina de Modric, salta por encima de todos Casemiro, que no ajusticia al portero sino que habilita al capitán."
+        ],
+        "468": [
+            2281.0,
+            2283.0,
+            "Ramos presenta la frente, la envía a guardar."
+        ],
+        "469": [
+            2284.0,
+            2289.0,
+            "El Real Madrid le da vuelta el partido, marcó Sergio Ramos, Osasuna 1-1 Real Madrid 2."
+        ],
+        "470": [
+            2290.0,
+            2292.0,
+            "Sí, en posición legalísima de hecho."
+        ],
+        "471": [
+            2293.0,
+            2301.0,
+            "David García levanta la mano pero está en la línea de gol, o sea que no hay ninguna posibilidad de que sea fuera de juego de Ramos en una acción de centro pasado."
+        ],
+        "472": [
+            2302.0,
+            2307.0,
+            "Lo esperaba probablemente Osasuna más en el primer palo, más en el punto de penalti."
+        ],
+        "473": [
+            2308.0,
+            2314.0,
+            "Ahí nadie está hábil para retroceder y Casemiro la pone donde sabe que si la ataca Ramos es gol."
+        ],
+        "474": [
+            2315.0,
+            2319.0,
+            "Se le estaba haciendo larguísima la primera parte a Osasuna y ya gana el Madrid en Pamplona."
+        ],
+        "475": [
+            2320.0,
+            2329.0,
+            "Y el Real Madrid le encontró la vuelta al partido desde hace bastantes minutos y además haciéndolo con agresividad futbolística,"
+        ],
+        "476": [
+            2329.0,
+            2331.0,
+            "tocando la pelota con mucha..."
+        ],
+        "477": [
+            2334.0,
+            2337.0,
+            "Falta ahora de Rubén García, las protestas del público."
+        ],
+        "478": [
+            2338.0,
+            2341.0,
+            "Se ha quedado Sergio Ramos tendido sobre el terreno de juego rápidamente ubico."
+        ],
+        "479": [
+            2342.0,
+            2351.0,
+            "Son cuatro goles de Ramos esta temporada en Liga donde es central pero lleva ya 65 goles ahora mismo en la Liga Santander con este,"
+        ],
+        "480": [
+            2351.0,
+            2356.0,
+            "que le permite al Real Madrid remontar esta temporada un partido como este del Sadar."
+        ],
+        "481": [
+            2357.0,
+            2363.0,
+            "Si antes lo decía, el reto por delante le había remontado a la Real Sociedad en casa, ahora le está remontando a Osasuna en el Sadar."
+        ],
+        "482": [
+            2364.0,
+            2366.0,
+            "Está dolorido Sergio Ramos después de ese choque con Rubén García."
+        ],
+        "483": [
+            2367.0,
+            2371.0,
+            "Mientras se recupera el Camero, vemos desde diferentes ángulos el gol que acaba de anotar."
+        ],
+        "484": [
+            2372.0,
+            2376.0,
+            "Corner al interior del área pequeña o a la frontal del área pequeña, votado por el Real Madrid."
+        ],
+        "485": [
+            2376.0,
+            2380.0,
+            "A Osasuna le rematan dos veces dos jugadores solos tremendamente capaces en el juego aéreo."
+        ],
+        "486": [
+            2381.0,
+            2385.0,
+            "Era imposible salir a esa pelota, o sea no hay responsabilidad del portero porque venía muy fuerte."
+        ],
+        "487": [
+            2386.0,
+            2391.0,
+            "Es verdad que caen en el área pequeña pero la pelota venía muy bien lanzada, el centro era muy muy tenso."
+        ],
+        "488": [
+            2392.0,
+            2396.0,
+            "Y luego Casemiro la devuelve hacia adentro, la devuelve muy muy bien."
+        ],
+        "489": [
+            2397.0,
+            2398.0,
+            "Yo diría que es indefendible."
+        ],
+        "490": [
+            2398.0,
+            2402.0,
+            "Si le había ganado un ay a Casemiro en el 1-0, aquí se la ha devuelto."
+        ],
+        "491": [
+            2403.0,
+            2404.0,
+            "Sí, eso es."
+        ],
+        "492": [
+            2405.0,
+            2410.0,
+            "Ya está en ventaja el Real Madrid con estos dos goles en un lapso de apenas cinco minutos."
+        ],
+        "493": [
+            2411.0,
+            2412.0,
+            "Primero Isco, después Sergio Ramos."
+        ],
+        "494": [
+            2413.0,
+            2419.0,
+            "Está en ventaja el equipo de Zinedine Zidane en este tramo final de la primera parte."
+        ],
+        "495": [
+            2420.0,
+            2421.0,
+            "Menos de cinco minutos para llegar al 45."
+        ],
+        "496": [
+            2422.0,
+            2424.0,
+            "Son seis goles de Ramos en temporada."
+        ],
+        "497": [
+            2424.0,
+            2426.0,
+            "Los cuatro que comentaba en Liga y que añadirle dos en Champions."
+        ],
+        "498": [
+            2427.0,
+            2428.0,
+            "Estupiñán."
+        ],
+        "499": [
+            2429.0,
+            2433.0,
+            "En vío largo de Pervis, cabecea Rafael Varane, se queda ese esférico suelto."
+        ],
+        "500": [
+            2434.0,
+            2435.0,
+            "Roberto Torres."
+        ],
+        "501": [
+            2439.0,
+            2442.0,
+            "Balón con el exterior de Roberto Torres, de primeras Fran Mérida, intenta llegar Estupiñán."
+        ],
+        "502": [
+            2443.0,
+            2444.0,
+            "No consigue controlar."
+        ],
+        "503": [
+            2445.0,
+            2448.0,
+            "El jugador ecuatoriano es saque de banda para el Real Madrid."
+        ],
+        "504": [
+            2449.0,
+            2451.0,
+            "Pelota arriba de Rafael Varane."
+        ],
+        "505": [
+            2452.0,
+            2455.0,
+            "Íñigo Pérez, combinado con Fran Mérida, se le echa encima Carvajal."
+        ],
+        "506": [
+            2456.0,
+            2458.0,
+            "Hay falta, yo creo que evidente, Ricardo, de Carvajal sobre Fran Mérida."
+        ],
+        "507": [
+            2459.0,
+            2461.0,
+            "Bueno, que me pilla tan cerca que he escuchado bota con bota."
+        ],
+        "508": [
+            2462.0,
+            2464.0,
+            "Por eso recurro a los testigos de la acción."
+        ],
+        "509": [
+            2465.0,
+            2466.0,
+            "Es verdad que..."
+        ],
+        "510": [
+            2467.0,
+            2468.0,
+            "Es verdad que no hay nada que hacer."
+        ],
+        "511": [
+            2469.0,
+            2470.0,
+            "No hay nada que hacer."
+        ],
+        "512": [
+            2471.0,
+            2472.0,
+            "No hay nada que hacer."
+        ],
+        "513": [
+            2473.0,
+            2474.0,
+            "No hay nada que hacer."
+        ],
+        "514": [
+            2474.0,
+            2477.0,
+            "Es verdad que Carvajal toca balón, pero se ha llevado por delante la bota de Fran Mérida."
+        ],
+        "515": [
+            2478.0,
+            2482.0,
+            "Que ahora le increpaba y le explicaba a Dani Carvajal, a Gil Manzano, esa acción."
+        ],
+        "516": [
+            2483.0,
+            2485.0,
+            "La pelota la va a poner en el juego Rubén García."
+        ],
+        "517": [
+            2486.0,
+            2487.0,
+            "Sí, falta clara, clarísimo."
+        ],
+        "518": [
+            2489.0,
+            2492.0,
+            "Opción a balón parado, en la que, o en la cual, mejor dicho,"
+        ],
+        "519": [
+            2493.0,
+            2495.0,
+            "el Club Atlético Sassuna va a buscar el empate a dos."
+        ],
+        "520": [
+            2496.0,
+            2498.0,
+            "Al lanzamiento, Rubén García, guarda la baloncita,"
+        ],
+        "521": [
+            2499.0,
+            2501.0,
+            "y le lleva a la frente, se le ha llevado a la fecha un balón."
+        ],
+        "522": [
+            2501.0,
+            2505.6,
+            "va a buscar el empate a dos al lanzamiento Rubén García."
+        ],
+        "523": [
+            2505.6,
+            2507.4,
+            "Pica a dos futbolistas en la barrera."
+        ],
+        "524": [
+            2507.4,
+            2512.0,
+            "Timón Courtois, mientras se mueven ya en la frontal del área."
+        ],
+        "525": [
+            2512.0,
+            2516.4,
+            "Unai García, David García, Íñigo Pérez y compañía."
+        ],
+        "526": [
+            2516.4,
+            2517.6,
+            "Ahí está el servicio de Rubén."
+        ],
+        "527": [
+            2517.6,
+            2522.2,
+            "La pone Rubén al primer palo, consigue repeler la defensa del Real Madrid."
+        ],
+        "528": [
+            2522.2,
+            2525.0,
+            "Lo quiere volver a intentar Unai García en la púgula con Fede Valverde."
+        ],
+        "529": [
+            2525.0,
+            2529.6,
+            "Buena maniobra del jugador montevideano que arranca en solitario por el sector izquierdo."
+        ],
+        "530": [
+            2529.6,
+            2532.2,
+            "Ahí está, marca de la casa."
+        ],
+        "531": [
+            2532.2,
+            2537.2,
+            "Arranca Valverde, que pudo con dos, no con el tercero, le dijo Nacho Vidal, que hasta aquí."
+        ],
+        "532": [
+            2539.2,
+            2542.0,
+            "La primera vez que Valverde es Valverde en el partido."
+        ],
+        "533": [
+            2542.0,
+            2545.4,
+            "Anticipa Modric, sale y la gana David García."
+        ],
+        "534": [
+            2545.4,
+            2546.8,
+            "Recoge su compañero Unai."
+        ],
+        "535": [
+            2548.6,
+            2554.8,
+            "El Madrid ha conseguido igualar la intensidad de Osasuna hasta el punto que ahora parece incluso más intenso que Osasuna."
+        ],
+        "536": [
+            2555.2,
+            2560.0,
+            "Y Modric en eso es contagioso, es tremendo."
+        ],
+        "537": [
+            2560.0,
+            2563.0,
+            "El sentido del deber que tiene el jugador croata."
+        ],
+        "538": [
+            2563.0,
+            2568.0,
+            "Por eso Modric es tan grande también, porque no solo es un jugador clarividense, buen pasador,"
+        ],
+        "539": [
+            2568.0,
+            2571.0,
+            "que elimina a rivales en conducciones, que además es intenso."
+        ],
+        "540": [
+            2572.4,
+            2577.8,
+            "Cuesta mucho encontrar centroampistas de calidad con la intensidad de Modric en el mundo del fútbol."
+        ],
+        "541": [
+            2578.8,
+            2581.8,
+            "Avanza por el costado diestro del ataque Nacho Vidal."
+        ],
+        "542": [
+            2582.8,
+            2586.8,
+            "Arnaiz de cara para Roberto Torres, la pide en corto Fran Mérida."
+        ],
+        "543": [
+            2588.8,
+            2592.8,
+            "Garón para Mérida, que se hace un pequeño lío, estaba rodeado de camisetas blancas."
+        ],
+        "544": [
+            2592.8,
+            2594.8,
+            "Insiste Roberto Torres al centro para Iñigo Pérez."
+        ],
+        "545": [
+            2594.8,
+            2595.8,
+            "Brasa Nacho."
+        ],
+        "546": [
+            2597.8,
+            2600.8,
+            "Estupiñán amenazando a Gareth Bale."
+        ],
+        "547": [
+            2600.8,
+            2606.8,
+            "Tenúa a Pervis, deja del camino al galés, la pone Estupiñán, estaba esperando para conectar el disparo."
+        ],
+        "548": [
+            2607.8,
+            2609.8,
+            "Rubén García despejó la defensa del Real Madrid."
+        ],
+        "549": [
+            2609.8,
+            2614.8,
+            "Insiste Osasuna, insiste Pervis, otro centro al área, otro envío que en este caso se queda corto."
+        ],
+        "550": [
+            2614.8,
+            2616.8,
+            "Fácil para el blocaje de Thibaut Courtois."
+        ],
+        "551": [
+            2617.8,
+            2622.8,
+            "Está muy metido Zinedine Zidane desde el banquillo, corrigiendo constantemente posiciones a sus jugadores,"
+        ],
+        "552": [
+            2622.8,
+            2627.8,
+            "lamentando que ese último balón en ataque del Real Madrid no le llegase a Karim Benzema."
+        ],
+        "553": [
+            2627.8,
+            2633.8,
+            "Muy pendiente, el técnico francés sabe y lo transmite con sus gestos de la importancia del partido de hoy aquí en el Sadar."
+        ],
+        "554": [
+            2635.8,
+            2638.8,
+            "Balón complicado para Fernan Mendy, miente la cabeza y la gana el francés."
+        ],
+        "555": [
+            2638.8,
+            2641.8,
+            "A punto de recuperar Osasuna, lo hace finalmente Darco Bras a Nach."
+        ],
+        "556": [
+            2642.8,
+            2647.8,
+            "Íñigo Pérez, en corto para Fran Mérida."
+        ],
+        "557": [
+            2648.8,
+            2650.8,
+            "Se suma la acción de ataque Nacho Vidal."
+        ],
+        "558": [
+            2650.8,
+            2651.8,
+            "Habrá tiempo añadido, a ver cuánto."
+        ],
+        "559": [
+            2652.8,
+            2653.8,
+            "Pues debería ser bastante."
+        ],
+        "560": [
+            2656.8,
+            2659.8,
+            "Mientras las interrupciones recordamos por encima de todas la lesión de Moncayorla."
+        ],
+        "561": [
+            2661.8,
+            2662.8,
+            "Pero bueno, no más de un minuto ¿no?"
+        ],
+        "562": [
+            2663.8,
+            2666.8,
+            "Rubén García al suelo, deja continuar Gil Manzano."
+        ],
+        "563": [
+            2666.8,
+            2668.8,
+            "El balón sigue siendo de Osasuna."
+        ],
+        "564": [
+            2668.8,
+            2670.8,
+            "Estupiñán tapado por Bale."
+        ],
+        "565": [
+            2671.8,
+            2672.8,
+            "Vuelve Pérez a por Bale."
+        ],
+        "566": [
+            2672.8,
+            2674.8,
+            "Acaba sonando el silbato del árbitro."
+        ],
+        "567": [
+            2674.8,
+            2676.8,
+            "Hay falta de Bale que no lo entiende Ricardo."
+        ],
+        "568": [
+            2676.8,
+            2678.8,
+            "Sí, y le dice Gil Manzano, es falta."
+        ],
+        "569": [
+            2678.8,
+            2680.8,
+            "Dice la primera que le has hecho."
+        ],
+        "570": [
+            2680.8,
+            2685.8,
+            "Es lo que le venía a pedir Gareth Bale y lo que le acaba de explicar el colegiado extremeño."
+        ],
+        "571": [
+            2686.8,
+            2691.8,
+            "Esta es la que pitan, porque luego el que hace falta aquí es Estupiñán,"
+        ],
+        "572": [
+            2691.8,
+            2693.8,
+            "y que lo agarra a Bale."
+        ],
+        "573": [
+            2693.8,
+            2696.8,
+            "Por eso el árbitro le dice, te pité la primera."
+        ],
+        "574": [
+            2696.8,
+            2698.8,
+            "Se cumple el 45."
+        ],
+        "575": [
+            2698.8,
+            2700.8,
+            "En nada sabemos cuánto prolonga Gil Manzano."
+        ],
+        "576": [
+            2700.8,
+            2701.8,
+            "Pues un minutito."
+        ],
+        "577": [
+            2701.8,
+            2702.8,
+            "Sí, un minutito."
+        ],
+        "578": [
+            2702.8,
+            2703.8,
+            "Lo está mostrando ahora el cuarto árbitro."
+        ],
+        "579": [
+            2703.8,
+            2704.8,
+            "Puede ser la última."
+        ],
+        "580": [
+            2704.8,
+            2706.8,
+            "La va a ejecutar Íñigo Pérez."
+        ],
+        "581": [
+            2708.8,
+            2713.8,
+            "Autoriza el árbitro de Don Benito a pegarle a Íñigo Pérez."
+        ],
+        "582": [
+            2713.8,
+            2715.8,
+            "Balón con rosca, punto de penalti."
+        ],
+        "583": [
+            2715.8,
+            2716.8,
+            "No consigue despejar nadie."
+        ],
+        "584": [
+            2717.8,
+            2719.8,
+            "Evitará el saque de banda Roberto Torres."
+        ],
+        "585": [
+            2721.8,
+            2722.8,
+            "Encarando el 10 de Osasura."
+        ],
+        "586": [
+            2722.8,
+            2725.8,
+            "Para el centro, la pelota rebotada en la frontal sigue siendo Rojilla."
+        ],
+        "587": [
+            2726.8,
+            2729.8,
+            "Rubén, en corto para Pervis, que la puede volver a colgar."
+        ],
+        "588": [
+            2729.8,
+            2731.8,
+            "La pone Pervis, ha tocado Modric."
+        ],
+        "589": [
+            2731.8,
+            2732.8,
+            "¿Quién se la queda en la frontal?"
+        ],
+        "590": [
+            2732.8,
+            2735.8,
+            "Se la queda el Real Madrid, que proyecta un contragolpe."
+        ],
+        "591": [
+            2735.8,
+            2737.8,
+            "Se le queda el esférico atrás a Fede Valverde."
+        ],
+        "592": [
+            2737.8,
+            2741.8,
+            "Insiste Osasura, se está acabando el tiempo, se está acabando la primera parte."
+        ],
+        "593": [
+            2741.8,
+            2743.8,
+            "Balón diagonal para que corra Pervis, es la última."
+        ],
+        "594": [
+            2743.8,
+            2745.8,
+            "Buen control, se le echa encima Isco."
+        ],
+        "595": [
+            2745.8,
+            2747.8,
+            "Isco, caracoleando sobre la línea de fondo."
+        ],
+        "596": [
+            2747.8,
+            2749.8,
+            "La sigue pisando, la sigue escondiendo."
+        ],
+        "597": [
+            2749.8,
+            2751.8,
+            "Acaba por neutralizar esa situación."
+        ],
+        "598": [
+            2751.8,
+            2756.8,
+            "Hay falta, que no sé si se llegará a sacar Ricardo, porque estamos ya rondando el 46."
+        ],
+        "599": [
+            2756.8,
+            2759.8,
+            "¿Está Gil Manzano preparado? Pues mira, no lo va a permitir."
+        ]
+    }
+}

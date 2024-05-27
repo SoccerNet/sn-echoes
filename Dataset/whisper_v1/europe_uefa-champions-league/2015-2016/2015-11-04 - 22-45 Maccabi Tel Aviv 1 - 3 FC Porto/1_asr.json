@@ -1,0 +1,3739 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            5.0,
+            "La banda ahora por fin encuentra el partido en Israel."
+        ],
+        "1": [
+            5.0,
+            10.0,
+            "Ahí llega la pelota el Maccabi, ahí recibe en el centro del campo Albertman."
+        ],
+        "2": [
+            10.0,
+            14.0,
+            "Intenta jugar la pelota Pérez, se la han quitado."
+        ],
+        "3": [
+            14.0,
+            18.0,
+            "La tiene el cuadro portugués, pone orden Evandro."
+        ],
+        "4": [
+            18.0,
+            21.0,
+            "Recibe atrás Martin Scindy."
+        ],
+        "5": [
+            21.0,
+            26.0,
+            "Marcano juega al costado, dos saldos Maxi Pereira."
+        ],
+        "6": [
+            26.0,
+            32.0,
+            "Está abierto en la banda André, intentó tocar para profundizar, no pudo ganar metros."
+        ],
+        "7": [
+            32.0,
+            36.0,
+            "La pelota le vuelve a André, toca de cabeza con alguna dificultad."
+        ],
+        "8": [
+            36.0,
+            40.0,
+            "El balón vuelve al centro del campo, de cabeza Maxi Pereira."
+        ],
+        "9": [
+            40.0,
+            43.0,
+            "Cae la bola en el círculo central, apertura de Rican."
+        ],
+        "10": [
+            43.0,
+            47.0,
+            "La pelota para el Maccabi, viene Tibi, se ofrece Albertman."
+        ],
+        "11": [
+            47.0,
+            50.0,
+            "La juega sin embargo Benhaim."
+        ],
+        "12": [
+            51.0,
+            55.0,
+            "Benhaim, central derecho, Carlos García, central izquierdo."
+        ],
+        "13": [
+            55.0,
+            58.0,
+            "La pelota al fondo, la va a tratar de jugar el Maccabi."
+        ],
+        "14": [
+            58.0,
+            62.0,
+            "Atención a esta acción de ataque del cuadro israelí."
+        ],
+        "15": [
+            62.0,
+            64.0,
+            "La pelota dentro del área, jugada de peligro."
+        ],
+        "16": [
+            64.0,
+            66.0,
+            "Primer remate a puerta."
+        ],
+        "17": [
+            70.0,
+            78.0,
+            "En el primer minuto de juego Benhaim, segundo, remató a portería."
+        ],
+        "18": [
+            78.0,
+            80.0,
+            "Como están viendo ahí en la repetición."
+        ],
+        "19": [
+            84.0,
+            91.0,
+            "La jugada de Zahavi en el costado con Benhaim, segundo."
+        ],
+        "20": [
+            92.0,
+            98.0,
+            "Tuvieron córner los jugadores del Maccabi, no lo señaló el árbitro."
+        ],
+        "21": [
+            98.0,
+            102.0,
+            "Juega la pelota del Porto, recibe Maxi Pereira."
+        ],
+        "22": [
+            102.0,
+            106.0,
+            "Intenta una acción individual en lateral derecho, pasa la bola pero no pasa él."
+        ],
+        "23": [
+            107.0,
+            112.0,
+            "La recupera el conjunto maccabéo, no hay nadie ahí arriba."
+        ],
+        "24": [
+            113.0,
+            115.0,
+            "La recoge con ventaja Casillas."
+        ],
+        "25": [
+            118.0,
+            122.0,
+            "Marcano con la pelota, baja para recibir Evandro."
+        ],
+        "26": [
+            122.0,
+            124.0,
+            "Otra vez Marcano."
+        ],
+        "27": [
+            125.0,
+            129.0,
+            "Juega al centro del campo con Abubakar."
+        ],
+        "28": [
+            129.0,
+            132.0,
+            "La pelota la sube ahora Martin Sindy."
+        ],
+        "29": [
+            132.0,
+            138.0,
+            "Martin Sindy juega al central, intenta una acción atacante el cuadro portugués."
+        ],
+        "30": [
+            138.0,
+            143.0,
+            "Pierde la bola ahí arriba el equipo de Lopetegui."
+        ],
+        "31": [
+            143.0,
+            145.0,
+            "Intenta recuperarla Abubakar."
+        ],
+        "32": [
+            145.0,
+            150.0,
+            "Este es Danilo, juega hacia el centro del campo Danilo."
+        ],
+        "33": [
+            150.0,
+            155.0,
+            "De un costado al otro, manda la pelota Rubens hacia la banda."
+        ],
+        "34": [
+            155.0,
+            159.0,
+            "Subido Layoun, atención a la jugada de ataque, ahí la perdió."
+        ],
+        "35": [
+            160.0,
+            164.0,
+            "Se la lleva Benahim, corre hacia la banda."
+        ],
+        "36": [
+            164.0,
+            168.0,
+            "Benhaim segundo, tiene que parar y esperar algún refuerzo."
+        ],
+        "37": [
+            170.0,
+            173.0,
+            "Manda la pelota atrás para Benhaim primero."
+        ],
+        "38": [
+            173.0,
+            177.0,
+            "Este es Carlos García de las Botas Verdes."
+        ],
+        "39": [
+            177.0,
+            180.0,
+            "Benarush, Omri Benarush."
+        ],
+        "40": [
+            180.0,
+            184.0,
+            "Ahí está con la pelota de nuevo, avanza el dorsal 20 del Maccabé."
+        ],
+        "41": [
+            184.0,
+            190.0,
+            "Benarush la deja parar en el centro del campo, en donde está Rikan a partir del costado."
+        ],
+        "42": [
+            191.0,
+            195.0,
+            "Benahim intentó un recorte, no le salió."
+        ],
+        "43": [
+            197.0,
+            200.0,
+            "Ahí el árbitro va a pitar, falta."
+        ],
+        "44": [
+            203.0,
+            205.0,
+            "Falta a favor del Porto."
+        ],
+        "45": [
+            208.0,
+            210.0,
+            "Este es Jovanovic."
+        ],
+        "46": [
+            210.0,
+            216.0,
+            "Es la visa Jovanovic, técnico que estuvo jugando en España."
+        ],
+        "47": [
+            217.0,
+            223.0,
+            "En el Oviedo, el Tenerife y el Deportivo de la Coruña, además de el Ciudad de Murcia en segunda división."
+        ],
+        "48": [
+            224.0,
+            228.0,
+            "Con la pelota Maxi Pereira, juega para Martin Scindy."
+        ],
+        "49": [
+            231.0,
+            237.0,
+            "Este es Marcano, envió largo en diagonal buscando a André."
+        ],
+        "50": [
+            240.0,
+            242.0,
+            "No lo pudo coger el extremo."
+        ],
+        "51": [
+            248.0,
+            250.0,
+            "Va a sacar de banda a Maxi Pereira."
+        ],
+        "52": [
+            255.0,
+            257.0,
+            "Preparado para poner el balón en juego."
+        ],
+        "53": [
+            259.0,
+            261.0,
+            "El lateral derecho del Porto."
+        ],
+        "54": [
+            261.0,
+            264.0,
+            "La va a tratar de colgar en el área."
+        ],
+        "55": [
+            265.0,
+            269.0,
+            "Allá va el envío de Maxi, el balón prácticamente lo dejó en el punto de penalti."
+        ],
+        "56": [
+            270.0,
+            272.0,
+            "Intentó llegar Rubens, Rubens Neves."
+        ],
+        "57": [
+            273.0,
+            275.0,
+            "Se lleva la pelota Zavi."
+        ],
+        "58": [
+            277.0,
+            283.0,
+            "Este balón cruzado de un lado al otro, lo va a tratar de recoger Benahim, segundo."
+        ],
+        "59": [
+            284.0,
+            287.0,
+            "Ha subido también Vermouth, Gil Vermouth."
+        ],
+        "60": [
+            287.0,
+            291.0,
+            "Benarús ha llegado, el lateral subió por la banda."
+        ],
+        "61": [
+            292.0,
+            293.0,
+            "Da saque de banda."
+        ],
+        "62": [
+            299.0,
+            301.0,
+            "La pelota para el Maccabi de Tel Aviv."
+        ],
+        "63": [
+            302.0,
+            304.0,
+            "Juega el balón Benarús."
+        ],
+        "64": [
+            306.0,
+            307.0,
+            "Este es Pérez."
+        ],
+        "65": [
+            309.0,
+            311.0,
+            "La pelota para Albertman."
+        ],
+        "66": [
+            312.0,
+            314.0,
+            "Se queda cerrando el balón."
+        ],
+        "67": [
+            314.0,
+            315.0,
+            "Albertman."
+        ],
+        "68": [
+            316.0,
+            319.0,
+            "Se queda cerrando Benahim."
+        ],
+        "69": [
+            320.0,
+            325.0,
+            "Tocando el Maccabi con la idea de abrir un hueco entre la defensa del Porto."
+        ],
+        "70": [
+            326.0,
+            328.0,
+            "Hay un balón dividido, se lo quiere llevar Marcano."
+        ],
+        "71": [
+            329.0,
+            333.0,
+            "Va a retrasar Danilo, le llega a Martins, deja pasar para Casillas."
+        ],
+        "72": [
+            334.0,
+            335.0,
+            "Atención a ese balón que va mordido."
+        ],
+        "73": [
+            336.0,
+            339.0,
+            "Martins de nuevo, presiona muy arriba ahora el Maccabi."
+        ],
+        "74": [
+            340.0,
+            341.0,
+            "Con la pelota Evandro."
+        ],
+        "75": [
+            345.0,
+            347.0,
+            "Conduce hacia la divisoria Evandro."
+        ],
+        "76": [
+            348.0,
+            351.0,
+            "Mantiene la pelota Maxi Pereira."
+        ],
+        "77": [
+            355.0,
+            356.0,
+            "Se cierra el Maccabi."
+        ],
+        "78": [
+            357.0,
+            359.0,
+            "Intenta no dejar huecos."
+        ],
+        "79": [
+            361.0,
+            363.0,
+            "Hemos visto a Julen Lopetegui."
+        ],
+        "80": [
+            365.0,
+            367.0,
+            "Dando instrucciones."
+        ],
+        "81": [
+            368.0,
+            373.0,
+            "El que fuera portero en su época de futbolista."
+        ],
+        "82": [
+            374.0,
+            375.0,
+            "Julen Lopetegui."
+        ],
+        "83": [
+            376.0,
+            378.0,
+            "El primer disparo a puerta del Porto."
+        ],
+        "84": [
+            379.0,
+            380.0,
+            "Un tiro de Abouakar."
+        ],
+        "85": [
+            385.0,
+            391.0,
+            "Remate desviado en el minuto 6 del primer tiempo."
+        ],
+        "86": [
+            392.0,
+            393.0,
+            "Un tiro por parte de cada equipo."
+        ],
+        "87": [
+            396.0,
+            397.0,
+            "Saca a Raikovic."
+        ],
+        "88": [
+            398.0,
+            399.0,
+            "Se le va la pelota afuera."
+        ],
+        "89": [
+            405.0,
+            407.0,
+            "Va a sacar de banda Maxi Pereira."
+        ],
+        "90": [
+            414.0,
+            415.0,
+            "La juega Maxi."
+        ],
+        "91": [
+            416.0,
+            418.0,
+            "Intenta avanzar André."
+        ],
+        "92": [
+            427.0,
+            429.0,
+            "Sigue teniendo el balón en el puerto."
+        ],
+        "93": [
+            430.0,
+            431.0,
+            "Ahí está Danilo."
+        ],
+        "94": [
+            431.0,
+            433.0,
+            "Para combinar con Rubens Neves."
+        ],
+        "95": [
+            434.0,
+            436.0,
+            "Llega Cristian Tello desde la banda."
+        ],
+        "96": [
+            437.0,
+            440.0,
+            "Intentó retrasar el ex del Barça, Cristian Tello."
+        ],
+        "97": [
+            441.0,
+            443.0,
+            "Ha recuperado la pelota del Maccabi y esa es falta."
+        ],
+        "98": [
+            452.0,
+            455.0,
+            "Estamos en el 7 y medio de la primera mitad."
+        ],
+        "99": [
+            456.0,
+            457.0,
+            "Empate a cero."
+        ],
+        "100": [
+            461.0,
+            462.0,
+            "Se va el balón fuera del campo."
+        ],
+        "101": [
+            463.0,
+            464.0,
+            "Saca de banda para el Porto."
+        ],
+        "102": [
+            477.0,
+            478.0,
+            "Llega la pelota el Porto."
+        ],
+        "103": [
+            479.0,
+            480.0,
+            "Atrás Martins Indy."
+        ],
+        "104": [
+            482.0,
+            483.0,
+            "Y ahí también Danilo."
+        ],
+        "105": [
+            484.0,
+            485.0,
+            "El segundo disparo."
+        ],
+        "106": [
+            486.0,
+            487.0,
+            "Martins, ahora Marcano."
+        ],
+        "107": [
+            490.0,
+            491.0,
+            "Marcano sirve en largo."
+        ],
+        "108": [
+            492.0,
+            493.0,
+            "La pelota para André."
+        ],
+        "109": [
+            494.0,
+            495.0,
+            "Viene por fuera."
+        ],
+        "110": [
+            496.0,
+            497.0,
+            "Maxi no puede conectar."
+        ],
+        "111": [
+            498.0,
+            499.0,
+            "Continúa André."
+        ],
+        "112": [
+            500.0,
+            501.0,
+            "Ahí le van a pitar falta."
+        ],
+        "113": [
+            502.0,
+            503.0,
+            "Falta de Benarús."
+        ],
+        "114": [
+            507.0,
+            508.0,
+            "Y ahí está André."
+        ],
+        "115": [
+            509.0,
+            510.0,
+            "La pelota de André."
+        ],
+        "116": [
+            511.0,
+            512.0,
+            "La pelota de André."
+        ],
+        "117": [
+            513.0,
+            515.0,
+            "No está conforme el lateral izquierdo."
+        ],
+        "118": [
+            516.0,
+            517.0,
+            "Vamos a ver ahí si es carga o no."
+        ],
+        "119": [
+            519.0,
+            522.0,
+            "Interpreta el asistente que es más que una carga."
+        ],
+        "120": [
+            523.0,
+            525.0,
+            "Y que por lo tanto toca pitar falta."
+        ],
+        "121": [
+            543.0,
+            544.0,
+            "Saca la falta el Porto."
+        ],
+        "122": [
+            545.0,
+            546.0,
+            "La pelota sale del área."
+        ],
+        "123": [
+            547.0,
+            548.0,
+            "Atención a ese disparo."
+        ],
+        "124": [
+            550.0,
+            551.0,
+            "Intentó un tiro Layoun."
+        ],
+        "125": [
+            552.0,
+            553.0,
+            "La pelota sigue en poder del Porto."
+        ],
+        "126": [
+            554.0,
+            555.0,
+            "Atención a ese rebate."
+        ],
+        "127": [
+            556.0,
+            557.0,
+            "Va a pitar fuera de juego."
+        ],
+        "128": [
+            573.0,
+            576.0,
+            "Estamos llegando al minuto 10 de la primera parte."
+        ],
+        "129": [
+            577.0,
+            580.0,
+            "Empate a cero entre el Maccabi de Tel Aviv y el Porto."
+        ],
+        "130": [
+            581.0,
+            582.0,
+            "Juega el balón Rajkovic, el portero."
+        ],
+        "131": [
+            584.0,
+            585.0,
+            "Toca de cabeza Marcano."
+        ],
+        "132": [
+            587.0,
+            588.0,
+            "La pelota se la queda el Maccabi."
+        ],
+        "133": [
+            589.0,
+            591.0,
+            "Ahí ha robado el balón el Porto."
+        ],
+        "134": [
+            592.0,
+            594.0,
+            "Atención a la llevada de Vincent Abouakar."
+        ],
+        "135": [
+            595.0,
+            596.0,
+            "¡Qué gran disparo!"
+        ],
+        "136": [
+            597.0,
+            598.0,
+            "De Vincent Abouakar."
+        ],
+        "137": [
+            599.0,
+            600.0,
+            "Que ha desviado Rajkovic."
+        ],
+        "138": [
+            600.0,
+            601.0,
+            "Vamos a ver ahí la repetición."
+        ],
+        "139": [
+            602.0,
+            605.0,
+            "No se lo pensó dos veces Abouakar."
+        ],
+        "140": [
+            606.0,
+            607.0,
+            "Gran remate y gran parada."
+        ],
+        "141": [
+            608.0,
+            610.0,
+            "Ahí se va a mover muy bien la intervención del portero."
+        ],
+        "142": [
+            611.0,
+            612.0,
+            "Primero el tiro durísimo."
+        ],
+        "143": [
+            613.0,
+            615.0,
+            "Y luego la parada de Rajkovic."
+        ],
+        "144": [
+            616.0,
+            617.0,
+            "¡Excelente!"
+        ],
+        "145": [
+            618.0,
+            619.0,
+            "En el minuto 10."
+        ],
+        "146": [
+            620.0,
+            621.0,
+            "Atención, corner."
+        ],
+        "147": [
+            622.0,
+            623.0,
+            "Es el primero."
+        ],
+        "148": [
+            624.0,
+            625.0,
+            "Corner otra vez."
+        ],
+        "149": [
+            626.0,
+            629.0,
+            "Segundo corner para el Porto."
+        ],
+        "150": [
+            630.0,
+            631.0,
+            "Lanza a Rubens Neves."
+        ],
+        "151": [
+            632.0,
+            633.0,
+            "Atención al remate."
+        ],
+        "152": [
+            634.0,
+            635.0,
+            "No llegó nadie."
+        ],
+        "153": [
+            636.0,
+            638.0,
+            "Desde fuera del área el disparo de Layoun."
+        ],
+        "154": [
+            639.0,
+            640.0,
+            "Opciones ahí para marcar."
+        ],
+        "155": [
+            641.0,
+            642.0,
+            "¡Qué gran parada!"
+        ],
+        "156": [
+            643.0,
+            644.0,
+            "¡Qué gran parada!"
+        ],
+        "157": [
+            645.0,
+            646.0,
+            "¡Qué gran parada!"
+        ],
+        "158": [
+            647.0,
+            648.0,
+            "¡Qué gran parada!"
+        ],
+        "159": [
+            649.0,
+            650.0,
+            "¡Qué gran parada!"
+        ],
+        "160": [
+            651.0,
+            652.0,
+            "¡Qué gran parada!"
+        ],
+        "161": [
+            653.0,
+            654.0,
+            "¡Qué gran parada!"
+        ],
+        "162": [
+            655.0,
+            659.0,
+            "Una doble opción, claro, de gol para el Porto."
+        ],
+        "163": [
+            660.0,
+            662.0,
+            "Que el camerunés Abouakar no ha podido aprovechar."
+        ],
+        "164": [
+            663.0,
+            664.0,
+            "Protagonista en el tiro anterior."
+        ],
+        "165": [
+            665.0,
+            667.0,
+            "Y ahora también, primero el remate de Layoun."
+        ],
+        "166": [
+            668.0,
+            669.0,
+            "La parada del portero."
+        ],
+        "167": [
+            670.0,
+            674.0,
+            "Y el remate, demasiado alto, de Abouakar."
+        ],
+        "168": [
+            675.0,
+            676.0,
+            "Otra repetición más."
+        ],
+        "169": [
+            677.0,
+            680.0,
+            "Ahí tenía todas las de ganar el camerunés."
+        ],
+        "170": [
+            685.0,
+            689.0,
+            "Dos posibilidades de gol para el Porto en apenas un minuto."
+        ],
+        "171": [
+            698.0,
+            699.0,
+            "La pelota va al centro del campo."
+        ],
+        "172": [
+            700.0,
+            701.0,
+            "Toque de cabeza de Benahim."
+        ],
+        "173": [
+            702.0,
+            703.0,
+            "Hay un error ahí de Danilo."
+        ],
+        "174": [
+            704.0,
+            705.0,
+            "Intenta mantener la bola, no puede."
+        ],
+        "175": [
+            706.0,
+            707.0,
+            "Juega el ataque del Maccabi."
+        ],
+        "176": [
+            708.0,
+            709.0,
+            "Benahim viene por la banda."
+        ],
+        "177": [
+            710.0,
+            711.0,
+            "Atención al centro."
+        ],
+        "178": [
+            712.0,
+            713.0,
+            "Ha despejado Marcano."
+        ],
+        "179": [
+            713.0,
+            714.0,
+            "Ha perdido ahí la pelota."
+        ],
+        "180": [
+            715.0,
+            716.0,
+            "El Porto va al curso lateral."
+        ],
+        "181": [
+            717.0,
+            718.0,
+            "Layoun ha recibido un golpe el mexicano."
+        ],
+        "182": [
+            719.0,
+            721.0,
+            "En esa acción con Tibi."
+        ],
+        "183": [
+            724.0,
+            726.0,
+            "Sale un poco dolorido Miguel Layoun."
+        ],
+        "184": [
+            729.0,
+            730.0,
+            "Corner para el Maccabi."
+        ],
+        "185": [
+            744.0,
+            747.0,
+            "Va a botar el córner Zabi, el capitán del Maccabi."
+        ],
+        "186": [
+            748.0,
+            749.0,
+            "La pelota al interior del área."
+        ],
+        "187": [
+            750.0,
+            751.0,
+            "No hubo opciones de remate."
+        ],
+        "188": [
+            752.0,
+            753.0,
+            "La recoge Adverman."
+        ],
+        "189": [
+            754.0,
+            755.0,
+            "La cuelga ahí al lateral del área."
+        ],
+        "190": [
+            756.0,
+            757.0,
+            "Nuevas oportunidades para el Maccabi."
+        ],
+        "191": [
+            758.0,
+            759.0,
+            "Ahí ha despejado Rubens."
+        ],
+        "192": [
+            761.0,
+            763.0,
+            "Se echa muy arriba ahora el conjunto de Raely."
+        ],
+        "193": [
+            766.0,
+            768.0,
+            "Aplausos de la hinchada para el central."
+        ],
+        "194": [
+            769.0,
+            770.0,
+            "Benahim primero."
+        ],
+        "195": [
+            773.0,
+            774.0,
+            "Fueiga desde la banda."
+        ],
+        "196": [
+            775.0,
+            776.0,
+            "El Porto intenta a Boubacar bajar la pelota."
+        ],
+        "197": [
+            777.0,
+            778.0,
+            "Va a presionar lejamente Tello."
+        ],
+        "198": [
+            779.0,
+            780.0,
+            "También André."
+        ],
+        "199": [
+            781.0,
+            783.0,
+            "Muy juntos arriba ahora los extremos del Porto."
+        ],
+        "200": [
+            784.0,
+            785.0,
+            "Ahí el árbitro va a dar saque de banda."
+        ],
+        "201": [
+            804.0,
+            805.0,
+            "Cesión atrás del central."
+        ],
+        "202": [
+            806.0,
+            807.0,
+            "Carlos García."
+        ],
+        "203": [
+            808.0,
+            809.0,
+            "La pelota para Rajkovic."
+        ],
+        "204": [
+            819.0,
+            820.0,
+            "Juega en el ladero Rajkovic."
+        ],
+        "205": [
+            822.0,
+            823.0,
+            "Ahí se anticipa Marcano en el salto."
+        ],
+        "206": [
+            825.0,
+            826.0,
+            "La pelota para el centro."
+        ],
+        "207": [
+            827.0,
+            828.0,
+            "La pelota para el centro."
+        ],
+        "208": [
+            829.0,
+            830.0,
+            "La pelota para el centro."
+        ],
+        "209": [
+            830.0,
+            831.0,
+            "Ahí se anticipa Marcano en el salto."
+        ],
+        "210": [
+            833.0,
+            835.0,
+            "Ocupaba muy bien su posición el central español."
+        ],
+        "211": [
+            836.0,
+            837.0,
+            "Pierde la pelota el Porto."
+        ],
+        "212": [
+            838.0,
+            839.0,
+            "La va a recibir Pérez."
+        ],
+        "213": [
+            841.0,
+            842.0,
+            "Dor Perez."
+        ],
+        "214": [
+            843.0,
+            844.0,
+            "Intentó apoyarse ahí en Rican."
+        ],
+        "215": [
+            845.0,
+            846.0,
+            "Recupera la pelota el cuadro portugués."
+        ],
+        "216": [
+            847.0,
+            848.0,
+            "Sale Maxi."
+        ],
+        "217": [
+            849.0,
+            850.0,
+            "Se le va a hacer muy largo ahí el campo a Maxi."
+        ],
+        "218": [
+            852.0,
+            855.0,
+            "Vuelve a tener el balón el Maccabi."
+        ],
+        "219": [
+            855.0,
+            856.0,
+            "Hay una jugada de ataque del cuadro israelí."
+        ],
+        "220": [
+            857.0,
+            858.0,
+            "Muy adelantada la defensa del Porto."
+        ],
+        "221": [
+            859.0,
+            860.0,
+            "En la banda Benahim."
+        ],
+        "222": [
+            861.0,
+            862.0,
+            "Va a tratar de tirar a puerta."
+        ],
+        "223": [
+            863.0,
+            864.0,
+            "Metió la mano Casillas porque ese balón se le iba adentro."
+        ],
+        "224": [
+            872.0,
+            874.0,
+            "Primer remate entre los tres palos del Maccabi."
+        ],
+        "225": [
+            875.0,
+            877.0,
+            "Ahí vemos la repetición del tiro de Benahim."
+        ],
+        "226": [
+            878.0,
+            879.0,
+            "Se cruzaba luego Zahavi."
+        ],
+        "227": [
+            880.0,
+            881.0,
+            "Los al siete que pudo haber desviado."
+        ],
+        "228": [
+            882.0,
+            883.0,
+            "Ahí se va a hacer un buen tiro."
+        ],
+        "229": [
+            883.0,
+            884.0,
+            "Se le va a hacer un buen tiro."
+        ],
+        "230": [
+            885.0,
+            886.0,
+            "Se le va a hacer un buen tiro."
+        ],
+        "231": [
+            887.0,
+            888.0,
+            "Se le va a hacer un buen tiro."
+        ],
+        "232": [
+            889.0,
+            890.0,
+            "El árbitro dio córner."
+        ],
+        "233": [
+            891.0,
+            892.0,
+            "Recuerden que desvió Casillas."
+        ],
+        "234": [
+            893.0,
+            894.0,
+            "Saca el córner el Maccabi."
+        ],
+        "235": [
+            895.0,
+            896.0,
+            "Muy cerrado."
+        ],
+        "236": [
+            897.0,
+            898.0,
+            "Ahí estaba abatido el portero."
+        ],
+        "237": [
+            899.0,
+            900.0,
+            "En el segundo palo donde estaba Benahim."
+        ],
+        "238": [
+            901.0,
+            902.0,
+            "No había nadie para defender."
+        ],
+        "239": [
+            907.0,
+            908.0,
+            "Vamos a ver la repetición."
+        ],
+        "240": [
+            911.0,
+            912.0,
+            "Ahí se va a hacer un buen tiro."
+        ],
+        "241": [
+            913.0,
+            915.0,
+            "Ahí si Benahim llega a superar del todo a Maxi."
+        ],
+        "242": [
+            916.0,
+            917.0,
+            "Es gol cantado."
+        ],
+        "243": [
+            920.0,
+            922.0,
+            "Estaba encimado Benahim."
+        ],
+        "244": [
+            924.0,
+            925.0,
+            "Le aguantó Maxi Pereira."
+        ],
+        "245": [
+            940.0,
+            941.0,
+            "Corre por el balón André."
+        ],
+        "246": [
+            941.0,
+            942.0,
+            "André, André."
+        ],
+        "247": [
+            943.0,
+            944.0,
+            "El pase al hueco."
+        ],
+        "248": [
+            945.0,
+            946.0,
+            "Pero no hay nadie."
+        ],
+        "249": [
+            947.0,
+            948.0,
+            "Ahí la ventaja la lleva Carlos García."
+        ],
+        "250": [
+            957.0,
+            960.0,
+            "Envió largo de Rubens Neves."
+        ],
+        "251": [
+            963.0,
+            964.0,
+            "Este chico Rubens Neves"
+        ],
+        "252": [
+            966.0,
+            968.0,
+            "es el capitán del Porto."
+        ],
+        "253": [
+            969.0,
+            971.0,
+            "Un chico que tiene 18 años."
+        ],
+        "254": [
+            982.0,
+            984.0,
+            "Hemos superado el 16 de la primera parte."
+        ],
+        "255": [
+            985.0,
+            986.0,
+            "Trata de llevar la iniciativa."
+        ],
+        "256": [
+            987.0,
+            988.0,
+            "El Porto ha podido marcar."
+        ],
+        "257": [
+            989.0,
+            990.0,
+            "También ha podido marcar el Maccabi."
+        ],
+        "258": [
+            992.0,
+            994.0,
+            "Juega el balón Danilo desde el centro del campo."
+        ],
+        "259": [
+            995.0,
+            996.0,
+            "Ahí toca Maxi."
+        ],
+        "260": [
+            996.0,
+            997.0,
+            "Este es André."
+        ],
+        "261": [
+            998.0,
+            999.0,
+            "Le llega la pelota a Rubens."
+        ],
+        "262": [
+            1000.0,
+            1001.0,
+            "Atención al disparo."
+        ],
+        "263": [
+            1002.0,
+            1003.0,
+            "Ha parado Raikovic."
+        ],
+        "264": [
+            1004.0,
+            1005.0,
+            "No venía muy fuerte ese tiro."
+        ],
+        "265": [
+            1007.0,
+            1010.0,
+            "Ya ha podido parar Raikovic sin más problemas."
+        ],
+        "266": [
+            1022.0,
+            1025.0,
+            "Ha despejado la defensa del Porto."
+        ],
+        "267": [
+            1027.0,
+            1029.0,
+            "Le llega el balón a Marcano."
+        ],
+        "268": [
+            1031.0,
+            1034.0,
+            "En la zona defensiva del Maccabi se quedaba Benalouche"
+        ],
+        "269": [
+            1035.0,
+            1036.0,
+            "ayudando en el eje de la defensa."
+        ],
+        "270": [
+            1037.0,
+            1038.0,
+            "Benalouche venía desde la banda."
+        ],
+        "271": [
+            1039.0,
+            1040.0,
+            "Ahora la pelota para Casillas."
+        ],
+        "272": [
+            1043.0,
+            1044.0,
+            "Iker Casillas con Marcano."
+        ],
+        "273": [
+            1046.0,
+            1047.0,
+            "Juega Danilo."
+        ],
+        "274": [
+            1051.0,
+            1052.0,
+            "Recibe Maxi Pereira."
+        ],
+        "275": [
+            1053.0,
+            1054.0,
+            "Este es André."
+        ],
+        "276": [
+            1054.0,
+            1055.0,
+            "Ahora Marcano."
+        ],
+        "277": [
+            1057.0,
+            1059.0,
+            "Pasa en profundidad intentando sorprender."
+        ],
+        "278": [
+            1060.0,
+            1061.0,
+            "Recogió la pelota Benahim."
+        ],
+        "279": [
+            1062.0,
+            1064.0,
+            "Presiona el Porto con gente en el centro del campo."
+        ],
+        "280": [
+            1065.0,
+            1066.0,
+            "Ahí está luchando Evandro."
+        ],
+        "281": [
+            1067.0,
+            1069.0,
+            "La pelota le llega a Bermuz."
+        ],
+        "282": [
+            1071.0,
+            1072.0,
+            "No va a llegar."
+        ],
+        "283": [
+            1073.0,
+            1074.0,
+            "No va a llegar Fabi."
+        ],
+        "284": [
+            1075.0,
+            1077.0,
+            "Saque de portería para el Porto."
+        ],
+        "285": [
+            1084.0,
+            1085.0,
+            "Juega el balón André."
+        ],
+        "286": [
+            1086.0,
+            1087.0,
+            "Ahora Maxi Pereira."
+        ],
+        "287": [
+            1088.0,
+            1089.0,
+            "En el río hacia la frontal."
+        ],
+        "288": [
+            1090.0,
+            1091.0,
+            "Ha intentado una maniobra el delantero del Porto."
+        ],
+        "289": [
+            1092.0,
+            1093.0,
+            "Viene para ayudar a Bukhar."
+        ],
+        "290": [
+            1094.0,
+            1095.0,
+            "Atención que está solo Cristian Tello."
+        ],
+        "291": [
+            1096.0,
+            1098.0,
+            "Se le va un poco largo en el control pero aún así puede marcar."
+        ],
+        "292": [
+            1099.0,
+            1100.0,
+            "Gol del Porto."
+        ],
+        "293": [
+            1102.0,
+            1104.0,
+            "Ha marcado Cristian Tello para el Porto."
+        ],
+        "294": [
+            1105.0,
+            1106.0,
+            "Y el gol de André."
+        ],
+        "295": [
+            1107.0,
+            1108.0,
+            "Y el gol de André."
+        ],
+        "296": [
+            1109.0,
+            1110.0,
+            "Y el gol de André."
+        ],
+        "297": [
+            1111.0,
+            1112.0,
+            "Y el gol de André."
+        ],
+        "298": [
+            1112.0,
+            1114.0,
+            "Y el gol de Cristian Tello para el Porto."
+        ],
+        "299": [
+            1115.0,
+            1117.0,
+            "El primero en el minuto 18 de la primera parte."
+        ],
+        "300": [
+            1118.0,
+            1122.0,
+            "Dió la impresión que en el control se le iba el balón un poco largo."
+        ],
+        "301": [
+            1123.0,
+            1129.0,
+            "Pero aún así llegó en condiciones de efectuar un tiro cruzado"
+        ],
+        "302": [
+            1130.0,
+            1131.0,
+            "que no ha podido parar Rajković."
+        ],
+        "303": [
+            1132.0,
+            1133.0,
+            "Vamos a ver la repetición."
+        ],
+        "304": [
+            1135.0,
+            1136.0,
+            "El pase de André."
+        ],
+        "305": [
+            1137.0,
+            1138.0,
+            "No hay fuerde juego."
+        ],
+        "306": [
+            1139.0,
+            1140.0,
+            "Ahí es cuando el control parece largo."
+        ],
+        "307": [
+            1140.0,
+            1142.0,
+            "No llega tiempo el portero."
+        ],
+        "308": [
+            1143.0,
+            1145.0,
+            "No puede encimar tampoco el lateral Tibi."
+        ],
+        "309": [
+            1146.0,
+            1149.0,
+            "Y acaba marcando Cristian Tello."
+        ],
+        "310": [
+            1151.0,
+            1153.0,
+            "1-0 en el marcador."
+        ],
+        "311": [
+            1154.0,
+            1157.0,
+            "Gana el Porto en el campo del Maccabi."
+        ],
+        "312": [
+            1159.0,
+            1163.0,
+            "Igual podía ser algo más Rajković."
+        ],
+        "313": [
+            1164.0,
+            1167.0,
+            "En esa acción ante el extremo."
+        ],
+        "314": [
+            1168.0,
+            1169.0,
+            "Vamos a ver la repetición otra vez."
+        ],
+        "315": [
+            1170.0,
+            1171.0,
+            "Tarda un poco en salir."
+        ],
+        "316": [
+            1172.0,
+            1175.0,
+            "Y cuando va por la pelota Rajković."
+        ],
+        "317": [
+            1176.0,
+            1178.0,
+            "No se hace lo suficientemente grande."
+        ],
+        "318": [
+            1179.0,
+            1180.0,
+            "No tapa del todo."
+        ],
+        "319": [
+            1181.0,
+            1183.0,
+            "Y Tello marca el primero."
+        ],
+        "320": [
+            1201.0,
+            1203.0,
+            "Se le pone la cosa fea al Maccabi."
+        ],
+        "321": [
+            1204.0,
+            1207.0,
+            "Cuando tan solo se han jugado 20 minutos."
+        ],
+        "322": [
+            1210.0,
+            1212.0,
+            "Queda por lo tanto mucho tiempo todavía."
+        ],
+        "323": [
+            1224.0,
+            1225.0,
+            "Es el primer gol."
+        ],
+        "324": [
+            1226.0,
+            1227.0,
+            "El primer gol de Tello."
+        ],
+        "325": [
+            1231.0,
+            1233.0,
+            "Esta temporada en la Liga de Campeones."
+        ],
+        "326": [
+            1239.0,
+            1240.0,
+            "La pelota para el Porto."
+        ],
+        "327": [
+            1241.0,
+            1242.0,
+            "Ahí ha pitado falta."
+        ],
+        "328": [
+            1243.0,
+            1246.0,
+            "Han derribado a Boubacar."
+        ],
+        "329": [
+            1248.0,
+            1249.0,
+            "Centro delantero del Porto."
+        ],
+        "330": [
+            1257.0,
+            1258.0,
+            "Va a sacar la falta."
+        ],
+        "331": [
+            1261.0,
+            1264.0,
+            "El Porto juega la pelota Danilo."
+        ],
+        "332": [
+            1266.0,
+            1268.0,
+            "Ahí ha ido duro el central."
+        ],
+        "333": [
+            1269.0,
+            1270.0,
+            "Benahín primero."
+        ],
+        "334": [
+            1271.0,
+            1272.0,
+            "Saca de banda para el cuadro portugués."
+        ],
+        "335": [
+            1273.0,
+            1275.0,
+            "Ahí está Lopetegui dando indicaciones."
+        ],
+        "336": [
+            1276.0,
+            1278.0,
+            "Juega la pelota Danilo."
+        ],
+        "337": [
+            1282.0,
+            1284.0,
+            "Danilo al costado para André."
+        ],
+        "338": [
+            1285.0,
+            1287.0,
+            "Toca atrás Maxi."
+        ],
+        "339": [
+            1287.0,
+            1289.0,
+            "Con la pelota Danilo el envío es malo."
+        ],
+        "340": [
+            1290.0,
+            1293.0,
+            "Se va la pelota directamente fuera."
+        ],
+        "341": [
+            1294.0,
+            1296.0,
+            "Saca de portería para el Maccabi."
+        ],
+        "342": [
+            1302.0,
+            1303.0,
+            "Esta es la jugada del gol."
+        ],
+        "343": [
+            1304.0,
+            1307.0,
+            "El envío de André para Tello."
+        ],
+        "344": [
+            1310.0,
+            1312.0,
+            "Que consigue marcar el primero de la noche."
+        ],
+        "345": [
+            1313.0,
+            1315.0,
+            "Es el segundo gol de la temporada."
+        ],
+        "346": [
+            1315.0,
+            1317.0,
+            "En Israel."
+        ],
+        "347": [
+            1323.0,
+            1328.0,
+            "Se estaba diciendo en las últimas horas que Christian Tello podría ir a Inglaterra."
+        ],
+        "348": [
+            1330.0,
+            1331.0,
+            "Ya veremos qué ocurre."
+        ],
+        "349": [
+            1332.0,
+            1333.0,
+            "Juega la pelota el Porto."
+        ],
+        "350": [
+            1334.0,
+            1335.0,
+            "Sube Miguel Layun."
+        ],
+        "351": [
+            1336.0,
+            1337.0,
+            "Centra."
+        ],
+        "352": [
+            1338.0,
+            1339.0,
+            "El envío largo."
+        ],
+        "353": [
+            1340.0,
+            1341.0,
+            "Lo va a recoger André."
+        ],
+        "354": [
+            1342.0,
+            1343.0,
+            "Nadie al remate de primeras."
+        ],
+        "355": [
+            1345.0,
+            1347.0,
+            "Opciones de contraataque para el Maccabi."
+        ],
+        "356": [
+            1348.0,
+            1350.0,
+            "No pita falta el árbitro."
+        ],
+        "357": [
+            1351.0,
+            1352.0,
+            "Decepción entre la hinchada."
+        ],
+        "358": [
+            1355.0,
+            1356.0,
+            "Pero no hay más protestas."
+        ],
+        "359": [
+            1357.0,
+            1358.0,
+            "Juega Danilo."
+        ],
+        "360": [
+            1359.0,
+            1361.0,
+            "La pelota la mantiene el cuadro portugués."
+        ],
+        "361": [
+            1362.0,
+            1363.0,
+            "Retrasa Rubens."
+        ],
+        "362": [
+            1364.0,
+            1366.0,
+            "Layun otra vez para el capitán."
+        ],
+        "363": [
+            1367.0,
+            1368.0,
+            "Este es Danilo."
+        ],
+        "364": [
+            1369.0,
+            1371.0,
+            "Ahora juega Maxi Pereira."
+        ],
+        "365": [
+            1372.0,
+            1374.0,
+            "Este es Bruno Martinsindy."
+        ],
+        "366": [
+            1376.0,
+            1377.0,
+            "Otra vez Rubens."
+        ],
+        "367": [
+            1382.0,
+            1384.0,
+            "Por la banda viene Tello."
+        ],
+        "368": [
+            1385.0,
+            1386.0,
+            "Por la izquierda Christian Tello."
+        ],
+        "369": [
+            1387.0,
+            1388.0,
+            "Por la derecha André."
+        ],
+        "370": [
+            1389.0,
+            1390.0,
+            "Con la pelota Martinsindy."
+        ],
+        "371": [
+            1391.0,
+            1392.0,
+            "Toca precisamente ahora André."
+        ],
+        "372": [
+            1393.0,
+            1394.0,
+            "Pierde la pelota el Porto."
+        ],
+        "373": [
+            1395.0,
+            1396.0,
+            "Este es Pérez."
+        ],
+        "374": [
+            1397.0,
+            1399.0,
+            "Ahí sí va a pitar falta ahora de Evandro."
+        ],
+        "375": [
+            1405.0,
+            1406.0,
+            "Vuelta a la mitad."
+        ],
+        "376": [
+            1423.0,
+            1426.0,
+            "Hemos superado el minuto 23 de la primera mitad."
+        ],
+        "377": [
+            1436.0,
+            1438.0,
+            "Saca de banda para el Maccabi."
+        ],
+        "378": [
+            1439.0,
+            1440.0,
+            "Ponen en juego Omrib and Arush."
+        ],
+        "379": [
+            1442.0,
+            1443.0,
+            "Zabi."
+        ],
+        "380": [
+            1445.0,
+            1446.0,
+            "Desde la banda juega Vermuz."
+        ],
+        "381": [
+            1447.0,
+            1449.0,
+            "Llega la pelota al centro del campo."
+        ],
+        "382": [
+            1450.0,
+            1451.0,
+            "Buena maniobra ahí de Pérez."
+        ],
+        "383": [
+            1452.0,
+            1453.0,
+            "No lo consigue, sin embargo, conectar con Benahim."
+        ],
+        "384": [
+            1454.0,
+            1455.0,
+            "Saca la pelota el Porto."
+        ],
+        "385": [
+            1456.0,
+            1457.0,
+            "La pelota del Madrid."
+        ],
+        "386": [
+            1458.0,
+            1459.0,
+            "El equipo de la Copa del Mundo."
+        ],
+        "387": [
+            1460.0,
+            1461.0,
+            "La pelota de la Copa del Mundo."
+        ],
+        "388": [
+            1462.0,
+            1463.0,
+            "La pelota de la Copa del Mundo."
+        ],
+        "389": [
+            1463.0,
+            1464.0,
+            "La pelota del Porto."
+        ],
+        "390": [
+            1465.0,
+            1466.0,
+            "Ahí en el centro del campo."
+        ],
+        "391": [
+            1468.0,
+            1469.0,
+            "Danilo para Maxi."
+        ],
+        "392": [
+            1470.0,
+            1471.0,
+            "André."
+        ],
+        "393": [
+            1472.0,
+            1473.0,
+            "Ese balón le queda largo a Danilo."
+        ],
+        "394": [
+            1474.0,
+            1475.0,
+            "Ya lo tiene el Maccabi."
+        ],
+        "395": [
+            1476.0,
+            1477.0,
+            "Toca Albertman."
+        ],
+        "396": [
+            1494.0,
+            1495.0,
+            "La pelota para Pérez."
+        ],
+        "397": [
+            1498.0,
+            1502.0,
+            "Suele adelantarse mucho la defensa del Porto prácticamente hasta el centro del campo."
+        ],
+        "398": [
+            1503.0,
+            1505.0,
+            "Así queda poco espacio para el Maccabi."
+        ],
+        "399": [
+            1506.0,
+            1507.0,
+            "Maxi mete un centro al área."
+        ],
+        "400": [
+            1508.0,
+            1511.0,
+            "Atención, no va a llegar Abubakar."
+        ],
+        "401": [
+            1512.0,
+            1513.0,
+            "Saki de portería."
+        ],
+        "402": [
+            1515.0,
+            1520.0,
+            "Este chico, Abubakar, el delantero centro del Porto."
+        ],
+        "403": [
+            1523.0,
+            1529.0,
+            "Camerún es muy corpulento, es alto, mide 1,84 metros."
+        ],
+        "404": [
+            1531.0,
+            1533.0,
+            "Es un futbolista de mucha envergadura."
+        ],
+        "405": [
+            1534.0,
+            1536.0,
+            "Lleva ya tres goles este año en la Champions."
+        ],
+        "406": [
+            1537.0,
+            1539.0,
+            "Saca, Raikovic."
+        ],
+        "407": [
+            1540.0,
+            1542.0,
+            "Va al salto Danilo."
+        ],
+        "408": [
+            1543.0,
+            1545.0,
+            "Al salto de cabeza también Layun."
+        ],
+        "409": [
+            1546.0,
+            1548.0,
+            "De cabeza también André."
+        ],
+        "410": [
+            1549.0,
+            1550.0,
+            "No sé si se ayudó del brazo."
+        ],
+        "411": [
+            1550.0,
+            1553.0,
+            "Le va la pelota al costado a Cristian Tello."
+        ],
+        "412": [
+            1555.0,
+            1557.0,
+            "Avanza lentamente el Porto."
+        ],
+        "413": [
+            1558.0,
+            1560.0,
+            "Un envío largo, no va a llegar Abubakar."
+        ],
+        "414": [
+            1562.0,
+            1565.0,
+            "La juega el portero Raikovic con Ben Arush."
+        ],
+        "415": [
+            1566.0,
+            1569.0,
+            "Tiene que ceder el balón otra vez atrás para el portero."
+        ],
+        "416": [
+            1571.0,
+            1573.0,
+            "Manda el balón Raikovic al centro del campo."
+        ],
+        "417": [
+            1574.0,
+            1575.0,
+            "Intenta llegar."
+        ],
+        "418": [
+            1575.0,
+            1580.0,
+            "André tiene muchos problemas para salir de la zona defensiva."
+        ],
+        "419": [
+            1581.0,
+            1582.0,
+            "El Maccabi."
+        ],
+        "420": [
+            1583.0,
+            1585.0,
+            "Vean cómo presiona el conjunto portugués."
+        ],
+        "421": [
+            1586.0,
+            1587.0,
+            "La pelota para André."
+        ],
+        "422": [
+            1588.0,
+            1589.0,
+            "Este Rubens."
+        ],
+        "423": [
+            1590.0,
+            1591.0,
+            "Juega Martins."
+        ],
+        "424": [
+            1592.0,
+            1594.0,
+            "Se queda cerrando Marcano."
+        ],
+        "425": [
+            1595.0,
+            1597.0,
+            "Marcano y Rubens."
+        ],
+        "426": [
+            1598.0,
+            1601.0,
+            "Marcano ahora con Danilo."
+        ],
+        "427": [
+            1601.0,
+            1603.0,
+            "Rubens para André."
+        ],
+        "428": [
+            1604.0,
+            1605.0,
+            "Por delante Maxi."
+        ],
+        "429": [
+            1606.0,
+            1609.0,
+            "Intercambiando posiciones los jugadores de la banda derecha."
+        ],
+        "430": [
+            1610.0,
+            1611.0,
+            "Maxi y André."
+        ],
+        "431": [
+            1612.0,
+            1614.0,
+            "Retrasa André para Bruno Martins."
+        ],
+        "432": [
+            1615.0,
+            1616.0,
+            "Indy."
+        ],
+        "433": [
+            1617.0,
+            1618.0,
+            "Marcano."
+        ],
+        "434": [
+            1619.0,
+            1620.0,
+            "Danilo."
+        ],
+        "435": [
+            1622.0,
+            1625.0,
+            "Marcano y Danilo deciden avanzar poco a poco."
+        ],
+        "436": [
+            1626.0,
+            1627.0,
+            "Apertura al costado."
+        ],
+        "437": [
+            1628.0,
+            1629.0,
+            "Le llega Layun."
+        ],
+        "438": [
+            1629.0,
+            1632.0,
+            "Miguel Layun, el mexicano, intentando encarar la defensa."
+        ],
+        "439": [
+            1633.0,
+            1634.0,
+            "Atención que se va hasta el fondo."
+        ],
+        "440": [
+            1635.0,
+            1636.0,
+            "Centro peligroso."
+        ],
+        "441": [
+            1637.0,
+            1638.0,
+            "Corre el portero para evitar el córner."
+        ],
+        "442": [
+            1640.0,
+            1642.0,
+            "No estuvo mal esta jugada."
+        ],
+        "443": [
+            1643.0,
+            1644.0,
+            "El ataque del Porto."
+        ],
+        "444": [
+            1645.0,
+            1647.0,
+            "Con una acción determinante."
+        ],
+        "445": [
+            1648.0,
+            1650.0,
+            "De Miguel Layun en la banda izquierda."
+        ],
+        "446": [
+            1653.0,
+            1658.0,
+            "Tiene jugadores de calidad en las bandas el Porto."
+        ],
+        "447": [
+            1659.0,
+            1661.0,
+            "Layun y Tello por la izquierda."
+        ],
+        "448": [
+            1662.0,
+            1664.0,
+            "Maxi Pereira y André por la derecha."
+        ],
+        "449": [
+            1665.0,
+            1668.0,
+            "Ya ven que carga mucho el juego por fuera del Porto."
+        ],
+        "450": [
+            1669.0,
+            1672.0,
+            "Atención a esta jugada del ataque del Maccabi."
+        ],
+        "451": [
+            1673.0,
+            1674.0,
+            "Lleva la pelota Benahim."
+        ],
+        "452": [
+            1675.0,
+            1677.0,
+            "Meto un centro. No hay nadie que llegue al remate."
+        ],
+        "453": [
+            1678.0,
+            1679.0,
+            "Ahora sí corre el lateral."
+        ],
+        "454": [
+            1680.0,
+            1681.0,
+            "Pérez."
+        ],
+        "455": [
+            1682.0,
+            1684.0,
+            "Mejor dicho, lateral no, porque es centrocampista."
+        ],
+        "456": [
+            1685.0,
+            1687.0,
+            "Situado en el lateral del campo ahora."
+        ],
+        "457": [
+            1687.0,
+            1688.0,
+            "Perez."
+        ],
+        "458": [
+            1693.0,
+            1695.0,
+            "Juega por la banda izquierda Pérez."
+        ],
+        "459": [
+            1696.0,
+            1697.0,
+            "Igual que Hilbert Muth."
+        ],
+        "460": [
+            1698.0,
+            1699.0,
+            "El extremo del Maccabi."
+        ],
+        "461": [
+            1708.0,
+            1710.0,
+            "Estamos llegando al minuto 29."
+        ],
+        "462": [
+            1711.0,
+            1712.0,
+            "De la primera parte."
+        ],
+        "463": [
+            1713.0,
+            1714.0,
+            "Hay un balón ahí."
+        ],
+        "464": [
+            1715.0,
+            1716.0,
+            "Al que no llega Layun."
+        ],
+        "465": [
+            1717.0,
+            1719.0,
+            "Ha llegado el central."
+        ],
+        "466": [
+            1720.0,
+            1722.0,
+            "Que se ha cruzado a tiempo."
+        ],
+        "467": [
+            1724.0,
+            1725.0,
+            "Con la pelota Martins."
+        ],
+        "468": [
+            1726.0,
+            1727.0,
+            "Danilo."
+        ],
+        "469": [
+            1730.0,
+            1731.0,
+            "Juega con Miguel Layun."
+        ],
+        "470": [
+            1732.0,
+            1734.0,
+            "Va muy tranquilo del Porto."
+        ],
+        "471": [
+            1737.0,
+            1739.0,
+            "Haciendo su juego el cuadro portugués."
+        ],
+        "472": [
+            1741.0,
+            1743.0,
+            "Sin demasiados problemas frente al Maccabi."
+        ],
+        "473": [
+            1743.0,
+            1745.0,
+            "Aún así recuerden, hay un tiro a puerta."
+        ],
+        "474": [
+            1746.0,
+            1747.0,
+            "Del conjunto de Israeli."
+        ],
+        "475": [
+            1750.0,
+            1752.0,
+            "De momento una buena intervención de Casillas."
+        ],
+        "476": [
+            1757.0,
+            1759.0,
+            "Ha robado una pelota a Bermos."
+        ],
+        "477": [
+            1760.0,
+            1761.0,
+            "Ahí no pita falta el árbitro."
+        ],
+        "478": [
+            1763.0,
+            1765.0,
+            "Se ha quedado en el suelo Hilbert Muth."
+        ],
+        "479": [
+            1766.0,
+            1768.0,
+            "Juega la pelota Boubacar. Fuera de juego."
+        ],
+        "480": [
+            1774.0,
+            1776.0,
+            "Se va a cumplir el minuto 30."
+        ],
+        "481": [
+            1779.0,
+            1780.0,
+            "Estamos en el primer tiempo."
+        ],
+        "482": [
+            1781.0,
+            1782.0,
+            "Gana el Porto."
+        ],
+        "483": [
+            1784.0,
+            1785.0,
+            "La pelota la juega Boubacar."
+        ],
+        "484": [
+            1786.0,
+            1787.0,
+            "Retrasa Tello."
+        ],
+        "485": [
+            1788.0,
+            1790.0,
+            "Ahora tendrá que ir a la parte de atrás."
+        ],
+        "486": [
+            1791.0,
+            1792.0,
+            "La pelota de la izquierda."
+        ],
+        "487": [
+            1793.0,
+            1794.0,
+            "La pelota de la derecha."
+        ],
+        "488": [
+            1795.0,
+            1796.0,
+            "La pelota de la izquierda."
+        ],
+        "489": [
+            1797.0,
+            1798.0,
+            "La pelota de la derecha."
+        ],
+        "490": [
+            1799.0,
+            1800.0,
+            "La pelota de la izquierda."
+        ],
+        "491": [
+            1800.0,
+            1801.0,
+            "Retrasa Tello."
+        ],
+        "492": [
+            1802.0,
+            1804.0,
+            "Ahora Tello extremo derecho."
+        ],
+        "493": [
+            1805.0,
+            1806.0,
+            "André hacia la izquierda."
+        ],
+        "494": [
+            1807.0,
+            1810.0,
+            "André ahora sin embargo, desde dentro juega para el Ayun."
+        ],
+        "495": [
+            1811.0,
+            1813.0,
+            "Ya se va la banda para recibir a André."
+        ],
+        "496": [
+            1814.0,
+            1815.0,
+            "Cae el Ayun. Faltan."
+        ],
+        "497": [
+            1822.0,
+            1823.0,
+            "Falta de Tibi."
+        ],
+        "498": [
+            1826.0,
+            1827.0,
+            "La verdad es que le pisa."
+        ],
+        "499": [
+            1827.0,
+            1831.0,
+            "Tibi pisa a Miguel Ayun."
+        ],
+        "500": [
+            1833.0,
+            1834.0,
+            "Es falta a favor del Porto."
+        ],
+        "501": [
+            1845.0,
+            1848.0,
+            "Jugada peligrosa contra la portería que defiende Raikovic."
+        ],
+        "502": [
+            1858.0,
+            1861.0,
+            "El portero está colocando a la barrera."
+        ],
+        "503": [
+            1863.0,
+            1867.0,
+            "La falta la va a lanzar el propio Ayun."
+        ],
+        "504": [
+            1867.0,
+            1887.0,
+            "Vamos a ver esta jugada de estrategia del Porto."
+        ],
+        "505": [
+            1888.0,
+            1889.0,
+            "El balón colgado al área."
+        ],
+        "506": [
+            1890.0,
+            1892.0,
+            "El remate que lo intenta efectuar Marcano."
+        ],
+        "507": [
+            1893.0,
+            1895.0,
+            "Atención que le cae la pelota a Boubacar."
+        ],
+        "508": [
+            1896.0,
+            1898.0,
+            "Acerrado viene el Maccabi."
+        ],
+        "509": [
+            1899.0,
+            1901.0,
+            "André se la lleva a la banda."
+        ],
+        "510": [
+            1902.0,
+            1903.0,
+            "Toca André."
+        ],
+        "511": [
+            1904.0,
+            1905.0,
+            "Hay una caída en el área, nada que decir."
+        ],
+        "512": [
+            1906.0,
+            1907.0,
+            "Por fin logra despejar la defensa del Maccabi."
+        ],
+        "513": [
+            1908.0,
+            1909.0,
+            "Atracción al contraataque del cuadro israelí."
+        ],
+        "514": [
+            1912.0,
+            1913.0,
+            "Con la pelota juega Zahavi."
+        ],
+        "515": [
+            1915.0,
+            1916.0,
+            "Por la banda Benahim."
+        ],
+        "516": [
+            1919.0,
+            1921.0,
+            "Ya se incorpora también al ataque Albertman."
+        ],
+        "517": [
+            1922.0,
+            1923.0,
+            "Error ahí en ese pase."
+        ],
+        "518": [
+            1923.0,
+            1924.0,
+            "Decepción entre la hinchada."
+        ],
+        "519": [
+            1925.0,
+            1926.0,
+            "No ha podido seguir Benahim."
+        ],
+        "520": [
+            1940.0,
+            1941.0,
+            "Ha pitado el árbitro."
+        ],
+        "521": [
+            1942.0,
+            1943.0,
+            "Ahí se detiene el partido."
+        ],
+        "522": [
+            1944.0,
+            1945.0,
+            "Estamos en el 32."
+        ],
+        "523": [
+            1946.0,
+            1947.0,
+            "La pelota para el Maccabi."
+        ],
+        "524": [
+            1948.0,
+            1949.0,
+            "La juega Benahim primero."
+        ],
+        "525": [
+            1949.0,
+            1950.0,
+            "Debe en la banda Benahim."
+        ],
+        "526": [
+            1951.0,
+            1952.0,
+            "No le llega la pelota a Zahavi."
+        ],
+        "527": [
+            1954.0,
+            1955.0,
+            "Ahí una ofensión atrás."
+        ],
+        "528": [
+            1956.0,
+            1957.0,
+            "Despeja a Casillas."
+        ],
+        "529": [
+            1968.0,
+            1969.0,
+            "Ha marcado el Porto en el minuto 19."
+        ],
+        "530": [
+            1970.0,
+            1971.0,
+            "Antes ya había tenido alguna opción."
+        ],
+        "531": [
+            1972.0,
+            1973.0,
+            "El cuadro portugués."
+        ],
+        "532": [
+            1975.0,
+            1976.0,
+            "Que de momento está consiguiendo la victoria."
+        ],
+        "533": [
+            1977.0,
+            1978.0,
+            "En Israel."
+        ],
+        "534": [
+            1979.0,
+            1980.0,
+            "Saca la Jun."
+        ],
+        "535": [
+            1981.0,
+            1982.0,
+            "Saltó a Boubacar."
+        ],
+        "536": [
+            1983.0,
+            1984.0,
+            "Lleva ventaja ahí el defensa."
+        ],
+        "537": [
+            1985.0,
+            1986.0,
+            "Obsesión de Carlos García para Raikovic."
+        ],
+        "538": [
+            1992.0,
+            1993.0,
+            "La juega el portero del Maccabi."
+        ],
+        "539": [
+            1996.0,
+            1997.0,
+            "Intenta llegar a la pelota Martin Tzendi."
+        ],
+        "540": [
+            1998.0,
+            1999.0,
+            "Toca Danilo."
+        ],
+        "541": [
+            2001.0,
+            2002.0,
+            "Con el balón Marcano."
+        ],
+        "542": [
+            2007.0,
+            2008.0,
+            "Ahí en el centro del campo."
+        ],
+        "543": [
+            2009.0,
+            2010.0,
+            "La ventaja es para el Porto."
+        ],
+        "544": [
+            2013.0,
+            2014.0,
+            "Atención ese pase."
+        ],
+        "545": [
+            2015.0,
+            2016.0,
+            "Muy bueno puede llegar Tello."
+        ],
+        "546": [
+            2017.0,
+            2018.0,
+            "Se va a meter en el área."
+        ],
+        "547": [
+            2019.0,
+            2020.0,
+            "Atención que puede hacer gol."
+        ],
+        "548": [
+            2021.0,
+            2022.0,
+            "Madre mía."
+        ],
+        "549": [
+            2023.0,
+            2024.0,
+            "Que opción tan clara de gol ha tenido ahí"
+        ],
+        "550": [
+            2025.0,
+            2026.0,
+            "el delantero del Porto."
+        ],
+        "551": [
+            2027.0,
+            2028.0,
+            "Vincent a Boubacar."
+        ],
+        "552": [
+            2029.0,
+            2030.0,
+            "Vamos a ver la repetición."
+        ],
+        "553": [
+            2031.0,
+            2032.0,
+            "El pase es fantástico."
+        ],
+        "554": [
+            2033.0,
+            2034.0,
+            "No hay fuera de juego."
+        ],
+        "555": [
+            2035.0,
+            2036.0,
+            "Pero el remate de Boubacar"
+        ],
+        "556": [
+            2037.0,
+            2038.0,
+            "no entra de forma incomprensible."
+        ],
+        "557": [
+            2039.0,
+            2040.0,
+            "Otra repetición más."
+        ],
+        "558": [
+            2041.0,
+            2042.0,
+            "Y ahí el remate"
+        ],
+        "559": [
+            2043.0,
+            2044.0,
+            "de Boubacar que se le va fuera."
+        ],
+        "560": [
+            2046.0,
+            2047.0,
+            "Otra toma de la jugada."
+        ],
+        "561": [
+            2048.0,
+            2049.0,
+            "El pase de Tello."
+        ],
+        "562": [
+            2050.0,
+            2051.0,
+            "Y el remate de Vincent."
+        ],
+        "563": [
+            2052.0,
+            2053.0,
+            "A Boubacar."
+        ],
+        "564": [
+            2055.0,
+            2056.0,
+            "Al palo."
+        ],
+        "565": [
+            2057.0,
+            2058.0,
+            "Cuando ya se cantaba gol."
+        ],
+        "566": [
+            2058.0,
+            2060.0,
+            "Segunda opción de gol para Boubacar."
+        ],
+        "567": [
+            2072.0,
+            2074.0,
+            "Vamos a llegar al minuto 35."
+        ],
+        "568": [
+            2079.0,
+            2080.0,
+            "Un pase en profundidad."
+        ],
+        "569": [
+            2083.0,
+            2084.0,
+            "Será Körner"
+        ],
+        "570": [
+            2085.0,
+            2086.0,
+            "a echar el gol."
+        ],
+        "571": [
+            2086.0,
+            2087.0,
+            "La pelota fuera a Carlos García."
+        ],
+        "572": [
+            2106.0,
+            2108.0,
+            "Saque de esquina para el Porto."
+        ],
+        "573": [
+            2116.0,
+            2117.0,
+            "Lanzará el Körner."
+        ],
+        "574": [
+            2118.0,
+            2119.0,
+            "Rubén Neves."
+        ],
+        "575": [
+            2121.0,
+            2122.0,
+            "Nadie puede rematar a la primera."
+        ],
+        "576": [
+            2123.0,
+            2124.0,
+            "A ver a la segunda."
+        ],
+        "577": [
+            2125.0,
+            2126.0,
+            "Ahí no hay fuera de juego."
+        ],
+        "578": [
+            2127.0,
+            2128.0,
+            "Ha perdido la pelota Marcano."
+        ],
+        "579": [
+            2129.0,
+            2130.0,
+            "Ya se la lleva el Maccabi."
+        ],
+        "580": [
+            2147.0,
+            2148.0,
+            "Quedan 10 minutos para el descanso."
+        ],
+        "581": [
+            2159.0,
+            2160.0,
+            "Se va la pelota al costado."
+        ],
+        "582": [
+            2161.0,
+            2162.0,
+            "Donde está Zahavi, el delantero centro."
+        ],
+        "583": [
+            2163.0,
+            2164.0,
+            "Eran Zahavi,"
+        ],
+        "584": [
+            2165.0,
+            2166.0,
+            "con Bermuz."
+        ],
+        "585": [
+            2167.0,
+            2168.0,
+            "Después de un par de rebotes,"
+        ],
+        "586": [
+            2169.0,
+            2170.0,
+            "ahí aparecía también Benahim."
+        ],
+        "587": [
+            2171.0,
+            2172.0,
+            "Trataba de llegar el Maccabi"
+        ],
+        "588": [
+            2173.0,
+            2174.0,
+            "hasta con tres jugadores"
+        ],
+        "589": [
+            2174.0,
+            2175.0,
+            "al área del Porto."
+        ],
+        "590": [
+            2176.0,
+            2177.0,
+            "La pelota cae en el círculo central."
+        ],
+        "591": [
+            2178.0,
+            2180.0,
+            "Allí pone orden el cuadro portugués."
+        ],
+        "592": [
+            2181.0,
+            2182.0,
+            "Rubén."
+        ],
+        "593": [
+            2183.0,
+            2184.0,
+            "André por la banda."
+        ],
+        "594": [
+            2185.0,
+            2186.0,
+            "Ya tiene la pelota."
+        ],
+        "595": [
+            2187.0,
+            2188.0,
+            "El extremo derecho va a centrar."
+        ],
+        "596": [
+            2189.0,
+            2190.0,
+            "De momento, sin embargo, se lo piensa."
+        ],
+        "597": [
+            2191.0,
+            2192.0,
+            "Toca en corto para Rubén."
+        ],
+        "598": [
+            2193.0,
+            2194.0,
+            "Se anticipa inicialmente Benahim."
+        ],
+        "599": [
+            2195.0,
+            2196.0,
+            "Vuelve a recuperar la pelota del Porto."
+        ],
+        "600": [
+            2197.0,
+            2198.0,
+            "No hay huecos por ahí."
+        ],
+        "601": [
+            2199.0,
+            2200.0,
+            "Y ahora despeja Carlos García."
+        ],
+        "602": [
+            2201.0,
+            2202.0,
+            "El español envió la pelota al centro del campo."
+        ],
+        "603": [
+            2205.0,
+            2206.0,
+            "Otra vez el ataque."
+        ],
+        "604": [
+            2207.0,
+            2208.0,
+            "El Porto se echa adelante."
+        ],
+        "605": [
+            2209.0,
+            2210.0,
+            "La defensa del Maccabi."
+        ],
+        "606": [
+            2211.0,
+            2212.0,
+            "Recibe André."
+        ],
+        "607": [
+            2213.0,
+            2214.0,
+            "Se la quitó Benarús."
+        ],
+        "608": [
+            2215.0,
+            2216.0,
+            "Saque de banda."
+        ],
+        "609": [
+            2217.0,
+            2218.0,
+            "Balón para el Porto."
+        ],
+        "610": [
+            2227.0,
+            2228.0,
+            "Va a sacar Maxi Pereira."
+        ],
+        "611": [
+            2230.0,
+            2231.0,
+            "Le llega la pelota a Danilo."
+        ],
+        "612": [
+            2232.0,
+            2233.0,
+            "La pone en el área Danilo."
+        ],
+        "613": [
+            2234.0,
+            2235.0,
+            "Ha saltado Rajkovic."
+        ],
+        "614": [
+            2236.0,
+            2238.0,
+            "La ha cogido antes de que rematara a Boubacar."
+        ],
+        "615": [
+            2243.0,
+            2244.0,
+            "La tiene Carlos García."
+        ],
+        "616": [
+            2246.0,
+            2247.0,
+            "Este es un chico que lleva ya"
+        ],
+        "617": [
+            2248.0,
+            2250.0,
+            "tres años en el Maccabi."
+        ],
+        "618": [
+            2251.0,
+            2252.0,
+            "Estuvo antes jugando en Almería."
+        ],
+        "619": [
+            2253.0,
+            2254.0,
+            "En el Betis."
+        ],
+        "620": [
+            2256.0,
+            2258.0,
+            "Futbolista formado en las categorías inferiores"
+        ],
+        "621": [
+            2259.0,
+            2260.0,
+            "del equipo."
+        ],
+        "622": [
+            2261.0,
+            2262.0,
+            "Del español."
+        ],
+        "623": [
+            2275.0,
+            2276.0,
+            "Con la pelota Danilo."
+        ],
+        "624": [
+            2277.0,
+            2279.0,
+            "Juega para Rubens Neves."
+        ],
+        "625": [
+            2282.0,
+            2283.0,
+            "A Boubacar."
+        ],
+        "626": [
+            2284.0,
+            2285.0,
+            "Espera arriba."
+        ],
+        "627": [
+            2286.0,
+            2287.0,
+            "Mientras."
+        ],
+        "628": [
+            2288.0,
+            2289.0,
+            "Desde atrás Marcano."
+        ],
+        "629": [
+            2289.0,
+            2290.0,
+            "Para Danilo."
+        ],
+        "630": [
+            2291.0,
+            2292.0,
+            "Danilo para André."
+        ],
+        "631": [
+            2293.0,
+            2294.0,
+            "La defensa del Maccabi."
+        ],
+        "632": [
+            2295.0,
+            2296.0,
+            "Muy adelantada."
+        ],
+        "633": [
+            2297.0,
+            2298.0,
+            "Recibe la pelota Maxi."
+        ],
+        "634": [
+            2299.0,
+            2300.0,
+            "Va a centrar."
+        ],
+        "635": [
+            2301.0,
+            2302.0,
+            "Se va afuera."
+        ],
+        "636": [
+            2303.0,
+            2304.0,
+            "Corner para el Porto."
+        ],
+        "637": [
+            2316.0,
+            2317.0,
+            "Saque de esquina."
+        ],
+        "638": [
+            2319.0,
+            2321.0,
+            "Saque de esquina para el Porto."
+        ],
+        "639": [
+            2322.0,
+            2323.0,
+            "Está dominando el partido."
+        ],
+        "640": [
+            2327.0,
+            2328.0,
+            "Atención al centro de Rubens."
+        ],
+        "641": [
+            2329.0,
+            2330.0,
+            "La pelota al área."
+        ],
+        "642": [
+            2331.0,
+            2332.0,
+            "Nadie llega al remate."
+        ],
+        "643": [
+            2333.0,
+            2335.0,
+            "Ahí en la segunda línea la pelota le va a Christian Tello."
+        ],
+        "644": [
+            2336.0,
+            2338.0,
+            "El central Marcano la cuelga al área."
+        ],
+        "645": [
+            2339.0,
+            2341.0,
+            "Intenta sacarla ya el Maccabi."
+        ],
+        "646": [
+            2343.0,
+            2346.0,
+            "Finalmente Rican la envía al centro del campo."
+        ],
+        "647": [
+            2347.0,
+            2348.0,
+            "Este es Zahavi."
+        ],
+        "648": [
+            2350.0,
+            2352.0,
+            "Va saliendo en bloque el Maccabi."
+        ],
+        "649": [
+            2353.0,
+            2354.0,
+            "Pérez para Bermos."
+        ],
+        "650": [
+            2356.0,
+            2357.0,
+            "Le dobla Ben Arush."
+        ],
+        "651": [
+            2359.0,
+            2361.0,
+            "Se va Gil Bermos hacia adentro."
+        ],
+        "652": [
+            2362.0,
+            2363.0,
+            "Este es Dor Peretz."
+        ],
+        "653": [
+            2365.0,
+            2367.0,
+            "Retrasó Albertman."
+        ],
+        "654": [
+            2368.0,
+            2369.0,
+            "Carlos García."
+        ],
+        "655": [
+            2371.0,
+            2372.0,
+            "En la banda esperaba"
+        ],
+        "656": [
+            2373.0,
+            2374.0,
+            "Pérez."
+        ],
+        "657": [
+            2375.0,
+            2377.0,
+            "Saque lateral de banda para el Maccabi."
+        ],
+        "658": [
+            2377.0,
+            2379.0,
+            "Puede ganar rápido con la idea de llegar al fondo."
+        ],
+        "659": [
+            2380.0,
+            2381.0,
+            "Se repliega el Porto."
+        ],
+        "660": [
+            2382.0,
+            2383.0,
+            "Despieja Martins."
+        ],
+        "661": [
+            2386.0,
+            2387.0,
+            "Ha picado falta ahí el árbitro."
+        ],
+        "662": [
+            2390.0,
+            2393.0,
+            "Cuando vamos a entrar ya en los últimos cinco minutos"
+        ],
+        "663": [
+            2395.0,
+            2396.0,
+            "de la primera parte."
+        ],
+        "664": [
+            2408.0,
+            2410.0,
+            "Juega la pelota el Porto."
+        ],
+        "665": [
+            2416.0,
+            2417.0,
+            "Ahí la tiene Martins."
+        ],
+        "666": [
+            2419.0,
+            2420.0,
+            "Está muy solo Tello."
+        ],
+        "667": [
+            2421.0,
+            2423.0,
+            "Viene desde la banda intentando encarar Christian Tello."
+        ],
+        "668": [
+            2424.0,
+            2425.0,
+            "Atención que se va."
+        ],
+        "669": [
+            2426.0,
+            2427.0,
+            "El centro será Corner."
+        ],
+        "670": [
+            2428.0,
+            2430.0,
+            "Muy buen recorte de Christian Tello ahí en la banda."
+        ],
+        "671": [
+            2431.0,
+            2432.0,
+            "Consiguió superar"
+        ],
+        "672": [
+            2434.0,
+            2435.0,
+            "la marca del día."
+        ],
+        "673": [
+            2436.0,
+            2437.0,
+            "La marca del Defensa."
+        ],
+        "674": [
+            2438.0,
+            2439.0,
+            "Vamos a ver la repetición."
+        ],
+        "675": [
+            2440.0,
+            2441.0,
+            "Ahí controla bien Christian Tello."
+        ],
+        "676": [
+            2443.0,
+            2444.0,
+            "Se va."
+        ],
+        "677": [
+            2445.0,
+            2446.0,
+            "Pero nadie llega al remate."
+        ],
+        "678": [
+            2449.0,
+            2450.0,
+            "Otra vez Corner."
+        ],
+        "679": [
+            2452.0,
+            2453.0,
+            "Para el Porto."
+        ],
+        "680": [
+            2457.0,
+            2458.0,
+            "Cinco para el descanso."
+        ],
+        "681": [
+            2461.0,
+            2463.0,
+            "Como siempre, lanza el Corner Rubens Neves."
+        ],
+        "682": [
+            2465.0,
+            2466.0,
+            "La pelota la juega Maxi Pereira."
+        ],
+        "683": [
+            2467.0,
+            2468.0,
+            "Se la quiere devolver al capitán."
+        ],
+        "684": [
+            2469.0,
+            2471.0,
+            "Va al cruce para despejar."
+        ],
+        "685": [
+            2476.0,
+            2477.0,
+            "Benahim."
+        ],
+        "686": [
+            2478.0,
+            2479.0,
+            "La pelota vuelve al eje de la defensa del Porto."
+        ],
+        "687": [
+            2482.0,
+            2483.0,
+            "Marcano."
+        ],
+        "688": [
+            2489.0,
+            2490.0,
+            "Juega André."
+        ],
+        "689": [
+            2492.0,
+            2494.0,
+            "Se incorpora una vez más al ataque Maxi Pereira."
+        ],
+        "690": [
+            2495.0,
+            2497.0,
+            "La pone por arriba para ver si puede llegar"
+        ],
+        "691": [
+            2498.0,
+            2500.0,
+            "Evandro Esfalta sobre el brasileño."
+        ],
+        "692": [
+            2504.0,
+            2506.0,
+            "Le van a sacar una tarjeta al lateral Benarús."
+        ],
+        "693": [
+            2507.0,
+            2508.0,
+            "Omri Benarús"
+        ],
+        "694": [
+            2509.0,
+            2510.0,
+            "por la"
+        ],
+        "695": [
+            2512.0,
+            2514.0,
+            "jugada con Evandro."
+        ],
+        "696": [
+            2515.0,
+            2517.0,
+            "La primera tarjeta que muestra el árbitro griego"
+        ],
+        "697": [
+            2519.0,
+            2520.0,
+            "para Omri Benarús."
+        ],
+        "698": [
+            2526.0,
+            2527.0,
+            "Superado el lateral."
+        ],
+        "699": [
+            2528.0,
+            2529.0,
+            "Acaba derribando"
+        ],
+        "700": [
+            2530.0,
+            2531.0,
+            "al brasileño."
+        ],
+        "701": [
+            2540.0,
+            2542.0,
+            "Falta muy peligrosa contra la portería del Maccabi."
+        ],
+        "702": [
+            2543.0,
+            2545.0,
+            "Falta que va a lanzar Rubens Neves."
+        ],
+        "703": [
+            2548.0,
+            2550.0,
+            "Ahí está el centrocampista del Porto."
+        ],
+        "704": [
+            2556.0,
+            2558.0,
+            "Va a lanzar ya Rubens Neves."
+        ],
+        "705": [
+            2559.0,
+            2560.0,
+            "Pone la pelota en el área."
+        ],
+        "706": [
+            2561.0,
+            2563.0,
+            "Recién llegaba Valiente metiendo la cabeza ahí de Anilo"
+        ],
+        "707": [
+            2564.0,
+            2565.0,
+            "entre un montón de piernas."
+        ],
+        "708": [
+            2566.0,
+            2567.0,
+            "Sigue la jugada de ataque."
+        ],
+        "709": [
+            2568.0,
+            2569.0,
+            "Será de nuevo"
+        ],
+        "710": [
+            2570.0,
+            2571.0,
+            "Körner."
+        ],
+        "711": [
+            2578.0,
+            2579.0,
+            "Saque de esquina"
+        ],
+        "712": [
+            2580.0,
+            2581.0,
+            "para el Porto."
+        ],
+        "713": [
+            2583.0,
+            2584.0,
+            "Está en el área."
+        ],
+        "714": [
+            2585.0,
+            2587.0,
+            "Estamos en los últimos compases del primer tiempo."
+        ],
+        "715": [
+            2589.0,
+            2591.0,
+            "Martins va a lanzar el Körner."
+        ],
+        "716": [
+            2593.0,
+            2594.0,
+            "Allá va el envío."
+        ],
+        "717": [
+            2595.0,
+            2596.0,
+            "Atracción al remate de Evandro."
+        ],
+        "718": [
+            2597.0,
+            2599.0,
+            "Salvo bajo palos el defensa del Maccabi."
+        ],
+        "719": [
+            2607.0,
+            2610.0,
+            "Ha tenido otra opción para hacer gol el Maccabi."
+        ],
+        "720": [
+            2616.0,
+            2619.0,
+            "Saque de banda finalmente para el conjunto portugués."
+        ],
+        "721": [
+            2620.0,
+            2622.0,
+            "Maxi envía la pelota al área."
+        ],
+        "722": [
+            2623.0,
+            2624.0,
+            "Nadie llega al remate."
+        ],
+        "723": [
+            2626.0,
+            2628.0,
+            "Ahí en la segunda línea recoge la pelota Rubens."
+        ],
+        "724": [
+            2631.0,
+            2632.0,
+            "La recupera el Maccabi."
+        ],
+        "725": [
+            2633.0,
+            2635.0,
+            "Últimas jugadas del primer tiempo."
+        ],
+        "726": [
+            2636.0,
+            2638.0,
+            "Ahí no estuvo rápido el centrocampista"
+        ],
+        "727": [
+            2639.0,
+            2640.0,
+            "del cuadro de Raeli."
+        ],
+        "728": [
+            2641.0,
+            2643.0,
+            "Maxi con la pelota va a ceder atrás."
+        ],
+        "729": [
+            2643.0,
+            2644.0,
+            "Pone orden"
+        ],
+        "730": [
+            2645.0,
+            2647.0,
+            "el cuadro blanquiazul."
+        ],
+        "731": [
+            2648.0,
+            2649.0,
+            "Juega Evandro."
+        ],
+        "732": [
+            2650.0,
+            2651.0,
+            "Maxi."
+        ],
+        "733": [
+            2658.0,
+            2661.0,
+            "Tiene el partido bastante bien controlado el Porto"
+        ],
+        "734": [
+            2662.0,
+            2663.0,
+            "en esta primera mitad."
+        ],
+        "735": [
+            2664.0,
+            2666.0,
+            "Hasta cuatro remates a puerta del Porto."
+        ],
+        "736": [
+            2667.0,
+            2668.0,
+            "Solo uno del Maccabi."
+        ],
+        "737": [
+            2669.0,
+            2670.0,
+            "El tiro que se ha hecho"
+        ],
+        "738": [
+            2670.0,
+            2671.0,
+            "para Casillas."
+        ],
+        "739": [
+            2672.0,
+            2673.0,
+            "Un tiro cruzado."
+        ],
+        "740": [
+            2676.0,
+            2677.0,
+            "Mejor el Porto."
+        ],
+        "741": [
+            2679.0,
+            2681.0,
+            "Ha tenido más la pelota en esta primera parte."
+        ],
+        "742": [
+            2682.0,
+            2683.0,
+            "Ha dominado"
+        ],
+        "743": [
+            2684.0,
+            2685.0,
+            "más tiempo."
+        ],
+        "744": [
+            2686.0,
+            2688.0,
+            "Ha creado más jugadas de peligro."
+        ],
+        "745": [
+            2689.0,
+            2691.0,
+            "Lo más importante, ha conseguido un gol y el Maccabi no."
+        ],
+        "746": [
+            2696.0,
+            2697.0,
+            "Saque de banda."
+        ]
+    }
+}

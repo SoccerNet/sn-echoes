@@ -1,0 +1,5044 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            3.0,
+            "The match begins!"
+        ],
+        "1": [
+            4.0,
+            8.0,
+            "37th matchday for Real Madrid and Celta"
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "Today, Celta and Real Madrid play"
+        ],
+        "3": [
+            13.0,
+            16.0,
+            "Cristiano Ronaldo is the first to come on, he's missing"
+        ],
+        "4": [
+            18.0,
+            21.0,
+            "Cristiano Ronaldo is in the back, he's not in the right position"
+        ],
+        "5": [
+            22.0,
+            24.0,
+            "Sergio Ramos is on, he passes the ball to Kroos"
+        ],
+        "6": [
+            25.0,
+            28.0,
+            "Celta are on the top, Benzema is on the middle line to help them get a lead"
+        ],
+        "7": [
+            28.0,
+            32.0,
+            "Cristiano Ronaldo is on, he passes it to Kroos, he's on the line"
+        ],
+        "8": [
+            33.0,
+            36.0,
+            "Benzema is on, he passes the ball to Kroos, he's on the line"
+        ],
+        "9": [
+            37.0,
+            40.0,
+            "Danilo Kroos is on, he's on the line"
+        ],
+        "10": [
+            41.0,
+            44.0,
+            "Real Madrid are on the top, Benzema is on the middle line"
+        ],
+        "11": [
+            45.0,
+            50.0,
+            "Many Celta players were on the right side of Cristiano Ronaldo"
+        ],
+        "12": [
+            50.0,
+            55.0,
+            "Cristiano Ronaldo was on the right, Modric was on the left"
+        ],
+        "13": [
+            56.0,
+            59.0,
+            "Danilo Kroos was on the right, he's on the line"
+        ],
+        "14": [
+            60.0,
+            63.0,
+            "Real Madrid are on the top, 50 seconds to go"
+        ],
+        "15": [
+            64.0,
+            67.0,
+            "Celta are on the top, Kroos is on the line"
+        ],
+        "16": [
+            68.0,
+            71.0,
+            "Modric is on, Kroos is on the line"
+        ],
+        "17": [
+            72.0,
+            75.0,
+            "Marcelo is on the line, Celta are on the line"
+        ],
+        "18": [
+            75.0,
+            78.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "19": [
+            79.0,
+            82.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "20": [
+            83.0,
+            86.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "21": [
+            87.0,
+            90.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "22": [
+            91.0,
+            94.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "23": [
+            95.0,
+            98.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "24": [
+            99.0,
+            102.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "25": [
+            102.0,
+            105.0,
+            "Real Madrid are on the top, Cristiano Ronaldo is on the line"
+        ],
+        "26": [
+            106.0,
+            109.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "27": [
+            110.0,
+            113.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "28": [
+            114.0,
+            117.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "29": [
+            118.0,
+            121.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "30": [
+            122.0,
+            125.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "31": [
+            126.0,
+            129.0,
+            "Modric is on the line, he's on the line"
+        ],
+        "32": [
+            129.0,
+            132.0,
+            "Real Madrid are on the line"
+        ],
+        "33": [
+            133.0,
+            136.0,
+            "Real Madrid are on the line"
+        ],
+        "34": [
+            137.0,
+            140.0,
+            "Real Madrid are on the line"
+        ],
+        "35": [
+            141.0,
+            144.0,
+            "Real Madrid are on the line"
+        ],
+        "36": [
+            145.0,
+            148.0,
+            "Real Madrid are on the line"
+        ],
+        "37": [
+            149.0,
+            152.0,
+            "Real Madrid are on the line"
+        ],
+        "38": [
+            153.0,
+            156.0,
+            "Real Madrid are on the line"
+        ],
+        "39": [
+            156.0,
+            159.0,
+            "Real Madrid are on the line"
+        ],
+        "40": [
+            160.0,
+            163.0,
+            "Real Madrid are on the line"
+        ],
+        "41": [
+            164.0,
+            167.0,
+            "Real Madrid are on the line"
+        ],
+        "42": [
+            168.0,
+            171.0,
+            "Real Madrid are on the line"
+        ],
+        "43": [
+            172.0,
+            175.0,
+            "Real Madrid are on the line"
+        ],
+        "44": [
+            176.0,
+            179.0,
+            "Real Madrid are on the line"
+        ],
+        "45": [
+            180.0,
+            183.0,
+            "Real Madrid are on the line"
+        ],
+        "46": [
+            184.0,
+            187.0,
+            "Edgardo Marcucci is on the line"
+        ],
+        "47": [
+            192.0,
+            196.0,
+            "Yago Acma is on the line"
+        ],
+        "48": [
+            197.0,
+            202.0,
+            "Hallcard commentators"
+        ],
+        "49": [
+            202.0,
+            206.0,
+            "Johnny accompanies the ball with his eyes and the throw-in for Celta."
+        ],
+        "50": [
+            206.0,
+            212.0,
+            "For example, Celta is playing at the end with a double pivot and Jozabes in front, clearly it is an even more offensive change for the team."
+        ],
+        "51": [
+            212.0,
+            217.0,
+            "There's Tucu trying to play the ball Pablo Hernández, he goes in, go away, a good ball for Aguirre,"
+        ],
+        "52": [
+            217.0,
+            222.0,
+            "He throws his back, opens the ball for Llago Aspa, turning to the prone, looks for a pass in front of Sergio Ramos, the one from Camas held on,"
+        ],
+        "53": [
+            222.0,
+            229.0,
+            "He has touched the ball up for Cristiano, Cristiano who cuts in front of Vaz, touches the ball for Cross,"
+        ],
+        "54": [
+            229.0,
+            234.0,
+            "Cross on Sergio Ramos who saved Llago Aspas's tackle, gave the ball to the Croatian,"
+        ],
+        "55": [
+            234.0,
+            241.0,
+            "tries to play long there, Luka Modris anticipated the ball to Cabral and kicked the ball out of the field."
+        ],
+        "56": [
+            241.0,
+            247.0,
+            "Real Madrid is going to take the throw, Isco played, he returns the ball there as Danilo could,"
+        ],
+        "57": [
+            247.0,
+            253.0,
+            "recovers Celta, Sisto plays, Johnny plays behind, the ball reaches Cabral,"
+        ],
+        "58": [
+            253.0,
+            260.0,
+            "plays the ball for Roncaglia, wants to put pressure on Cross, good anticipation from Sergio Ramos for Real Madrid,"
+        ],
+        "59": [
+            260.0,
+            266.0,
+            "anticipating Llago Aspas who covers, he plays the ball for Cristiano, Cristiano gives the ball to Toni Cross,"
+        ],
+        "60": [
+            266.0,
+            272.0,
+            "Cross plays on Casemiro's position, Casemiro holds on to play in man with Marcelo who is looking for a backheel,"
+        ],
+        "61": [
+            272.0,
+            278.0,
+            "Celta definitely takes the ball, Hugo Mayo plays, he takes the ball short, Jodabé, scores the ball,"
+        ],
+        "62": [
+            278.0,
+            284.0,
+            "Too long longer, they applaud him from the bench, throw-in for Real Madrid."
+        ],
+        "63": [
+            284.0,
+            288.0,
+            "Guidetti is asking for pressure from his teammates with gestures."
+        ],
+        "64": [
+            288.0,
+            295.0,
+            "Ball for Real Madrid, Toni Cross is playing there, he opens the ball ahead of Sisto,"
+        ],
+        "65": [
+            295.0,
+            303.0,
+            "The pressure is on Johnny, uncheck Luka Modris, Roncaglia is now with him,"
+        ],
+        "66": [
+            303.0,
+            309.0,
+            "who wants to go out to the crossroads with Ventemá, it's easy for Ventemá, Ventemá's baseline, ball to the far post,"
+        ],
+        "67": [
+            309.0,
+            314.0,
+            "Real Madrid's shot does not arrive, the danger continues for Celta's goal, Marcelo plays, he puts it short,"
+        ],
+        "68": [
+            314.0,
+            320.0,
+            "He manages to clear the defense through Hugo Mayo, hooks it, Lago Aspas receives a foul."
+        ],
+        "69": [
+            320.0,
+            328.0,
+            "Well, a piece of control of Lago Aspas, but very stopped in its first stages, we have been there for 5 minutes,"
+        ],
+        "70": [
+            328.0,
+            330.0,
+            "We are seeing a fairly open match."
+        ],
+        "71": [
+            330.0,
+            332.0,
+            "Windma has unleashed, Max."
+        ],
+        "72": [
+            334.0,
+            342.0,
+            "There is the action of Hugo Mayo who came from the other side to definitively close off Karim Ventemá's attacks."
+        ],
+        "73": [
+            342.0,
+            350.0,
+            "Johnny plays, delivers the ball to Cabral, Cabral opens for Hugo Mayo, the captain has the open lane,"
+        ],
+        "74": [
+            350.0,
+            356.0,
+            "Toni Cross is going to close him there, he has played inside for Lago Aspas, he cannot play with Guidetti because he is offside Hugo Mayo,"
+        ],
+        "75": [
+            356.0,
+            361.0,
+            "and Celta de Vigo lost the ball. Marcelo takes it, Marcelo throwing the diagonal, he has Casemiro in front of him,"
+        ],
+        "76": [
+            361.0,
+            367.0,
+            "He plays it perfectly, Casemiro cuts back, he went to the ground without anything happening, Celta played backwards,"
+        ],
+        "77": [
+            367.0,
+            371.0,
+            "Sergio has the ball, Cabral gives it to him to start from behind."
+        ],
+        "78": [
+            372.0,
+            378.0,
+            "Real Madrid waits, Cabral with Vaz, Vaz for Cabral, opens for captain Hugo Mayo,"
+        ],
+        "79": [
+            379.0,
+            384.0,
+            "Hugo Mayo who plays on the side, Lago Aspas pressured by Marcelo, returned for Hugo Mayo,"
+        ],
+        "80": [
+            384.0,
+            390.0,
+            "Lago Aspas first, Vaz two touches, Guidetti up, returns for Vaz, wants to pressure Karim Benzema,"
+        ],
+        "81": [
+            390.0,
+            395.0,
+            "opening for Cabral, Cabral for Asisto, he has ground, he is going to close there for Madrid,"
+        ],
+        "82": [
+            395.0,
+            401.0,
+            "Luka Modric offers himself short, Jozabed, there goes the unmarking, well, pay attention to Guidetti, there is no offside,"
+        ],
+        "83": [
+            401.0,
+            405.0,
+            "Guidetti on the side of the area, takes the ball back, tries to organize Celta, the ball for Tuco,"
+        ],
+        "84": [
+            405.0,
+            411.0,
+            "He hits an inside ball that is too long, a goal kick for Real Madrid."
+        ],
+        "85": [
+            411.0,
+            419.0,
+            "Well, Celta de Vigo played well, facing good passes, but if what we have seen in the first stages is true,"
+        ],
+        "86": [
+            419.0,
+            425.0,
+            "that Madrid has an easy arrival, not necessarily because Celta de Vigo is doing something tremendously wrong,"
+        ],
+        "87": [
+            425.0,
+            431.0,
+            "But I'm seeing Madrid half the field up, quite affected."
+        ],
+        "88": [
+            431.0,
+            436.0,
+            "Celta is putting pressure on Madrid a little more than vice versa, let's say, when Madrid has it behind,"
+        ],
+        "89": [
+            436.0,
+            439.0,
+            "a little higher pressure, two teams that want the ball, so far a very nice game."
+        ],
+        "90": [
+            440.0,
+            446.0,
+            "It's the Celta who tries to come out from behind with Tuco, handing the ball to Guidetti, Guidetti to Jozabed,"
+        ],
+        "91": [
+            446.0,
+            451.0,
+            "Jozabed the band for Sisto, Sisto has Guidetti short, returns for Sisto,"
+        ],
+        "92": [
+            451.0,
+            456.0,
+            "Madrid defends behind the line of the ball with all its forces."
+        ],
+        "93": [
+            456.0,
+            461.0,
+            "The ball goes to Roncaglia, Roncaglia cuts in on Isco, he is going to play up front, he has put his leg into Casemiro,"
+        ],
+        "94": [
+            461.0,
+            466.0,
+            "is loose, Diego Aspas picks it up again, puts a ball for Guidetti, has Sisto, plays towards Sisto,"
+        ],
+        "95": [
+            467.0,
+            471.0,
+            "Jhonny appears from the side, Jhonny who is going to put the center, plays short on the peak of the area,"
+        ],
+        "96": [
+            471.0,
+            476.0,
+            "Sisto pioneers the shot, hits the ball at Luka Modric, Danilo takes it with a header, Toni Kroos has it,"
+        ],
+        "97": [
+            476.0,
+            483.0,
+            "He plays it with the outside so that he puts the ball into play on the left side, Isco comes with speed,"
+        ],
+        "98": [
+            483.0,
+            488.0,
+            "he puts the ball in for Karim Benzema, Cristiano Ronaldo communicates a solution above, Isco is already approaching,"
+        ],
+        "99": [
+            488.0,
+            491.0,
+            "There weren't too many options or passing lanes."
+        ],
+        "100": [
+            491.0,
+            496.0,
+            "Sergio takes the ball, hits the ball high, looking for Diego Aspas with his head, he wanted to play with Guidetti,"
+        ],
+        "101": [
+            496.0,
+            502.0,
+            "It was long, Danilo has it, and ahead of Danilo, Luka Modric, the Croatian gets ready, Casemiro receives,"
+        ],
+        "102": [
+            502.0,
+            508.0,
+            "Casemiro who turns around, has Aspas in front of him, complicating his life, behind for the captain,"
+        ],
+        "103": [
+            508.0,
+            514.0,
+            "Sergio Ramos plays, Isco tells him on the left, Marcelo comes, Marcelo picks up the ball and returns it back"
+        ],
+        "104": [
+            514.0,
+            520.0,
+            "on Toni Kroos, Kroos ahead of Jozabed, bad delivery, he cut the ball again at Celta,"
+        ],
+        "105": [
+            520.0,
+            525.0,
+            "Guidetti takes it, he makes a little mess but resolves it by playing backwards, delivers the ball towards the sideline,"
+        ],
+        "106": [
+            525.0,
+            530.0,
+            "Hugo Mayo comes, Jozabed is first class for Bas, Bas plays the ball with the tuco, triangulates Celta."
+        ],
+        "107": [
+            530.0,
+            532.0,
+            "He is doing very well there, we are seeing the ball very well against Celta."
+        ],
+        "108": [
+            532.0,
+            538.0,
+            "The Toto Berizzo team moves it quickly and with elegance, which today sees the match bench from another place"
+        ],
+        "109": [
+            538.0,
+            543.0,
+            "It's not the bench, it's sanctioned, Sisto comes facing Danilo, Bas takes the baseline,"
+        ],
+        "110": [
+            543.0,
+            546.0,
+            "He takes the pass, remains dead in the hands of Keylor Navas."
+        ],
+        "111": [
+            546.0,
+            553.0,
+            "In the last plays I am seeing that Casimiro does not come and does not offer himself to Marcelo or anyone else,"
+        ],
+        "112": [
+            553.0,
+            560.0,
+            "They are playing a little further forward than the position of a normal center half, let's say, more advanced."
+        ],
+        "113": [
+            560.0,
+            566.0,
+            "With the ball Isco giving the ball to Toni Kroos, Toni Kroos on Marcelo who is looking to uncheck Isco,"
+        ],
+        "114": [
+            566.0,
+            572.0,
+            "pay attention to Isco who is left alone, Isco who cuts back, confronts Arroncavilla, has managed to get the ball for Cristiano,"
+        ],
+        "115": [
+            573.0,
+            582.0,
+            "peak of the area, hits, goal by Cristiano Ronaldo that breaks it before the 10th minute of the game to score the first"
+        ],
+        "116": [
+            582.0,
+            585.0,
+            "and put Real Madrid ahead on the scoreboard."
+        ],
+        "117": [
+            585.0,
+            592.0,
+            "The play with Isco, Isco who resolves as best he can, the ball is left on the balcony of the area, Cristiano Ronaldo,"
+        ],
+        "118": [
+            592.0,
+            599.0,
+            "Tremendous shot from the Portuguese who has reached the end of the championship very plugged."
+        ],
+        "119": [
+            599.0,
+            607.0,
+            "The Christian forward that we have seen in this stretch of the championship, a pure 9, needs very little to score a goal like the one he has scored, a great goal indeed."
+        ],
+        "120": [
+            607.0,
+            617.0,
+            "Well, the goal he scored last weekend was with his left leg, with his left leg it was for framing and this one isn't bad at all either."
+        ],
+        "121": [
+            617.0,
+            626.0,
+            "There is no incorrect position for Isco, he is perfectly enabled, there in the final phase it is not Isco's and the resolution is impressive."
+        ],
+        "122": [
+            626.0,
+            631.0,
+            "He, the athlete we are going to see, tremendous, he looks for it, he has taken out, come on, for the."
+        ],
+        "123": [
+            631.0,
+            641.0,
+            "There are already 12 goals in the last 10 games for Cristiano Ronaldo, who has 23 in the league championship and one more game for Madrid to score again, now there are 63 in a row."
+        ],
+        "124": [
+            641.0,
+            646.0,
+            "The only thing left before him is Santos' record from the 60s."
+        ],
+        "125": [
+            646.0,
+            648.0,
+            "It's truly outrageous."
+        ],
+        "126": [
+            648.0,
+            658.0,
+            "74 consecutive games, if you want to beat it, do as well as you are doing lately and also continue doing it at the beginning of next season."
+        ],
+        "127": [
+            658.0,
+            665.0,
+            "Hugo Mayo with a bullet breaking through the center, Sergio Ramos who clears, a long ball that Cabral collects."
+        ],
+        "128": [
+            665.0,
+            670.0,
+            "Tocado Cabral towards the band for Joni, Sisto offers, Jozabeth receives."
+        ],
+        "129": [
+            671.0,
+            676.0,
+            "Jozabeth in short for Pablo Hernández, in the band, pierced Sisto."
+        ],
+        "130": [
+            677.0,
+            683.0,
+            "Facing Luka Modric at the peak of the area, he does not see a passing line, he looks for the center, he controls it on the balcony of the area."
+        ],
+        "131": [
+            683.0,
+            686.0,
+            "Now Guaspa went after Sergio Ramos."
+        ],
+        "132": [
+            686.0,
+            694.0,
+            "The play continues, Pelta has it, the ball has hit Toni Kroos with his head, inside the area Joni tries to lower it, Danilo rises, Jozabeth is going to lower the ball."
+        ],
+        "133": [
+            695.0,
+            706.0,
+            "With Sisto, Dionis Sisto backwards, Celta is going to hang him there, Aguidetti with half the school, the ball, he bags it without problems, Kellor Navas."
+        ],
+        "134": [
+            706.0,
+            713.0,
+            "He has already played for Isco, Isco plays with Karim Benzema, he gives the ball to Karim Benzema for Luka Modric."
+        ],
+        "135": [
+            713.0,
+            718.0,
+            "Modric again with Isco, returns quickly for the Croatian and touches the ball behind Toni Kroos."
+        ],
+        "136": [
+            719.0,
+            722.0,
+            "Kroos at short, playing there is a tuyamía with the Croatian."
+        ],
+        "137": [
+            723.0,
+            726.0,
+            "Kroos is playing a lot more center half than Casimiro."
+        ],
+        "138": [
+            726.0,
+            732.0,
+            "It's something we've seen a few times, but it's true that if Modric and Kroos get together in that area, it's going to cost Celta a lot."
+        ],
+        "139": [
+            732.0,
+            739.0,
+            "Casimiro's position, we are now looking at as a center half, but they are rarely coming to pick him up from the back."
+        ],
+        "140": [
+            739.0,
+            742.0,
+            "The defense is looking more for the German or the Croatian."
+        ],
+        "141": [
+            742.0,
+            748.0,
+            "Pay attention to Jozabeth, who has stolen a ball there, the ball is returned to him by Yago Aspas, he is running out of too many options."
+        ],
+        "142": [
+            748.0,
+            752.0,
+            "Sergio Ramos fights, rises and wins the ball from the Celta de Vigo international."
+        ],
+        "143": [
+            752.0,
+            758.0,
+            "Cristiano plays, back for Sergio, Sergio on Marcelo, Marcelo stepping on him, he tries to leave, he leaves Hugo Mayo who he needs."
+        ],
+        "144": [
+            758.0,
+            761.0,
+            "Ball for Real Madrid."
+        ],
+        "145": [
+            764.0,
+            770.0,
+            "The action was repeated again from the opposite angle, in the end the pass is a kind of clearance by Roncaglia."
+        ],
+        "146": [
+            770.0,
+            776.0,
+            "Obviously he did not intend for the ball to reach Cristiano, but Cristiano resolves."
+        ],
+        "147": [
+            776.0,
+            781.0,
+            "As we have mentioned in the previous one, with the entire catalog of 9 cigars."
+        ],
+        "148": [
+            781.0,
+            784.0,
+            "Exactly, the speed with which he takes the left foot there."
+        ],
+        "149": [
+            784.0,
+            787.0,
+            "That ball passes under Cabral's legs like a howitzer."
+        ],
+        "150": [
+            787.0,
+            792.0,
+            "Attention to Celta who tries it with Jozabeth, Guidetti playing on the wall."
+        ],
+        "151": [
+            792.0,
+            796.0,
+            "Once again for Guidetti, Sisto's left-hander, perfect, another one."
+        ],
+        "152": [
+            796.0,
+            799.0,
+            "Celta gets tangled, the ball goes to Guidetti."
+        ],
+        "153": [
+            799.0,
+            802.0,
+            "Guidetti inside the area, wants to cut the defense for today, Sisto has it."
+        ],
+        "154": [
+            802.0,
+            807.0,
+            "Sisto shoots a shot, Celta continues on the edge of the area, but does not finish the play."
+        ],
+        "155": [
+            807.0,
+            811.0,
+            "The public that gets impatient in the stands, and the shot goes, easy for Keylor."
+        ],
+        "156": [
+            811.0,
+            813.0,
+            "Gionni tried it."
+        ],
+        "157": [
+            813.0,
+            817.0,
+            "He tried to dribble in the area to Guidetti, very little from Guidetti himself, it didn't work out in the end."
+        ],
+        "158": [
+            817.0,
+            822.0,
+            "There was a moment when Jozabeth had enabled Sisto and seemed to be ready for a direct shot,"
+        ],
+        "159": [
+            822.0,
+            829.0,
+            "but Celta insisted, complicating the play in the end, Celta did not get anything positive from it."
+        ],
+        "160": [
+            830.0,
+            834.0,
+            "Balls to Danilo, with difficulties delivering the ball back."
+        ],
+        "161": [
+            834.0,
+            837.0,
+            "Play the ball for Rafa el Barán."
+        ],
+        "162": [
+            837.0,
+            843.0,
+            "Barán for betraying Jozabeth to Toni Kroos, Casemiro."
+        ],
+        "163": [
+            843.0,
+            847.0,
+            "Casemiro's opening that falls short, Roncaglia cuts it off."
+        ],
+        "164": [
+            847.0,
+            851.0,
+            "Roncaglia plays, delivers the ball to Vaz's position."
+        ],
+        "165": [
+            851.0,
+            854.0,
+            "Vaz short with Jozabeth."
+        ],
+        "166": [
+            854.0,
+            857.0,
+            "Jozabeth who opens the ball towards the wing."
+        ],
+        "167": [
+            859.0,
+            863.0,
+            "Sisto en cara, the Isco rooms."
+        ],
+        "168": [
+            863.0,
+            866.0,
+            "Roncaglia atrás, Gionni is coming."
+        ],
+        "169": [
+            866.0,
+            870.0,
+            "Madrid positionally there, closing the spaces, Guidetti's drop, looking for Yago Arpa."
+        ],
+        "170": [
+            870.0,
+            872.0,
+            "He put his leg in Casemiro, now comes the counterattack against Real Madrid."
+        ],
+        "171": [
+            872.0,
+            874.0,
+            "Cristiano has an exit towards the right wing."
+        ],
+        "172": [
+            874.0,
+            877.0,
+            "He holds up phenomenally well and gives the ball to Isco."
+        ],
+        "173": [
+            877.0,
+            879.0,
+            "Isco touches back on Luka Modric."
+        ],
+        "174": [
+            879.0,
+            883.0,
+            "On the left side is Benzema, Luka Modric follows, the opposite brings it, he returns the ball back."
+        ],
+        "175": [
+            884.0,
+            889.0,
+            "Danilo under pressure from Aviones Sisto, Casemiro touched the ball towards the wing."
+        ],
+        "176": [
+            889.0,
+            893.0,
+            "Luka Modric and Isco team up there, looking for Cristiano."
+        ],
+        "177": [
+            893.0,
+            895.0,
+            "Again in the center forward position."
+        ],
+        "178": [
+            895.0,
+            899.0,
+            "Benzema leaves the gap with his landing for Marcelo to enter."
+        ],
+        "179": [
+            899.0,
+            902.0,
+            "Marcelo at the top of the area, Marcelo cuts back."
+        ],
+        "180": [
+            902.0,
+            904.0,
+            "Hugo Mayo is holding up perfectly for now."
+        ],
+        "181": [
+            904.0,
+            907.0,
+            "Hugo Mayo touched the ball, he appears to take it to Celta."
+        ],
+        "182": [
+            907.0,
+            909.0,
+            "He claims a foul on Marcelo that the referee does not see."
+        ],
+        "183": [
+            909.0,
+            911.0,
+            "Yaguas Paz has the ball."
+        ],
+        "184": [
+            911.0,
+            915.0,
+            "Counterattack by the team, Vigues opens the ball towards Piones Sisto."
+        ],
+        "185": [
+            915.0,
+            918.0,
+            "He puts on the Piones Sisto turbo, Casemiro steps in."
+        ],
+        "186": [
+            918.0,
+            920.0,
+            "You're going to need it there."
+        ],
+        "187": [
+            920.0,
+            925.0,
+            "Casemiro is almost a central defender today but advanced."
+        ],
+        "188": [
+            925.0,
+            928.0,
+            "Because he's not hitting the ball."
+        ],
+        "189": [
+            928.0,
+            932.0,
+            "Miri is looking, he is like a defender, a bodyguard in a midfield."
+        ],
+        "190": [
+            932.0,
+            935.0,
+            "In fact it has had a couple of errors in delivery."
+        ],
+        "191": [
+            935.0,
+            939.0,
+            "Logically, Madrid is looking more to go out with Kroos and Modric."
+        ],
+        "192": [
+            939.0,
+            944.0,
+            "This is what is really asked of Casemiro, this type of play."
+        ],
+        "193": [
+            944.0,
+            948.0,
+            "The departure of Real Madrid with that tactical foul."
+        ],
+        "194": [
+            948.0,
+            950.0,
+            "This is also claimed by Marcelo."
+        ],
+        "195": [
+            950.0,
+            953.0,
+            "It seems that there could have been one but the referee did not value it in that same way."
+        ],
+        "196": [
+            953.0,
+            955.0,
+            "And because he went to Celta."
+        ],
+        "197": [
+            955.0,
+            957.0,
+            "We are in the fifth minute of the game."
+        ],
+        "198": [
+            957.0,
+            959.0,
+            "Real Madrid wins 0-1."
+        ],
+        "199": [
+            959.0,
+            963.0,
+            "With Cristiano Ronaldo once again in charge of the sustainability of Madridistas."
+        ],
+        "200": [
+            963.0,
+            969.0,
+            "Scoring a goal that seems important to give Zinedine Zidane's team peace of mind at the start of the match."
+        ],
+        "201": [
+            969.0,
+            972.0,
+            "Vaz puts it in, penalty point, it's loose."
+        ],
+        "202": [
+            972.0,
+            977.0,
+            "Casemiro had played, Keylor appeared, Celta did not attack him and now he is looking for a counterattack."
+        ],
+        "203": [
+            977.0,
+            980.0,
+            "Celta has fallen asleep, Real Madrid is coming with a lot of people."
+        ],
+        "204": [
+            980.0,
+            983.0,
+            "Cristiano and Ventemá, the ball for Ventemá, goes over the sideline."
+        ],
+        "205": [
+            983.0,
+            986.0,
+            "Ventemá, who is going to go fast, faces Joni who is very fast."
+        ],
+        "206": [
+            986.0,
+            988.0,
+            "Joni who manages to pull herself together."
+        ],
+        "207": [
+            988.0,
+            991.0,
+            "She touched the ball towards Sergio who saved it as best he could."
+        ],
+        "208": [
+            992.0,
+            996.0,
+            "Ventemá measured it perfectly, thinking as if he were a central defender who was going to leave with just a little touch."
+        ],
+        "209": [
+            996.0,
+            998.0,
+            "But they had Joni brave."
+        ],
+        "210": [
+            998.0,
+            999.0,
+            "And Joni is very fast."
+        ],
+        "211": [
+            999.0,
+            1002.0,
+            "Cristiano's ball was no longer very good for Ventemá."
+        ],
+        "212": [
+            1005.0,
+            1009.0,
+            "Come the Celta ball in the central circle and with tuco Hernández."
+        ],
+        "213": [
+            1009.0,
+            1012.0,
+            "Gomaño asks for it on the side, he opens up on the line."
+        ],
+        "214": [
+            1014.0,
+            1020.0,
+            "Yago Aspas hit the ball to Sergio Ramos and took a throw-in for Celta de Vigo."
+        ],
+        "215": [
+            1022.0,
+            1026.0,
+            "A little back, there was already May for Pablo Hernández."
+        ],
+        "216": [
+            1026.0,
+            1029.0,
+            "I switch to the left side where Joni is."
+        ],
+        "217": [
+            1029.0,
+            1033.0,
+            "Joni controls, plays it ahead of Luka Modric for Jozabel."
+        ],
+        "218": [
+            1033.0,
+            1035.0,
+            "Returns Joni back to Mas."
+        ],
+        "219": [
+            1035.0,
+            1037.0,
+            "But handing it over to Sisto."
+        ],
+        "220": [
+            1037.0,
+            1039.0,
+            "I see that he faces Danilo."
+        ],
+        "221": [
+            1039.0,
+            1042.0,
+            "What does Luka Modric cover? He's going to look for the shot."
+        ],
+        "222": [
+            1042.0,
+            1044.0,
+            "He tries and fails to avoid the corner."
+        ],
+        "223": [
+            1044.0,
+            1047.0,
+            "Keylor Navas, corner kick for Celta."
+        ],
+        "224": [
+            1047.0,
+            1053.0,
+            "But if anyone thought that Celta, who doesn't play at all, was coming to falsify, that is not the case."
+        ],
+        "225": [
+            1053.0,
+            1056.0,
+            "Furthermore, he received the goal and knew how to fit it well."
+        ],
+        "226": [
+            1056.0,
+            1060.0,
+            "The team has not disarmed, it continues playing, really standing up to Madrid."
+        ],
+        "227": [
+            1060.0,
+            1069.0,
+            "Real Madrid is going to defend this corner kick that is going to be thrown to Vás for El Toto Berizzo's team."
+        ],
+        "228": [
+            1071.0,
+            1073.0,
+            "Prepare to hit the ball."
+        ],
+        "229": [
+            1073.0,
+            1075.0,
+            "You go from the corner."
+        ],
+        "230": [
+            1076.0,
+            1078.0,
+            "The concentration of players at the first post."
+        ],
+        "231": [
+            1078.0,
+            1080.0,
+            "They have Jozabel short, towards the ball."
+        ],
+        "232": [
+            1080.0,
+            1083.0,
+            "Cabral has managed to comb the ball back."
+        ],
+        "233": [
+            1083.0,
+            1087.0,
+            "But the ball there does not find anyone who can prolong it."
+        ],
+        "234": [
+            1087.0,
+            1089.0,
+            "It goes directly behind the goal."
+        ],
+        "235": [
+            1089.0,
+            1091.0,
+            "Serve for Real Madrid."
+        ],
+        "236": [
+            1099.0,
+            1102.0,
+            "Prepare Keylor Navas to put the ball in motion."
+        ],
+        "237": [
+            1105.0,
+            1107.0,
+            "The Real Madrid goalkeeper who is going to serve."
+        ],
+        "238": [
+            1107.0,
+            1110.0,
+            "Hitting the ball hard, long."
+        ],
+        "239": [
+            1111.0,
+            1112.0,
+            "There goes the hit."
+        ],
+        "240": [
+            1114.0,
+            1115.0,
+            "Head to the tucu."
+        ],
+        "241": [
+            1115.0,
+            1118.0,
+            "Aja Casemiro gives it to Toni Kroos."
+        ],
+        "242": [
+            1118.0,
+            1120.0,
+            "Delivered for Sergio ahead of Guidez."
+        ],
+        "243": [
+            1120.0,
+            1123.0,
+            "And there is no time for the Celta striker to press."
+        ],
+        "244": [
+            1123.0,
+            1124.0,
+            "Sergio towards the band."
+        ],
+        "245": [
+            1124.0,
+            1125.0,
+            "Marcelo first."
+        ],
+        "246": [
+            1125.0,
+            1127.0,
+            "Real Madrid is practically playing first."
+        ],
+        "247": [
+            1127.0,
+            1129.0,
+            "Forced by the pressure of Celta de Vigo."
+        ],
+        "248": [
+            1129.0,
+            1132.0,
+            "The field was small for Sergio Ramos."
+        ],
+        "249": [
+            1132.0,
+            1134.0,
+            "Throw-in for Celta."
+        ],
+        "250": [
+            1135.0,
+            1136.0,
+            "Hugo Mayo is going to release."
+        ],
+        "251": [
+            1138.0,
+            1139.0,
+            "Josabet moves."
+        ],
+        "252": [
+            1140.0,
+            1141.0,
+            "Live and control."
+        ],
+        "253": [
+            1141.0,
+            1146.0,
+            "He makes a space for Toni Kroos and throws the ball back for Cabral."
+        ],
+        "254": [
+            1146.0,
+            1148.0,
+            "Cabral opens on Joni."
+        ],
+        "255": [
+            1149.0,
+            1151.0,
+            "Stroll along the Cal line on the left."
+        ],
+        "256": [
+            1151.0,
+            1153.0,
+            "Celta assists trying to open the field."
+        ],
+        "257": [
+            1153.0,
+            1154.0,
+            "Josabet's entry."
+        ],
+        "258": [
+            1154.0,
+            1155.0,
+            "No."
+        ],
+        "259": [
+            1155.0,
+            1158.0,
+            "That ball arrives that Keylor Navas already controls."
+        ],
+        "260": [
+            1159.0,
+            1160.0,
+            "The Teuton plays."
+        ],
+        "261": [
+            1161.0,
+            1162.0,
+            "Ask in short Cristiano."
+        ],
+        "262": [
+            1162.0,
+            1163.0,
+            "Play Semiro here."
+        ],
+        "263": [
+            1164.0,
+            1165.0,
+            "Semiro with Luka Modric."
+        ],
+        "264": [
+            1166.0,
+            1168.0,
+            "Modric with Toni Kroos looking for Marcelo."
+        ],
+        "265": [
+            1168.0,
+            1172.0,
+            "He has beaten Yago Azpán who is trying to get there to make things difficult for Marcelo."
+        ],
+        "266": [
+            1172.0,
+            1173.0,
+            "Inside. Well."
+        ],
+        "267": [
+            1173.0,
+            1174.0,
+            "He touched the ball."
+        ],
+        "268": [
+            1174.0,
+            1175.0,
+            "Gustavo Cabral wants to arrive."
+        ],
+        "269": [
+            1175.0,
+            1177.0,
+            "And Cristiano finally does it."
+        ],
+        "270": [
+            1177.0,
+            1178.0,
+            "The rejection for Danilo."
+        ],
+        "271": [
+            1178.0,
+            1179.0,
+            "Danilo to Cristiano."
+        ],
+        "272": [
+            1179.0,
+            1180.0,
+            "There is a ball."
+        ],
+        "273": [
+            1180.0,
+            1181.0,
+            "Yes, a ball."
+        ],
+        "274": [
+            1181.0,
+            1182.0,
+            "Impossible."
+        ],
+        "275": [
+            1182.0,
+            1183.0,
+            "Magnificent."
+        ],
+        "276": [
+            1183.0,
+            1185.0,
+            "Magnificent Kroos, by the way, on that ball to the left Marcelo."
+        ],
+        "277": [
+            1185.0,
+            1187.0,
+            "That touch of Albinín is very mine."
+        ],
+        "278": [
+            1187.0,
+            1188.0,
+            "Yeah."
+        ],
+        "279": [
+            1188.0,
+            1190.0,
+            "It was so complicated."
+        ],
+        "280": [
+            1191.0,
+            1196.0,
+            "Danilo has not achieved it himself because he made it impossible for Cristiano directly."
+        ],
+        "281": [
+            1196.0,
+            1197.0,
+            "An applause from Cristiano Ronaldo."
+        ],
+        "282": [
+            1197.0,
+            1200.0,
+            "Sergio is going to take the goal for Celta."
+        ],
+        "283": [
+            1202.0,
+            1204.0,
+            "I've seen smoother shots."
+        ],
+        "284": [
+            1205.0,
+            1208.0,
+            "Sergio puts on Hugo Mayo's band, who controls it with his chest."
+        ],
+        "285": [
+            1208.0,
+            1210.0,
+            "He attacks Toni Kroos."
+        ],
+        "286": [
+            1210.0,
+            1211.0,
+            "He throws her out."
+        ],
+        "287": [
+            1211.0,
+            1215.0,
+            "Throw-in for Celta near Zinedine Zidane's bench."
+        ],
+        "288": [
+            1216.0,
+            1219.0,
+            "The ball to Aspas trying to leave."
+        ],
+        "289": [
+            1219.0,
+            1224.0,
+            "The ball hit Casemiro and the side kick went to Celta de Vigo."
+        ],
+        "290": [
+            1224.0,
+            1227.0,
+            "He complained to Aspas about a mistake that had been committed against him."
+        ],
+        "291": [
+            1227.0,
+            1231.0,
+            "Lejedo says to take a throw-in and put Goma into play."
+        ],
+        "292": [
+            1231.0,
+            1233.0,
+            "And today Hugo, Diago Aspas, asks for it."
+        ],
+        "293": [
+            1233.0,
+            1234.0,
+            "Play Josapé."
+        ],
+        "294": [
+            1234.0,
+            1237.0,
+            "The tucu appears there to play on Ace."
+        ],
+        "295": [
+            1237.0,
+            1239.0,
+            "Change towards the Sisto area."
+        ],
+        "296": [
+            1239.0,
+            1242.0,
+            "Danilo is asking for help to come because Sisto is going to confront him."
+        ],
+        "297": [
+            1242.0,
+            1243.0,
+            "There goes Sisto."
+        ],
+        "298": [
+            1243.0,
+            1245.0,
+            "Luka Modric's help has already arrived."
+        ],
+        "299": [
+            1245.0,
+            1247.0,
+            "I believe he is going to play backwards for Josapé."
+        ],
+        "300": [
+            1247.0,
+            1248.0,
+            "Front of the area."
+        ],
+        "301": [
+            1248.0,
+            1249.0,
+            "Change is good."
+        ],
+        "302": [
+            1249.0,
+            1250.0,
+            "Hugo Mayo appears."
+        ],
+        "303": [
+            1250.0,
+            1251.0,
+            "Bottom line."
+        ],
+        "304": [
+            1251.0,
+            1252.0,
+            "He jumps on him and Isco."
+        ],
+        "305": [
+            1252.0,
+            1254.0,
+            "Isco put his leg there as best he could."
+        ],
+        "306": [
+            1254.0,
+            1256.0,
+            "Ball finished in Keylor's domain."
+        ],
+        "307": [
+            1256.0,
+            1259.0,
+            "We are going without any major danger for the Real Madrid goal."
+        ],
+        "308": [
+            1261.0,
+            1263.0,
+            "He waits for his Keylor team to deploy."
+        ],
+        "309": [
+            1263.0,
+            1264.0,
+            "Yes, he is going to play the long one."
+        ],
+        "310": [
+            1264.0,
+            1266.0,
+            "He doesn't have a passing line, of course."
+        ],
+        "311": [
+            1266.0,
+            1267.0,
+            "He is making gestures."
+        ],
+        "312": [
+            1267.0,
+            1269.0,
+            "Celta is working very well on that."
+        ],
+        "313": [
+            1270.0,
+            1272.0,
+            "There the ball goes up, looking for Cristiano's head."
+        ],
+        "314": [
+            1272.0,
+            1273.0,
+            "Cabral has been elevated."
+        ],
+        "315": [
+            1273.0,
+            1275.0,
+            "Jonny got the ball."
+        ],
+        "316": [
+            1275.0,
+            1280.0,
+            "Jonny has Sisto in front and behind him to come out playing tucu."
+        ],
+        "317": [
+            1280.0,
+            1283.0,
+            "Celta has changed the game for Hugo Mayo's position."
+        ],
+        "318": [
+            1283.0,
+            1286.0,
+            "Hugo Mayo with the ball under control, facing Isco."
+        ],
+        "319": [
+            1286.0,
+            1290.0,
+            "He comes under pressure to Antepas."
+        ],
+        "320": [
+            1292.0,
+            1295.0,
+            "Toni Kroos, who plays the ball at the back, Roncaña for Cabral."
+        ],
+        "321": [
+            1295.0,
+            1297.0,
+            "Cabral, who has gone to the Sisto area."
+        ],
+        "322": [
+            1297.0,
+            1299.0,
+            "Roncaña has played ball for Cabral."
+        ],
+        "323": [
+            1299.0,
+            1301.0,
+            "Cabral, the side has Jonny."
+        ],
+        "324": [
+            1301.0,
+            1302.0,
+            "Jonny has Jonzabez ahead of him."
+        ],
+        "325": [
+            1302.0,
+            1303.0,
+            "He has played the ball for Sisto."
+        ],
+        "326": [
+            1303.0,
+            1304.0,
+            "He's looking there offside."
+        ],
+        "327": [
+            1304.0,
+            1306.0,
+            "They can't find him."
+        ],
+        "328": [
+            1306.0,
+            1309.0,
+            "There Sisto tries it and Danilo reacts phenomenally well,"
+        ],
+        "329": [
+            1309.0,
+            1311.0,
+            "who manages to steal the ball for Real Madrid."
+        ],
+        "330": [
+            1311.0,
+            1312.0,
+            "Casemiro takes it out."
+        ],
+        "331": [
+            1312.0,
+            1314.0,
+            "Crazy behind, he delivered for Luka Modric."
+        ],
+        "332": [
+            1314.0,
+            1315.0,
+            "It's missing there."
+        ],
+        "333": [
+            1315.0,
+            1317.0,
+            "He was able to avoid one against Casemiro."
+        ],
+        "334": [
+            1317.0,
+            1320.0,
+            "He tried to give him the advantage to see if Modric would come out."
+        ],
+        "335": [
+            1320.0,
+            1322.0,
+            "And in the end Modric was more damaged in the play."
+        ],
+        "336": [
+            1322.0,
+            1323.0,
+            "Ricardo."
+        ],
+        "337": [
+            1324.0,
+            1326.0,
+            "Yes, Luka Modric is having the floor."
+        ],
+        "338": [
+            1326.0,
+            1328.0,
+            "He is interested in your condition."
+        ],
+        "339": [
+            1328.0,
+            1330.0,
+            "After that crash he now stands up."
+        ],
+        "340": [
+            1330.0,
+            1331.0,
+            "It helps the Celta player."
+        ],
+        "341": [
+            1331.0,
+            1334.0,
+            "It seems that he will be able to continue without problems after that clash with Jonny."
+        ],
+        "342": [
+            1334.0,
+            1337.0,
+            "By playing Jonzabez in front of this double pivot,"
+        ],
+        "343": [
+            1337.0,
+            1340.0,
+            "Celta's drawing has changed a little with Iguaz and with Tuko behind."
+        ],
+        "344": [
+            1340.0,
+            1345.0,
+            "We are seeing, I think, little for what Tuko and Iguaz need to appear more in the area."
+        ],
+        "345": [
+            1345.0,
+            1346.0,
+            "For Real Madrid."
+        ],
+        "346": [
+            1346.0,
+            1347.0,
+            "We are looking further back."
+        ],
+        "347": [
+            1347.0,
+            1351.0,
+            "Ibazma's serve again for Real Madrid already in Celta's field."
+        ],
+        "348": [
+            1351.0,
+            1353.0,
+            "Getting ready to play..."
+        ],
+        "349": [
+            1356.0,
+            1357.0,
+            "Danilo."
+        ],
+        "350": [
+            1359.0,
+            1361.0,
+            "Play up, deliver the ball to Cristiano."
+        ],
+        "351": [
+            1361.0,
+            1363.0,
+            "Cristiano on the side, Danilo won't get the ball."
+        ],
+        "352": [
+            1363.0,
+            1364.0,
+            "Throw-in"
+        ],
+        "353": [
+            1368.0,
+            1369.0,
+            "I don't know if Cristiano would have said a kiss."
+        ],
+        "354": [
+            1369.0,
+            1370.0,
+            "I said it here."
+        ],
+        "355": [
+            1370.0,
+            1371.0,
+            "Since you can't get there."
+        ],
+        "356": [
+            1371.0,
+            1372.0,
+            "I said it at the port, right?"
+        ],
+        "357": [
+            1372.0,
+            1373.0,
+            "Hey? See how I told him there."
+        ],
+        "358": [
+            1373.0,
+            1374.0,
+            "Come."
+        ],
+        "359": [
+            1375.0,
+            1376.0,
+            "Celta plays."
+        ],
+        "360": [
+            1376.0,
+            1377.0,
+            "I attend."
+        ],
+        "361": [
+            1377.0,
+            1378.0,
+            "The ball escapes from Asisto."
+        ],
+        "362": [
+            1378.0,
+            1379.0,
+            "A little bit of both feet."
+        ],
+        "363": [
+            1379.0,
+            1380.0,
+            "Throw-in"
+        ],
+        "364": [
+            1381.0,
+            1384.0,
+            "Moments now of confusion on that side where almost no one gets it right."
+        ],
+        "365": [
+            1385.0,
+            1386.0,
+            "Ball that reaches Kroos."
+        ],
+        "366": [
+            1386.0,
+            1390.0,
+            "Celta wants to put pressure, but they no longer come to pressure as quickly as in the first"
+        ],
+        "367": [
+            1390.0,
+            1393.0,
+            "bars of the game and we are only in the Ecuador of the first half."
+        ],
+        "368": [
+            1393.0,
+            1395.0,
+            "Kroos with the ball, playing for Marcelo."
+        ],
+        "369": [
+            1395.0,
+            1397.0,
+            "Marcelo opens the ball for Karim Benzema."
+        ],
+        "370": [
+            1397.0,
+            1399.0,
+            "Benzema hands it to Casemiro."
+        ],
+        "371": [
+            1399.0,
+            1401.0,
+            "Casemiro opens for Luka Modric."
+        ],
+        "372": [
+            1401.0,
+            1403.0,
+            "Danilo has been overtaken by braking."
+        ],
+        "373": [
+            1403.0,
+            1404.0,
+            "Isco has him short."
+        ],
+        "374": [
+            1404.0,
+            1407.0,
+            "Isco returns the ball back for the Croatian."
+        ],
+        "375": [
+            1407.0,
+            1411.0,
+            "There is Luka Modric hiding the ball under pressure from Tupo."
+        ],
+        "376": [
+            1411.0,
+            1413.0,
+            "He is playing backwards for Sergio Ramos."
+        ],
+        "377": [
+            1413.0,
+            1414.0,
+            "Sergio delivers for Varane."
+        ],
+        "378": [
+            1414.0,
+            1416.0,
+            "Varane plays the ball over Isco."
+        ],
+        "379": [
+            1416.0,
+            1418.0,
+            "Isco tries to leave and fails."
+        ],
+        "380": [
+            1418.0,
+            1419.0,
+            "Recover Celta."
+        ],
+        "381": [
+            1419.0,
+            1421.0,
+            "He touches Josabet or hooks her to Mideti."
+        ],
+        "382": [
+            1421.0,
+            1427.0,
+            "And after what it costs Celta to steal, these are the ones that discourage us because they immediately"
+        ],
+        "383": [
+            1427.0,
+            1430.0,
+            "When Celta tries to put together the play, he can't."
+        ],
+        "384": [
+            1430.0,
+            1432.0,
+            "Yes, Madrid is handling the ball."
+        ],
+        "385": [
+            1432.0,
+            1434.0,
+            "Long send up looking for Cristiano Ronaldo."
+        ],
+        "386": [
+            1434.0,
+            1440.0,
+            "Header to Cristiano but the entire advantage for Celta de Vigo who plays through mediation"
+        ],
+        "387": [
+            1440.0,
+            1441.0,
+            "from Joni behind about Sergio."
+        ],
+        "388": [
+            1442.0,
+            1444.0,
+            "Sergio played towards the wing."
+        ],
+        "389": [
+            1444.0,
+            1445.0,
+            "The Celtic"
+        ],
+        "390": [
+            1445.0,
+            1446.0,
+            "Hugo Mayo is coming."
+        ],
+        "391": [
+            1446.0,
+            1447.0,
+            "Look above for Aspas."
+        ],
+        "392": [
+            1447.0,
+            1451.0,
+            "There Sergio Ramos anticipates perfectly and comfortably."
+        ],
+        "393": [
+            1451.0,
+            1452.0,
+            "With the ball to the man from Malaga."
+        ],
+        "394": [
+            1452.0,
+            1453.0,
+            "Isco short."
+        ],
+        "395": [
+            1453.0,
+            1455.0,
+            "Toni Kroos measuring speed with Hugo Mayo."
+        ],
+        "396": [
+            1455.0,
+            1456.0,
+            "You can beat him."
+        ],
+        "397": [
+            1456.0,
+            1457.0,
+            "Look for Celta."
+        ],
+        "398": [
+            1457.0,
+            1458.0,
+            "At the front of the area."
+        ],
+        "399": [
+            1458.0,
+            1459.0,
+            "He drops it to Cristiano."
+        ],
+        "400": [
+            1459.0,
+            1460.0,
+            "Anticipa Cabral."
+        ],
+        "401": [
+            1460.0,
+            1461.0,
+            "The rejection for Isco."
+        ],
+        "402": [
+            1461.0,
+            1463.0,
+            "Isco comes to put things right."
+        ],
+        "403": [
+            1463.0,
+            1467.0,
+            "Sergio comes out and wins the ball from Cristiano Ronaldo."
+        ],
+        "404": [
+            1468.0,
+            1470.0,
+            "Balls for Biones Isco."
+        ],
+        "405": [
+            1471.0,
+            1473.0,
+            "The ball for Joni."
+        ],
+        "406": [
+            1473.0,
+            1477.0,
+            "Joni delivers the ball to Cabral's position."
+        ],
+        "407": [
+            1477.0,
+            1479.0,
+            "They let her pass Roncaguel."
+        ],
+        "408": [
+            1479.0,
+            1480.0,
+            "Here you have Hugo Mayo."
+        ],
+        "409": [
+            1480.0,
+            1481.0,
+            "Play Bas."
+        ],
+        "410": [
+            1481.0,
+            1482.0,
+            "Bas to the band."
+        ],
+        "411": [
+            1482.0,
+            1484.0,
+            "He comes for the ball to Yago Aspas."
+        ],
+        "412": [
+            1484.0,
+            1485.0,
+            "Still on Marcelo."
+        ],
+        "413": [
+            1485.0,
+            1487.0,
+            "He goes ahead of Isco."
+        ],
+        "414": [
+            1487.0,
+            1488.0,
+            "Fafi."
+        ],
+        "415": [
+            1488.0,
+            1492.0,
+            "I move the game towards the left side where Josabet is and will receive help from Joni."
+        ],
+        "416": [
+            1492.0,
+            1493.0,
+            "Sisto has gotten inside."
+        ],
+        "417": [
+            1493.0,
+            1495.0,
+            "There he wants the ball to Sisto."
+        ],
+        "418": [
+            1495.0,
+            1496.0,
+            "On the front."
+        ],
+        "419": [
+            1496.0,
+            1497.0,
+            "And it stopped."
+        ],
+        "420": [
+            1497.0,
+            1499.0,
+            "I had to return it to Josabet."
+        ],
+        "421": [
+            1499.0,
+            1500.0,
+            "Josabet got angry."
+        ],
+        "422": [
+            1500.0,
+            1501.0,
+            "I did not see him."
+        ],
+        "423": [
+            1501.0,
+            1502.0,
+            "Biones Isco."
+        ],
+        "424": [
+            1502.0,
+            1503.0,
+            "The wall was clear."
+        ],
+        "425": [
+            1503.0,
+            1504.0,
+            "He went overboard."
+        ],
+        "426": [
+            1504.0,
+            1505.0,
+            "Biones Isco."
+        ],
+        "427": [
+            1505.0,
+            1506.0,
+            "I'm going to bed."
+        ],
+        "428": [
+            1506.0,
+            1507.0,
+            "The other day I didn't shoot."
+        ],
+        "429": [
+            1507.0,
+            1508.0,
+            "Yes, and now I'm going to shoot."
+        ],
+        "430": [
+            1508.0,
+            1509.0,
+            "And this time it will be yes."
+        ],
+        "431": [
+            1509.0,
+            1510.0,
+            "But that is often what the footballer sets."
+        ],
+        "432": [
+            1510.0,
+            1511.0,
+            "The decisions you make."
+        ],
+        "433": [
+            1511.0,
+            1512.0,
+            "There Sisto made a mistake."
+        ],
+        "434": [
+            1512.0,
+            1513.0,
+            "I'm seeing Yago Aspas constantly making gestures of desperation with the Sisto."
+        ],
+        "435": [
+            1513.0,
+            1514.0,
+            "It takes three or four plays in a row."
+        ],
+        "436": [
+            1514.0,
+            1515.0,
+            "One because he has abused dribbling on the left."
+        ],
+        "437": [
+            1515.0,
+            1516.0,
+            "Now for this ball."
+        ],
+        "438": [
+            1516.0,
+            1517.0,
+            "Joni is desperate."
+        ],
+        "439": [
+            1518.0,
+            1519.0,
+            "Celta plays."
+        ],
+        "440": [
+            1519.0,
+            1520.0,
+            "The pilot, the band for Hugo Mayo."
+        ],
+        "441": [
+            1520.0,
+            1521.0,
+            "Still in Campo Vigués on the same dividing line."
+        ],
+        "442": [
+            1521.0,
+            1522.0,
+            "It's Yago Aspas's turn."
+        ],
+        "443": [
+            1522.0,
+            1523.0,
+            "Try to save Josabet."
+        ],
+        "444": [
+            1523.0,
+            1524.0,
+            "Luka Modrić takes it."
+        ],
+        "445": [
+            1524.0,
+            1525.0,
+            "Tension against the sector."
+        ],
+        "446": [
+            1525.0,
+            1526.0,
+            "Dangerous ball for Benzema."
+        ],
+        "447": [
+            1526.0,
+            1527.0,
+            "That is unleashed."
+        ],
+        "448": [
+            1527.0,
+            1528.0,
+            "He reaches Cristiano from the other side."
+        ],
+        "449": [
+            1528.0,
+            1529.0,
+            "Loose."
+        ],
+        "450": [
+            1529.0,
+            1530.0,
+            "Heaven to the ball."
+        ],
+        "451": [
+            1530.0,
+            1531.0,
+            "¡Ahhh!"
+        ],
+        "452": [
+            1531.0,
+            1532.0,
+            "Uuuh!"
+        ],
+        "453": [
+            1532.0,
+            1533.0,
+            "¡Ahhh!"
+        ],
+        "454": [
+            1533.0,
+            1534.0,
+            "¡Ahhh!"
+        ],
+        "455": [
+            1534.0,
+            1535.0,
+            "¡Ahhh!"
+        ],
+        "456": [
+            1535.0,
+            1536.0,
+            "¡Ahhh!"
+        ],
+        "457": [
+            1536.0,
+            1537.0,
+            "¡Ahhh!"
+        ],
+        "458": [
+            1537.0,
+            1538.0,
+            "¡Ahhh!"
+        ],
+        "459": [
+            1538.0,
+            1539.0,
+            "¡Ahhh!"
+        ],
+        "460": [
+            1539.0,
+            1540.0,
+            "¡Ahhh!"
+        ],
+        "461": [
+            1540.0,
+            1541.0,
+            "¡Ahhh!"
+        ],
+        "462": [
+            1541.0,
+            1542.0,
+            "¡Ahhh!"
+        ],
+        "463": [
+            1542.0,
+            1543.0,
+            "¡Ahhh!"
+        ],
+        "464": [
+            1543.0,
+            1544.0,
+            "¡Ahhh!"
+        ],
+        "465": [
+            1544.0,
+            1545.0,
+            "¡Ahhh!"
+        ],
+        "466": [
+            1545.0,
+            1546.0,
+            "¡Ahhh!"
+        ],
+        "467": [
+            1546.0,
+            1558.98,
+            "Well"
+        ],
+        "468": [
+            1558.98,
+            1561.98,
+            "Well, that's up front, decisions well made."
+        ],
+        "469": [
+            1561.98,
+            1565.98,
+            "That is, every time it was time to send the ball, he sent it."
+        ],
+        "470": [
+            1565.98,
+            1567.98,
+            "Both Modric and Benzema."
+        ],
+        "471": [
+            1567.98,
+            1569.98,
+            "There he goes to the center, Marcelo, penalty spot."
+        ],
+        "472": [
+            1569.98,
+            1571.98,
+            "Clear the ball to Bach, Marcelo wants to get there."
+        ],
+        "473": [
+            1571.98,
+            1573.98,
+            "The ball was touched by Diego Aspas, but Isco is left."
+        ],
+        "474": [
+            1573.98,
+            1575.98,
+            "Peak of the area, takes it for Toni Kroos."
+        ],
+        "475": [
+            1575.98,
+            1577.98,
+            "Attention to the center, short for Isco."
+        ],
+        "476": [
+            1577.98,
+            1579.98,
+            "Isco looking for the thread, so common with him."
+        ],
+        "477": [
+            1579.98,
+            1581.98,
+            "He hit Aguiletti in the back."
+        ],
+        "478": [
+            1581.98,
+            1583.98,
+            "Corner kick."
+        ],
+        "479": [
+            1583.98,
+            1585.98,
+            "And that about making decisions, especially in the center of the field,"
+        ],
+        "480": [
+            1585.98,
+            1587.98,
+            "Toni Kroos does it wonderfully."
+        ],
+        "481": [
+            1588.98,
+            1590.98,
+            "It is simplicity personified."
+        ],
+        "482": [
+            1590.98,
+            1593.98,
+            "Modric is a player who, I think, even has, for me, even more quality."
+        ],
+        "483": [
+            1593.98,
+            1595.98,
+            "But Kroos does everything perfect."
+        ],
+        "484": [
+            1595.98,
+            1597.98,
+            "The one who hasn't seemed so much has been Isco."
+        ],
+        "485": [
+            1597.98,
+            1599.98,
+            "I say this because as it begins to appear, the center is going to have a problem."
+        ],
+        "486": [
+            1599.98,
+            1601.98,
+            "Corner kick, short, Sisto."
+        ],
+        "487": [
+            1601.98,
+            1604.98,
+            "Clear over the crown of your own area."
+        ],
+        "488": [
+            1604.98,
+            1608.98,
+            "Hugo Mayo touched the ball up."
+        ],
+        "489": [
+            1608.98,
+            1610.98,
+            "Real Madrid recovers."
+        ],
+        "490": [
+            1610.98,
+            1612.98,
+            "Danilo who is activated by the band."
+        ],
+        "491": [
+            1612.98,
+            1614.98,
+            "Luka Modric receives."
+        ],
+        "492": [
+            1614.98,
+            1616.98,
+            "There Luka Modric goes to the center."
+        ],
+        "493": [
+            1616.98,
+            1618.98,
+            "There goes Benzema, who was trying to get the ball."
+        ],
+        "494": [
+            1618.98,
+            1620.98,
+            "Hugo Mayo managed to touch it enough."
+        ],
+        "495": [
+            1620.98,
+            1622.98,
+            "He wants to take out the tucu."
+        ],
+        "496": [
+            1622.98,
+            1624.98,
+            "He plays it on the sideline for Sisto."
+        ],
+        "497": [
+            1624.98,
+            1626.98,
+            "It takes Sisto an hour and a half to control it."
+        ],
+        "498": [
+            1626.98,
+            1628.98,
+            "And Real Madrid recovers it."
+        ],
+        "499": [
+            1628.98,
+            1630.98,
+            "There's Benzema the counter."
+        ],
+        "500": [
+            1630.98,
+            1632.98,
+            "Attention to Cristiano."
+        ],
+        "501": [
+            1632.98,
+            1634.98,
+            "Benzema inside the area."
+        ],
+        "502": [
+            1634.98,
+            1636.98,
+            "He is going to cut Benzema."
+        ],
+        "503": [
+            1636.98,
+            1638.98,
+            "He's going to play it alone."
+        ],
+        "504": [
+            1638.98,
+            1640.98,
+            "There you run out of space."
+        ],
+        "505": [
+            1640.98,
+            1642.98,
+            "He protected Roncaña phenomenally well for Real Madrid."
+        ],
+        "506": [
+            1642.98,
+            1644.98,
+            "The Vigo center has a pending issue in this match."
+        ],
+        "507": [
+            1644.98,
+            1646.98,
+            "Danger is absent in his game."
+        ],
+        "508": [
+            1646.98,
+            1648.98,
+            "It is also due to merit that Madrid defends well."
+        ],
+        "509": [
+            1648.98,
+            1650.98,
+            "He collects a lot of football behind the ball."
+        ],
+        "510": [
+            1650.98,
+            1652.98,
+            "When the center is circulating with the 1."
+        ],
+        "511": [
+            1652.98,
+            1654.98,
+            "But creating danger..."
+        ],
+        "512": [
+            1654.98,
+            1656.98,
+            "He is missing Fang."
+        ],
+        "513": [
+            1656.98,
+            1658.98,
+            "I think he is playing well."
+        ],
+        "514": [
+            1658.98,
+            1660.98,
+            "Moving the ball well."
+        ],
+        "515": [
+            1660.98,
+            1662.98,
+            "He is pressing well without the ball."
+        ],
+        "516": [
+            1662.98,
+            1664.98,
+            "He is making it very academic."
+        ],
+        "517": [
+            1664.98,
+            1666.98,
+            "But it is true that up top entreguirete does not receive."
+        ],
+        "518": [
+            1666.98,
+            1668.98,
+            "And Sisto is very unlucky."
+        ],
+        "519": [
+            1668.98,
+            1670.98,
+            "Le is really missing"
+        ],
+        "520": [
+            1670.98,
+            1672.98,
+            "comprehension."
+        ],
+        "521": [
+            1672.98,
+            1674.98,
+            "It really is complicated for Madrid."
+        ],
+        "522": [
+            1702.98,
+            1704.98,
+            "It is very clear."
+        ],
+        "523": [
+            1704.98,
+            1706.98,
+            "The Celta de Vigo player."
+        ],
+        "524": [
+            1706.98,
+            1708.98,
+            "Who apologizes from a distance."
+        ],
+        "525": [
+            1708.98,
+            1710.98,
+            "Esco recovers helped by Toni Kroos."
+        ],
+        "526": [
+            1710.98,
+            1712.98,
+            "I insist on what we discussed."
+        ],
+        "527": [
+            1712.98,
+            1714.98,
+            "Celta's lack of Fang."
+        ],
+        "528": [
+            1714.98,
+            1716.98,
+            "El Tucu and Vassa are too far from the danger zone."
+        ],
+        "529": [
+            1716.98,
+            1718.98,
+            "Quality men."
+        ],
+        "530": [
+            1718.98,
+            1720.98,
+            "It shows in that type of action."
+        ],
+        "531": [
+            1720.98,
+            1722.98,
+            "When they bring pressure"
+        ],
+        "532": [
+            1722.98,
+            1724.98,
+            "and they solve it as if it were easy."
+        ],
+        "533": [
+            1724.98,
+            1726.98,
+            "Celta is going to play from behind."
+        ],
+        "534": [
+            1726.98,
+            1728.98,
+            "He does it with Cabral's name."
+        ],
+        "535": [
+            1728.98,
+            1730.98,
+            "He handed the ball over to Sisto."
+        ],
+        "536": [
+            1730.98,
+            1732.98,
+            "Center."
+        ],
+        "537": [
+            1732.98,
+            1734.98,
+            "Short men for Tucu."
+        ],
+        "538": [
+            1734.98,
+            1736.98,
+            "Sergio Ramos is leaving."
+        ],
+        "539": [
+            1736.98,
+            1738.98,
+            "Help is coming."
+        ],
+        "540": [
+            1738.98,
+            1740.98,
+            "From Guidetti to Jozabed."
+        ],
+        "541": [
+            1740.98,
+            1742.98,
+            "The foul and the card for Casemiro."
+        ],
+        "542": [
+            1744.98,
+            1746.98,
+            "The foul and the card for Casemiro."
+        ],
+        "543": [
+            1746.98,
+            1748.98,
+            "That he left desperate to avoid the auction."
+        ],
+        "544": [
+            1748.98,
+            1750.98,
+            "It was with everything."
+        ],
+        "545": [
+            1750.98,
+            1752.98,
+            "And the yellow cardboard was lost."
+        ],
+        "546": [
+            1752.98,
+            1754.98,
+            "It is acceptable."
+        ],
+        "547": [
+            1754.98,
+            1756.98,
+            "It's unnecessary."
+        ],
+        "548": [
+            1756.98,
+            1758.98,
+            "It's a bit of agony to see"
+        ],
+        "549": [
+            1758.98,
+            1760.98,
+            "in a desert of danger."
+        ],
+        "550": [
+            1760.98,
+            1762.98,
+            "And there you see it."
+        ],
+        "551": [
+            1762.98,
+            1764.98,
+            "He goes with everything against Jehozabed."
+        ],
+        "552": [
+            1764.98,
+            1766.98,
+            "The cardboard is where the ball is."
+        ],
+        "553": [
+            1766.98,
+            1768.98,
+            "And where Casemiro arrives."
+        ],
+        "554": [
+            1768.98,
+            1770.98,
+            "He knows he received the cardboard."
+        ],
+        "555": [
+            1770.98,
+            1772.98,
+            "And now the lack is dangerous"
+        ],
+        "556": [
+            1772.98,
+            1774.98,
+            "in front of Keilo Navas' goal."
+        ],
+        "557": [
+            1774.98,
+            1776.98,
+            "29 minutes 0-1."
+        ],
+        "558": [
+            1776.98,
+            1778.98,
+            "Madrid wins."
+        ],
+        "559": [
+            1778.98,
+            1780.98,
+            "Goal by Cristiano Ronaldo."
+        ],
+        "560": [
+            1780.98,
+            1782.98,
+            "It's better for a right-handed person."
+        ],
+        "561": [
+            1782.98,
+            1784.98,
+            "There is Vassa."
+        ],
+        "562": [
+            1784.98,
+            1786.98,
+            "He hits it very well with his right."
+        ],
+        "563": [
+            1786.98,
+            1788.98,
+            "And one of those is the two options."
+        ],
+        "564": [
+            1788.98,
+            1790.98,
+            "Vassa and Aspas."
+        ],
+        "565": [
+            1790.98,
+            1792.98,
+            "Pay attention to the launch."
+        ],
+        "566": [
+            1792.98,
+            1794.98,
+            "There goes up to three men near the ball."
+        ],
+        "567": [
+            1794.98,
+            1796.98,
+            "There is Aguirreti, there is Vassa."
+        ],
+        "568": [
+            1796.98,
+            1798.98,
+            "There is Yago Aspas."
+        ],
+        "569": [
+            1798.98,
+            1800.98,
+            "I guess the gallons"
+        ],
+        "570": [
+            1800.98,
+            1802.98,
+            "by Yago Aspas are going to prevail."
+        ],
+        "571": [
+            1802.98,
+            1804.98,
+            "I don't know if it's for your profile."
+        ],
+        "572": [
+            1804.98,
+            1806.98,
+            "Attention."
+        ],
+        "573": [
+            1806.98,
+            1808.98,
+            "Pay attention to the launch."
+        ],
+        "574": [
+            1808.98,
+            1810.98,
+            "Dangerous for Keilor Gate."
+        ],
+        "575": [
+            1810.98,
+            1812.98,
+            "Very nourished barrier."
+        ],
+        "576": [
+            1812.98,
+            1814.98,
+            "Little visibility for Keilor Navas."
+        ],
+        "577": [
+            1814.98,
+            1816.98,
+            "It's going to be Vassa."
+        ],
+        "578": [
+            1816.98,
+            1818.98,
+            "Keilor on the rebound!"
+        ],
+        "579": [
+            1818.98,
+            1820.98,
+            "My mother."
+        ],
+        "580": [
+            1820.98,
+            1822.98,
+            "It was an annulled play."
+        ],
+        "581": [
+            1822.98,
+            1824.98,
+            "Arroncaglia just saved the line."
+        ],
+        "582": [
+            1824.98,
+            1826.98,
+            "Look at what I just told you."
+        ],
+        "583": [
+            1826.98,
+            1828.98,
+            "I can not control."
+        ],
+        "584": [
+            1828.98,
+            1830.98,
+            "It was curious."
+        ],
+        "585": [
+            1830.98,
+            1832.98,
+            "I laugh a little."
+        ],
+        "586": [
+            1832.98,
+            1834.98,
+            "Before the foul, Arroncaglia"
+        ],
+        "587": [
+            1834.98,
+            1836.98,
+            "I was looking at Keilor"
+        ],
+        "588": [
+            1836.98,
+            1838.98,
+            "making gestures, etc."
+        ],
+        "589": [
+            1838.98,
+            1840.98,
+            "As I was ready"
+        ],
+        "590": [
+            1840.98,
+            1842.98,
+            "To finish off in the case that"
+        ],
+        "591": [
+            1842.98,
+            1844.98,
+            "he had been rejected."
+        ],
+        "592": [
+            1844.98,
+            1846.98,
+            "It was game time."
+        ],
+        "593": [
+            1846.98,
+            1848.98,
+            "But Arroncaglia wanted to control it."
+        ],
+        "594": [
+            1848.98,
+            1850.98,
+            "Good success"
+        ],
+        "595": [
+            1850.98,
+            1852.98,
+            "by the assistant."
+        ],
+        "596": [
+            1852.98,
+            1854.98,
+            "It wasn't easy at all."
+        ],
+        "597": [
+            1854.98,
+            1856.98,
+            "It's a little early"
+        ],
+        "598": [
+            1856.98,
+            1858.98,
+            "with the head the player"
+        ],
+        "599": [
+            1858.98,
+            1860.98,
+            "of Celta de Vigo."
+        ],
+        "600": [
+            1860.98,
+            1862.98,
+            "Correct decision that you make"
+        ],
+        "601": [
+            1862.98,
+            1864.98,
+            "the assistant"
+        ],
+        "602": [
+            1864.98,
+            1866.98,
+            "Martin Immunuera."
+        ],
+        "603": [
+            1866.98,
+            1868.98,
+            "Celta plays the ball."
+        ],
+        "604": [
+            1868.98,
+            1870.98,
+            "The ball is for the team"
+        ],
+        "605": [
+            1870.98,
+            1872.98,
+            "of Real Madrid."
+        ],
+        "606": [
+            1872.98,
+            1874.98,
+            "Toto Bericho plays as I assist."
+        ],
+        "607": [
+            1874.98,
+            1876.98,
+            "Johnny comes by pulling the diagonal."
+        ],
+        "608": [
+            1876.98,
+            1878.98,
+            "Casemiro went ahead."
+        ],
+        "609": [
+            1878.98,
+            1880.98,
+            "He won possession for Real Madrid."
+        ],
+        "610": [
+            1880.98,
+            1882.98,
+            "Very serious mistake by Sergio Ramos."
+        ],
+        "611": [
+            1882.98,
+            1884.98,
+            "He takes the ball to Aspas"
+        ],
+        "612": [
+            1884.98,
+            1886.98,
+            "in the face on Varane."
+        ],
+        "613": [
+            1886.98,
+            1888.98,
+            "There goes the shot."
+        ],
+        "614": [
+            1888.98,
+            1890.98,
+            "He played it alone."
+        ],
+        "615": [
+            1890.98,
+            1892.98,
+            "Guidetti is rightly angry."
+        ],
+        "616": [
+            1892.98,
+            1894.98,
+            "Sergio's mistake."
+        ],
+        "617": [
+            1894.98,
+            1896.98,
+            "And then also Aspas."
+        ],
+        "618": [
+            1896.98,
+            1898.98,
+            "He apologizes to his colleagues"
+        ],
+        "619": [
+            1898.98,
+            1900.98,
+            "and Varane goes quickly there"
+        ],
+        "620": [
+            1900.98,
+            1902.98,
+            "to cross"
+        ],
+        "621": [
+            1902.98,
+            1904.98,
+            "and close the path to Yaguas."
+        ],
+        "622": [
+            1908.98,
+            1910.98,
+            "Keilo Navas is going to hit the ball."
+        ],
+        "623": [
+            1910.98,
+            1912.98,
+            "Celta is getting closer but"
+        ],
+        "624": [
+            1912.98,
+            1914.98,
+            "still no danger."
+        ],
+        "625": [
+            1914.98,
+            1916.98,
+            "The shot from a set piece and little else"
+        ],
+        "626": [
+            1916.98,
+            1918.98,
+            "has really done."
+        ],
+        "627": [
+            1918.98,
+            1920.98,
+            "Tucu is there head first to play the ball."
+        ],
+        "628": [
+            1920.98,
+            1922.98,
+            "Casemiro takes it."
+        ],
+        "629": [
+            1922.98,
+            1924.98,
+            "He has it to play cross country."
+        ],
+        "630": [
+            1924.98,
+            1926.98,
+            "He plays it for Marcelo."
+        ],
+        "631": [
+            1926.98,
+            1928.98,
+            "In face about Vaz."
+        ],
+        "632": [
+            1928.98,
+            1930.98,
+            "He is looking for company."
+        ],
+        "633": [
+            1930.98,
+            1932.98,
+            "Hold on and step on the ball to play it"
+        ],
+        "634": [
+            1932.98,
+            1934.98,
+            "about Marcelo. Marcelo who also"
+        ],
+        "635": [
+            1934.98,
+            1936.98,
+            "he takes his time. Turn around Marcelo"
+        ],
+        "636": [
+            1936.98,
+            1938.98,
+            "in front of Hugo Mayo. He will receive"
+        ],
+        "637": [
+            1938.98,
+            1940.98,
+            "Marcelo is missing. Protection on the ball"
+        ],
+        "638": [
+            1940.98,
+            1942.98,
+            "to Marcelo. Missing Hugo Mayo."
+        ],
+        "639": [
+            1942.98,
+            1944.98,
+            "Braz and Nilsen get angry."
+        ],
+        "640": [
+            1944.98,
+            1946.98,
+            "Well, previously I was telling you that those shipments"
+        ],
+        "641": [
+            1946.98,
+            1948.98,
+            "They haven't had us something that always looks for the sides."
+        ],
+        "642": [
+            1948.98,
+            1950.98,
+            "Always look for the bullets."
+        ],
+        "643": [
+            1952.98,
+            1954.98,
+            "Take out the book of the first rules."
+        ],
+        "644": [
+            1954.98,
+            1956.98,
+            "It's a monology."
+        ],
+        "645": [
+            1956.98,
+            1958.98,
+            "Never give your goalkeeper a loan"
+        ],
+        "646": [
+            1958.98,
+            1960.98,
+            "inside the backs and when you take out"
+        ],
+        "647": [
+            1960.98,
+            1962.98,
+            "goalkeepers generally look for the sides"
+        ],
+        "648": [
+            1962.98,
+            1964.98,
+            "because losing it is more"
+        ],
+        "649": [
+            1964.98,
+            1966.98,
+            "difficult to go on occasion."
+        ],
+        "650": [
+            1966.98,
+            1968.98,
+            "Of losing it in the center"
+        ],
+        "651": [
+            1968.98,
+            1970.98,
+            "It is more difficult to defend"
+        ],
+        "652": [
+            1970.98,
+            1972.98,
+            "kickback. Ball for him"
+        ],
+        "653": [
+            1972.98,
+            1974.98,
+            "Celta who plays at the back with Sergio."
+        ],
+        "654": [
+            1974.98,
+            1976.98,
+            "The goalkeeper."
+        ],
+        "655": [
+            1976.98,
+            1978.98,
+            "Unless you have Fernando Llorente as your forward."
+        ],
+        "656": [
+            1978.98,
+            1980.98,
+            "There it goes"
+        ],
+        "657": [
+            1980.98,
+            1982.98,
+            "but even if you have Fernando Llorente generally"
+        ],
+        "658": [
+            1982.98,
+            1984.98,
+            "you're going to want him a little evaded"
+        ],
+        "659": [
+            1984.98,
+            1986.98,
+            "to look for that ball."
+        ],
+        "660": [
+            1986.98,
+            1988.98,
+            "He touched to take out"
+        ],
+        "661": [
+            1988.98,
+            1990.98,
+            "the flower of Hugo Mayo's suit. Throw-in"
+        ],
+        "662": [
+            1990.98,
+            1992.98,
+            "for him"
+        ],
+        "663": [
+            1992.98,
+            1994.98,
+            "Real Madrid. 33 minutes."
+        ],
+        "664": [
+            1994.98,
+            1996.98,
+            "Real Madrid is playing."
+        ],
+        "665": [
+            1996.98,
+            1998.98,
+            "It's ahead."
+        ],
+        "666": [
+            1998.98,
+            2000.98,
+            "0-1 with a goal from Cristiano Ronaldo."
+        ],
+        "667": [
+            2000.98,
+            2002.98,
+            "Marcelo is going to play."
+        ],
+        "668": [
+            2002.98,
+            2004.98,
+            "Marcelo delivers the ball to"
+        ],
+        "669": [
+            2004.98,
+            2006.98,
+            "Casemiro. Casemiro's control escapes"
+        ],
+        "670": [
+            2006.98,
+            2008.98,
+            "and it will be a throw-in for Celta de Vigo."
+        ],
+        "671": [
+            2008.98,
+            2010.98,
+            "Guinetti and Sergio Ramos are there."
+        ],
+        "672": [
+            2010.98,
+            2012.98,
+            "He will miss Guinetti."
+        ],
+        "673": [
+            2012.98,
+            2014.98,
+            "Guinetti says that Sergio pushed him."
+        ],
+        "674": [
+            2014.98,
+            2016.98,
+            "What Sergio says is that Guinetti blocked him."
+        ],
+        "675": [
+            2016.98,
+            2018.98,
+            "And what the referee paints is"
+        ],
+        "676": [
+            2018.98,
+            2020.98,
+            "lack of Guinetti."
+        ],
+        "677": [
+            2020.98,
+            2022.98,
+            "The assistant protested and quickly"
+        ],
+        "678": [
+            2022.98,
+            2024.98,
+            "Martin de Monuera has gone to calm down"
+        ],
+        "679": [
+            2024.98,
+            2026.98,
+            "to tell him to stop protesting."
+        ],
+        "680": [
+            2030.98,
+            2032.98,
+            "Sergio Ramos is preparing to take out."
+        ],
+        "681": [
+            2036.98,
+            2038.98,
+            "He's going to play the ball there for Real Madrid."
+        ],
+        "682": [
+            2038.98,
+            2040.98,
+            "Sergio looking long up."
+        ],
+        "683": [
+            2040.98,
+            2042.98,
+            "Karim Benzema protégé."
+        ],
+        "684": [
+            2042.98,
+            2044.98,
+            "But he arrives to take out Baron Kage."
+        ],
+        "685": [
+            2044.98,
+            2046.98,
+            "Cristiano Ronaldo put his leg"
+        ],
+        "686": [
+            2046.98,
+            2048.98,
+            "with the perfect chest"
+        ],
+        "687": [
+            2048.98,
+            2050.98,
+            "for Guinetti. She leaves it behind."
+        ],
+        "688": [
+            2050.98,
+            2052.98,
+            "Doesn't progress."
+        ],
+        "689": [
+            2052.98,
+            2054.98,
+            "He cut the ball."
+        ],
+        "690": [
+            2054.98,
+            2056.98,
+            "Open again"
+        ],
+        "691": [
+            2056.98,
+            2058.98,
+            "the ball towards the wing. Is incorporated"
+        ],
+        "692": [
+            2058.98,
+            2060.98,
+            "Johnny. He has assistance from the side."
+        ],
+        "693": [
+            2060.98,
+            2062.98,
+            "Johnny receives again. He asks for it there"
+        ],
+        "694": [
+            2062.98,
+            2064.98,
+            "Jot. He touched the ball"
+        ],
+        "695": [
+            2064.98,
+            2066.98,
+            "for Tucu. Open the Tucu on Vaz."
+        ],
+        "696": [
+            2066.98,
+            2068.98,
+            "Centa's double pivot. Ball over the top."
+        ],
+        "697": [
+            2068.98,
+            2070.98,
+            "Complicated, very complicated"
+        ],
+        "698": [
+            2070.98,
+            2072.98,
+            "what Vaz tried. Goal kick."
+        ],
+        "699": [
+            2072.98,
+            2074.98,
+            "Guinetti, I tell you, has other virtues"
+        ],
+        "700": [
+            2074.98,
+            2076.98,
+            "but you don't believe in a fast forward. In that play"
+        ],
+        "701": [
+            2076.98,
+            2078.98,
+            "It has been quite clear."
+        ],
+        "702": [
+            2078.98,
+            2080.98,
+            "Even less fast if not the first."
+        ],
+        "703": [
+            2080.98,
+            2082.98,
+            "If you pass"
+        ],
+        "704": [
+            2082.98,
+            2084.98,
+            "three taps to buy something."
+        ],
+        "705": [
+            2084.98,
+            2086.98,
+            "There he was thrown"
+        ],
+        "706": [
+            2086.98,
+            2088.98,
+            "Rafael Varane on top and managed to cut"
+        ],
+        "707": [
+            2088.98,
+            2090.98,
+            "the play. The touch comes"
+        ],
+        "708": [
+            2090.98,
+            2092.98,
+            "of blades. We see it there."
+        ],
+        "709": [
+            2092.98,
+            2094.98,
+            "Little by little going a little more"
+        ],
+        "710": [
+            2094.98,
+            2096.98,
+            "inside to participate more. He needs"
+        ],
+        "711": [
+            2096.98,
+            2098.98,
+            "Let them find more blades."
+        ],
+        "712": [
+            2098.98,
+            2100.98,
+            "Keylor is going to take out."
+        ],
+        "713": [
+            2100.98,
+            2102.98,
+            "Keylor Nava's long ball"
+        ],
+        "714": [
+            2102.98,
+            2104.98,
+            "playing the ball up. He has won"
+        ],
+        "715": [
+            2104.98,
+            2106.98,
+            "the Tucu Hernández jump. Fenencia Carin"
+        ],
+        "716": [
+            2106.98,
+            2108.98,
+            "Benzema, Roncaglia. Inside"
+        ],
+        "717": [
+            2108.98,
+            2110.98,
+            "for Vaz. Vaz opens the ball"
+        ],
+        "718": [
+            2110.98,
+            2112.98,
+            "about the band. Hugo Mayo."
+        ],
+        "719": [
+            2112.98,
+            2114.98,
+            "Hugo Mayo is short on the inside."
+        ],
+        "720": [
+            2114.98,
+            2116.98,
+            "Iago crosses. They have played back on"
+        ],
+        "721": [
+            2116.98,
+            2118.98,
+            "the Tucu. Hernández's opening"
+        ],
+        "722": [
+            2118.98,
+            2120.98,
+            "in front of Cristiano who helps in defense."
+        ],
+        "723": [
+            2120.98,
+            2122.98,
+            "There he cuts along the side Johnny"
+        ],
+        "724": [
+            2122.98,
+            2124.98,
+            "Cristiano Ronaldo. Want to play"
+        ],
+        "725": [
+            2124.98,
+            2126.98,
+            "Iago blades. Pay attention to the cut."
+        ],
+        "726": [
+            2126.98,
+            2128.98,
+            "Side of the net."
+        ],
+        "727": [
+            2128.98,
+            2130.98,
+            "Because behind... After the rebound"
+        ],
+        "728": [
+            2130.98,
+            2132.98,
+            "Franca was left to look for the shot."
+        ],
+        "729": [
+            2132.98,
+            2134.98,
+            "Kick goal"
+        ],
+        "730": [
+            2134.98,
+            2136.98,
+            "for Celta de Vigo."
+        ],
+        "731": [
+            2136.98,
+            2138.98,
+            "35 match. 0-1."
+        ],
+        "732": [
+            2138.98,
+            2140.98,
+            "Real Madrid wins."
+        ],
+        "733": [
+            2140.98,
+            2142.98,
+            "Celta lacks other wings."
+        ],
+        "734": [
+            2142.98,
+            2144.98,
+            "There it was. Yeah."
+        ],
+        "735": [
+            2146.98,
+            2148.98,
+            "Now it's giving a little"
+        ],
+        "736": [
+            2148.98,
+            2150.98,
+            "more feeling of play in the last minutes"
+        ],
+        "737": [
+            2150.98,
+            2152.98,
+            "of Celtic. Coming more."
+        ],
+        "738": [
+            2152.98,
+            2154.98,
+            "Keylor plays."
+        ],
+        "739": [
+            2154.98,
+            2156.98,
+            "Long shipment from Tico about"
+        ],
+        "740": [
+            2156.98,
+            2158.98,
+            "the band, on the side."
+        ],
+        "741": [
+            2158.98,
+            2160.98,
+            "As they have told him, Roncaglia has cut his head off."
+        ],
+        "742": [
+            2160.98,
+            2162.98,
+            "Vaz rises ahead of Karim Benzema."
+        ],
+        "743": [
+            2162.98,
+            2164.98,
+            "The ball is for"
+        ],
+        "744": [
+            2164.98,
+            2166.98,
+            "Johnny. Open Johnny about Sisto."
+        ],
+        "745": [
+            2166.98,
+            2168.98,
+            "Sisto has Tucu Hernández ahead of him"
+        ],
+        "746": [
+            2168.98,
+            2170.98,
+            "and Guidetti. Jozabes who joins"
+        ],
+        "747": [
+            2170.98,
+            2172.98,
+            "in second line. It goes in speed"
+        ],
+        "748": [
+            2172.98,
+            2174.98,
+            "by Luka Modric. Search in the front"
+        ],
+        "749": [
+            2174.98,
+            2176.98,
+            "the ball for Yago aspas. It is offered"
+        ],
+        "750": [
+            2176.98,
+            2178.98,
+            "May. She goes to look for the shot. Out!"
+        ],
+        "751": [
+            2178.98,
+            2180.98,
+            "This one was dangerous"
+        ],
+        "752": [
+            2180.98,
+            2182.98,
+            "by Yago aspas."
+        ],
+        "753": [
+            2182.98,
+            2184.98,
+            "With his left leg, he looked for"
+        ],
+        "754": [
+            2184.98,
+            2186.98,
+            "Keylor's goal post."
+        ],
+        "755": [
+            2186.98,
+            2188.98,
+            "Goal kick."
+        ],
+        "756": [
+            2188.98,
+            2190.98,
+            "Try to activate"
+        ],
+        "757": [
+            2190.98,
+            2192.98,
+            "Gidana Gosellos and also asking"
+        ],
+        "758": [
+            2192.98,
+            2194.98,
+            "a little pause with the ball because"
+        ],
+        "759": [
+            2194.98,
+            2196.98,
+            "is losing it quickly and because Celta is"
+        ],
+        "760": [
+            2196.98,
+            2198.98,
+            "arriving and creating chances now yes"
+        ],
+        "761": [
+            2198.98,
+            2200.98,
+            "in these last minutes. They are the best minutes of the"
+        ],
+        "762": [
+            2200.98,
+            2202.98,
+            "Celtic now. She's starting to get more. Madrid has lost"
+        ],
+        "763": [
+            2202.98,
+            2204.98,
+            "control of the party. He didn't have it"
+        ],
+        "764": [
+            2204.98,
+            2206.98,
+            "never fully controlled,"
+        ],
+        "765": [
+            2206.98,
+            2208.98,
+            "but he has lost almost all that control."
+        ],
+        "766": [
+            2208.98,
+            2210.98,
+            "It's coming to us"
+        ],
+        "767": [
+            2210.98,
+            2212.98,
+            "the ball to Karim Benzema and what is"
+        ],
+        "768": [
+            2212.98,
+            2214.98,
+            "in the vicinity"
+        ],
+        "769": [
+            2214.98,
+            2216.98,
+            "by Keylor Navas, since that implies"
+        ],
+        "770": [
+            2216.98,
+            2218.98,
+            "obviously he is living right now"
+        ],
+        "771": [
+            2218.98,
+            2220.98,
+            "Celta his best minutes against"
+        ],
+        "772": [
+            2220.98,
+            2222.98,
+            "the first 20 that Real Madrid experienced."
+        ],
+        "773": [
+            2222.98,
+            2224.98,
+            "Celta plays the ball!"
+        ],
+        "774": [
+            2224.98,
+            2226.98,
+            "Hand over the Kuku. touch the ball"
+        ],
+        "775": [
+            2226.98,
+            2228.98,
+            "for Sisto. I am already in the Real field"
+        ],
+        "776": [
+            2228.98,
+            2230.98,
+            "Madrid. Long"
+        ],
+        "777": [
+            2230.98,
+            2232.98,
+            "I send for Johnny to run. He has won her back"
+        ],
+        "778": [
+            2232.98,
+            2234.98,
+            "to Danilo. He comes to the crossroads."
+        ],
+        "779": [
+            2234.98,
+            2236.98,
+            "Rafael Varane tries to leave."
+        ],
+        "780": [
+            2236.98,
+            2238.98,
+            "Attention that demands Manu"
+        ],
+        "781": [
+            2238.98,
+            2240.98,
+            "and the referee tells him to take a goal kick."
+        ],
+        "782": [
+            2240.98,
+            2242.98,
+            "Celta gets angry"
+        ],
+        "783": [
+            2242.98,
+            2244.98,
+            "and now all the"
+        ],
+        "784": [
+            2244.98,
+            2246.98,
+            "feeling that indeed Rafael"
+        ],
+        "785": [
+            2246.98,
+            2248.98,
+            "Varane hits him with his hand inside"
+        ],
+        "786": [
+            2248.98,
+            2250.98,
+            "of the area. That is the"
+        ],
+        "787": [
+            2250.98,
+            2252.98,
+            "sensation that it gave in the first take. We'll see"
+        ],
+        "788": [
+            2252.98,
+            2254.98,
+            "the repeated play because"
+        ],
+        "789": [
+            2254.98,
+            2256.98,
+            "There is Celta. He has reached the"
+        ],
+        "790": [
+            2256.98,
+            2258.98,
+            "yellow cardboard and we are going to see the play repeated."
+        ],
+        "791": [
+            2258.98,
+            2260.98,
+            "I think it's out."
+        ],
+        "792": [
+            2260.98,
+            2262.98,
+            "It can be outside the area, yes."
+        ],
+        "793": [
+            2262.98,
+            2264.98,
+            "It feels like it's Manu."
+        ],
+        "794": [
+            2264.98,
+            2266.98,
+            "Very complicated"
+        ],
+        "795": [
+            2266.98,
+            2268.98,
+            "say if it is inside or outside. It gives me"
+        ],
+        "796": [
+            2268.98,
+            2270.98,
+            "the air in this shot that is a little lighter."
+        ],
+        "797": [
+            2270.98,
+            2272.98,
+            "It's outside the area."
+        ],
+        "798": [
+            2272.98,
+            2274.98,
+            "I think it's out of the area."
+        ],
+        "799": [
+            2274.98,
+            2276.98,
+            "The referee is close"
+        ],
+        "800": [
+            2276.98,
+            2278.98,
+            "of the play and does not whistle anything."
+        ],
+        "801": [
+            2278.98,
+            2280.98,
+            "What also matters is the goal kick."
+        ],
+        "802": [
+            2280.98,
+            2282.98,
+            "Maybe what you understand is that he hits him with his hand or that he hits someone."
+        ],
+        "803": [
+            2282.98,
+            2284.98,
+            "Varane but off the pitch."
+        ],
+        "804": [
+            2284.98,
+            2286.98,
+            "I mean because what you have pointed out finally"
+        ],
+        "805": [
+            2286.98,
+            2288.98,
+            "It's a goal kick. The worst case would be"
+        ],
+        "806": [
+            2288.98,
+            2290.98,
+            "to Korn. That's clear."
+        ],
+        "807": [
+            2290.98,
+            2292.98,
+            "If what you understand is that the hand"
+        ],
+        "808": [
+            2292.98,
+            2294.98,
+            "is off the field of play."
+        ],
+        "809": [
+            2294.98,
+            2296.98,
+            "He thinks he's out of bounds."
+        ],
+        "810": [
+            2296.98,
+            2298.98,
+            "What even"
+        ],
+        "811": [
+            2298.98,
+            2300.98,
+            "if it is cooled, it is on top"
+        ],
+        "812": [
+            2300.98,
+            2302.98,
+            "over the line."
+        ],
+        "813": [
+            2302.98,
+            2304.98,
+            "very difficult to know"
+        ],
+        "814": [
+            2304.98,
+            2306.98,
+            "Where is that hand?"
+        ],
+        "815": [
+            2306.98,
+            2308.98,
+            "But touch the hand"
+        ],
+        "816": [
+            2308.98,
+            2310.98,
+            "It is evident that he touches with his arm"
+        ],
+        "817": [
+            2310.98,
+            2312.98,
+            "Rafael Varane also in a position"
+        ],
+        "818": [
+            2312.98,
+            2314.98,
+            "away from the body."
+        ],
+        "819": [
+            2314.98,
+            2316.98,
+            "Therefore the referee"
+        ],
+        "820": [
+            2316.98,
+            2318.98,
+            "if we interpret that he has seen"
+        ],
+        "821": [
+            2318.98,
+            2320.98,
+            "the hand, there can only be"
+        ],
+        "822": [
+            2320.98,
+            2322.98,
+            "interpreted that the hand is out of bounds"
+        ],
+        "823": [
+            2322.98,
+            2324.98,
+            "and therefore"
+        ],
+        "824": [
+            2324.98,
+            2326.98,
+            "It's a goal kick."
+        ],
+        "825": [
+            2326.98,
+            2328.98,
+            "If not, we will have to understand why he has not seen"
+        ],
+        "826": [
+            2328.98,
+            2330.98,
+            "hand. Yago Aspas has seen all this"
+        ],
+        "827": [
+            2330.98,
+            2332.98,
+            "the yellow cardboard in the protests."
+        ],
+        "828": [
+            2332.98,
+            2334.98,
+            "The ball is for Celta."
+        ],
+        "829": [
+            2334.98,
+            2336.98,
+            "There presses Karim Pentemán who looks a little"
+        ],
+        "830": [
+            2336.98,
+            2338.98,
+            "behind his teammate Fortuno Plisense"
+        ],
+        "831": [
+            2338.98,
+            2340.98,
+            "saying let's see what this is like."
+        ],
+        "832": [
+            2340.98,
+            2342.98,
+            "Are you coming with me or not? The ball behind"
+        ],
+        "833": [
+            2342.98,
+            2344.98,
+            "for Celtic. Sergio plays."
+        ],
+        "834": [
+            2344.98,
+            2346.98,
+            "Hand over to the band Jonny."
+        ],
+        "835": [
+            2346.98,
+            2348.98,
+            "It has Asisto in front of it and inside"
+        ],
+        "836": [
+            2348.98,
+            2350.98,
+            "Abbas receives again"
+        ],
+        "837": [
+            2350.98,
+            2352.98,
+            "Jonny. She has touched...Who?"
+        ],
+        "838": [
+            2354.98,
+            2356.98,
+            "Online has changed"
+        ],
+        "839": [
+            2356.98,
+            2358.98,
+            "the hand flag 3 or 4 times."
+        ],
+        "840": [
+            2358.98,
+            2360.98,
+            "For the right, for the left, for the left, for the right."
+        ],
+        "841": [
+            2360.98,
+            2362.98,
+            "One more repeated shot."
+        ],
+        "842": [
+            2364.98,
+            2366.98,
+            "I could want it to be outside but it gives me"
+        ],
+        "843": [
+            2366.98,
+            2368.98,
+            "the impression that it would at least be on the line."
+        ],
+        "844": [
+            2368.98,
+            2370.98,
+            "I think it's hand outside the network."
+        ],
+        "845": [
+            2370.98,
+            2372.98,
+            "The feeling."
+        ],
+        "846": [
+            2372.98,
+            2374.98,
+            "The ball ends voting now"
+        ],
+        "847": [
+            2374.98,
+            2376.98,
+            "inside the area and complicates more"
+        ],
+        "848": [
+            2376.98,
+            2378.98,
+            "the definition. A confusing move"
+        ],
+        "849": [
+            2378.98,
+            2380.98,
+            "evidently. What is not confusing is who"
+        ],
+        "850": [
+            2380.98,
+            2382.98,
+            "I hit him with my hand. He plays for Real Madrid."
+        ],
+        "851": [
+            2382.98,
+            2384.98,
+            "Now Luka Modric is trying to get there. There it goes"
+        ],
+        "852": [
+            2384.98,
+            2386.98,
+            "with force to Aspas to take away"
+        ],
+        "853": [
+            2386.98,
+            2388.98,
+            "that ball but he stole Toni Kroos's wallet."
+        ],
+        "854": [
+            2388.98,
+            2390.98,
+            "Pay attention to Madrid's counterattack, which is 4 for 4."
+        ],
+        "855": [
+            2390.98,
+            2392.98,
+            "Cristiano looking for Karim Pentemán inside the area."
+        ],
+        "856": [
+            2392.98,
+            2394.98,
+            "Sergio comes out. is in position"
+        ],
+        "857": [
+            2394.98,
+            2396.98,
+            "incorrect Karim Penteman."
+        ],
+        "858": [
+            2396.98,
+            2398.98,
+            "The Celtic with"
+        ],
+        "859": [
+            2398.98,
+            2400.98,
+            "hurry looking for speed."
+        ],
+        "860": [
+            2400.98,
+            2402.98,
+            "We are at 39. Aspas falls."
+        ],
+        "861": [
+            2402.98,
+            2404.98,
+            "Lack of Marcelo. It's coming into play"
+        ],
+        "862": [
+            2404.98,
+            2406.98,
+            "much more Aspas in this final stretch."
+        ],
+        "863": [
+            2406.98,
+            2408.98,
+            "Celta notices it a lot."
+        ],
+        "864": [
+            2408.98,
+            2410.98,
+            "Before I entered"
+        ],
+        "865": [
+            2410.98,
+            2412.98,
+            "Sisto is more at stake than Aspas. Now it's the other way around"
+        ],
+        "866": [
+            2412.98,
+            2414.98,
+            "and Celta logically better."
+        ],
+        "867": [
+            2414.98,
+            2416.98,
+            "It wasn't offside."
+        ],
+        "868": [
+            2416.98,
+            2418.98,
+            "We see it there."
+        ],
+        "869": [
+            2418.98,
+            2420.98,
+            "Indeed, Karim Pentemán was not offside."
+        ],
+        "870": [
+            2420.98,
+            2422.98,
+            "In the very play"
+        ],
+        "871": [
+            2422.98,
+            2424.98,
+            "tight but there wasn't one."
+        ],
+        "872": [
+            2424.98,
+            2426.98,
+            "Sergio Ramos touched the ball."
+        ],
+        "873": [
+            2426.98,
+            2428.98,
+            "So that Lormaz has all the time"
+        ],
+        "874": [
+            2428.98,
+            2430.98,
+            "to think. Play long up looking"
+        ],
+        "875": [
+            2430.98,
+            2432.98,
+            "the center circle to Karim Penteman."
+        ],
+        "876": [
+            2432.98,
+            2434.98,
+            "Daniel Vaz rises. Win the ball for Celta."
+        ],
+        "877": [
+            2434.98,
+            2436.98,
+            "Played the ball for Cabral. Cabral"
+        ],
+        "878": [
+            2436.98,
+            2438.98,
+            "He has Roncaglia short on the right"
+        ],
+        "879": [
+            2438.98,
+            2440.98,
+            "and Joni on the left. Joni receives."
+        ],
+        "880": [
+            2440.98,
+            2442.98,
+            "Play for Sisto on the divide."
+        ],
+        "881": [
+            2442.98,
+            2444.98,
+            "Back again with Sisto."
+        ],
+        "882": [
+            2444.98,
+            2446.98,
+            "I'm talking about the position of"
+        ],
+        "883": [
+            2446.98,
+            2448.98,
+            "Cabral. Cabral opens. Comes"
+        ],
+        "884": [
+            2448.98,
+            2450.98,
+            "Roncaglia. Hugo Mayo is offered. Inside"
+        ],
+        "885": [
+            2450.98,
+            2452.98,
+            "Vaz is coming. Too long. there is no one there"
+        ],
+        "886": [
+            2452.98,
+            2454.98,
+            "that can receive that ball. Roncaglia apologizes."
+        ],
+        "887": [
+            2454.98,
+            2456.98,
+            "The ball is for the goalkeeper"
+        ],
+        "888": [
+            2456.98,
+            2458.98,
+            "Keylor Navas."
+        ],
+        "889": [
+            2460.98,
+            2462.98,
+            "Play again"
+        ],
+        "890": [
+            2462.98,
+            2464.98,
+            "long because you can't find it"
+        ],
+        "891": [
+            2464.98,
+            2466.98,
+            "the way to..."
+        ],
+        "892": [
+            2466.98,
+            2468.98,
+            "He is making gestures."
+        ],
+        "893": [
+            2468.98,
+            2470.98,
+            "If you don't move, have someone come and ask for it."
+        ],
+        "894": [
+            2470.98,
+            2472.98,
+            "But well, Isco was very far from the action."
+        ],
+        "895": [
+            2472.98,
+            2474.98,
+            "He made a gesture of trying to get closer, but he didn't have time."
+        ],
+        "896": [
+            2474.98,
+            2476.98,
+            "Marcelo plays inside"
+        ],
+        "897": [
+            2476.98,
+            2478.98,
+            "for Karim Pentemán. With vision delivering"
+        ],
+        "898": [
+            2478.98,
+            2480.98,
+            "the ball for Danilo who has space to play."
+        ],
+        "899": [
+            2480.98,
+            2482.98,
+            "Christian on the line. Christian"
+        ],
+        "900": [
+            2482.98,
+            2484.98,
+            "which he returns for Danilo. Danilo that"
+        ],
+        "901": [
+            2484.98,
+            2486.98,
+            "hide Receives help from Luka Modric."
+        ],
+        "902": [
+            2486.98,
+            2488.98,
+            "Modric also has Casemiro nearby"
+        ],
+        "903": [
+            2488.98,
+            2490.98,
+            "and also Toni Kroos who is going to get closer."
+        ],
+        "904": [
+            2490.98,
+            2492.98,
+            "It is approaching German. Opening"
+        ],
+        "905": [
+            2492.98,
+            2494.98,
+            "to the band. It is not good. Hugo Mayo has cut off."
+        ],
+        "906": [
+            2494.98,
+            2496.98,
+            "Goaspa already has it. Play down."
+        ],
+        "907": [
+            2496.98,
+            2498.98,
+            "You go on the side. Hugo Mayo first."
+        ],
+        "908": [
+            2498.98,
+            2500.98,
+            "There you are wrong. She had more time. Guidetti enters"
+        ],
+        "909": [
+            2500.98,
+            2502.98,
+            "since ago. The lack."
+        ],
+        "910": [
+            2502.98,
+            2504.98,
+            "Bueno, Guidetti"
+        ],
+        "911": [
+            2504.98,
+            2506.98,
+            "It is not a football that I would call"
+        ],
+        "912": [
+            2506.98,
+            2508.98,
+            "subtle. Ninth."
+        ],
+        "913": [
+            2510.98,
+            2512.98,
+            "There goes the ball."
+        ],
+        "914": [
+            2512.98,
+            2514.98,
+            "Roncaglia in front of Isco."
+        ],
+        "915": [
+            2514.98,
+            2516.98,
+            "Played quickly"
+        ],
+        "916": [
+            2516.98,
+            2518.98,
+            "by Cabral with Roncaglia. Roncaglia"
+        ],
+        "917": [
+            2518.98,
+            2520.98,
+            "long up looking for Aspas' race."
+        ],
+        "918": [
+            2520.98,
+            2522.98,
+            "Guidetti who gets it. Guidetti who can play"
+        ],
+        "919": [
+            2522.98,
+            2524.98,
+            "for quotes."
+        ],
+        "920": [
+            2524.98,
+            2526.98,
+            "He has taken it. No, the pass"
+        ],
+        "921": [
+            2526.98,
+            2528.98,
+            "It was not subtle indeed because Iago"
+        ],
+        "922": [
+            2528.98,
+            2530.98,
+            "Aspas had plenty of room to"
+        ],
+        "923": [
+            2530.98,
+            2532.98,
+            "play. But he was not fine"
+        ],
+        "924": [
+            2532.98,
+            2534.98,
+            "Guidetti in attendance."
+        ],
+        "925": [
+            2534.98,
+            2536.98,
+            "The Celta that returns"
+        ],
+        "926": [
+            2536.98,
+            2538.98,
+            "to try it. It is having a lot of value and with"
+        ],
+        "927": [
+            2538.98,
+            2540.98,
+            "always danger. Yago Aspas looks for Guidetti."
+        ],
+        "928": [
+            2540.98,
+            2542.98,
+            "He has touched just enough. Rafa el Varane. it falls"
+        ],
+        "929": [
+            2542.98,
+            2544.98,
+            "to Marcelo. Marcelo to Toni Kroos."
+        ],
+        "930": [
+            2544.98,
+            2546.98,
+            "42 minutes. Try an exit."
+        ],
+        "931": [
+            2546.98,
+            2548.98,
+            "There Toni Kroos for Isco."
+        ],
+        "932": [
+            2548.98,
+            2550.98,
+            "Bait for Karim Benzema."
+        ],
+        "933": [
+            2550.98,
+            2552.98,
+            "Karim Benzema stops looking for Toni Kroos."
+        ],
+        "934": [
+            2552.98,
+            2554.98,
+            "The one left back. Down"
+        ],
+        "935": [
+            2554.98,
+            2556.98,
+            "it goes. Cabral and wins the"
+        ],
+        "936": [
+            2556.98,
+            2558.98,
+            "ball to Real Madrid."
+        ],
+        "937": [
+            2558.98,
+            2560.98,
+            "It seems that Karim Benzema has hurt himself."
+        ],
+        "938": [
+            2560.98,
+            2562.98,
+            "It seems that Karim Benzema has become"
+        ],
+        "939": [
+            2562.98,
+            2564.98,
+            "foot damage. He has become hooked."
+        ],
+        "940": [
+            2564.98,
+            2566.98,
+            "The ball is still in play"
+        ],
+        "941": [
+            2566.98,
+            2568.98,
+            "Celta de Vigo. Karim Benzema gets up."
+        ],
+        "942": [
+            2568.98,
+            2570.98,
+            "No problem. With the ball, Sisto."
+        ],
+        "943": [
+            2570.98,
+            2572.98,
+            "I stop with the ball."
+        ],
+        "944": [
+            2572.98,
+            2574.98,
+            "Garazo about Casemiro that he offers"
+        ],
+        "945": [
+            2574.98,
+            2576.98,
+            "the side. It comes in the"
+        ],
+        "946": [
+            2576.98,
+            2578.98,
+            "band to receive the Tuco Hernández"
+        ],
+        "947": [
+            2578.98,
+            2580.98,
+            "at the peak of the area. He's going to play the ball."
+        ],
+        "948": [
+            2580.98,
+            2582.98,
+            "Aspas plays back to Vaz."
+        ],
+        "949": [
+            2582.98,
+            2584.98,
+            "Vaz opens the ball to the side"
+        ],
+        "950": [
+            2584.98,
+            2586.98,
+            "for May. Hugo Mayo playing"
+        ],
+        "951": [
+            2586.98,
+            2588.98,
+            "with Guidetti. Guidetti"
+        ],
+        "952": [
+            2588.98,
+            2590.98,
+            "you can search the center. There it goes"
+        ],
+        "953": [
+            2590.98,
+            2592.98,
+            "to try short on Guidetti. Guidetti"
+        ],
+        "954": [
+            2592.98,
+            2594.98,
+            "look for a pipe. It doesn't come out. She has cut off Sergio"
+        ],
+        "955": [
+            2594.98,
+            2596.98,
+            "Ramos. Isco has it. Kroos plays first class."
+        ],
+        "956": [
+            2596.98,
+            2598.98,
+            "Sergio Ramos turning al"
+        ],
+        "957": [
+            2598.98,
+            2600.98,
+            "laid out for Isco. Isco that"
+        ],
+        "958": [
+            2600.98,
+            2602.98,
+            "seeks the departure of Cristiano Ronaldo."
+        ],
+        "959": [
+            2602.98,
+            2604.98,
+            "He's going to hook her on the pitch."
+        ],
+        "960": [
+            2604.98,
+            2606.98,
+            "Play Christian. He goes to search quickly."
+        ],
+        "961": [
+            2606.98,
+            2608.98,
+            "Cabral has cut the ball. I was looking"
+        ],
+        "962": [
+            2608.98,
+            2610.98,
+            "Karim Benzema. The author did not succeed"
+        ],
+        "963": [
+            2610.98,
+            2612.98,
+            "the only goal of the game. The ball"
+        ],
+        "964": [
+            2612.98,
+            2614.98,
+            "It's for Hugo Mayo. He plays back."
+        ],
+        "965": [
+            2614.98,
+            2616.98,
+            "Roncaña delivers the ball"
+        ],
+        "966": [
+            2616.98,
+            2618.98,
+            "for Vaz. Center circle."
+        ],
+        "967": [
+            2618.98,
+            2620.98,
+            "43 and a half of the first"
+        ],
+        "968": [
+            2620.98,
+            2622.98,
+            "half. 0-1 on the scoreboard"
+        ],
+        "969": [
+            2622.98,
+            2624.98,
+            "with the ball in the"
+        ],
+        "970": [
+            2624.98,
+            2626.98,
+            "Celta de Vigo. Oh, try to go"
+        ],
+        "971": [
+            2626.98,
+            2628.98,
+            "Dionis Sisto Closing"
+        ],
+        "972": [
+            2628.98,
+            2630.98,
+            "always Luka Modric. Making the coverage"
+        ],
+        "973": [
+            2630.98,
+            2632.98,
+            "to Danilo. The center looking up"
+        ],
+        "974": [
+            2632.98,
+            2634.98,
+            "Guidetti. Advantage for Rafael Varane."
+        ],
+        "975": [
+            2634.98,
+            2636.98,
+            "Kroos lowers the ball. Luka Modric has it."
+        ],
+        "976": [
+            2636.98,
+            2638.98,
+            "I found Karim Benzema. Try"
+        ],
+        "977": [
+            2638.98,
+            2640.98,
+            "hinder him Daniel Mas. Hold on there"
+        ],
+        "978": [
+            2640.98,
+            2642.98,
+            "the ball for Real Madrid. Karim"
+        ],
+        "979": [
+            2642.98,
+            2644.98,
+            "Benzema looking inside for Isco."
+        ],
+        "980": [
+            2644.98,
+            2646.98,
+            "Receives the pass from Luka Modric. He put the"
+        ],
+        "981": [
+            2646.98,
+            2648.98,
+            "Roncaña leg. She saved the furniture"
+        ],
+        "982": [
+            2648.98,
+            2650.98,
+            "for Celtic. had broken"
+        ],
+        "983": [
+            2650.98,
+            2652.98,
+            "the defense of Celta de Vigo. That arrival"
+        ],
+        "984": [
+            2652.98,
+            2654.98,
+            "on the second line of..."
+        ],
+        "985": [
+            2654.98,
+            2656.98,
+            "From the second line of"
+        ],
+        "986": [
+            2656.98,
+            2658.98,
+            "Isco."
+        ],
+        "987": [
+            2658.98,
+            2660.98,
+            "The ball for Celta. There it goes"
+        ],
+        "988": [
+            2660.98,
+            2662.98,
+            "Iago Aspas. He put the"
+        ],
+        "989": [
+            2662.98,
+            2664.98,
+            "Kroos leg. Shocked Iago"
+        ],
+        "990": [
+            2664.98,
+            2666.98,
+            "Aspas with Sergio Ramos involuntarily."
+        ],
+        "991": [
+            2666.98,
+            2668.98,
+            "He apologizes to him. Real Madrid has her. Christian"
+        ],
+        "992": [
+            2668.98,
+            2670.98,
+            "with Toni Kroos. Kroos y Kroos pone and Benzema."
+        ],
+        "993": [
+            2670.98,
+            2672.98,
+            "Benzema the crown. Ah! She stopped her"
+        ],
+        "994": [
+            2672.98,
+            2674.98,
+            "Sergio!"
+        ],
+        "995": [
+            2674.98,
+            2676.98,
+            "Kroos' pass is great. Yes. Magnificent. Before"
+        ],
+        "996": [
+            2676.98,
+            2678.98,
+            "very good pass also from Modric to Isco"
+        ],
+        "997": [
+            2678.98,
+            2680.98,
+            "that Isco did not reach Kroos' aspe. Yes. I get the feeling"
+        ],
+        "998": [
+            2680.98,
+            2682.98,
+            "that Benzema, Ricardo, is not quite well after"
+        ],
+        "999": [
+            2682.98,
+            2684.98,
+            "of the play we described before. Of the ankle. Now"
+        ],
+        "1000": [
+            2684.98,
+            2686.98,
+            "He has complained again. Sore."
+        ],
+        "1001": [
+            2686.98,
+            2688.98,
+            "He limps. Not ostensibly, but somewhat"
+        ],
+        "1002": [
+            2688.98,
+            2690.98,
+            "The French player from Real Madrid is in pain."
+        ],
+        "1003": [
+            2690.98,
+            2692.98,
+            "Yes. He's like jogging"
+        ],
+        "1004": [
+            2692.98,
+            2694.98,
+            "so you don't get cold, Michael. But"
+        ],
+        "1005": [
+            2694.98,
+            2696.98,
+            "that way of walking"
+        ],
+        "1006": [
+            2696.98,
+            2698.98,
+            "is that your ankle has bent and that"
+        ],
+        "1007": [
+            2698.98,
+            2700.98,
+            "You don't have it completely fine."
+        ]
+    }
+}

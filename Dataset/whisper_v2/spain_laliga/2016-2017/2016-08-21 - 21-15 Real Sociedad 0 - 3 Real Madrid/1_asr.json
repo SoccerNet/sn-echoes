@@ -1,0 +1,2629 @@
+{
+    "segments": {
+        "0": [
+            90.0,
+            97.0,
+            "El partido se realiza en el Real Madrid, el partido se realiza en el Real Madrid,"
+        ],
+        "1": [
+            97.0,
+            101.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "2": [
+            101.0,
+            105.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "3": [
+            105.0,
+            110.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "4": [
+            110.0,
+            115.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "5": [
+            115.0,
+            120.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "6": [
+            120.0,
+            125.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "7": [
+            125.0,
+            130.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "8": [
+            130.0,
+            135.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "9": [
+            135.0,
+            140.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "10": [
+            140.0,
+            145.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "11": [
+            145.0,
+            150.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "12": [
+            150.0,
+            155.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "13": [
+            155.0,
+            160.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "14": [
+            160.0,
+            165.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "15": [
+            165.0,
+            170.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "16": [
+            170.0,
+            175.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "17": [
+            175.0,
+            180.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "18": [
+            180.0,
+            185.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "19": [
+            185.0,
+            190.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "20": [
+            190.0,
+            195.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "21": [
+            195.0,
+            200.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "22": [
+            200.0,
+            205.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "23": [
+            205.0,
+            210.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "24": [
+            210.0,
+            215.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "25": [
+            215.0,
+            220.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "26": [
+            220.0,
+            225.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "27": [
+            225.0,
+            230.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "28": [
+            230.0,
+            235.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "29": [
+            235.0,
+            240.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "30": [
+            240.0,
+            245.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "31": [
+            245.0,
+            250.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "32": [
+            250.0,
+            255.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "33": [
+            255.0,
+            260.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "34": [
+            260.0,
+            265.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "35": [
+            265.0,
+            270.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "36": [
+            270.0,
+            275.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "37": [
+            275.0,
+            280.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "38": [
+            280.0,
+            285.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "39": [
+            285.0,
+            290.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "40": [
+            290.0,
+            295.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "41": [
+            295.0,
+            300.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "42": [
+            300.0,
+            305.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "43": [
+            305.0,
+            310.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "44": [
+            310.0,
+            315.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "45": [
+            315.0,
+            320.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "46": [
+            320.0,
+            325.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "47": [
+            325.0,
+            330.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "48": [
+            330.0,
+            335.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "49": [
+            335.0,
+            340.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "50": [
+            340.0,
+            345.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "51": [
+            345.0,
+            350.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "52": [
+            350.0,
+            355.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "53": [
+            355.0,
+            360.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "54": [
+            360.0,
+            365.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "55": [
+            365.0,
+            370.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "56": [
+            370.0,
+            375.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "57": [
+            375.0,
+            380.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "58": [
+            380.0,
+            385.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "59": [
+            385.0,
+            390.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "60": [
+            390.0,
+            395.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "61": [
+            395.0,
+            400.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "62": [
+            400.0,
+            405.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "63": [
+            405.0,
+            410.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "64": [
+            410.0,
+            415.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "65": [
+            415.0,
+            420.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "66": [
+            420.0,
+            425.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "67": [
+            425.0,
+            430.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "68": [
+            430.0,
+            435.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "69": [
+            435.0,
+            440.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "70": [
+            440.0,
+            445.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "71": [
+            445.0,
+            450.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "72": [
+            450.0,
+            455.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "73": [
+            455.0,
+            460.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "74": [
+            460.0,
+            465.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "75": [
+            465.0,
+            470.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "76": [
+            470.0,
+            475.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "77": [
+            475.0,
+            480.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "78": [
+            480.0,
+            485.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "79": [
+            485.0,
+            490.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "80": [
+            490.0,
+            495.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "81": [
+            495.0,
+            500.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "82": [
+            500.0,
+            505.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "83": [
+            505.0,
+            510.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "84": [
+            510.0,
+            515.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "85": [
+            515.0,
+            520.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "86": [
+            520.0,
+            525.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "87": [
+            525.0,
+            530.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "88": [
+            530.0,
+            535.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "89": [
+            535.0,
+            540.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "90": [
+            540.0,
+            545.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "91": [
+            545.0,
+            550.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "92": [
+            550.0,
+            555.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "93": [
+            555.0,
+            560.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "94": [
+            560.0,
+            565.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "95": [
+            565.0,
+            570.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "96": [
+            570.0,
+            575.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "97": [
+            575.0,
+            580.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "98": [
+            580.0,
+            585.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "99": [
+            585.0,
+            590.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "100": [
+            590.0,
+            595.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "101": [
+            595.0,
+            600.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "102": [
+            600.0,
+            605.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "103": [
+            605.0,
+            610.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "104": [
+            610.0,
+            615.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "105": [
+            615.0,
+            620.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "106": [
+            620.0,
+            625.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "107": [
+            625.0,
+            630.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "108": [
+            630.0,
+            635.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "109": [
+            635.0,
+            640.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "110": [
+            640.0,
+            645.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "111": [
+            645.0,
+            650.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "112": [
+            650.0,
+            655.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "113": [
+            655.0,
+            660.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "114": [
+            660.0,
+            665.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "115": [
+            665.0,
+            670.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "116": [
+            670.0,
+            675.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "117": [
+            675.0,
+            680.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "118": [
+            680.0,
+            685.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "119": [
+            685.0,
+            690.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "120": [
+            690.0,
+            695.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "121": [
+            695.0,
+            700.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "122": [
+            700.0,
+            705.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "123": [
+            705.0,
+            710.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "124": [
+            710.0,
+            715.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "125": [
+            715.0,
+            720.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "126": [
+            720.0,
+            725.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "127": [
+            725.0,
+            730.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "128": [
+            730.0,
+            735.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "129": [
+            735.0,
+            740.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "130": [
+            740.0,
+            745.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "131": [
+            745.0,
+            750.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "132": [
+            750.0,
+            755.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "133": [
+            755.0,
+            760.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "134": [
+            760.0,
+            765.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "135": [
+            765.0,
+            770.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "136": [
+            770.0,
+            775.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "137": [
+            775.0,
+            780.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "138": [
+            780.0,
+            785.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "139": [
+            785.0,
+            790.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "140": [
+            790.0,
+            795.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "141": [
+            795.0,
+            800.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "142": [
+            800.0,
+            805.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "143": [
+            805.0,
+            810.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "144": [
+            810.0,
+            815.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "145": [
+            815.0,
+            820.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "146": [
+            820.0,
+            825.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "147": [
+            825.0,
+            830.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "148": [
+            830.0,
+            835.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "149": [
+            835.0,
+            840.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "150": [
+            840.0,
+            845.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "151": [
+            845.0,
+            850.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "152": [
+            850.0,
+            855.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "153": [
+            855.0,
+            860.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "154": [
+            860.0,
+            865.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "155": [
+            865.0,
+            870.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "156": [
+            870.0,
+            875.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "157": [
+            875.0,
+            880.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "158": [
+            880.0,
+            885.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "159": [
+            885.0,
+            890.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "160": [
+            890.0,
+            895.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "161": [
+            895.0,
+            900.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "162": [
+            900.0,
+            905.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "163": [
+            905.0,
+            910.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "164": [
+            910.0,
+            915.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "165": [
+            915.0,
+            920.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "166": [
+            920.0,
+            925.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "167": [
+            925.0,
+            930.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "168": [
+            930.0,
+            935.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "169": [
+            935.0,
+            940.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "170": [
+            940.0,
+            945.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "171": [
+            945.0,
+            950.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "172": [
+            950.0,
+            955.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "173": [
+            955.0,
+            960.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "174": [
+            960.0,
+            965.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "175": [
+            965.0,
+            970.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "176": [
+            970.0,
+            975.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "177": [
+            975.0,
+            980.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "178": [
+            980.0,
+            985.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "179": [
+            985.0,
+            990.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "180": [
+            990.0,
+            995.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "181": [
+            995.0,
+            1000.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "182": [
+            1000.0,
+            1005.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "183": [
+            1005.0,
+            1010.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "184": [
+            1010.0,
+            1015.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "185": [
+            1015.0,
+            1020.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "186": [
+            1020.0,
+            1025.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "187": [
+            1025.0,
+            1030.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "188": [
+            1030.0,
+            1035.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "189": [
+            1035.0,
+            1040.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "190": [
+            1040.0,
+            1045.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "191": [
+            1045.0,
+            1050.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "192": [
+            1050.0,
+            1055.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "193": [
+            1055.0,
+            1060.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "194": [
+            1060.0,
+            1065.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "195": [
+            1065.0,
+            1070.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "196": [
+            1070.0,
+            1075.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "197": [
+            1075.0,
+            1080.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "198": [
+            1080.0,
+            1085.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "199": [
+            1085.0,
+            1090.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "200": [
+            1090.0,
+            1095.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "201": [
+            1095.0,
+            1100.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "202": [
+            1100.0,
+            1105.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "203": [
+            1105.0,
+            1110.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "204": [
+            1110.0,
+            1115.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "205": [
+            1115.0,
+            1120.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "206": [
+            1120.0,
+            1125.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "207": [
+            1125.0,
+            1130.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "208": [
+            1130.0,
+            1135.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "209": [
+            1135.0,
+            1140.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "210": [
+            1140.0,
+            1145.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "211": [
+            1145.0,
+            1150.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "212": [
+            1150.0,
+            1155.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "213": [
+            1155.0,
+            1160.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "214": [
+            1160.0,
+            1165.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "215": [
+            1165.0,
+            1170.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "216": [
+            1170.0,
+            1175.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "217": [
+            1175.0,
+            1180.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "218": [
+            1180.0,
+            1185.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "219": [
+            1185.0,
+            1190.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "220": [
+            1190.0,
+            1195.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "221": [
+            1195.0,
+            1200.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "222": [
+            1200.0,
+            1205.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "223": [
+            1205.0,
+            1210.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "224": [
+            1210.0,
+            1215.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "225": [
+            1215.0,
+            1220.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "226": [
+            1220.0,
+            1225.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "227": [
+            1225.0,
+            1230.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "228": [
+            1230.0,
+            1235.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "229": [
+            1235.0,
+            1240.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "230": [
+            1240.0,
+            1245.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "231": [
+            1245.0,
+            1250.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "232": [
+            1250.0,
+            1255.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "233": [
+            1255.0,
+            1260.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "234": [
+            1260.0,
+            1265.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "235": [
+            1265.0,
+            1270.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "236": [
+            1270.0,
+            1275.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "237": [
+            1275.0,
+            1280.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "238": [
+            1280.0,
+            1285.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "239": [
+            1285.0,
+            1290.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "240": [
+            1290.0,
+            1295.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "241": [
+            1295.0,
+            1300.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "242": [
+            1300.0,
+            1305.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "243": [
+            1305.0,
+            1310.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "244": [
+            1310.0,
+            1315.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "245": [
+            1315.0,
+            1320.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "246": [
+            1320.0,
+            1325.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "247": [
+            1325.0,
+            1330.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "248": [
+            1330.0,
+            1335.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "249": [
+            1335.0,
+            1340.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "250": [
+            1340.0,
+            1345.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "251": [
+            1345.0,
+            1350.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "252": [
+            1350.0,
+            1355.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "253": [
+            1355.0,
+            1360.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "254": [
+            1360.0,
+            1365.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "255": [
+            1365.0,
+            1370.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "256": [
+            1370.0,
+            1375.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "257": [
+            1375.0,
+            1380.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "258": [
+            1380.0,
+            1385.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "259": [
+            1385.0,
+            1390.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "260": [
+            1390.0,
+            1395.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "261": [
+            1395.0,
+            1400.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "262": [
+            1400.0,
+            1405.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "263": [
+            1405.0,
+            1410.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "264": [
+            1410.0,
+            1415.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "265": [
+            1415.0,
+            1420.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "266": [
+            1420.0,
+            1425.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "267": [
+            1425.0,
+            1430.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "268": [
+            1430.0,
+            1435.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "269": [
+            1435.0,
+            1440.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "270": [
+            1440.0,
+            1445.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "271": [
+            1445.0,
+            1450.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "272": [
+            1450.0,
+            1455.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "273": [
+            1455.0,
+            1460.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "274": [
+            1460.0,
+            1465.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "275": [
+            1465.0,
+            1470.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "276": [
+            1470.0,
+            1475.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "277": [
+            1475.0,
+            1480.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "278": [
+            1480.0,
+            1485.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "279": [
+            1485.0,
+            1490.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "280": [
+            1490.0,
+            1495.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "281": [
+            1495.0,
+            1500.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "282": [
+            1500.0,
+            1505.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "283": [
+            1505.0,
+            1510.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "284": [
+            1510.0,
+            1515.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "285": [
+            1515.0,
+            1520.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "286": [
+            1520.0,
+            1525.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "287": [
+            1525.0,
+            1530.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "288": [
+            1530.0,
+            1535.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "289": [
+            1535.0,
+            1540.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "290": [
+            1540.0,
+            1545.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "291": [
+            1545.0,
+            1550.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "292": [
+            1550.0,
+            1555.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "293": [
+            1555.0,
+            1560.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "294": [
+            1560.0,
+            1565.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "295": [
+            1565.0,
+            1570.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "296": [
+            1570.0,
+            1575.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "297": [
+            1575.0,
+            1580.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "298": [
+            1580.0,
+            1585.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "299": [
+            1585.0,
+            1590.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "300": [
+            1590.0,
+            1595.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "301": [
+            1595.0,
+            1600.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "302": [
+            1600.0,
+            1605.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "303": [
+            1605.0,
+            1610.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "304": [
+            1610.0,
+            1615.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "305": [
+            1615.0,
+            1620.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "306": [
+            1620.0,
+            1625.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "307": [
+            1625.0,
+            1630.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "308": [
+            1630.0,
+            1635.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "309": [
+            1635.0,
+            1640.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "310": [
+            1640.0,
+            1645.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "311": [
+            1645.0,
+            1650.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "312": [
+            1650.0,
+            1655.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "313": [
+            1655.0,
+            1660.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "314": [
+            1660.0,
+            1665.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "315": [
+            1665.0,
+            1670.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "316": [
+            1670.0,
+            1675.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "317": [
+            1675.0,
+            1680.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "318": [
+            1680.0,
+            1685.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "319": [
+            1685.0,
+            1690.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "320": [
+            1690.0,
+            1695.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "321": [
+            1695.0,
+            1700.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "322": [
+            1700.0,
+            1705.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "323": [
+            1705.0,
+            1710.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "324": [
+            1710.0,
+            1715.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "325": [
+            1715.0,
+            1720.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "326": [
+            1720.0,
+            1725.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "327": [
+            1725.0,
+            1730.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "328": [
+            1730.0,
+            1735.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "329": [
+            1735.0,
+            1740.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "330": [
+            1740.0,
+            1745.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "331": [
+            1745.0,
+            1750.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "332": [
+            1750.0,
+            1755.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "333": [
+            1755.0,
+            1760.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "334": [
+            1760.0,
+            1765.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "335": [
+            1765.0,
+            1770.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "336": [
+            1770.0,
+            1775.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "337": [
+            1775.0,
+            1780.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "338": [
+            1780.0,
+            1785.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "339": [
+            1785.0,
+            1790.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "340": [
+            1790.0,
+            1795.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "341": [
+            1795.0,
+            1800.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "342": [
+            1800.0,
+            1805.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "343": [
+            1805.0,
+            1810.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "344": [
+            1810.0,
+            1815.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "345": [
+            1815.0,
+            1820.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "346": [
+            1820.0,
+            1825.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "347": [
+            1825.0,
+            1830.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "348": [
+            1830.0,
+            1835.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "349": [
+            1835.0,
+            1840.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "350": [
+            1840.0,
+            1845.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "351": [
+            1845.0,
+            1850.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "352": [
+            1850.0,
+            1855.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "353": [
+            1855.0,
+            1860.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "354": [
+            1860.0,
+            1865.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "355": [
+            1865.0,
+            1870.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "356": [
+            1870.0,
+            1875.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "357": [
+            1875.0,
+            1880.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "358": [
+            1880.0,
+            1885.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "359": [
+            1885.0,
+            1890.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "360": [
+            1890.0,
+            1895.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "361": [
+            1895.0,
+            1900.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "362": [
+            1900.0,
+            1905.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "363": [
+            1905.0,
+            1910.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "364": [
+            1910.0,
+            1915.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "365": [
+            1915.0,
+            1920.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "366": [
+            1920.0,
+            1925.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "367": [
+            1925.0,
+            1930.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "368": [
+            1930.0,
+            1935.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "369": [
+            1935.0,
+            1940.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "370": [
+            1940.0,
+            1945.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "371": [
+            1945.0,
+            1950.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "372": [
+            1950.0,
+            1955.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "373": [
+            1955.0,
+            1960.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "374": [
+            1960.0,
+            1965.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "375": [
+            1965.0,
+            1970.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "376": [
+            1970.0,
+            1975.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "377": [
+            1975.0,
+            1980.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "378": [
+            1980.0,
+            1985.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "379": [
+            1985.0,
+            1990.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "380": [
+            1990.0,
+            1995.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "381": [
+            1995.0,
+            2000.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "382": [
+            2000.0,
+            2005.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "383": [
+            2005.0,
+            2010.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "384": [
+            2010.0,
+            2015.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "385": [
+            2015.0,
+            2020.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "386": [
+            2020.0,
+            2025.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "387": [
+            2025.0,
+            2030.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "388": [
+            2030.0,
+            2035.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "389": [
+            2035.0,
+            2040.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "390": [
+            2040.0,
+            2045.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "391": [
+            2045.0,
+            2050.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "392": [
+            2050.0,
+            2055.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "393": [
+            2055.0,
+            2060.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "394": [
+            2060.0,
+            2065.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "395": [
+            2065.0,
+            2070.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "396": [
+            2070.0,
+            2075.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "397": [
+            2075.0,
+            2080.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "398": [
+            2080.0,
+            2085.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "399": [
+            2085.0,
+            2090.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "400": [
+            2090.0,
+            2095.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "401": [
+            2095.0,
+            2100.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "402": [
+            2100.0,
+            2105.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "403": [
+            2105.0,
+            2110.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "404": [
+            2110.0,
+            2115.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "405": [
+            2115.0,
+            2120.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "406": [
+            2120.0,
+            2125.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "407": [
+            2125.0,
+            2130.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "408": [
+            2130.0,
+            2135.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "409": [
+            2135.0,
+            2140.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "410": [
+            2140.0,
+            2145.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "411": [
+            2145.0,
+            2150.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "412": [
+            2150.0,
+            2155.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "413": [
+            2155.0,
+            2160.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "414": [
+            2160.0,
+            2165.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "415": [
+            2165.0,
+            2170.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "416": [
+            2170.0,
+            2175.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "417": [
+            2175.0,
+            2180.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "418": [
+            2180.0,
+            2185.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "419": [
+            2185.0,
+            2190.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "420": [
+            2190.0,
+            2195.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "421": [
+            2195.0,
+            2200.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "422": [
+            2200.0,
+            2205.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "423": [
+            2205.0,
+            2210.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "424": [
+            2210.0,
+            2215.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "425": [
+            2215.0,
+            2220.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "426": [
+            2220.0,
+            2225.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "427": [
+            2225.0,
+            2230.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "428": [
+            2230.0,
+            2235.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "429": [
+            2235.0,
+            2240.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "430": [
+            2240.0,
+            2245.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "431": [
+            2245.0,
+            2250.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "432": [
+            2250.0,
+            2255.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "433": [
+            2255.0,
+            2260.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "434": [
+            2260.0,
+            2265.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "435": [
+            2265.0,
+            2270.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "436": [
+            2270.0,
+            2275.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "437": [
+            2275.0,
+            2280.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "438": [
+            2280.0,
+            2285.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "439": [
+            2285.0,
+            2290.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "440": [
+            2290.0,
+            2295.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "441": [
+            2295.0,
+            2300.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "442": [
+            2300.0,
+            2305.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "443": [
+            2305.0,
+            2310.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "444": [
+            2310.0,
+            2315.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "445": [
+            2315.0,
+            2320.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "446": [
+            2320.0,
+            2325.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "447": [
+            2325.0,
+            2330.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "448": [
+            2330.0,
+            2335.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "449": [
+            2335.0,
+            2340.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "450": [
+            2340.0,
+            2345.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "451": [
+            2345.0,
+            2350.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "452": [
+            2350.0,
+            2355.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "453": [
+            2355.0,
+            2360.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "454": [
+            2360.0,
+            2365.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "455": [
+            2365.0,
+            2370.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "456": [
+            2370.0,
+            2375.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "457": [
+            2375.0,
+            2380.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "458": [
+            2380.0,
+            2385.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "459": [
+            2385.0,
+            2390.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "460": [
+            2390.0,
+            2395.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "461": [
+            2395.0,
+            2400.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "462": [
+            2400.0,
+            2405.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "463": [
+            2405.0,
+            2410.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "464": [
+            2410.0,
+            2415.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "465": [
+            2415.0,
+            2420.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "466": [
+            2420.0,
+            2425.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "467": [
+            2425.0,
+            2430.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "468": [
+            2430.0,
+            2435.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "469": [
+            2435.0,
+            2440.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "470": [
+            2440.0,
+            2445.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "471": [
+            2445.0,
+            2450.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "472": [
+            2450.0,
+            2455.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "473": [
+            2455.0,
+            2460.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "474": [
+            2460.0,
+            2465.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "475": [
+            2465.0,
+            2470.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "476": [
+            2470.0,
+            2475.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "477": [
+            2475.0,
+            2480.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "478": [
+            2480.0,
+            2485.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "479": [
+            2485.0,
+            2490.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "480": [
+            2490.0,
+            2495.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "481": [
+            2495.0,
+            2500.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "482": [
+            2500.0,
+            2505.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "483": [
+            2505.0,
+            2510.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "484": [
+            2510.0,
+            2515.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "485": [
+            2515.0,
+            2520.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "486": [
+            2520.0,
+            2525.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "487": [
+            2525.0,
+            2530.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "488": [
+            2530.0,
+            2535.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "489": [
+            2535.0,
+            2540.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "490": [
+            2540.0,
+            2545.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "491": [
+            2545.0,
+            2550.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "492": [
+            2550.0,
+            2555.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "493": [
+            2555.0,
+            2560.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "494": [
+            2560.0,
+            2565.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "495": [
+            2565.0,
+            2570.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "496": [
+            2570.0,
+            2575.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "497": [
+            2575.0,
+            2580.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "498": [
+            2580.0,
+            2585.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "499": [
+            2585.0,
+            2590.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "500": [
+            2590.0,
+            2595.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "501": [
+            2595.0,
+            2600.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "502": [
+            2600.0,
+            2605.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "503": [
+            2605.0,
+            2610.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "504": [
+            2610.0,
+            2615.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "505": [
+            2615.0,
+            2620.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "506": [
+            2620.0,
+            2625.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "507": [
+            2625.0,
+            2630.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "508": [
+            2630.0,
+            2635.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "509": [
+            2635.0,
+            2640.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "510": [
+            2640.0,
+            2645.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "511": [
+            2645.0,
+            2650.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "512": [
+            2650.0,
+            2655.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "513": [
+            2655.0,
+            2660.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "514": [
+            2660.0,
+            2665.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "515": [
+            2665.0,
+            2670.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "516": [
+            2670.0,
+            2675.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "517": [
+            2675.0,
+            2680.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "518": [
+            2680.0,
+            2685.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "519": [
+            2685.0,
+            2690.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "520": [
+            2690.0,
+            2695.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "521": [
+            2695.0,
+            2700.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "522": [
+            2700.0,
+            2705.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "523": [
+            2705.0,
+            2710.0,
+            "el partido se realiza en el Real Madrid,"
+        ],
+        "524": [
+            2710.0,
+            2715.0,
+            "el partido se realiza en el Real Madrid,"
+        ]
+    }
+}

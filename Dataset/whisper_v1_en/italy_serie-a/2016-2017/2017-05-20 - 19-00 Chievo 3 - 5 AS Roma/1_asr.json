@@ -1,0 +1,4464 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            6.0,
+            "Anda Maran played. In the meantime, Antonio D'Amato's whistle sounds and the lineups are already detailed."
+        ],
+        "1": [
+            6.0,
+            10.0,
+            "I'll start with the hosts. Their goal in the first half is on the left."
+        ],
+        "2": [
+            10.0,
+            16.0,
+            "Kieva is playing in a dark uniform today."
+        ],
+        "3": [
+            16.0,
+            20.0,
+            "So in goal is Stefano Sorrentino, number 70, in defense."
+        ],
+        "4": [
+            20.0,
+            26.0,
+            "From right to left Fabrizio Cacciatore, 29th. Now Chieva, by the way, is attacking."
+        ],
+        "5": [
+            26.0,
+            31.0,
+            "Strong Roberto Ingrese, I will continue with the lineup later, De Pauli serves."
+        ],
+        "6": [
+            31.0,
+            35.0,
+            "Bastian's blow, his blow doesn't work."
+        ],
+        "7": [
+            35.0,
+            43.0,
+            "So, 29th Fabrizio Cacciatore, 5th Alexander Gamberini, 12th Boshtin Caesar,"
+        ],
+        "8": [
+            43.0,
+            48.0,
+            "Team captain, 18th Massimo Gobi. Three central midfielders."
+        ],
+        "9": [
+            48.0,
+            56.0,
+            "Fabio De Pauli, number 97, 8th Ivan Radavanovich, 28th Sumoil Bastian."
+        ],
+        "10": [
+            56.0,
+            59.0,
+            "And a little ahead under the attackers is Lucas Custer, 19th."
+        ],
+        "11": [
+            59.0,
+            64.0,
+            "A couple of forwards, one in the draw, this is Walter Birsa, 23rd."
+        ],
+        "12": [
+            64.0,
+            69.0,
+            "And one clean forward, that's number 45 Roberto Ingrese."
+        ],
+        "13": [
+            69.0,
+            71.0,
+            "Rolando Moran, head coach of Kiev."
+        ],
+        "14": [
+            71.0,
+            76.0,
+            "Now the Roma line-up. In the goal is Wojchikh Shenzny, number 1, in defense."
+        ],
+        "15": [
+            77.0,
+            85.0,
+            "On the right is 2nd Antonio Rüdeger. In the center are 20th Federico Fazio and 44th Kostas Manolas."
+        ],
+        "16": [
+            85.0,
+            88.0,
+            "33rd Emerson in left defense."
+        ],
+        "17": [
+            89.0,
+            91.0,
+            "Three central midfielders."
+        ],
+        "18": [
+            91.0,
+            97.0,
+            "This is the 6th Kevin Strotman, the 16th team captain Daniel Desrosy and the 5th Leandro Paredos."
+        ],
+        "19": [
+            97.0,
+            100.0,
+            "Raja Nyngalan is not playing today."
+        ],
+        "20": [
+            100.0,
+            102.0,
+            "Remained, I repeat, in reserve."
+        ],
+        "21": [
+            102.0,
+            104.0,
+            "On the left, in defense, in the center."
+        ],
+        "22": [
+            104.0,
+            106.0,
+            "On the left, in defense, in the center."
+        ],
+        "23": [
+            106.0,
+            108.0,
+            "On the left, in defense, in the center."
+        ],
+        "24": [
+            108.0,
+            110.0,
+            "On the left, in defense, in the center."
+        ],
+        "25": [
+            110.0,
+            112.0,
+            "On the left, in defense, in the center."
+        ],
+        "26": [
+            112.0,
+            114.0,
+            "On the left, in defense, in the center."
+        ],
+        "27": [
+            114.0,
+            116.0,
+            "On the left, in defense, in the center."
+        ],
+        "28": [
+            116.0,
+            118.0,
+            "On the left, in defense, in the center."
+        ],
+        "29": [
+            118.0,
+            120.0,
+            "On the left, in defense, in the center."
+        ],
+        "30": [
+            120.0,
+            122.0,
+            "On the left, in defense, in the center."
+        ],
+        "31": [
+            122.0,
+            124.0,
+            "On the left, in defense, in the center."
+        ],
+        "32": [
+            124.0,
+            126.0,
+            "On the left, in defense, in the center."
+        ],
+        "33": [
+            126.0,
+            128.0,
+            "On the left, in defense, in the center."
+        ],
+        "34": [
+            128.0,
+            130.0,
+            "On the left, in defense, in the center."
+        ],
+        "35": [
+            130.0,
+            132.0,
+            "On the left, in defense, in the center."
+        ],
+        "36": [
+            132.0,
+            134.0,
+            "On the left, in defense, in the center."
+        ],
+        "37": [
+            134.0,
+            136.0,
+            "On the left, in defense, in the center."
+        ],
+        "38": [
+            136.0,
+            138.0,
+            "On the left, in defense, in the center."
+        ],
+        "39": [
+            138.0,
+            140.0,
+            "On the left, in defense, in the center."
+        ],
+        "40": [
+            140.0,
+            142.0,
+            "On the left, in defense, in the center."
+        ],
+        "41": [
+            142.0,
+            144.0,
+            "On the left, in defense, in the center."
+        ],
+        "42": [
+            144.0,
+            146.0,
+            "On the left, in defense, in the center."
+        ],
+        "43": [
+            146.0,
+            148.0,
+            "On the left, in defense, in the center."
+        ],
+        "44": [
+            148.0,
+            150.0,
+            "On the left, in defense, in the center."
+        ],
+        "45": [
+            150.0,
+            152.0,
+            "On the left, in defense, in the center."
+        ],
+        "46": [
+            152.0,
+            154.0,
+            "On the left, in defense, in the center."
+        ],
+        "47": [
+            154.0,
+            156.0,
+            "On the left, in defense, in the center."
+        ],
+        "48": [
+            156.0,
+            158.0,
+            "On the left, in defense, in the center."
+        ],
+        "49": [
+            158.0,
+            160.0,
+            "On the left, in defense, in the center."
+        ],
+        "50": [
+            160.0,
+            162.0,
+            "On the left, in defense, in the center."
+        ],
+        "51": [
+            162.0,
+            164.0,
+            "On the left, in defense, in the center."
+        ],
+        "52": [
+            164.0,
+            166.0,
+            "On the left, in defense, in the center."
+        ],
+        "53": [
+            166.0,
+            168.0,
+            "On the left, in defense, in the center."
+        ],
+        "54": [
+            168.0,
+            170.0,
+            "On the left, in defense, in the center."
+        ],
+        "55": [
+            170.0,
+            172.0,
+            "On the left, in defense, in the center."
+        ],
+        "56": [
+            172.0,
+            174.0,
+            "On the left, in defense, in the center."
+        ],
+        "57": [
+            174.0,
+            176.0,
+            "On the left, in defense, in the center."
+        ],
+        "58": [
+            176.0,
+            178.0,
+            "On the left, in defense, in the center."
+        ],
+        "59": [
+            178.0,
+            180.0,
+            "On the left, in defense, in the center."
+        ],
+        "60": [
+            180.0,
+            182.0,
+            "On the left, in defense, in the center."
+        ],
+        "61": [
+            182.0,
+            184.0,
+            "On the left, in defense, in the center."
+        ],
+        "62": [
+            184.0,
+            186.0,
+            "On the left, in defense, in the center."
+        ],
+        "63": [
+            186.0,
+            188.0,
+            "On the left, in defense, in the center."
+        ],
+        "64": [
+            188.0,
+            190.0,
+            "On the left, in defense, in the center."
+        ],
+        "65": [
+            190.0,
+            192.0,
+            "On the left, in defense, in the center."
+        ],
+        "66": [
+            192.0,
+            194.0,
+            "On the left, in defense, in the center."
+        ],
+        "67": [
+            194.0,
+            196.0,
+            "On the left, in defense, in the center."
+        ],
+        "68": [
+            196.0,
+            198.0,
+            "On the left, in defense, in the center."
+        ],
+        "69": [
+            198.0,
+            200.0,
+            "On the left, in defense, in the center."
+        ],
+        "70": [
+            200.0,
+            202.0,
+            "On the left, in defense, in the center."
+        ],
+        "71": [
+            202.0,
+            204.0,
+            "On the left, in defense, in the center."
+        ],
+        "72": [
+            204.0,
+            206.0,
+            "On the left, in defense, in the center."
+        ],
+        "73": [
+            206.0,
+            208.0,
+            "On the left, in defense, in the center."
+        ],
+        "74": [
+            208.0,
+            210.0,
+            "On the left, in defense, in the center."
+        ],
+        "75": [
+            210.0,
+            212.0,
+            "On the left, in defense, in the center."
+        ],
+        "76": [
+            212.0,
+            214.0,
+            "On the left, in defense, in the center."
+        ],
+        "77": [
+            214.0,
+            216.0,
+            "On the left, in defense, in the center."
+        ],
+        "78": [
+            216.0,
+            218.0,
+            "On the left, in defense, in the center."
+        ],
+        "79": [
+            218.0,
+            220.0,
+            "On the left, in defense, in the center."
+        ],
+        "80": [
+            220.0,
+            222.0,
+            "On the left, in defense, in the center."
+        ],
+        "81": [
+            222.0,
+            224.0,
+            "On the left, in defense, in the center."
+        ],
+        "82": [
+            224.0,
+            226.0,
+            "On the left, in defense, in the center."
+        ],
+        "83": [
+            226.0,
+            228.0,
+            "On the left, in defense, in the center."
+        ],
+        "84": [
+            228.0,
+            230.0,
+            "On the left, in defense, in the center."
+        ],
+        "85": [
+            230.0,
+            232.0,
+            "On the left, in defense, in the center."
+        ],
+        "86": [
+            232.0,
+            234.0,
+            "On the left, in defense, in the center."
+        ],
+        "87": [
+            234.0,
+            236.0,
+            "On the left, in defense, in the center."
+        ],
+        "88": [
+            236.0,
+            238.0,
+            "On the left, in defense, in the center."
+        ],
+        "89": [
+            238.0,
+            240.0,
+            "On the left, in defense, in the center."
+        ],
+        "90": [
+            240.0,
+            242.0,
+            "On the left, in defense, in the center."
+        ],
+        "91": [
+            242.0,
+            244.0,
+            "On the left, in defense, in the center."
+        ],
+        "92": [
+            244.0,
+            246.0,
+            "On the left, in defense, in the center."
+        ],
+        "93": [
+            246.0,
+            248.0,
+            "On the left, in defense, in the center."
+        ],
+        "94": [
+            248.0,
+            250.0,
+            "On the left, in defense, in the center."
+        ],
+        "95": [
+            250.0,
+            252.0,
+            "On the left, in defense, in the center."
+        ],
+        "96": [
+            252.0,
+            254.0,
+            "On the left, in defense, in the center."
+        ],
+        "97": [
+            254.0,
+            256.0,
+            "On the left, in defense, in the center."
+        ],
+        "98": [
+            256.0,
+            258.0,
+            "On the left, in defense, in the center."
+        ],
+        "99": [
+            258.0,
+            260.0,
+            "On the left, in defense, in the center."
+        ],
+        "100": [
+            260.0,
+            262.0,
+            "On the left, in defense, in the center."
+        ],
+        "101": [
+            262.0,
+            264.0,
+            "On the left, in defense, in the center."
+        ],
+        "102": [
+            264.0,
+            266.0,
+            "On the left, in defense, in the center."
+        ],
+        "103": [
+            266.0,
+            268.0,
+            "On the left, in defense, in the center."
+        ],
+        "104": [
+            268.0,
+            270.0,
+            "On the left, in defense, in the center."
+        ],
+        "105": [
+            270.0,
+            272.0,
+            "On the left, in defense, in the center."
+        ],
+        "106": [
+            272.0,
+            274.0,
+            "On the left, in defense, in the center."
+        ],
+        "107": [
+            274.0,
+            276.0,
+            "On the left, in defense, in the center."
+        ],
+        "108": [
+            276.0,
+            278.0,
+            "On the left, in defense, in the center."
+        ],
+        "109": [
+            278.0,
+            280.0,
+            "On the left, in defense, in the center."
+        ],
+        "110": [
+            280.0,
+            282.0,
+            "On the left, in defense, in the center."
+        ],
+        "111": [
+            282.0,
+            284.0,
+            "On the left, in defense, in the center."
+        ],
+        "112": [
+            284.0,
+            286.0,
+            "On the left, in defense, in the center."
+        ],
+        "113": [
+            286.0,
+            288.0,
+            "On the left, in defense, in the center."
+        ],
+        "114": [
+            288.0,
+            290.0,
+            "On the left, in defense, in the center."
+        ],
+        "115": [
+            290.0,
+            292.0,
+            "On the left, in defense, in the center."
+        ],
+        "116": [
+            292.0,
+            294.0,
+            "On the left, in defense, in the center."
+        ],
+        "117": [
+            294.0,
+            296.0,
+            "On the left, in defense, in the center."
+        ],
+        "118": [
+            296.0,
+            298.0,
+            "On the left, in defense, in the center."
+        ],
+        "119": [
+            298.0,
+            300.0,
+            "On the left, in defense, in the center."
+        ],
+        "120": [
+            300.0,
+            302.0,
+            "On the left, in defense, in the center."
+        ],
+        "121": [
+            302.0,
+            304.0,
+            "On the left, in defense, in the center."
+        ],
+        "122": [
+            304.0,
+            306.0,
+            "On the left, in defense, in the center."
+        ],
+        "123": [
+            306.0,
+            308.0,
+            "On the left, in defense, in the center."
+        ],
+        "124": [
+            308.0,
+            310.0,
+            "On the left, in defense, in the center."
+        ],
+        "125": [
+            310.0,
+            312.0,
+            "On the left, in defense, in the center."
+        ],
+        "126": [
+            312.0,
+            314.0,
+            "On the left, in defense, in the center."
+        ],
+        "127": [
+            314.0,
+            316.0,
+            "On the left, in defense, in the center."
+        ],
+        "128": [
+            316.0,
+            318.0,
+            "On the left, in defense, in the center."
+        ],
+        "129": [
+            318.0,
+            320.0,
+            "On the left, in defense, in the center."
+        ],
+        "130": [
+            320.0,
+            322.0,
+            "On the left, in defense, in the center."
+        ],
+        "131": [
+            322.0,
+            324.0,
+            "On the left, in defense, in the center."
+        ],
+        "132": [
+            324.0,
+            326.0,
+            "On the left, in defense, in the center."
+        ],
+        "133": [
+            326.0,
+            328.0,
+            "On the left, in defense, in the center."
+        ],
+        "134": [
+            328.0,
+            330.0,
+            "On the left, in defense, in the center."
+        ],
+        "135": [
+            330.0,
+            332.0,
+            "On the left, in defense, in the center."
+        ],
+        "136": [
+            332.0,
+            334.0,
+            "On the left, in defense, in the center."
+        ],
+        "137": [
+            334.0,
+            336.0,
+            "On the left, in defense, in the center."
+        ],
+        "138": [
+            336.0,
+            338.0,
+            "On the left, in defense, in the center."
+        ],
+        "139": [
+            338.0,
+            340.0,
+            "On the left, in defense, in the center."
+        ],
+        "140": [
+            340.0,
+            342.0,
+            "On the left, in defense, in the center."
+        ],
+        "141": [
+            342.0,
+            344.0,
+            "On the left, in defense, in the center."
+        ],
+        "142": [
+            344.0,
+            346.0,
+            "On the left, in defense, in the center."
+        ],
+        "143": [
+            346.0,
+            348.0,
+            "On the left, in defense, in the center."
+        ],
+        "144": [
+            348.0,
+            350.0,
+            "On the left, in defense, in the center."
+        ],
+        "145": [
+            350.0,
+            352.0,
+            "On the left, in defense, in the center."
+        ],
+        "146": [
+            352.0,
+            354.0,
+            "On the left, in defense, in the center."
+        ],
+        "147": [
+            354.0,
+            356.0,
+            "On the left, in defense, in the center."
+        ],
+        "148": [
+            356.0,
+            358.0,
+            "On the left, in defense, in the center."
+        ],
+        "149": [
+            358.0,
+            360.0,
+            "On the left, in defense, in the center."
+        ],
+        "150": [
+            360.0,
+            362.0,
+            "On the left, in defense, in the center."
+        ],
+        "151": [
+            362.0,
+            364.0,
+            "On the left, in defense, in the center."
+        ],
+        "152": [
+            364.0,
+            366.0,
+            "On the left, in defense, in the center."
+        ],
+        "153": [
+            366.0,
+            368.0,
+            "On the left, in defense, in the center."
+        ],
+        "154": [
+            368.0,
+            370.0,
+            "On the left, in defense, in the center."
+        ],
+        "155": [
+            370.0,
+            372.0,
+            "On the left, in defense, in the center."
+        ],
+        "156": [
+            372.0,
+            374.0,
+            "On the left, in defense, in the center."
+        ],
+        "157": [
+            374.0,
+            376.0,
+            "On the left, in defense, in the center."
+        ],
+        "158": [
+            376.0,
+            378.0,
+            "On the left, in defense, in the center."
+        ],
+        "159": [
+            378.0,
+            380.0,
+            "On the left, in defense, in the center."
+        ],
+        "160": [
+            380.0,
+            382.0,
+            "On the left, in defense, in the center."
+        ],
+        "161": [
+            382.0,
+            384.0,
+            "On the left, in defense, in the center."
+        ],
+        "162": [
+            384.0,
+            386.0,
+            "On the left, in defense, in the center."
+        ],
+        "163": [
+            386.0,
+            388.0,
+            "On the left, in defense, in the center."
+        ],
+        "164": [
+            388.0,
+            390.0,
+            "On the left, in defense, in the center."
+        ],
+        "165": [
+            390.0,
+            392.0,
+            "On the left, in defense, in the center."
+        ],
+        "166": [
+            392.0,
+            394.0,
+            "On the left, in defense, in the center."
+        ],
+        "167": [
+            394.0,
+            396.0,
+            "On the left, in defense, in the center."
+        ],
+        "168": [
+            396.0,
+            398.0,
+            "On the left, in defense, in the center."
+        ],
+        "169": [
+            398.0,
+            400.0,
+            "On the left, in defense, in the center."
+        ],
+        "170": [
+            400.0,
+            402.0,
+            "On the left, in defense, in the center."
+        ],
+        "171": [
+            402.0,
+            404.0,
+            "On the left, in defense, in the center."
+        ],
+        "172": [
+            404.0,
+            406.0,
+            "On the left, in defense, in the center."
+        ],
+        "173": [
+            406.0,
+            408.0,
+            "On the left, in defense, in the center."
+        ],
+        "174": [
+            408.0,
+            410.0,
+            "On the left, in defense, in the center."
+        ],
+        "175": [
+            410.0,
+            412.0,
+            "On the left, in defense, in the center."
+        ],
+        "176": [
+            412.0,
+            414.0,
+            "On the left, in defense, in the center."
+        ],
+        "177": [
+            414.0,
+            416.0,
+            "On the left, in defense, in the center."
+        ],
+        "178": [
+            416.0,
+            418.0,
+            "On the left, in defense, in the center."
+        ],
+        "179": [
+            418.0,
+            420.0,
+            "On the left, in defense, in the center."
+        ],
+        "180": [
+            420.0,
+            422.0,
+            "On the left, in defense, in the center."
+        ],
+        "181": [
+            422.0,
+            424.0,
+            "On the left, in defense, in the center."
+        ],
+        "182": [
+            424.0,
+            426.0,
+            "On the left, in defense, in the center."
+        ],
+        "183": [
+            426.0,
+            428.0,
+            "On the left, in defense, in the center."
+        ],
+        "184": [
+            428.0,
+            430.0,
+            "On the left, in defense, in the center."
+        ],
+        "185": [
+            430.0,
+            432.0,
+            "On the left, in defense, in the center."
+        ],
+        "186": [
+            432.0,
+            434.0,
+            "On the left, in defense, in the center."
+        ],
+        "187": [
+            434.0,
+            436.0,
+            "On the left, in defense, in the center."
+        ],
+        "188": [
+            436.0,
+            438.0,
+            "On the left, in defense, in the center."
+        ],
+        "189": [
+            438.0,
+            440.0,
+            "On the left, in defense, in the center."
+        ],
+        "190": [
+            440.0,
+            442.0,
+            "On the left, in defense, in the center."
+        ],
+        "191": [
+            442.0,
+            444.0,
+            "On the left, in defense, in the center."
+        ],
+        "192": [
+            444.0,
+            446.0,
+            "On the left, in defense, in the center."
+        ],
+        "193": [
+            446.0,
+            448.0,
+            "On the left, in defense, in the center."
+        ],
+        "194": [
+            448.0,
+            450.0,
+            "On the left, in defense, in the center."
+        ],
+        "195": [
+            450.0,
+            452.0,
+            "On the left, in defense, in the center."
+        ],
+        "196": [
+            452.0,
+            454.0,
+            "On the left, in defense, in the center."
+        ],
+        "197": [
+            454.0,
+            456.0,
+            "On the left, in defense, in the center."
+        ],
+        "198": [
+            456.0,
+            458.0,
+            "On the left, in defense, in the center."
+        ],
+        "199": [
+            458.0,
+            460.0,
+            "On the left, in defense, in the center."
+        ],
+        "200": [
+            460.0,
+            462.0,
+            "On the left, in defense, in the center."
+        ],
+        "201": [
+            462.0,
+            464.0,
+            "On the left, in defense, in the center."
+        ],
+        "202": [
+            464.0,
+            466.0,
+            "On the left, in defense, in the center."
+        ],
+        "203": [
+            466.0,
+            468.0,
+            "On the left, in defense, in the center."
+        ],
+        "204": [
+            468.0,
+            470.0,
+            "On the left, in defense, in the center."
+        ],
+        "205": [
+            470.0,
+            472.0,
+            "On the left, in defense, in the center."
+        ],
+        "206": [
+            472.0,
+            474.0,
+            "On the left, in defense, in the center."
+        ],
+        "207": [
+            474.0,
+            476.0,
+            "On the left, in defense, in the center."
+        ],
+        "208": [
+            476.0,
+            478.0,
+            "On the left, in defense, in the center."
+        ],
+        "209": [
+            478.0,
+            480.0,
+            "On the left, in defense, in the center."
+        ],
+        "210": [
+            480.0,
+            482.0,
+            "On the left, in defense, in the center."
+        ],
+        "211": [
+            482.0,
+            484.0,
+            "On the left, in defense, in the center."
+        ],
+        "212": [
+            484.0,
+            486.0,
+            "On the left, in defense, in the center."
+        ],
+        "213": [
+            486.0,
+            488.0,
+            "On the left, in defense, in the center."
+        ],
+        "214": [
+            488.0,
+            490.0,
+            "On the left, in defense, in the center."
+        ],
+        "215": [
+            490.0,
+            492.0,
+            "On the left, in defense, in the center."
+        ],
+        "216": [
+            492.0,
+            494.0,
+            "On the left, in defense, in the center."
+        ],
+        "217": [
+            494.0,
+            496.0,
+            "On the left, in defense, in the center."
+        ],
+        "218": [
+            496.0,
+            498.0,
+            "On the left, in defense, in the center."
+        ],
+        "219": [
+            498.0,
+            500.0,
+            "On the left, in defense, in the center."
+        ],
+        "220": [
+            500.0,
+            502.0,
+            "On the left, in defense, in the center."
+        ],
+        "221": [
+            502.0,
+            504.0,
+            "On the left, in defense, in the center."
+        ],
+        "222": [
+            504.0,
+            506.0,
+            "On the left, in defense, in the center."
+        ],
+        "223": [
+            506.0,
+            508.0,
+            "On the left, in defense, in the center."
+        ],
+        "224": [
+            508.0,
+            510.0,
+            "On the left, in defense, in the center."
+        ],
+        "225": [
+            510.0,
+            512.0,
+            "On the left, in defense, in the center."
+        ],
+        "226": [
+            512.0,
+            514.0,
+            "On the left, in defense, in the center."
+        ],
+        "227": [
+            514.0,
+            516.0,
+            "On the left, in defense, in the center."
+        ],
+        "228": [
+            516.0,
+            518.0,
+            "On the left, in defense, in the center."
+        ],
+        "229": [
+            518.0,
+            520.0,
+            "On the left, in defense, in the center."
+        ],
+        "230": [
+            520.0,
+            522.0,
+            "On the left, in defense, in the center."
+        ],
+        "231": [
+            522.0,
+            524.0,
+            "On the left, in defense, in the center."
+        ],
+        "232": [
+            524.0,
+            526.0,
+            "On the left, in defense, in the center."
+        ],
+        "233": [
+            526.0,
+            528.0,
+            "On the left, in defense, in the center."
+        ],
+        "234": [
+            528.0,
+            530.0,
+            "On the left, in defense, in the center."
+        ],
+        "235": [
+            530.0,
+            532.0,
+            "On the left, in defense, in the center."
+        ],
+        "236": [
+            532.0,
+            534.0,
+            "On the left, in defense, in the center."
+        ],
+        "237": [
+            534.0,
+            536.0,
+            "On the left, in defense, in the center."
+        ],
+        "238": [
+            536.0,
+            538.0,
+            "On the left, in defense, in the center."
+        ],
+        "239": [
+            538.0,
+            540.0,
+            "On the left, in defense, in the center."
+        ],
+        "240": [
+            540.0,
+            542.0,
+            "On the left, in defense, in the center."
+        ],
+        "241": [
+            542.0,
+            544.0,
+            "On the left, in defense, in the center."
+        ],
+        "242": [
+            544.0,
+            546.0,
+            "On the left, in defense, in the center."
+        ],
+        "243": [
+            546.0,
+            548.0,
+            "On the left, in defense, in the center."
+        ],
+        "244": [
+            548.0,
+            550.0,
+            "On the left, in defense, in the center."
+        ],
+        "245": [
+            550.0,
+            552.0,
+            "On the left, in defense, in the center."
+        ],
+        "246": [
+            552.0,
+            554.0,
+            "On the left, in defense, in the center."
+        ],
+        "247": [
+            554.0,
+            556.0,
+            "On the left, in defense, in the center."
+        ],
+        "248": [
+            556.0,
+            558.0,
+            "On the left, in defense, in the center."
+        ],
+        "249": [
+            558.0,
+            560.0,
+            "On the left, in defense, in the center."
+        ],
+        "250": [
+            560.0,
+            562.0,
+            "On the left, in defense, in the center."
+        ],
+        "251": [
+            562.0,
+            564.0,
+            "On the left, in defense, in the center."
+        ],
+        "252": [
+            564.0,
+            566.0,
+            "On the left, in defense, in the center."
+        ],
+        "253": [
+            566.0,
+            568.0,
+            "On the left, in defense, in the center."
+        ],
+        "254": [
+            568.0,
+            570.0,
+            "On the left, in defense, in the center."
+        ],
+        "255": [
+            570.0,
+            572.0,
+            "On the left, in defense, in the center."
+        ],
+        "256": [
+            572.0,
+            574.0,
+            "On the left, in defense, in the center."
+        ],
+        "257": [
+            574.0,
+            576.0,
+            "On the left, in defense, in the center."
+        ],
+        "258": [
+            576.0,
+            578.0,
+            "On the left, in defense, in the center."
+        ],
+        "259": [
+            578.0,
+            580.0,
+            "On the left, in defense, in the center."
+        ],
+        "260": [
+            580.0,
+            582.0,
+            "On the left, in defense, in the center."
+        ],
+        "261": [
+            582.0,
+            584.0,
+            "On the left, in defense, in the center."
+        ],
+        "262": [
+            584.0,
+            586.0,
+            "On the left, in defense, in the center."
+        ],
+        "263": [
+            586.0,
+            588.0,
+            "On the left, in defense, in the center."
+        ],
+        "264": [
+            588.0,
+            590.0,
+            "On the left, in defense, in the center."
+        ],
+        "265": [
+            590.0,
+            592.0,
+            "On the left, in defense, in the center."
+        ],
+        "266": [
+            592.0,
+            594.0,
+            "On the left, in defense, in the center."
+        ],
+        "267": [
+            594.0,
+            596.0,
+            "On the left, in defense, in the center."
+        ],
+        "268": [
+            596.0,
+            598.0,
+            "On the left, in defense, in the center."
+        ],
+        "269": [
+            598.0,
+            600.0,
+            "On the left, in defense, in the center."
+        ],
+        "270": [
+            600.0,
+            602.0,
+            "On the left, in defense, in the center."
+        ],
+        "271": [
+            602.0,
+            604.0,
+            "On the left, in defense, in the center."
+        ],
+        "272": [
+            604.0,
+            606.0,
+            "On the left, in defense, in the center."
+        ],
+        "273": [
+            606.0,
+            608.0,
+            "On the left, in defense, in the center."
+        ],
+        "274": [
+            608.0,
+            610.0,
+            "On the left, in defense, in the center."
+        ],
+        "275": [
+            610.0,
+            612.0,
+            "On the left, in defense, in the center."
+        ],
+        "276": [
+            612.0,
+            614.0,
+            "On the left, in defense, in the center."
+        ],
+        "277": [
+            614.0,
+            616.0,
+            "On the left, in defense, in the center."
+        ],
+        "278": [
+            616.0,
+            618.0,
+            "On the left, in defense, in the center."
+        ],
+        "279": [
+            618.0,
+            620.0,
+            "On the left, in defense, in the center."
+        ],
+        "280": [
+            620.0,
+            622.0,
+            "On the left, in defense, in the center."
+        ],
+        "281": [
+            622.0,
+            624.0,
+            "On the left, in defense, in the center."
+        ],
+        "282": [
+            624.0,
+            626.0,
+            "On the left, in defense, in the center."
+        ],
+        "283": [
+            626.0,
+            628.0,
+            "On the left, in defense, in the center."
+        ],
+        "284": [
+            628.0,
+            630.0,
+            "On the left, in defense, in the center."
+        ],
+        "285": [
+            630.0,
+            632.0,
+            "On the left, in defense, in the center."
+        ],
+        "286": [
+            632.0,
+            634.0,
+            "On the left, in defense, in the center."
+        ],
+        "287": [
+            634.0,
+            636.0,
+            "On the left, in defense, in the center."
+        ],
+        "288": [
+            636.0,
+            638.0,
+            "On the left, in defense, in the center."
+        ],
+        "289": [
+            638.0,
+            640.0,
+            "On the left, in defense, in the center."
+        ],
+        "290": [
+            640.0,
+            642.0,
+            "On the left, in defense, in the center."
+        ],
+        "291": [
+            642.0,
+            644.0,
+            "On the left, in defense, in the center."
+        ],
+        "292": [
+            644.0,
+            646.0,
+            "On the left, in defense, in the center."
+        ],
+        "293": [
+            646.0,
+            648.0,
+            "On the left, in defense, in the center."
+        ],
+        "294": [
+            648.0,
+            650.0,
+            "On the left, in defense, in the center."
+        ],
+        "295": [
+            650.0,
+            652.0,
+            "On the left, in defense, in the center."
+        ],
+        "296": [
+            652.0,
+            654.0,
+            "On the left, in defense, in the center."
+        ],
+        "297": [
+            654.0,
+            656.0,
+            "On the left, in defense, in the center."
+        ],
+        "298": [
+            656.0,
+            658.0,
+            "On the left, in defense, in the center."
+        ],
+        "299": [
+            658.0,
+            660.0,
+            "On the left, in defense, in the center."
+        ],
+        "300": [
+            660.0,
+            662.0,
+            "On the left, in defense, in the center."
+        ],
+        "301": [
+            662.0,
+            664.0,
+            "On the left, in defense, in the center."
+        ],
+        "302": [
+            664.0,
+            666.0,
+            "On the left, in defense, in the center."
+        ],
+        "303": [
+            666.0,
+            668.0,
+            "On the left, in defense, in the center."
+        ],
+        "304": [
+            668.0,
+            670.0,
+            "On the left, in defense, in the center."
+        ],
+        "305": [
+            670.0,
+            672.0,
+            "On the left, in defense, in the center."
+        ],
+        "306": [
+            672.0,
+            674.0,
+            "On the left, in defense, in the center."
+        ],
+        "307": [
+            674.0,
+            676.0,
+            "On the left, in defense, in the center."
+        ],
+        "308": [
+            676.0,
+            678.0,
+            "On the left, in defense, in the center."
+        ],
+        "309": [
+            678.0,
+            680.0,
+            "On the left, in defense, in the center."
+        ],
+        "310": [
+            680.0,
+            682.0,
+            "On the left, in defense, in the center."
+        ],
+        "311": [
+            682.0,
+            684.0,
+            "On the left, in defense, in the center."
+        ],
+        "312": [
+            684.0,
+            686.0,
+            "On the left, in defense, in the center."
+        ],
+        "313": [
+            686.0,
+            688.0,
+            "On the left, in defense, in the center."
+        ],
+        "314": [
+            688.0,
+            690.0,
+            "On the left, in defense, in the center."
+        ],
+        "315": [
+            690.0,
+            692.0,
+            "On the left, in defense, in the center."
+        ],
+        "316": [
+            692.0,
+            694.0,
+            "On the left, in defense, in the center."
+        ],
+        "317": [
+            694.0,
+            696.0,
+            "On the left, in defense, in the center."
+        ],
+        "318": [
+            696.0,
+            698.0,
+            "On the left, in defense, in the center."
+        ],
+        "319": [
+            698.0,
+            700.0,
+            "On the left, in defense, in the center."
+        ],
+        "320": [
+            700.0,
+            702.0,
+            "On the left, in defense, in the center."
+        ],
+        "321": [
+            702.0,
+            704.0,
+            "On the left, in defense, in the center."
+        ],
+        "322": [
+            704.0,
+            706.0,
+            "On the left, in defense, in the center."
+        ],
+        "323": [
+            706.0,
+            708.0,
+            "On the left, in defense, in the center."
+        ],
+        "324": [
+            708.0,
+            710.0,
+            "On the left, in defense, in the center."
+        ],
+        "325": [
+            710.0,
+            712.0,
+            "On the left, in defense, in the center."
+        ],
+        "326": [
+            712.0,
+            714.0,
+            "On the left, in defense, in the center."
+        ],
+        "327": [
+            714.0,
+            716.0,
+            "On the left, in defense, in the center."
+        ],
+        "328": [
+            716.0,
+            718.0,
+            "On the left, in defense, in the center."
+        ],
+        "329": [
+            718.0,
+            720.0,
+            "On the left, in defense, in the center."
+        ],
+        "330": [
+            720.0,
+            722.0,
+            "On the left, in defense, in the center."
+        ],
+        "331": [
+            722.0,
+            724.0,
+            "On the left, in defense, in the center."
+        ],
+        "332": [
+            724.0,
+            726.0,
+            "On the left, in defense, in the center."
+        ],
+        "333": [
+            726.0,
+            728.0,
+            "On the left, in defense, in the center."
+        ],
+        "334": [
+            728.0,
+            730.0,
+            "On the left, in defense, in the center."
+        ],
+        "335": [
+            730.0,
+            732.0,
+            "On the left, in defense, in the center."
+        ],
+        "336": [
+            732.0,
+            734.0,
+            "On the left, in defense, in the center."
+        ],
+        "337": [
+            734.0,
+            736.0,
+            "On the left, in defense, in the center."
+        ],
+        "338": [
+            736.0,
+            738.0,
+            "On the left, in defense, in the center."
+        ],
+        "339": [
+            738.0,
+            740.0,
+            "On the left, in defense, in the center."
+        ],
+        "340": [
+            740.0,
+            742.0,
+            "On the left, in defense, in the center."
+        ],
+        "341": [
+            742.0,
+            744.0,
+            "On the left, in defense, in the center."
+        ],
+        "342": [
+            744.0,
+            746.0,
+            "On the left, in defense, in the center."
+        ],
+        "343": [
+            746.0,
+            748.0,
+            "Long with the ball."
+        ],
+        "344": [
+            748.0,
+            750.0,
+            "Bastian moves to the center."
+        ],
+        "345": [
+            750.0,
+            752.0,
+            "Here they are in three."
+        ],
+        "346": [
+            752.0,
+            754.0,
+            "The horsemen, I would say, have a four."
+        ],
+        "347": [
+            754.0,
+            756.0,
+            "I would even call it a diamond."
+        ],
+        "348": [
+            756.0,
+            758.0,
+            "Behind is Radovanovic."
+        ],
+        "349": [
+            758.0,
+            760.0,
+            "Lucas Castro is in front."
+        ],
+        "350": [
+            760.0,
+            762.0,
+            "On the edges are Bastian and De Pauli."
+        ],
+        "351": [
+            762.0,
+            764.0,
+            "This is how Kleva plays now."
+        ],
+        "352": [
+            766.0,
+            768.0,
+            "Emerson."
+        ],
+        "353": [
+            768.0,
+            770.0,
+            "Terosi Birsa."
+        ],
+        "354": [
+            770.0,
+            772.0,
+            "I took the ball from him."
+        ],
+        "355": [
+            772.0,
+            774.0,
+            "Emerson."
+        ],
+        "356": [
+            776.0,
+            778.0,
+            "Tianos Paletti."
+        ],
+        "357": [
+            780.0,
+            782.0,
+            "In an orange jacket."
+        ],
+        "358": [
+            782.0,
+            784.0,
+            "Raincoat."
+        ],
+        "359": [
+            784.0,
+            786.0,
+            "Got out to the edge."
+        ],
+        "360": [
+            786.0,
+            788.0,
+            "Strutman."
+        ],
+        "361": [
+            788.0,
+            790.0,
+            " Тероси."
+        ],
+        "362": [
+            790.0,
+            792.0,
+            "Slow transition to attack."
+        ],
+        "363": [
+            792.0,
+            794.0,
+            "Strothman. There is space."
+        ],
+        "364": [
+            794.0,
+            796.0,
+            "But he is not in the final stages."
+        ],
+        "365": [
+            796.0,
+            798.0,
+            "They're surrounded by rivals"
+        ],
+        "366": [
+            798.0,
+            800.0,
+            "all three attacking players."
+        ],
+        "367": [
+            800.0,
+            802.0,
+            "We have to start"
+        ],
+        "368": [
+            802.0,
+            804.0,
+            "from defense."
+        ],
+        "369": [
+            804.0,
+            806.0,
+            "Beers passed the ball forward."
+        ],
+        "370": [
+            806.0,
+            808.0,
+            "Probably meters long"
+        ],
+        "371": [
+            808.0,
+            810.0,
+            " на 45."
+        ],
+        "372": [
+            812.0,
+            814.0,
+            "And they intercepted the ball for Veronza."
+        ],
+        "373": [
+            814.0,
+            816.0,
+            "If"
+        ],
+        "374": [
+            816.0,
+            818.0,
+            "I decided to break through myself."
+        ],
+        "375": [
+            818.0,
+            820.0,
+            "But the bullets are wet, the ball is wet."
+        ],
+        "376": [
+            820.0,
+            822.0,
+            "You yourself understand what is in this situation"
+        ],
+        "377": [
+            822.0,
+            824.0,
+            "You can say and think."
+        ],
+        "378": [
+            824.0,
+            826.0,
+            "Birsa struck himself."
+        ],
+        "379": [
+            826.0,
+            828.0,
+            "And De Pauli for us today"
+        ],
+        "380": [
+            828.0,
+            830.0,
+            "show often."
+        ],
+        "381": [
+            830.0,
+            832.0,
+            "They expect from him"
+        ],
+        "382": [
+            832.0,
+            834.0,
+            "a lot."
+        ],
+        "383": [
+            834.0,
+            836.0,
+            "I was talking about that"
+        ],
+        "384": [
+            836.0,
+            838.0,
+            "What is this football player"
+        ],
+        "385": [
+            840.0,
+            842.0,
+            "multifunctional."
+        ],
+        "386": [
+            842.0,
+            844.0,
+            "He played three matches in the first team."
+        ],
+        "387": [
+            844.0,
+            846.0,
+            "One at right back,"
+        ],
+        "388": [
+            846.0,
+            848.0,
+            "one left."
+        ],
+        "389": [
+            848.0,
+            850.0,
+            "One in the center of the field."
+        ],
+        "390": [
+            850.0,
+            852.0,
+            "Today is the second exit in the center."
+        ],
+        "391": [
+            852.0,
+            854.0,
+            "Cachatorre."
+        ],
+        "392": [
+            854.0,
+            856.0,
+            "De Pauli."
+        ],
+        "393": [
+            856.0,
+            858.0,
+            "Feed."
+        ],
+        "394": [
+            858.0,
+            860.0,
+            " Гол."
+        ],
+        "395": [
+            860.0,
+            875.0,
+            "Chievo and what a goal! What a combination they played, simply disarming Roma's defense and the Romans' task becomes more difficult."
+        ],
+        "396": [
+            875.0,
+            885.0,
+            "Well, Chievo, of course, shows the best qualities. The team does not fight for anything and yet, here is such an attack."
+        ],
+        "397": [
+            885.0,
+            898.0,
+            "De Pauli served, Inglese reset and did not let the ball go down. Castro shot from the ground to Shenstny, he could not do anything."
+        ],
+        "398": [
+            898.0,
+            904.0,
+            "And Roberto Inglese passed him with his shoulder, and De Pauli delivered it into the penalty area."
+        ],
+        "399": [
+            904.0,
+            913.0,
+            "A four-way combination. Cacciatoro throws it back to the right midfielder in the center into the forward penalty area."
+        ],
+        "400": [
+            913.0,
+            921.0,
+            "And Lucas Castro comes in as a second striker and hits right behind his shirt."
+        ],
+        "401": [
+            921.0,
+            926.0,
+            "He's getting a yellow card now, but I don't think Lucas Castro is too upset about it."
+        ],
+        "402": [
+            926.0,
+            931.0,
+            "Although he will miss Kyiv's final match of the season."
+        ],
+        "403": [
+            931.0,
+            936.0,
+            "It will be an away match in Bergamo against Atalanta."
+        ],
+        "404": [
+            936.0,
+            941.0,
+            "A match that, for Kyiv, just like today’s, doesn’t solve anything in principle."
+        ],
+        "405": [
+            941.0,
+            945.0,
+            "So Lucas Castro will finish the season at home."
+        ],
+        "406": [
+            945.0,
+            949.0,
+            "Lucas Castro has his fifth goal of the season."
+        ],
+        "407": [
+            950.0,
+            955.0,
+            "Well, Inglese made the fourth assist with his shoulder."
+        ],
+        "408": [
+            955.0,
+            962.0,
+            "1-0. Napoli plays Fiorentina today. Plays at home."
+        ],
+        "409": [
+            962.0,
+            974.0,
+            "This is an important match. Luciano Spalletti said before this game that we are essentially repeating the two qualifying matches against Porto."
+        ],
+        "410": [
+            974.0,
+            982.0,
+            "It's just that the teams are called differently. We should play with Kyiv and we should play with Genua."
+        ],
+        "411": [
+            982.0,
+            988.0,
+            "Well, essentially it's the same thing. You need to win matches and get to the group stage of the Champions League."
+        ],
+        "412": [
+            988.0,
+            991.0,
+            "Now the task becomes more difficult."
+        ],
+        "413": [
+            993.0,
+            998.0,
+            "Birsa tried to throw it back. Great. Kyiv plays in the first minutes."
+        ],
+        "414": [
+            998.0,
+            1004.0,
+            "Emerson did not pass. Radavanovich closed the flank because Cacciatore went ahead."
+        ],
+        "415": [
+            1004.0,
+            1010.0,
+            "And, of course, the defensive midfielder's backup works."
+        ],
+        "416": [
+            1011.0,
+            1018.0,
+            "Derosi. Pass forward. The passing game is not working yet."
+        ],
+        "417": [
+            1018.0,
+            1023.0,
+            "There was an attack. An excellent shot from Salah. But otherwise it is very difficult for Roma in front."
+        ],
+        "418": [
+            1023.0,
+            1026.0,
+            "And Kieva snaps. And she snaps skillfully."
+        ],
+        "419": [
+            1028.0,
+            1029.0,
+            "Paredes."
+        ],
+        "420": [
+            1035.0,
+            1041.0,
+            "Salah. Turns on the technique. Strotman. He gave the pass."
+        ],
+        "421": [
+            1041.0,
+            1047.0,
+            "Well, probably still counting on Salah. Although Dzeko was there too."
+        ],
+        "422": [
+            1047.0,
+            1053.0,
+            "It was a difficult pass in terms of reception. The zone was not free."
+        ],
+        "423": [
+            1053.0,
+            1058.0,
+            "And it was necessary to rush in there, of course, and strike."
+        ],
+        "424": [
+            1058.0,
+            1062.0,
+            "Derosi. It's too late, it's too late to roll back Salah."
+        ],
+        "425": [
+            1062.0,
+            1067.0,
+            "A little earlier Daniel would have done this, and there would have been a dangerous attack."
+        ],
+        "426": [
+            1068.0,
+            1074.0,
+            "Gobi. Throw forward. Gobi doesn't make things up. Ingles. Receives the ball."
+        ],
+        "427": [
+            1074.0,
+            1079.0,
+            "Manolas is against him. Partners join in. Inglese. Inglese in the penalty area. Keeps the ball."
+        ],
+        "428": [
+            1079.0,
+            1087.0,
+            "Rüdeger did not hit. And here the blow is already coming to Birsa. He did not hit, I mean, of course, not the Ingleses."
+        ],
+        "429": [
+            1087.0,
+            1091.0,
+            "I didn't attack him hard enough. Look again."
+        ],
+        "430": [
+            1091.0,
+            1097.0,
+            "Rüdeger could have entered the selection here, but as a result, he ended up neither here nor there."
+        ],
+        "431": [
+            1097.0,
+            1102.0,
+            "And he didn’t fight Inglesa, and he didn’t close Birsa. In my opinion, Rüdeger was mistaken."
+        ],
+        "432": [
+            1103.0,
+            1107.0,
+            "And he allowed Birse to shoot. But Birse did not shoot accurately."
+        ],
+        "433": [
+            1111.0,
+            1116.0,
+            "Stchensny. I repeat, so far Kyeva looks very cool."
+        ],
+        "434": [
+            1117.0,
+            1122.0,
+            "And this is not the first time this season that we have seen an Italian team at the end of the championship,"
+        ],
+        "435": [
+            1122.0,
+            1128.0,
+            "who plays for her honor, but plays as if she is solving the most important tournament problems."
+        ],
+        "436": [
+            1128.0,
+            1132.0,
+            "Well done Verona, but now Roma are on the attack. Dzeko."
+        ],
+        "437": [
+            1133.0,
+            1138.0,
+            "Radavanovich jumps the ball. Free center. And Lucas Castro accelerates."
+        ],
+        "438": [
+            1139.0,
+            1144.0,
+            "Partners ahead. Birsa moved to the right. Cacciatore joins."
+        ],
+        "439": [
+            1145.0,
+            1150.0,
+            "Birsa. Skok. But here Paredes takes. Daniel Idarrossi."
+        ],
+        "440": [
+            1152.0,
+            1154.0,
+            "And Roma has a very slow transition."
+        ],
+        "441": [
+            1154.0,
+            1163.0,
+            "Rüdiger. They start their attack by passing. They don't attack here in their own half."
+        ],
+        "442": [
+            1164.0,
+            1171.0,
+            "Kiev's ballistas allow us to go deeper. Paredes is looking to whom to pass the ball to."
+        ],
+        "443": [
+            1172.0,
+            1177.0,
+            " Passes to Strotmun. He has space. But passes to Salah. Salah to Dzeko."
+        ],
+        "444": [
+            1178.0,
+            1181.0,
+            "And is ahead of Dzeko in the air. Cacator."
+        ],
+        "445": [
+            1181.0,
+            1186.0,
+            " Stefan Alsharawy. Not involved yet. Lots of attacks on the right flank."
+        ],
+        "446": [
+            1188.0,
+            1194.0,
+            "Here the offside flag is raised. The flag is raised by Fabrizio Posado."
+        ],
+        "447": [
+            1195.0,
+            1201.0,
+            "But the offside position is questionable. There, Dzeko's hand, of course, was closer to the goal."
+        ],
+        "448": [
+            1202.0,
+            1206.0,
+            "But as for the game parts, it's not very good."
+        ],
+        "449": [
+            1206.0,
+            1212.0,
+            "Alsharawi. He has the ball. He moves backwards. He played with Paredes."
+        ],
+        "450": [
+            1213.0,
+            1217.0,
+            "And again from defense. Again from afar. Kiev has already rebuilt."
+        ],
+        "451": [
+            1218.0,
+            1221.0,
+            "Here is this diagram. Here is this diamond. You can see it now."
+        ],
+        "452": [
+            1222.0,
+            1224.0,
+            "And ahead of Biers and England."
+        ],
+        "453": [
+            1225.0,
+            1227.0,
+            "And again. And again. And again."
+        ],
+        "454": [
+            1228.0,
+            1230.0,
+            "And again. And again."
+        ],
+        "455": [
+            1230.0,
+            1233.0,
+            "We need to somehow destroy these defensive structures."
+        ],
+        "456": [
+            1234.0,
+            1238.0,
+            "Gobi takes a step forward. Ryudegero closes his move."
+        ],
+        "457": [
+            1239.0,
+            1241.0,
+            "And Bastian immediately moves back."
+        ],
+        "458": [
+            1242.0,
+            1244.0,
+            "Everything is very organized in Uraland Moran's team."
+        ],
+        "459": [
+            1245.0,
+            1250.0,
+            "And the general himself is now at Bronvka."
+        ],
+        "460": [
+            1251.0,
+            1253.0,
+            "And here at Bastian's."
+        ],
+        "461": [
+            1253.0,
+            1258.0,
+            "The general is now at Bronvka."
+        ],
+        "462": [
+            1263.0,
+            1264.0,
+            "Rüdeger."
+        ],
+        "463": [
+            1267.0,
+            1268.0,
+            "Paredes."
+        ],
+        "464": [
+            1270.0,
+            1271.0,
+            "Manolas."
+        ],
+        "465": [
+            1273.0,
+            1274.0,
+            " Пероси."
+        ],
+        "466": [
+            1276.0,
+            1280.0,
+            "Translation is also unsuccessful. Unsuccessful on Emerson."
+        ],
+        "467": [
+            1281.0,
+            1284.0,
+            "We held the ball. We waited for the opportunity to switch the game."
+        ],
+        "468": [
+            1285.0,
+            1286.0,
+            "Transfer to the flank. And they failed."
+        ],
+        "469": [
+            1287.0,
+            1291.0,
+            "And here’s another goal. And, of course, Castro’s shot was very accurate."
+        ],
+        "470": [
+            1292.0,
+            1294.0,
+            "But everything is here. Everything is here in this attack."
+        ],
+        "471": [
+            1295.0,
+            1299.0,
+            "On the one hand, of course, this shoulder pass might not have turned out so successful."
+        ],
+        "472": [
+            1300.0,
+            1301.0,
+            "But it worked."
+        ],
+        "473": [
+            1302.0,
+            1303.0,
+            "And it looked. Especially in dynamics."
+        ],
+        "474": [
+            1304.0,
+            1305.0,
+            "Especially in the long shot."
+        ],
+        "475": [
+            1306.0,
+            1308.0,
+            "It all looked really cool."
+        ],
+        "476": [
+            1311.0,
+            1312.0,
+            "Manolas."
+        ],
+        "477": [
+            1313.0,
+            1315.0,
+            "Defenders rise at Roma."
+        ],
+        "478": [
+            1319.0,
+            1321.0,
+            "And they are on guard. They are on guard for error."
+        ],
+        "479": [
+            1322.0,
+            1323.0,
+            "Valistkyeva. Gobi."
+        ],
+        "480": [
+            1324.0,
+            1325.0,
+            "Stopped Salah."
+        ],
+        "481": [
+            1326.0,
+            1327.0,
+            "Experienced defender."
+        ],
+        "482": [
+            1328.0,
+            1329.0,
+            "Missed a lot lately."
+        ],
+        "483": [
+            1330.0,
+            1331.0,
+            "Only four matches due to injury."
+        ],
+        "484": [
+            1332.0,
+            1333.0,
+            "There was also a disqualification."
+        ],
+        "485": [
+            1334.0,
+            1336.0,
+            "In general, Moran was forced to play with the squad there."
+        ],
+        "486": [
+            1336.0,
+            1338.0,
+            "That's when De Pauli came in handy in defense."
+        ],
+        "487": [
+            1339.0,
+            1342.0,
+            "When Cacciatore had to cover the left flank."
+        ],
+        "488": [
+            1348.0,
+            1350.0,
+            "And Poryanov played pisco."
+        ],
+        "489": [
+            1352.0,
+            1355.0,
+            "On the right flank he still had some defense left in reserve."
+        ],
+        "490": [
+            1356.0,
+            1358.0,
+            "I had to combine it."
+        ],
+        "491": [
+            1359.0,
+            1360.0,
+            "Cool with the ball."
+        ],
+        "492": [
+            1361.0,
+            1362.0,
+            "Radovanovich."
+        ],
+        "493": [
+            1363.0,
+            1364.0,
+            "Roma is moving back."
+        ],
+        "494": [
+            1364.0,
+            1365.0,
+            "Now Strotman."
+        ],
+        "495": [
+            1366.0,
+            1369.0,
+            "At the position of the second striker."
+        ],
+        "496": [
+            1370.0,
+            1372.0,
+            "Before the match they showed the lineup."
+        ],
+        "497": [
+            1373.0,
+            1375.0,
+            "And they said that Paredis would play attacking half-back."
+        ],
+        "498": [
+            1376.0,
+            1377.0,
+            "But apparently this is not so."
+        ],
+        "499": [
+            1378.0,
+            1379.0,
+            "That Kevin Strotman is in this position."
+        ],
+        "500": [
+            1380.0,
+            1382.0,
+            "And now the Dutchman with the ball is again on the right flank."
+        ],
+        "501": [
+            1383.0,
+            1384.0,
+            "He's drawn to Mohamed Salah."
+        ],
+        "502": [
+            1385.0,
+            1386.0,
+            "They have chemistry."
+        ],
+        "503": [
+            1387.0,
+            1388.0,
+            "The Dutchman has an Egyptian."
+        ],
+        "504": [
+            1389.0,
+            1390.0,
+            "They play the ball."
+        ],
+        "505": [
+            1391.0,
+            1392.0,
+            "And now Strotman gives the ball away."
+        ],
+        "506": [
+            1392.0,
+            1394.0,
+            "Emerson connects."
+        ],
+        "507": [
+            1395.0,
+            1397.0,
+            "And no one is on the flank now."
+        ],
+        "508": [
+            1398.0,
+            1399.0,
+            "Roma has the other one."
+        ],
+        "509": [
+            1400.0,
+            1403.0,
+            "Salah's pass into the penalty area didn't go through."
+        ],
+        "510": [
+            1404.0,
+            1405.0,
+            "Gobi."
+        ],
+        "511": [
+            1407.0,
+            1408.0,
+            "There are three in the back."
+        ],
+        "512": [
+            1410.0,
+            1412.0,
+            "Roma is moving forward with great strength."
+        ],
+        "513": [
+            1413.0,
+            1415.0,
+            "Roma and Napoli matches do not take place in parallel."
+        ],
+        "514": [
+            1416.0,
+            1417.0,
+            "They are played at different times."
+        ],
+        "515": [
+            1418.0,
+            1420.0,
+            "And Ferentino's Napolis cannot play."
+        ],
+        "516": [
+            1420.0,
+            1421.0,
+            "They play at different times."
+        ],
+        "517": [
+            1422.0,
+            1424.0,
+            "You can also watch Ferentino's Napolis today."
+        ],
+        "518": [
+            1425.0,
+            1427.0,
+            "This is a team that is fighting for second place."
+        ],
+        "519": [
+            1428.0,
+            1432.0,
+            "Which gives a direct ticket to the group stage of the Champions League."
+        ],
+        "520": [
+            1434.0,
+            1435.0,
+            "Emerson."
+        ],
+        "521": [
+            1436.0,
+            1437.0,
+            "Does not allow Kachatura to shoot."
+        ],
+        "522": [
+            1438.0,
+            1439.0,
+            "And there won't be a corner."
+        ],
+        "523": [
+            1440.0,
+            1441.0,
+            "It'll be out."
+        ],
+        "524": [
+            1442.0,
+            1443.0,
+            "Half of the first half is over."
+        ],
+        "525": [
+            1444.0,
+            1445.0,
+            "1-0. Chieva won."
+        ],
+        "526": [
+            1450.0,
+            1451.0,
+            "Good tackle."
+        ],
+        "527": [
+            1452.0,
+            1453.0,
+            "This, by the way, was the same..."
+        ],
+        "528": [
+            1454.0,
+            1455.0,
+            "No, it's Lucas Castro."
+        ],
+        "529": [
+            1456.0,
+            1457.0,
+            "He came to his favorite position."
+        ],
+        "530": [
+            1458.0,
+            1460.0,
+            "The one that De Pauli occupied today."
+        ],
+        "531": [
+            1461.0,
+            1462.0,
+            "And participated in the selection."
+        ],
+        "532": [
+            1463.0,
+            1465.0,
+            "But now De Pauli did not understand the episode."
+        ],
+        "533": [
+            1466.0,
+            1468.0,
+            "There, of course, it was necessary to look for another option for transmission."
+        ],
+        "534": [
+            1469.0,
+            1471.0,
+            "Because Castro was at the edge."
+        ],
+        "535": [
+            1472.0,
+            1474.0,
+            "Yes, and De Pauli gave a lot."
+        ],
+        "536": [
+            1477.0,
+            1478.0,
+            "Facio."
+        ],
+        "537": [
+            1481.0,
+            1482.0,
+            "Emerson."
+        ],
+        "538": [
+            1484.0,
+            1487.0,
+            "El Sharawi initially left this position in front."
+        ],
+        "539": [
+            1488.0,
+            1489.0,
+            "Now he's coming back."
+        ],
+        "540": [
+            1490.0,
+            1491.0,
+            "But there is already an experienced Gamberini there."
+        ],
+        "541": [
+            1492.0,
+            1495.0,
+            "Gamberini, who in his biography..."
+        ],
+        "542": [
+            1496.0,
+            1498.0,
+            "And three goals against Roma."
+        ],
+        "543": [
+            1499.0,
+            1501.0,
+            "But, it’s true, he scored all three goals of the Club of Rome,"
+        ],
+        "544": [
+            1502.0,
+            1503.0,
+            "When I played for Fiorentina."
+        ],
+        "545": [
+            1504.0,
+            1506.0,
+            "He even managed to be the captain of this team."
+        ],
+        "546": [
+            1507.0,
+            1509.0,
+            "But now he plays for Kiev."
+        ],
+        "547": [
+            1510.0,
+            1511.0,
+            "And that's not all, of course."
+        ],
+        "548": [
+            1512.0,
+            1513.0,
+            "And that's not all, of course."
+        ],
+        "549": [
+            1514.0,
+            1515.0,
+            "But of course that's not all."
+        ],
+        "550": [
+            1516.0,
+            1517.0,
+            " And that's not it."
+        ],
+        "551": [
+            1518.0,
+            1519.0,
+            "And the same picture."
+        ],
+        "552": [
+            1520.0,
+            1521.0,
+            "Roma has the ball."
+        ],
+        "553": [
+            1522.0,
+            1524.0,
+            "In terms of control, of course, the Romans are ahead."
+        ],
+        "554": [
+            1525.0,
+            1526.0,
+            "The owners."
+        ],
+        "555": [
+            1527.0,
+            1528.0,
+            "But where is the danger?"
+        ],
+        "556": [
+            1529.0,
+            1530.0,
+            "Gateway to Fiorentina."
+        ],
+        "557": [
+            1531.0,
+            1532.0,
+            "He helped out once."
+        ],
+        "558": [
+            1533.0,
+            1534.0,
+            "But since then we haven't seen moments."
+        ],
+        "559": [
+            1536.0,
+            1537.0,
+            " Цесар."
+        ],
+        "560": [
+            1541.0,
+            1542.0,
+            "Facio in the air."
+        ],
+        "561": [
+            1544.0,
+            1545.0,
+            "First on the ball."
+        ],
+        "562": [
+            1553.0,
+            1554.0,
+            "Throwing a free throw."
+        ],
+        "563": [
+            1556.0,
+            1557.0,
+            "And there will be a goal kick."
+        ],
+        "564": [
+            1559.0,
+            1563.0,
+            "Pacciatoro and Gamberini played very carefully."
+        ],
+        "565": [
+            1571.0,
+            1573.0,
+            "And the ball was escorted."
+        ],
+        "566": [
+            1578.0,
+            1580.0,
+            "Beyond Sorentino's bullet."
+        ],
+        "567": [
+            1589.0,
+            1590.0,
+            "Kills."
+        ],
+        "568": [
+            1595.0,
+            1596.0,
+            "Dumped Jack."
+        ],
+        "569": [
+            1601.0,
+            1603.0,
+            "And in the center of the bullet is a violation of the rules."
+        ],
+        "570": [
+            1604.0,
+            1606.0,
+            "Manolas does not agree with the referee's decision."
+        ],
+        "571": [
+            1607.0,
+            1608.0,
+            "But it's purely instinctive."
+        ],
+        "572": [
+            1616.0,
+            1617.0,
+            "Lucas Castro on the lawn."
+        ],
+        "573": [
+            1630.0,
+            1631.0,
+            "And reverse gear."
+        ],
+        "574": [
+            1632.0,
+            1633.0,
+            "Kieva can play any way she wants now."
+        ],
+        "575": [
+            1634.0,
+            1635.0,
+            "Give the ball to the goalkeeper."
+        ],
+        "576": [
+            1636.0,
+            1637.0,
+            "Roma needs to force this."
+        ],
+        "577": [
+            1638.0,
+            1639.0,
+            "Roma is trying."
+        ],
+        "578": [
+            1640.0,
+            1641.0,
+            "And he plays great for Jack."
+        ],
+        "579": [
+            1642.0,
+            1643.0,
+            "It lets me through."
+        ],
+        "580": [
+            1644.0,
+            1645.0,
+            "And El Sharawi equalizes the score."
+        ],
+        "581": [
+            1646.0,
+            1647.0,
+            "That's a mistake."
+        ],
+        "582": [
+            1648.0,
+            1649.0,
+            "So the Veronese people started playing."
+        ],
+        "583": [
+            1650.0,
+            1651.0,
+            "And I will repeat."
+        ],
+        "584": [
+            1652.0,
+            1654.0,
+            "In this attack, yes, El Sharawi scored the goal."
+        ],
+        "585": [
+            1655.0,
+            1656.0,
+            " He is good."
+        ],
+        "586": [
+            1657.0,
+            1658.0,
+            "But he can't play here."
+        ],
+        "587": [
+            1658.0,
+            1659.0,
+            "He scored a ball."
+        ],
+        "588": [
+            1660.0,
+            1661.0,
+            " He is good."
+        ],
+        "589": [
+            1662.0,
+            1664.0,
+            "But here Jack left, left and diverted attention."
+        ],
+        "590": [
+            1665.0,
+            1666.0,
+            "What's most important."
+        ],
+        "591": [
+            1667.0,
+            1668.0,
+            "Defenders high."
+        ],
+        "592": [
+            1669.0,
+            1670.0,
+            "The best scorer in Serie A."
+        ],
+        "593": [
+            1671.0,
+            1672.0,
+            "And they missed Stefan El Sharawi."
+        ],
+        "594": [
+            1673.0,
+            1674.0,
+            "It was like he escaped from an ambush."
+        ],
+        "595": [
+            1675.0,
+            1676.0,
+            "I picked up the ball."
+        ],
+        "596": [
+            1677.0,
+            1678.0,
+            "And he drove into the empty gates."
+        ],
+        "597": [
+            1679.0,
+            1680.0,
+            "And Sorrentino, of course, came out."
+        ],
+        "598": [
+            1681.0,
+            1682.0,
+            "And the defenders left."
+        ],
+        "599": [
+            1683.0,
+            1684.0,
+            " 1-1."
+        ],
+        "600": [
+            1685.0,
+            1686.0,
+            "Roma equalizes the score."
+        ],
+        "601": [
+            1687.0,
+            1688.0,
+            "Well, that's how the game will go now."
+        ],
+        "602": [
+            1689.0,
+            1690.0,
+            "Well, of course, the drawing will remain the same."
+        ],
+        "603": [
+            1691.0,
+            1692.0,
+            "But they were wrong."
+        ],
+        "604": [
+            1693.0,
+            1694.0,
+            "The players made a mistake."
+        ],
+        "605": [
+            1695.0,
+            1696.0,
+            "Kieva and Birsa shoot from outside the field."
+        ],
+        "606": [
+            1697.0,
+            1698.0,
+            "Today he is not on the field, of course, in the penalty area."
+        ],
+        "607": [
+            1699.0,
+            1703.0,
+            "This is not the first time he has struck today."
+        ],
+        "608": [
+            1704.0,
+            1706.0,
+            "He takes aim from a long distance."
+        ],
+        "609": [
+            1707.0,
+            1710.0,
+            "Birsa can break through."
+        ],
+        "610": [
+            1716.0,
+            1717.0,
+            "And this is the ticket."
+        ],
+        "611": [
+            1718.0,
+            1719.0,
+            "Rüdiger."
+        ],
+        "612": [
+            1722.0,
+            1724.0,
+            "De Rossi backheeled onto Salah."
+        ],
+        "613": [
+            1725.0,
+            1727.0,
+            "But Salah just didn't make it in time."
+        ],
+        "614": [
+            1728.0,
+            1730.0,
+            "The powerful Rüdiger has come to attack."
+        ],
+        "615": [
+            1731.0,
+            1732.0,
+            "It helped get the ball back."
+        ],
+        "616": [
+            1733.0,
+            1734.0,
+            "Stratman, De Rossi."
+        ],
+        "617": [
+            1735.0,
+            1736.0,
+            "They're all here."
+        ],
+        "618": [
+            1737.0,
+            1738.0,
+            "And everyone is trying to give it to Salah."
+        ],
+        "619": [
+            1739.0,
+            1740.0,
+            "A series of ricochets."
+        ],
+        "620": [
+            1741.0,
+            1742.0,
+            "Inglese doesn't grab the ball."
+        ],
+        "621": [
+            1743.0,
+            1744.0,
+            "De Pauli."
+        ],
+        "622": [
+            1744.0,
+            1745.0,
+            "Gave it to the flank."
+        ],
+        "623": [
+            1746.0,
+            1747.0,
+            "Walter Biersa was there."
+        ],
+        "624": [
+            1748.0,
+            1749.0,
+            "Birsa moves along the entire front of the attack."
+        ],
+        "625": [
+            1750.0,
+            1751.0,
+            "De Pauli walked forward."
+        ],
+        "626": [
+            1752.0,
+            1753.0,
+            "Dzeko is back."
+        ],
+        "627": [
+            1754.0,
+            1758.0,
+            "The foul was against Fabio De Pauli."
+        ],
+        "628": [
+            1759.0,
+            1760.0,
+            " Here you go."
+        ],
+        "629": [
+            1761.0,
+            1763.0,
+            "They show us the main characters."
+        ],
+        "630": [
+            1764.0,
+            1765.0,
+            "Stratman is active today."
+        ],
+        "631": [
+            1766.0,
+            1767.0,
+            "But this is Rajan Ingavan."
+        ],
+        "632": [
+            1768.0,
+            1769.0,
+            "We are waiting for his appearance today."
+        ],
+        "633": [
+            1770.0,
+            1773.0,
+            "Especially if Roma fails to score the second."
+        ],
+        "634": [
+            1774.0,
+            1776.0,
+            "I'll repeat, how the game goes."
+        ],
+        "635": [
+            1777.0,
+            1778.0,
+            "But Ingavan, in principle, should be seen."
+        ],
+        "636": [
+            1779.0,
+            1780.0,
+            "He scored against Juventus."
+        ],
+        "637": [
+            1781.0,
+            1783.0,
+            "In the last round, Roma won 3-1."
+        ],
+        "638": [
+            1784.0,
+            1787.0,
+            "He said that he was tired before that game, but he couldn’t help but play."
+        ],
+        "639": [
+            1788.0,
+            1790.0,
+            "Today, apparently, he may not play yet."
+        ],
+        "640": [
+            1791.0,
+            1793.0,
+            "That's why I'm on the bench."
+        ],
+        "641": [
+            1795.0,
+            1800.0,
+            "Stratman committed an offense against Bastian the Brave."
+        ],
+        "642": [
+            1800.0,
+            1802.0,
+            "Stefan El Sharawi."
+        ],
+        "643": [
+            1803.0,
+            1807.0,
+            "He scored for the seventh time this season."
+        ],
+        "644": [
+            1809.0,
+            1811.0,
+            "Half an hour of play is over."
+        ],
+        "645": [
+            1812.0,
+            1815.0,
+            "Birsa's pass didn't work out, but Bastian is on the rebound."
+        ],
+        "646": [
+            1816.0,
+            1817.0,
+            "Kieva will support the ball a little."
+        ],
+        "647": [
+            1818.0,
+            1819.0,
+            "Lucas Castro."
+        ],
+        "648": [
+            1820.0,
+            1822.0,
+            "Tochatore."
+        ],
+        "649": [
+            1823.0,
+            1825.0,
+            "Stratman Terosi."
+        ],
+        "650": [
+            1832.0,
+            1834.0,
+            "And forward to El Sharawi."
+        ],
+        "651": [
+            1835.0,
+            1839.0,
+            "I seemed to be ahead of one defender, but Gamberi did not insure."
+        ],
+        "652": [
+            1840.0,
+            1842.0,
+            "The Kiev footballers haven't made a mistake here."
+        ],
+        "653": [
+            1843.0,
+            1845.0,
+            "Well, De Power is wrong here."
+        ],
+        "654": [
+            1846.0,
+            1848.0,
+            "And last time, as you see, he didn't win."
+        ],
+        "655": [
+            1848.0,
+            1850.0,
+            "The Kiev players didn't make a mistake."
+        ],
+        "656": [
+            1851.0,
+            1853.0,
+            "Well, De Power is wrong here."
+        ],
+        "657": [
+            1854.0,
+            1858.0,
+            "Emerson pushed and almost pushed through."
+        ],
+        "658": [
+            1860.0,
+            1862.0,
+            " Tochatore technically."
+        ],
+        "659": [
+            1866.0,
+            1868.0,
+            "Here, El Sharawi, of course, won’t have time to get to the ball."
+        ],
+        "660": [
+            1869.0,
+            1871.0,
+            " Gamberini."
+        ],
+        "661": [
+            1875.0,
+            1877.0,
+            "Bastian."
+        ],
+        "662": [
+            1879.0,
+            1881.0,
+            "It was difficult for him to get through."
+        ],
+        "663": [
+            1882.0,
+            1884.0,
+            "He let the ball go and now Roma is on the attack."
+        ],
+        "664": [
+            1885.0,
+            1886.0,
+            "Mohammed Salah."
+        ],
+        "665": [
+            1887.0,
+            1888.0,
+            "But his transmission didn’t go through."
+        ],
+        "666": [
+            1889.0,
+            1890.0,
+            "Nadzheka Boshtin Tsesar was on the spot."
+        ],
+        "667": [
+            1891.0,
+            1892.0,
+            "But Roma will take the corner."
+        ],
+        "668": [
+            1893.0,
+            1900.0,
+            "And we look again at how the goal happened at the Kiev goal."
+        ],
+        "669": [
+            1901.0,
+            1904.0,
+            "Well, it all started with Sorrentino kicking the ball."
+        ],
+        "670": [
+            1905.0,
+            1906.0,
+            "Well, probably not very successful,"
+        ],
+        "671": [
+            1906.0,
+            1908.0,
+            "But Fazio immediately returned him to the attack."
+        ],
+        "672": [
+            1909.0,
+            1910.0,
+            "And then there was a goal."
+        ],
+        "673": [
+            1911.0,
+            1914.0,
+            "Cunningly played by Jack and great by El Sharawi."
+        ],
+        "674": [
+            1916.0,
+            1918.0,
+            "Feed."
+        ],
+        "675": [
+            1919.0,
+            1920.0,
+            "Facio couldn't control the ball."
+        ],
+        "676": [
+            1921.0,
+            1924.0,
+            "Walter Birsa played riskily, by the way."
+        ],
+        "677": [
+            1925.0,
+            1929.0,
+            "They could have taken it away here, but Bastian kept the ball for his team."
+        ],
+        "678": [
+            1930.0,
+            1932.0,
+            "Kochatore cast."
+        ],
+        "679": [
+            1933.0,
+            1935.0,
+            "Lucas Castro's back."
+        ],
+        "680": [
+            1936.0,
+            1945.0,
+            "The ball was defended by one Roma player, but Ruedeger managed to do it."
+        ],
+        "681": [
+            1946.0,
+            1950.0,
+            "Another player was El Sharawi, who came to the wrong flank,"
+        ],
+        "682": [
+            1951.0,
+            1952.0,
+            "But now he's coming back."
+        ],
+        "683": [
+            1953.0,
+            1958.0,
+            "He meets Kiev high again, but, however, without pressing."
+        ],
+        "684": [
+            1959.0,
+            1962.0,
+            "Simply denotes the presence of Derosi."
+        ],
+        "685": [
+            1966.0,
+            1968.0,
+            "The ball knocks out."
+        ],
+        "686": [
+            1971.0,
+            1973.0,
+            "Emerson."
+        ],
+        "687": [
+            1976.0,
+            1978.0,
+            " Дероси."
+        ],
+        "688": [
+            1979.0,
+            1981.0,
+            "El Sharawy."
+        ],
+        "689": [
+            1982.0,
+            1983.0,
+            " Дероси."
+        ],
+        "690": [
+            1984.0,
+            1986.0,
+            "Bastian has moved to..."
+        ],
+        "691": [
+            1987.0,
+            1989.0,
+            "...second flank."
+        ],
+        "692": [
+            1989.0,
+            1991.0,
+            "Interesting move."
+        ],
+        "693": [
+            1992.0,
+            1995.0,
+            "Usually in an attack these are the changes that happen."
+        ],
+        "694": [
+            1996.0,
+            2000.0,
+            "For half a time, players play one on one flank, the other on the other."
+        ],
+        "695": [
+            2001.0,
+            2002.0,
+            "And then they change."
+        ],
+        "696": [
+            2003.0,
+            2006.0,
+            "But now this happened in the three central floors due to..."
+        ],
+        "697": [
+            2007.0,
+            2008.0,
+            "...second flank."
+        ],
+        "698": [
+            2009.0,
+            2011.0,
+            "And now, of course, this is not the case."
+        ],
+        "699": [
+            2012.0,
+            2014.0,
+            "But, in principle, this is not so."
+        ],
+        "700": [
+            2014.0,
+            2016.0,
+            "Second flank."
+        ],
+        "701": [
+            2017.0,
+            2019.0,
+            " Дероси."
+        ],
+        "702": [
+            2020.0,
+            2022.0,
+            "Bastian has moved to..."
+        ],
+        "703": [
+            2023.0,
+            2025.0,
+            "...second flank."
+        ],
+        "704": [
+            2026.0,
+            2028.0,
+            "Denotes the presence of Derosi."
+        ],
+        "705": [
+            2029.0,
+            2031.0,
+            "El Sharawy."
+        ],
+        "706": [
+            2032.0,
+            2034.0,
+            " Дероси."
+        ],
+        "707": [
+            2035.0,
+            2037.0,
+            "Bastian has moved to..."
+        ],
+        "708": [
+            2038.0,
+            2040.0,
+            "...second flank."
+        ],
+        "709": [
+            2041.0,
+            2043.0,
+            "Denotes the presence of Derosi."
+        ],
+        "710": [
+            2044.0,
+            2046.0,
+            "And now it's happening."
+        ],
+        "711": [
+            2047.0,
+            2049.0,
+            "And now it's happening."
+        ],
+        "712": [
+            2050.0,
+            2052.0,
+            "And now it's happening."
+        ],
+        "713": [
+            2053.0,
+            2055.0,
+            "And now it's happening."
+        ],
+        "714": [
+            2056.0,
+            2058.0,
+            "And now it's happening."
+        ],
+        "715": [
+            2059.0,
+            2061.0,
+            "And now it's happening."
+        ],
+        "716": [
+            2062.0,
+            2064.0,
+            "And now it's happening."
+        ],
+        "717": [
+            2065.0,
+            2067.0,
+            "And now it's happening."
+        ],
+        "718": [
+            2068.0,
+            2070.0,
+            "And now it's happening."
+        ],
+        "719": [
+            2071.0,
+            2073.0,
+            "And now it's happening."
+        ],
+        "720": [
+            2074.0,
+            2076.0,
+            "El Sharawi with the ball. It's a free kick."
+        ],
+        "721": [
+            2077.0,
+            2079.0,
+            "Gamberini meets him. Shot on goal."
+        ],
+        "722": [
+            2080.0,
+            2084.0,
+            "It doesn’t quite work out for Strotman, but he manages to earn a corner."
+        ],
+        "723": [
+            2091.0,
+            2093.0,
+            "And Leandro Paredes will serve."
+        ],
+        "724": [
+            2094.0,
+            2096.0,
+            "As usual in this meeting..."
+        ],
+        "725": [
+            2098.0,
+            2101.0,
+            "...the Argentine is leaving."
+        ],
+        "726": [
+            2101.0,
+            2104.0,
+            "And the serve is the third corner loss in this meeting."
+        ],
+        "727": [
+            2109.0,
+            2111.0,
+            "And we are still waiting for the same Rüdiger."
+        ],
+        "728": [
+            2112.0,
+            2114.0,
+            "Facio. Submission. Rüdiger. Discount."
+        ],
+        "729": [
+            2115.0,
+            2118.0,
+            "Birsa kicks the ball. And it rolls out of bounds."
+        ],
+        "730": [
+            2119.0,
+            2121.0,
+            "But now everyone is absolutely a player in Kyiv..."
+        ],
+        "731": [
+            2122.0,
+            2125.0,
+            "...either in our own penalty area or near our own penalty area."
+        ],
+        "732": [
+            2128.0,
+            2130.0,
+            "And the inglazes are just now..."
+        ],
+        "733": [
+            2131.0,
+            2133.0,
+            "...stretched out a little."
+        ],
+        "734": [
+            2138.0,
+            2140.0,
+            "And De Pauli returned to his flank."
+        ],
+        "735": [
+            2141.0,
+            2144.0,
+            "There was a temporary solution with a change of place."
+        ],
+        "736": [
+            2146.0,
+            2148.0,
+            "Gamberini knocks out."
+        ],
+        "737": [
+            2151.0,
+            2153.0,
+            "Well, Damatu records the violation of the rules there."
+        ],
+        "738": [
+            2156.0,
+            2158.0,
+            "Faili vs. Stefan El Sharawi."
+        ],
+        "739": [
+            2161.0,
+            2163.0,
+            "The game has become sharper at the gates of Kyiv..."
+        ],
+        "740": [
+            2164.0,
+            2166.0,
+            "...after the left flank became active."
+        ],
+        "741": [
+            2167.0,
+            2169.0,
+            "Then we saw mainly right-wing attacks with the involvement of Salah."
+        ],
+        "742": [
+            2170.0,
+            2174.0,
+            "And this, apparently, somewhat lulled the vigilance of Kyiv football players."
+        ],
+        "743": [
+            2175.0,
+            2178.0,
+            "They began to miss attacks on El Sharawi's other flank."
+        ],
+        "744": [
+            2179.0,
+            2181.0,
+            "Just scored a goal, but also pumps up."
+        ],
+        "745": [
+            2182.0,
+            2184.0,
+            "Paredes serves."
+        ],
+        "746": [
+            2185.0,
+            2187.0,
+            "Well, here Lucas Castro is first on the ball."
+        ],
+        "747": [
+            2188.0,
+            2191.0,
+            "And gradually comes out, comes out of defense."
+        ],
+        "748": [
+            2192.0,
+            2194.0,
+            "Kyiv players saw Bastian."
+        ],
+        "749": [
+            2195.0,
+            2197.0,
+            "Lucas Castro's hand was gone."
+        ],
+        "750": [
+            2198.0,
+            2200.0,
+            "Failed to pass. De Pauli, Bastian."
+        ],
+        "751": [
+            2201.0,
+            2204.0,
+            "Stops them both on this flank now."
+        ],
+        "752": [
+            2205.0,
+            2207.0,
+            "Radavanovich further to Birsa."
+        ],
+        "753": [
+            2208.0,
+            2210.0,
+            "Positions change. Kyiv players. Birsa serves."
+        ],
+        "754": [
+            2211.0,
+            2215.0,
+            "Kick! And scores, scores a goal."
+        ],
+        "755": [
+            2215.0,
+            2219.0,
+            "And the defenders overslept. This attack was instantaneous."
+        ],
+        "756": [
+            2220.0,
+            2223.0,
+            "But the transfer was asking for itself, and the transfer was asking for itself."
+        ],
+        "757": [
+            2224.0,
+            2227.0,
+            "And here the Veronese people have already put the guests to sleep."
+        ],
+        "758": [
+            2228.0,
+            2229.0,
+            "Let's look again now."
+        ],
+        "759": [
+            2230.0,
+            2231.0,
+            "Ingles' ninth goal this season."
+        ],
+        "760": [
+            2232.0,
+            2234.0,
+            "He is compared to Sergio Pelesier."
+        ],
+        "761": [
+            2235.0,
+            2237.0,
+            "Look at this. Walter Birsa."
+        ],
+        "762": [
+            2238.0,
+            2241.0,
+            "Kyiv football players have been promoting this attack for a long time."
+        ],
+        "763": [
+            2242.0,
+            2244.0,
+            "And the Romans played passively in the selection."
+        ],
+        "764": [
+            2245.0,
+            2248.0,
+            "Well, here they can only look at each other."
+        ],
+        "765": [
+            2249.0,
+            2251.0,
+            "Roma players Manolas na Fazio."
+        ],
+        "766": [
+            2252.0,
+            2253.0,
+            "They were attracted by the attack. They returned."
+        ],
+        "767": [
+            2254.0,
+            2255.0,
+            "And here such things are already happening."
+        ],
+        "768": [
+            2256.0,
+            2258.0,
+            "Roberto Ingleza. He scored the goal today."
+        ],
+        "769": [
+            2259.0,
+            2261.0,
+            "And the assist to Lucas Castro."
+        ],
+        "770": [
+            2262.0,
+            2265.0,
+            "And here Birsa gave the assist."
+        ],
+        "771": [
+            2266.0,
+            2267.0,
+            "Francesco Totti."
+        ],
+        "772": [
+            2268.0,
+            2270.0,
+            "Directors will show it to us often today."
+        ],
+        "773": [
+            2271.0,
+            2272.0,
+            "There was no reason yet."
+        ],
+        "774": [
+            2272.0,
+            2276.0,
+            "But the longer the match goes on, the worse the result for Roma,"
+        ],
+        "775": [
+            2277.0,
+            2280.0,
+            "The more hints that Francesco is missing."
+        ],
+        "776": [
+            2281.0,
+            2284.0,
+            "Maybe in some episodes of the game this is really true."
+        ],
+        "777": [
+            2285.0,
+            2287.0,
+            "I will not talk about the conflict between Totti and Spalletti today."
+        ],
+        "778": [
+            2288.0,
+            2289.0,
+            "Who's wrong and who's right."
+        ],
+        "779": [
+            2290.0,
+            2292.0,
+            "Totti is waiting for Veronia."
+        ],
+        "780": [
+            2293.0,
+            2294.0,
+            "And the Kyiv players are waiting."
+        ],
+        "781": [
+            2295.0,
+            2300.0,
+            "Lucas Castro, the author of the scored ball, he recorded a guitar song for Francesco Totta."
+        ],
+        "782": [
+            2300.0,
+            2302.0,
+            "Called him a gladiator."
+        ],
+        "783": [
+            2303.0,
+            2305.0,
+            "He said that for Rome it is as important as the Colosseum."
+        ],
+        "784": [
+            2306.0,
+            2307.0,
+            "Same symbol."
+        ],
+        "785": [
+            2308.0,
+            2311.0,
+            "And Totti's symbolic presence is of course important for the team."
+        ],
+        "786": [
+            2312.0,
+            2314.0,
+            "Maybe he'll show up today."
+        ],
+        "787": [
+            2315.0,
+            2316.0,
+            "Sergio Pelesier."
+        ],
+        "788": [
+            2317.0,
+            2318.0,
+            "Another veteran."
+        ],
+        "789": [
+            2319.0,
+            2321.0,
+            "Today also in reserve. He supported Totti."
+        ],
+        "790": [
+            2322.0,
+            2327.0,
+            "He said that Spalletti shouldn’t have released him at the Miadze Stadium in Milan."
+        ],
+        "791": [
+            2328.0,
+            2329.0,
+            "I didn't let you say goodbye to Milan."
+        ],
+        "792": [
+            2330.0,
+            2334.0,
+            "Totti is leaving, most likely Jack is out of the game."
+        ],
+        "793": [
+            2335.0,
+            2336.0,
+            "But he didn't give and he didn't give."
+        ],
+        "794": [
+            2337.0,
+            2338.0,
+            "Today is a different match."
+        ],
+        "795": [
+            2339.0,
+            2342.0,
+            "And we got our first close-up look at Totti today."
+        ],
+        "796": [
+            2343.0,
+            2346.0,
+            "And here is the goal. Inglaza and Lucas Castro also went for this ball."
+        ],
+        "797": [
+            2348.0,
+            2349.0,
+            "Kieva, well done."
+        ],
+        "798": [
+            2350.0,
+            2354.0,
+            "Kyiv's approach to this meeting was not indifferent."
+        ],
+        "799": [
+            2355.0,
+            2356.0,
+            "Well, Luciano Spalletti."
+        ],
+        "800": [
+            2356.0,
+            2359.0,
+            "It's clear that he can be now."
+        ],
+        "801": [
+            2360.0,
+            2366.0,
+            "His team not only needs to attack sharper, but also defend."
+        ],
+        "802": [
+            2367.0,
+            2369.0,
+            "It would seem that the best way to defensively take the ball is not to give it away."
+        ],
+        "803": [
+            2370.0,
+            2376.0,
+            "But here 10-15 seconds were enough for the serve to pass and a goal to be scored."
+        ],
+        "804": [
+            2377.0,
+            2378.0,
+            "Rolando Moran."
+        ],
+        "805": [
+            2378.0,
+            2379.0,
+            "Rolando Moran."
+        ],
+        "806": [
+            2380.0,
+            2384.0,
+            "And he promised to tell about the prize he received."
+        ],
+        "807": [
+            2385.0,
+            2387.0,
+            "The award called Alenatore de Issogny."
+        ],
+        "808": [
+            2388.0,
+            2390.0,
+            "This is a dream coach."
+        ],
+        "809": [
+            2391.0,
+            2395.0,
+            "These are children. They participate in the annual tournament in the city of Arco."
+        ],
+        "810": [
+            2396.0,
+            2399.0,
+            "Tournament named after journalist Beppi Viola."
+        ],
+        "811": [
+            2400.0,
+            2402.0,
+            "And every year they determine the best coach, in their opinion."
+        ],
+        "812": [
+            2403.0,
+            2404.0,
+            "This season it's Rolando Moran."
+        ],
+        "813": [
+            2405.0,
+            2406.0,
+            "This is such a non-standard move."
+        ],
+        "814": [
+            2406.0,
+            2409.0,
+            "It would seem, choose the coach of Juventus."
+        ],
+        "815": [
+            2410.0,
+            2411.0,
+            "No, they chose Moran."
+        ],
+        "816": [
+            2412.0,
+            2414.0,
+            "Last year there was Sally from Naples."
+        ],
+        "817": [
+            2415.0,
+            2416.0,
+            "Roma attacks."
+        ],
+        "818": [
+            2417.0,
+            2419.0,
+            "Spalletti is not in the top three."
+        ],
+        "819": [
+            2420.0,
+            2422.0,
+            "But there is Jampauel Winzaghi."
+        ],
+        "820": [
+            2423.0,
+            2425.0,
+            "Dzeko wins the air."
+        ],
+        "821": [
+            2426.0,
+            2430.0,
+            "Sarantino reacts to Mohamed Salah's strike."
+        ],
+        "822": [
+            2431.0,
+            2433.0,
+            "Point blank. The score should have been tied."
+        ],
+        "823": [
+            2433.0,
+            2436.0,
+            "The Egyptian failed to break through Sarantino."
+        ],
+        "824": [
+            2437.0,
+            2439.0,
+            "Sarantino is playing great matches this season."
+        ],
+        "825": [
+            2440.0,
+            2442.0,
+            "Do you remember what happened in Milan against Inter?"
+        ],
+        "826": [
+            2443.0,
+            2444.0,
+            "We lost then."
+        ],
+        "827": [
+            2445.0,
+            2447.0,
+            "But what did Stefano Sarantino do?"
+        ],
+        "828": [
+            2448.0,
+            2450.0,
+            "Also not a young goalkeeper anymore."
+        ],
+        "829": [
+            2451.0,
+            2453.0,
+            "He just helped out now."
+        ],
+        "830": [
+            2454.0,
+            2456.0,
+            "Today he saved his team twice in the first half."
+        ],
+        "831": [
+            2457.0,
+            2464.0,
+            "By the way, here in Verona Chieva beat Roma only once."
+        ],
+        "832": [
+            2466.0,
+            2473.0,
+            "It's been quite a while."
+        ],
+        "833": [
+            2474.0,
+            2477.0,
+            "Recently. We just won in the 2012-2013 season."
+        ],
+        "834": [
+            2478.0,
+            2479.0,
+            "We won in Rome before."
+        ],
+        "835": [
+            2480.0,
+            2485.0,
+            "And the first time at home happened just a few seasons ago."
+        ],
+        "836": [
+            2486.0,
+            2488.0,
+            "Dae Powell played the ball."
+        ],
+        "837": [
+            2489.0,
+            2490.0,
+            "And the ball against Emerson."
+        ],
+        "838": [
+            2491.0,
+            2493.0,
+            "And the ball also went away from Brazil."
+        ],
+        "839": [
+            2494.0,
+            2495.0,
+            " 2-1."
+        ],
+        "840": [
+            2496.0,
+            2499.0,
+            "This match did not foretell much intrigue."
+        ],
+        "841": [
+            2500.0,
+            2501.0,
+            "It seemed like Roma would win."
+        ],
+        "842": [
+            2502.0,
+            2503.0,
+            "And it will win relatively easily."
+        ],
+        "843": [
+            2504.0,
+            2505.0,
+            "But Spalletti warned."
+        ],
+        "844": [
+            2506.0,
+            2512.0,
+            "Both Spalletti and the players said that Kiev's calmness is visible."
+        ],
+        "845": [
+            2513.0,
+            2514.0,
+            "And so it happened."
+        ],
+        "846": [
+            2514.0,
+            2515.0,
+            "Divorce."
+        ],
+        "847": [
+            2516.0,
+            2517.0,
+            "Shoot! Gooooool!"
+        ],
+        "848": [
+            2518.0,
+            2520.0,
+            "That was Mohamed Salah's shot."
+        ],
+        "849": [
+            2521.0,
+            2524.0,
+            "He thanks the Almighty."
+        ],
+        "850": [
+            2525.0,
+            2526.0,
+            " 2-2."
+        ],
+        "851": [
+            2527.0,
+            2531.0,
+            "Mohamed Salah. What he should have done a minute and a half ago, he did now."
+        ],
+        "852": [
+            2532.0,
+            2533.0,
+            "The Egyptian's 14th goal of the season."
+        ],
+        "853": [
+            2534.0,
+            2535.0,
+            "And what a technical blow it was."
+        ],
+        "854": [
+            2536.0,
+            2537.0,
+            "Twisted it up."
+        ],
+        "855": [
+            2538.0,
+            2539.0,
+            "Let's look again now."
+        ],
+        "856": [
+            2540.0,
+            2541.0,
+            "Of course, Strotman gave."
+        ],
+        "857": [
+            2541.0,
+            2543.0,
+            "He liked to pass the ball to Salah."
+        ],
+        "858": [
+            2544.0,
+            2546.0,
+            "There was a rebound from the defender."
+        ],
+        "859": [
+            2547.0,
+            2548.0,
+            "It seemed to me from Gobi."
+        ],
+        "860": [
+            2549.0,
+            2551.0,
+            "Yes, look how fate rewards you."
+        ],
+        "861": [
+            2552.0,
+            2555.0,
+            "Remember, we talked at the beginning of the meeting, back when the score was 0-0,"
+        ],
+        "862": [
+            2556.0,
+            2561.0,
+            "That the ball hit Gobi in the elbow, in the crook of his arm, during Roma’s attack in the penalty area."
+        ],
+        "863": [
+            2562.0,
+            2564.0,
+            "And then we debated whether there was a penalty."
+        ],
+        "864": [
+            2565.0,
+            2570.0,
+            "But now, in exactly the same place, he essentially sends the ball into his own goal."
+        ],
+        "865": [
+            2571.0,
+            2572.0,
+            "It was a ricochet."
+        ],
+        "866": [
+            2573.0,
+            2574.0,
+            " Finally, the main Salakha."
+        ],
+        "867": [
+            2577.0,
+            2585.0,
+            "This season, by the way, Salah has already had one goal taken away from him due to, as it seemed to me, an unobvious own goal."
+        ],
+        "868": [
+            2586.0,
+            2588.0,
+            "Opponent, it was a match with Bolonia, if I'm not mistaken."
+        ],
+        "869": [
+            2589.0,
+            2594.0,
+            "Salah made a trick, and one goal was counted as an own goal."
+        ],
+        "870": [
+            2595.0,
+            2600.0,
+            "But now no one will take away Salah’s 14th goal."
+        ],
+        "871": [
+            2601.0,
+            2606.0,
+            "2-2. That's how productive our first half was in Verona."
+        ],
+        "872": [
+            2607.0,
+            2614.0,
+            "And there’s still a second one ahead, and Roma doesn’t have enough of what we now see in the upper left corner of the screens."
+        ],
+        "873": [
+            2615.0,
+            2616.0,
+            "Score 2-2 is not enough."
+        ],
+        "874": [
+            2617.0,
+            2622.0,
+            "He allows Naples, having beaten Fiorentina today, to move into second place."
+        ],
+        "875": [
+            2622.0,
+            2624.0,
+            "I'm not even talking about the championship race."
+        ],
+        "876": [
+            2625.0,
+            2641.0,
+            "If Roma plays like this today, and if Napoleon doesn’t win, Fiorentina can, in principle, play very calmly tomorrow with Caratone."
+        ],
+        "877": [
+            2642.0,
+            2645.0,
+            "Get one point and become Italian champion."
+        ],
+        "878": [
+            2647.0,
+            2651.0,
+            "In fact, many people already consider Juve to be champions."
+        ],
+        "879": [
+            2652.0,
+            2654.0,
+            "That's probably how it will be."
+        ],
+        "880": [
+            2656.0,
+            2658.0,
+            "It's hard to give in to Caratone and Bolonia."
+        ],
+        "881": [
+            2659.0,
+            2663.0,
+            "Juventus needs early, and the champion, in order to calmly prepare for the Champions League final."
+        ],
+        "882": [
+            2664.0,
+            2665.0,
+            "But, who knows, the Karatons are fighting for survival."
+        ],
+        "883": [
+            2666.0,
+            2668.0,
+            "And Roma, Roma attacks in his match."
+        ],
+        "884": [
+            2669.0,
+            2670.0,
+            "Rüdeger, serve!"
+        ],
+        "885": [
+            2671.0,
+            2674.0,
+            "The ball misses Mohamed Salah."
+        ],
+        "886": [
+            2675.0,
+            2678.0,
+            "Tsesar knocks him out. Last minute of the first half."
+        ],
+        "887": [
+            2678.0,
+            2681.0,
+            "Passed in Roma's attack."
+        ],
+        "888": [
+            2682.0,
+            2684.0,
+            "Strockman hits the ball."
+        ],
+        "889": [
+            2685.0,
+            2691.0,
+            "Rüdeger, but here Antonio Rüdeger played with the subtlety of a woodcutter."
+        ],
+        "890": [
+            2692.0,
+            2694.0,
+            "A player that many want to see in their ranks."
+        ],
+        "891": [
+            2695.0,
+            2697.0,
+            "I mean the clubs are big and rich."
+        ]
+    }
+}

@@ -1,0 +1,2974 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            4.0,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "1": [
+            4.02,
+            7.02,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "2": [
+            8.0,
+            10.02,
+            "Die Gäste von links nach rechts."
+        ],
+        "3": [
+            18.02,
+            20.02,
+            "Fehler von Boateng."
+        ],
+        "4": [
+            24.02,
+            26.02,
+            "Der Ball war wohl draußen."
+        ],
+        "5": [
+            30.02,
+            33.02,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "6": [
+            34.02,
+            37.02,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "7": [
+            45.02,
+            48.02,
+            "Die Mannschaft ist in extrem gutem Zustand."
+        ],
+        "8": [
+            49.02,
+            51.02,
+            "Das ist keine Selbstverständlichkeit."
+        ],
+        "9": [
+            52.02,
+            54.02,
+            "Die vielen Spiele beim Audi Cup."
+        ],
+        "10": [
+            55.02,
+            57.02,
+            "Da hat sich Guardiola beschwert."
+        ],
+        "11": [
+            57.04,
+            60.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "12": [
+            61.04,
+            64.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "13": [
+            65.04,
+            68.04,
+            "Die Temperatur ist in der bayerischen Hauptstadt 25 Grad."
+        ],
+        "14": [
+            76.04,
+            79.04,
+            "Es gibt Missverständnisse, was die Laufwege angeht."
+        ],
+        "15": [
+            87.04,
+            90.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "16": [
+            91.04,
+            94.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "17": [
+            117.04,
+            120.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "18": [
+            121.04,
+            124.04,
+            "Die Mannschaft ist in der ersten Hälfte der Spielzeit."
+        ],
+        "19": [
+            125.04,
+            127.04,
+            "Im Zentrum war es Lahm über rechts."
+        ],
+        "20": [
+            128.04,
+            131.04,
+            "Ansonsten war es die vermutete Dreierkette in der Defensive."
+        ],
+        "21": [
+            132.04,
+            133.04,
+            "Mit der Raute davor."
+        ],
+        "22": [
+            134.04,
+            136.04,
+            "So lässt Guardiola ganz gerne spielen."
+        ],
+        "23": [
+            137.04,
+            138.04,
+            "In dieser Saison."
+        ],
+        "24": [
+            139.04,
+            140.04,
+            "Handspiel von Vidal."
+        ],
+        "25": [
+            147.04,
+            148.04,
+            "Das war ein guter Ball."
+        ],
+        "26": [
+            149.04,
+            150.04,
+            "Das war ein guter Ball."
+        ],
+        "27": [
+            151.04,
+            152.04,
+            "Das war ein guter Ball."
+        ],
+        "28": [
+            171.04,
+            175.04,
+            "Augsburger werden versuchen, mutig und aggressiv zu spielen."
+        ],
+        "29": [
+            175.06,
+            176.06,
+            "Das war ein guter Ball."
+        ],
+        "30": [
+            179.06,
+            180.06,
+            "Das war ein guter Ball."
+        ],
+        "31": [
+            186.06,
+            189.06,
+            "Sie wollen respektlos sein, sie wollen kämpfen."
+        ],
+        "32": [
+            191.06,
+            194.06,
+            "Weinziel sagt, die Galligkeit muss wieder zu spüren sein."
+        ],
+        "33": [
+            200.06,
+            203.06,
+            "Die Bayern haben bisher alles richtig gemacht."
+        ],
+        "34": [
+            203.08,
+            205.08,
+            "Die Mannschaft hat sich gut vorbereitet."
+        ],
+        "35": [
+            207.08,
+            208.08,
+            "Es war ein gutes Platz."
+        ],
+        "36": [
+            210.08,
+            214.08,
+            "Man hat gezeigt, was für Qualitäten diese Mannschaft hat."
+        ],
+        "37": [
+            215.08,
+            218.08,
+            "Und auch die neuen Mannschaften, die gleich funktionieren."
+        ],
+        "38": [
+            219.08,
+            221.08,
+            "Die wir heute wieder präsentieren dürfen."
+        ],
+        "39": [
+            233.08,
+            234.08,
+            "Das war ein guter Ball."
+        ],
+        "40": [
+            237.08,
+            238.08,
+            "Das war ein guter Ball."
+        ],
+        "41": [
+            238.1,
+            239.1,
+            "Das war ein guter Ball."
+        ],
+        "42": [
+            242.1,
+            243.1,
+            "Das war ein guter Ball."
+        ],
+        "43": [
+            243.12,
+            244.12,
+            "Das war ein guter Ball."
+        ],
+        "44": [
+            247.12,
+            248.12,
+            "Das war ein guter Ball."
+        ],
+        "45": [
+            267.12,
+            269.12,
+            "Das war ein neuer Ball für Kai Jubi."
+        ],
+        "46": [
+            269.14,
+            270.14,
+            "Das war ein guter Ball."
+        ],
+        "47": [
+            273.14,
+            274.14,
+            "Das war ein guter Ball."
+        ],
+        "48": [
+            277.14,
+            281.14,
+            "Das lässt sich bei dem Ballbesitz der Augsburger immer wieder zurückführen."
+        ],
+        "49": [
+            281.14,
+            283.14,
+            "Als Innenverteidiger neben Boateng."
+        ],
+        "50": [
+            286.14,
+            287.14,
+            "Das war ein guter Ball."
+        ],
+        "51": [
+            290.14,
+            291.14,
+            "Das war ein guter Ball."
+        ],
+        "52": [
+            293.14,
+            294.14,
+            "Das war ein guter Ball."
+        ],
+        "53": [
+            296.14,
+            297.14,
+            "Das war ein guter Ball."
+        ],
+        "54": [
+            299.14,
+            300.14,
+            "Das war ein guter Ball."
+        ],
+        "55": [
+            303.14,
+            304.14,
+            "Das war ein guter Ball."
+        ],
+        "56": [
+            306.14,
+            307.14,
+            "Das war ein guter Ball."
+        ],
+        "57": [
+            321.14,
+            325.14,
+            "Er spielt zum ersten Mal von Beginn an in dieser Saison."
+        ],
+        "58": [
+            326.14,
+            328.14,
+            "Er hat bisher zweimal eingewichselt."
+        ],
+        "59": [
+            329.14,
+            331.14,
+            "Er hat bisher zweimal eingewichselt."
+        ],
+        "60": [
+            333.14,
+            335.14,
+            "Er hat bisher zweimal eingewichselt."
+        ],
+        "61": [
+            336.14,
+            339.14,
+            "Wieder ein kleines Missverständnis mit Costa."
+        ],
+        "62": [
+            341.14,
+            343.14,
+            "Die Idee war nicht schlecht."
+        ],
+        "63": [
+            359.14,
+            360.14,
+            "Das war ein guter Ball."
+        ],
+        "64": [
+            363.14,
+            364.14,
+            "Das war ein guter Ball."
+        ],
+        "65": [
+            377.14,
+            380.14,
+            "Jetzt gibt es die erste Ecke für die Bayern."
+        ],
+        "66": [
+            383.14,
+            385.14,
+            "Das wird ein interessantes Duell."
+        ],
+        "67": [
+            385.16,
+            386.16,
+            "Das war ein guter Ball."
+        ],
+        "68": [
+            389.16,
+            390.16,
+            "Das war ein guter Ball."
+        ],
+        "69": [
+            404.16,
+            406.16,
+            "Die erste torgefährliche Szene."
+        ],
+        "70": [
+            409.16,
+            411.16,
+            "Lewandowski hatte verlängert."
+        ],
+        "71": [
+            411.18,
+            412.18,
+            "Das war ein guter Ball."
+        ],
+        "72": [
+            415.18,
+            416.18,
+            "Das war ein guter Ball."
+        ],
+        "73": [
+            418.18,
+            419.18,
+            "Das war ein guter Ball."
+        ],
+        "74": [
+            422.18,
+            424.18,
+            "Das war gut aus Augsburger Sicht."
+        ],
+        "75": [
+            426.18,
+            428.18,
+            "Sonst hätte Müller den Fuß hinbekommen."
+        ],
+        "76": [
+            430.18,
+            433.18,
+            "Aber eigentlich hätte es die zweite Ecke geben müssen."
+        ],
+        "77": [
+            441.18,
+            442.18,
+            "Das war ein guter Ball."
+        ],
+        "78": [
+            465.18,
+            467.18,
+            "Ein guter Flügelwechsel von Vidal."
+        ],
+        "79": [
+            467.2,
+            468.2,
+            "Das war ein guter Ball."
+        ],
+        "80": [
+            470.2,
+            471.2,
+            "Das war ein guter Ball."
+        ],
+        "81": [
+            473.2,
+            474.2,
+            "Die zweite Ecke."
+        ],
+        "82": [
+            474.22,
+            475.22,
+            "Das war ein guter Ball."
+        ],
+        "83": [
+            478.22,
+            479.22,
+            "Das war ein guter Ball."
+        ],
+        "84": [
+            493.22,
+            495.22,
+            "Vidal war der Bayern-Kapitän."
+        ],
+        "85": [
+            498.22,
+            499.22,
+            "Schabi Alonso."
+        ],
+        "86": [
+            499.24,
+            500.24,
+            "Das war ein guter Ball."
+        ],
+        "87": [
+            503.24,
+            504.24,
+            "Das war ein guter Ball."
+        ],
+        "88": [
+            518.24,
+            521.24,
+            "Von den anderen Plätzen kommen die ersten Ergebnisse."
+        ],
+        "89": [
+            523.24,
+            525.24,
+            "Ein bisschen schaut der Bayern-Fan darauf,"
+        ],
+        "90": [
+            526.24,
+            528.24,
+            "was Dortmund in Hannover macht."
+        ],
+        "91": [
+            529.24,
+            530.24,
+            "Das war ein guter Ball."
+        ],
+        "92": [
+            532.24,
+            533.24,
+            "Das war ein guter Ball."
+        ],
+        "93": [
+            535.24,
+            536.24,
+            "Die Spitze verloren."
+        ],
+        "94": [
+            540.24,
+            541.24,
+            "Ein hoher Sieg."
+        ],
+        "95": [
+            543.24,
+            545.24,
+            "Dann würde Platz eins wohl winken."
+        ],
+        "96": [
+            546.24,
+            547.24,
+            "Am heutigen Nachmittag."
+        ],
+        "97": [
+            549.24,
+            551.24,
+            "Von der Bayern-Fanschaft in Niemandsland."
+        ],
+        "98": [
+            559.24,
+            560.24,
+            "Das war ein guter Ball."
+        ],
+        "99": [
+            563.24,
+            564.24,
+            "Das war ein guter Ball."
+        ],
+        "100": [
+            579.24,
+            580.24,
+            "Vidal."
+        ],
+        "101": [
+            589.24,
+            590.24,
+            "Das war ein guter Ball."
+        ],
+        "102": [
+            593.24,
+            594.24,
+            "Das war ein guter Ball."
+        ],
+        "103": [
+            596.24,
+            599.24,
+            "Ein bisschen mehr in die Mannschaft reinzuspielen."
+        ],
+        "104": [
+            601.24,
+            604.24,
+            "Vor allem wird es Platz geben auf der rechten Außenbahn."
+        ],
+        "105": [
+            605.24,
+            607.24,
+            "Müller ist kein typischer Flügelspieler."
+        ],
+        "106": [
+            608.24,
+            610.24,
+            "Auf die Guardiola steht er eigentlich so."
+        ],
+        "107": [
+            613.24,
+            615.24,
+            "Müller wird in die Mitte ziehen."
+        ],
+        "108": [
+            615.26,
+            616.26,
+            "Das war ein guter Ball."
+        ],
+        "109": [
+            619.26,
+            620.26,
+            "Das war ein guter Ball."
+        ],
+        "110": [
+            623.26,
+            624.26,
+            "In der Länderspielpause."
+        ],
+        "111": [
+            627.26,
+            630.26,
+            "Das wird sicherlich mal drei oder vier Wochen ausfallen."
+        ],
+        "112": [
+            632.26,
+            635.26,
+            "Und unten fehlen auch Bad Stuber, Kirchhoff und Benatia."
+        ],
+        "113": [
+            640.26,
+            641.26,
+            "Bombardier behauptet sich."
+        ],
+        "114": [
+            645.26,
+            646.26,
+            "Das war ein guter Ball."
+        ],
+        "115": [
+            649.26,
+            650.26,
+            "Das war ein guter Ball."
+        ],
+        "116": [
+            652.26,
+            654.26,
+            "Nicht abgefiffen von Kirchhoff."
+        ],
+        "117": [
+            656.26,
+            658.26,
+            "Kleiner Schubser gegen Raphinha."
+        ],
+        "118": [
+            660.26,
+            662.26,
+            "Nicht wirklich etwas zu sehen."
+        ],
+        "119": [
+            664.26,
+            667.26,
+            "Das war eine durchaus brauchbare Torchance."
+        ],
+        "120": [
+            669.26,
+            672.26,
+            "Raphinha geht da ohne ersichtlichen Grund zu Boden."
+        ],
+        "121": [
+            672.28,
+            674.28,
+            "Er hat das Spiel mit dem Kopf gespielt."
+        ],
+        "122": [
+            676.28,
+            680.28,
+            "Er hat die meisten seiner letzten Tore mit dem Kopf erzielt."
+        ],
+        "123": [
+            702.28,
+            703.28,
+            "Das war ein guter Ball."
+        ],
+        "124": [
+            706.28,
+            707.28,
+            "Das war ein guter Ball."
+        ],
+        "125": [
+            713.28,
+            715.28,
+            "Ein technischer Fehler bei der Annahme."
+        ],
+        "126": [
+            717.28,
+            719.28,
+            "Er bekommt den Ball direkt zurück von Koah."
+        ],
+        "127": [
+            732.28,
+            733.28,
+            "Das war ein guter Ball."
+        ],
+        "128": [
+            736.28,
+            737.28,
+            "Das war ein guter Ball."
+        ],
+        "129": [
+            744.28,
+            747.28,
+            "Er rückt manchmal extrem weit mit nach vorne."
+        ],
+        "130": [
+            762.28,
+            763.28,
+            "Das war ein guter Ball."
+        ],
+        "131": [
+            766.28,
+            767.28,
+            "Das war ein guter Ball."
+        ],
+        "132": [
+            774.28,
+            776.28,
+            "Thomas Müller kam aus dem Abseits."
+        ],
+        "133": [
+            776.3,
+            777.3,
+            "Das war ein guter Ball."
+        ],
+        "134": [
+            780.3,
+            781.3,
+            "Das war ein guter Ball."
+        ],
+        "135": [
+            788.3,
+            790.3,
+            "Aus der Situation nicht zu sehen."
+        ],
+        "136": [
+            793.3,
+            795.3,
+            "Thomas Müller kam aus dem Abseits."
+        ],
+        "137": [
+            798.3,
+            802.3,
+            "Einer von vier Bayern-Stammspielern nur noch in der Nationalmannschaft."
+        ],
+        "138": [
+            803.3,
+            805.3,
+            "Nachdem Bastian Schweinsteiger auf die Insel gegangen ist."
+        ],
+        "139": [
+            806.3,
+            807.3,
+            "Er hat den Ball nicht gewollt."
+        ],
+        "140": [
+            810.3,
+            811.3,
+            "Das war ein guter Ball."
+        ],
+        "141": [
+            813.3,
+            814.3,
+            "Das war nicht unwichtig."
+        ],
+        "142": [
+            816.3,
+            818.3,
+            "Werner und Alexander Esswein."
+        ],
+        "143": [
+            822.3,
+            824.3,
+            "Alexander Esswein war verdammt schnell."
+        ],
+        "144": [
+            827.3,
+            829.3,
+            "In der Mannschaft war Kai Jubi."
+        ],
+        "145": [
+            831.3,
+            834.3,
+            "Er hatte Oberschenkelprobleme unter der Woche."
+        ],
+        "146": [
+            834.32,
+            836.32,
+            "Er hat sich nicht so gut gefühlt."
+        ],
+        "147": [
+            838.32,
+            839.32,
+            "Max, der Neuzugang."
+        ],
+        "148": [
+            841.32,
+            842.32,
+            "Max Truchowski."
+        ],
+        "149": [
+            844.32,
+            846.32,
+            "Er ist in den Kader gerutscht."
+        ],
+        "150": [
+            847.32,
+            848.32,
+            "Er ist dabei."
+        ],
+        "151": [
+            850.32,
+            853.32,
+            "Auch Mölders mit Rückenbeschwerden ist nicht dabei."
+        ],
+        "152": [
+            853.32,
+            855.32,
+            "Der verletzte Ball ist durchaus lang."
+        ],
+        "153": [
+            856.32,
+            857.32,
+            "Gute Idee."
+        ],
+        "154": [
+            857.34,
+            858.34,
+            "Das war ein guter Ball."
+        ],
+        "155": [
+            861.34,
+            862.34,
+            "Das war ein guter Ball."
+        ],
+        "156": [
+            864.34,
+            866.34,
+            "Er wurde reingespitzelt."
+        ],
+        "157": [
+            868.34,
+            870.34,
+            "Er hat die Augen oben gespuckt."
+        ],
+        "158": [
+            871.34,
+            873.34,
+            "Er wollte mit dem Außenriss rumziehen."
+        ],
+        "159": [
+            874.34,
+            876.34,
+            "Aber Lewandowski kann da nicht rankommen."
+        ],
+        "160": [
+            887.34,
+            889.34,
+            "Er hat den Ball nicht gut gespielt."
+        ],
+        "161": [
+            891.34,
+            893.34,
+            "Er hat den Ball nicht gut gespielt."
+        ],
+        "162": [
+            894.34,
+            896.34,
+            "Es hat ein paar Minuten gedauert."
+        ],
+        "163": [
+            898.34,
+            900.34,
+            "Aber es läuft, wie man es erwarten konnte."
+        ],
+        "164": [
+            902.34,
+            906.34,
+            "Die Bayern haben das Pressing vom Beginn zurückgeschraubt."
+        ],
+        "165": [
+            908.34,
+            910.34,
+            "Da muss man ohne ihn mit haushalten."
+        ],
+        "166": [
+            911.34,
+            912.34,
+            "Vor allem gegen die Bayern."
+        ],
+        "167": [
+            917.34,
+            918.34,
+            "Das war ein guter Ball."
+        ],
+        "168": [
+            918.36,
+            919.36,
+            "Das war ein guter Ball."
+        ],
+        "169": [
+            919.38,
+            920.38,
+            "Das war ein guter Ball."
+        ],
+        "170": [
+            920.4,
+            921.4,
+            "Das war ein guter Ball."
+        ],
+        "171": [
+            921.42,
+            922.42,
+            "Das war ein guter Ball."
+        ],
+        "172": [
+            922.44,
+            923.44,
+            "Das war ein guter Ball."
+        ],
+        "173": [
+            924.44,
+            925.44,
+            "Das war ein guter Ball."
+        ],
+        "174": [
+            925.46,
+            926.46,
+            "Das war ein guter Ball."
+        ],
+        "175": [
+            927.46,
+            928.46,
+            "Das war ein guter Ball."
+        ],
+        "176": [
+            949.46,
+            951.46,
+            "Das war ein riskanter Ball."
+        ],
+        "177": [
+            952.46,
+            953.46,
+            "In die Füße von Werner."
+        ],
+        "178": [
+            955.46,
+            956.46,
+            "Werner."
+        ],
+        "179": [
+            962.46,
+            964.46,
+            "Bayern will den Freistoß."
+        ],
+        "180": [
+            965.44,
+            966.46,
+            "Den gibt es nicht."
+        ],
+        "181": [
+            967.46,
+            968.46,
+            "Zu Recht nicht."
+        ],
+        "182": [
+            969.46,
+            972.46,
+            "Jetzt wäre vielleicht Platz für den schnellen Kosta."
+        ],
+        "183": [
+            972.46,
+            974.46,
+            "Der ist rübergegangen auf die rechte Seite."
+        ],
+        "184": [
+            975.44,
+            977.46,
+            "Zweimal nicht an Verhag vorbeigekommen."
+        ],
+        "185": [
+            978.44,
+            979.46,
+            "Das könnte der Schwachpunkt sein."
+        ],
+        "186": [
+            980.46,
+            981.46,
+            "Das muss er heute aushelfen."
+        ],
+        "187": [
+            982.44,
+            983.46,
+            "Das ist die Problemzone."
+        ],
+        "188": [
+            983.48,
+            984.48,
+            "Das ist der Schwerpunkt."
+        ],
+        "189": [
+            985.46,
+            986.48,
+            "Das ist der Schwachpunkt."
+        ],
+        "190": [
+            988.46,
+            990.46,
+            "Der Abzug von Werner Barber."
+        ],
+        "191": [
+            990.48,
+            992.48,
+            "Der stand heute nicht mehr im Kader."
+        ],
+        "192": [
+            993.46,
+            995.48,
+            "Er spielt in der Premier League."
+        ],
+        "193": [
+            998.48,
+            1001.48,
+            "Alle drei Gegentoren dieser Saison über die Barber-Seite."
+        ],
+        "194": [
+            1002.48,
+            1004.48,
+            "Also über die linke Defensivseite."
+        ],
+        "195": [
+            1005.46,
+            1006.46,
+            "Philipp Lahm."
+        ],
+        "196": [
+            1013.48,
+            1014.48,
+            "Das war ein guter Ball."
+        ],
+        "197": [
+            1015.48,
+            1016.48,
+            "Das war ein guter Ball."
+        ],
+        "198": [
+            1017.48,
+            1018.48,
+            "Das war ein guter Ball."
+        ],
+        "199": [
+            1019.48,
+            1020.48,
+            "Das war ein guter Ball."
+        ],
+        "200": [
+            1022.48,
+            1023.48,
+            "Kosta."
+        ],
+        "201": [
+            1028.48,
+            1030.48,
+            "Exzellente Schusstechnik."
+        ],
+        "202": [
+            1032.48,
+            1034.48,
+            "Der 30-Mio. Mann von Schachtja Donetsk."
+        ],
+        "203": [
+            1035.48,
+            1036.48,
+            "Lewandowski verpasst."
+        ],
+        "204": [
+            1038.48,
+            1041.48,
+            "Dann wird es trotzdem noch gefährlich für Hitz."
+        ],
+        "205": [
+            1041.5,
+            1042.5,
+            "Das war ein guter Ball."
+        ],
+        "206": [
+            1043.5,
+            1044.5,
+            "Das war ein guter Ball."
+        ],
+        "207": [
+            1045.5,
+            1046.5,
+            "Das war ein guter Ball."
+        ],
+        "208": [
+            1047.5,
+            1048.5,
+            "Das war ein guter Ball."
+        ],
+        "209": [
+            1056.5,
+            1060.5,
+            "Er hat auch für die brasilianische Nationalmannschaft gespielt."
+        ],
+        "210": [
+            1061.48,
+            1062.5,
+            "Bisher nicht so hoch im Kurs."
+        ],
+        "211": [
+            1063.5,
+            1066.5,
+            "Zuletzt beim 4-1 durfte er von Beginn an spielen."
+        ],
+        "212": [
+            1071.5,
+            1073.5,
+            "Er hat sich aber auch in der Luft gesetzt."
+        ],
+        "213": [
+            1074.5,
+            1076.5,
+            "Er hat sich aber auch in der Luft gesetzt."
+        ],
+        "214": [
+            1077.5,
+            1079.5,
+            "Er hat sich aber auch in der Luft gesetzt."
+        ],
+        "215": [
+            1080.5,
+            1081.5,
+            "Ein klasse Ball."
+        ],
+        "216": [
+            1083.5,
+            1086.5,
+            "Aber dann doch ein ganz kleiner Tick zu lang für Kosta."
+        ],
+        "217": [
+            1087.5,
+            1090.5,
+            "Er musste allerdings auch in die Sonne schauen."
+        ],
+        "218": [
+            1090.52,
+            1091.52,
+            "Das war ein guter Ball."
+        ],
+        "219": [
+            1094.52,
+            1095.52,
+            "Das war ein guter Ball."
+        ],
+        "220": [
+            1096.52,
+            1097.52,
+            "Das war ein guter Ball."
+        ],
+        "221": [
+            1100.52,
+            1104.52,
+            "Mal sehen, wie voll er sich gegen den schnellen Brasilianer schlägt."
+        ],
+        "222": [
+            1105.52,
+            1109.52,
+            "Mal sehen, wie voll er sich gegen den schnellen Brasilianer schlägt."
+        ],
+        "223": [
+            1120.52,
+            1121.52,
+            "Das war ein guter Ball."
+        ],
+        "224": [
+            1122.52,
+            1123.52,
+            "Das war ein guter Ball."
+        ],
+        "225": [
+            1124.52,
+            1125.52,
+            "Das war ein guter Ball."
+        ],
+        "226": [
+            1139.52,
+            1140.52,
+            "Müller."
+        ],
+        "227": [
+            1142.52,
+            1143.52,
+            "Links kommt Alaba."
+        ],
+        "228": [
+            1144.52,
+            1145.52,
+            "Gut gesehen von Müller."
+        ],
+        "229": [
+            1146.52,
+            1147.52,
+            "Klasse, Marvinitz."
+        ],
+        "230": [
+            1150.52,
+            1151.52,
+            "Das war ein guter Ball."
+        ],
+        "231": [
+            1152.52,
+            1153.52,
+            "Das war ein guter Ball."
+        ],
+        "232": [
+            1154.52,
+            1155.52,
+            "Das war ein guter Ball."
+        ],
+        "233": [
+            1156.52,
+            1157.52,
+            "Die gehört den Bayern."
+        ],
+        "234": [
+            1158.52,
+            1159.52,
+            "Thiago per Kopf."
+        ],
+        "235": [
+            1170.52,
+            1172.52,
+            "Ein klasse Spielzug war es."
+        ],
+        "236": [
+            1173.52,
+            1174.52,
+            "Über Müller, Alaba."
+        ],
+        "237": [
+            1175.52,
+            1176.52,
+            "Er rückt auf."
+        ],
+        "238": [
+            1176.54,
+            1177.54,
+            "Das war ein guter Ball."
+        ],
+        "239": [
+            1178.54,
+            1179.54,
+            "Das war ein guter Ball."
+        ],
+        "240": [
+            1180.54,
+            1181.54,
+            "Das war ein guter Ball."
+        ],
+        "241": [
+            1182.54,
+            1186.54,
+            "Wenn er so schnell ist, kann er auch mal einen Kopfball unterbringen."
+        ],
+        "242": [
+            1187.54,
+            1189.54,
+            "Er hat das nicht schlecht gemacht."
+        ],
+        "243": [
+            1190.54,
+            1191.54,
+            "Dann Marvinitz."
+        ],
+        "244": [
+            1192.54,
+            1193.54,
+            "Das war ein ganz starker Ball."
+        ],
+        "245": [
+            1194.54,
+            1195.54,
+            "Das sah nicht gut aus."
+        ],
+        "246": [
+            1196.54,
+            1197.54,
+            "Das sah nicht gut aus."
+        ],
+        "247": [
+            1198.54,
+            1200.54,
+            "Der Vertrag verlängert bis 2019."
+        ],
+        "248": [
+            1201.54,
+            1203.54,
+            "Der Vertrag verlängert bis 2019."
+        ],
+        "249": [
+            1203.56,
+            1204.56,
+            "Das war ein guter Ball."
+        ],
+        "250": [
+            1205.56,
+            1206.56,
+            "Das war ein guter Ball."
+        ],
+        "251": [
+            1207.56,
+            1208.56,
+            "Das war ein guter Ball."
+        ],
+        "252": [
+            1209.56,
+            1210.56,
+            "Das war ein guter Ball."
+        ],
+        "253": [
+            1211.56,
+            1212.56,
+            "Das war ein guter Ball."
+        ],
+        "254": [
+            1213.56,
+            1215.56,
+            "Hier diskutieren Werner und Vollner."
+        ],
+        "255": [
+            1216.56,
+            1218.56,
+            "Pep Guardiola mit dem 4. Offiziellen."
+        ],
+        "256": [
+            1219.56,
+            1220.56,
+            "Parallel unten im Gespräch."
+        ],
+        "257": [
+            1221.56,
+            1222.56,
+            "Das kennen wir auch schon."
+        ],
+        "258": [
+            1223.56,
+            1224.56,
+            "Vollner."
+        ],
+        "259": [
+            1224.58,
+            1225.58,
+            "Das war ein guter Ball."
+        ],
+        "260": [
+            1226.58,
+            1227.58,
+            "Das war ein guter Ball."
+        ],
+        "261": [
+            1228.58,
+            1229.58,
+            "Das war ein guter Ball."
+        ],
+        "262": [
+            1230.58,
+            1231.58,
+            "Das war ein guter Ball."
+        ],
+        "263": [
+            1232.58,
+            1233.58,
+            "Das war ein guter Ball."
+        ],
+        "264": [
+            1234.58,
+            1236.58,
+            "Standards schwach in dieser Saison."
+        ],
+        "265": [
+            1237.58,
+            1239.58,
+            "Der Trainer ist der, der helfen soll."
+        ],
+        "266": [
+            1240.58,
+            1242.58,
+            "Der Trainer ist der, der helfen soll."
+        ],
+        "267": [
+            1243.58,
+            1245.58,
+            "Seit über einem Jahr kein Pflichtspiel mehr."
+        ],
+        "268": [
+            1246.58,
+            1247.58,
+            "Zuletzt für Sevilla."
+        ],
+        "269": [
+            1248.58,
+            1250.58,
+            "Er hat heute erstmals wieder im Kader."
+        ],
+        "270": [
+            1251.58,
+            1252.58,
+            "Er hat in der Vorbereitung"
+        ],
+        "271": [
+            1252.6,
+            1253.6,
+            "für die VfB Eintracht gespielt."
+        ],
+        "272": [
+            1254.6,
+            1255.6,
+            "für die VfB Eintracht gespielt."
+        ],
+        "273": [
+            1256.58,
+            1257.58,
+            "Jetzt geht es um die VfB Eintracht."
+        ],
+        "274": [
+            1258.6,
+            1259.6,
+            "Jetzt geht es um die VfB Eintracht."
+        ],
+        "275": [
+            1267.6,
+            1268.6,
+            "Zur Achtung Kosta."
+        ],
+        "276": [
+            1270.6,
+            1272.6,
+            "Keiner geht bisher so viel ins Dribbling wie er."
+        ],
+        "277": [
+            1273.6,
+            1274.6,
+            "In dieser Saison."
+        ],
+        "278": [
+            1275.6,
+            1276.6,
+            "Kosta im Robben-Style."
+        ],
+        "279": [
+            1282.6,
+            1283.6,
+            "Das war ein guter Ball."
+        ],
+        "280": [
+            1285.6,
+            1286.6,
+            "Das war ein guter Ball."
+        ],
+        "281": [
+            1294.6,
+            1295.6,
+            "Das war ein guter Ball."
+        ],
+        "282": [
+            1302.6,
+            1303.6,
+            "Lewandowski gesucht."
+        ],
+        "283": [
+            1306.6,
+            1310.6,
+            "Die beiden erfolgreichsten Torschützen in der Qualifikation."
+        ],
+        "284": [
+            1310.62,
+            1312.62,
+            "Er hat auch drei Mal erfolgreich gespielt."
+        ],
+        "285": [
+            1314.62,
+            1315.62,
+            "Er hat zehn Tore gespielt."
+        ],
+        "286": [
+            1319.62,
+            1322.62,
+            "Im Verein Müller im Moment die Nase vor den Polen."
+        ],
+        "287": [
+            1329.62,
+            1333.62,
+            "Der letzte, der in den ersten drei Spielen so oft erfolgreich war,"
+        ],
+        "288": [
+            1333.62,
+            1334.62,
+            "war Halil Altintop."
+        ],
+        "289": [
+            1335.62,
+            1338.62,
+            "Der schoss sogar sechs Tore in den ersten drei Spielen."
+        ],
+        "290": [
+            1338.64,
+            1341.64,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "291": [
+            1342.64,
+            1345.64,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "292": [
+            1346.64,
+            1347.64,
+            "Er sitzt heute nur auf der Bank."
+        ],
+        "293": [
+            1347.66,
+            1350.66,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "294": [
+            1353.66,
+            1356.66,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "295": [
+            1356.68,
+            1359.68,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "296": [
+            1360.68,
+            1363.68,
+            "Er hat das Spiel in den letzten drei Spielen gut gemacht."
+        ],
+        "297": [
+            1371.68,
+            1372.68,
+            "Kosta gegen Vollner."
+        ],
+        "298": [
+            1374.68,
+            1376.68,
+            "Die Seite gewechselt mit Werner."
+        ],
+        "299": [
+            1378.68,
+            1380.68,
+            "Defensiv ein bisschen stärker."
+        ],
+        "300": [
+            1381.68,
+            1383.68,
+            "Deswegen vielleicht Weinzilder reagiert."
+        ],
+        "301": [
+            1386.68,
+            1387.68,
+            "Der Ball ist nicht so gut."
+        ],
+        "302": [
+            1390.68,
+            1391.68,
+            "Der Ball ist nicht so gut."
+        ],
+        "303": [
+            1398.68,
+            1399.68,
+            "Kosta gegen Vollner."
+        ],
+        "304": [
+            1401.68,
+            1402.68,
+            "Tiago Alonso."
+        ],
+        "305": [
+            1416.68,
+            1417.68,
+            "Der Ball ist nicht so gut."
+        ],
+        "306": [
+            1420.68,
+            1421.68,
+            "Der Ball ist nicht so gut."
+        ],
+        "307": [
+            1423.68,
+            1424.68,
+            "Der Ball ist aber okay."
+        ],
+        "308": [
+            1427.68,
+            1428.68,
+            "Der Ball war weg."
+        ],
+        "309": [
+            1430.68,
+            1432.68,
+            "Douglas Kosta über die Klinge springen."
+        ],
+        "310": [
+            1434.68,
+            1435.68,
+            "Alonso mit den Hufen."
+        ],
+        "311": [
+            1438.68,
+            1439.68,
+            "Der Spanier."
+        ],
+        "312": [
+            1442.68,
+            1444.68,
+            "Er hat viermal getroffen in der Bundesliga."
+        ],
+        "313": [
+            1444.7,
+            1446.7,
+            "Er hat viermal getroffen in der Bundesliga."
+        ],
+        "314": [
+            1448.7,
+            1450.7,
+            "Er hat viermal getroffen in der Bundesliga."
+        ],
+        "315": [
+            1463.7,
+            1466.7,
+            "Deswegen ist es nicht so leicht für Marvin Hilse."
+        ],
+        "316": [
+            1467.7,
+            1469.7,
+            "Er muss sich auf beide Schützen einstellen."
+        ],
+        "317": [
+            1469.72,
+            1470.72,
+            "Das war ein guter Versuch."
+        ],
+        "318": [
+            1473.72,
+            1474.72,
+            "Das war ein guter Versuch."
+        ],
+        "319": [
+            1476.72,
+            1479.72,
+            "Alonso wollte ich sagen, Alaba darf es versuchen."
+        ],
+        "320": [
+            1481.72,
+            1484.72,
+            "Nach dem Versuch geht der nächste sicherlich an den Spanier."
+        ],
+        "321": [
+            1499.72,
+            1500.72,
+            "Das war ein guter Versuch."
+        ],
+        "322": [
+            1503.72,
+            1504.72,
+            "Das war ein guter Versuch."
+        ],
+        "323": [
+            1506.72,
+            1507.72,
+            "Alonso mit dem Ballbesitz."
+        ],
+        "324": [
+            1511.72,
+            1513.72,
+            "70 % Ballbesitz für die Bayern."
+        ],
+        "325": [
+            1515.72,
+            1517.72,
+            "Die ganz große Dominanz ist noch nicht da."
+        ],
+        "326": [
+            1520.72,
+            1523.72,
+            "Lewandowski und Tiago hatten die besten Chancen."
+        ],
+        "327": [
+            1524.72,
+            1526.72,
+            "Werner mit einer Möglichkeit für Augsburg."
+        ],
+        "328": [
+            1526.74,
+            1527.74,
+            "Er hat die Chance."
+        ],
+        "329": [
+            1530.74,
+            1533.74,
+            "Er kommt noch nicht durch mit seinen Dribblings."
+        ],
+        "330": [
+            1534.74,
+            1536.74,
+            "Alonso mit dem einen oder anderen Fehlpass."
+        ],
+        "331": [
+            1538.74,
+            1541.74,
+            "Er hat den Augsburgern eine Konterchance ermöglicht."
+        ],
+        "332": [
+            1543.74,
+            1546.74,
+            "Die Gäste haben gemerkt, wenn sie aufrücken,"
+        ],
+        "333": [
+            1547.74,
+            1549.74,
+            "dürfen sie sich keine Fehler erlauben."
+        ],
+        "334": [
+            1551.74,
+            1553.74,
+            "Sonst machen die Bayern ernst."
+        ],
+        "335": [
+            1553.76,
+            1554.76,
+            "Das war ein guter Versuch."
+        ],
+        "336": [
+            1557.76,
+            1558.76,
+            "Das war ein guter Versuch."
+        ],
+        "337": [
+            1565.76,
+            1567.76,
+            "Vier Torschüsse nach 25 Minuten."
+        ],
+        "338": [
+            1569.76,
+            1572.76,
+            "Das ist sicherlich auch ausbaufähig für die Münchner."
+        ],
+        "339": [
+            1572.76,
+            1573.76,
+            "Das war ein guter Versuch."
+        ],
+        "340": [
+            1583.76,
+            1584.76,
+            "Das war ein guter Versuch."
+        ],
+        "341": [
+            1587.76,
+            1588.76,
+            "Das war ein guter Versuch."
+        ],
+        "342": [
+            1602.76,
+            1604.76,
+            "Guter Ball von Karl-Heinz Müller."
+        ],
+        "343": [
+            1605.76,
+            1606.76,
+            "Aber Karl-Heinz Bracke ist da."
+        ],
+        "344": [
+            1606.78,
+            1608.78,
+            "Er hat den Ball nicht in die Hand genommen."
+        ],
+        "345": [
+            1610.78,
+            1613.78,
+            "Er will den Ball nicht in die Hand genommen haben."
+        ],
+        "346": [
+            1614.78,
+            1616.78,
+            "Die Münchner sind mit sechs Mann hinten."
+        ],
+        "347": [
+            1618.78,
+            1619.78,
+            "Es war ein neuer Versuch."
+        ],
+        "348": [
+            1622.78,
+            1626.78,
+            "Nicht so oft, aber hin und wieder ist das nach vorne gefährlich."
+        ],
+        "349": [
+            1627.78,
+            1628.78,
+            "Das zeigen die Gäste."
+        ],
+        "350": [
+            1630.78,
+            1633.78,
+            "Ein Tor bis sie in den ersten drei Spielen sind."
+        ],
+        "351": [
+            1633.8,
+            1634.8,
+            "Das war ein guter Versuch."
+        ],
+        "352": [
+            1637.8,
+            1638.8,
+            "Das war ein guter Versuch."
+        ],
+        "353": [
+            1652.8,
+            1654.8,
+            "Jetzt war es freigespielt."
+        ],
+        "354": [
+            1655.8,
+            1656.8,
+            "Klasse von Thiago."
+        ],
+        "355": [
+            1658.8,
+            1660.8,
+            "Klavan von Karl-Heinz Müller."
+        ],
+        "356": [
+            1663.8,
+            1666.8,
+            "Das war ein guter Ball von Karl-Heinz Müller."
+        ],
+        "357": [
+            1668.8,
+            1670.8,
+            "Der Ball war bei Kosta geblieben."
+        ],
+        "358": [
+            1670.8,
+            1673.8,
+            "Deswegen war viel Platz für Karl-Heinz Müller."
+        ],
+        "359": [
+            1693.78,
+            1696.8,
+            "Das war ein guter Ball von Karl-Heinz Müller."
+        ],
+        "360": [
+            1723.8,
+            1726.8,
+            "Das war ein guter Ball von Karl-Heinz Müller."
+        ],
+        "361": [
+            1727.8,
+            1730.8,
+            "Das war ein guter Ball von Karl-Heinz Müller."
+        ],
+        "362": [
+            1731.8,
+            1733.8,
+            "Die Gäste stehen richtig clever."
+        ],
+        "363": [
+            1734.8,
+            1735.8,
+            "Sven."
+        ],
+        "364": [
+            1737.8,
+            1739.8,
+            "Er wäre voll nach vorne gegangen."
+        ],
+        "365": [
+            1740.8,
+            1742.8,
+            "Aber er spielt den Sicherheitsball."
+        ],
+        "366": [
+            1743.8,
+            1745.8,
+            "Der Ball war nicht in der Partie."
+        ],
+        "367": [
+            1747.8,
+            1749.8,
+            "5 Millionen Euro teuerster Neuzugang."
+        ],
+        "368": [
+            1749.82,
+            1751.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "369": [
+            1755.82,
+            1757.82,
+            "Wenn die Gäste wieder Platz haben."
+        ],
+        "370": [
+            1758.82,
+            1761.82,
+            "Dann war das ein guter Ball von Sven Klavan."
+        ],
+        "371": [
+            1779.82,
+            1781.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "372": [
+            1783.82,
+            1785.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "373": [
+            1793.82,
+            1796.82,
+            "Auch von links, Fabio Alonso mit Zug zum Tor."
+        ],
+        "374": [
+            1798.82,
+            1801.82,
+            "Das hat in der 7. Minute besser geklappt."
+        ],
+        "375": [
+            1809.82,
+            1812.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "376": [
+            1813.82,
+            1815.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "377": [
+            1816.82,
+            1818.82,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "378": [
+            1820.82,
+            1824.82,
+            "Das war nicht so stark wie in den ersten beiden Heimspielen."
+        ],
+        "379": [
+            1825.82,
+            1827.82,
+            "Das war schon extra stark."
+        ],
+        "380": [
+            1828.82,
+            1831.82,
+            "Wir haben eine halbe Stunde auf der Uhr."
+        ],
+        "381": [
+            1832.82,
+            1834.82,
+            "Es ist noch ein bisschen Zeit."
+        ],
+        "382": [
+            1835.82,
+            1837.82,
+            "5-2 Torschüsse."
+        ],
+        "383": [
+            1837.84,
+            1839.84,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "384": [
+            1841.84,
+            1843.84,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "385": [
+            1844.84,
+            1847.84,
+            "Aber Augsburg lässt bisher nicht so viel zu."
+        ],
+        "386": [
+            1853.84,
+            1855.84,
+            "Sie stehen nicht mehr so ganz hoch."
+        ],
+        "387": [
+            1856.84,
+            1859.84,
+            "Sie pressen nicht mehr so wie in den ersten zehn Minuten."
+        ],
+        "388": [
+            1860.84,
+            1862.84,
+            "Aber sie machen die Räume geschickt eng."
+        ],
+        "389": [
+            1863.84,
+            1866.84,
+            "Sie haben vor allem Coster aus dem Spiel genommen."
+        ],
+        "390": [
+            1867.84,
+            1869.84,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "391": [
+            1871.84,
+            1873.84,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "392": [
+            1874.84,
+            1876.84,
+            "Der ist heute auf der Bank."
+        ],
+        "393": [
+            1884.84,
+            1886.84,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "394": [
+            1887.84,
+            1890.84,
+            "Der bekommt jetzt mehr und mehr Platz auf der Seite."
+        ],
+        "395": [
+            1890.86,
+            1892.86,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "396": [
+            1897.86,
+            1899.86,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "397": [
+            1901.86,
+            1903.86,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "398": [
+            1903.88,
+            1905.88,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "399": [
+            1907.88,
+            1909.88,
+            "Das war ein guter Ball von Sven Klavan."
+        ],
+        "400": [
+            1922.88,
+            1924.88,
+            "Boa Diaz steht wieder."
+        ],
+        "401": [
+            1925.88,
+            1927.88,
+            "Das war eine Ermahnung für Boateng."
+        ],
+        "402": [
+            1927.9,
+            1929.9,
+            "Das war ein guter Ball von Boateng."
+        ],
+        "403": [
+            1931.9,
+            1933.9,
+            "Das war ein guter Ball von Boateng."
+        ],
+        "404": [
+            1935.9,
+            1937.9,
+            "Der Ball von Lahm kommt in den Rücken."
+        ],
+        "405": [
+            1939.9,
+            1941.9,
+            "Aber David Alaba taucht überall auf."
+        ],
+        "406": [
+            1943.9,
+            1946.9,
+            "Er wird in Österreich sensationell deutlich"
+        ],
+        "407": [
+            1946.9,
+            1948.9,
+            "für die Europameisterschaft qualifiziert."
+        ],
+        "408": [
+            1957.9,
+            1959.9,
+            "Das war ein guter Ball von David Alaba."
+        ],
+        "409": [
+            1961.9,
+            1963.9,
+            "Das war ein guter Ball von David Alaba."
+        ],
+        "410": [
+            1963.92,
+            1965.92,
+            "Das war ein guter Ball von David Alaba."
+        ],
+        "411": [
+            1967.92,
+            1969.92,
+            "Das war ein guter Ball von David Alaba."
+        ],
+        "412": [
+            1979.92,
+            1981.92,
+            "Augsburg fasst in dem 4-4-2."
+        ],
+        "413": [
+            1982.92,
+            1985.92,
+            "Der Ball lässt sich an die Seite von Bayern zurückfallen."
+        ],
+        "414": [
+            1985.92,
+            1988.92,
+            "Der Ball lässt sich an die Seite von Bayern zurückfallen."
+        ],
+        "415": [
+            1988.94,
+            1990.94,
+            "Das war ein guter Ball von David Alaba."
+        ],
+        "416": [
+            1992.94,
+            1995.94,
+            "Da war ein Lücken, um das Spiel richtig schnell zu machen."
+        ],
+        "417": [
+            1995.94,
+            1998.94,
+            "Da war ein Lücken, um das Spiel richtig schnell zu machen."
+        ],
+        "418": [
+            1998.94,
+            2000.94,
+            "Augsburg lässt sich nicht locken."
+        ],
+        "419": [
+            2000.94,
+            2002.94,
+            "Augsburg lässt sich nicht locken."
+        ],
+        "420": [
+            2004.94,
+            2006.94,
+            "Er läuft noch nicht so bei Douglas Costa."
+        ],
+        "421": [
+            2006.94,
+            2008.94,
+            "Er läuft noch nicht so bei Douglas Costa."
+        ],
+        "422": [
+            2014.94,
+            2016.94,
+            "Voll von Kuh."
+        ],
+        "423": [
+            2018.94,
+            2020.94,
+            "Voll von Kuh."
+        ],
+        "424": [
+            2024.94,
+            2026.94,
+            "Bernat und Martinez, die beiden Spanier."
+        ],
+        "425": [
+            2028.94,
+            2030.94,
+            "Bernat und Martinez, die beiden Spanier."
+        ],
+        "426": [
+            2032.94,
+            2035.94,
+            "Bernat kam ein bisschen angeschlagen von der spanischen"
+        ],
+        "427": [
+            2035.94,
+            2037.94,
+            "Bernat kam ein bisschen angeschlagen von der spanischen"
+        ],
+        "428": [
+            2037.94,
+            2039.94,
+            "Nationalmannschaft."
+        ],
+        "429": [
+            2039.96,
+            2041.96,
+            "Er war nicht so gut."
+        ],
+        "430": [
+            2043.96,
+            2045.96,
+            "Er war nicht so gut."
+        ],
+        "431": [
+            2047.96,
+            2049.96,
+            "Fast 50 % der Angriffe"
+        ],
+        "432": [
+            2051.96,
+            2053.96,
+            "gehen über die rechte Seite bei Bayern."
+        ],
+        "433": [
+            2054.96,
+            2056.96,
+            "Geklärt."
+        ],
+        "434": [
+            2057.96,
+            2059.96,
+            "Geklärt."
+        ],
+        "435": [
+            2060.96,
+            2062.96,
+            "Gut von Ralf Wiener."
+        ],
+        "436": [
+            2069.96,
+            2071.96,
+            "Er war nicht so gut."
+        ],
+        "437": [
+            2073.96,
+            2075.96,
+            "Er war nicht so gut."
+        ],
+        "438": [
+            2081.96,
+            2083.96,
+            "Er wirkt ein bisschen verloren im Posten."
+        ],
+        "439": [
+            2085.96,
+            2087.96,
+            "Wenn die Bälle von außen kommen,"
+        ],
+        "440": [
+            2088.96,
+            2090.96,
+            "dann war er nicht in der Position,"
+        ],
+        "441": [
+            2091.96,
+            2093.96,
+            "in der er sein sollte, um den Fuß reinzuhalten."
+        ],
+        "442": [
+            2095.96,
+            2098.96,
+            "Bisher acht Ballaktionen vom polnischen Nationalspieler."
+        ],
+        "443": [
+            2099.96,
+            2102.96,
+            "Bisher acht Ballaktionen vom polnischen Nationalspieler."
+        ],
+        "444": [
+            2103.96,
+            2105.96,
+            "Er war nicht so gut."
+        ],
+        "445": [
+            2106.96,
+            2108.96,
+            "Er war nicht so gut."
+        ],
+        "446": [
+            2110.96,
+            2112.96,
+            "Er musste kurzfristig rein."
+        ],
+        "447": [
+            2113.96,
+            2115.96,
+            "Wieder über rechts."
+        ],
+        "448": [
+            2116.96,
+            2118.96,
+            "Er war fast alleine über die rechte Seite."
+        ],
+        "449": [
+            2119.96,
+            2121.96,
+            "Er war fast alleine über die rechte Seite."
+        ],
+        "450": [
+            2123.96,
+            2125.96,
+            "Alonso."
+        ],
+        "451": [
+            2126.96,
+            2128.96,
+            "Alonso sticht ihn in die Mitte rein."
+        ],
+        "452": [
+            2129.96,
+            2131.96,
+            "Alonso sticht ihn in die Mitte rein."
+        ],
+        "453": [
+            2132.96,
+            2134.96,
+            "Er war nicht so gut."
+        ],
+        "454": [
+            2135.96,
+            2138.96,
+            "Einmal, zweimal ein typischer Müller wäre es gewesen."
+        ],
+        "455": [
+            2148.96,
+            2150.96,
+            "Wieder Alarm."
+        ],
+        "456": [
+            2151.96,
+            2153.96,
+            "Thiago."
+        ],
+        "457": [
+            2154.96,
+            2156.96,
+            "Zehn Minuten vor der Pause."
+        ],
+        "458": [
+            2156.98,
+            2158.98,
+            "Er war nicht so gut."
+        ],
+        "459": [
+            2159.98,
+            2161.98,
+            "Er war nicht so gut."
+        ],
+        "460": [
+            2162.98,
+            2164.98,
+            "Wieder ein bisschen."
+        ],
+        "461": [
+            2165.98,
+            2167.98,
+            "Wieder ein bisschen."
+        ],
+        "462": [
+            2168.98,
+            2170.98,
+            "Lewandowski."
+        ],
+        "463": [
+            2171.98,
+            2173.98,
+            "Der Fuß von Bayer."
+        ],
+        "464": [
+            2174.0,
+            2176.0,
+            "Er war nicht so gut."
+        ],
+        "465": [
+            2178.0,
+            2180.0,
+            "Er war nicht so gut."
+        ],
+        "466": [
+            2181.0,
+            2183.0,
+            "Er war nicht so gut."
+        ],
+        "467": [
+            2185.0,
+            2188.0,
+            "Er stört zusammen mit Bayer Robert Lewandowski."
+        ],
+        "468": [
+            2190.0,
+            2193.0,
+            "Er stört zusammen mit Bayer Robert Lewandowski."
+        ],
+        "469": [
+            2194.0,
+            2196.0,
+            "Vollstoß weiß."
+        ],
+        "470": [
+            2204.0,
+            2206.0,
+            "Er war nicht so gut."
+        ],
+        "471": [
+            2208.0,
+            2210.0,
+            "Er war nicht so gut."
+        ],
+        "472": [
+            2211.0,
+            2213.0,
+            "Er war nicht so gut."
+        ],
+        "473": [
+            2215.0,
+            2218.0,
+            "Er versucht, Thomas Müller in typischer Art und Weise"
+        ],
+        "474": [
+            2218.98,
+            2220.98,
+            "Richtung Tor zu bringen."
+        ],
+        "475": [
+            2221.0,
+            2223.0,
+            "Er feiert morgen seinen 26. Geburtstag."
+        ],
+        "476": [
+            2224.0,
+            2226.0,
+            "Er feiert morgen seinen 26. Geburtstag."
+        ],
+        "477": [
+            2227.0,
+            2229.0,
+            "Wenn man ihn so sieht,"
+        ],
+        "478": [
+            2230.0,
+            2232.0,
+            "dann weiß man, warum Louis van Gaal"
+        ],
+        "479": [
+            2232.02,
+            2234.02,
+            "so gut war."
+        ],
+        "480": [
+            2235.02,
+            2238.02,
+            "Dann weiß man, warum Louis van Gaal so gut war."
+        ],
+        "481": [
+            2239.02,
+            2241.02,
+            "Das ist für die Mentalität,"
+        ],
+        "482": [
+            2242.02,
+            2244.02,
+            "für die Identifikation bei den Bayern."
+        ],
+        "483": [
+            2245.02,
+            2247.02,
+            "Das ist absolut unverkäuflich."
+        ],
+        "484": [
+            2262.02,
+            2264.02,
+            "Er ist ein guter Spieler."
+        ],
+        "485": [
+            2265.02,
+            2267.02,
+            "Er ist ein guter Spieler."
+        ],
+        "486": [
+            2268.02,
+            2270.02,
+            "Er ist ein guter Spieler."
+        ],
+        "487": [
+            2274.02,
+            2276.02,
+            "Thiago Alonso."
+        ],
+        "488": [
+            2280.02,
+            2282.02,
+            "Er kommt mit von Esswein."
+        ],
+        "489": [
+            2283.02,
+            2285.02,
+            "Er kommt mit von Esswein."
+        ],
+        "490": [
+            2286.02,
+            2288.02,
+            "Jetzt ist er auf dem rechten Flügel."
+        ],
+        "491": [
+            2289.02,
+            2291.02,
+            "Jetzt ist er auf dem rechten Flügel."
+        ],
+        "492": [
+            2292.02,
+            2294.02,
+            "Er ist ein guter Spieler."
+        ],
+        "493": [
+            2295.02,
+            2297.02,
+            "Er ist ein guter Spieler."
+        ],
+        "494": [
+            2297.04,
+            2299.04,
+            "Er ist ein guter Spieler."
+        ],
+        "495": [
+            2300.04,
+            2302.04,
+            "Er ist ein guter Spieler."
+        ],
+        "496": [
+            2302.06,
+            2304.06,
+            "Er ist ein guter Spieler."
+        ],
+        "497": [
+            2305.06,
+            2307.06,
+            "Er ist ein guter Spieler."
+        ],
+        "498": [
+            2320.06,
+            2323.06,
+            "Viele Pässe, drei Mal so viele wie bei den Augsburgern."
+        ],
+        "499": [
+            2324.06,
+            2326.06,
+            "Aber auch viel quer bei den Bayern."
+        ],
+        "500": [
+            2327.06,
+            2330.06,
+            "Weil sie vorne nicht die Anspielstation finden."
+        ],
+        "501": [
+            2330.08,
+            2333.08,
+            "Weil sie vorne nicht die Anspielstation finden."
+        ],
+        "502": [
+            2334.08,
+            2336.08,
+            "Es ist ein guter Spieler."
+        ],
+        "503": [
+            2337.08,
+            2339.08,
+            "Thiago Alonso."
+        ],
+        "504": [
+            2342.08,
+            2344.08,
+            "Er stellt da geschickte Körper rein."
+        ],
+        "505": [
+            2345.08,
+            2347.08,
+            "Aber dann ist Raphinha da."
+        ],
+        "506": [
+            2355.08,
+            2358.08,
+            "Alonso versucht, das Spiel schnell zu machen."
+        ],
+        "507": [
+            2358.1,
+            2360.1,
+            "Er versucht, das Spiel schnell zu machen."
+        ],
+        "508": [
+            2362.1,
+            2364.1,
+            "Er versucht, das Spiel schnell zu machen."
+        ],
+        "509": [
+            2370.1,
+            2372.1,
+            "Guck mal, wie schön von Kuh."
+        ],
+        "510": [
+            2377.1,
+            2379.1,
+            "Der Ball wäre nicht schlecht gewesen."
+        ],
+        "511": [
+            2380.1,
+            2382.1,
+            "Aber Neuer war da, wo man ihn erwartet."
+        ],
+        "512": [
+            2383.1,
+            2385.1,
+            "Als zusätzlichen Feldspieler."
+        ],
+        "513": [
+            2388.1,
+            2390.1,
+            "Er hat das Spiel schnell gemacht."
+        ],
+        "514": [
+            2392.1,
+            2394.1,
+            "Er hat das Spiel schnell gemacht."
+        ],
+        "515": [
+            2400.1,
+            2402.1,
+            "Kosta hat sich den Zahn gezogen."
+        ],
+        "516": [
+            2403.1,
+            2405.1,
+            "Er sucht nicht mehr so wie zu Beginn."
+        ],
+        "517": [
+            2406.1,
+            2408.1,
+            "Robert Dea, Boateng, eins gegen eins."
+        ],
+        "518": [
+            2410.1,
+            2412.1,
+            "Robert Dea, Raphinha hilft."
+        ],
+        "519": [
+            2413.1,
+            2415.1,
+            "Er hat eine gute Vorstellung abgeliefert."
+        ],
+        "520": [
+            2418.1,
+            2420.1,
+            "Er hat die Chance, die Chance."
+        ],
+        "521": [
+            2422.1,
+            2424.1,
+            "Er hat die Chance, die Chance."
+        ],
+        "522": [
+            2425.1,
+            2427.1,
+            "Jetzt kommt Kosta mit Tempo."
+        ],
+        "523": [
+            2428.1,
+            2430.1,
+            "Guter Ball, Müller."
+        ],
+        "524": [
+            2431.1,
+            2433.1,
+            "Ein Schritt zu spät."
+        ],
+        "525": [
+            2443.1,
+            2445.1,
+            "Kosta sucht Müller."
+        ],
+        "526": [
+            2445.12,
+            2447.12,
+            "Kosta sucht Müller."
+        ],
+        "527": [
+            2449.12,
+            2451.12,
+            "Das war der Rekord."
+        ],
+        "528": [
+            2452.12,
+            2454.12,
+            "Heute Nacht."
+        ],
+        "529": [
+            2457.12,
+            2459.12,
+            "Sie sollten nicht verpassen."
+        ],
+        "530": [
+            2461.12,
+            2463.12,
+            "Das kann ein historischer Sieg werden."
+        ],
+        "531": [
+            2464.12,
+            2466.12,
+            "Das kann ein historischer Sieg werden."
+        ],
+        "532": [
+            2467.12,
+            2469.12,
+            "Pacquiao wird sicher auch zuschauen."
+        ],
+        "533": [
+            2475.12,
+            2477.12,
+            "Er hat die Chance, die Chance."
+        ],
+        "534": [
+            2479.12,
+            2481.12,
+            "Er hat die Chance, die Chance."
+        ],
+        "535": [
+            2482.12,
+            2484.12,
+            "Er hat die Chance, die Chance."
+        ],
+        "536": [
+            2485.12,
+            2487.12,
+            "Die Bayern sind dran."
+        ],
+        "537": [
+            2488.12,
+            2490.12,
+            "Aber es ist nicht so,"
+        ],
+        "538": [
+            2491.12,
+            2494.12,
+            "dass man sagen würde, es ist nur eine Frage von Minuten,"
+        ],
+        "539": [
+            2494.12,
+            2496.12,
+            "dass das Tor fällt."
+        ],
+        "540": [
+            2497.12,
+            2499.12,
+            "Kosta übertreibt es ein bisschen."
+        ],
+        "541": [
+            2505.12,
+            2507.12,
+            "Er hat die Chance, die Chance."
+        ],
+        "542": [
+            2509.12,
+            2512.12,
+            "Augsburg spielt dieses Spiel bisher in den Karten."
+        ],
+        "543": [
+            2513.12,
+            2516.12,
+            "In den Karten können sie das Geschehen weitestgehend beruhigen."
+        ],
+        "544": [
+            2517.12,
+            2520.12,
+            "Auch wenn nach vorne das Prinzip Zufall regiert."
+        ],
+        "545": [
+            2521.12,
+            2523.12,
+            "Lange Bälle Richtung Robert Dea."
+        ],
+        "546": [
+            2524.12,
+            2526.12,
+            "Robert Dea."
+        ],
+        "547": [
+            2529.12,
+            2531.12,
+            "Klasse gespielt."
+        ],
+        "548": [
+            2532.12,
+            2534.12,
+            "Es war ein ..."
+        ],
+        "549": [
+            2535.12,
+            2537.12,
+            "Sie haben es vorbereitet."
+        ],
+        "550": [
+            2540.12,
+            2542.12,
+            "Claudia 부분 für ein 很有味的操作"
+        ],
+        "551": [
+            2545.12,
+            2547.12,
+            "Holger Sam chia auf AgustÂ Â"
+        ],
+        "552": [
+            2550.12,
+            2552.1,
+            "Forz 1890 die Alter auf 죠"
+        ],
+        "553": [
+            2555.1,
+            2557.1,
+            "die Gardenoir schon geschlagen."
+        ],
+        "554": [
+            2558.1,
+            2560.12,
+            "verdienen die wir."
+        ],
+        "555": [
+            2561.12,
+            2562.12,
+            "Alexander analyzing"
+        ],
+        "556": [
+            2562.12,
+            2566.12,
+            "Er hat hier die nötige Ruhe am Ball."
+        ],
+        "557": [
+            2566.12,
+            2567.12,
+            "Zusammenspiel mit Bobadilla."
+        ],
+        "558": [
+            2567.12,
+            2569.12,
+            "Und dann klasse, wie er den hier gleich weiterleitet."
+        ],
+        "559": [
+            2569.12,
+            2571.12,
+            "Und Esfahin, der überhaupt nicht lange zögert."
+        ],
+        "560": [
+            2573.12,
+            2576.12,
+            "Und die Schusstechnik hat, den dann eben auch so reinzuknallen,"
+        ],
+        "561": [
+            2576.12,
+            2579.12,
+            "wie Dijk zu spät. Neuer schossenlos."
+        ],
+        "562": [
+            2579.12,
+            2582.12,
+            "Erstes Isotor für Alexander Esfahin, der für den letzten Kai Jubi reingekommen ist."
+        ],
+        "563": [
+            2582.12,
+            2585.12,
+            "Und Kuh, der Neue aus Mainz, der hier schon mal so gut funktioniert hat."
+        ],
+        "564": [
+            2585.12,
+            2588.12,
+            "Gleich mit seiner ersten Torverlage war er hier 2013."
+        ],
+        "565": [
+            2588.12,
+            2591.12,
+            "36 Spiele, 36 Tore, und dann ist er hier."
+        ],
+        "566": [
+            2591.12,
+            2594.12,
+            "Und dann ist er hier."
+        ],
+        "567": [
+            2594.12,
+            2597.12,
+            "Und dann ist er hier."
+        ],
+        "568": [
+            2597.12,
+            2600.12,
+            "Und dann ist er hier."
+        ],
+        "569": [
+            2600.12,
+            2603.12,
+            "Und dann ist er hier."
+        ],
+        "570": [
+            2603.12,
+            2606.12,
+            "Und dann ist er hier."
+        ],
+        "571": [
+            2607.12,
+            2610.12,
+            "36 Spiele, 8 Tore, 3 Vorlagen."
+        ],
+        "572": [
+            2610.12,
+            2613.12,
+            "Choe Choe Kuh, den sie in Mainz nicht mehr so richtig gebraucht haben."
+        ],
+        "573": [
+            2620.12,
+            2623.12,
+            "Und so liegen die Bayern hier wieder hinten, wie im Mai."
+        ],
+        "574": [
+            2624.12,
+            2627.12,
+            "Diesmal mit ihrer besten Elf."
+        ],
+        "575": [
+            2627.12,
+            2630.12,
+            "Und ohne Platzverweis."
+        ],
+        "576": [
+            2630.12,
+            2633.12,
+            "Kuh muss sich da noch ein bisschen was anhören, nach seinem Einsteigen eben."
+        ],
+        "577": [
+            2637.12,
+            2640.12,
+            "Und dann ist er hier."
+        ],
+        "578": [
+            2640.12,
+            2643.12,
+            "Und dann ist er hier."
+        ],
+        "579": [
+            2643.12,
+            2646.12,
+            "Und dann ist er hier."
+        ],
+        "580": [
+            2646.12,
+            2649.12,
+            "Und dann ist er hier."
+        ],
+        "581": [
+            2649.12,
+            2652.12,
+            "Und dann ist er hier."
+        ],
+        "582": [
+            2652.12,
+            2655.12,
+            "Und dann ist er hier."
+        ],
+        "583": [
+            2655.12,
+            2658.12,
+            "Letzte Minute im ersten Durchgang."
+        ],
+        "584": [
+            2658.12,
+            2661.12,
+            "Schauen, ob die Bayern hier noch vor der Pause was reparieren können."
+        ],
+        "585": [
+            2661.12,
+            2664.12,
+            "Übrigens das erste Gegentor hier in der eigenen Arena"
+        ],
+        "586": [
+            2664.12,
+            2667.12,
+            "gegen den FC Bayern."
+        ],
+        "587": [
+            2667.12,
+            2670.12,
+            "Die Mannschaft hat es gut gemacht."
+        ],
+        "588": [
+            2670.12,
+            2673.12,
+            "Die Mannschaft hat es gut gemacht."
+        ],
+        "589": [
+            2673.12,
+            2676.12,
+            "Die Mannschaft hat es gut gemacht."
+        ],
+        "590": [
+            2676.12,
+            2679.12,
+            "Das letzte Gegentor hier zu Hause"
+        ],
+        "591": [
+            2679.12,
+            2682.12,
+            "gab es auch gegen Augsburg."
+        ],
+        "592": [
+            2682.12,
+            2685.12,
+            "Das war ein Treffer gegen die Mannschaft am 9. Mai."
+        ],
+        "593": [
+            2694.12,
+            2698.12,
+            "Das war ein Treffer gegen die Mannschaft am 9. Mai."
+        ]
+    }
+}

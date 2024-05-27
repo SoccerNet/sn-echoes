@@ -1,0 +1,3839 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            7.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "1": [
+            7.0,
+            14.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "2": [
+            14.0,
+            21.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "3": [
+            21.0,
+            28.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "4": [
+            28.0,
+            35.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "5": [
+            35.0,
+            42.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "6": [
+            42.0,
+            49.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "7": [
+            49.0,
+            56.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "8": [
+            56.0,
+            63.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "9": [
+            63.0,
+            70.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "10": [
+            70.0,
+            77.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "11": [
+            77.0,
+            84.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "12": [
+            84.0,
+            91.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "13": [
+            91.0,
+            98.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "14": [
+            98.0,
+            105.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "15": [
+            105.0,
+            112.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "16": [
+            112.0,
+            119.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "17": [
+            119.0,
+            126.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "18": [
+            126.0,
+            133.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "19": [
+            133.0,
+            140.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "20": [
+            140.0,
+            147.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "21": [
+            147.0,
+            154.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "22": [
+            154.0,
+            161.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "23": [
+            161.0,
+            168.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "24": [
+            168.0,
+            175.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "25": [
+            175.0,
+            182.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "26": [
+            182.0,
+            189.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "27": [
+            189.0,
+            196.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "28": [
+            196.0,
+            203.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "29": [
+            203.0,
+            210.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "30": [
+            210.0,
+            217.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "31": [
+            217.0,
+            224.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "32": [
+            224.0,
+            231.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "33": [
+            231.0,
+            238.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "34": [
+            238.0,
+            245.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "35": [
+            245.0,
+            252.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "36": [
+            252.0,
+            259.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "37": [
+            259.0,
+            266.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "38": [
+            266.0,
+            273.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "39": [
+            273.0,
+            280.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "40": [
+            280.0,
+            287.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "41": [
+            287.0,
+            294.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "42": [
+            294.0,
+            301.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "43": [
+            301.0,
+            308.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "44": [
+            308.0,
+            315.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "45": [
+            315.0,
+            322.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "46": [
+            322.0,
+            329.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "47": [
+            329.0,
+            336.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "48": [
+            336.0,
+            343.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "49": [
+            343.0,
+            350.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "50": [
+            350.0,
+            357.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "51": [
+            357.0,
+            364.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "52": [
+            364.0,
+            371.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "53": [
+            371.0,
+            378.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "54": [
+            378.0,
+            385.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "55": [
+            385.0,
+            392.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "56": [
+            392.0,
+            399.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "57": [
+            399.0,
+            406.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "58": [
+            406.0,
+            413.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "59": [
+            413.0,
+            420.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "60": [
+            420.0,
+            427.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "61": [
+            427.0,
+            434.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "62": [
+            434.0,
+            441.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "63": [
+            441.0,
+            448.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "64": [
+            448.0,
+            455.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "65": [
+            455.0,
+            462.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "66": [
+            462.0,
+            469.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "67": [
+            469.0,
+            476.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "68": [
+            476.0,
+            483.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "69": [
+            483.0,
+            490.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "70": [
+            490.0,
+            497.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "71": [
+            497.0,
+            504.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "72": [
+            504.0,
+            511.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "73": [
+            511.0,
+            518.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "74": [
+            518.0,
+            525.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "75": [
+            525.0,
+            532.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "76": [
+            532.0,
+            539.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "77": [
+            539.0,
+            546.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "78": [
+            546.0,
+            553.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "79": [
+            553.0,
+            560.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "80": [
+            560.0,
+            567.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "81": [
+            567.0,
+            574.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "82": [
+            574.0,
+            581.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "83": [
+            581.0,
+            588.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "84": [
+            588.0,
+            595.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "85": [
+            595.0,
+            602.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "86": [
+            602.0,
+            609.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "87": [
+            609.0,
+            616.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "88": [
+            616.0,
+            623.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "89": [
+            623.0,
+            630.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "90": [
+            630.0,
+            637.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "91": [
+            637.0,
+            644.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "92": [
+            644.0,
+            651.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "93": [
+            651.0,
+            658.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "94": [
+            658.0,
+            665.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "95": [
+            665.0,
+            672.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "96": [
+            672.0,
+            679.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "97": [
+            679.0,
+            686.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "98": [
+            686.0,
+            693.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "99": [
+            693.0,
+            700.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "100": [
+            700.0,
+            707.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "101": [
+            707.0,
+            714.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "102": [
+            714.0,
+            721.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "103": [
+            721.0,
+            728.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "104": [
+            728.0,
+            735.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "105": [
+            735.0,
+            742.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "106": [
+            742.0,
+            749.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "107": [
+            749.0,
+            756.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "108": [
+            756.0,
+            763.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "109": [
+            763.0,
+            770.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "110": [
+            770.0,
+            777.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "111": [
+            777.0,
+            784.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "112": [
+            784.0,
+            791.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "113": [
+            791.0,
+            798.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "114": [
+            798.0,
+            805.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "115": [
+            805.0,
+            812.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "116": [
+            812.0,
+            819.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "117": [
+            819.0,
+            826.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "118": [
+            826.0,
+            833.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "119": [
+            833.0,
+            840.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "120": [
+            840.0,
+            847.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "121": [
+            847.0,
+            854.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "122": [
+            854.0,
+            861.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "123": [
+            861.0,
+            868.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "124": [
+            868.0,
+            875.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "125": [
+            875.0,
+            882.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "126": [
+            882.0,
+            889.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "127": [
+            889.0,
+            896.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "128": [
+            896.0,
+            903.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "129": [
+            903.0,
+            910.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "130": [
+            910.0,
+            917.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "131": [
+            917.0,
+            924.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "132": [
+            924.0,
+            931.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "133": [
+            931.0,
+            938.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "134": [
+            938.0,
+            945.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "135": [
+            945.0,
+            952.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "136": [
+            952.0,
+            959.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "137": [
+            959.0,
+            966.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "138": [
+            966.0,
+            973.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "139": [
+            973.0,
+            980.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "140": [
+            980.0,
+            987.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "141": [
+            987.0,
+            994.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "142": [
+            994.0,
+            1001.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "143": [
+            1001.0,
+            1008.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "144": [
+            1008.0,
+            1015.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "145": [
+            1015.0,
+            1022.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "146": [
+            1022.0,
+            1029.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "147": [
+            1029.0,
+            1036.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "148": [
+            1036.0,
+            1043.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "149": [
+            1043.0,
+            1050.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "150": [
+            1050.0,
+            1057.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "151": [
+            1057.0,
+            1064.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "152": [
+            1064.0,
+            1071.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "153": [
+            1071.0,
+            1078.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "154": [
+            1078.0,
+            1085.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "155": [
+            1085.0,
+            1092.0,
+            "Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid, Real Madrid,"
+        ],
+        "156": [
+            1093.0,
+            1094.0,
+            "Very fast."
+        ],
+        "157": [
+            1094.0,
+            1099.0,
+            "And above all you have to measure. Attention to Cristiano. To Cristiano who stays. Christian who is now falling."
+        ],
+        "158": [
+            1099.0,
+            1101.0,
+            "The scorer says that..."
+        ],
+        "159": [
+            1101.0,
+            1105.0,
+            "Regardless of whether the penalty is awarded or not, the referee is not going to paint that in life."
+        ],
+        "160": [
+            1105.0,
+            1106.0,
+            "Well..."
+        ],
+        "161": [
+            1106.0,
+            1107.0,
+            "Even if it was."
+        ],
+        "162": [
+            1109.0,
+            1113.0,
+            "Yellow cardboard, another for the protest. I think Joni. Kick goal."
+        ],
+        "163": [
+            1114.0,
+            1119.0,
+            "Well, this once again shows how difficult it is to referee, Carlos. Regardless of whether you can make a mistake or not."
+        ],
+        "164": [
+            1119.0,
+            1125.0,
+            "What I'm saying is that obviously the referee has been thinking that Yago Aspas has jumped."
+        ],
+        "165": [
+            1125.0,
+            1128.0,
+            "And therefore, that is why the indicated one. She is wrong about that."
+        ],
+        "166": [
+            1128.0,
+            1134.0,
+            "Because Yago Aspas doesn't throw himself. Yago Aspas does not throw himself. And that's where the scorer makes a mistake."
+        ],
+        "167": [
+            1134.0,
+            1135.0,
+            "It is pulled and..."
+        ],
+        "168": [
+            1135.0,
+            1136.0,
+            "It seems much more..."
+        ],
+        "169": [
+            1137.0,
+            1142.0,
+            "Do not touch. She trips over her leg. Another also complicated one."
+        ],
+        "170": [
+            1142.0,
+            1143.0,
+            "Very difficult."
+        ],
+        "171": [
+            1143.0,
+            1148.0,
+            "Because it is not known if it is Joni's entry or simply that since he is ahead of Joni, Cristiano stumbles."
+        ],
+        "172": [
+            1148.0,
+            1154.0,
+            "The protests have also expelled Eduardo Marcucci. Celta's second."
+        ],
+        "173": [
+            1154.0,
+            1160.0,
+            "He tells him to leave but Marcucci tells him that since the locker room is right on the other side, he is going to do it crossing the entire field of play."
+        ],
+        "174": [
+            1160.0,
+            1165.0,
+            "The protests. Joni saw the yellow card because I understand that he also demanded cardboard for Cristiano."
+        ],
+        "175": [
+            1165.0,
+            1175.0,
+            "Because if he doesn't call a penalty, he calls a goal kick. And then if the player falls, which was understood to mean that he had also thrown cardboard, he also gets protests from Eduardo Marcucci."
+        ],
+        "176": [
+            1175.0,
+            1180.0,
+            "The curl was not there, now Marcucci is not there either. Expelled, Celta Madrid's second coach leaves."
+        ],
+        "177": [
+            1180.0,
+            1185.0,
+            "And this has been the Madrid of the brave Eval Aidos. We repeat because it really is very complicated."
+        ],
+        "178": [
+            1185.0,
+            1190.0,
+            "The two plays have a common point. The two players who fall do not throw."
+        ],
+        "179": [
+            1190.0,
+            1198.0,
+            "Cristiano jumped because he tripped on the leg of the Frensa player and therefore I think it is not a penalty because the Celta player does not make the tackle."
+        ],
+        "180": [
+            1198.0,
+            1205.0,
+            "And one could, from a Real Madrid perspective, say that Sergio Ramos does not make the entrance."
+        ],
+        "181": [
+            1205.0,
+            1214.0,
+            "Because he actually doesn't make the entrance. Now from Celta's point of view, what happens in the play is that Yago Aspas gets involved, that he has every right to do so,"
+        ],
+        "182": [
+            1214.0,
+            1221.0,
+            "and that Sergio Ramos crashes from behind and that is why Yago Aspas falls to the ground."
+        ],
+        "183": [
+            1221.0,
+            1230.0,
+            "The game has become a pain in the ass for Martínez Monura, who no longer knows where to face it. He doesn't have it easy. Another yellow cardboard."
+        ],
+        "184": [
+            1230.0,
+            1237.0,
+            "This play, which is a foul that was called, everyone is already protesting like a spring, like arrows, it has become very difficult."
+        ],
+        "185": [
+            1239.0,
+            1245.0,
+            "Very complicated, very complicated for the referee in the remaining match. Mideti has just seen another yellow card."
+        ],
+        "186": [
+            1246.0,
+            1252.0,
+            "There is the fault that seems to be pointed out by Casemiro, the second one claimed."
+        ],
+        "187": [
+            1258.0,
+            1265.0,
+            "If I had seen Cristiano on the card, I would not have been able to play in Málaga, because let's remember that it is perceived when playing, just as Palarcón is there."
+        ],
+        "188": [
+            1265.0,
+            1271.0,
+            "And Casemiro had a first and that is why Vigo's agent claimed the second for this tackle on Casemiro, which was taken as a foul,"
+        ],
+        "189": [
+            1271.0,
+            1274.0,
+            "I understood that it was not enough to get a second yellow card."
+        ],
+        "190": [
+            1274.0,
+            1277.0,
+            "It's not easy to get into the shoes of a college student right now."
+        ],
+        "191": [
+            1277.0,
+            1281.0,
+            "There goes the throw, he works it there, he clears the ball for Oguamayo."
+        ],
+        "192": [
+            1281.0,
+            1286.0,
+            "From there he will try, in the hands of the Real Madrid goalkeeper."
+        ],
+        "193": [
+            1288.0,
+            1295.0,
+            "The game seemed very calm for Real Madrid, but in just five minutes it settled into a terrible disorder that will end with a lot of controversy."
+        ],
+        "194": [
+            1296.0,
+            1301.0,
+            "because I assure you that fans on both sides are not going to agree on this type of play."
+        ],
+        "195": [
+            1301.0,
+            1304.0,
+            "Well, that's something that usually happens too, right?"
+        ],
+        "196": [
+            1304.0,
+            1311.0,
+            "Because they are interpretable, because they are not obviously clear, because someone is going to say clearly that Sergio Ramos makes the entrance"
+        ],
+        "197": [
+            1311.0,
+            1320.0,
+            "and therefore Cesta deserves the penalty, and someone on the contrary is going to say that what Sergio does is not enough for Aspa to go to the ground."
+        ],
+        "198": [
+            1325.0,
+            1328.0,
+            "And the other one gives that penalty, is it a penalty or not a penalty?"
+        ],
+        "199": [
+            1328.0,
+            1330.0,
+            "For whatever happened."
+        ],
+        "200": [
+            1330.0,
+            1335.0,
+            "Coming from what Aspas just said, if he continues to whistle there, the better."
+        ],
+        "201": [
+            1336.0,
+            1342.0,
+            "The situation was very, very, very complicated. I repeat that, really, in the... Attention to Celta, he is going to be left there alone!"
+        ],
+        "202": [
+            1342.0,
+            1345.0,
+            "Baaaaas Keylor!"
+        ],
+        "203": [
+            1345.0,
+            1349.0,
+            "Opportunity that goes clean for Celta due to a corner kick!"
+        ],
+        "204": [
+            1350.0,
+            1353.0,
+            "First time we see Vaz arrive in danger, which is where he has to be a little closer."
+        ],
+        "205": [
+            1353.0,
+            1357.0,
+            "And the first worthy stop that Keylor Navas makes, because the truth is that very little has come to him."
+        ],
+        "206": [
+            1357.0,
+            1360.0,
+            "Attention to Celta, now we end up with a referee who is not so easy to count."
+        ],
+        "207": [
+            1360.0,
+            1366.0,
+            "The ball for Piones Isto, Piones Isto giving the ball to Trapp, he goes looking for Celta with enthusiasm, up there, looking for the ball, my goodness."
+        ],
+        "208": [
+            1366.0,
+            1368.0,
+            "No, it's not your day."
+        ],
+        "209": [
+            1368.0,
+            1370.0,
+            "The Diva who reaches Gidez and hits it in the air, goal kick."
+        ],
+        "210": [
+            1370.0,
+            1376.0,
+            "Well, with the two complicated decisions from the point of view of perception that Mourinho and Gugura have had, they have not been fortunate."
+        ],
+        "211": [
+            1376.0,
+            1380.0,
+            "In Varane's hand, we still don't know if it is inside or outside the area or not."
+        ],
+        "212": [
+            1380.0,
+            1383.0,
+            "Well, the only thing he hasn't seen is a hand, and there was a hand."
+        ],
+        "213": [
+            1383.0,
+            1390.0,
+            "And in the fall of Yago Aspas, I believe that it is a debatable action to decide what exactly happened there."
+        ],
+        "214": [
+            1390.0,
+            1395.0,
+            "The only thing that hasn't happened is what the referee saw, which is that Yago Aspas jumped."
+        ],
+        "215": [
+            1395.0,
+            1399.0,
+            "That did not happen. Attention to Celta, Gidez and goal!"
+        ],
+        "216": [
+            1400.0,
+            1403.0,
+            "He needed the help of Gidez and a Real Madrid player."
+        ],
+        "217": [
+            1403.0,
+            1408.0,
+            "The ball has touched, I think it is Sergio. He rises above Keylor, Navas and scores."
+        ],
+        "218": [
+            1408.0,
+            1413.0,
+            "At 1-2 Celta due. How inexplicable football is."
+        ],
+        "219": [
+            1413.0,
+            1417.0,
+            "Yes, the game suddenly gets into trouble. Celta has given a 1-0. By the way, it was a very serious mistake by Isco at the start."
+        ],
+        "220": [
+            1417.0,
+            1423.0,
+            "A mistake that the excellent Madrid player does not usually make to make a mistake. Here we are going to see it."
+        ],
+        "221": [
+            1423.0,
+            1427.0,
+            "A very serious mistake. She gives it to Asisto and then, for once, Piretti."
+        ],
+        "222": [
+            1427.0,
+            1430.0,
+            "It is a ball that I believe Navas had control of. It shoots."
+        ],
+        "223": [
+            1431.0,
+            1437.0,
+            "The incredible thing about football. Madrid controlled a game with one more player and suddenly the scoreboard became a little complicated."
+        ],
+        "224": [
+            1438.0,
+            1441.0,
+            "Celta reacts. Let's see what Real Madrid does."
+        ],
+        "225": [
+            1441.0,
+            1445.0,
+            "Casemiro plays the ball. Casemiro plays for Isco."
+        ],
+        "226": [
+            1445.0,
+            1447.0,
+            "Isco hands the ball to Danilo. Danilo who wins the band."
+        ],
+        "227": [
+            1447.0,
+            1452.0,
+            "Attention to Danilo. Danilo stops inside the area. Danilo fights it. Danilo is going to lose her."
+        ],
+        "228": [
+            1452.0,
+            1455.0,
+            "The ball for Pione Sisto. Danilo continues fighting with Sisto."
+        ],
+        "229": [
+            1456.0,
+            1460.0,
+            "Touch back Sisto. Give the ball to Cabral. Play the ball Jozabeth."
+        ],
+        "230": [
+            1460.0,
+            1465.0,
+            "Jozabeth receives in the center. Ahead of Toni Kroos. Playing ball for Hugo Mayo."
+        ],
+        "231": [
+            1465.0,
+            1470.0,
+            "Jozabeth moves it well. Anticipation by Sergio Ramos. Let the referee continue."
+        ],
+        "232": [
+            1470.0,
+            1475.0,
+            "There Cristiano Ronaldo goes with the ball. Within the area. Unleashed for Karim Benzema."
+        ],
+        "233": [
+            1475.0,
+            1479.0,
+            "He wants to play it on the wing. Delivery for Marcelo. Marcelo who cuts. Bottom line."
+        ],
+        "234": [
+            1479.0,
+            1488.0,
+            "Marcellus. Karim Benzema's goal for Real Madrid's third."
+        ],
+        "235": [
+            1488.0,
+            1493.0,
+            "Marcelo and Karim Benzema went with the band at will."
+        ],
+        "236": [
+            1493.0,
+            1497.0,
+            "He scored the third. The distance of two returns for Madrid."
+        ],
+        "237": [
+            1497.0,
+            1501.0,
+            "He went through what seems like the scare that Real Madrid got with N'Dedi's goal."
+        ],
+        "238": [
+            1501.0,
+            1507.0,
+            "Well, that will have already taken the breath away from the ten remaining players in the Celtro de Vigo field"
+        ],
+        "239": [
+            1507.0,
+            1516.0,
+            "just when some chance goes. Well, Madrid makes a good play, but a really good one."
+        ],
+        "240": [
+            1516.0,
+            1523.0,
+            "Benzema, then Marcelo's pass. Bottom line. The gift pass. It's a gift. Is enabled."
+        ],
+        "241": [
+            1523.0,
+            1529.0,
+            "The ball is ahead of Karim Benzema. Therefore, offside is impossible."
+        ],
+        "242": [
+            1529.0,
+            1533.0,
+            "I'm really liking Benzema's game. For everything he is generating."
+        ],
+        "243": [
+            1533.0,
+            1538.0,
+            "This is pure Benzema. Everything that is participating, going down to midfield, moving, giving solutions to teammates."
+        ],
+        "244": [
+            1538.0,
+            1540.0,
+            "Crowned with this goal."
+        ],
+        "245": [
+            1540.0,
+            1545.0,
+            "Tenth goal. The French player scored it since last April 2 in the league championship."
+        ],
+        "246": [
+            1545.0,
+            1549.0,
+            "Karim Benzema has now scored, the protagonist without a doubt. Change at Real Madrid."
+        ],
+        "247": [
+            1549.0,
+            1552.0,
+            "Casemiro has been received. Kovacic has entered."
+        ],
+        "248": [
+            1554.0,
+            1557.0,
+            "Kovacic on the pitch. Casemiro who had yellow."
+        ],
+        "249": [
+            1557.0,
+            1561.0,
+            "They are protecting themselves. The possibility of Real Madrid losing a player."
+        ],
+        "250": [
+            1561.0,
+            1565.0,
+            "Also, Casemiro for his forward who has had yellow. Maguiba could get complicated facing Málaga."
+        ],
+        "251": [
+            1565.0,
+            1570.0,
+            "And with the score at 1-3, Mateo Kovacic just entered the field."
+        ],
+        "252": [
+            1570.0,
+            1572.0,
+            "Well, his clear conquest of Ronaldo."
+        ],
+        "253": [
+            1572.0,
+            1578.0,
+            "Yes, that's what I was thinking, Michael. He is perceived to be two goals ahead already and with a bad player."
+        ],
+        "254": [
+            1578.0,
+            1581.0,
+            "Casemiro has already been very close to seeing the second yellow card."
+        ],
+        "255": [
+            1582.0,
+            1587.0,
+            "Pilot for Real Madrid. The school that has been missing is coming."
+        ],
+        "256": [
+            1587.0,
+            1588.0,
+            "Kroos."
+        ],
+        "257": [
+            1589.0,
+            1593.0,
+            "And change is also going to occur now. The first in the Centa ranks."
+        ],
+        "258": [
+            1593.0,
+            1597.0,
+            "Mantana, Marcelo Díaz. He is going to leave the field of play."
+        ],
+        "259": [
+            1597.0,
+            1602.0,
+            "Well, I imagine that the cello is going to play more as a center half. Although the one from the south of Switzerland plays higher."
+        ],
+        "260": [
+            1602.0,
+            1605.0,
+            "To overtake Vázquez, Tucu."
+        ],
+        "261": [
+            1605.0,
+            1610.0,
+            "He applauded. Joza once enters. Marcelo Díaz, the cello Díaz."
+        ],
+        "262": [
+            1610.0,
+            1615.0,
+            "Then he will advance Was's position. There clearly. And the cello playing on the pivot."
+        ],
+        "263": [
+            1615.0,
+            1617.0,
+            "Yes, that's left over."
+        ],
+        "264": [
+            1617.0,
+            1620.0,
+            "He got the ball from Isco. He touched the ball to..."
+        ],
+        "265": [
+            1620.0,
+            1624.0,
+            "Luka modric. Modric on Sergio Ramos."
+        ],
+        "266": [
+            1624.0,
+            1628.0,
+            "Karim Benzema offers himself again. There goes Karim Benzema again what he is doing..."
+        ],
+        "267": [
+            1628.0,
+            1631.0,
+            "It's not going to give anything. Very in your face."
+        ],
+        "268": [
+            1631.0,
+            1636.0,
+            "Martín Emunera has not had it easy here. The yellow card has grabbed the Celta player."
+        ],
+        "269": [
+            1636.0,
+            1641.0,
+            "Benzema is in impressive form at the end of the season."
+        ],
+        "270": [
+            1641.0,
+            1645.0,
+            "I was complaining. Well, then I hadn't introduced it."
+        ],
+        "271": [
+            1645.0,
+            1649.0,
+            "Because it is the tension with which the club lives. It's the same with us."
+        ],
+        "272": [
+            1649.0,
+            1652.0,
+            "How reality is altered, right? Sometimes."
+        ],
+        "273": [
+            1652.0,
+            1654.0,
+            "The public is asking for another, another, another."
+        ],
+        "274": [
+            1654.0,
+            1657.0,
+            "Ironically, we have another yellow cardboard."
+        ],
+        "275": [
+            1658.0,
+            1661.0,
+            "The ball is for Celta. Toni Kroos plays the ball."
+        ],
+        "276": [
+            1661.0,
+            1663.0,
+            "Trying to hand over Danilo."
+        ],
+        "277": [
+            1663.0,
+            1665.0,
+            "A dangerous bunch of heads there."
+        ],
+        "278": [
+            1665.0,
+            1667.0,
+            "Johnny Danilo."
+        ],
+        "279": [
+            1667.0,
+            1669.0,
+            "For the ball Rafa Álvarez."
+        ],
+        "280": [
+            1669.0,
+            1671.0,
+            "Danilo hides well. He now he is going to go in speed."
+        ],
+        "281": [
+            1671.0,
+            1673.0,
+            "But Johnny stops him, grabs him."
+        ],
+        "282": [
+            1673.0,
+            1675.0,
+            "And the referee whistles."
+        ],
+        "283": [
+            1675.0,
+            1677.0,
+            "Something for Real Madrid."
+        ],
+        "284": [
+            1677.0,
+            1680.0,
+            "There are 18-17 left in the game."
+        ],
+        "285": [
+            1680.0,
+            1682.0,
+            "Madrid wins 1-3."
+        ],
+        "286": [
+            1682.0,
+            1684.0,
+            "Celta is with the victory."
+        ],
+        "287": [
+            1684.0,
+            1687.0,
+            "Ball goes to Isco."
+        ],
+        "288": [
+            1687.0,
+            1690.0,
+            "Short on Toni Kroos."
+        ],
+        "289": [
+            1690.0,
+            1692.0,
+            "While the leg goes."
+        ],
+        "290": [
+            1692.0,
+            1694.0,
+            "Try to reach the Cello. Play the ball there."
+        ],
+        "291": [
+            1694.0,
+            1696.0,
+            "This one for Videtti."
+        ],
+        "292": [
+            1696.0,
+            1698.0,
+            "Videtti again for Pablo Hernández."
+        ],
+        "293": [
+            1698.0,
+            1700.0,
+            "Marcelo Díaz asks for it."
+        ],
+        "294": [
+            1700.0,
+            1702.0,
+            "He is going to move on the wing there with speed."
+        ],
+        "295": [
+            1702.0,
+            1704.0,
+            "Pay attention to Vaz's shot."
+        ],
+        "296": [
+            1704.0,
+            1706.0,
+            "Out."
+        ],
+        "297": [
+            1706.0,
+            1708.0,
+            "Something strained. Difficult."
+        ],
+        "298": [
+            1708.0,
+            1710.0,
+            "The ball is for Real Madrid."
+        ],
+        "299": [
+            1710.0,
+            1712.0,
+            "The ball is for Real Madrid."
+        ],
+        "300": [
+            1712.0,
+            1714.0,
+            "Out."
+        ],
+        "301": [
+            1714.0,
+            1716.0,
+            "Something strained. Difficult. Videtti did not arrive."
+        ],
+        "302": [
+            1716.0,
+            1718.0,
+            "Goal kick for Real Madrid."
+        ],
+        "303": [
+            1718.0,
+            1724.0,
+            "The best thing he had to do was hold on for a bit until Videtti reached the area."
+        ],
+        "304": [
+            1724.0,
+            1730.0,
+            "The third."
+        ],
+        "305": [
+            1730.0,
+            1732.0,
+            "The third."
+        ],
+        "306": [
+            1732.0,
+            1735.0,
+            "The organizational chart at the technical stand."
+        ],
+        "307": [
+            1735.0,
+            1737.0,
+            "Yes, he appears as an assistant."
+        ],
+        "308": [
+            1737.0,
+            1739.0,
+            "But obviously the two technicians are expelled."
+        ],
+        "309": [
+            1740.0,
+            1742.0,
+            "The army is now a coach in the technical area."
+        ],
+        "310": [
+            1742.0,
+            1744.0,
+            "The ball for Filta de Vigo."
+        ],
+        "311": [
+            1744.0,
+            1746.0,
+            "Come on."
+        ],
+        "312": [
+            1746.0,
+            1748.0,
+            "Back to..."
+        ],
+        "313": [
+            1748.0,
+            1750.0,
+            "Gabral for Rock."
+        ],
+        "314": [
+            1750.0,
+            1752.0,
+            "Díaz for the Cello."
+        ],
+        "315": [
+            1752.0,
+            1754.0,
+            "Sisto, he put his leg in. Attention there."
+        ],
+        "316": [
+            1754.0,
+            1756.0,
+            "Luka Molle. Cristiano leaves again."
+        ],
+        "317": [
+            1756.0,
+            1758.0,
+            "Looking for Christian. He leaves her perfect."
+        ],
+        "318": [
+            1758.0,
+            1760.0,
+            "Toni Kroos. Christian."
+        ],
+        "319": [
+            1760.0,
+            1762.0,
+            "My mother!"
+        ],
+        "320": [
+            1762.0,
+            1764.0,
+            "Cristiano had given away the hat-trick."
+        ],
+        "321": [
+            1764.0,
+            1766.0,
+            "He made the tape."
+        ],
+        "322": [
+            1766.0,
+            1768.0,
+            "He knocked down Sergio."
+        ],
+        "323": [
+            1769.0,
+            1771.0,
+            "Cristiano regrets because he missed a hat-trick."
+        ],
+        "324": [
+            1771.0,
+            1773.0,
+            "And the fourth for Madrid."
+        ],
+        "325": [
+            1773.0,
+            1775.0,
+            "Sergio throws the cave."
+        ],
+        "326": [
+            1775.0,
+            1777.0,
+            "Yes Yes."
+        ],
+        "327": [
+            1777.0,
+            1779.0,
+            "The truth is that it seems incredible that Cristiano missed that goal."
+        ],
+        "328": [
+            1779.0,
+            1781.0,
+            "And what's more, Cristiano's tape is good enough to knock down the goalkeeper."
+        ],
+        "329": [
+            1781.0,
+            1783.0,
+            "And they see it there."
+        ],
+        "330": [
+            1783.0,
+            1785.0,
+            "And then..."
+        ],
+        "331": [
+            1785.0,
+            1787.0,
+            "Hitting failure."
+        ],
+        "332": [
+            1787.0,
+            1789.0,
+            "There he is unbalanced."
+        ],
+        "333": [
+            1789.0,
+            1791.0,
+            "Look where the ball goes."
+        ],
+        "334": [
+            1791.0,
+            1793.0,
+            "Until he finishes going to the ground, Sergio is what..."
+        ],
+        "335": [
+            1793.0,
+            1795.0,
+            "He misses the ball."
+        ],
+        "336": [
+            1796.0,
+            1798.0,
+            "Until he finishes going to the ground, Sergio is what..."
+        ],
+        "337": [
+            1798.0,
+            1800.0,
+            "It causes him to end up delivering the ball badly."
+        ],
+        "338": [
+            1800.0,
+            1802.0,
+            "I was just thinking about hitting the net."
+        ],
+        "339": [
+            1802.0,
+            1804.0,
+            "And Cristiano Arzonal is seriously wrong."
+        ],
+        "340": [
+            1804.0,
+            1806.0,
+            "Whatever you have confused by the error."
+        ],
+        "341": [
+            1806.0,
+            1808.0,
+            "The ball for Marcelo."
+        ],
+        "342": [
+            1808.0,
+            1810.0,
+            "Marcelo plays looking for Karim Benzema's head."
+        ],
+        "343": [
+            1810.0,
+            1812.0,
+            "He's going to find it for Sergio."
+        ],
+        "344": [
+            1812.0,
+            1814.0,
+            "It was fifteen minutes before the game ended."
+        ],
+        "345": [
+            1814.0,
+            1816.0,
+            "Good is that..."
+        ],
+        "346": [
+            1816.0,
+            1818.0,
+            "Surely..."
+        ],
+        "347": [
+            1818.0,
+            1820.0,
+            "Ibete knows what is happening now."
+        ],
+        "348": [
+            1820.0,
+            1822.0,
+            "I don't know where to get Cristiano."
+        ],
+        "349": [
+            1822.0,
+            1824.0,
+            "The ball, attention for Real Madrid."
+        ],
+        "350": [
+            1824.0,
+            1826.0,
+            "There Isco goes with the ball again."
+        ],
+        "351": [
+            1826.0,
+            1828.0,
+            "Inside the area Isco cuts."
+        ],
+        "352": [
+            1828.0,
+            1830.0,
+            "One more, Toni Kroos is asking for it."
+        ],
+        "353": [
+            1830.0,
+            1832.0,
+            "Look for the shot."
+        ],
+        "354": [
+            1832.0,
+            1834.0,
+            "It surprised everyone but not Sergio who reacted."
+        ],
+        "355": [
+            1834.0,
+            1836.0,
+            "To cast the horn."
+        ],
+        "356": [
+            1836.0,
+            1838.0,
+            "High quality detail from Malaga."
+        ],
+        "357": [
+            1838.0,
+            1840.0,
+            "Yes, a lot of quality. With Celta already sunk emotionally."
+        ],
+        "358": [
+            1840.0,
+            1842.0,
+            "Physically too."
+        ],
+        "359": [
+            1842.0,
+            1844.0,
+            "And Madrid is now beginning to arrive with tremendous ease."
+        ],
+        "360": [
+            1844.0,
+            1846.0,
+            "He's going to take a corner."
+        ],
+        "361": [
+            1846.0,
+            1848.0,
+            "The real Madrid."
+        ],
+        "362": [
+            1848.0,
+            1850.0,
+            "There's Isco."
+        ],
+        "363": [
+            1850.0,
+            1852.0,
+            "Handing over the ball."
+        ],
+        "364": [
+            1852.0,
+            1854.0,
+            "For Toni Kroos."
+        ],
+        "365": [
+            1854.0,
+            1856.0,
+            "Looking for Rafael Barán's entry."
+        ],
+        "366": [
+            1856.0,
+            1858.0,
+            "Celta has cut."
+        ],
+        "367": [
+            1858.0,
+            1860.0,
+            "He takes it out or tries to."
+        ],
+        "368": [
+            1860.0,
+            1862.0,
+            "They give the ball to Isco."
+        ],
+        "369": [
+            1862.0,
+            1864.0,
+            "One more cut."
+        ],
+        "370": [
+            1864.0,
+            1866.0,
+            "In the background he puts it backwards."
+        ],
+        "371": [
+            1866.0,
+            1868.0,
+            "Mirror the defense at the front of the area."
+        ],
+        "372": [
+            1868.0,
+            1870.0,
+            "Marcelo arrives."
+        ],
+        "373": [
+            1870.0,
+            1872.0,
+            "Put your foot in there as best you can."
+        ],
+        "374": [
+            1872.0,
+            1874.0,
+            "He heads the ball to Mateo Kovács."
+        ],
+        "375": [
+            1874.0,
+            1876.0,
+            "He handed over Mateo Kovács."
+        ],
+        "376": [
+            1876.0,
+            1878.0,
+            "The ball for Danilo."
+        ],
+        "377": [
+            1878.0,
+            1880.0,
+            "The ball opens to the wing for Marcelo."
+        ],
+        "378": [
+            1880.0,
+            1882.0,
+            "Isco asks for it, he wants more."
+        ],
+        "379": [
+            1882.0,
+            1884.0,
+            "There goes Isco who is going to receive the play with a header for Karim Benzema."
+        ],
+        "380": [
+            1884.0,
+            1886.0,
+            "Karim protects her with his body."
+        ],
+        "381": [
+            1886.0,
+            1888.0,
+            "Cuts Karim Benzema. In the end he is going to lose her."
+        ],
+        "382": [
+            1888.0,
+            1890.0,
+            "Rocaña definitely takes it."
+        ],
+        "383": [
+            1890.0,
+            1892.0,
+            "Delivery for Sisto."
+        ],
+        "384": [
+            1892.0,
+            1894.0,
+            "Sisto for Cello Díaz. She hides it from Marcelo."
+        ],
+        "385": [
+            1894.0,
+            1896.0,
+            "They are completely disorganized here."
+        ],
+        "386": [
+            1896.0,
+            1898.0,
+            "With many people already out of place."
+        ],
+        "387": [
+            1898.0,
+            1900.0,
+            "With Danilo's ball that goes at speed."
+        ],
+        "388": [
+            1900.0,
+            1902.0,
+            "Oops!"
+        ],
+        "389": [
+            1902.0,
+            1904.0,
+            "Pay attention to that entry. Law of advantage."
+        ],
+        "390": [
+            1904.0,
+            1906.0,
+            "The ball for Cristiano."
+        ],
+        "391": [
+            1906.0,
+            1908.0,
+            "Sergio with his foot."
+        ],
+        "392": [
+            1908.0,
+            1910.0,
+            "Luka Modric who can't find the goal."
+        ],
+        "393": [
+            1910.0,
+            1912.0,
+            "Right now it's kind of a scolded goal game."
+        ],
+        "394": [
+            1912.0,
+            1914.0,
+            "And attention that now he is worried about the referee's decision."
+        ],
+        "395": [
+            1914.0,
+            1916.0,
+            "Yes, now it was."
+        ],
+        "396": [
+            1916.0,
+            1918.0,
+            "Now for Martín Unuera."
+        ],
+        "397": [
+            1918.0,
+            1920.0,
+            "Because Tuco Hernández and also Danilo"
+        ],
+        "398": [
+            1920.0,
+            1922.0,
+            "They are both lying on the play train after the crash."
+        ],
+        "399": [
+            1922.0,
+            1924.0,
+            "The crash has been tremendous."
+        ],
+        "400": [
+            1924.0,
+            1926.0,
+            "Between Pablo Hernández and Danilo."
+        ],
+        "401": [
+            1926.0,
+            1928.0,
+            "You'll see it there."
+        ],
+        "402": [
+            1928.0,
+            1930.0,
+            "He comes late."
+        ],
+        "403": [
+            1930.0,
+            1932.0,
+            "Tuco Hernández had prolonged"
+        ],
+        "404": [
+            1932.0,
+            1934.0,
+            "Danilo the ball with his toe."
+        ],
+        "405": [
+            1934.0,
+            1936.0,
+            "And the shock is terrible."
+        ],
+        "406": [
+            1936.0,
+            1938.0,
+            "Danilo who falls battered."
+        ],
+        "407": [
+            1938.0,
+            1940.0,
+            "It looks like even more damage has been done."
+        ],
+        "408": [
+            1940.0,
+            1942.0,
+            "Tuco Hernández than Danilo."
+        ],
+        "409": [
+            1944.0,
+            1946.0,
+            "And Danilo's fall is spectacular."
+        ],
+        "410": [
+            1946.0,
+            1948.0,
+            "There you see it."
+        ],
+        "411": [
+            1950.0,
+            1952.0,
+            "Lots of violence."
+        ],
+        "412": [
+            1954.0,
+            1956.0,
+            "Danilo seems to be recovering"
+        ],
+        "413": [
+            1956.0,
+            1958.0,
+            "without major problem. He leaves on his own two feet."
+        ],
+        "414": [
+            1958.0,
+            1960.0,
+            "Yes, Tuco has done more damage than Danilo himself."
+        ],
+        "415": [
+            1960.0,
+            1962.0,
+            "It's already at the stop."
+        ],
+        "416": [
+            1962.0,
+            1964.0,
+            "The stop."
+        ],
+        "417": [
+            1964.0,
+            1966.0,
+            "The ball goes through the back"
+        ],
+        "418": [
+            1966.0,
+            1968.0,
+            "of two Celta de Vigo players."
+        ],
+        "419": [
+            1968.0,
+            1970.0,
+            "Complicating life for Sergio"
+        ],
+        "420": [
+            1970.0,
+            1972.0,
+            "that reacts like a charm"
+        ],
+        "421": [
+            1972.0,
+            1974.0,
+            "for his team to avoid the fourth."
+        ],
+        "422": [
+            1974.0,
+            1976.0,
+            "And the one who seems truly damaged is"
+        ],
+        "423": [
+            1976.0,
+            1978.0,
+            "Pablo Hernandez."
+        ],
+        "424": [
+            1982.0,
+            1984.0,
+            "An applause from the public."
+        ],
+        "425": [
+            1984.0,
+            1986.0,
+            "Both of them have left attentively."
+        ],
+        "426": [
+            1986.0,
+            1988.0,
+            "And therefore they will have to ask"
+        ],
+        "427": [
+            1988.0,
+            1990.0,
+            "back the return in the party"
+        ],
+        "428": [
+            1990.0,
+            1992.0,
+            "to the referee."
+        ],
+        "429": [
+            1994.0,
+            1996.0,
+            "Fall of Christian."
+        ],
+        "430": [
+            1996.0,
+            1998.0,
+            "We have seen before."
+        ],
+        "431": [
+            1998.0,
+            2000.0,
+            "So many things."
+        ],
+        "432": [
+            2000.0,
+            2002.0,
+            "Martínez Munuera. It's difficult."
+        ],
+        "433": [
+            2002.0,
+            2004.0,
+            "The truth seems to us that he has had"
+        ],
+        "434": [
+            2004.0,
+            2006.0,
+            "a lot of fortune"
+        ],
+        "435": [
+            2008.0,
+            2010.0,
+            "He's going to play..."
+        ],
+        "436": [
+            2010.0,
+            2012.0,
+            "There neutral boat."
+        ],
+        "437": [
+            2012.0,
+            2014.0,
+            "Probably, it seems,"
+        ],
+        "438": [
+            2014.0,
+            2016.0,
+            "Real Madrid is going to return it to Celta de Vigo."
+        ],
+        "439": [
+            2016.0,
+            2018.0,
+            "Play the ball to Sergio."
+        ],
+        "440": [
+            2018.0,
+            2020.0,
+            "He delivered the ball to Cabral."
+        ],
+        "441": [
+            2020.0,
+            2022.0,
+            "Cabral with Joni."
+        ],
+        "442": [
+            2024.0,
+            2026.0,
+            "To Tucu."
+        ],
+        "443": [
+            2026.0,
+            2028.0,
+            "To wait for a new change."
+        ],
+        "444": [
+            2028.0,
+            2030.0,
+            "Celta de Vigo."
+        ],
+        "445": [
+            2032.0,
+            2034.0,
+            "Replaces Joni with the ball."
+        ],
+        "446": [
+            2036.0,
+            2038.0,
+            "Play the ball back to Cabral."
+        ],
+        "447": [
+            2040.0,
+            2042.0,
+            "Above."
+        ],
+        "448": [
+            2042.0,
+            2044.0,
+            "Tucu resumes throwing a pipe."
+        ],
+        "449": [
+            2044.0,
+            2046.0,
+            "It doesn't come out."
+        ],
+        "450": [
+            2046.0,
+            2048.0,
+            "Against Kovacic. Hold."
+        ],
+        "451": [
+            2048.0,
+            2050.0,
+            "Mateo Kovacic receives."
+        ],
+        "452": [
+            2050.0,
+            2052.0,
+            "Mateo Kovacic driving."
+        ],
+        "453": [
+            2052.0,
+            2054.0,
+            "It's slippery. He tries to pull himself together."
+        ],
+        "454": [
+            2054.0,
+            2056.0,
+            "He achieves this by playing for Danilo."
+        ],
+        "455": [
+            2056.0,
+            2058.0,
+            "He overwhelms Guidetti."
+        ],
+        "456": [
+            2058.0,
+            2060.0,
+            "He crashed into the wall. Guidetti."
+        ],
+        "457": [
+            2062.0,
+            2064.0,
+            "Now that change is going to occur."
+        ],
+        "458": [
+            2064.0,
+            2066.0,
+            "Sisto goes to the piano."
+        ],
+        "459": [
+            2066.0,
+            2068.0,
+            "Sisto hasn't been good."
+        ],
+        "460": [
+            2068.0,
+            2070.0,
+            "Erratic in practically"
+        ],
+        "461": [
+            2070.0,
+            2072.0,
+            "everything Sisto has tried."
+        ],
+        "462": [
+            2072.0,
+            2074.0,
+            "Celta has been for me"
+        ],
+        "463": [
+            2074.0,
+            2076.0,
+            "the best of Celta."
+        ],
+        "464": [
+            2076.0,
+            2078.0,
+            "But with a lot of difference."
+        ],
+        "465": [
+            2078.0,
+            2080.0,
+            "I liked Celta."
+        ],
+        "466": [
+            2080.0,
+            2082.0,
+            "He gave him an arm in the first half."
+        ],
+        "467": [
+            2082.0,
+            2084.0,
+            "I liked Joni."
+        ],
+        "468": [
+            2084.0,
+            2086.0,
+            "I liked Bas."
+        ],
+        "469": [
+            2086.0,
+            2088.0,
+            "But now Bas is"
+        ],
+        "470": [
+            2088.0,
+            2090.0,
+            "another show."
+        ],
+        "471": [
+            2090.0,
+            2092.0,
+            "It's another story."
+        ],
+        "472": [
+            2092.0,
+            2094.0,
+            "The second half has been"
+        ],
+        "473": [
+            2094.0,
+            2096.0,
+            "a disaster."
+        ],
+        "474": [
+            2096.0,
+            2098.0,
+            "An accident."
+        ],
+        "475": [
+            2098.0,
+            2100.0,
+            "The party still is."
+        ],
+        "476": [
+            2100.0,
+            2102.0,
+            "Now it has crashed there"
+        ],
+        "477": [
+            2102.0,
+            2104.0,
+            "with Cristiano Ronaldo."
+        ],
+        "478": [
+            2104.0,
+            2106.0,
+            "I don't know if it was the partner himself."
+        ],
+        "479": [
+            2106.0,
+            2108.0,
+            "Dani Kroos, the Celta player."
+        ],
+        "480": [
+            2108.0,
+            2110.0,
+            "He has done damage."
+        ],
+        "481": [
+            2110.0,
+            2112.0,
+            "Christian."
+        ],
+        "482": [
+            2112.0,
+            2114.0,
+            "Interest in the referee."
+        ],
+        "483": [
+            2114.0,
+            2116.0,
+            "The thing is already playing for Celta."
+        ],
+        "484": [
+            2118.0,
+            2120.0,
+            "I think that Madrid"
+        ],
+        "485": [
+            2120.0,
+            2122.0,
+            "He is winning very deservedly."
+        ],
+        "486": [
+            2122.0,
+            2124.0,
+            "But there was a moment"
+        ],
+        "487": [
+            2124.0,
+            2126.0,
+            "very important when Celta"
+        ],
+        "488": [
+            2126.0,
+            2128.0,
+            "is about to pack one."
+        ],
+        "489": [
+            2128.0,
+            2130.0,
+            "And the next play"
+        ],
+        "490": [
+            2130.0,
+            2132.0,
+            "It ends up being 0-2."
+        ],
+        "491": [
+            2132.0,
+            2134.0,
+            "And I think it is the key moment."
+        ],
+        "492": [
+            2134.0,
+            2136.0,
+            "Then came the moment"
+        ],
+        "493": [
+            2136.0,
+            2138.0,
+            "of the expulsion of"
+        ],
+        "494": [
+            2138.0,
+            2140.0,
+            "Aspas, the impossible penalty."
+        ],
+        "495": [
+            2140.0,
+            2142.0,
+            "Ronaldo, etc."
+        ],
+        "496": [
+            2142.0,
+            2144.0,
+            "And besides, then, it was not played."
+        ],
+        "497": [
+            2144.0,
+            2146.0,
+            "We've seen who he bumped into."
+        ],
+        "498": [
+            2146.0,
+            2148.0,
+            "Cristiano Ronaldo clearly."
+        ],
+        "499": [
+            2148.0,
+            2150.0,
+            "I obviously had to be looking"
+        ],
+        "500": [
+            2150.0,
+            2152.0,
+            "to another area when the collision occurred."
+        ],
+        "501": [
+            2152.0,
+            2154.0,
+            "The ball goes to Celta de Vigo."
+        ],
+        "502": [
+            2154.0,
+            2156.0,
+            "He tries it in the center."
+        ],
+        "503": [
+            2156.0,
+            2158.0,
+            "Tuco Hernandez."
+        ],
+        "504": [
+            2158.0,
+            2160.0,
+            "Videnti is asking about the band."
+        ],
+        "505": [
+            2160.0,
+            2162.0,
+            "That ball is cut by Danilo."
+        ],
+        "506": [
+            2162.0,
+            2164.0,
+            "Also especially unfortunate is the tuco."
+        ],
+        "507": [
+            2164.0,
+            2166.0,
+            "Karim Benzema with the ball"
+        ],
+        "508": [
+            2166.0,
+            2168.0,
+            "that crosses in front of Pablo Hernández."
+        ],
+        "509": [
+            2168.0,
+            2170.0,
+            "He played the ball towards Marcelo."
+        ],
+        "510": [
+            2170.0,
+            2172.0,
+            "Marcelo delivers for Cristiano."
+        ],
+        "511": [
+            2172.0,
+            2174.0,
+            "It seems that Cristiano is going to leave the field."
+        ],
+        "512": [
+            2174.0,
+            2176.0,
+            "Marcelo continues"
+        ],
+        "513": [
+            2176.0,
+            2178.0,
+            "touching backwards."
+        ],
+        "514": [
+            2178.0,
+            2180.0,
+            "Ball that reaches the central circle to Isco."
+        ],
+        "515": [
+            2180.0,
+            2182.0,
+            "Play for Danilo's rise on the side."
+        ],
+        "516": [
+            2182.0,
+            2184.0,
+            "Danilo is going to be chased by Vaz."
+        ],
+        "517": [
+            2184.0,
+            2186.0,
+            "Waiting for someone to come"
+        ],
+        "518": [
+            2186.0,
+            2188.0,
+            "and comes to help him."
+        ],
+        "519": [
+            2188.0,
+            2190.0,
+            "He stayed with the Isco mold."
+        ],
+        "520": [
+            2190.0,
+            2192.0,
+            "But the ball is for Madrid."
+        ],
+        "521": [
+            2192.0,
+            2194.0,
+            "Karim Benzema, Cristiano."
+        ],
+        "522": [
+            2194.0,
+            2196.0,
+            "Cristiano with Marcelo on the band."
+        ],
+        "523": [
+            2196.0,
+            2198.0,
+            "Marcelo who receives."
+        ],
+        "524": [
+            2198.0,
+            2200.0,
+            "There closing the roads"
+        ],
+        "525": [
+            2200.0,
+            2202.0,
+            "the Celtic"
+        ],
+        "526": [
+            2202.0,
+            2204.0,
+            "Marcelo looks for others behind for Kovacic."
+        ],
+        "527": [
+            2204.0,
+            2206.0,
+            "Kovacic, Kroos, Sergio Ramos."
+        ],
+        "528": [
+            2206.0,
+            2208.0,
+            "Sergio Ramos for Luka Modric."
+        ],
+        "529": [
+            2208.0,
+            2210.0,
+            "If at any time the match"
+        ],
+        "530": [
+            2210.0,
+            2212.0,
+            "was in danger for Real Madrid"
+        ],
+        "531": [
+            2212.0,
+            2214.0,
+            "but moment for moments"
+        ],
+        "532": [
+            2214.0,
+            2216.0,
+            "and Madrid has had it for a while now"
+        ],
+        "533": [
+            2216.0,
+            2218.0,
+            "extraordinarily controlled."
+        ],
+        "534": [
+            2218.0,
+            2220.0,
+            "Really the end of the first half for Celta"
+        ],
+        "535": [
+            2220.0,
+            2222.0,
+            "If he had the feeling that he could tie."
+        ],
+        "536": [
+            2222.0,
+            2224.0,
+            "At the beginning of the second part and little else."
+        ],
+        "537": [
+            2224.0,
+            2226.0,
+            "There goes Karim Benzema with the ball."
+        ],
+        "538": [
+            2226.0,
+            2228.0,
+            "Karim Benzema in the center."
+        ],
+        "539": [
+            2228.0,
+            2230.0,
+            "Give the ball to Isco. He already asks for it in the Danilo band."
+        ],
+        "540": [
+            2230.0,
+            2232.0,
+            "Bad delivery from Isco. Joni cut the ball."
+        ],
+        "541": [
+            2232.0,
+            2234.0,
+            "Joni with the cello. He plays with Tuco Hernández."
+        ],
+        "542": [
+            2234.0,
+            2236.0,
+            "He touched the ball for..."
+        ],
+        "543": [
+            2236.0,
+            2238.0,
+            "In the Joni band."
+        ],
+        "544": [
+            2238.0,
+            2240.0,
+            "Vaz, but of course, at least there are few references above."
+        ],
+        "545": [
+            2240.0,
+            2242.0,
+            "And Deti playing on Joni's position."
+        ],
+        "546": [
+            2242.0,
+            2244.0,
+            "The Madrid that is going to win two championships."
+        ],
+        "547": [
+            2244.0,
+            2246.0,
+            "Ricardo and let's see if he gives Cristiano a rest"
+        ],
+        "548": [
+            2246.0,
+            2248.0,
+            "and avoid the possibility of him seeing the cardboard."
+        ],
+        "549": [
+            2248.0,
+            2250.0,
+            "Yes, in theory yes."
+        ],
+        "550": [
+            2250.0,
+            2252.0,
+            "Because it's Luka Vázquez and Marco Asensio"
+        ],
+        "551": [
+            2252.0,
+            2254.0,
+            "the players who are ready to enter"
+        ],
+        "552": [
+            2254.0,
+            2256.0,
+            "as soon as the game stops."
+        ],
+        "553": [
+            2256.0,
+            2258.0,
+            "With the ball Hugo Maño."
+        ],
+        "554": [
+            2258.0,
+            2260.0,
+            "Hugo Maño plays behind."
+        ],
+        "555": [
+            2260.0,
+            2262.0,
+            "Pape is going to play."
+        ],
+        "556": [
+            2262.0,
+            2264.0,
+            "Pape looking for Cabral in the center of the field."
+        ],
+        "557": [
+            2264.0,
+            2266.0,
+            "Cabral to the band for Joni."
+        ],
+        "558": [
+            2266.0,
+            2268.0,
+            "He is a good player."
+        ],
+        "559": [
+            2268.0,
+            2270.0,
+            "Goes to Cabral. Cabral to the band for Joni."
+        ],
+        "560": [
+            2270.0,
+            2272.0,
+            "Joni delivers on Guidetti."
+        ],
+        "561": [
+            2272.0,
+            2274.0,
+            "Guidetti-Joni."
+        ],
+        "562": [
+            2274.0,
+            2276.0,
+            "Joni is going to try it against three players"
+        ],
+        "563": [
+            2276.0,
+            2278.0,
+            "of Real Madrid. No one touched so"
+        ],
+        "564": [
+            2278.0,
+            2280.0,
+            "It will be a throw-in for Real Madrid."
+        ],
+        "565": [
+            2280.0,
+            2282.0,
+            "The replacement is going to take place."
+        ],
+        "566": [
+            2282.0,
+            2284.0,
+            "Now that double change is going to be made in the Real Madrid final."
+        ],
+        "567": [
+            2284.0,
+            2286.0,
+            "One of the players who is going to leave is Isco"
+        ],
+        "568": [
+            2286.0,
+            2288.0,
+            "which was also perceived. Also to give you rest"
+        ],
+        "569": [
+            2288.0,
+            2290.0,
+            "in these final minutes"
+        ],
+        "570": [
+            2290.0,
+            2292.0,
+            "that are left in the game and obviously also to avoid"
+        ],
+        "571": [
+            2292.0,
+            2294.0,
+            "that possibility of cardboard."
+        ],
+        "572": [
+            2294.0,
+            2296.0,
+            "And the other, Cristiano Ronaldo."
+        ],
+        "573": [
+            2296.0,
+            2298.0,
+            "Two goals tonight"
+        ],
+        "574": [
+            2298.0,
+            2300.0,
+            "for a total of 24"
+        ],
+        "575": [
+            2300.0,
+            2302.0,
+            "in the league championship."
+        ],
+        "576": [
+            2302.0,
+            2304.0,
+            "The Portuguese has scored seven goals no less in the last"
+        ],
+        "577": [
+            2304.0,
+            2306.0,
+            "four matches between Lucas Vázquez and Marc Aisco"
+        ],
+        "578": [
+            2306.0,
+            2308.0,
+            "hugged by his coach Zinedine Zidane."
+        ],
+        "579": [
+            2308.0,
+            2310.0,
+            "He does it calmly"
+        ],
+        "580": [
+            2310.0,
+            2312.0,
+            "to Cristiano Ronaldo."
+        ],
+        "581": [
+            2312.0,
+            2314.0,
+            "Marco Asensio is waiting to enter."
+        ],
+        "582": [
+            2314.0,
+            2316.0,
+            "There is the relief and the hug"
+        ],
+        "583": [
+            2316.0,
+            2318.0,
+            "between the two and also"
+        ],
+        "584": [
+            2318.0,
+            2320.0,
+            "congratulations from Chendo"
+        ],
+        "585": [
+            2320.0,
+            2322.0,
+            "and from Zinedine Zidane for Cristiano Ronaldo."
+        ],
+        "586": [
+            2322.0,
+            2324.0,
+            "It has literally been a hammer"
+        ],
+        "587": [
+            2324.0,
+            2326.0,
+            "for Cristiano Ronaldo."
+        ],
+        "588": [
+            2326.0,
+            2328.0,
+            "Beyond being a missed goal, that the player of his level"
+        ],
+        "589": [
+            2328.0,
+            2330.0,
+            "He intends for it to fail, but it was a hammer."
+        ],
+        "590": [
+            2330.0,
+            2332.0,
+            "Seven goals in four games"
+        ],
+        "591": [
+            2332.0,
+            2334.0,
+            "when the fish is being played."
+        ],
+        "592": [
+            2334.0,
+            2336.0,
+            "Yes, in tremendously important appointments too."
+        ],
+        "593": [
+            2336.0,
+            2338.0,
+            "Attention there to Sergio Ramos"
+        ],
+        "594": [
+            2338.0,
+            2340.0,
+            "that collides with Guidetti. That was what he needed."
+        ],
+        "595": [
+            2340.0,
+            2342.0,
+            "Yes, clearly. And the referee has not appreciated"
+        ],
+        "596": [
+            2342.0,
+            2344.0,
+            "the action. He touched the ball"
+        ],
+        "597": [
+            2344.0,
+            2346.0,
+            "to Real Madrid for departure. asks for it"
+        ],
+        "598": [
+            2346.0,
+            2348.0,
+            "Mateo Kovac and Marcelo Díaz has stolen."
+        ],
+        "599": [
+            2348.0,
+            2350.0,
+            "Attention at the exit. Sergio Ramos"
+        ],
+        "600": [
+            2350.0,
+            2352.0,
+            "manages to take that ball."
+        ],
+        "601": [
+            2352.0,
+            2354.0,
+            "And the ball is for Luka Modric. Attention to deployment"
+        ],
+        "602": [
+            2354.0,
+            2356.0,
+            "of Real Madrid that comes with more people than Celta."
+        ],
+        "603": [
+            2356.0,
+            2358.0,
+            "Play the ball."
+        ],
+        "604": [
+            2358.0,
+            2360.0,
+            "Be careful, they got involved there. Marcelo"
+        ],
+        "605": [
+            2360.0,
+            2362.0,
+            "with the game. Are"
+        ],
+        "606": [
+            2362.0,
+            2364.0,
+            "Madrid and Celta players fighting."
+        ],
+        "607": [
+            2364.0,
+            2366.0,
+            "The ball for Sergio"
+        ],
+        "608": [
+            2366.0,
+            2368.0,
+            "that avoids the both."
+        ],
+        "609": [
+            2368.0,
+            2370.0,
+            "Guidetti, Martelo and Sergio Ramos continue to fight."
+        ],
+        "610": [
+            2370.0,
+            2372.0,
+            "The anger."
+        ],
+        "611": [
+            2372.0,
+            2374.0,
+            "I hadn't seen it because..."
+        ],
+        "612": [
+            2374.0,
+            2376.0,
+            "I say that I had not seen it because logically it followed the play."
+        ],
+        "613": [
+            2376.0,
+            2378.0,
+            "Now you've realized it."
+        ],
+        "614": [
+            2378.0,
+            2380.0,
+            "I think Ramos was stung by"
+        ],
+        "615": [
+            2380.0,
+            2382.0,
+            "the tuco I think it has been."
+        ],
+        "616": [
+            2382.0,
+            2384.0,
+            "With tuco Hernández."
+        ],
+        "617": [
+            2384.0,
+            2386.0,
+            "Sergio understands that the tuco"
+        ],
+        "618": [
+            2386.0,
+            2388.0,
+            "Hernández leaves him his leg."
+        ],
+        "619": [
+            2388.0,
+            2390.0,
+            "Tuco Hernández says no way."
+        ],
+        "620": [
+            2390.0,
+            2392.0,
+            "And there they began to bite in such a way that"
+        ],
+        "621": [
+            2392.0,
+            2394.0,
+            "They have ended badly."
+        ],
+        "622": [
+            2394.0,
+            2396.0,
+            "Very badly."
+        ],
+        "623": [
+            2398.0,
+            2400.0,
+            "It's on the back"
+        ],
+        "624": [
+            2400.0,
+            2402.0,
+            "Sergio Ramos who claims him"
+        ],
+        "625": [
+            2402.0,
+            2404.0,
+            "Tuco Hernández. Tuco Hernández who is not a girl."
+        ],
+        "626": [
+            2404.0,
+            2406.0,
+            "Marcelo who gets in the middle."
+        ],
+        "627": [
+            2406.0,
+            2408.0,
+            "I think Sergio is wrong because it seems to me"
+        ],
+        "628": [
+            2408.0,
+            2410.0,
+            "that Tuco Hernández has not done anything that is not"
+        ],
+        "629": [
+            2410.0,
+            2412.0,
+            "try to fight that wig."
+        ],
+        "630": [
+            2412.0,
+            2414.0,
+            "And then with those gestures you can play"
+        ],
+        "631": [
+            2414.0,
+            2416.0,
+            "the excursion too."
+        ],
+        "632": [
+            2416.0,
+            2418.0,
+            "From there anything can happen."
+        ],
+        "633": [
+            2418.0,
+            2420.0,
+            "Of course."
+        ],
+        "634": [
+            2422.0,
+            2424.0,
+            "What hasn't happened in the second half."
+        ],
+        "635": [
+            2424.0,
+            2426.0,
+            "We have seen everything. Goals,"
+        ],
+        "636": [
+            2426.0,
+            2428.0,
+            "fights, penalties,"
+        ],
+        "637": [
+            2428.0,
+            2430.0,
+            "excursions. Cristiano's failure"
+        ],
+        "638": [
+            2430.0,
+            2432.0,
+            "the thing is..."
+        ],
+        "639": [
+            2432.0,
+            2434.0,
+            "There have also been changes at Celta. Guidetti has left"
+        ],
+        "640": [
+            2434.0,
+            2436.0,
+            "who was also trying to put peace in that tribe"
+        ],
+        "641": [
+            2436.0,
+            2438.0,
+            "and has entered the tuco."
+        ],
+        "642": [
+            2438.0,
+            2440.0,
+            "And Sergio Ramos has entered the locker room for the last minutes of the game."
+        ],
+        "643": [
+            2440.0,
+            2442.0,
+            "Another one who hasn't had his day."
+        ],
+        "644": [
+            2442.0,
+            2444.0,
+            "Even though he scored that goal, but he left"
+        ],
+        "645": [
+            2444.0,
+            2446.0,
+            "Quite disappointing for his fans."
+        ],
+        "646": [
+            2446.0,
+            2448.0,
+            "Complicated match for the scorer"
+        ],
+        "647": [
+            2448.0,
+            2450.0,
+            "the truth."
+        ],
+        "648": [
+            2450.0,
+            2452.0,
+            "And he is saving it as best he can."
+        ],
+        "649": [
+            2452.0,
+            2454.0,
+            "Karim Benzema plays the ball."
+        ],
+        "650": [
+            2454.0,
+            2456.0,
+            "Karim Benzema delivers towards the band."
+        ],
+        "651": [
+            2456.0,
+            2458.0,
+            "The tensions of the end of the championship."
+        ],
+        "652": [
+            2458.0,
+            2460.0,
+            "Lucas Bache plays."
+        ],
+        "653": [
+            2460.0,
+            2462.0,
+            "In Modri ​​perfect. Lucas Bache."
+        ],
+        "654": [
+            2462.0,
+            2464.0,
+            "Sergio arrives."
+        ],
+        "655": [
+            2464.0,
+            2466.0,
+            "And Evita's goal."
+        ],
+        "656": [
+            2466.0,
+            2468.0,
+            "Lucas Bache's hit into the net."
+        ],
+        "657": [
+            2468.0,
+            2470.0,
+            "Sergio is saving an important win."
+        ],
+        "658": [
+            2470.0,
+            2472.0,
+            "Right now in the last quarter of an hour."
+        ],
+        "659": [
+            2472.0,
+            2474.0,
+            "Spectacularly"
+        ],
+        "660": [
+            2474.0,
+            2476.0,
+            "clear for Real Madrid."
+        ],
+        "661": [
+            2476.0,
+            2478.0,
+            "Sergio Ramos."
+        ],
+        "662": [
+            2478.0,
+            2480.0,
+            "Playing in front of Pape."
+        ],
+        "663": [
+            2480.0,
+            2482.0,
+            "Delivering the ball to Rafa Elvara."
+        ],
+        "664": [
+            2482.0,
+            2484.0,
+            "Mateo Kovacic."
+        ],
+        "665": [
+            2484.0,
+            2486.0,
+            "The Madrid that is taking a giant step in the championship"
+        ],
+        "666": [
+            2486.0,
+            2488.0,
+            "to seek the title because this victory"
+        ],
+        "667": [
+            2488.0,
+            2490.0,
+            "here live it seems already"
+        ],
+        "668": [
+            2490.0,
+            2492.0,
+            "completely unappealable."
+        ],
+        "669": [
+            2492.0,
+            2494.0,
+            "The three points they give you, well,"
+        ],
+        "670": [
+            2494.0,
+            2496.0,
+            "among other things the possibility that with a"
+        ],
+        "671": [
+            2496.0,
+            2498.0,
+            "A simple draw in Malaga will do."
+        ],
+        "672": [
+            2498.0,
+            2500.0,
+            "Another thing is"
+        ],
+        "673": [
+            2500.0,
+            2502.0,
+            "that you don't have to"
+        ],
+        "674": [
+            2502.0,
+            2504.0,
+            "suffer that tie in Malaga, but"
+        ],
+        "675": [
+            2504.0,
+            2506.0,
+            "obviously this victory here"
+        ],
+        "676": [
+            2506.0,
+            2508.0,
+            "in Balaidos it is a victory"
+        ],
+        "677": [
+            2508.0,
+            2510.0,
+            "transcendent, important"
+        ],
+        "678": [
+            2510.0,
+            2512.0,
+            "and very calm for the team"
+        ],
+        "679": [
+            2512.0,
+            2514.0,
+            "by Stinevitzidad. Karim Benzema plays."
+        ],
+        "680": [
+            2514.0,
+            2516.0,
+            "Look for Sergio Ramos."
+        ],
+        "681": [
+            2516.0,
+            2518.0,
+            "Enter Sergio Ramos. He falls and crashes"
+        ],
+        "682": [
+            2518.0,
+            2520.0,
+            "with Roncani missing."
+        ],
+        "683": [
+            2520.0,
+            2522.0,
+            "It also has things. In that second half"
+        ],
+        "684": [
+            2522.0,
+            2524.0,
+            "Madrid has managed the situation"
+        ],
+        "685": [
+            2524.0,
+            2526.0,
+            "good."
+        ],
+        "686": [
+            2528.0,
+            2530.0,
+            "Roncani there with his arm high up."
+        ],
+        "687": [
+            2530.0,
+            2532.0,
+            "Now it seems to me that"
+        ],
+        "688": [
+            2532.0,
+            2534.0,
+            "Sergio Ramos had much more reasons"
+        ],
+        "689": [
+            2534.0,
+            2536.0,
+            "to complain"
+        ],
+        "690": [
+            2536.0,
+            2538.0,
+            "of Roncani's action."
+        ],
+        "691": [
+            2538.0,
+            2540.0,
+            "Play the ball to Real Madrid."
+        ],
+        "692": [
+            2540.0,
+            2542.0,
+            "The ball for Karim Benzema."
+        ],
+        "693": [
+            2542.0,
+            2544.0,
+            "Trying to go through the center. Joni's help comes."
+        ],
+        "694": [
+            2544.0,
+            2546.0,
+            "Joni plays. Roncani"
+        ],
+        "695": [
+            2546.0,
+            2548.0,
+            "is done with the ball."
+        ],
+        "696": [
+            2548.0,
+            2550.0,
+            "Marcos Asensio. It's Karim Benzema's turn."
+        ],
+        "697": [
+            2550.0,
+            2552.0,
+            "Goal."
+        ],
+        "698": [
+            2554.0,
+            2556.0,
+            "Real Madrid's room"
+        ],
+        "699": [
+            2556.0,
+            2558.0,
+            "if he was not calm. The Stinevitzidad team"
+        ],
+        "700": [
+            2558.0,
+            2560.0,
+            "It completely is."
+        ],
+        "701": [
+            2560.0,
+            2562.0,
+            "Now the fourth is the goal"
+        ],
+        "702": [
+            2562.0,
+            2564.0,
+            "by Toni Kroos"
+        ],
+        "703": [
+            2564.0,
+            2566.0,
+            "and the three points are"
+        ],
+        "704": [
+            2566.0,
+            2568.0,
+            "very very very"
+        ],
+        "705": [
+            2568.0,
+            2570.0,
+            "important for Real Madrid."
+        ],
+        "706": [
+            2570.0,
+            2572.0,
+            "He finished it with a lot of class."
+        ],
+        "707": [
+            2572.0,
+            2574.0,
+            "And Benzema is very hungry at the end of the season."
+        ],
+        "708": [
+            2574.0,
+            2576.0,
+            "Notice that he is the one who recovers the ball. The match was already resolved."
+        ],
+        "709": [
+            2576.0,
+            2578.0,
+            "He is the one who recovers the ball."
+        ],
+        "710": [
+            2578.0,
+            2580.0,
+            "He makes the initial play."
+        ],
+        "711": [
+            2580.0,
+            2582.0,
+            "Marcos Asensio puts his foot in."
+        ],
+        "712": [
+            2582.0,
+            2584.0,
+            "And then Karim Benzema enables"
+        ],
+        "713": [
+            2584.0,
+            2586.0,
+            "Toni Kroos who solves with that class"
+        ],
+        "714": [
+            2586.0,
+            2588.0,
+            "to go kill Hugo Mayo on the ground"
+        ],
+        "715": [
+            2588.0,
+            2590.0,
+            "and change the idea"
+        ],
+        "716": [
+            2590.0,
+            2592.0,
+            "to Sergio."
+        ],
+        "717": [
+            2592.0,
+            2594.0,
+            "Leaving him on the wrong foot and marking"
+        ],
+        "718": [
+            2594.0,
+            2596.0,
+            "fourth. The goal"
+        ],
+        "719": [
+            2596.0,
+            2598.0,
+            "if you already had"
+        ],
+        "720": [
+            2598.0,
+            2600.0,
+            "calm with one, three, with one, four, obviously"
+        ],
+        "721": [
+            2600.0,
+            2602.0,
+            "further. Barely"
+        ],
+        "722": [
+            2602.0,
+            2604.0,
+            "a minute and a half to finish"
+        ],
+        "723": [
+            2604.0,
+            2606.0,
+            "the regulatory time."
+        ],
+        "724": [
+            2606.0,
+            2608.0,
+            "And it doesn't matter to me that Martínez Monura goes"
+        ],
+        "725": [
+            2608.0,
+            2610.0,
+            "to discount too much."
+        ],
+        "726": [
+            2610.0,
+            2612.0,
+            "play the ball"
+        ],
+        "727": [
+            2612.0,
+            2614.0,
+            "above. I'm not saying this for anything other than"
+        ],
+        "728": [
+            2614.0,
+            2616.0,
+            "because I don't think I'm enjoying it"
+        ],
+        "729": [
+            2616.0,
+            2618.0,
+            "at the match."
+        ],
+        "730": [
+            2618.0,
+            2620.0,
+            "It is complicated from the point of view of decisions"
+        ],
+        "731": [
+            2620.0,
+            2622.0,
+            "and the players have not put it on at all."
+        ],
+        "732": [
+            2622.0,
+            2624.0,
+            "Makes a nightmare for him"
+        ],
+        "733": [
+            2624.0,
+            2626.0,
+            "referee in that sense."
+        ],
+        "734": [
+            2626.0,
+            2628.0,
+            "Real Madrid with the ball."
+        ],
+        "735": [
+            2628.0,
+            2630.0,
+            "Marcelo plays. Marcelo delivers."
+        ],
+        "736": [
+            2630.0,
+            2632.0,
+            "For Marco Asensio. Marco Asensio returns"
+        ],
+        "737": [
+            2632.0,
+            2634.0,
+            "the match."
+        ],
+        "738": [
+            2634.0,
+            2636.0,
+            "Marcelo heeled."
+        ],
+        "739": [
+            2636.0,
+            2638.0,
+            "Carim Benzema."
+        ],
+        "740": [
+            2638.0,
+            2640.0,
+            "Marcos Asensio."
+        ],
+        "741": [
+            2640.0,
+            2642.0,
+            "Marco Asensio stands out."
+        ],
+        "742": [
+            2642.0,
+            2644.0,
+            "Lucas Bages on the other side."
+        ],
+        "743": [
+            2644.0,
+            2646.0,
+            "Marco Asensio to hang the shirt"
+        ],
+        "744": [
+            2646.0,
+            2648.0,
+            "corner."
+        ],
+        "745": [
+            2648.0,
+            2650.0,
+            "Celta is making it eternal"
+        ],
+        "746": [
+            2650.0,
+            2652.0,
+            "this final stretch."
+        ],
+        "747": [
+            2652.0,
+            2654.0,
+            "Not to the public."
+        ],
+        "748": [
+            2654.0,
+            2656.0,
+            "Ricardo, because he has decided to forget about the game"
+        ],
+        "749": [
+            2656.0,
+            2658.0,
+            "and celebrate a season"
+        ],
+        "750": [
+            2658.0,
+            2660.0,
+            "that out of obvious disappointment"
+        ],
+        "751": [
+            2660.0,
+            2662.0,
+            "of having been left out of the Europa League"
+        ],
+        "752": [
+            2662.0,
+            2664.0,
+            "the way it also stayed"
+        ],
+        "753": [
+            2664.0,
+            2666.0,
+            "the Toto Berizzo team."
+        ],
+        "754": [
+            2666.0,
+            2668.0,
+            "It has to be a season"
+        ],
+        "755": [
+            2668.0,
+            2670.0,
+            "with good taste, but the Vigo fans."
+        ],
+        "756": [
+            2670.0,
+            2672.0,
+            "That's what they're celebrating in Balaidos."
+        ],
+        "757": [
+            2672.0,
+            2674.0,
+            "He has been a Copa del Rey semi-finalist."
+        ],
+        "758": [
+            2674.0,
+            2676.0,
+            "He has been a semi-finalist in the Europa League"
+        ],
+        "759": [
+            2676.0,
+            2678.0,
+            "with options until the last minute"
+        ],
+        "760": [
+            2678.0,
+            2680.0,
+            "against Manchester United. Evidently"
+        ],
+        "761": [
+            2680.0,
+            2682.0,
+            "that made him fall off"
+        ],
+        "762": [
+            2682.0,
+            2684.0,
+            "something in this final phase of the league."
+        ],
+        "763": [
+            2684.0,
+            2686.0,
+            "It will be the sixth consecutive defeat"
+        ],
+        "764": [
+            2686.0,
+            2688.0,
+            "in the championship, but obviously what weighs"
+        ],
+        "765": [
+            2688.0,
+            2690.0,
+            "It's the season and the game of Real Club Celta"
+        ],
+        "766": [
+            2690.0,
+            2692.0,
+            "from Vigo and his fans are thanking him for it."
+        ]
+    }
+}

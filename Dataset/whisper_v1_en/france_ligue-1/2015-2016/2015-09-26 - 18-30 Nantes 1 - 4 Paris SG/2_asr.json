@@ -1,0 +1,2744 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            4.0,
+            "Nothing works out in this meeting."
+        ],
+        "1": [
+            4.0,
+            6.0,
+            "For now, at least, that's how it was."
+        ],
+        "2": [
+            6.0,
+            8.0,
+            "We'll see what happens next."
+        ],
+        "3": [
+            10.0,
+            12.0,
+            "This, in fact, is the first attack on Reisingerman."
+        ],
+        "4": [
+            12.0,
+            16.0,
+            "The ball was addressed to Zolotov, but the goalkeeper beat him to it."
+        ],
+        "5": [
+            16.0,
+            19.0,
+            "We start right away with the composition of the teams."
+        ],
+        "6": [
+            19.0,
+            22.0,
+            "Remmy Rioux defends the Nantes goal."
+        ],
+        "7": [
+            22.0,
+            26.0,
+            "The first room in the center of Oscar Viscarondo."
+        ],
+        "8": [
+            26.0,
+            29.0,
+            "Lorik Cana is fourth and fifth in the center of defense."
+        ],
+        "9": [
+            29.0,
+            35.0,
+            "On the left is number thirteen Wilfried Moimbe."
+        ],
+        "10": [
+            35.0,
+            45.0,
+            "On the right is number fifteen Leo Dubois."
+        ],
+        "11": [
+            45.0,
+            52.0,
+            "Biram Toure's middle line."
+        ],
+        "12": [
+            52.0,
+            54.0,
+            "Number twelve."
+        ],
+        "13": [
+            54.0,
+            58.0,
+            "The third Ermir Legnani."
+        ],
+        "14": [
+            59.0,
+            68.0,
+            "Alecandro Bidoya's number seven."
+        ],
+        "15": [
+            68.0,
+            77.0,
+            "Jules Iloki number twenty and twenty-eight Valentin Rongier."
+        ],
+        "16": [
+            77.0,
+            81.0,
+            "Well, in Nantes’ attack, in general, he can be considered the only forward,"
+        ],
+        "17": [
+            81.0,
+            82.0,
+            "Yasin Bamu."
+        ],
+        "18": [
+            82.0,
+            84.0,
+            "Number ten."
+        ],
+        "19": [
+            89.0,
+            98.0,
+            "All the best forces are thrown by head coach Michel Derzakaryan."
+        ],
+        "20": [
+            98.0,
+            106.0,
+            "Nantes, as I said, is at the bottom of the tournament."
+        ],
+        "21": [
+            106.0,
+            110.0,
+            "Mikabritsa is now in seventeenth place in the tournament."
+        ],
+        "22": [
+            110.0,
+            118.0,
+            "And, of course, he wants to rise higher."
+        ],
+        "23": [
+            125.0,
+            128.0,
+            "Now he's kicking the ball out of bounds."
+        ],
+        "24": [
+            128.0,
+            135.0,
+            "Nantes player. Here is Ibrahimovic."
+        ],
+        "25": [
+            135.0,
+            140.0,
+            "And does the referee defend the goal? Yes. One-one."
+        ],
+        "26": [
+            140.0,
+            143.0,
+            "Zlatan Ibrahimovic."
+        ],
+        "27": [
+            143.0,
+            146.0,
+            "Wilfried Moinbe."
+        ],
+        "28": [
+            146.0,
+            149.0,
+            "Just like that, he knocked the ball out of bounds."
+        ],
+        "29": [
+            149.0,
+            153.0,
+            "Apparently, thinking that Paris Engermain would not be able to quickly create a dangerous moment."
+        ],
+        "30": [
+            154.0,
+            158.0,
+            "However, they created it."
+        ],
+        "31": [
+            160.0,
+            166.0,
+            "And Angel De Maria's blow hit the defender."
+        ],
+        "32": [
+            166.0,
+            169.0,
+            "And Ibrahimovic finished off into an empty net."
+        ],
+        "33": [
+            169.0,
+            176.0,
+            "Because Remiriu threw himself under the first blow and simply did not have time to get up."
+        ],
+        "34": [
+            176.0,
+            179.0,
+            " One one."
+        ],
+        "35": [
+            180.0,
+            183.0,
+            "Paris Engermain equalizes the score."
+        ],
+        "36": [
+            183.0,
+            185.0,
+            "And Zlatan Ibrahimovic does it."
+        ],
+        "37": [
+            185.0,
+            187.0,
+            "Composition of the Parisian team."
+        ],
+        "38": [
+            187.0,
+            191.0,
+            "Kevin Trap defends the goal. Number 16 in the center of defense."
+        ],
+        "39": [
+            191.0,
+            194.0,
+            "The fifth is Marquinhos and the second is Thiago Silva."
+        ],
+        "40": [
+            194.0,
+            197.0,
+            "On the left is Levin Kurzawa, number 20."
+        ],
+        "41": [
+            197.0,
+            199.0,
+            "On the right is Sergei Zhirye, 19."
+        ],
+        "42": [
+            199.0,
+            203.0,
+            "In midfield is Marco Verati, number 6."
+        ],
+        "43": [
+            205.0,
+            208.0,
+            "Benjamin Stambouli, number 4."
+        ],
+        "44": [
+            208.0,
+            210.0,
+            "Haver Pastoro, 27."
+        ],
+        "45": [
+            210.0,
+            212.0,
+            "Attack group."
+        ],
+        "46": [
+            212.0,
+            213.0,
+            "Lucas, number 7."
+        ],
+        "47": [
+            213.0,
+            215.0,
+            "Zlatan Ibrahimovic, 10."
+        ],
+        "48": [
+            215.0,
+            217.0,
+            "Angel De Maria, 11."
+        ],
+        "49": [
+            217.0,
+            220.0,
+            "Edinson Cavani is on the bench for now."
+        ],
+        "50": [
+            220.0,
+            222.0,
+            "But we saw that he had already started warming up."
+        ],
+        "51": [
+            222.0,
+            225.0,
+            "So it is quite possible that he will appear on the field soon."
+        ],
+        "52": [
+            225.0,
+            228.0,
+            "Now this goal is very important for Paris Engermain."
+        ],
+        "53": [
+            228.0,
+            230.0,
+            "This will give you confidence too."
+        ],
+        "54": [
+            230.0,
+            233.0,
+            "And most importantly, put your opponent in his place."
+        ],
+        "55": [
+            234.0,
+            239.0,
+            "Nantes, in general, I think that right now he doesn’t really understand what to do."
+        ],
+        "56": [
+            239.0,
+            242.0,
+            "How to continue playing because they were holding the score 1-0."
+        ],
+        "57": [
+            242.0,
+            245.0,
+            "We handled it very well in the first half."
+        ],
+        "58": [
+            245.0,
+            246.0,
+            "Very confident."
+        ],
+        "59": [
+            246.0,
+            247.0,
+            "And now the score is 1-1."
+        ],
+        "60": [
+            247.0,
+            250.0,
+            "And it seems like you are in the starting positions."
+        ],
+        "61": [
+            250.0,
+            252.0,
+            "Everything is the same as before the game."
+        ],
+        "62": [
+            252.0,
+            257.0,
+            "But how can you force yourself to play attacking football with Paris Engermain?"
+        ],
+        "63": [
+            257.0,
+            259.0,
+            "Here it is, putting the ball in play."
+        ],
+        "64": [
+            259.0,
+            260.0,
+            " Fast."
+        ],
+        "65": [
+            260.0,
+            262.0,
+            "And everything was done perfectly."
+        ],
+        "66": [
+            262.0,
+            264.0,
+            "27 rooms of Hawera by the side."
+        ],
+        "67": [
+            264.0,
+            268.0,
+            "And we note here because he did not delay the development of the attack."
+        ],
+        "68": [
+            268.0,
+            271.0,
+            "I immediately sent the ball into the penalty area."
+        ],
+        "69": [
+            271.0,
+            273.0,
+            "And in the end it all ends with a Zlatan goal."
+        ],
+        "70": [
+            276.0,
+            279.0,
+            "I hope these people are watching Spartak-Zenit."
+        ],
+        "71": [
+            279.0,
+            282.0,
+            "Since they're not looking at the football field."
+        ],
+        "72": [
+            285.0,
+            291.0,
+            "If they’re not interested, it means they probably found something more interesting in their smartphone."
+        ],
+        "73": [
+            291.0,
+            292.0,
+            "Kevin Trap."
+        ],
+        "74": [
+            293.0,
+            299.0,
+            "Let's just say that so far the reviews of his game are quite comparative."
+        ],
+        "75": [
+            299.0,
+            306.0,
+            "We saw a match where Kevin Trap deprived his team of points."
+        ],
+        "76": [
+            306.0,
+            308.0,
+            "There was a game with Bordeaux."
+        ],
+        "77": [
+            308.0,
+            312.0,
+            "But Varan Blanc still trusts him."
+        ],
+        "78": [
+            312.0,
+            314.0,
+            "Salvatore Serigu is in the reserves."
+        ],
+        "79": [
+            314.0,
+            319.0,
+            "And Kevin Trap is the main goalkeeper in the attack by Paris Engermain."
+        ],
+        "80": [
+            321.0,
+            323.0,
+            "I didn’t get to Zlatan, it seems."
+        ],
+        "81": [
+            324.0,
+            333.0,
+            "It is clear that there is no need to talk about the status of number one in the German national team while Manuel Neuer is alive and well."
+        ],
+        "82": [
+            333.0,
+            339.0,
+            "But Kevin Trap may be the player who gets called up there at least."
+        ],
+        "83": [
+            340.0,
+            345.0,
+            "Just like Marc-Andre Terstegen, who is defending Barcelona's goal now."
+        ],
+        "84": [
+            346.0,
+            351.0,
+            "Nants shrank and shrank."
+        ],
+        "85": [
+            351.0,
+            357.0,
+            "He’s not even trying to fight for the ball at this moment."
+        ],
+        "86": [
+            357.0,
+            359.0,
+            "Only Aurier is fighting back."
+        ],
+        "87": [
+            359.0,
+            361.0,
+            "There will be a serve into the penalty area and a corner."
+        ],
+        "88": [
+            364.0,
+            368.0,
+            "Viscaronda knocked the ball out of bounds."
+        ],
+        "89": [
+            376.0,
+            382.0,
+            "Lucas will serve."
+        ],
+        "90": [
+            385.0,
+            388.0,
+            "Such a low pitch."
+        ],
+        "91": [
+            388.0,
+            392.0,
+            "Not very good for hitting your head."
+        ],
+        "92": [
+            392.0,
+            394.0,
+            "But Paris Engermain stays with the ball."
+        ],
+        "93": [
+            394.0,
+            396.0,
+            "Zlatan is on the right flank."
+        ],
+        "94": [
+            396.0,
+            398.0,
+            "I think that's what he wanted to do."
+        ],
+        "95": [
+            398.0,
+            404.0,
+            "Realizing that it will not be possible to escalate the situation, Zlatan Ibrahimovic earns another corner."
+        ],
+        "96": [
+            404.0,
+            411.0,
+            "The 52nd minute ends."
+        ],
+        "97": [
+            411.0,
+            413.0,
+            "1-1."
+        ],
+        "98": [
+            413.0,
+            416.0,
+            "Zlatan responded to Essin Bamu's goal."
+        ],
+        "99": [
+            416.0,
+            419.0,
+            "Paris Engermain scored in the first half now."
+        ],
+        "100": [
+            419.0,
+            424.0,
+            "I think that he will try to score more against Nantes in the next 10-15 minutes."
+        ],
+        "101": [
+            424.0,
+            426.0,
+            "Everything is going that way."
+        ],
+        "102": [
+            426.0,
+            428.0,
+            "Pulling force back."
+        ],
+        "103": [
+            428.0,
+            430.0,
+            "Verati."
+        ],
+        "104": [
+            431.0,
+            436.0,
+            "We need to launch Paris Engermain's attack on the other flank."
+        ],
+        "105": [
+            436.0,
+            438.0,
+            "Marquinho with the ball."
+        ],
+        "106": [
+            438.0,
+            440.0,
+            "A pull of power again."
+        ],
+        "107": [
+            440.0,
+            447.0,
+            "Laurent Blanc suggests something there, directly pointing even to a specific segment of the field."
+        ],
+        "108": [
+            460.0,
+            462.0,
+            "The hosts intercepted the ball."
+        ],
+        "109": [
+            462.0,
+            464.0,
+            "Bamu."
+        ],
+        "110": [
+            464.0,
+            468.0,
+            "No, it's not Bamu, it's number 20."
+        ],
+        "111": [
+            470.0,
+            472.0,
+            "Julie Loki."
+        ],
+        "112": [
+            476.0,
+            480.0,
+            "And now the out is in favor of Nantes."
+        ],
+        "113": [
+            480.0,
+            490.0,
+            "Paris Engermain is fighting back very calmly here."
+        ],
+        "114": [
+            490.0,
+            494.0,
+            "But look at the difference in the concentration of the players."
+        ],
+        "115": [
+            494.0,
+            498.0,
+            "Those that go on the attack near Paris are absolutely concentrated."
+        ],
+        "116": [
+            498.0,
+            500.0,
+            "They fly for every ball."
+        ],
+        "117": [
+            500.0,
+            502.0,
+            "The Nantes players just stand and wait."
+        ],
+        "118": [
+            502.0,
+            504.0,
+            "But this is Michelle Darzakarian."
+        ],
+        "119": [
+            504.0,
+            507.0,
+            "Naturally, we remember how he played football."
+        ],
+        "120": [
+            511.0,
+            516.0,
+            "Well, he reminds us of this now."
+        ],
+        "121": [
+            519.0,
+            521.0,
+            "Verati."
+        ],
+        "122": [
+            521.0,
+            523.0,
+            "Spicy."
+        ],
+        "123": [
+            523.0,
+            525.0,
+            "Verati. There was a violation of the rules."
+        ],
+        "124": [
+            525.0,
+            527.0,
+            "And the referee fixes it."
+        ],
+        "125": [
+            527.0,
+            529.0,
+            "It may be a little delayed, but it fixes it."
+        ],
+        "126": [
+            529.0,
+            535.0,
+            "Verati now risks receiving a yellow card under modern rules."
+        ],
+        "127": [
+            535.0,
+            538.0,
+            "And according to modern recommendations, the referee must react to this."
+        ],
+        "128": [
+            538.0,
+            541.0,
+            "Verati is begging for a card for an opponent."
+        ],
+        "129": [
+            541.0,
+            543.0,
+            "And he himself should be punished for this."
+        ],
+        "130": [
+            543.0,
+            546.0,
+            "But I felt sorry for him."
+        ],
+        "131": [
+            550.0,
+            552.0,
+            "The judge of today's meeting."
+        ],
+        "132": [
+            552.0,
+            556.0,
+            "This is Mr. Delhi Ryu."
+        ],
+        "133": [
+            560.0,
+            562.0,
+            "Amari Delhi Ryu."
+        ],
+        "134": [
+            562.0,
+            564.0,
+            "38-year-old referee."
+        ],
+        "135": [
+            565.0,
+            567.0,
+            "Parisian Germain on the attack."
+        ],
+        "136": [
+            569.0,
+            571.0,
+            "Feed into the penalty area."
+        ],
+        "137": [
+            571.0,
+            573.0,
+            "But it's at the bottom."
+        ],
+        "138": [
+            573.0,
+            577.0,
+            "This is all much more convenient for defenders than for attackers."
+        ],
+        "139": [
+            580.0,
+            582.0,
+            "I think another 5-6 minutes will pass."
+        ],
+        "140": [
+            582.0,
+            585.0,
+            "And Laurent Blanc will probably come into the game with some kind of replacement."
+        ],
+        "141": [
+            585.0,
+            589.0,
+            "Still, he has such a constellation of players on the bench."
+        ],
+        "142": [
+            589.0,
+            593.0,
+            "And first of all, of course, I’m talking about forging and weight."
+        ],
+        "143": [
+            593.0,
+            595.0,
+            "Don't increase your attack."
+        ],
+        "144": [
+            595.0,
+            596.0,
+            "That would be weird."
+        ],
+        "145": [
+            596.0,
+            598.0,
+            "But it's Caverati with the ball."
+        ],
+        "146": [
+            600.0,
+            602.0,
+            "Markinish."
+        ],
+        "147": [
+            603.0,
+            605.0,
+            "Lovesi."
+        ],
+        "148": [
+            605.0,
+            607.0,
+            "Pastore, I apologize."
+        ],
+        "149": [
+            607.0,
+            608.0,
+            "Lovesi on the bench."
+        ],
+        "150": [
+            608.0,
+            610.0,
+            "Number 27."
+        ],
+        "151": [
+            610.0,
+            613.0,
+            "Aver Pastore. Transfer to the left."
+        ],
+        "152": [
+            615.0,
+            617.0,
+            "Feed."
+        ],
+        "153": [
+            617.0,
+            619.0,
+            "Taller than Zlatan."
+        ],
+        "154": [
+            619.0,
+            621.0,
+            "The ball flies."
+        ],
+        "155": [
+            622.0,
+            624.0,
+            "But what is this?"
+        ],
+        "156": [
+            625.0,
+            627.0,
+            "You are not my brother."
+        ],
+        "157": [
+            628.0,
+            631.0,
+            "Brahimovich wanted to apologize to his opponent."
+        ],
+        "158": [
+            631.0,
+            634.0,
+            "He didn't care about it."
+        ],
+        "159": [
+            637.0,
+            639.0,
+            "Moinbe."
+        ],
+        "160": [
+            641.0,
+            643.0,
+            " Like this."
+        ],
+        "161": [
+            648.0,
+            653.0,
+            "To the next collection of all sorts of cuts."
+        ],
+        "162": [
+            654.0,
+            657.0,
+            "Performed by Zlatan Brahimovic."
+        ],
+        "163": [
+            657.0,
+            660.0,
+            "I think many people have read his book."
+        ],
+        "164": [
+            660.0,
+            664.0,
+            "Which I published translated from the Sports.ru website."
+        ],
+        "165": [
+            664.0,
+            669.0,
+            "My personal favorite story is about Zlatan."
+        ],
+        "166": [
+            669.0,
+            672.0,
+            "Applies to the play-off matches between the national teams of Sweden and Portugal."
+        ],
+        "167": [
+            672.0,
+            675.0,
+            "For the right to play at the World Cup in Brazil."
+        ],
+        "168": [
+            675.0,
+            679.0,
+            "And they asked Zlatan what the chances were."
+        ],
+        "169": [
+            680.0,
+            691.0,
+            "And he said, maybe we should ask the Lord God what the chances are."
+        ],
+        "170": [
+            691.0,
+            693.0,
+            "The journalist said it would be difficult to do this."
+        ],
+        "171": [
+            693.0,
+            695.0,
+            "To which Zlatan retorted."
+        ],
+        "172": [
+            695.0,
+            697.0,
+            "You're communicating with him right now."
+        ],
+        "173": [
+            698.0,
+            702.0,
+            "Well, that's the kind of person Zlatan Ibrahimovic is."
+        ],
+        "174": [
+            702.0,
+            705.0,
+            "There was a violation. They pushed him in the back."
+        ],
+        "175": [
+            705.0,
+            707.0,
+            "Pushed, pushed."
+        ],
+        "176": [
+            707.0,
+            709.0,
+            "Viskaronda."
+        ],
+        "177": [
+            709.0,
+            711.0,
+            "Now we'll see it on repeat. I think everything will be visible."
+        ],
+        "178": [
+            714.0,
+            716.0,
+            "Hand on your back."
+        ],
+        "179": [
+            716.0,
+            719.0,
+            "Zlatan, of course, we have to give him credit."
+        ],
+        "180": [
+            719.0,
+            724.0,
+            "The effect of this fall has also intensified."
+        ],
+        "181": [
+            728.0,
+            730.0,
+            "27 meters to the gate."
+        ],
+        "182": [
+            732.0,
+            734.0,
+            "From here, in general, you can hit."
+        ],
+        "183": [
+            734.0,
+            736.0,
+            "Zlatan himself is standing by the ball."
+        ],
+        "184": [
+            738.0,
+            740.0,
+            "I think Lucas is standing by the ball."
+        ],
+        "185": [
+            746.0,
+            749.0,
+            "This is Yasin Bomuv, author of Gou."
+        ],
+        "186": [
+            752.0,
+            755.0,
+            "Zlatan breaks through the wall."
+        ],
+        "187": [
+            755.0,
+            759.0,
+            "But the arbitrator somehow took a very liberal approach to the issue of installing the wall."
+        ],
+        "188": [
+            759.0,
+            762.0,
+            "Fpomi didn't have 9 meters there."
+        ],
+        "189": [
+            763.0,
+            765.0,
+            "She was much closer."
+        ],
+        "190": [
+            766.0,
+            768.0,
+            "Bomuv."
+        ],
+        "191": [
+            774.0,
+            776.0,
+            "Oh, Levin Kurzova."
+        ],
+        "192": [
+            777.0,
+            783.0,
+            "What a handsome guy. He didn't just take the ball, but also moved his team forward."
+        ],
+        "193": [
+            784.0,
+            786.0,
+            "Haver Pastore."
+        ],
+        "194": [
+            786.0,
+            788.0,
+            "They cut him off from the lich now."
+        ],
+        "195": [
+            795.0,
+            796.0,
+            "Verati."
+        ],
+        "196": [
+            818.0,
+            819.0,
+            "Lucas."
+        ],
+        "197": [
+            821.0,
+            822.0,
+            "Verati."
+        ],
+        "198": [
+            823.0,
+            825.0,
+            "Demaria. Pass to the far post."
+        ],
+        "199": [
+            827.0,
+            829.0,
+            "A partner has already come running."
+        ],
+        "200": [
+            832.0,
+            836.0,
+            "In order to close this Kurzov transmission."
+        ],
+        "201": [
+            837.0,
+            841.0,
+            "Parisin Germain gets a strategic advantage here, but only a corner."
+        ],
+        "202": [
+            842.0,
+            843.0,
+            "No more than that."
+        ],
+        "203": [
+            843.0,
+            846.0,
+            "Michelle Dezakkarian. Of course he's excited."
+        ],
+        "204": [
+            852.0,
+            853.0,
+            "The referee has passed."
+        ],
+        "205": [
+            866.0,
+            868.0,
+            "He'll talk to Dezakarian."
+        ],
+        "206": [
+            868.0,
+            873.0,
+            "Rioux knocks the ball out and luckily for Nantes it goes to his player."
+        ],
+        "207": [
+            874.0,
+            876.0,
+            "If someone else got it..."
+        ],
+        "208": [
+            889.0,
+            890.0,
+            "There would be problems."
+        ],
+        "209": [
+            895.0,
+            896.0,
+            "Demarya."
+        ],
+        "210": [
+            897.0,
+            898.0,
+            "Demarya."
+        ],
+        "211": [
+            899.0,
+            900.0,
+            "Demarya."
+        ],
+        "212": [
+            900.0,
+            901.0,
+            "Demarya."
+        ],
+        "213": [
+            931.0,
+            933.0,
+            "There was no violation of the rules."
+        ],
+        "214": [
+            935.0,
+            937.0,
+            "No, it still looks like the source has sounded."
+        ],
+        "215": [
+            938.0,
+            939.0,
+            "They just didn't hear him."
+        ],
+        "216": [
+            939.0,
+            942.0,
+            "Yes, the referee stopped the game."
+        ],
+        "217": [
+            944.0,
+            946.0,
+            "Well, he left. Indeed, the bows lived."
+        ],
+        "218": [
+            949.0,
+            950.0,
+            "Arbiter principal."
+        ],
+        "219": [
+            950.0,
+            951.0,
+            " How does this sound?"
+        ],
+        "220": [
+            951.0,
+            952.0,
+            "Here, let's look again."
+        ],
+        "221": [
+            953.0,
+            954.0,
+            "Oops."
+        ],
+        "222": [
+            960.0,
+            965.0,
+            "And the judge recorded this violation."
+        ],
+        "223": [
+            990.0,
+            1004.0,
+            "Well, this moment is once again for those who doubt that there was a violation of the rules."
+        ],
+        "224": [
+            1004.0,
+            1007.0,
+            "By the way, these are not bows, these are Berama Turre, number 12."
+        ],
+        "225": [
+            1008.0,
+            1009.0,
+            "He failed."
+        ],
+        "226": [
+            1012.0,
+            1013.0,
+            "62nd minute."
+        ],
+        "227": [
+            1014.0,
+            1021.0,
+            "In principle, the deadline that I spoke about in relation to Varan Bulan has already passed."
+        ],
+        "228": [
+            1031.0,
+            1032.0,
+            "Lucas is limping."
+        ],
+        "229": [
+            1044.0,
+            1045.0,
+            "Feed."
+        ],
+        "230": [
+            1046.0,
+            1047.0,
+            "Zlatan."
+        ],
+        "231": [
+            1047.0,
+            1048.0,
+            "Discount under attack."
+        ],
+        "232": [
+            1048.0,
+            1050.0,
+            "You can hit and you can even score."
+        ],
+        "233": [
+            1051.0,
+            1055.0,
+            "Oh my god, what did Lucas come up with now?"
+        ],
+        "234": [
+            1056.0,
+            1058.0,
+            "Who did he give this ball to?"
+        ],
+        "235": [
+            1058.0,
+            1060.0,
+            "He probably won’t even be able to explain it himself."
+        ],
+        "236": [
+            1061.0,
+            1063.0,
+            "Markinios is wrong."
+        ],
+        "237": [
+            1064.0,
+            1065.0,
+            "Nantes is under attack."
+        ],
+        "238": [
+            1067.0,
+            1068.0,
+            "Bomu."
+        ],
+        "239": [
+            1069.0,
+            1071.0,
+            "With the last of my strength I already delivered this blow."
+        ],
+        "240": [
+            1103.0,
+            1105.0,
+            "But in favor of Nantes there is a long forward pass."
+        ],
+        "241": [
+            1106.0,
+            1107.0,
+            "No, the goalkeeper will come out here calmly."
+        ],
+        "242": [
+            1107.0,
+            1108.0,
+            "Kevin Trap."
+        ],
+        "243": [
+            1116.0,
+            1117.0,
+            "He'll take that ball."
+        ],
+        "244": [
+            1118.0,
+            1120.0,
+            "Well, here he is, Edinson Cavani."
+        ],
+        "245": [
+            1124.0,
+            1131.0,
+            "They showed us Valdomar Quito, the president of Nantes."
+        ],
+        "246": [
+            1133.0,
+            1135.0,
+            "Well, Cavani instead of Demaria."
+        ],
+        "247": [
+            1138.0,
+            1140.0,
+            "That would be logical."
+        ],
+        "248": [
+            1141.0,
+            1144.0,
+            "Demaria's match is not going well today."
+        ],
+        "249": [
+            1145.0,
+            1147.0,
+            "In the second half you can't see him in the game at all."
+        ],
+        "250": [
+            1154.0,
+            1156.0,
+            "Well, there’s already number eight there."
+        ],
+        "251": [
+            1158.0,
+            1160.0,
+            "It's no longer clear what will happen."
+        ],
+        "252": [
+            1160.0,
+            1162.0,
+            "The second number is already there."
+        ],
+        "253": [
+            1163.0,
+            1165.0,
+            "Already Thiago Motto."
+        ],
+        "254": [
+            1166.0,
+            1168.0,
+            "Also appearing in the game now."
+        ],
+        "255": [
+            1169.0,
+            1173.0,
+            "Well, here they are, Edinson Cavani and Thiago Motto."
+        ],
+        "256": [
+            1180.0,
+            1182.0,
+            "Who's leaving? Lucas is leaving."
+        ],
+        "257": [
+            1187.0,
+            1189.0,
+            "Edinson Cavani appears instead."
+        ],
+        "258": [
+            1190.0,
+            1192.0,
+            "Well, who else?"
+        ],
+        "259": [
+            1206.0,
+            1208.0,
+            "Thiago Motto replaces Benjamin Stambouli."
+        ],
+        "260": [
+            1209.0,
+            1210.0,
+            "Number four."
+        ],
+        "261": [
+            1212.0,
+            1214.0,
+            "Nothing was noticeable at Istanbuli."
+        ],
+        "262": [
+            1215.0,
+            1216.0,
+            "Worked only for defense."
+        ],
+        "263": [
+            1220.0,
+            1224.0,
+            "I think Thiago Motto released, of course, thinking about the attack."
+        ],
+        "264": [
+            1225.0,
+            1227.0,
+            "Voronblanc, because his team needs to score a second goal."
+        ],
+        "265": [
+            1228.0,
+            1233.0,
+            "I think that Nantes, if they concede the second goal, will hardly raise their heads."
+        ],
+        "266": [
+            1234.0,
+            1236.0,
+            "Zlatan plays along with his hand."
+        ],
+        "267": [
+            1237.0,
+            1238.0,
+            "The judge noticed this."
+        ],
+        "268": [
+            1251.0,
+            1254.0,
+            "He puts out shields and everything else there."
+        ],
+        "269": [
+            1255.0,
+            1256.0,
+            "Lucas is on the bench."
+        ],
+        "270": [
+            1258.0,
+            1260.0,
+            "Looks like he's not very happy with the replacement."
+        ],
+        "271": [
+            1261.0,
+            1262.0,
+            "And then to the right. No."
+        ],
+        "272": [
+            1263.0,
+            1265.0,
+            "This is already a violation of the rules."
+        ],
+        "273": [
+            1266.0,
+            1267.0,
+            "Defixed by the arbitrator."
+        ],
+        "274": [
+            1268.0,
+            1271.0,
+            "Moreover, Zlatan will now receive a card, apparently."
+        ],
+        "275": [
+            1272.0,
+            1273.0,
+            " So what?"
+        ],
+        "276": [
+            1274.0,
+            1275.0,
+            " Well?"
+        ],
+        "277": [
+            1276.0,
+            1277.0,
+            " Well?"
+        ],
+        "278": [
+            1277.0,
+            1279.0,
+            "Zlatan will get a card, apparently."
+        ],
+        "279": [
+            1291.0,
+            1293.0,
+            "Zlatan gets, like, a yellow card."
+        ],
+        "280": [
+            1294.0,
+            1297.0,
+            "I don't agree with the referee too much."
+        ],
+        "281": [
+            1301.0,
+            1305.0,
+            "There was no violation of the rules on the part of Ibrahimovic."
+        ],
+        "282": [
+            1306.0,
+            1309.0,
+            "Well, the judge decided the way he decided."
+        ],
+        "283": [
+            1310.0,
+            1311.0,
+            " Well?"
+        ],
+        "284": [
+            1312.0,
+            1313.0,
+            " Well?"
+        ],
+        "285": [
+            1314.0,
+            1315.0,
+            " Well?"
+        ],
+        "286": [
+            1316.0,
+            1317.0,
+            " Well?"
+        ],
+        "287": [
+            1318.0,
+            1319.0,
+            " Well?"
+        ],
+        "288": [
+            1320.0,
+            1321.0,
+            " Well?"
+        ],
+        "289": [
+            1321.0,
+            1322.0,
+            " Well?"
+        ],
+        "290": [
+            1323.0,
+            1325.0,
+            "No, it's a piece of a problem."
+        ],
+        "291": [
+            1326.0,
+            1329.0,
+            "I'm not really contrasting things around this young man."
+        ],
+        "292": [
+            1330.0,
+            1332.0,
+            "He already stores repeats there."
+        ],
+        "293": [
+            1333.0,
+            1334.0,
+            "Watched what?"
+        ],
+        "294": [
+            1335.0,
+            1337.0,
+            "At six, for example, we need to check again."
+        ],
+        "295": [
+            1338.0,
+            1338.92,
+            " No."
+        ],
+        "296": [
+            1340.0,
+            1341.0,
+            "It's creepy then."
+        ],
+        "297": [
+            1342.0,
+            1343.88,
+            "In the digest, he was trying to joke about something."
+        ],
+        "298": [
+            1345.0,
+            1347.0,
+            "Zlatanin has come down, and there are already great guys here."
+        ],
+        "299": [
+            1348.0,
+            1349.0,
+            "Prisingly, I just jumped as I decided."
+        ],
+        "300": [
+            1349.0,
+            1361.72,
+            " Cute."
+        ],
+        "301": [
+            1361.72,
+            1384.1200000000001,
+            "Viskaronda and Ibrahimovic were talking about something now."
+        ],
+        "302": [
+            1384.1200000000001,
+            1386.1200000000001,
+            "Hold with golden hands."
+        ],
+        "303": [
+            1386.1200000000001,
+            1387.76,
+            "Now Viskaronda will receive a card."
+        ],
+        "304": [
+            1387.76,
+            1395.8799999999999,
+            "Three times, he says, I have already warned you."
+        ],
+        "305": [
+            1395.8799999999999,
+            1412.08,
+            "Asphalt Viscaronda."
+        ],
+        "306": [
+            1412.08,
+            1424.56,
+            "Venezuelan, team captain."
+        ],
+        "307": [
+            1424.56,
+            1430.1999999999998,
+            "In fact, Nantes, his first team in Europe,"
+        ],
+        "308": [
+            1430.1999999999998,
+            1433.6,
+            "He's played in North America all his life."
+        ],
+        "309": [
+            1433.6,
+            1438.0,
+            "He became known to everyone in 2011, when the Venezuelan national team"
+        ],
+        "310": [
+            1438.0,
+            1440.08,
+            "has achieved a historic achievement."
+        ],
+        "311": [
+            1440.08,
+            1442.3999999999999,
+            "Fourth place in the Copa America."
+        ],
+        "312": [
+            1442.3999999999999,
+            1446.84,
+            "After that, Viskarond became somewhat interested."
+        ],
+        "313": [
+            1446.84,
+            1452.6,
+            "Which materialized in his arrival in Nantes in 2013"
+        ],
+        "314": [
+            1452.6,
+            1453.6,
+            "year."
+        ],
+        "315": [
+            1453.6,
+            1458.6799999999998,
+            "Aurier has broken through."
+        ],
+        "316": [
+            1458.6799999999998,
+            1459.6799999999998,
+            "Feed."
+        ],
+        "317": [
+            1459.6799999999998,
+            1465.24,
+            "Nantes plays with fire."
+        ],
+        "318": [
+            1465.24,
+            1469.3999999999999,
+            "You can't let your opponent do that, if it's Paris-London, that's it"
+        ],
+        "319": [
+            1469.72,
+            1470.72,
+            " Attack."
+        ],
+        "320": [
+            1470.72,
+            1471.72,
+            "Zlatan's Kick."
+        ],
+        "321": [
+            1471.72,
+            1473.52,
+            "The ball is flying past the goal."
+        ],
+        "322": [
+            1473.52,
+            1496.24,
+            "The Swede is unlucky here."
+        ],
+        "323": [
+            1496.24,
+            1497.24,
+            "Michelle Darzakarian."
+        ],
+        "324": [
+            1497.24,
+            1518.0,
+            "It's probably too early for an assault."
+        ],
+        "325": [
+            1518.0,
+            1522.16,
+            "But Paris-London-Germain, I think it will do."
+        ],
+        "326": [
+            1522.16,
+            1525.44,
+            "The last 10 minutes will go forward in large forces."
+        ],
+        "327": [
+            1525.44,
+            1527.04,
+            "And the score will remain the same."
+        ],
+        "328": [
+            1527.04,
+            1528.04,
+            "Demarieux."
+        ],
+        "329": [
+            1528.04,
+            1531.76,
+            "No, today is not his day."
+        ],
+        "330": [
+            1531.76,
+            1532.76,
+            "That's absolutely true."
+        ],
+        "331": [
+            1532.76,
+            1541.76,
+            "Dudoy is being transferred to the right."
+        ],
+        "332": [
+            1541.76,
+            1552.4,
+            "But Levin-Kurzova is here."
+        ],
+        "333": [
+            1552.4,
+            1554.2,
+            "Markinish took the ball out of bounds."
+        ],
+        "334": [
+            1555.2,
+            1558.0,
+            "Well, Paris-London-Germain is probably one of the few"
+        ],
+        "335": [
+            1558.0,
+            1561.28,
+            "a team that plays with the help of a Brazilian connection"
+        ],
+        "336": [
+            1561.28,
+            1562.52,
+            "central defenders."
+        ],
+        "337": [
+            1562.52,
+            1576.1200000000001,
+            "And let's not forget that they also have David Luiz."
+        ],
+        "338": [
+            1576.12,
+            1586.1999999999998,
+            "Well then."
+        ],
+        "339": [
+            1586.1999999999998,
+            1588.2399999999998,
+            "Yaga-Silla, Markinish."
+        ],
+        "340": [
+            1588.2399999999998,
+            1590.4399999999998,
+            "Basically, if we release David Luiz and Maxel,"
+        ],
+        "341": [
+            1590.4399999999998,
+            1593.32,
+            "You can even have a completely Brazilian defensive line"
+        ],
+        "342": [
+            1593.32,
+            1594.32,
+            " have."
+        ],
+        "343": [
+            1624.32,
+            1634.32,
+            "Well, new fear."
+        ],
+        "344": [
+            1634.32,
+            1636.32,
+            "This could be quite dangerous."
+        ],
+        "345": [
+            1636.32,
+            1642.6,
+            "Zlat-Antega, Silla, they are all there."
+        ],
+        "346": [
+            1642.6,
+            1643.6,
+            "Kick, goal."
+        ],
+        "347": [
+            1643.6,
+            1644.6,
+            "Oops!"
+        ],
+        "348": [
+            1644.6,
+            1645.6,
+            "Edinson-Cavani."
+        ],
+        "349": [
+            1645.6,
+            1650.24,
+            "Almost the first touch of the ball."
+        ],
+        "350": [
+            1650.24,
+            1652.72,
+            "Nobody understood what happened at all."
+        ],
+        "351": [
+            1652.72,
+            1653.72,
+            "Except Cavani himself."
+        ],
+        "352": [
+            1653.72,
+            1657.0,
+            "Apparently, this is home preparation, because it’s very confident"
+        ],
+        "353": [
+            1657.0,
+            1658.64,
+            "Paris-London-Germain accomplished it all."
+        ],
+        "354": [
+            1658.64,
+            1669.4,
+            "Now we'll watch the replays and enjoy."
+        ],
+        "355": [
+            1669.4,
+            1677.76,
+            "Yes, of course, Antiesina Bomu ran away from Cavani."
+        ],
+        "356": [
+            1677.76,
+            1682.64,
+            "It’s not very clear why with such a dangerous standard"
+        ],
+        "357": [
+            1682.64,
+            1684.2800000000002,
+            "player, agro-forward."
+        ],
+        "358": [
+            1684.2800000000002,
+            1690.8000000000002,
+            " Edinson-Cavani cuts the ball into the near corner."
+        ],
+        "359": [
+            1690.8000000000002,
+            1692.76,
+            "Remiriu couldn't do anything here."
+        ],
+        "360": [
+            1692.76,
+            1695.8000000000002,
+            "Well, now is the moment of truth for Nantes."
+        ],
+        "361": [
+            1695.8000000000002,
+            1701.0800000000002,
+            "Because if you have the strength, then you have to move forward."
+        ],
+        "362": [
+            1701.0800000000002,
+            1704.4,
+            "Trying to save this match."
+        ],
+        "363": [
+            1704.4,
+            1709.2800000000002,
+            "Whenever I remind you, in recent years Paris-London-Germain"
+        ],
+        "364": [
+            1709.28,
+            1711.72,
+            "Scores two goals for Nantes."
+        ],
+        "365": [
+            1711.72,
+            1716.8,
+            "This happens all the time."
+        ],
+        "366": [
+            1716.8,
+            1723.72,
+            "Nantes-Paris-London-Germain 0-2, Paris-London-Germain"
+        ],
+        "367": [
+            1723.72,
+            1727.16,
+            "2-0, Paris-London-Germain 2-1, Nantes-Paris-London-Germain"
+        ],
+        "368": [
+            1727.16,
+            1728.16,
+            "1-2."
+        ],
+        "369": [
+            1728.16,
+            1729.16,
+            "And so on."
+        ],
+        "370": [
+            1729.16,
+            1733.84,
+            "And last time in 2007, Nantes was able to be taken from Paris"
+        ],
+        "371": [
+            1733.84,
+            1734.84,
+            " glasses."
+        ],
+        "372": [
+            1734.84,
+            1737.3999999999999,
+            "Then it was a draw when it was the last one"
+        ],
+        "373": [
+            1737.52,
+            1739.52,
+            "victory of Nantes over Paris-Germain."
+        ],
+        "374": [
+            1739.52,
+            1741.52,
+            "Nobody remembers this at all."
+        ],
+        "375": [
+            1741.52,
+            1748.2800000000002,
+            "In 2004, more than 10 years ago."
+        ],
+        "376": [
+            1767.4,
+            1774.0800000000002,
+            "The audience is whistling."
+        ],
+        "377": [
+            1774.0800000000002,
+            1778.5600000000002,
+            "It's not very clear for what reason."
+        ],
+        "378": [
+            1778.5600000000002,
+            1789.5600000000002,
+            "Forging."
+        ],
+        "379": [
+            1789.5600000000002,
+            1790.92,
+            "I gave back Fiago Moto."
+        ],
+        "380": [
+            1790.92,
+            1791.92,
+            "Fiago Silla."
+        ],
+        "381": [
+            1791.92,
+            1800.04,
+            "Well, Paris is happy with the score 2-1."
+        ],
+        "382": [
+            1800.04,
+            1802.5600000000002,
+            "This is how you need to understand their actions now."
+        ],
+        "383": [
+            1802.5600000000002,
+            1803.5600000000002,
+            "Kurzawa."
+        ],
+        "384": [
+            1803.5600000000002,
+            1804.5600000000002,
+            "Pastors."
+        ],
+        "385": [
+            1804.5600000000002,
+            1805.5600000000002,
+            " Back."
+        ],
+        "386": [
+            1835.56,
+            1845.52,
+            "Varier gets the ball."
+        ],
+        "387": [
+            1845.52,
+            1847.72,
+            "I gave Verati to my closest partner."
+        ],
+        "388": [
+            1847.72,
+            1851.6,
+            "No, this is Fiago Moto."
+        ],
+        "389": [
+            1851.6,
+            1852.6,
+            "Verati deeper."
+        ],
+        "390": [
+            1852.6,
+            1853.6,
+            " Here he is."
+        ],
+        "391": [
+            1853.6,
+            1867.84,
+            "Nantes intercepted the ball."
+        ],
+        "392": [
+            1867.84,
+            1870.6,
+            "They might have a counterattack."
+        ],
+        "393": [
+            1870.6,
+            1877.6,
+            "Sühl."
+        ],
+        "394": [
+            1877.6,
+            1878.6,
+            "Iloki."
+        ],
+        "395": [
+            1878.6,
+            1884.6,
+            "Running into this counterattack."
+        ],
+        "396": [
+            1884.6,
+            1885.6,
+            "But we managed to earn a corner."
+        ],
+        "397": [
+            1885.6,
+            1886.6,
+            "And a replacement is being prepared there."
+        ],
+        "398": [
+            1886.6,
+            1894.6,
+            "Replacement at Nantes."
+        ],
+        "399": [
+            1894.6,
+            1895.6,
+            "Yesin Bamu."
+        ],
+        "400": [
+            1895.6,
+            1896.6,
+            "Leaves the field."
+        ],
+        "401": [
+            1896.6,
+            1897.6,
+            "The author of the goal scored."
+        ],
+        "402": [
+            1897.6,
+            1898.6,
+            "And Yoann O'Dell appears at number 21."
+        ],
+        "403": [
+            1898.6,
+            1927.6,
+            "A few years ago he went to Germany."
+        ],
+        "404": [
+            1927.6,
+            1928.6,
+            "In the Stuttgart system."
+        ],
+        "405": [
+            1928.6,
+            1933.3999999999999,
+            "But in the few years I spent there I played only a few"
+        ],
+        "406": [
+            1933.3999999999999,
+            1934.3999999999999,
+            "matches."
+        ],
+        "407": [
+            1934.3999999999999,
+            1952.6799999999998,
+            "That’s why I didn’t leave any impression about myself."
+        ],
+        "408": [
+            1952.6799999999998,
+            1953.6799999999998,
+            "Ibrahimovic."
+        ],
+        "409": [
+            1953.6799999999998,
+            1955.6,
+            "Pass to the right."
+        ],
+        "410": [
+            1955.6,
+            1956.6,
+            "Sajorie."
+        ],
+        "411": [
+            1956.6,
+            1962.56,
+            "Zlatan, of course, knows a lot and understands well"
+        ],
+        "412": [
+            1962.56,
+            1963.56,
+            "game."
+        ],
+        "413": [
+            1963.56,
+            1969.6399999999999,
+            "Now the pass to Aurier was the perfect moment for"
+        ],
+        "414": [
+            1969.6399999999999,
+            1973.3999999999999,
+            "in order to delay as much time as possible."
+        ],
+        "415": [
+            1973.3999999999999,
+            1977.52,
+            "What is basically needed now."
+        ],
+        "416": [
+            1977.52,
+            1986.52,
+            "Baris Angermain."
+        ],
+        "417": [
+            2016.52,
+            2025.84,
+            " Bye."
+        ],
+        "418": [
+            2025.84,
+            2028.6399999999999,
+            "Because we still have 11 and a half minutes to play."
+        ],
+        "419": [
+            2028.6399999999999,
+            2030.36,
+            "Well, plus the fact that it will add orbitals."
+        ],
+        "420": [
+            2030.36,
+            2031.36,
+            "Well, not 11 and a half."
+        ],
+        "421": [
+            2031.36,
+            2047.6799999999998,
+            "It's almost 11 sharp."
+        ],
+        "422": [
+            2047.68,
+            2070.6,
+            "Yes, now I think I won’t return to the game with Anta."
+        ],
+        "423": [
+            2070.6,
+            2073.6,
+            " No way."
+        ],
+        "424": [
+            2074.6,
+            2077.6,
+            "Sekyel Lavesi went to undress."
+        ],
+        "425": [
+            2077.6,
+            2080.6,
+            "He will appear on the field now."
+        ],
+        "426": [
+            2080.6,
+            2081.6,
+            "But look."
+        ],
+        "427": [
+            2081.6,
+            2083.6,
+            "How did this happen."
+        ],
+        "428": [
+            2083.6,
+            2087.6,
+            "Angel de Maria scores a goal with this shot."
+        ],
+        "429": [
+            2087.6,
+            2095.6,
+            "I'm not at all sure he even aimed the ball at"
+        ],
+        "430": [
+            2095.6,
+            2096.6,
+            "gate."
+        ],
+        "431": [
+            2096.6,
+            2098.6,
+            "Although the goalkeeper ran towards him."
+        ],
+        "432": [
+            2098.6,
+            2102.6,
+            "And Angel de Maria probably sent the ball into the goal."
+        ],
+        "433": [
+            2102.6,
+            2104.6,
+            "It turned out really great."
+        ],
+        "434": [
+            2104.6,
+            2113.6,
+            "3-1 in favor of Baris Angermain."
+        ],
+        "435": [
+            2113.6,
+            2120.6,
+            "Well, in general, everything is clear here."
+        ],
+        "436": [
+            2120.6,
+            2123.6,
+            "If it's to score one goal and tie the score,"
+        ],
+        "437": [
+            2123.6,
+            2126.6,
+            "We still had some chances."
+        ],
+        "438": [
+            2126.6,
+            2132.6,
+            "2 Baris Angermain will certainly not allow the opponent to score."
+        ],
+        "439": [
+            2132.6,
+            2140.6,
+            "It's quite obvious."
+        ],
+        "440": [
+            2141.6,
+            2158.6,
+            "Gleba throws out."
+        ],
+        "441": [
+            2158.6,
+            2167.6,
+            "Lying on Vilaki's lawn."
+        ],
+        "442": [
+            2167.6,
+            2169.6,
+            "Once again we watch Angel de Maria's goal."
+        ],
+        "443": [
+            2169.6,
+            2172.6,
+            "I think the goalkeeper shouldn't have run out."
+        ],
+        "444": [
+            2172.6,
+            2174.6,
+            "The ball was thrown high."
+        ],
+        "445": [
+            2174.6,
+            2178.6,
+            "De Maria didn't control him."
+        ],
+        "446": [
+            2178.6,
+            2184.6,
+            "And it would have taken him a while to process that ball anyway."
+        ],
+        "447": [
+            2184.6,
+            2186.6,
+            "And he would most likely be covered by defenders."
+        ],
+        "448": [
+            2186.6,
+            2192.6,
+            "Because De Maria would have to slow down."
+        ],
+        "449": [
+            2192.6,
+            2197.6,
+            "But for some reason the goalkeeper ran."
+        ],
+        "450": [
+            2197.6,
+            2216.6,
+            "Well, it turned out the way it turned out."
+        ],
+        "451": [
+            2217.6,
+            2243.6,
+            "Angel de Maria throws the field."
+        ],
+        "452": [
+            2243.6,
+            2246.6,
+            "Apparently he promised someone his T-shirt."
+        ],
+        "453": [
+            2246.6,
+            2249.6,
+            " Yes."
+        ],
+        "454": [
+            2249.6,
+            2255.6,
+            "Go and give it to Angel de Maria."
+        ],
+        "455": [
+            2255.6,
+            2269.6,
+            "Now he'll put on his tracksuit jacket."
+        ],
+        "456": [
+            2269.6,
+            2271.6,
+            "Here is a happy child."
+        ],
+        "457": [
+            2271.6,
+            2273.6,
+            "Yes, says dad or grandpa."
+        ],
+        "458": [
+            2273.6,
+            2275.6,
+            "Look how she smells."
+        ],
+        "459": [
+            2275.6,
+            2300.6,
+            "She smells like naked."
+        ],
+        "460": [
+            2300.6,
+            2302.6,
+            "Tiago Moto."
+        ],
+        "461": [
+            2302.6,
+            2304.6,
+            "Verati."
+        ],
+        "462": [
+            2304.6,
+            2306.6,
+            "Broken rules."
+        ],
+        "463": [
+            2306.6,
+            2308.6,
+            "You can lie down."
+        ],
+        "464": [
+            2308.6,
+            2310.6,
+            "Absolutely calm."
+        ],
+        "465": [
+            2330.6,
+            2342.6,
+            "Zlatan passes to the right."
+        ],
+        "466": [
+            2372.6,
+            2390.6,
+            "Parisen Germain is now calmly controlling the ball."
+        ],
+        "467": [
+            2390.6,
+            2394.6,
+            "Practically the ABC for a team that leads evenly."
+        ],
+        "468": [
+            2394.6,
+            2397.6,
+            "With a good and satisfying difference."
+        ],
+        "469": [
+            2397.6,
+            2399.6,
+            "Afraid of nothing."
+        ],
+        "470": [
+            2399.6,
+            2404.6,
+            "Because Parisen Germain is definitely not afraid of missing a goal now."
+        ],
+        "471": [
+            2430.6,
+            2435.6,
+            "They wouldn't let us organize such a quick attack."
+        ],
+        "472": [
+            2435.6,
+            2437.6,
+            "Football players Parisin Germain."
+        ],
+        "473": [
+            2437.6,
+            2448.6,
+            " Well, that's all."
+        ],
+        "474": [
+            2448.6,
+            2451.6,
+            "So far according to plan."
+        ],
+        "475": [
+            2451.6,
+            2479.6,
+            "Old Teams."
+        ],
+        "476": [
+            2480.6,
+            2486.6,
+            "It's 87 minutes."
+        ],
+        "477": [
+            2486.6,
+            2511.6,
+            "And the football player is not yet able to take the ball for himself."
+        ],
+        "478": [
+            2511.6,
+            2513.6,
+            "Kevin Trap."
+        ],
+        "479": [
+            2513.6,
+            2515.6,
+            "Sports ball."
+        ],
+        "480": [
+            2515.6,
+            2517.6,
+            "Sports ball."
+        ],
+        "481": [
+            2517.6,
+            2519.6,
+            "Sports ball."
+        ],
+        "482": [
+            2519.6,
+            2521.6,
+            "Sports ball."
+        ],
+        "483": [
+            2521.6,
+            2523.6,
+            "Sports ball."
+        ],
+        "484": [
+            2523.6,
+            2525.6,
+            "Sports ball."
+        ],
+        "485": [
+            2525.6,
+            2527.6,
+            "Sports ball."
+        ],
+        "486": [
+            2527.6,
+            2529.6,
+            "Sports ball."
+        ],
+        "487": [
+            2529.6,
+            2531.6,
+            "Sports ball."
+        ],
+        "488": [
+            2531.6,
+            2533.6,
+            "Sports ball."
+        ],
+        "489": [
+            2533.6,
+            2535.6,
+            "Sports ball."
+        ],
+        "490": [
+            2535.6,
+            2537.6,
+            "Sports ball."
+        ],
+        "491": [
+            2537.6,
+            2539.6,
+            "Sports ball."
+        ],
+        "492": [
+            2539.6,
+            2541.6,
+            "Sports ball."
+        ],
+        "493": [
+            2542.6,
+            2550.6,
+            "The football player hasn't burned yet."
+        ],
+        "494": [
+            2550.6,
+            2555.6,
+            "Markinish passes to Levin Kurzawa."
+        ],
+        "495": [
+            2555.6,
+            2557.6,
+            "Parison Germain is just killing time."
+        ],
+        "496": [
+            2572.6,
+            2574.6,
+            "And he does it very well."
+        ],
+        "497": [
+            2574.6,
+            2576.6,
+            "Verati. Here's an unexpected pass forward."
+        ],
+        "498": [
+            2576.6,
+            2578.6,
+            "The attack may work."
+        ],
+        "499": [
+            2580.6,
+            2590.6,
+            "Kick by substitute Zakel Lavesi."
+        ],
+        "500": [
+            2590.6,
+            2593.6,
+            "Not too dangerous."
+        ],
+        "501": [
+            2598.6,
+            2601.6,
+            "By the way, I don’t think the referee will add much time."
+        ],
+        "502": [
+            2605.6,
+            2608.6,
+            "There is absolutely no need for this."
+        ],
+        "503": [
+            2611.6,
+            2613.6,
+            "It would be nice if the score was 1-2."
+        ],
+        "504": [
+            2613.6,
+            2618.6,
+            "Then every minute would mean an additional chance for NATO."
+        ],
+        "505": [
+            2618.6,
+            2622.6,
+            "But now there's no chance of anything."
+        ],
+        "506": [
+            2622.6,
+            2636.6,
+            "Lavesi."
+        ],
+        "507": [
+            2636.6,
+            2640.6,
+            "Next week is the Champions League."
+        ],
+        "508": [
+            2640.6,
+            2644.6,
+            "And Parison Germain, naturally, will play in this tournament."
+        ],
+        "509": [
+            2644.6,
+            2656.6,
+            "Their next match is with Donetsk Shakhtar away."
+        ],
+        "510": [
+            2656.6,
+            2659.6,
+            "The match, naturally, will not take place in Donetsk."
+        ],
+        "511": [
+            2659.6,
+            2661.6,
+            "Will go to Lvov."
+        ],
+        "512": [
+            2661.6,
+            2666.6,
+            "But for Paris Germain this is an important story."
+        ],
+        "513": [
+            2666.6,
+            2668.6,
+            "The Parisians started the Champions League with a victory."
+        ],
+        "514": [
+            2668.6,
+            2671.6,
+            "With a score of 2-0 over Swedish Malmö."
+        ],
+        "515": [
+            2672.6,
+            2681.6,
+            "Well, if we talk about some kind of struggle, then, probably, only Shakhtar can impose this struggle on Paris."
+        ],
+        "516": [
+            2681.6,
+            2690.6,
+            "But one can hardly imagine that Real Madrid will be in doubt about leaving the group."
+        ],
+        "517": [
+            2690.6,
+            2695.6,
+            "Service. 4-1."
+        ],
+        "518": [
+            2695.6,
+            2700.6,
+            "In the fall, Sergei Aurier sends the ball into the net."
+        ],
+        "519": [
+            2700.6,
+            2708.6,
+            "Well, in general, in the second half, Parison Germain simply declassed us."
+        ],
+        "520": [
+            2708.6,
+            2710.6,
+            "4 goals in 45 minutes."
+        ],
+        "521": [
+            2711.6,
+            2714.6,
+            "Everything worked out great for Sergei Aurier."
+        ],
+        "522": [
+            2714.6,
+            2716.6,
+            "Kick in the fall."
+        ],
+        "523": [
+            2716.6,
+            2718.6,
+            "But the question, of course, arises for the defenders."
+        ],
+        "524": [
+            2718.6,
+            2720.6,
+            "What were they doing there anyway?"
+        ],
+        "525": [
+            2720.6,
+            2722.6,
+            " OK."
+        ],
+        "526": [
+            2722.6,
+            2724.6,
+            "Everything is already."
+        ],
+        "527": [
+            2724.6,
+            2726.6,
+            "Now you definitely don’t have to add any time."
+        ],
+        "528": [
+            2726.6,
+            2728.6,
+            "You can just watch football."
+        ],
+        "529": [
+            2728.6,
+            2730.6,
+            "And watch football."
+        ],
+        "530": [
+            2730.6,
+            2732.6,
+            "And watch football."
+        ],
+        "531": [
+            2732.6,
+            2734.6,
+            "And watch football."
+        ],
+        "532": [
+            2734.6,
+            2736.6,
+            "And watch football."
+        ],
+        "533": [
+            2736.6,
+            2738.6,
+            "And watch football."
+        ],
+        "534": [
+            2738.6,
+            2740.6,
+            "And watch football."
+        ],
+        "535": [
+            2740.6,
+            2742.6,
+            "And watch football."
+        ],
+        "536": [
+            2742.6,
+            2744.6,
+            "And watch football."
+        ],
+        "537": [
+            2744.6,
+            2746.6,
+            "And watch football."
+        ],
+        "538": [
+            2746.6,
+            2748.6,
+            "And watch football."
+        ],
+        "539": [
+            2748.6,
+            2750.6,
+            "And watch football."
+        ],
+        "540": [
+            2750.6,
+            2752.6,
+            "And watch football."
+        ],
+        "541": [
+            2752.6,
+            2754.6,
+            "And watch football."
+        ],
+        "542": [
+            2754.6,
+            2756.6,
+            "And watch football."
+        ],
+        "543": [
+            2756.6,
+            2758.6,
+            "And watch football."
+        ],
+        "544": [
+            2758.6,
+            2760.6,
+            "And watch football."
+        ],
+        "545": [
+            2760.6,
+            2762.6,
+            "And watch football."
+        ],
+        "546": [
+            2762.6,
+            2764.6,
+            "And watch football."
+        ],
+        "547": [
+            2764.6,
+            2766.6,
+            "And watch football."
+        ]
+    }
+}

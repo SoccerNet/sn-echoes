@@ -1,0 +1,5579 @@
+{
+    "segments": {
+        "0": [
+            31.0,
+            33.0,
+            "It's a Ligue 1 match,"
+        ],
+        "1": [
+            33.0,
+            35.0,
+            "and it's a Ligue 2 match."
+        ],
+        "2": [
+            35.0,
+            37.0,
+            "It's a Ligue 2 match,"
+        ],
+        "3": [
+            37.0,
+            39.0,
+            "and it's a Ligue 2 match."
+        ],
+        "4": [
+            39.0,
+            41.0,
+            "It's a Ligue 2 match,"
+        ],
+        "5": [
+            41.0,
+            43.0,
+            "and it's a Ligue 2 match."
+        ],
+        "6": [
+            43.0,
+            45.0,
+            "It's a Ligue 2 match,"
+        ],
+        "7": [
+            45.0,
+            47.0,
+            "and it's a Ligue 2 match."
+        ],
+        "8": [
+            47.0,
+            49.0,
+            "It's a Ligue 2 match,"
+        ],
+        "9": [
+            49.0,
+            51.0,
+            "and it's a Ligue 2 match."
+        ],
+        "10": [
+            51.0,
+            53.0,
+            "It's a Ligue 2 match,"
+        ],
+        "11": [
+            53.0,
+            55.0,
+            "and it's a Ligue 2 match."
+        ],
+        "12": [
+            55.0,
+            57.0,
+            "It's a Ligue 2 match,"
+        ],
+        "13": [
+            57.0,
+            59.0,
+            "and it's a Ligue 2 match."
+        ],
+        "14": [
+            59.0,
+            61.0,
+            "It's a Ligue 2 match,"
+        ],
+        "15": [
+            61.0,
+            63.0,
+            "and it's a Ligue 2 match."
+        ],
+        "16": [
+            89.0,
+            91.0,
+            "It's a Ligue 2 match,"
+        ],
+        "17": [
+            91.0,
+            93.0,
+            "and it's a Ligue 2 match."
+        ],
+        "18": [
+            119.0,
+            121.0,
+            "It's better, like beyond."
+        ],
+        "19": [
+            149.0,
+            151.0,
+            "It's better, like beyond."
+        ],
+        "20": [
+            151.0,
+            153.0,
+            "It's better, like beyond."
+        ],
+        "21": [
+            153.0,
+            155.0,
+            "It's better, like beyond."
+        ],
+        "22": [
+            155.0,
+            157.0,
+            "It's better, like beyond."
+        ],
+        "23": [
+            157.0,
+            159.0,
+            "It's better, like beyond."
+        ],
+        "24": [
+            159.0,
+            161.0,
+            "It's better, like beyond."
+        ],
+        "25": [
+            161.0,
+            163.0,
+            "It's better, like beyond."
+        ],
+        "26": [
+            163.0,
+            165.0,
+            "It's better, like beyond."
+        ],
+        "27": [
+            165.0,
+            167.0,
+            "It's better, like beyond."
+        ],
+        "28": [
+            167.0,
+            169.0,
+            "It's better, like beyond."
+        ],
+        "29": [
+            169.0,
+            171.0,
+            "It's better, like beyond."
+        ],
+        "30": [
+            171.0,
+            173.0,
+            "It's better, like beyond."
+        ],
+        "31": [
+            173.0,
+            175.0,
+            "It's better, like beyond."
+        ],
+        "32": [
+            175.0,
+            177.0,
+            "It's better, like beyond."
+        ],
+        "33": [
+            177.0,
+            179.0,
+            "It's better, like beyond."
+        ],
+        "34": [
+            179.0,
+            181.0,
+            "It's better, like beyond."
+        ],
+        "35": [
+            181.0,
+            183.0,
+            "It's better, like beyond."
+        ],
+        "36": [
+            183.0,
+            185.0,
+            "It's better, like beyond."
+        ],
+        "37": [
+            185.0,
+            187.0,
+            "It's better, like beyond."
+        ],
+        "38": [
+            187.0,
+            189.0,
+            "It's better, like beyond."
+        ],
+        "39": [
+            189.0,
+            191.0,
+            "It's better, like beyond."
+        ],
+        "40": [
+            191.0,
+            193.0,
+            "It's better, like beyond."
+        ],
+        "41": [
+            193.0,
+            195.0,
+            "It's better, like beyond."
+        ],
+        "42": [
+            195.0,
+            197.0,
+            "It's better, like beyond."
+        ],
+        "43": [
+            197.0,
+            199.0,
+            "It's better, like beyond."
+        ],
+        "44": [
+            199.0,
+            201.0,
+            "It's better, like beyond."
+        ],
+        "45": [
+            201.0,
+            203.0,
+            "It's better, like beyond."
+        ],
+        "46": [
+            203.0,
+            205.0,
+            "It's better, like beyond."
+        ],
+        "47": [
+            205.0,
+            207.0,
+            "It's better, like beyond."
+        ],
+        "48": [
+            207.0,
+            209.0,
+            "It's better, like beyond."
+        ],
+        "49": [
+            209.0,
+            211.0,
+            "It's better, like beyond."
+        ],
+        "50": [
+            211.0,
+            213.0,
+            "It's better, like beyond."
+        ],
+        "51": [
+            213.0,
+            215.0,
+            "It's better, like beyond."
+        ],
+        "52": [
+            215.0,
+            217.0,
+            "It's better, like beyond."
+        ],
+        "53": [
+            217.0,
+            219.0,
+            "It's better, like beyond."
+        ],
+        "54": [
+            219.0,
+            221.0,
+            "It's better, like beyond."
+        ],
+        "55": [
+            221.0,
+            223.0,
+            "It's better, like beyond."
+        ],
+        "56": [
+            223.0,
+            225.0,
+            "It's better, like beyond."
+        ],
+        "57": [
+            225.0,
+            227.0,
+            "It's better, like beyond."
+        ],
+        "58": [
+            227.0,
+            229.0,
+            "It's better, like beyond."
+        ],
+        "59": [
+            229.0,
+            231.0,
+            "It's better, like beyond."
+        ],
+        "60": [
+            231.0,
+            233.0,
+            "It's better, like beyond."
+        ],
+        "61": [
+            234.0,
+            238.0,
+            "Yes, well he didn't have to slap him either."
+        ],
+        "62": [
+            239.0,
+            243.0,
+            "So we rewatch Dante's intervention on this hot ball."
+        ],
+        "63": [
+            243.0,
+            246.0,
+            "In the area, Nice."
+        ],
+        "64": [
+            249.0,
+            252.0,
+            "Collane, the Montpellier residents are off to a good start."
+        ],
+        "65": [
+            252.0,
+            255.0,
+            "Just like what they did in the first half."
+        ],
+        "66": [
+            259.0,
+            261.0,
+            "For nice."
+        ],
+        "67": [
+            261.0,
+            269.0,
+            "Alongside Maxime Lemarchand on the Nice bench, what did the coach say at the break after this very difficult first half?"
+        ],
+        "68": [
+            269.0,
+            273.0,
+            "He tried to be positive because we conceded a somewhat unlucky goal."
+        ],
+        "69": [
+            273.0,
+            280.0,
+            "Afterwards, he also said to tighten the lines because there was too much space between the lines."
+        ],
+        "70": [
+            280.0,
+            285.0,
+            "The Montpellierens had time to turn around, to get their game going."
+        ],
+        "71": [
+            285.0,
+            292.0,
+            "We had to be more patient, keep the ball and start the match to find the gaps more easily."
+        ],
+        "72": [
+            316.0,
+            319.0,
+            "The match is over, the match is over."
+        ],
+        "73": [
+            319.0,
+            322.0,
+            "The match is over, the match is over."
+        ],
+        "74": [
+            322.0,
+            325.0,
+            "The match is over, the match is over."
+        ],
+        "75": [
+            325.0,
+            328.0,
+            "The match is over, the match is over."
+        ],
+        "76": [
+            328.0,
+            331.0,
+            "The match is over, the match is over."
+        ],
+        "77": [
+            331.0,
+            334.0,
+            "The match is over, the match is over."
+        ],
+        "78": [
+            334.0,
+            337.0,
+            "The match is over, the match is over."
+        ],
+        "79": [
+            337.0,
+            340.0,
+            "The match is over, the match is over."
+        ],
+        "80": [
+            340.0,
+            343.0,
+            "The match is over, the match is over."
+        ],
+        "81": [
+            343.0,
+            345.0,
+            "It happened five times."
+        ],
+        "82": [
+            345.0,
+            347.0,
+            "Twice with Montpellier."
+        ],
+        "83": [
+            347.0,
+            350.0,
+            "On the first leg, the Niçois came back thanks to Younes Belanda."
+        ],
+        "84": [
+            352.0,
+            354.0,
+            "For a draw, a goal everywhere."
+        ],
+        "85": [
+            358.0,
+            361.0,
+            "Souké is too short, intercepted by Boutbouz."
+        ],
+        "86": [
+            361.0,
+            365.0,
+            "Skyrii with Riyad Boutbouz again."
+        ],
+        "87": [
+            365.0,
+            368.0,
+            "If he has a takedown for Hilton."
+        ],
+        "88": [
+            368.0,
+            370.0,
+            "It will be lost by Boutbouz."
+        ],
+        "89": [
+            370.0,
+            372.0,
+            "Recovery tryst which immediately calls Doniz."
+        ],
+        "90": [
+            372.0,
+            374.0,
+            "Who wanted control oriented to eliminate Congress."
+        ],
+        "91": [
+            374.0,
+            377.0,
+            "Who stayed on his feet."
+        ],
+        "92": [
+            381.0,
+            384.0,
+            "Ball controlled again by the Montpellier residents with Moukielé."
+        ],
+        "93": [
+            388.0,
+            391.0,
+            "In clearance by Laurent Pionnier on Belanda."
+        ],
+        "94": [
+            391.0,
+            393.0,
+            "Who let it go."
+        ],
+        "95": [
+            393.0,
+            396.0,
+            "Estimate Mounier who let this ball be recovered."
+        ],
+        "96": [
+            396.0,
+            399.0,
+            "Ciprian who was able to slip to Dante."
+        ],
+        "97": [
+            399.0,
+            402.0,
+            "And who was pushed into the limits of the field."
+        ],
+        "98": [
+            402.0,
+            405.0,
+            "Ball for Sery with Doniz."
+        ],
+        "99": [
+            405.0,
+            407.0,
+            "Doniz and Seryk."
+        ],
+        "100": [
+            407.0,
+            409.0,
+            "Doniz who will find this ball."
+        ],
+        "101": [
+            409.0,
+            411.0,
+            "Offbeat Souké."
+        ],
+        "102": [
+            411.0,
+            413.0,
+            "Souké's strike, countered by Rousillon."
+        ],
+        "103": [
+            413.0,
+            416.0,
+            "And the Montpellier recovery behind with Stéphane Cessegnon."
+        ],
+        "104": [
+            416.0,
+            418.0,
+            "No fault of Belanda."
+        ],
+        "105": [
+            418.0,
+            421.0,
+            "It plays for Nice despite the protests of Jean-Louis Gasset."
+        ],
+        "106": [
+            422.0,
+            425.0,
+            "Well, the people of Nice who set a little pace."
+        ],
+        "107": [
+            425.0,
+            428.0,
+            "Aggression advantage."
+        ],
+        "108": [
+            430.0,
+            432.0,
+            "Souké with Baez."
+        ],
+        "109": [
+            432.0,
+            436.0,
+            "They need a breakthrough in Nice in this second period."
+        ],
+        "110": [
+            439.0,
+            442.0,
+            "Ciprien got up after his contact earlier."
+        ],
+        "111": [
+            442.0,
+            445.0,
+            "We're going to follow him because he seems..."
+        ],
+        "112": [
+            445.0,
+            447.0,
+            "Somewhat lame."
+        ],
+        "113": [
+            447.0,
+            450.0,
+            "Watch out for this loss of ball from Bale."
+        ],
+        "114": [
+            450.0,
+            452.0,
+            "Watch out for this loss of ball from Obadi."
+        ],
+        "115": [
+            452.0,
+            455.0,
+            "Which will benefit Montpellier again."
+        ],
+        "116": [
+            455.0,
+            460.0,
+            "With Moukielé who moves aside on the other side for Rousillon."
+        ],
+        "117": [
+            462.0,
+            465.0,
+            "And Montpellier which leaves serenely."
+        ],
+        "118": [
+            467.0,
+            470.0,
+            "Rousillon for Vittorino Hilton."
+        ],
+        "119": [
+            471.0,
+            474.0,
+            "Boutbouze who gets back in the direction of the game and who can accelerate."
+        ],
+        "120": [
+            474.0,
+            476.0,
+            "Boutbouze pursued by Obadi."
+        ],
+        "121": [
+            476.0,
+            479.0,
+            "Boutbouze who dismisses Skyri."
+        ],
+        "122": [
+            481.0,
+            483.0,
+            "Hilton."
+        ],
+        "123": [
+            488.0,
+            491.0,
+            "Conference with Yacoub Assila."
+        ],
+        "124": [
+            491.0,
+            493.0,
+            "Nice running after the ball."
+        ],
+        "125": [
+            493.0,
+            495.0,
+            "So many difficulties to recover."
+        ],
+        "126": [
+            497.0,
+            499.0,
+            "And Pioneer who lengthens."
+        ],
+        "127": [
+            499.0,
+            501.0,
+            "Loss of Obadi."
+        ],
+        "128": [
+            501.0,
+            502.0,
+            "With Ciprien."
+        ],
+        "129": [
+            502.0,
+            504.0,
+            "William Ciprien who resists Skyri."
+        ],
+        "130": [
+            504.0,
+            506.0,
+            "And who can rule out Souké."
+        ],
+        "131": [
+            506.0,
+            509.0,
+            "Souké with Esséry who wanted to find Souké."
+        ],
+        "132": [
+            510.0,
+            512.0,
+            "Paul Baïs now."
+        ],
+        "133": [
+            515.0,
+            518.0,
+            "There is still no such momentum."
+        ],
+        "134": [
+            522.0,
+            525.0,
+            "Who caused so much harm to the opponents here at the Allianz Riviera"
+        ],
+        "135": [
+            525.0,
+            527.0,
+            "since the start of the season."
+        ],
+        "136": [
+            527.0,
+            531.0,
+            "There is no momentum but there are colors that are always very well blocked by the Montpellier team."
+        ],
+        "137": [
+            531.0,
+            533.0,
+            "Shown in schools."
+        ],
+        "138": [
+            533.0,
+            535.0,
+            "There's Belangard lying down."
+        ],
+        "139": [
+            535.0,
+            538.0,
+            "There is Belangard who demands the ball but it is Donis who will perhaps be served."
+        ],
+        "140": [
+            538.0,
+            542.0,
+            "Hilton defended well against the young Greek attackers."
+        ],
+        "141": [
+            544.0,
+            546.0,
+            "And it leaves again for Montpellier with Goodbouz."
+        ],
+        "142": [
+            546.0,
+            548.0,
+            "Goodbouz full axis which can shift."
+        ],
+        "143": [
+            548.0,
+            549.0,
+            "It's Segnon."
+        ],
+        "144": [
+            549.0,
+            551.0,
+            "Return from Souké."
+        ],
+        "145": [
+            551.0,
+            553.0,
+            "And Cardinal on the relaunch."
+        ],
+        "146": [
+            555.0,
+            557.0,
+            "With Dalbert."
+        ],
+        "147": [
+            557.0,
+            559.0,
+            "Dalbert for Ciprien."
+        ],
+        "148": [
+            559.0,
+            561.0,
+            "It was..."
+        ],
+        "149": [
+            561.0,
+            563.0,
+            "It was a good move."
+        ],
+        "150": [
+            563.0,
+            565.0,
+            "It was brilliant."
+        ],
+        "151": [
+            565.0,
+            568.0,
+            "It was a good idea but it was poorly executed."
+        ],
+        "152": [
+            568.0,
+            569.0,
+            "Oh how hard it is."
+        ],
+        "153": [
+            569.0,
+            573.0,
+            "On the Nice side we feel the doubt in the eyes of these players."
+        ],
+        "154": [
+            573.0,
+            575.0,
+            "We cannot find solutions."
+        ],
+        "155": [
+            575.0,
+            577.0,
+            "No automation it seems."
+        ],
+        "156": [
+            578.0,
+            580.0,
+            "Complementarity."
+        ],
+        "157": [
+            580.0,
+            581.0,
+            "Sick."
+        ],
+        "158": [
+            581.0,
+            584.0,
+            "He should take out Anastasios Donis."
+        ],
+        "159": [
+            585.0,
+            588.0,
+            "To collect the balloons."
+        ],
+        "160": [
+            588.0,
+            591.0,
+            "It looks like the badi who plays in front of the defense."
+        ],
+        "161": [
+            591.0,
+            593.0,
+            "For the torchbearer."
+        ],
+        "162": [
+            594.0,
+            596.0,
+            "Surely I'm in the middle for now."
+        ],
+        "163": [
+            597.0,
+            600.0,
+            "Rousillon with Daniel Congré."
+        ],
+        "164": [
+            602.0,
+            605.0,
+            "Congress pay attention to the recovery of Aubadie."
+        ],
+        "165": [
+            605.0,
+            608.0,
+            "Aubadie who missed behind the ball control."
+        ],
+        "166": [
+            608.0,
+            609.0,
+            "And who expected support."
+        ],
+        "167": [
+            609.0,
+            611.0,
+            "This is what he tells his partners."
+        ],
+        "168": [
+            613.0,
+            615.0,
+            "Hilton."
+        ],
+        "169": [
+            615.0,
+            618.0,
+            "In front of him Baez who arrives for the interception."
+        ],
+        "170": [
+            618.0,
+            619.0,
+            "Dalbert now."
+        ],
+        "171": [
+            619.0,
+            621.0,
+            "Dalbert with Cyprien."
+        ],
+        "172": [
+            621.0,
+            623.0,
+            "Cyprien who will try to find Dalbert."
+        ],
+        "173": [
+            623.0,
+            624.0,
+            "Good ball in the area."
+        ],
+        "174": [
+            624.0,
+            625.0,
+            "The center of Dalbert."
+        ],
+        "175": [
+            625.0,
+            626.0,
+            "Oh it was towards Donis."
+        ],
+        "176": [
+            626.0,
+            628.0,
+            "It's not over perhaps for Aubadie."
+        ],
+        "177": [
+            628.0,
+            630.0,
+            "Aubadie who is caught but recovers this ball."
+        ],
+        "178": [
+            630.0,
+            632.0,
+            "The center of Aubadie."
+        ],
+        "179": [
+            632.0,
+            635.0,
+            "Oh second post Donis who couldn't control."
+        ],
+        "180": [
+            636.0,
+            639.0,
+            "Donis who will try to save this ball."
+        ],
+        "181": [
+            639.0,
+            641.0,
+            "It would be a release from doubt."
+        ],
+        "182": [
+            643.0,
+            646.0,
+            "It's a shame for Donis because there was good movement at the start."
+        ],
+        "183": [
+            646.0,
+            648.0,
+            "Very nice call from Dalbert in depth."
+        ],
+        "184": [
+            648.0,
+            649.0,
+            "Well served."
+        ],
+        "185": [
+            650.0,
+            651.0,
+            "The center high."
+        ],
+        "186": [
+            651.0,
+            654.0,
+            "And Congré who returns to counter this ball."
+        ],
+        "187": [
+            656.0,
+            659.0,
+            "Donis too short to control at the far post."
+        ],
+        "188": [
+            665.0,
+            666.0,
+            "Hilton."
+        ],
+        "189": [
+            666.0,
+            669.0,
+            "Be careful of these dangerous dances."
+        ],
+        "190": [
+            669.0,
+            670.0,
+            "Montpellier side."
+        ],
+        "191": [
+            670.0,
+            673.0,
+            "This will cause a loss of the ball with Belanda's touch."
+        ],
+        "192": [
+            673.0,
+            674.0,
+            "Aubadie."
+        ],
+        "193": [
+            674.0,
+            677.0,
+            "They are embarrassed by Montpellier because there is more aggression."
+        ],
+        "194": [
+            677.0,
+            679.0,
+            "The Cyprians who strike instantly."
+        ],
+        "195": [
+            679.0,
+            682.0,
+            "Aggressiveness of conviction on the Nice side."
+        ],
+        "196": [
+            682.0,
+            684.0,
+            "They sped up a little there."
+        ],
+        "197": [
+            684.0,
+            686.0,
+            "It must be said that physically they have lowered the Montpellierrins."
+        ],
+        "198": [
+            686.0,
+            687.0,
+            "They said so, Paul Lannes."
+        ],
+        "199": [
+            687.0,
+            689.0,
+            "Are we going to last another 45 minutes?"
+        ],
+        "200": [
+            692.0,
+            697.0,
+            "There are a little more than 34 left now for Montpellier."
+        ],
+        "201": [
+            697.0,
+            699.0,
+            "It's a poison to get wet."
+        ],
+        "202": [
+            699.0,
+            704.0,
+            "I hear myself disrupting, attacking the defenders in his physical presence."
+        ],
+        "203": [
+            707.0,
+            708.0,
+            "Dalbert."
+        ],
+        "204": [
+            708.0,
+            709.0,
+            "Belanda."
+        ],
+        "205": [
+            710.0,
+            712.0,
+            "Belanda who returns to Dante."
+        ],
+        "206": [
+            714.0,
+            716.0,
+            "And we move away to the other side."
+        ],
+        "207": [
+            716.0,
+            718.0,
+            "The reversal for Souquet who has a little space."
+        ],
+        "208": [
+            718.0,
+            719.0,
+            "Arnaud Souquet."
+        ],
+        "209": [
+            719.0,
+            721.0,
+            "Designed now by Roussillon and Lannes."
+        ],
+        "210": [
+            721.0,
+            723.0,
+            "Souquet is not bad for Series."
+        ],
+        "211": [
+            723.0,
+            725.0,
+            "We went without but still."
+        ],
+        "212": [
+            725.0,
+            726.0,
+            "With Cyprien."
+        ],
+        "213": [
+            727.0,
+            732.0,
+            "And this ball which is perhaps playable now for Montpellier with Stéphane Cessegnon."
+        ],
+        "214": [
+            733.0,
+            734.0,
+            "Souquet replaces himself."
+        ],
+        "215": [
+            734.0,
+            737.0,
+            "Cessegnon will delay, wait for the rise of Lannes."
+        ],
+        "216": [
+            737.0,
+            739.0,
+            "Cessegnon who prefers to insist alone."
+        ],
+        "217": [
+            739.0,
+            741.0,
+            "On the other side for Goudebouze."
+        ],
+        "218": [
+            741.0,
+            743.0,
+            "Goudebouze with Mounier."
+        ],
+        "219": [
+            743.0,
+            745.0,
+            "Mounier finds Cessegnon."
+        ],
+        "220": [
+            745.0,
+            747.0,
+            "It remains in the Montpellier region."
+        ],
+        "221": [
+            748.0,
+            749.0,
+            "Steve Mounier."
+        ],
+        "222": [
+            749.0,
+            751.0,
+            "Danger again in front of the Nice surface."
+        ],
+        "223": [
+            751.0,
+            754.0,
+            "Edalbert who intervenes against Bouquiel and it will be a corner."
+        ],
+        "224": [
+            758.0,
+            761.0,
+            "We went from a possibility against Nice to a counter to Montpellier."
+        ],
+        "225": [
+            763.0,
+            765.0,
+            "And we see the disagreement again."
+        ],
+        "226": [
+            767.0,
+            769.0,
+            "Which illustrates the Nice part quite well."
+        ],
+        "227": [
+            769.0,
+            771.0,
+            "Souquet which is a pneumatic enclosure of a team on the road."
+        ],
+        "228": [
+            773.0,
+            775.0,
+            "He moves without ridicule, without football."
+        ],
+        "229": [
+            777.0,
+            779.0,
+            "So we see that the team is being put in place."
+        ],
+        "230": [
+            780.0,
+            782.0,
+            "So the corner for Montpellier."
+        ],
+        "231": [
+            784.0,
+            786.0,
+            "With Riyad Goudebouze."
+        ],
+        "232": [
+            786.0,
+            788.0,
+            "Cessegnon available in front of him."
+        ],
+        "233": [
+            789.0,
+            792.0,
+            "Goudebouze will hit it directly at the far post."
+        ],
+        "234": [
+            792.0,
+            793.0,
+            "It's rolled up head of Congress."
+        ],
+        "235": [
+            793.0,
+            795.0,
+            "Oh it doesn't go far."
+        ],
+        "236": [
+            795.0,
+            797.0,
+            "Above the crossbar."
+        ],
+        "237": [
+            800.0,
+            801.0,
+            "Yeah, that's quite inappropriate."
+        ],
+        "238": [
+            801.0,
+            803.0,
+            "Congre at the far post."
+        ],
+        "239": [
+            803.0,
+            806.0,
+            "He's on the back foot, he can't bring the ball down correctly."
+        ],
+        "240": [
+            807.0,
+            811.0,
+            "There will be change with the big return of Mickaël Lebihan."
+        ],
+        "241": [
+            811.0,
+            813.0,
+            "In place of Anastasios Donis."
+        ],
+        "242": [
+            813.0,
+            819.0,
+            "We will be able to listen to whether or not the Riviera Alliance liked the first Greek as holder."
+        ],
+        "243": [
+            821.0,
+            825.0,
+            "I think we will especially hear a nice ovation for the return of Mickaël Lebihan."
+        ],
+        "244": [
+            825.0,
+            827.0,
+            "We will have the opportunity to talk about it."
+        ],
+        "245": [
+            827.0,
+            830.0,
+            "First this series ball which takes him badly and which comes up against Hilton."
+        ],
+        "246": [
+            831.0,
+            833.0,
+            "Mickaël Lebihan is preparing."
+        ],
+        "247": [
+            834.0,
+            837.0,
+            "First the exit of Anastasios Donis."
+        ],
+        "248": [
+            838.0,
+            844.0,
+            "Who is applauded by the Nice public even if they couldn't do much this evening."
+        ],
+        "249": [
+            844.0,
+            847.0,
+            "Difficult performance for the young Greek."
+        ],
+        "250": [
+            847.0,
+            850.0,
+            "And so the big comeback we are going to listen to."
+        ],
+        "251": [
+            856.0,
+            859.0,
+            "Mickaël Lebihan who is a summer 2015 recruit in Nice."
+        ],
+        "252": [
+            859.0,
+            862.0,
+            "He played only three matches with OGC Nice."
+        ],
+        "253": [
+            862.0,
+            865.0,
+            "And his last one was in September 2015."
+        ],
+        "254": [
+            865.0,
+            867.0,
+            "He had also scored against Bordeaux."
+        ],
+        "255": [
+            867.0,
+            873.0,
+            "For 17 months of hardship for Mickaël Lebihan who was injured in the tibia, fractured tibia."
+        ],
+        "256": [
+            874.0,
+            875.0,
+            "Quite a few complications."
+        ],
+        "257": [
+            875.0,
+            878.0,
+            "He was late, to say the least, in coming back."
+        ],
+        "258": [
+            878.0,
+            881.0,
+            "He has been back in CFA for about a month."
+        ],
+        "259": [
+            881.0,
+            883.0,
+            "And it’s his big return with the first team."
+        ],
+        "260": [
+            883.0,
+            887.0,
+            "At a time when Nice needs a striker."
+        ],
+        "261": [
+            887.0,
+            888.0,
+            "He needs to score."
+        ],
+        "262": [
+            889.0,
+            890.0,
+            "And that's not good."
+        ],
+        "263": [
+            890.0,
+            892.0,
+            "What Souquet did for Belanda."
+        ],
+        "264": [
+            893.0,
+            895.0,
+            "This is no less a use of the sides."
+        ],
+        "265": [
+            895.0,
+            897.0,
+            "They often tend to go through the axis."
+        ],
+        "266": [
+            897.0,
+            899.0,
+            "They come impaled in the Montpellier-Rennes defense."
+        ],
+        "267": [
+            899.0,
+            903.0,
+            "Don't hesitate to go through the corridors."
+        ],
+        "268": [
+            903.0,
+            905.0,
+            "They are able to do it with Souquet who brings in a lot of crosses."
+        ],
+        "269": [
+            905.0,
+            907.0,
+            "As did Dalbert."
+        ],
+        "270": [
+            913.0,
+            917.0,
+            "And we hear Lucien Favre speaking to Mickaël Lebihan."
+        ],
+        "271": [
+            919.0,
+            921.0,
+            "And here it is with his number 10."
+        ],
+        "272": [
+            922.0,
+            925.0,
+            "He was top scorer in Ligue 2 when he arrived at Nice."
+        ],
+        "273": [
+            925.0,
+            927.0,
+            "Top scorer with Le Havre."
+        ],
+        "274": [
+            932.0,
+            934.0,
+            "Balloon for Esséric."
+        ],
+        "275": [
+            936.0,
+            938.0,
+            "He was the one who cut the road."
+        ],
+        "276": [
+            939.0,
+            941.0,
+            "The right tack did not go to Mickaël Lebihan's return to school."
+        ],
+        "277": [
+            941.0,
+            943.0,
+            "But above all there is a change of tactics at Belanda"
+        ],
+        "278": [
+            943.0,
+            946.0,
+            "who will be in support of Lebihan."
+        ],
+        "279": [
+            947.0,
+            949.0,
+            "It’s him to take it back a notch."
+        ],
+        "280": [
+            949.0,
+            952.0,
+            "It seems to me associated with Mouigny-Aubadie."
+        ],
+        "281": [
+            952.0,
+            954.0,
+            "Of course 4-2-3-1."
+        ],
+        "282": [
+            954.0,
+            956.0,
+            "More offensive weight."
+        ],
+        "283": [
+            956.0,
+            959.0,
+            "Support for the attacker too who is often isolated."
+        ],
+        "284": [
+            961.0,
+            964.0,
+            "Aubadie here he is with Jean-Michael Serri."
+        ],
+        "285": [
+            964.0,
+            966.0,
+            "Ball for Cyprien."
+        ],
+        "286": [
+            966.0,
+            968.0,
+            "Cyprien looking for Belanda who let him pass."
+        ],
+        "287": [
+            968.0,
+            970.0,
+            "It's taken by Moukielé."
+        ],
+        "288": [
+            971.0,
+            972.0,
+            "Boubouze."
+        ],
+        "289": [
+            972.0,
+            974.0,
+            "And Dante's intervention."
+        ],
+        "290": [
+            974.0,
+            976.0,
+            "With Serri, Cyprien, Belanda."
+        ],
+        "291": [
+            976.0,
+            977.0,
+            "Well done Esséric."
+        ],
+        "292": [
+            977.0,
+            978.0,
+            "Lebihan's call."
+        ],
+        "293": [
+            978.0,
+            980.0,
+            "Lebihan it will be short."
+        ],
+        "294": [
+            980.0,
+            983.0,
+            "Intervention by Laurent Pionnier."
+        ],
+        "295": [
+            983.0,
+            985.0,
+            "Belanda who finds a job."
+        ],
+        "296": [
+            985.0,
+            986.0,
+            "Who did it alone."
+        ],
+        "297": [
+            986.0,
+            987.0,
+            "Who did it alone."
+        ],
+        "298": [
+            987.0,
+            988.0,
+            "He prefers to play as number 10."
+        ],
+        "299": [
+            988.0,
+            990.0,
+            "This is what he recalled not so long ago."
+        ],
+        "300": [
+            996.0,
+            998.0,
+            "Aubadie’s awakening."
+        ],
+        "301": [
+            998.0,
+            1000.0,
+            "This ball put into touch."
+        ],
+        "302": [
+            1005.0,
+            1006.0,
+            "Congress."
+        ],
+        "303": [
+            1006.0,
+            1007.0,
+            "With Roussillon."
+        ],
+        "304": [
+            1010.0,
+            1012.0,
+            "The rise of Jérôme Roussillon."
+        ],
+        "305": [
+            1012.0,
+            1014.0,
+            "Cyprien who finds himself a little in the right job."
+        ],
+        "306": [
+            1014.0,
+            1016.0,
+            "We will have to make efforts."
+        ],
+        "307": [
+            1020.0,
+            1022.0,
+            "And we go back to Daniel Congrès."
+        ],
+        "308": [
+            1029.0,
+            1030.0,
+            "It is well done."
+        ],
+        "309": [
+            1030.0,
+            1031.0,
+            "It is well done."
+        ],
+        "310": [
+            1031.0,
+            1034.0,
+            "A change of sides with Soukey's interception."
+        ],
+        "311": [
+            1034.0,
+            1036.0,
+            "Nice who regained possession."
+        ],
+        "312": [
+            1036.0,
+            1039.0,
+            "But that doesn’t translate into clear-cut opportunities."
+        ],
+        "313": [
+            1039.0,
+            1040.0,
+            "No lume."
+        ],
+        "314": [
+            1043.0,
+            1044.0,
+            "And shit."
+        ],
+        "315": [
+            1044.0,
+            1046.0,
+            "With Laurent Pionnier."
+        ],
+        "316": [
+            1046.0,
+            1048.0,
+            "Montpellier who didn't have a great chance either."
+        ],
+        "317": [
+            1048.0,
+            1054.0,
+            "But who transformed the first and who has since managed this advantage rather calmly."
+        ],
+        "318": [
+            1054.0,
+            1056.0,
+            "This is the clear opportunity for Montpellier."
+        ],
+        "319": [
+            1056.0,
+            1061.4,
+            "But who transformed the first and who has since managed this advantage rather calmly."
+        ],
+        "320": [
+            1069.4,
+            1072.2,
+            "On Youki N'Souf, a shot on target to score a goal."
+        ],
+        "321": [
+            1072.2,
+            1074.6,
+            "Efficiency and Le Bihan on the edge of offside."
+        ],
+        "322": [
+            1074.6,
+            1076.4,
+            "He was offside, Mickael Le Bihan."
+        ],
+        "323": [
+            1076.6,
+            1077.6,
+            "Yes, above all..."
+        ],
+        "324": [
+            1079.0,
+            1081.8,
+            "Inspiration also from Pionnier, who had anticipated this deep ball."
+        ],
+        "325": [
+            1081.8,
+            1082.4,
+            "It was high."
+        ],
+        "326": [
+            1083.4,
+            1087.4,
+            "It was limited, Mickael Le Bihan didn't have the ball anyway."
+        ],
+        "327": [
+            1087.4,
+            1089.4,
+            "And it’s complicated, as we’ve seen."
+        ],
+        "328": [
+            1089.4,
+            1093.4,
+            "At the powerful moment of Belhambra, forces Congré-Houton to come out on the attacking midfielder."
+        ],
+        "329": [
+            1093.4,
+            1095.4,
+            "Well, he finds himself one step behind."
+        ],
+        "330": [
+            1095.4,
+            1098.4,
+            "It will give possibilities to Le Bihan."
+        ],
+        "331": [
+            1099.4,
+            1102.4,
+            "He needs to get his rhythm back, that’s an understatement to say."
+        ],
+        "332": [
+            1102.4,
+            1107.4,
+            "After 15 months off, 17 months without high-level competition."
+        ],
+        "333": [
+            1107.4,
+            1109.4,
+            "This match was in CFA, I believe."
+        ],
+        "334": [
+            1109.4,
+            1111.4,
+            "There you go, he made 15 matches in the CFA."
+        ],
+        "335": [
+            1111.4,
+            1112.4,
+            "He scored a goal."
+        ],
+        "336": [
+            1116.4,
+            1119.4,
+            "But at a very high level, Ligue 1 is something else."
+        ],
+        "337": [
+            1123.4,
+            1125.4,
+            "Dalbert, with Sery."
+        ],
+        "338": [
+            1131.4,
+            1133.4,
+            "Sery who will find Belhambra."
+        ],
+        "339": [
+            1134.4,
+            1136.4,
+            "Dalbert again."
+        ],
+        "340": [
+            1138.4,
+            1139.4,
+            "And the wing change."
+        ],
+        "341": [
+            1140.4,
+            1142.4,
+            "To Souquet."
+        ],
+        "342": [
+            1144.4,
+            1145.4,
+            "Paul Baïs."
+        ],
+        "343": [
+            1147.4,
+            1148.4,
+            "Dante."
+        ],
+        "344": [
+            1149.4,
+            1151.4,
+            "Dante over towards Esséric."
+        ],
+        "345": [
+            1151.4,
+            1153.4,
+            "It's taken by Hilton."
+        ],
+        "346": [
+            1153.4,
+            1155.4,
+            "Congress which relaunches on Moukielé."
+        ],
+        "347": [
+            1155.4,
+            1157.4,
+            "There is the Belhambra dry cleaners who picked him up."
+        ],
+        "348": [
+            1158.4,
+            1160.4,
+            "Younes Belhambra with a good ball for Cyprien."
+        ],
+        "349": [
+            1160.4,
+            1162.4,
+            "Cyprien who can adjust."
+        ],
+        "350": [
+            1162.4,
+            1163.4,
+            "Oh that's just missing the point."
+        ],
+        "351": [
+            1163.4,
+            1168.4,
+            "Cyprien had time to look at Pionnier who seemed beaten."
+        ],
+        "352": [
+            1169.4,
+            1174.4,
+            "Moukielé lacked aggression in this duel with Belhambra."
+        ],
+        "353": [
+            1175.4,
+            1177.4,
+            "Which serves Cyprien perfectly in the axis."
+        ],
+        "354": [
+            1177.4,
+            1181.4,
+            "This ball which passes right next to Pionnier's goal."
+        ],
+        "355": [
+            1181.4,
+            1184.4,
+            "He can't do anything, the Montpellier goalkeeper."
+        ],
+        "356": [
+            1186.4,
+            1187.4,
+            "And Super Mario is here."
+        ],
+        "357": [
+            1187.4,
+            1189.4,
+            "Ordination found her."
+        ],
+        "358": [
+            1189.4,
+            1191.4,
+            "This is not what the Rizos were expecting."
+        ],
+        "359": [
+            1193.4,
+            1196.4,
+            "The other Super Mario Balotelli is not here tonight."
+        ],
+        "360": [
+            1200.4,
+            1205.4,
+            "In the center of Lannes, Jean-Michel Sery who controls this ball."
+        ],
+        "361": [
+            1205.4,
+            1207.4,
+            "Who will try to restart it properly."
+        ],
+        "362": [
+            1207.4,
+            1208.4,
+            "It’s well done with Arnaud Souquet."
+        ],
+        "363": [
+            1210.4,
+            1211.4,
+            "Souquet for Cyprien."
+        ],
+        "364": [
+            1212.4,
+            1213.4,
+            "Belhanda."
+        ],
+        "365": [
+            1213.4,
+            1215.4,
+            "It's not the same when you have a Belhanda like that."
+        ],
+        "366": [
+            1215.4,
+            1216.4,
+            "He has an offensive position."
+        ],
+        "367": [
+            1217.4,
+            1220.4,
+            "He organizes the game, distributes the ball."
+        ],
+        "368": [
+            1220.4,
+            1221.4,
+            "Galbert."
+        ],
+        "369": [
+            1222.4,
+            1224.4,
+            "He can no longer center it but he is countered by Moukielé."
+        ],
+        "370": [
+            1224.4,
+            1228.4,
+            "Denis Soic tries to pack this last half hour."
+        ],
+        "371": [
+            1230.4,
+            1232.4,
+            "It is necessary if only to get back on track."
+        ],
+        "372": [
+            1232.4,
+            1233.4,
+            "Aubadie."
+        ],
+        "373": [
+            1234.4,
+            1235.4,
+            "With Sery."
+        ],
+        "374": [
+            1237.4,
+            1239.4,
+            "On the other side Paul Baiss."
+        ],
+        "375": [
+            1240.4,
+            1242.4,
+            "Baiss who advances in the Montpellier camp."
+        ],
+        "376": [
+            1242.4,
+            1243.4,
+            "He relies on Souquet."
+        ],
+        "377": [
+            1246.4,
+            1247.4,
+            "Sery."
+        ],
+        "378": [
+            1249.4,
+            1250.4,
+            "With Cyprien."
+        ],
+        "379": [
+            1254.4,
+            1256.4,
+            "Cyprien who exchanges with Aubadie now."
+        ],
+        "380": [
+            1257.4,
+            1258.4,
+            "And Sery."
+        ],
+        "381": [
+            1258.4,
+            1260.4,
+            "And Sery who has the ball at the edge of the area."
+        ],
+        "382": [
+            1260.4,
+            1261.4,
+            "It is limited."
+        ],
+        "383": [
+            1261.4,
+            1262.4,
+            "Esseric's strike."
+        ],
+        "384": [
+            1262.4,
+            1263.4,
+            "Small net."
+        ],
+        "385": [
+            1263.4,
+            1264.4,
+            "He had successfully dribbled."
+        ],
+        "386": [
+            1266.4,
+            1268.4,
+            "It's a great confrontation from the Niçois."
+        ],
+        "387": [
+            1270.4,
+            1271.4,
+            "We served this ball."
+        ],
+        "388": [
+            1271.4,
+            1272.4,
+            "Taunt 1 on 1."
+        ],
+        "389": [
+            1272.4,
+            1274.4,
+            "Passage from Jean-Michel Sery who veers a little too far."
+        ],
+        "390": [
+            1275.4,
+            1277.4,
+            "Who tries the shot at the near post."
+        ],
+        "391": [
+            1280.4,
+            1283.4,
+            "This will be one of Valentin Esseric's last balls."
+        ],
+        "392": [
+            1283.4,
+            1285.4,
+            "We talked earlier about the return of Le Billan."
+        ],
+        "393": [
+            1285.4,
+            1289.4,
+            "Football France will discover a young Tunisian talent."
+        ],
+        "394": [
+            1289.4,
+            1292.4,
+            "Who will be back in a few moments."
+        ],
+        "395": [
+            1292.4,
+            1293.4,
+            "Bassem Srarfi."
+        ],
+        "396": [
+            1294.4,
+            1295.4,
+            "It is said to be the greatest good."
+        ],
+        "397": [
+            1295.4,
+            1296.4,
+            "To discover."
+        ],
+        "398": [
+            1297.4,
+            1299.4,
+            "The other recruited from the Mercato Niçois."
+        ],
+        "399": [
+            1300.4,
+            1301.4,
+            "With Aubadie."
+        ],
+        "400": [
+            1301.4,
+            1302.4,
+            "Winter transfer window."
+        ],
+        "401": [
+            1302.4,
+            1303.4,
+            "100 years."
+        ],
+        "402": [
+            1304.4,
+            1305.4,
+            "It’s Bassem Srarfi indeed."
+        ],
+        "403": [
+            1306.4,
+            1308.4,
+            "Who arrived from the African club in Tunis."
+        ],
+        "404": [
+            1309.4,
+            1311.4,
+            "Who is very young and who we will discover first."
+        ],
+        "405": [
+            1313.4,
+            1314.4,
+            "Mbenza on the Montpellier side."
+        ],
+        "406": [
+            1314.4,
+            1315.4,
+            "Which will also..."
+        ],
+        "407": [
+            1317.4,
+            1318.4,
+            "Make your entrance."
+        ],
+        "408": [
+            1322.4,
+            1324.4,
+            "Ball for the Nice with Dalbert."
+        ],
+        "409": [
+            1328.4,
+            1329.4,
+            "Behind Dante."
+        ],
+        "410": [
+            1332.4,
+            1334.4,
+            "Sery finds Dalbert."
+        ],
+        "411": [
+            1336.4,
+            1337.4,
+            "Esseric."
+        ],
+        "412": [
+            1338.4,
+            1339.4,
+            "Emine Moumkielé."
+        ],
+        "413": [
+            1339.4,
+            1340.4,
+            "Esseric."
+        ],
+        "414": [
+            1340.4,
+            1341.4,
+            "Interception of Cesenion."
+        ],
+        "415": [
+            1341.4,
+            1342.4,
+            "Cesenion has the last word."
+        ],
+        "416": [
+            1342.4,
+            1343.4,
+            "Valentin Esseric."
+        ],
+        "417": [
+            1343.4,
+            1344.4,
+            "With Le Billan."
+        ],
+        "418": [
+            1344.4,
+            1345.4,
+            "The gate of Le Billan."
+        ],
+        "419": [
+            1346.4,
+            1347.4,
+            "And the Nice equalizer."
+        ],
+        "420": [
+            1348.4,
+            1350.4,
+            "It is the resurrection of Mbenza."
+        ],
+        "421": [
+            1351.4,
+            1352.4,
+            "17 points without playing."
+        ],
+        "422": [
+            1353.4,
+            1354.4,
+            "He just came back and look."
+        ],
+        "423": [
+            1355.4,
+            1356.4,
+            "How he is celebrated."
+        ],
+        "424": [
+            1357.4,
+            1358.4,
+            "By its partners."
+        ],
+        "425": [
+            1359.4,
+            1360.4,
+            "One everywhere."
+        ],
+        "426": [
+            1362.4,
+            1363.4,
+            "And what a story."
+        ],
+        "427": [
+            1363.4,
+            1364.4,
+            "For Mbenza."
+        ],
+        "428": [
+            1364.4,
+            1365.4,
+            "It's number 10."
+        ],
+        "429": [
+            1369.4,
+            1371.4,
+            "Lots of happiness for him."
+        ],
+        "430": [
+            1373.4,
+            1375.4,
+            "He struggled during these 17 months."
+        ],
+        "431": [
+            1377.4,
+            1378.4,
+            "He never gave up."
+        ],
+        "432": [
+            1381.4,
+            1383.4,
+            "He just came in a few minutes ago."
+        ],
+        "433": [
+            1384.4,
+            1386.4,
+            "And almost on his first occasion."
+        ],
+        "434": [
+            1387.4,
+            1388.4,
+            "He had lost the starting ball."
+        ],
+        "435": [
+            1388.4,
+            1389.4,
+            "Sery who fights to get it back."
+        ],
+        "436": [
+            1389.4,
+            1390.4,
+            "And a little Russia."
+        ],
+        "437": [
+            1390.4,
+            1391.4,
+            "This starting ball is for..."
+        ],
+        "438": [
+            1392.4,
+            1393.4,
+            "It seems to me it was for Belanda."
+        ],
+        "439": [
+            1394.4,
+            1395.4,
+            "But it's Le Billan who rides this ball."
+        ],
+        "440": [
+            1396.4,
+            1397.4,
+            "And who hits the near post."
+        ],
+        "441": [
+            1397.4,
+            1398.4,
+            "There is nothing he can do Laurent Pionnier."
+        ],
+        "442": [
+            1399.4,
+            1400.4,
+            "On this strike from the attacker."
+        ],
+        "443": [
+            1401.4,
+            1402.4,
+            "Missory."
+        ],
+        "444": [
+            1403.4,
+            1404.4,
+            "And which weighs by its weight."
+        ],
+        "445": [
+            1404.4,
+            1405.4,
+            "By his movements."
+        ],
+        "446": [
+            1406.4,
+            1407.4,
+            "It's sure that it's the same thing that Denis had."
+        ],
+        "447": [
+            1408.4,
+            1411.4,
+            "Even if Lucien Favre's tactical change bore fruit."
+        ],
+        "448": [
+            1412.4,
+            1413.4,
+            "Denis lost Pléa."
+        ],
+        "449": [
+            1414.4,
+            1416.4,
+            "But perhaps picked up an unexpected reinforcement."
+        ],
+        "450": [
+            1417.4,
+            1418.4,
+            "For this end of the season."
+        ],
+        "451": [
+            1418.4,
+            1420.4,
+            "Michael Le Billan is back."
+        ],
+        "452": [
+            1421.4,
+            1422.4,
+            "It's everywhere."
+        ],
+        "453": [
+            1422.4,
+            1423.4,
+            "And that changes everything."
+        ],
+        "454": [
+            1424.4,
+            1425.4,
+            "For this end of the match."
+        ],
+        "455": [
+            1428.4,
+            1429.4,
+            "And Sery."
+        ],
+        "456": [
+            1430.4,
+            1431.4,
+            "He was wise not to come out right away."
+        ],
+        "457": [
+            1432.4,
+            1433.4,
+            "Valentin Esseric."
+        ],
+        "458": [
+            1434.4,
+            1435.4,
+            "Who delivered that last pass."
+        ],
+        "459": [
+            1436.4,
+            1437.4,
+            "I don't know if it's going to come out now."
+        ],
+        "460": [
+            1438.4,
+            1439.4,
+            "Xavier does..."
+        ],
+        "461": [
+            1439.4,
+            1440.4,
+            "Is it achieved?"
+        ],
+        "462": [
+            1441.4,
+            1442.4,
+            "A priori no."
+        ],
+        "463": [
+            1442.4,
+            1444.4,
+            "The young Tunisians were asked to go back and warm up."
+        ],
+        "464": [
+            1445.4,
+            1446.4,
+            "And There you go."
+        ],
+        "465": [
+            1446.4,
+            1447.4,
+            "What does a career mean?"
+        ],
+        "466": [
+            1447.4,
+            1448.4,
+            "Exactly."
+        ],
+        "467": [
+            1448.4,
+            1449.4,
+            "A career too."
+        ],
+        "468": [
+            1450.4,
+            1451.4,
+            "A match."
+        ],
+        "469": [
+            1454.4,
+            1456.4,
+            "There will be 20 minutes left in this match."
+        ],
+        "470": [
+            1458.4,
+            1459.4,
+            "The Nissois now."
+        ],
+        "471": [
+            1460.4,
+            1463.4,
+            "Will definitely push for victory."
+        ],
+        "472": [
+            1463.4,
+            1464.4,
+            "But be careful Montpellier."
+        ],
+        "473": [
+            1464.4,
+            1465.4,
+            "A stipulator."
+        ],
+        "474": [
+            1466.4,
+            1468.4,
+            "Is replaced by a man who scores."
+        ],
+        "475": [
+            1468.4,
+            1469.4,
+            "Since he arrived."
+        ],
+        "476": [
+            1469.4,
+            1470.4,
+            "Isaac Mbenza."
+        ],
+        "477": [
+            1471.4,
+            1472.4,
+            "Already two goals in four games."
+        ],
+        "478": [
+            1474.4,
+            1475.4,
+            "The former Valenciennes player."
+        ],
+        "479": [
+            1476.4,
+            1477.4,
+            "We will see at the forefront of the attack."
+        ],
+        "480": [
+            1477.4,
+            1478.4,
+            "Change of position for position."
+        ],
+        "481": [
+            1478.4,
+            1480.4,
+            "Whereas he usually plays in the right lane."
+        ],
+        "482": [
+            1482.4,
+            1484.4,
+            "It will bring depth."
+        ],
+        "483": [
+            1484.4,
+            1486.4,
+            "We have a pivot player with Mounier."
+        ],
+        "484": [
+            1486.4,
+            1487.4,
+            "Mbenza it will be..."
+        ],
+        "485": [
+            1488.4,
+            1489.4,
+            "Dante's ball for Citrien."
+        ],
+        "486": [
+            1490.4,
+            1493.4,
+            "Citrien who will be able to recover the opponent's heel Souquet."
+        ],
+        "487": [
+            1494.4,
+            1495.4,
+            "Souquet back for Belanda."
+        ],
+        "488": [
+            1495.4,
+            1496.4,
+            "Belanda who is going to strike."
+        ],
+        "489": [
+            1497.4,
+            1498.4,
+            "Belanda who is patient."
+        ],
+        "490": [
+            1499.4,
+            1500.4,
+            "Look for Céric."
+        ],
+        "491": [
+            1500.4,
+            1501.4,
+            "It drags on the surface."
+        ],
+        "492": [
+            1501.4,
+            1502.4,
+            "And the Montpelliers are doing well."
+        ],
+        "493": [
+            1503.4,
+            1504.4,
+            "With Montiel and..."
+        ],
+        "494": [
+            1504.4,
+            1505.4,
+            "Bit of dung."
+        ],
+        "495": [
+            1506.4,
+            1508.4,
+            "We are going to see the fault come to Yad Bout de bouse."
+        ],
+        "496": [
+            1509.4,
+            1510.4,
+            "And cardboard, no doubt."
+        ],
+        "497": [
+            1511.4,
+            1512.4,
+            "For Dalbert."
+        ],
+        "498": [
+            1512.4,
+            1514.4,
+            "Who had to put themselves back together as if nothing had happened."
+        ],
+        "499": [
+            1516.4,
+            1518.4,
+            "But he is called back by Mr. Schneider."
+        ],
+        "500": [
+            1520.4,
+            1521.4,
+            "The atmosphere is completely different now."
+        ],
+        "501": [
+            1521.4,
+            1522.4,
+            "It has changed, yes."
+        ],
+        "502": [
+            1522.4,
+            1523.4,
+            "In the stadium."
+        ],
+        "503": [
+            1523.4,
+            1525.4,
+            "Doubt is now listed in Montpellier who defend..."
+        ],
+        "504": [
+            1526.4,
+            1527.4,
+            "Lower."
+        ],
+        "505": [
+            1528.4,
+            1530.4,
+            "Trouble projecting, coming out cleanly."
+        ],
+        "506": [
+            1531.4,
+            1533.4,
+            "Bothered by the swimming pool also of the people of Nice."
+        ],
+        "507": [
+            1535.4,
+            1537.4,
+            "In the bathrooms also physically."
+        ],
+        "508": [
+            1544.4,
+            1545.4,
+            "We saw his mistake again."
+        ],
+        "509": [
+            1545.4,
+            1548.4,
+            "We see he is late for Yad Bout de bouse."
+        ],
+        "510": [
+            1555.4,
+            1556.4,
+            "And the free kick therefore for Montpellier."
+        ],
+        "511": [
+            1558.4,
+            1559.4,
+            "With Hilton."
+        ],
+        "512": [
+            1560.4,
+            1561.4,
+            "For Skyrii."
+        ],
+        "513": [
+            1561.4,
+            1562.4,
+            "Bit of dung."
+        ],
+        "514": [
+            1563.4,
+            1564.4,
+            "With Mbenza."
+        ],
+        "515": [
+            1564.4,
+            1565.4,
+            "It is well done."
+        ],
+        "516": [
+            1565.4,
+            1566.4,
+            "Piece of dung that preserves."
+        ],
+        "517": [
+            1570.4,
+            1571.4,
+            "And the fullness touches her."
+        ],
+        "518": [
+            1571.4,
+            1572.4,
+            "Yad Bout of dung."
+        ],
+        "519": [
+            1572.4,
+            1574.4,
+            "That will do his team good."
+        ],
+        "520": [
+            1574.4,
+            1575.4,
+            "To be able to recover a little bit there."
+        ],
+        "521": [
+            1575.4,
+            1576.4,
+            "By staying in the camp."
+        ],
+        "522": [
+            1577.4,
+            1578.4,
+            "Nice."
+        ],
+        "523": [
+            1580.4,
+            1581.4,
+            "It’s Saignon."
+        ],
+        "524": [
+            1583.4,
+            1584.4,
+            "Pressed by Obadi."
+        ],
+        "525": [
+            1585.4,
+            1586.4,
+            "Sila."
+        ],
+        "526": [
+            1587.4,
+            1589.4,
+            "And Montpellier which offers a little..."
+        ],
+        "527": [
+            1589.4,
+            1590.4,
+            "Possession."
+        ],
+        "528": [
+            1593.4,
+            1596.4,
+            "We see two balls touched for Michael Guillan."
+        ],
+        "529": [
+            1596.4,
+            1597.4,
+            "Already a goal."
+        ],
+        "530": [
+            1600.4,
+            1601.4,
+            "He who has so much..."
+        ],
+        "531": [
+            1602.4,
+            1605.4,
+            "So patient to find the land."
+        ],
+        "532": [
+            1607.4,
+            1609.4,
+            "He was on the verge of discouragement last year."
+        ],
+        "533": [
+            1610.4,
+            1612.4,
+            "It was an almost blank season for him."
+        ],
+        "534": [
+            1617.4,
+            1619.4,
+            "Seric dismisses Souquet."
+        ],
+        "535": [
+            1623.4,
+            1624.4,
+            "With Obadi."
+        ],
+        "536": [
+            1628.4,
+            1629.4,
+            "And Dante."
+        ],
+        "537": [
+            1631.4,
+            1633.4,
+            "Balloon for Valentin and Seric."
+        ],
+        "538": [
+            1633.4,
+            1634.4,
+            "Pelanda."
+        ],
+        "539": [
+            1634.4,
+            1635.4,
+            "And Seric."
+        ],
+        "540": [
+            1635.4,
+            1636.4,
+            "Obadi."
+        ],
+        "541": [
+            1637.4,
+            1639.4,
+            "Things are immediately better in the transmissions on the Nice side."
+        ],
+        "542": [
+            1640.4,
+            1641.4,
+            "With Arnaud Souquet."
+        ],
+        "543": [
+            1641.4,
+            1642.4,
+            "Cyprien."
+        ],
+        "544": [
+            1643.4,
+            1644.4,
+            "Souquet who insists."
+        ],
+        "545": [
+            1645.4,
+            1649.4,
+            "Pelanda also positioned himself in support of the attacker."
+        ],
+        "546": [
+            1649.4,
+            1650.4,
+            "We see Skyrii."
+        ],
+        "547": [
+            1650.4,
+            1652.4,
+            "Who came back into the midfield and..."
+        ],
+        "548": [
+            1652.4,
+            1653.4,
+            "Nothing stupid."
+        ],
+        "549": [
+            1654.4,
+            1655.4,
+            "More in the right corridor."
+        ],
+        "550": [
+            1656.4,
+            1657.4,
+            "He came back to put numbers there."
+        ],
+        "551": [
+            1657.4,
+            1658.4,
+            "Between."
+        ],
+        "552": [
+            1659.4,
+            1661.4,
+            "Ennis putting the pressure back on with Obadi."
+        ],
+        "553": [
+            1662.4,
+            1664.4,
+            "Obadi who advances in the field, who will shift from Albert."
+        ],
+        "554": [
+            1665.4,
+            1666.4,
+            "Left side."
+        ],
+        "555": [
+            1668.4,
+            1669.4,
+            "And Seric."
+        ],
+        "556": [
+            1670.4,
+            1672.4,
+            "Nice space on the other side for Arnaud Souquet."
+        ],
+        "557": [
+            1673.4,
+            1674.4,
+            "The reversal is successful."
+        ],
+        "558": [
+            1674.4,
+            1676.4,
+            "Souquet who raised his head."
+        ],
+        "559": [
+            1676.4,
+            1677.4,
+            "Who relies on Cyprien."
+        ],
+        "560": [
+            1678.4,
+            1679.4,
+            "Cyprien the center."
+        ],
+        "561": [
+            1680.4,
+            1681.4,
+            "And Mukere's head."
+        ],
+        "562": [
+            1682.4,
+            1683.4,
+            "Which allows the Montpollierains to leave again."
+        ],
+        "563": [
+            1684.4,
+            1685.4,
+            "Dung shot."
+        ],
+        "564": [
+            1686.4,
+            1687.4,
+            "Ball for Mbenza."
+        ],
+        "565": [
+            1688.4,
+            1690.4,
+            "Who will try to challenge Dante to the race."
+        ],
+        "566": [
+            1691.4,
+            1694.4,
+            "He has the Mbenza ball but it is well cleared by the Brazilian."
+        ],
+        "567": [
+            1696.4,
+            1699.4,
+            "While we are preparing Mathieu Deplagne for a second Montpollierain change."
+        ],
+        "568": [
+            1700.4,
+            1703.4,
+            "It seems the place of Paul Danne who gave a lot."
+        ],
+        "569": [
+            1703.4,
+            1704.4,
+            "Which is messing up a bit."
+        ],
+        "570": [
+            1705.4,
+            1706.4,
+            "As you said, the corridor players work..."
+        ],
+        "571": [
+            1707.4,
+            1708.4,
+            "We work a lot and it shows."
+        ],
+        "572": [
+            1708.4,
+            1709.4,
+            "They are tired."
+        ],
+        "573": [
+            1712.4,
+            1715.4,
+            "Ball taken by the Nice with Obadi and Sery."
+        ],
+        "574": [
+            1717.4,
+            1718.4,
+            "Dante."
+        ],
+        "575": [
+            1722.4,
+            1723.4,
+            "Paul Baiss."
+        ],
+        "576": [
+            1725.4,
+            1726.4,
+            "Souquet."
+        ],
+        "577": [
+            1726.4,
+            1727.4,
+            "Sweetened by the stadium."
+        ],
+        "578": [
+            1727.4,
+            1728.4,
+            "Arnaud Souquet who advances."
+        ],
+        "579": [
+            1730.4,
+            1731.4,
+            "Sery."
+        ],
+        "580": [
+            1732.4,
+            1734.4,
+            "On the other side towards Valentin and Sérik."
+        ],
+        "581": [
+            1735.4,
+            1737.4,
+            "Difficult to control this ball but he wins it."
+        ],
+        "582": [
+            1738.4,
+            1739.4,
+            "Vs Sérik."
+        ],
+        "583": [
+            1742.4,
+            1743.4,
+            "Obadi."
+        ],
+        "584": [
+            1744.4,
+            1745.4,
+            "With Sery."
+        ],
+        "585": [
+            1746.4,
+            1748.4,
+            "And we change sides again."
+        ],
+        "586": [
+            1749.4,
+            1753.4,
+            "Nice which resumes its possession game in the Montpollierain camp with Cyprien."
+        ],
+        "587": [
+            1758.4,
+            1759.4,
+            "Sery for Belanda."
+        ],
+        "588": [
+            1764.4,
+            1766.4,
+            "And Obadi who pushed him aside for Arnaud Souquet."
+        ],
+        "589": [
+            1769.4,
+            1770.4,
+            "Souquet who goes to challenge Rousillon."
+        ],
+        "590": [
+            1770.4,
+            1772.4,
+            "Souquet who comes back inside for Obadi."
+        ],
+        "591": [
+            1773.4,
+            1774.4,
+            "Obadi with Souquet again."
+        ],
+        "592": [
+            1775.4,
+            1776.4,
+            "At the corner of the surface."
+        ],
+        "593": [
+            1776.4,
+            1777.4,
+            "Strong cross in front of goal."
+        ],
+        "594": [
+            1777.4,
+            1778.4,
+            "No one had thrown themselves."
+        ],
+        "595": [
+            1780.4,
+            1784.4,
+            "He was slow to come to the first and above all Seryk did not dive into the penalty area."
+        ],
+        "596": [
+            1786.4,
+            1787.4,
+            "Bounbouz."
+        ],
+        "597": [
+            1787.4,
+            1788.4,
+            "But it's done well again against Dalbert."
+        ],
+        "598": [
+            1788.4,
+            1789.4,
+            "Bounbouz with the support of Skyri."
+        ],
+        "599": [
+            1790.4,
+            1795.4,
+            "Skyri who prefers to go inside, perhaps forgetting to serve Paul Lannes."
+        ],
+        "600": [
+            1798.4,
+            1799.4,
+            "And it leaves for Nice."
+        ],
+        "601": [
+            1800.4,
+            1801.4,
+            "With Baïs."
+        ],
+        "602": [
+            1803.4,
+            1805.4,
+            "Who advances into the Montpollierain camp."
+        ],
+        "603": [
+            1807.4,
+            1809.4,
+            "We have entered the last quarter of an hour of this match."
+        ],
+        "604": [
+            1812.4,
+            1813.4,
+            "Obadi with Esséric."
+        ],
+        "605": [
+            1816.4,
+            1817.4,
+            "Cyprien."
+        ],
+        "606": [
+            1817.4,
+            1819.4,
+            "We ask for Dalbert's support in the corridor."
+        ],
+        "607": [
+            1820.4,
+            1821.4,
+            "There he is, Dalbert."
+        ],
+        "608": [
+            1822.4,
+            1823.4,
+            "We find Willan Cyprien."
+        ],
+        "609": [
+            1824.4,
+            1825.4,
+            "The Billon who demands on the other side."
+        ],
+        "610": [
+            1826.4,
+            1827.4,
+            "Mickael Le Billon will be served."
+        ],
+        "611": [
+            1828.4,
+            1829.4,
+            "With good control."
+        ],
+        "612": [
+            1830.4,
+            1831.4,
+            "There is Roussillon who has returned."
+        ],
+        "613": [
+            1832.4,
+            1833.4,
+            "But he will keep Le Billon."
+        ],
+        "614": [
+            1835.4,
+            1836.4,
+            "Le Billon for Obadi is well done."
+        ],
+        "615": [
+            1836.4,
+            1837.4,
+            "Obadi who has time."
+        ],
+        "616": [
+            1837.4,
+            1838.4,
+            "For Cyprian."
+        ],
+        "617": [
+            1838.4,
+            1839.4,
+            "OK."
+        ],
+        "618": [
+            1839.4,
+            1840.4,
+            "He was advanced by Skyri."
+        ],
+        "619": [
+            1840.4,
+            1841.4,
+            "One extremity."
+        ],
+        "620": [
+            1842.4,
+            1843.4,
+            "It was an opportunity there for Nice."
+        ],
+        "621": [
+            1844.4,
+            1845.4,
+            "And it will come back."
+        ],
+        "622": [
+            1846.4,
+            1847.4,
+            "Nice's push is confirmed with Souquet."
+        ],
+        "623": [
+            1848.4,
+            1849.4,
+            "Esséric a little short."
+        ],
+        "624": [
+            1850.4,
+            1851.4,
+            "Cyprian now."
+        ],
+        "625": [
+            1851.4,
+            1852.4,
+            "The center of Cyprien."
+        ],
+        "626": [
+            1852.4,
+            1853.4,
+            "And Obadi."
+        ],
+        "627": [
+            1853.4,
+            1854.4,
+            "Oh this balloon slowed down by..."
+        ],
+        "628": [
+            1855.4,
+            1856.4,
+            "He's not used to having this ball."
+        ],
+        "629": [
+            1857.4,
+            1858.4,
+            "Of the head."
+        ],
+        "630": [
+            1858.4,
+            1859.4,
+            "Mounir Obadi."
+        ],
+        "631": [
+            1859.4,
+            1860.4,
+            "And this concentrate of Cyprien."
+        ],
+        "632": [
+            1861.4,
+            1862.4,
+            "He is very alone."
+        ],
+        "633": [
+            1862.4,
+            1863.4,
+            "In the Nice midfield."
+        ],
+        "634": [
+            1864.4,
+            1865.4,
+            "This ball."
+        ],
+        "635": [
+            1865.4,
+            1866.4,
+            "Against."
+        ],
+        "636": [
+            1866.4,
+            1867.4,
+            "By Mounir."
+        ],
+        "637": [
+            1867.4,
+            1869.4,
+            "So be careful because there have actually been changes."
+        ],
+        "638": [
+            1869.4,
+            1870.4,
+            "Two planes should fit."
+        ],
+        "639": [
+            1871.4,
+            1873.4,
+            "For position for position in place of Moukhele."
+        ],
+        "640": [
+            1874.4,
+            1875.4,
+            "But there is also Roussillon which is not good."
+        ],
+        "641": [
+            1876.4,
+            1877.4,
+            "Yes."
+        ],
+        "642": [
+            1877.4,
+            1878.4,
+            "He's cramping."
+        ],
+        "643": [
+            1878.4,
+            1879.4,
+            "He's on the ground."
+        ],
+        "644": [
+            1879.4,
+            1880.4,
+            "Jérôme Roussillon."
+        ],
+        "645": [
+            1880.4,
+            1881.4,
+            "So if it's a cramp."
+        ],
+        "646": [
+            1882.4,
+            1883.4,
+            "It should be fine."
+        ],
+        "647": [
+            1883.4,
+            1884.4,
+            "He will get up."
+        ],
+        "648": [
+            1884.4,
+            1885.4,
+            "Yes, but you don't accelerate."
+        ],
+        "649": [
+            1886.4,
+            1887.4,
+            "When you are in great shape."
+        ],
+        "650": [
+            1888.4,
+            1889.4,
+            "So facing the climbs."
+        ],
+        "651": [
+            1890.4,
+            1891.4,
+            "Facing the Souquet climbs."
+        ],
+        "652": [
+            1892.4,
+            1893.4,
+            "Maintaining change."
+        ],
+        "653": [
+            1894.4,
+            1895.4,
+            "No, we change change."
+        ],
+        "654": [
+            1895.4,
+            1897.4,
+            "It is no longer Moukhele but Roussillon who will leave."
+        ],
+        "655": [
+            1898.4,
+            1899.4,
+            "Of course."
+        ],
+        "656": [
+            1899.4,
+            1900.4,
+            "No risk taking."
+        ],
+        "657": [
+            1900.4,
+            1902.4,
+            "For a while weak near Montpelerin."
+        ],
+        "658": [
+            1903.4,
+            1904.4,
+            "It is necessary that all his forces in presence"
+        ],
+        "659": [
+            1904.4,
+            1905.4,
+            "are physically well."
+        ],
+        "660": [
+            1905.4,
+            1906.4,
+            "And it is not in Roussillon."
+        ],
+        "661": [
+            1908.4,
+            1909.4,
+            "There is a lot of emphasis on the side."
+        ],
+        "662": [
+            1909.4,
+            1910.4,
+            "Nice side with Souquet."
+        ],
+        "663": [
+            1911.4,
+            1914.4,
+            "And Jérôme Roussillon who will therefore give way to Mathieu De Plagne."
+        ],
+        "664": [
+            1916.4,
+            1917.4,
+            "We will see that it will help on the left side."
+        ],
+        "665": [
+            1918.4,
+            1919.4,
+            "It's not a natural position."
+        ],
+        "666": [
+            1919.4,
+            1921.4,
+            "He has already played at De Plagne in all positions."
+        ],
+        "667": [
+            1921.4,
+            1924.4,
+            "He can play left back without problem in the defensive sector."
+        ],
+        "668": [
+            1930.4,
+            1931.4,
+            "For the last quarter of an hour of this match."
+        ],
+        "669": [
+            1932.4,
+            1933.4,
+            "Mathieu De Plagne."
+        ],
+        "670": [
+            1934.4,
+            1935.4,
+            "Who will settle down?"
+        ],
+        "671": [
+            1936.4,
+            1937.4,
+            "And who will stand next to Moukhele."
+        ],
+        "672": [
+            1937.4,
+            1938.4,
+            "From Plagne."
+        ],
+        "673": [
+            1939.4,
+            1940.4,
+            "Who will settle down?"
+        ],
+        "674": [
+            1941.4,
+            1942.4,
+            "On the left flank."
+        ],
+        "675": [
+            1942.4,
+            1944.4,
+            "From the Montpellier defense."
+        ],
+        "676": [
+            1948.4,
+            1949.4,
+            "That's not very nice."
+        ],
+        "677": [
+            1949.4,
+            1950.4,
+            "Yes, they gave the ball back to Niçois."
+        ],
+        "678": [
+            1951.4,
+            1952.4,
+            "By putting in the corner."
+        ],
+        "679": [
+            1952.4,
+            1954.4,
+            "While Anastasios Donis has a headache."
+        ],
+        "680": [
+            1956.4,
+            1957.4,
+            "He took a hit."
+        ],
+        "681": [
+            1957.4,
+            1958.4,
+            "Obviously."
+        ],
+        "682": [
+            1959.4,
+            1960.4,
+            "It's not very sporty."
+        ],
+        "683": [
+            1960.4,
+            1961.4,
+            "What the people of Nice come to do there."
+        ],
+        "684": [
+            1964.4,
+            1965.4,
+            "It's not the opponent's job to repress him."
+        ],
+        "685": [
+            1965.4,
+            1966.4,
+            "But Montpellier has."
+        ],
+        "686": [
+            1967.4,
+            1968.4,
+            "It's from Plagne."
+        ],
+        "687": [
+            1968.4,
+            1969.4,
+            "Who will play this shower."
+        ],
+        "688": [
+            1970.4,
+            1971.4,
+            "And the Nice recovery."
+        ],
+        "689": [
+            1971.4,
+            1972.4,
+            "This was the desired effect."
+        ],
+        "690": [
+            1974.4,
+            1975.4,
+            "With Dalbert now."
+        ],
+        "691": [
+            1977.4,
+            1978.4,
+            "Dalbert dismisses Esseric."
+        ],
+        "692": [
+            1979.4,
+            1982.4,
+            "Esseric keeps the ball with the support of Dalbert."
+        ],
+        "693": [
+            1983.4,
+            1984.4,
+            "Aubadie."
+        ],
+        "694": [
+            1986.4,
+            1987.4,
+            "Dante."
+        ],
+        "695": [
+            1989.4,
+            1990.4,
+            "Paul Baiss."
+        ],
+        "696": [
+            1992.4,
+            1993.4,
+            "And we still rule out Souquet."
+        ],
+        "697": [
+            1993.4,
+            1995.4,
+            "Who is in high demand in his right lane."
+        ],
+        "698": [
+            1996.4,
+            1997.4,
+            "Seri."
+        ],
+        "699": [
+            1997.4,
+            1998.4,
+            "Seri with the billant."
+        ],
+        "700": [
+            1998.4,
+            1999.4,
+            "In one touch."
+        ],
+        "701": [
+            1999.4,
+            2001.4,
+            "Seri who will try to find this ball."
+        ],
+        "702": [
+            2001.4,
+            2002.4,
+            "Yes he fell into the surface."
+        ],
+        "703": [
+            2002.4,
+            2003.4,
+            "And it was he who made the mistake."
+        ],
+        "704": [
+            2005.4,
+            2006.4,
+            "From Mr. Schneider."
+        ],
+        "705": [
+            2008.4,
+            2009.4,
+            "Dalbert has compiled versions."
+        ],
+        "706": [
+            2009.4,
+            2010.4,
+            "Yet the billant."
+        ],
+        "707": [
+            2010.4,
+            2011.4,
+            "Benefits Seri."
+        ],
+        "708": [
+            2015.4,
+            2017.4,
+            "It's still a bit obfuscating."
+        ],
+        "709": [
+            2018.4,
+            2019.4,
+            "By Paul-Lamme."
+        ],
+        "710": [
+            2020.4,
+            2021.4,
+            "By Bastien Flappinati."
+        ],
+        "711": [
+            2021.4,
+            2022.4,
+            "No."
+        ],
+        "712": [
+            2024.4,
+            2025.4,
+            "Milton with Mukiélé."
+        ],
+        "713": [
+            2027.4,
+            2029.4,
+            "Another dozen minutes to give a rating."
+        ],
+        "714": [
+            2030.4,
+            2031.4,
+            "It’s a Nice-Montpellier challenge."
+        ],
+        "715": [
+            2034.4,
+            2035.4,
+            "Dante."
+        ],
+        "716": [
+            2037.4,
+            2038.4,
+            "With Paul Baiss."
+        ],
+        "717": [
+            2038.4,
+            2039.4,
+            "Nice growing one in any case."
+        ],
+        "718": [
+            2039.4,
+            2040.4,
+            "Who dominates now."
+        ],
+        "719": [
+            2040.4,
+            2041.4,
+            "Clearly."
+        ],
+        "720": [
+            2042.4,
+            2043.4,
+            "Souquet."
+        ],
+        "721": [
+            2043.4,
+            2044.4,
+            "For Belanda."
+        ],
+        "722": [
+            2046.4,
+            2047.4,
+            "Belanda with Cyprien."
+        ],
+        "723": [
+            2048.4,
+            2049.4,
+            "We go back through Seri."
+        ],
+        "724": [
+            2050.4,
+            2051.4,
+            "Aubadie."
+        ],
+        "725": [
+            2054.4,
+            2055.4,
+            "And Dante."
+        ],
+        "726": [
+            2055.4,
+            2057.4,
+            "All the people of Nice in the Montpellier camp."
+        ],
+        "727": [
+            2060.4,
+            2062.4,
+            "Aubadie for Jean-Michel Seri."
+        ],
+        "728": [
+            2063.4,
+            2064.4,
+            "Come on."
+        ],
+        "729": [
+            2064.4,
+            2065.4,
+            "Exit of Sylla."
+        ],
+        "730": [
+            2065.4,
+            2067.4,
+            "Which allows Mbenza to play this counter."
+        ],
+        "731": [
+            2067.4,
+            2068.4,
+            "He is lively Mbenza."
+        ],
+        "732": [
+            2068.4,
+            2069.4,
+            "Fast."
+        ],
+        "733": [
+            2069.4,
+            2070.4,
+            "He moves forward."
+        ],
+        "734": [
+            2071.4,
+            2072.4,
+            "With Boutbouze."
+        ],
+        "735": [
+            2072.4,
+            2074.4,
+            "The Montpellier residents who have gained ground."
+        ],
+        "736": [
+            2076.4,
+            2077.4,
+            "With Esséric."
+        ],
+        "737": [
+            2078.4,
+            2079.4,
+            "Who for once will take the ball."
+        ],
+        "738": [
+            2079.4,
+            2080.4,
+            "Ariad Boutbouze."
+        ],
+        "739": [
+            2080.4,
+            2082.4,
+            "And we didn't miss a lot of drifts in this match."
+        ],
+        "740": [
+            2082.4,
+            2084.4,
+            "This one isn't bad either..."
+        ],
+        "741": [
+            2084.4,
+            2085.4,
+            "Willan Cyprien."
+        ],
+        "742": [
+            2089.4,
+            2090.4,
+            "Seri."
+        ],
+        "743": [
+            2090.4,
+            2091.4,
+            "Ball spread to Souquet."
+        ],
+        "744": [
+            2095.4,
+            2096.4,
+            "Jean-Michel Seri again."
+        ],
+        "745": [
+            2097.4,
+            2098.4,
+            "With Belanda."
+        ],
+        "746": [
+            2098.4,
+            2099.4,
+            "It passes for Lebihan."
+        ],
+        "747": [
+            2099.4,
+            2102.4,
+            "Lebihan who tries to keep this ball."
+        ],
+        "748": [
+            2102.4,
+            2103.4,
+            "It is booked."
+        ],
+        "749": [
+            2104.4,
+            2105.4,
+            "The head of Baiss."
+        ],
+        "750": [
+            2106.4,
+            2107.4,
+            "Aubadie."
+        ],
+        "751": [
+            2107.4,
+            2109.4,
+            "With another release from Yacoub Assylla."
+        ],
+        "752": [
+            2109.4,
+            2110.4,
+            "Who will relieve his team."
+        ],
+        "753": [
+            2111.4,
+            2113.4,
+            "She makes a great intervention Sylla."
+        ],
+        "754": [
+            2115.4,
+            2117.4,
+            "And the relaunch of Pionnier behind."
+        ],
+        "755": [
+            2117.4,
+            2120.4,
+            "On Paul Baiss who won his duel with Edbenza."
+        ],
+        "756": [
+            2120.4,
+            2121.4,
+            "Who stays on the ground."
+        ],
+        "757": [
+            2121.4,
+            2122.4,
+            "But its day for the editorial."
+        ],
+        "758": [
+            2122.4,
+            2123.4,
+            "Esseric."
+        ],
+        "759": [
+            2123.4,
+            2126.4,
+            "Esséric with Dalbert on the side."
+        ],
+        "760": [
+            2127.4,
+            2128.4,
+            "No."
+        ],
+        "761": [
+            2128.4,
+            2129.4,
+            "Dalbert who went to lock himself in."
+        ],
+        "762": [
+            2129.4,
+            2130.4,
+            "Maybe it's not lost Hilton."
+        ],
+        "763": [
+            2130.4,
+            2132.4,
+            "He is still defended by Le Gamin Mckielley."
+        ],
+        "764": [
+            2140.4,
+            2141.4,
+            "It's Segnon who will lose this ball."
+        ],
+        "765": [
+            2141.4,
+            2144.4,
+            "It is at 65% possession for the Nice now."
+        ],
+        "766": [
+            2149.4,
+            2150.4,
+            "Belanda."
+        ],
+        "767": [
+            2153.4,
+            2154.4,
+            "With Dante."
+        ],
+        "768": [
+            2154.4,
+            2156.4,
+            "This is an important moment in the Nice season which is being played out."
+        ],
+        "769": [
+            2157.4,
+            2158.4,
+            "If they want to keep up."
+        ],
+        "770": [
+            2159.4,
+            2160.4,
+            "At the top of the table."
+        ],
+        "771": [
+            2161.4,
+            2164.4,
+            "Especially putting pressure on Monaco and Paris Saint-Germain."
+        ],
+        "772": [
+            2164.4,
+            2165.4,
+            "Belanda."
+        ],
+        "773": [
+            2165.4,
+            2166.4,
+            "Belanda will strike."
+        ],
+        "774": [
+            2166.4,
+            2168.4,
+            "Belanda's strike blocked by Mckielley."
+        ],
+        "775": [
+            2168.4,
+            2170.4,
+            "He was going to crush his shot anyway."
+        ],
+        "776": [
+            2170.4,
+            2172.4,
+            "And above all, there was better to do on Belanda's part."
+        ],
+        "777": [
+            2172.4,
+            2173.4,
+            "There was the solution."
+        ],
+        "778": [
+            2173.4,
+            2174.4,
+            "Esséric alone."
+        ],
+        "779": [
+            2175.4,
+            2176.4,
+            "To the left."
+        ],
+        "780": [
+            2176.4,
+            2177.4,
+            "An acceleration from Boudbouze."
+        ],
+        "781": [
+            2178.4,
+            2179.4,
+            "With Mbenza now."
+        ],
+        "782": [
+            2179.4,
+            2180.4,
+            "Good ball to play there for the Montpellier residents."
+        ],
+        "783": [
+            2180.4,
+            2181.4,
+            "There is space on the left."
+        ],
+        "784": [
+            2182.4,
+            2184.4,
+            "While Séri remained on the ground on the Nice side."
+        ],
+        "785": [
+            2185.4,
+            2186.4,
+            "Boudbouze."
+        ],
+        "786": [
+            2187.4,
+            2188.4,
+            "It's Segnon."
+        ],
+        "787": [
+            2189.4,
+            2190.4,
+            "And Mckielley now."
+        ],
+        "788": [
+            2191.4,
+            2193.4,
+            "Nardi Mckielley against Valentin Esséric."
+        ],
+        "789": [
+            2194.4,
+            2195.4,
+            "He will try to go 1 on 1."
+        ],
+        "790": [
+            2195.4,
+            2196.4,
+            "Mckielley."
+        ],
+        "791": [
+            2196.4,
+            2197.4,
+            "It's Segnon."
+        ],
+        "792": [
+            2200.4,
+            2202.4,
+            "We are going to make it wait for the people of Montpellier"
+        ],
+        "793": [
+            2202.4,
+            2203.4,
+            "who did not find an opening."
+        ],
+        "794": [
+            2206.4,
+            2209.4,
+            "And Kigandoli will make its entrance a priori this time"
+        ],
+        "795": [
+            2209.4,
+            2210.4,
+            "in place of Paul Lannes."
+        ],
+        "796": [
+            2210.4,
+            2212.4,
+            "How much has changed just now."
+        ],
+        "797": [
+            2212.4,
+            2213.4,
+            "We will wait a few seconds."
+        ],
+        "798": [
+            2213.4,
+            2214.4,
+            "Because physically we draw."
+        ],
+        "799": [
+            2214.4,
+            2216.4,
+            "It's true that Roussillon came out with cramps."
+        ],
+        "800": [
+            2216.4,
+            2218.4,
+            "We gave so much for an hour"
+        ],
+        "801": [
+            2218.4,
+            2219.4,
+            "with a historic ball in the second half."
+        ],
+        "802": [
+            2219.4,
+            2220.4,
+            "It’s complicated for Montpellier."
+        ],
+        "803": [
+            2221.4,
+            2223.4,
+            "Boudbouze of the head with Mbenza"
+        ],
+        "804": [
+            2223.4,
+            2224.4,
+            "which was hooked initially."
+        ],
+        "805": [
+            2224.4,
+            2226.4,
+            "No ? Said Mr. Schneider."
+        ],
+        "806": [
+            2227.4,
+            2229.4,
+            "Ball recovered by the Nice."
+        ],
+        "807": [
+            2230.4,
+            2231.4,
+            "Dante with Series."
+        ],
+        "808": [
+            2231.4,
+            2233.4,
+            "Its limits must be much more solid for us."
+        ],
+        "809": [
+            2233.4,
+            2234.4,
+            "Mbenza since he returned"
+        ],
+        "810": [
+            2234.4,
+            2236.4,
+            "is moved by all the defenders at Niçois."
+        ],
+        "811": [
+            2239.4,
+            2241.4,
+            "Souquet with Series again."
+        ],
+        "812": [
+            2242.4,
+            2244.4,
+            "Jean-Michel Series looking for"
+        ],
+        "813": [
+            2245.4,
+            2246.4,
+            "an opening before him."
+        ],
+        "814": [
+            2246.4,
+            2247.4,
+            "Series for Obadi."
+        ],
+        "815": [
+            2249.4,
+            2251.4,
+            "Obadi with Belanda inside."
+        ],
+        "816": [
+            2251.4,
+            2252.4,
+            "We rule out Dalbert."
+        ],
+        "817": [
+            2252.4,
+            2253.4,
+            "And Series which..."
+        ],
+        "818": [
+            2254.4,
+            2256.4,
+            "Series that is behind Dante."
+        ],
+        "819": [
+            2262.4,
+            2263.4,
+            "Paul Baïz."
+        ],
+        "820": [
+            2265.4,
+            2267.4,
+            "Baïz who seeks the Balance Sheet."
+        ],
+        "821": [
+            2267.4,
+            2268.4,
+            "De Plagne's head."
+        ],
+        "822": [
+            2268.4,
+            2269.4,
+            "And it comes back to Souquet."
+        ],
+        "823": [
+            2270.4,
+            2271.4,
+            "The Balance Sheet again."
+        ],
+        "824": [
+            2271.4,
+            2273.4,
+            "The balance sheet hung for"
+        ],
+        "825": [
+            2274.4,
+            2276.4,
+            "serve Series indented."
+        ],
+        "826": [
+            2279.4,
+            2280.4,
+            "By De Plagne."
+        ],
+        "827": [
+            2281.4,
+            2282.4,
+            "We want to see the Balance Sheet."
+        ],
+        "828": [
+            2282.4,
+            2284.4,
+            "The penalty area is not on the side."
+        ],
+        "829": [
+            2286.4,
+            2287.4,
+            "Baïz who says"
+        ],
+        "830": [
+            2287.4,
+            2288.4,
+            "go there in the surface."
+        ],
+        "831": [
+            2288.4,
+            2290.4,
+            "Ball still for the Niçois with Souquet."
+        ],
+        "832": [
+            2290.4,
+            2292.4,
+            "Here it is again, Mickaël Lebihan."
+        ],
+        "833": [
+            2293.4,
+            2295.4,
+            "Ball lost by the Nice."
+        ],
+        "834": [
+            2296.4,
+            2297.4,
+            "With Daniel Congré."
+        ],
+        "835": [
+            2299.4,
+            2302.4,
+            "And Baïz who was still ahead of Sée Mbenza."
+        ],
+        "836": [
+            2305.4,
+            2307.4,
+            "7 minutes left to play in this game."
+        ],
+        "837": [
+            2308.4,
+            2310.4,
+            "Always a goal everywhere between Nice and Montpellier."
+        ],
+        "838": [
+            2311.4,
+            2312.4,
+            "Cyprien."
+        ],
+        "839": [
+            2312.4,
+            2313.4,
+            "Cyprien the opening for"
+        ],
+        "840": [
+            2314.4,
+            2315.4,
+            "Series that didn't believe it."
+        ],
+        "841": [
+            2317.4,
+            2319.4,
+            "Even if he believed, he couldn't call her."
+        ],
+        "842": [
+            2319.4,
+            2320.4,
+            "She was so strong."
+        ],
+        "843": [
+            2320.4,
+            2322.4,
+            "This ball, he pressed his shot."
+        ],
+        "844": [
+            2322.4,
+            2323.4,
+            "So that he doesn't interwalk on"
+        ],
+        "845": [
+            2324.4,
+            2325.4,
+            "the Montpellée central defenders."
+        ],
+        "846": [
+            2326.4,
+            2327.4,
+            "And to push towards Nice,"
+        ],
+        "847": [
+            2327.4,
+            2329.4,
+            "Srarfi and Vincent Kosielho"
+        ],
+        "848": [
+            2330.4,
+            2331.4,
+            "are going to come back to score this little goal"
+        ],
+        "849": [
+            2331.4,
+            2333.4,
+            "that could change this evening."
+        ],
+        "850": [
+            2333.4,
+            2336.4,
+            "Put a little more pressure on Paris and Monaco."
+        ],
+        "851": [
+            2339.4,
+            2341.4,
+            "And Moukielé who overtook Valentin Esséric."
+        ],
+        "852": [
+            2342.4,
+            2343.4,
+            "Moukielé who"
+        ],
+        "853": [
+            2343.4,
+            2344.4,
+            "We have to let go of this ball."
+        ],
+        "854": [
+            2344.4,
+            2345.4,
+            "Who stands up."
+        ],
+        "855": [
+            2346.4,
+            2347.4,
+            "And who gives Boutbouz."
+        ],
+        "856": [
+            2347.4,
+            2348.4,
+            "It is well done."
+        ],
+        "857": [
+            2348.4,
+            2349.4,
+            "Boutbouz who will challenge them."
+        ],
+        "858": [
+            2349.4,
+            2350.4,
+            "Dante in the box."
+        ],
+        "859": [
+            2350.4,
+            2351.4,
+            "He passed on a dribble."
+        ],
+        "860": [
+            2351.4,
+            2353.4,
+            "Boutbouz in the neck of the scarf to center."
+        ],
+        "861": [
+            2354.4,
+            2355.4,
+            "And he will have done everything."
+        ],
+        "862": [
+            2355.4,
+            2356.4,
+            "Nothing from Boutbouz this evening."
+        ],
+        "863": [
+            2359.4,
+            2361.4,
+            "We can see the updated ranking for the moment."
+        ],
+        "864": [
+            2361.4,
+            2363.4,
+            "Nice certainly surpasses Paris Saint-Germain."
+        ],
+        "865": [
+            2365.4,
+            2366.4,
+            "But with only one point in advance."
+        ],
+        "866": [
+            2368.4,
+            2369.4,
+            "Still no stoppage of play."
+        ],
+        "867": [
+            2369.4,
+            2370.4,
+            "This balloon that lives."
+        ],
+        "868": [
+            2370.4,
+            2372.4,
+            "Changes will have to be made."
+        ],
+        "869": [
+            2373.4,
+            2375.4,
+            "He moves away from Souquet."
+        ],
+        "870": [
+            2378.4,
+            2379.4,
+            "Back for Séry."
+        ],
+        "871": [
+            2380.4,
+            2381.4,
+            "It was a game where there were a lot of possessions."
+        ],
+        "872": [
+            2381.4,
+            2383.4,
+            "But few clear scoring chances."
+        ],
+        "873": [
+            2383.4,
+            2385.4,
+            "He can deny it through your others."
+        ],
+        "874": [
+            2387.4,
+            2388.4,
+            "Souquet."
+        ],
+        "875": [
+            2388.4,
+            2389.4,
+            "Souquet trying to break through."
+        ],
+        "876": [
+            2389.4,
+            2390.4,
+            "Balloon for the top."
+        ],
+        "877": [
+            2390.4,
+            2391.4,
+            "Milan in the box."
+        ],
+        "878": [
+            2391.4,
+            2392.4,
+            "Oh that's weird."
+        ],
+        "879": [
+            2392.4,
+            2393.4,
+            "The second punishment."
+        ],
+        "880": [
+            2393.4,
+            2394.4,
+            "It's incredible."
+        ],
+        "881": [
+            2395.4,
+            2396.4,
+            "What a story."
+        ],
+        "882": [
+            2397.4,
+            2398.4,
+            "What character."
+        ],
+        "883": [
+            2399.4,
+            2401.4,
+            "Mickael Milan came back from nowhere."
+        ],
+        "884": [
+            2402.4,
+            2403.4,
+            "He offers a double."
+        ],
+        "885": [
+            2403.4,
+            2405.4,
+            "And maybe victory at OGC Nice."
+        ],
+        "886": [
+            2406.4,
+            2407.4,
+            "Without foot 1."
+        ],
+        "887": [
+            2408.4,
+            2409.4,
+            "He's going to go."
+        ],
+        "888": [
+            2409.4,
+            2410.4,
+            "He didn't break down."
+        ],
+        "889": [
+            2410.4,
+            2411.4,
+            "But then they broke down."
+        ],
+        "890": [
+            2411.4,
+            2412.4,
+            "On a magnificent journey."
+        ],
+        "891": [
+            2412.4,
+            2413.4,
+            "But what about the pass too."
+        ],
+        "892": [
+            2414.4,
+            2416.4,
+            "I think it's Souquet who gives the ball away."
+        ],
+        "893": [
+            2417.4,
+            2418.4,
+            "And who will do a good job."
+        ],
+        "894": [
+            2418.4,
+            2419.4,
+            "It is Souquet who gives this ball."
+        ],
+        "895": [
+            2420.4,
+            2421.4,
+            "It's only available."
+        ],
+        "896": [
+            2424.4,
+            2425.4,
+            "He didn't see her back."
+        ],
+        "897": [
+            2425.4,
+            2426.4,
+            "Congress."
+        ],
+        "898": [
+            2426.4,
+            2427.4,
+            "He tries this decision."
+        ],
+        "899": [
+            2427.4,
+            2428.4,
+            "Behind."
+        ],
+        "900": [
+            2428.4,
+            2429.4,
+            "Opportunism."
+        ],
+        "901": [
+            2429.4,
+            2430.4,
+            "Efficiency."
+        ],
+        "902": [
+            2430.4,
+            2432.4,
+            "From Milan who slightly stings this ball."
+        ],
+        "903": [
+            2433.4,
+            2434.4,
+            "He can't do anything."
+        ],
+        "904": [
+            2435.4,
+            2436.4,
+            "Pioneer."
+        ],
+        "905": [
+            2437.4,
+            2438.4,
+            "What an entry."
+        ],
+        "906": [
+            2438.4,
+            2439.4,
+            "He would have dreamed of this return."
+        ],
+        "907": [
+            2440.4,
+            2442.4,
+            "He wouldn't have imagined it like that."
+        ],
+        "908": [
+            2442.4,
+            2443.4,
+            "Mickael Le Milan."
+        ],
+        "909": [
+            2444.4,
+            2445.4,
+            "It's absolutely incredible."
+        ],
+        "910": [
+            2446.4,
+            2447.4,
+            "It’s cruel for the Montpellier-Rhin people."
+        ],
+        "911": [
+            2448.4,
+            2449.4,
+            "But they insisted."
+        ],
+        "912": [
+            2450.4,
+            2451.4,
+            "The people of Nice."
+        ],
+        "913": [
+            2451.4,
+            2452.4,
+            "The entrance to Stratakar."
+        ],
+        "914": [
+            2453.4,
+            2454.4,
+            "Caused a lot of problems."
+        ],
+        "915": [
+            2455.4,
+            2456.4,
+            "At the Montpellier-Rhine defense."
+        ],
+        "916": [
+            2456.4,
+            2457.4,
+            "The replacement of Belanda too."
+        ],
+        "917": [
+            2459.4,
+            2460.4,
+            "Listen to the atmosphere in this stadium."
+        ],
+        "918": [
+            2460.4,
+            2462.4,
+            "The Lyon of Sriviera which is in progress."
+        ],
+        "919": [
+            2463.4,
+            2464.4,
+            "To experience another great evening."
+        ],
+        "920": [
+            2465.4,
+            2466.4,
+            "It’s hard for Montpellier-Rhin."
+        ],
+        "921": [
+            2466.4,
+            2468.4,
+            "Who had had a good match so far."
+        ],
+        "922": [
+            2470.4,
+            2471.4,
+            "The presence of the attacker."
+        ],
+        "923": [
+            2472.4,
+            2473.4,
+            "Who weighs physically."
+        ],
+        "924": [
+            2473.4,
+            2474.4,
+            "Who weighs with his calls."
+        ],
+        "925": [
+            2475.4,
+            2476.4,
+            "Cause."
+        ],
+        "926": [
+            2476.4,
+            2477.4,
+            "And that opens up gaps."
+        ],
+        "927": [
+            2477.4,
+            2478.4,
+            "We saw the Montpellier-Rhin."
+        ],
+        "928": [
+            2478.4,
+            2480.4,
+            "Who physically suffered."
+        ],
+        "929": [
+            2481.4,
+            2482.4,
+            "The Roussillon matches."
+        ],
+        "930": [
+            2482.4,
+            2483.4,
+            "Who came out with cramps."
+        ],
+        "931": [
+            2484.4,
+            2485.4,
+            "Paul Lannocy."
+        ],
+        "932": [
+            2486.4,
+            2487.4,
+            "Montpellier also sticks out its tongue."
+        ],
+        "933": [
+            2487.4,
+            2488.4,
+            "The two central defenders."
+        ],
+        "934": [
+            2488.4,
+            2489.4,
+            "Kongryc who didn't play either."
+        ],
+        "935": [
+            2489.4,
+            2490.4,
+            "For a few matches."
+        ],
+        "936": [
+            2492.4,
+            2493.4,
+            "So the double change."
+        ],
+        "937": [
+            2494.4,
+            2495.4,
+            "There is also change in Montpellier."
+        ],
+        "938": [
+            2496.4,
+            2497.4,
+            "First Vincent Kosielho."
+        ],
+        "939": [
+            2497.4,
+            2498.4,
+            "Who enters Munirobadi's place."
+        ],
+        "940": [
+            2501.4,
+            2502.4,
+            "Bassem Srarfi is getting ready."
+        ],
+        "941": [
+            2503.4,
+            2504.4,
+            "Is Céric going to come out?"
+        ],
+        "942": [
+            2505.4,
+            2506.4,
+            "Yes."
+        ],
+        "943": [
+            2506.4,
+            2507.4,
+            "They are..."
+        ],
+        "944": [
+            2507.4,
+            2508.4,
+            "Well, the people of Nice are in no hurry."
+        ],
+        "945": [
+            2508.4,
+            2509.4,
+            "We understand them."
+        ],
+        "946": [
+            2510.4,
+            2511.4,
+            "It’s Valentin and Céric who are going to go out."
+        ],
+        "947": [
+            2517.4,
+            2518.4,
+            "And so we're going to find out."
+        ],
+        "948": [
+            2519.4,
+            2520.4,
+            "Bassem Srarfi."
+        ],
+        "949": [
+            2521.4,
+            2522.4,
+            "The young Tunisian striker."
+        ],
+        "950": [
+            2522.4,
+            2523.4,
+            "Who arrived from the African club."
+        ],
+        "951": [
+            2523.4,
+            2524.4,
+            "This winter."
+        ],
+        "952": [
+            2524.4,
+            2525.4,
+            "He is 19 years old."
+        ],
+        "953": [
+            2526.4,
+            2527.4,
+            "And it's his first."
+        ],
+        "954": [
+            2527.4,
+            2528.4,
+            "Under the Nice jersey."
+        ],
+        "955": [
+            2531.4,
+            2532.4,
+            "And then the Montpellier-Rhine change."
+        ],
+        "956": [
+            2532.4,
+            2533.4,
+            "The last one with the exit."
+        ],
+        "957": [
+            2533.4,
+            2534.4,
+            "Diakoub Assela."
+        ],
+        "958": [
+            2534.4,
+            2535.4,
+            "For Kigan Dolly."
+        ],
+        "959": [
+            2535.4,
+            2536.4,
+            "South African international."
+        ],
+        "960": [
+            2536.4,
+            2537.4,
+            "Which also happened this winter."
+        ],
+        "961": [
+            2537.4,
+            2538.4,
+            "In League 1."
+        ],
+        "962": [
+            2540.4,
+            2541.4,
+            "Alongside Valentin and Céric."
+        ],
+        "963": [
+            2542.4,
+            2543.4,
+            "Valentine."
+        ],
+        "964": [
+            2543.4,
+            2544.4,
+            "You looked to the mind."
+        ],
+        "965": [
+            2544.4,
+            2545.4,
+            "To character."
+        ],
+        "966": [
+            2545.4,
+            2546.4,
+            "It's a year where everything smiles."
+        ],
+        "967": [
+            2546.4,
+            2547.4,
+            "Even when it's hard in Nice."
+        ],
+        "968": [
+            2548.4,
+            2549.4,
+            "Yes."
+        ],
+        "969": [
+            2549.4,
+            2550.4,
+            "We are not..."
+        ],
+        "970": [
+            2550.4,
+            2551.4,
+            "We're not just players who make..."
+        ],
+        "971": [
+            2552.4,
+            2553.4,
+            "Who double their arms that evening."
+        ],
+        "972": [
+            2553.4,
+            2554.4,
+            "It’s true that we had a complicated match."
+        ],
+        "973": [
+            2555.4,
+            2556.4,
+            "We knew that Montpellier was on a good path."
+        ],
+        "974": [
+            2558.4,
+            2559.4,
+            "So we were led."
+        ],
+        "975": [
+            2560.4,
+            2561.4,
+            "We don't have the right to give up."
+        ],
+        "976": [
+            2562.4,
+            2563.4,
+            "We did a good job."
+        ],
+        "977": [
+            2564.4,
+            2565.4,
+            "He's staying..."
+        ],
+        "978": [
+            2565.4,
+            2566.4,
+            "There are 11 games left after this one."
+        ],
+        "979": [
+            2567.4,
+            2568.4,
+            "We will not have the right to give up in every match."
+        ],
+        "980": [
+            2569.4,
+            2570.4,
+            "And there we proved it once again."
+        ],
+        "981": [
+            2570.4,
+            2571.4,
+            "There's still time."
+        ],
+        "982": [
+            2573.4,
+            2574.4,
+            "There is actually a little time left."
+        ],
+        "983": [
+            2575.4,
+            2576.4,
+            "We must hold on now for Nice."
+        ],
+        "984": [
+            2577.4,
+            2578.4,
+            "We're entering the last two minutes."
+        ],
+        "985": [
+            2579.4,
+            2580.4,
+            "There are smiles on the Nice bench."
+        ],
+        "986": [
+            2580.4,
+            2581.4,
+            "Maxime Lemarchand."
+        ],
+        "987": [
+            2582.4,
+            2583.4,
+            "With Valentin and Céric."
+        ],
+        "988": [
+            2583.4,
+            2584.4,
+            "They have come a long way."
+        ],
+        "989": [
+            2584.4,
+            2585.4,
+            "The Nicois, to say the least."
+        ],
+        "990": [
+            2587.4,
+            2588.4,
+            "Esrafi for his first ball."
+        ],
+        "991": [
+            2590.4,
+            2591.4,
+            "With a recovery from Moukiel."
+        ],
+        "992": [
+            2592.4,
+            2593.4,
+            "And we see that..."
+        ],
+        "993": [
+            2593.4,
+            2595.4,
+            "In the ranking we will first follow this Montpellier-Rennes attack."
+        ],
+        "994": [
+            2596.4,
+            2597.4,
+            "In the Nice ranking."
+        ],
+        "995": [
+            2598.4,
+            2600.4,
+            "Succeeded in his operation for the moment by putting pressure on his opponents."
+        ],
+        "996": [
+            2601.4,
+            2602.4,
+            "Soukey and Kejaï."
+        ],
+        "997": [
+            2603.4,
+            2604.4,
+            "And who's going to get the blame."
+        ],
+        "998": [
+            2609.4,
+            2611.4,
+            "So we said that it was an important moment of the Nice season."
+        ],
+        "999": [
+            2613.4,
+            2615.4,
+            "It's still not so good for Soukey this season."
+        ],
+        "1000": [
+            2617.4,
+            2618.4,
+            "4 or 5 players approximately."
+        ],
+        "1001": [
+            2619.4,
+            2621.4,
+            "He was a passer for Cyprien last week in Lorient."
+        ],
+        "1002": [
+            2621.4,
+            2622.4,
+            "He is involved in..."
+        ],
+        "1003": [
+            2624.4,
+            2626.4,
+            "On a lot of goals since the start of 2017."
+        ],
+        "1004": [
+            2626.4,
+            2628.4,
+            "Arnaud Soukey who provides a convincing interim role."
+        ],
+        "1005": [
+            2629.4,
+            2631.4,
+            "Looking forward to the return of Ricardo Pereira."
+        ],
+        "1006": [
+            2633.4,
+            2635.4,
+            "Who started racing again this week."
+        ],
+        "1007": [
+            2636.4,
+            2638.4,
+            "And which we will see again during the month of March."
+        ],
+        "1008": [
+            2638.4,
+            2639.4,
+            "With the Nice jersey."
+        ],
+        "1009": [
+            2643.4,
+            2644.4,
+            "The last minute of elemental time."
+        ],
+        "1010": [
+            2644.4,
+            2646.4,
+            "The Montpellier-Rennes who will have to..."
+        ],
+        "1011": [
+            2646.4,
+            2648.4,
+            "Push now to get an equalization."
+        ],
+        "1012": [
+            2648.4,
+            2649.4,
+            "And there is standing dung."
+        ],
+        "1013": [
+            2650.4,
+            2651.4,
+            "Standing in dung."
+        ],
+        "1014": [
+            2651.4,
+            2652.4,
+            "Prepare the series."
+        ],
+        "1015": [
+            2652.4,
+            2654.4,
+            "And yes now it no longer happens."
+        ],
+        "1016": [
+            2656.4,
+            2658.4,
+            "With a good gush from Stéphane Cessenion."
+        ],
+        "1017": [
+            2659.4,
+            2660.4,
+            "Termination for piece of dung."
+        ],
+        "1018": [
+            2661.4,
+            2663.4,
+            "They still have time for hope."
+        ],
+        "1019": [
+            2664.4,
+            2665.4,
+            "We get together closely with Paul-Lannes."
+        ],
+        "1020": [
+            2665.4,
+            2666.4,
+            "Paul-Lannes to Anne-Benza."
+        ],
+        "1021": [
+            2667.4,
+            2668.4,
+            "Benza who manages to turn around."
+        ],
+        "1022": [
+            2669.4,
+            2671.4,
+            "And who was finally short to hit."
+        ],
+        "1023": [
+            2671.4,
+            2672.4,
+            "And the danger was there."
+        ],
+        "1024": [
+            2672.4,
+            2674.4,
+            "Short, it's a great Montpellier-Rennes action."
+        ],
+        "1025": [
+            2674.4,
+            2676.4,
+            "But what defense also from Paul-Baz who still remains."
+        ],
+        "1026": [
+            2676.4,
+            2678.4,
+            "And who didn't let him get into a striking position."
+        ],
+        "1027": [
+            2678.4,
+            2680.4,
+            "Ardei bothers him with his upper body."
+        ],
+        "1028": [
+            2682.4,
+            2683.4,
+            "Ardei pushes him."
+        ],
+        "1029": [
+            2683.4,
+            2685.4,
+            "He pushes him with his arm."
+        ],
+        "1030": [
+            2685.4,
+            2687.4,
+            "How well defended this is on the part of Paul-Baz."
+        ],
+        "1031": [
+            2689.4,
+            2690.4,
+            "From Albert."
+        ],
+        "1032": [
+            2691.4,
+            2693.4,
+            "We will observe the 4th referee."
+        ],
+        "1033": [
+            2694.4,
+            2695.4,
+            "To find out the additional time."
+        ],
+        "1034": [
+            2695.4,
+            2697.4,
+            "There will be 3 more minutes."
+        ],
+        "1035": [
+            2698.4,
+            2700.4,
+            "3 minutes to believe it again."
+        ],
+        "1036": [
+            2700.4,
+            2701.4,
+            "Montpellier-Rennes side."
+        ],
+        "1037": [
+            2701.4,
+            2702.4,
+            "3 minutes to go for Nice."
+        ],
+        "1038": [
+            2703.4,
+            2704.4,
+            "And added time."
+        ],
+        "1039": [
+            2704.4,
+            2705.4,
+            "With a ball for Stéphane Cessé-Gnon."
+        ],
+        "1040": [
+            2706.4,
+            2707.4,
+            "Ball spread to De Plagne."
+        ],
+        "1041": [
+            2709.4,
+            2710.4,
+            "Doli."
+        ],
+        "1042": [
+            2711.4,
+            2713.4,
+            "De Plagne returns to Skyrii."
+        ],
+        "1043": [
+            2715.4,
+            2716.4,
+            "With Doli."
+        ],
+        "1044": [
+            2716.4,
+            2718.4,
+            "Doli who was able to preserve."
+        ],
+        "1045": [
+            2718.4,
+            2719.4,
+            "Paul-Lannes."
+        ],
+        "1046": [
+            2719.4,
+            2720.4,
+            "Paul-Lannes."
+        ],
+        "1047": [
+            2720.4,
+            2721.4,
+            "And yes who will cause the fault."
+        ],
+        "1048": [
+            2721.4,
+            2723.4,
+            "And the free kick for Montpellier."
+        ],
+        "1049": [
+            2724.4,
+            2726.4,
+            "I can tell you that there are very, very closed faces."
+        ],
+        "1050": [
+            2727.4,
+            2728.4,
+            "On the Nice bench."
+        ],
+        "1051": [
+            2728.4,
+            2729.4,
+            "Especially around the head."
+        ],
+        "1052": [
+            2729.4,
+            2730.4,
+            "And from the head of Montpellier."
+        ],
+        "1053": [
+            2730.4,
+            2731.4,
+            "And from the head of Montpellier."
+        ],
+        "1054": [
+            2731.4,
+            2732.4,
+            "And from the head of Montpellier."
+        ],
+        "1055": [
+            2732.4,
+            2733.4,
+            "On the Nice bench."
+        ],
+        "1056": [
+            2733.4,
+            2736.4,
+            "Especially when we know that there is a certain Riyad Boutbouz out to hit him."
+        ],
+        "1057": [
+            2737.4,
+            2738.4,
+            "That's for sure."
+        ],
+        "1058": [
+            2738.4,
+            2740.4,
+            "Riyad Boutbouz has already scored direct free kicks this season."
+        ],
+        "1059": [
+            2742.4,
+            2744.4,
+            "Not very far from here in Monaco."
+        ],
+        "1060": [
+            2745.4,
+            2746.4,
+            "Notably."
+        ],
+        "1061": [
+            2747.4,
+            2748.4,
+            "He scored there in Marseille too."
+        ],
+        "1062": [
+            2748.4,
+            2749.4,
+            "He likes the southeast."
+        ],
+        "1063": [
+            2749.4,
+            2750.4,
+            "Riyad Boutbouz."
+        ],
+        "1064": [
+            2750.4,
+            2751.4,
+            "On direct free kicks."
+        ],
+        "1065": [
+            2752.4,
+            2753.4,
+            "So he's a little far away."
+        ],
+        "1066": [
+            2754.4,
+            2755.4,
+            "But he is capable of it."
+        ],
+        "1067": [
+            2763.4,
+            2765.4,
+            "The left key of Riyad Boutbouz."
+        ],
+        "1068": [
+            2768.4,
+            2769.4,
+            "Facing the Nice wall."
+        ],
+        "1069": [
+            2771.4,
+            2772.4,
+            "Boutbouz rushing forward."
+        ],
+        "1070": [
+            2772.4,
+            2773.4,
+            "Boutbouz's strike."
+        ],
+        "1071": [
+            2773.4,
+            2774.4,
+            "The photo !"
+        ],
+        "1072": [
+            2774.4,
+            2775.4,
+            "Oh it's incredible!"
+        ],
+        "1073": [
+            2776.4,
+            2777.4,
+            "Cardinal was beaten."
+        ],
+        "1074": [
+            2777.4,
+            2779.4,
+            "And behind the recovery that will pass by."
+        ],
+        "1075": [
+            2781.4,
+            2783.4,
+            "This free kick from Riyad Boutbouz is incredible."
+        ],
+        "1076": [
+            2784.4,
+            2787.4,
+            "And the luck that accompanies the Niçois at the end of the match."
+        ],
+        "1077": [
+            2788.4,
+            2790.4,
+            "He managed to get around this wall which was rather well placed."
+        ],
+        "1078": [
+            2793.4,
+            2795.4,
+            "He’s very happy, eh, Cardinal."
+        ],
+        "1079": [
+            2795.4,
+            2797.4,
+            "Hit the post but couldn't do anything."
+        ],
+        "1080": [
+            2798.4,
+            2799.4,
+            "He watched from afar."
+        ],
+        "1081": [
+            2799.4,
+            2801.4,
+            "This ball crashed into the post."
+        ],
+        "1082": [
+            2805.4,
+            2807.4,
+            "What a disappointment for the people of Montpellier."
+        ],
+        "1083": [
+            2810.4,
+            2812.4,
+            "And the last minute of added time."
+        ],
+        "1084": [
+            2814.4,
+            2815.4,
+            "The good Nice man who..."
+        ],
+        "1085": [
+            2817.4,
+            2818.4,
+            "A few more seconds."
+        ],
+        "1086": [
+            2819.4,
+            2820.4,
+            "To wish for a victory."
+        ],
+        "1087": [
+            2820.4,
+            2821.4,
+            "A second."
+        ],
+        "1088": [
+            2822.4,
+            2823.4,
+            "To suffer."
+        ],
+        "1089": [
+            2825.4,
+            2826.4,
+            "Hilton."
+        ],
+        "1090": [
+            2827.4,
+            2828.4,
+            "Montpellier balloon."
+        ],
+        "1091": [
+            2829.4,
+            2830.4,
+            "With Congress."
+        ],
+        "1092": [
+            2832.4,
+            2833.4,
+            "For him to suffer a..."
+        ],
+        "1093": [
+            2834.4,
+            2837.4,
+            "Last thrill for Montpellier with Paul Baïs who pushes the ball away with his head."
+        ],
+        "1094": [
+            2837.4,
+            2838.4,
+            "Souquet."
+        ],
+        "1095": [
+            2839.4,
+            2840.4,
+            "Souquet who puts him in touch."
+        ],
+        "1096": [
+            2845.4,
+            2847.4,
+            "So we're going to have to leave everyone in the right place."
+        ],
+        "1097": [
+            2847.4,
+            2848.4,
+            "It will be Nicolas Schéder."
+        ],
+        "1098": [
+            2848.4,
+            2849.4,
+            "Paul Lannes."
+        ],
+        "1099": [
+            2850.4,
+            2851.4,
+            "Doli."
+        ],
+        "1100": [
+            2852.4,
+            2853.4,
+            "Doli facing the Nice midfielder."
+        ],
+        "1101": [
+            2853.4,
+            2854.4,
+            "Cosiello coming out."
+        ],
+        "1102": [
+            2854.4,
+            2855.4,
+            "And this ball."
+        ],
+        "1103": [
+            2855.4,
+            2856.4,
+            "Always for the people of Montpellier."
+        ],
+        "1104": [
+            2857.4,
+            2858.4,
+            "With Paul Baïs who will put it..."
+        ],
+        "1105": [
+            2860.4,
+            2861.4,
+            "In touch."
+        ],
+        "1106": [
+            2861.4,
+            2862.4,
+            "There are 20 seconds left."
+        ],
+        "1107": [
+            2866.4,
+            2868.4,
+            "This is the last chance for the people of Montpellier."
+        ],
+        "1108": [
+            2868.4,
+            2869.4,
+            "Paul Lannes."
+        ],
+        "1109": [
+            2869.4,
+            2871.4,
+            "We have to put this ball in the box."
+        ],
+        "1110": [
+            2872.4,
+            2873.4,
+            "Daniel Congrès."
+        ],
+        "1111": [
+            2873.4,
+            2875.4,
+            "Oh yes, if he steps back it will probably be fine..."
+        ],
+        "1112": [
+            2875.4,
+            2876.4,
+            "Chirp."
+        ],
+        "1113": [
+            2878.4,
+            2879.4,
+            "Mr. Schneider watched it progress."
+        ],
+        "1114": [
+            2880.4,
+            2881.4,
+            "Finished."
+        ]
+    }
+}

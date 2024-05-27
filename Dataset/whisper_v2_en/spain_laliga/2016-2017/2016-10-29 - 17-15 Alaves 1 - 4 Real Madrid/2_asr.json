@@ -1,0 +1,1794 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            13.0,
+            "Real Madrid has returned since April, injured the first call for the"
+        ],
+        "1": [
+            13.0,
+            16.0,
+            "Real Madrid footballer for the Portuguese side."
+        ],
+        "2": [
+            30.0,
+            37.0,
+            "The first detail of the first game of the season, the game of the first season"
+        ],
+        "3": [
+            37.0,
+            44.0,
+            "of the Copa del Rey, the match of the second season of the Copa del Rey, the match of"
+        ],
+        "4": [
+            44.0,
+            49.0,
+            "the third season of the Copa del Rey, the match of the fifth season of the Cup"
+        ],
+        "5": [
+            49.0,
+            54.0,
+            "del Rey, the match of the fifth season of the Copa del Rey, the match of the fifth"
+        ],
+        "6": [
+            54.0,
+            56.0,
+            "of the King's Cup."
+        ],
+        "7": [
+            84.0,
+            91.0,
+            "The match of the second season of the Copa del Rey, the match of the third season"
+        ],
+        "8": [
+            91.0,
+            98.0,
+            "of the Copa del Rey, the match of the fifth season of the Copa del Rey, the match of"
+        ],
+        "9": [
+            98.0,
+            103.0,
+            "the third season of the Copa del Rey, the match of the fifth season of the Cup"
+        ],
+        "10": [
+            103.0,
+            109.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the fifth"
+        ],
+        "11": [
+            109.0,
+            116.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey,"
+        ],
+        "12": [
+            116.0,
+            123.0,
+            "the match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "13": [
+            123.0,
+            128.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "14": [
+            128.0,
+            133.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "15": [
+            134.0,
+            141.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "16": [
+            141.0,
+            148.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "17": [
+            148.0,
+            155.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "18": [
+            155.0,
+            162.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "19": [
+            163.0,
+            170.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "20": [
+            170.0,
+            177.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "21": [
+            177.0,
+            184.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "22": [
+            184.0,
+            190.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "23": [
+            190.0,
+            197.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "24": [
+            197.0,
+            203.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "25": [
+            203.0,
+            209.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "26": [
+            209.0,
+            215.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "27": [
+            215.0,
+            222.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "28": [
+            222.0,
+            229.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "29": [
+            229.0,
+            236.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "30": [
+            236.0,
+            243.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "31": [
+            244.0,
+            251.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "32": [
+            251.0,
+            258.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "33": [
+            258.0,
+            265.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "34": [
+            265.0,
+            272.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "35": [
+            272.0,
+            278.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "36": [
+            278.0,
+            285.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "37": [
+            285.0,
+            292.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "38": [
+            292.0,
+            299.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "39": [
+            299.0,
+            306.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "40": [
+            306.0,
+            313.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "41": [
+            313.0,
+            320.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "42": [
+            320.0,
+            327.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "43": [
+            327.0,
+            334.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "44": [
+            334.0,
+            341.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "45": [
+            341.0,
+            348.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "46": [
+            348.0,
+            355.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "47": [
+            356.0,
+            361.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "48": [
+            361.0,
+            368.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "49": [
+            368.0,
+            373.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "50": [
+            373.0,
+            380.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "51": [
+            380.0,
+            387.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey,"
+        ],
+        "52": [
+            387.0,
+            394.0,
+            "the match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "53": [
+            394.0,
+            401.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "54": [
+            401.0,
+            408.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "55": [
+            408.0,
+            414.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "56": [
+            414.0,
+            421.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "57": [
+            421.0,
+            427.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "58": [
+            427.0,
+            433.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "59": [
+            433.0,
+            440.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "60": [
+            440.0,
+            447.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "61": [
+            447.0,
+            454.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "62": [
+            454.0,
+            461.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "63": [
+            462.0,
+            469.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "64": [
+            469.0,
+            476.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "65": [
+            476.0,
+            483.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "66": [
+            483.0,
+            490.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "67": [
+            491.0,
+            498.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "68": [
+            498.0,
+            505.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "69": [
+            505.0,
+            512.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "70": [
+            512.0,
+            519.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "71": [
+            519.0,
+            526.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey,"
+        ],
+        "72": [
+            526.0,
+            533.0,
+            "the match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "73": [
+            533.0,
+            540.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "74": [
+            540.0,
+            547.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "75": [
+            547.0,
+            554.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "76": [
+            554.0,
+            561.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "77": [
+            561.0,
+            566.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "78": [
+            566.0,
+            572.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "79": [
+            572.0,
+            579.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "80": [
+            579.0,
+            586.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "81": [
+            586.0,
+            593.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "82": [
+            593.0,
+            599.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "83": [
+            599.0,
+            606.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "84": [
+            606.0,
+            612.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "85": [
+            612.0,
+            617.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "86": [
+            617.0,
+            622.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "87": [
+            622.0,
+            629.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "88": [
+            629.0,
+            636.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "89": [
+            636.0,
+            641.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "90": [
+            641.0,
+            647.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "91": [
+            647.0,
+            654.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey,"
+        ],
+        "92": [
+            654.0,
+            661.0,
+            "the match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "93": [
+            661.0,
+            668.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "94": [
+            668.0,
+            674.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "95": [
+            674.0,
+            680.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "96": [
+            680.0,
+            686.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "97": [
+            686.0,
+            692.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "98": [
+            692.0,
+            698.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "99": [
+            698.0,
+            705.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "100": [
+            705.0,
+            712.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "101": [
+            712.0,
+            719.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "102": [
+            719.0,
+            725.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "103": [
+            725.0,
+            732.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "104": [
+            732.0,
+            739.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "105": [
+            739.0,
+            746.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "106": [
+            746.0,
+            753.0,
+            "Copa del Rey season, the match of the third season of the Copa del Rey, the"
+        ],
+        "107": [
+            753.0,
+            760.0,
+            "match of the third season of the Copa del Rey, the match of the third season"
+        ],
+        "108": [
+            760.0,
+            767.0,
+            "of the Copa del Rey, the match of the third season of the Copa del Rey, the match of"
+        ],
+        "109": [
+            767.0,
+            774.0,
+            "the third season of the Copa del Rey, the match of the third season of the Cup"
+        ],
+        "110": [
+            774.0,
+            781.0,
+            "del Rey, the match of the third season of the Copa del Rey, the match of the third"
+        ],
+        "111": [
+            781.0,
+            783.0,
+            "season of the week."
+        ],
+        "112": [
+            811.0,
+            821.0,
+            "In the finishing zone, Bale, Benzema and Cristiano Ronaldo, hoping that the ball can reach the vicinity of Fernando Pacheco's goal."
+        ],
+        "113": [
+            822.0,
+            826.0,
+            "In addition to all this, Real Madrid players are also starting to exercise, Morata is no longer alone."
+        ],
+        "114": [
+            827.0,
+            837.0,
+            "Yes, yes, Morata, Lucas Vázquez and Asensio have left at exactly the same moment, they are the ones warming up at Real Madrid at the moment when Nenad Kricztychic is already preparing to make the first change for Alaves."
+        ],
+        "115": [
+            837.0,
+            846.0,
+            "Marcelo, challenging Alexis, made a mistake in the recovery pass of Alaves, who tried to go out on the counterattack. Only Edgar Méndez and Davison are ahead of the ball."
+        ],
+        "116": [
+            847.0,
+            851.0,
+            "Manu García is imprecise, he touches the center, Parán, who joins the attack, Ronaldo makes a mistake."
+        ],
+        "117": [
+            854.0,
+            856.0,
+            "Reply turn for Teo Hernández."
+        ],
+        "118": [
+            857.0,
+            871.0,
+            "Very well, Ronaldo lost the ball and from that moment he committed himself to the recovery, delaying the position a lot and attacking his rival, helping the team, the defensive movement."
+        ],
+        "119": [
+            872.0,
+            878.0,
+            "Kiko Femenia tries to put in the center, Bale went down with everything and Ricardo is called for a foul."
+        ],
+        "120": [
+            879.0,
+            887.0,
+            "And the yellow card, the first for the Real Madrid footballers and the yellow one for Gareth Bale, says that it is Ballon's turn in this incorporation of Kiko Femenia."
+        ],
+        "121": [
+            888.0,
+            896.0,
+            "On the right side, the Welshman complained to both the assistant and Sánchez Martínez, but the Murcian referee saw clearly that Gareth Bale was not touching the ball."
+        ],
+        "122": [
+            897.0,
+            900.0,
+            "In addition, the foul, the warning for the Real Madrid footballer."
+        ],
+        "123": [
+            900.0,
+            906.0,
+            "He arrives a little late for that ball, he hits it with his supporting leg."
+        ],
+        "124": [
+            909.0,
+            911.0,
+            "That repetition, once again clarifying."
+        ],
+        "125": [
+            912.0,
+            925.0,
+            "Bale is active in the second half much more than in the first, with a large number of interventions, playing more as a midfielder than as a forward, but trying to participate in the team's attacking play."
+        ],
+        "126": [
+            926.0,
+            930.0,
+            "The yellow for Bale is the fourth of the match, the first for a Real Madrid player."
+        ],
+        "127": [
+            931.0,
+            939.0,
+            "The change in the sports car is already prepared at the same time. Before, this set piece shot, prepared by Camarasa and Raúl García."
+        ],
+        "128": [
+            940.0,
+            942.0,
+            "There are five players from the Vitorian team waiting for the center."
+        ],
+        "129": [
+            943.0,
+            946.0,
+            "The referee authorizes, here goes Camarasa's throw that is going to fall short."
+        ],
+        "130": [
+            947.0,
+            948.0,
+            "Easy for Karim Benzema to clear."
+        ],
+        "131": [
+            949.0,
+            954.0,
+            "Isco, with excellent control in the race, manages to turn around, he was looking for the pipe but it didn't work out anymore."
+        ],
+        "132": [
+            955.0,
+            959.0,
+            "Recovery by the Colombian Torres, Real Madrid clears again."
+        ],
+        "133": [
+            961.0,
+            967.0,
+            "How well Isco had done for him, that pipe came out, it completely clarified his outlook."
+        ],
+        "134": [
+            968.0,
+            974.0,
+            "He didn't have many other options, he was very alone, very surrounded, but he showed his ability there."
+        ],
+        "135": [
+            975.0,
+            979.0,
+            "In that situation, the pipe was not at all a frivolity but a resource, almost the only way out."
+        ],
+        "136": [
+            980.0,
+            981.0,
+            "Give almost a necessity."
+        ],
+        "137": [
+            982.0,
+            990.0,
+            "Kiko Femenia in the center for Dani Torres, Kiko goes up again, Marcelo stops him, it is a throw-in for the sports team at the same time."
+        ],
+        "138": [
+            994.0,
+            999.0,
+            "Kiko Femenia takes his time and now the interruption comes, there is a change, the first in the local team, Ricardo."
+        ],
+        "139": [
+            999.0,
+            1008.0,
+            "Let's see why captain Manu García is leaving in the center of the field, Nenad Kricticic is going to enter, the Serbian footballer who enters the field of play."
+        ],
+        "140": [
+            1009.0,
+            1014.0,
+            "We must remember the loss of Marcos Llorente, who cannot play due to that clause in his loan contract from Real Madrid at the same time."
+        ],
+        "141": [
+            1015.0,
+            1017.0,
+            "He is looking for alternatives, Pelegrino for his team's midfield."
+        ],
+        "142": [
+            1018.0,
+            1026.0,
+            "Ball hung by Deiberson, no one arrives, Keylor Navas lets it run, it's a goal kick, Jorge arrived, the first change in at the same time, Manu García out, Kricticic in."
+        ],
+        "143": [
+            1026.0,
+            1043.0,
+            "Yes, that is, the team does not change much positionally, but it began to need refreshment, especially for the team's start, where at the same time in this second half it has seemed much more obfuscated, with much less clarity than it had shown in the first part."
+        ],
+        "144": [
+            1043.0,
+            1050.0,
+            "Long shot Keylor Navas delivers directly to the rival, Teo Hernández runs, Isco stops him."
+        ],
+        "145": [
+            1050.0,
+            1056.0,
+            "Isco back for Danilo, Teo Hernández is on the ground, no foul was called, the player on loan from Atlético de Madrid is now up."
+        ],
+        "146": [
+            1057.0,
+            1058.0,
+            "Raul Garcia."
+        ],
+        "147": [
+            1062.0,
+            1063.0,
+            "At first Kricticic."
+        ],
+        "148": [
+            1066.0,
+            1068.0,
+            "Raúl García again and Kricticic again."
+        ],
+        "149": [
+            1069.0,
+            1075.0,
+            "One of the players, one of many players incorporated this season by Deportivo Alavés, in this case is not present."
+        ],
+        "150": [
+            1075.0,
+            1078.0,
+            "Katay is going to go to Alavés, it will be the second pilgrim change."
+        ],
+        "151": [
+            1080.0,
+            1083.0,
+            "He goes to the Camarasa control, he tried to correct his mistake but he couldn't."
+        ],
+        "152": [
+            1084.0,
+            1088.0,
+            "He was the last one to touch before the ball went out, throw-in for Danilo."
+        ],
+        "153": [
+            1088.0,
+            1098.0,
+            "This new version of Real Madrid, much more organized, much more supportive, also weighs on Alavés' starting errors."
+        ],
+        "154": [
+            1099.0,
+            1102.0,
+            "Which is the team that has been clearing the line of play the most."
+        ],
+        "155": [
+            1103.0,
+            1105.0,
+            "And it is the team that has been clearing the line of play the most."
+        ],
+        "156": [
+            1105.0,
+            1116.0,
+            "This new version of Real Madrid, much more organized, much more supportive, also weighs on Alavés' starting errors."
+        ],
+        "157": [
+            1117.0,
+            1120.0,
+            "That helps recover the ball."
+        ],
+        "158": [
+            1121.0,
+            1125.0,
+            "What the team does not find is the depth, the danger."
+        ],
+        "159": [
+            1126.0,
+            1129.0,
+            "Because the truth is that he has had very few scoring opportunities at Real Madrid."
+        ],
+        "160": [
+            1130.0,
+            1134.0,
+            "By the way, Morata ran into the locker room."
+        ],
+        "161": [
+            1135.0,
+            1141.0,
+            "I don't know if it was necessary, he had forgotten something, something is going to be changed, but the fact is that the Real Madrid youth squad is not warming up right now on Mendizorosa's side."
+        ],
+        "162": [
+            1143.0,
+            1149.0,
+            "Bad control by Kroos, Alavés recovers first from Iverson, that ball was great for Edgar Méndez, Nacho was very attentive."
+        ],
+        "163": [
+            1152.0,
+            1155.0,
+            "Ronaldo, first unloads towards Danilo."
+        ],
+        "164": [
+            1155.0,
+            1160.0,
+            "Bale can't turn around, now he finds Isco."
+        ],
+        "165": [
+            1162.0,
+            1167.0,
+            "Isco leads, waiting for the arrival of Danilo to end up playing at the back again with Gareth Bale."
+        ],
+        "166": [
+            1168.0,
+            1169.0,
+            "Marcelo goes up."
+        ],
+        "167": [
+            1170.0,
+            1179.0,
+            "He continues to participate a lot but practically as a midfielder, he has pulled much further back than Benzema and Ronaldo."
+        ],
+        "168": [
+            1180.0,
+            1185.0,
+            "Barham's ball looking for Cristiano's run, applauds the 7 who did not attack that ball."
+        ],
+        "169": [
+            1186.0,
+            1188.0,
+            "Goalkeeper kick for Fernando Pacheco."
+        ],
+        "170": [
+            1189.0,
+            1198.0,
+            "Morata is going to come in, he has already returned from the locker room, I insist I don't know if he had forgotten something or was going to change something, the fact is that that number 21 is already prepared."
+        ],
+        "171": [
+            1199.0,
+            1204.0,
+            "It will be the second change in Zinedine Zidane's team, time for the alternative, Madrid's alternative trident."
+        ],
+        "172": [
+            1204.0,
+            1214.0,
+            "From Iverson, lowering a ball that seemed almost impossible, he waits for the arrival of a teammate, Kiko Femenia appears there, he endured, he endured and in the end he obtained the throw-in."
+        ],
+        "173": [
+            1216.0,
+            1226.0,
+            "Torres, deep ball on Kiko Femenia who can center, Kiko Femenia puts it in, a defender has touched it, De Iverson looks for it, Edgar also wants it, in an action invalidated due to a lack of De Iverson."
+        ],
+        "174": [
+            1226.0,
+            1236.0,
+            "In the jump, the Brazilian forward now recognizes it, Nacho remains lying on the pitch, the Alaves forward helps the Real Madrid centre-back get up."
+        ],
+        "175": [
+            1237.0,
+            1249.0,
+            "So nothing happens here, but also that De Iverson knows that he has a yellow card, it is going to prevent him from playing the next game with his team and what he does not want is to take Ota away for protesting."
+        ],
+        "176": [
+            1249.0,
+            1251.0,
+            "The referee also knows that he had a yellow card."
+        ],
+        "177": [
+            1252.0,
+            1267.0,
+            "Edgar leaves for Alaves, the one who enters the field is Catay, the one who leaves for Real Madrid is Karim Benzema, the one who comes in his place is Álvaro Morata, he has just scored two goals against the cultural team from Leon,"
+        ],
+        "178": [
+            1268.0,
+            1274.0,
+            "but it also comes from scoring in Atlético de Bilbao's last game, in that game that had the white team so bogged down at the Santiago Bernabéu."
+        ],
+        "179": [
+            1274.0,
+            1288.0,
+            "It is difficult to connect to the game with Benzema, a player that Real Madrid needs to find clarity especially in its attacking maneuvers, and what comes in is pure enthusiasm,"
+        ],
+        "180": [
+            1289.0,
+            1296.0,
+            "an increasingly mature player who brings tremendous energy to Real Madrid when he is on the field."
+        ],
+        "181": [
+            1296.0,
+            1306.0,
+            "It is the modification of Zidane, out Benzema, in Morata, in Alaves Edgar Méndez left, a tremendously electric player enters his place, the Serbian Alexander Catay."
+        ],
+        "182": [
+            1308.0,
+            1314.0,
+            "Electricity that Alaves needs if they want to save the result."
+        ],
+        "183": [
+            1314.0,
+            1321.0,
+            "Krsticic, Kamarasa lost it, good anticipation by Krsticic, although the ball goes wide."
+        ],
+        "184": [
+            1322.0,
+            1330.0,
+            "A throw-in for Real Madrid, already in Ecuador in this second half, the result the same as at half-time, Real Madrid wins 1-2, double by Cristiano Ronaldo."
+        ],
+        "185": [
+            1331.0,
+            1334.0,
+            "Deiverson scored first for Deportivo Alaves."
+        ],
+        "186": [
+            1334.0,
+            1342.0,
+            "Morata had covered the ball well and there was little chance of stopping it if it was not outside the regulations."
+        ],
+        "187": [
+            1346.0,
+            1355.0,
+            "Toni Kroos, the second goal of the second half, the result the same as at half-time, Real Madrid wins 1-2, double by Cristiano Ronaldo."
+        ],
+        "188": [
+            1355.0,
+            1361.0,
+            "Morata had covered the ball well and there was little chance of stopping it if it was not outside the regulations."
+        ],
+        "189": [
+            1385.0,
+            1398.0,
+            "Gárez Bale, facing Raúl García, is asked by Danilo, there appears the Brazilian who can cross, there are four white shirts inside the area, Danilo plays for Kroos."
+        ],
+        "190": [
+            1399.0,
+            1402.0,
+            "Deiverson arrives and involuntarily completes the opening for Bale."
+        ],
+        "191": [
+            1403.0,
+            1407.0,
+            "Bale facing Teo, horizontal fire, turn for Marcelo."
+        ],
+        "192": [
+            1407.0,
+            1417.0,
+            "Marcelo changes pace, tries to escape from the women's team, puts it for Morata, Bale rejects it, Kovacic prepares the shot, but Kricicic arrives in time to take the ball away from him."
+        ],
+        "193": [
+            1418.0,
+            1426.0,
+            "However, Real Madrid insists, good maneuver, Kovacic crosses, here it was Cristiano, up, up Cristiano Ronaldo's chromatic shot."
+        ],
+        "194": [
+            1427.0,
+            1429.0,
+            "Real Madrid's third player, Jorge, could have been there."
+        ],
+        "195": [
+            1430.0,
+            1434.0,
+            "Well, ask Nacho how to do it, it doesn't cost him anything, he's a teammate."
+        ],
+        "196": [
+            1435.0,
+            1443.0,
+            "He positioned himself well for the shot, he didn't have many alternatives and well, the shot went wide."
+        ],
+        "197": [
+            1444.0,
+            1451.0,
+            "Kovacic's cross was very good, in one of the few dangerous approaches that Real Madrid has had in this second half."
+        ],
+        "198": [
+            1456.0,
+            1458.0,
+            "It's time to propose the sports car at the same time."
+        ],
+        "199": [
+            1460.0,
+            1466.0,
+            "The appearance of Katay, he tries to get between two, Katay continues, he cannot associate himself with Deiberson."
+        ],
+        "200": [
+            1467.0,
+            1469.0,
+            "It bounced and fell to Marcelo."
+        ],
+        "201": [
+            1473.0,
+            1480.0,
+            "He tries to change everything to Marcelo, the rebounded ball fell to Morata, Alexis, Camarasa, Deiberson prevail."
+        ],
+        "202": [
+            1481.0,
+            1486.0,
+            "Holding on and relying on Kiko Femenia, he distributes to Dani Torres."
+        ],
+        "203": [
+            1487.0,
+            1496.0,
+            "Camarasa between the lines, opening for Kiko Femenia, reaches Deiberson's finishing area, Katay also puts it in Kiko looking for Espeja's Servant Varane."
+        ],
+        "204": [
+            1497.0,
+            1499.0,
+            "The rejection of the frontal for whom? Torres tries to win it, also Bale."
+        ],
+        "205": [
+            1500.0,
+            1507.0,
+            "The Colombian wins, Torres has played, Deiberson jumps, so does Nacho, Nenad Hristicic does the same."
+        ],
+        "206": [
+            1508.0,
+            1510.0,
+            "Finally the ball goes to Keylor Navas."
+        ],
+        "207": [
+            1511.0,
+            1520.0,
+            "We are already in the last 20 minutes of regulation time, it started with a lot of presence near the rival goal."
+        ],
+        "208": [
+            1521.0,
+            1524.0,
+            "The sportsman at the same time enjoyed two opportunities practically in the first minute of the game."
+        ],
+        "209": [
+            1525.0,
+            1529.0,
+            "The rhythm and frequency of that offensive production has been decreasing on the part of both teams."
+        ],
+        "210": [
+            1530.0,
+            1535.0,
+            "But I suppose Jorge that as the final stretch of the game approaches, all this is going to gain another gear."
+        ],
+        "211": [
+            1535.0,
+            1544.0,
+            "Yes, it is assumed. What happens is that Madrid has at the same time lost a little freshness and with the freshness it has also lost precision."
+        ],
+        "212": [
+            1545.0,
+            1553.0,
+            "On the other hand, Real Madrid feels comfortable with the result, they do not want to lose order and that makes them a more preventive team."
+        ],
+        "213": [
+            1554.0,
+            1559.0,
+            "Good ball from Ronaldo, Morata wants it for the third, Suhair Fetal arrives first to take the ball for a corner."
+        ],
+        "214": [
+            1559.0,
+            1568.0,
+            "Morata now attacks the spaces more decisively and that logically produces at least more sense of danger in Real Madrid."
+        ],
+        "215": [
+            1575.0,
+            1577.0,
+            "Prepared to execute Toni Kroos."
+        ],
+        "216": [
+            1579.0,
+            1583.0,
+            "That today he had much less prominence than usual in the team's game."
+        ],
+        "217": [
+            1584.0,
+            1588.0,
+            "They brought on Nacho Ibaran to look for the shot, Kroos put it at the near post, Deiberson prevailed."
+        ],
+        "218": [
+            1590.0,
+            1594.0,
+            "Kovacic assures, back for Danilo and this one even further back for Keylor Navas."
+        ],
+        "219": [
+            1601.0,
+            1602.0,
+            "Ibaran head extension."
+        ],
+        "220": [
+            1606.0,
+            1607.0,
+            "Raul Garcia."
+        ],
+        "221": [
+            1608.0,
+            1609.0,
+            "Play for Fetal."
+        ],
+        "222": [
+            1611.0,
+            1617.0,
+            "Kiko Femenia was only asking for it on the right, the Moroccan center back from Deportivo Alavés insisted on the other side."
+        ],
+        "223": [
+            1618.0,
+            1630.0,
+            "And there we have Teo who in the first half had a tremendous role in Alavés' attacking game and who in the second half found practically no possibilities for his change of pace."
+        ],
+        "224": [
+            1631.0,
+            1640.0,
+            "Because Real Madrid blocked his way, he knew that there was a hemorrhage that had to be stopped and in the second half he had practically no chances."
+        ],
+        "225": [
+            1641.0,
+            1642.0,
+            "There we have it."
+        ],
+        "226": [
+            1643.0,
+            1644.0,
+            "There is Teo Hernández."
+        ],
+        "227": [
+            1645.0,
+            1647.0,
+            "Deiberson moves ahead, they are looking for him, Deiberson is looking for her."
+        ],
+        "228": [
+            1648.0,
+            1649.0,
+            "Keylor arrives first."
+        ],
+        "229": [
+            1650.0,
+            1652.0,
+            "Keylor Navas arrives first in the action, Ricardo Invalidada."
+        ],
+        "230": [
+            1653.0,
+            1657.0,
+            "Yes, there was offside, he had raised the flag online, Keylor Navas complains about that action with Deiberson."
+        ],
+        "231": [
+            1657.0,
+            1664.0,
+            "The Brazilian striker fought until the end; Real Madrid's Costa Rican goalkeeper suffered a blow to his knee."
+        ],
+        "232": [
+            1665.0,
+            1673.0,
+            "And Sánchez Martínez who asks for assistance, the entry of the Real Madrid doctors because the goalkeeper is still lying on the Mendizorroza grass."
+        ],
+        "233": [
+            1674.0,
+            1676.0,
+            "Deiberson always arrives with fire."
+        ],
+        "234": [
+            1677.0,
+            1686.0,
+            "There was a play where he had stuck out his elbow in front of Nacho, now here he is going to fight for a ball that was clearly lost."
+        ],
+        "235": [
+            1687.0,
+            1693.0,
+            "As if he forgot that he has a yellow card and that he should be a little more cautious."
+        ],
+        "236": [
+            1694.0,
+            1698.0,
+            "It was also offside, the guineer had raised the flag."
+        ],
+        "237": [
+            1698.0,
+            1702.0,
+            "Take advantage of Cristiano, Isco, Kroos, Nacho to come and cool off."
+        ],
+        "238": [
+            1703.0,
+            1712.0,
+            "Now also Kovácsic, Gareth Bale and in the case of Cristiano to speak with Zinedine Zidane, exchange opinions in the technical area."
+        ],
+        "239": [
+            1713.0,
+            1718.0,
+            "The French coach extends the conversation with Real Madrid's number 7."
+        ],
+        "240": [
+            1720.0,
+            1722.0,
+            "He made a face as if to say, it's not me."
+        ],
+        "241": [
+            1722.0,
+            1726.0,
+            "But obviously with his hand over his mouth it is impossible to know what he may be saying."
+        ],
+        "242": [
+            1727.0,
+            1738.0,
+            "But the conversation right now between Zinedine Zidane and Cristiano Ronaldo at the moment when Keylor Navas has already recovered and Real Madrid's Costa Rican goalkeeper is going to put the ball into play."
+        ],
+        "243": [
+            1739.0,
+            1749.0,
+            "Just a few seconds ago, Deiberson was apologizing to Keylor since the Costa Rican was already recovered in that action in which it did not seem like he had a chance of taking place."
+        ],
+        "244": [
+            1749.0,
+            1755.0,
+            "Although let's not forget that the play was invalid but it seemed that Deiberson's position at the start was correct."
+        ],
+        "245": [
+            1756.0,
+            1759.0,
+            "Be that as it may, Keylor Navas arrived before the Brazilian attacker of the ship."
+        ],
+        "246": [
+            1760.0,
+            1764.0,
+            "Mendizorroza is played again on the way to the last 15 minutes of the game."
+        ],
+        "247": [
+            1765.0,
+            1770.0,
+            "It's strange how practically the entire Real Madrid team has gone to the sidelines to drink."
+        ],
+        "248": [
+            1771.0,
+            1776.0,
+            "It's like they feel very tired and that has to do with the game."
+        ],
+        "249": [
+            1776.0,
+            1783.0,
+            "It's funny because it has been an excellent day but the thermometer has risen to 23-24 degrees, no more."
+        ],
+        "250": [
+            1784.0,
+            1789.0,
+            "However, there are many players who show signs of fatigue."
+        ],
+        "251": [
+            1790.0,
+            1797.0,
+            "It is not as hot as the first few days in those games at the Bernabéu nor is it the temperature in this area at this time of year."
+        ],
+        "252": [
+            1798.0,
+            1801.0,
+            "It is to have less than a little heat."
+        ],
+        "253": [
+            1801.0,
+            1804.0,
+            "It's not like the sun has been shining on the playing field for a long time either."
+        ],
+        "254": [
+            1831.0,
+            1844.0,
+            "Zinedine Zidane's team against an Alaves team that right there, as soon as the ball enters the half of the field they are defending, is when they start to put pressure. Not before."
+        ],
+        "255": [
+            1848.0,
+            1854.0,
+            "It seemed that the Alaves team had won the throw-in. In fact, Pellegrino's annoyance, who was very much on top of Ricardo's play, is tremendous."
+        ],
+        "256": [
+            1854.0,
+            1865.0,
+            "He expels it. Because of the protest, Sánchez Martínez tells him that he is expelling him. Pellegrino who insists on the claim to the Murcian referee."
+        ],
+        "257": [
+            1866.0,
+            1872.0,
+            "It must be remembered that one of his assistants already sent him off in the first half when that penalty action against Deyverson was claimed."
+        ],
+        "258": [
+            1873.0,
+            1878.0,
+            "In the first half, Pellegrino leaves, the second sent off on the Vitorian team's bench."
+        ],
+        "259": [
+            1879.0,
+            1893.0,
+            "The expulsion seems excessive to me, frankly. She made a protest because he thought the throw-in was going the other way, but it was neither offensive nor aggressive enough to merit sending off."
+        ],
+        "260": [
+            1894.0,
+            1903.0,
+            "He has no idea where the story comes from because we are already 76 minutes into the game and we have not been 100% aware of this, but in relation to that last play, which is the one that ends up motivating the expulsion, it didn't seem like it."
+        ],
+        "261": [
+            1903.0,
+            1907.0,
+            "It seemed very little for such an extreme decision."
+        ],
+        "262": [
+            1908.0,
+            1913.0,
+            "Danilo prepares the cross, places it looking for Bale, Fedal clears it, Isco appears on the front line."
+        ],
+        "263": [
+            1914.0,
+            1917.0,
+            "Real Madrid looks more complete than the sports team."
+        ],
+        "264": [
+            1918.0,
+            1922.0,
+            "Another meter from Marcelo, it was great, Alexis puts his head in, it's a corner for Real Madrid."
+        ],
+        "265": [
+            1922.0,
+            1926.0,
+            "I take this opportunity to quickly say about that action that you mentioned about the expulsion."
+        ],
+        "266": [
+            1927.0,
+            1932.0,
+            "The linesman has the flag held in his right hand to signal a throw-in in favor of the Alavés."
+        ],
+        "267": [
+            1933.0,
+            1941.0,
+            "And in conversation with Sánchez Martínez what he does is change the hand, it is the referee who sees a throw-in in favor of Real Madrid and which causes Pelégrin's protest."
+        ],
+        "268": [
+            1942.0,
+            1943.0,
+            "And the referee is wrong, nothing more."
+        ],
+        "269": [
+            1944.0,
+            1945.0,
+            "No, well on top of that he was right, it is consistent."
+        ],
+        "270": [
+            1946.0,
+            1955.0,
+            "Kroos throws at the near post, there is a fall that passes, penalty, there is a penalty, there is a penalty in favor of Real Madrid, a penalty on Cristiano Ronaldo."
+        ],
+        "271": [
+            1957.0,
+            1964.0,
+            "The players of the sports team protest the wrong way, there are penalties, the second of the game, Ronaldo fell inside the area, we have to see it again."
+        ],
+        "272": [
+            1965.0,
+            1971.0,
+            "The Portuguese footballer who ended up on the ground paired up was at the penalty spot, I haven't seen who well."
+        ],
+        "273": [
+            1972.0,
+            1983.0,
+            "The public, especially in that area, from that background, applauds the referee's decision in an obviously ironic way, after the second penalty that Sánchez Martínez has awarded in favor of Real Madrid today."
+        ],
+        "274": [
+            1984.0,
+            1994.0,
+            "And what causes, well, that there is that song of hands up, this is a robbery, this is what Mendy Zorraza is singing right now after that penalty that he is going to try to transform Cristiano."
+        ],
+        "275": [
+            1994.0,
+            2004.0,
+            "A penalty by Manu Torres, or rather by Dani Torres, on Cristiano Ronaldo, is indicated, we analyze it immediately, first the direct one because the kick is going to take place now and it could be the sentence for Real Madrid."
+        ],
+        "276": [
+            2005.0,
+            2016.0,
+            "Ronaldo is going to hit him, Ronaldo, Pachico has blocked, Pachico has blocked, Pachico has blocked Cristiano Ronaldo's shot, the game is still more than open Mendy Zorraza."
+        ],
+        "277": [
+            2017.0,
+            2036.0,
+            "Well the penalty was a penalty, Cristiano was clearly grabbed by the shirt in the corner, now we are going to be very attentive because if this referee gives all these penalties that are inside the area, well we are going to have a lot of fun this year because he will surely have to take 3 or 4 penalties per game."
+        ],
+        "278": [
+            2037.0,
+            2040.0,
+            "Very good save by Pacheco against Cristiano's shot."
+        ],
+        "279": [
+            2040.0,
+            2051.0,
+            "The hand of the Extremaduran goalkeeper was spectacular, going down, putting his strong arm in to block Ronaldo's shot. There is an Alavés player lying on the pitch, Ricardo."
+        ],
+        "280": [
+            2052.0,
+            2058.0,
+            "And that they demand an action from Danilo in which he can put the iron, from here I do not appreciate, well, there Maria for protesting."
+        ],
+        "281": [
+            2059.0,
+            2060.0,
+            "For Kiko Femenía."
+        ],
+        "282": [
+            2061.0,
+            2070.0,
+            "But the action was a divided ball to which Danilo could arrive late, he could miss it, he could even do a lot of damage to the Alavés footballer who was left lying on the pitch."
+        ],
+        "283": [
+            2071.0,
+            2077.0,
+            "The action continues, the man who stands up right now, I think is Cristi Cic."
+        ],
+        "284": [
+            2078.0,
+            2089.0,
+            "And he is the one who took Danilo's foul, the Alavés footballers understand and the Mendizorroza crowd understands that it was Danilo's foul and that he could even deserve a yellow card."
+        ],
+        "285": [
+            2090.0,
+            2094.0,
+            "Sánchez Martínez, who in the protest reprimanded Kiko Femenía, has not pointed out anything."
+        ],
+        "286": [
+            2095.0,
+            2097.0,
+            "Excellent action by Kiko."
+        ],
+        "287": [
+            2099.0,
+            2107.0,
+            "And the referee is getting involved, I get the feeling that he has to take the game a little more calmly because things have not happened on the field that..."
+        ],
+        "288": [
+            2108.0,
+            2113.0,
+            "Ricardo, what happened to Kiko Femenía? She went to the ground in a slightly strange play and immediately asked you to stop the game."
+        ],
+        "289": [
+            2114.0,
+            2121.0,
+            "He has taken a blow to the face, I think Comisco, who is interested in the condition of the player from the Vitoria team."
+        ],
+        "290": [
+            2121.0,
+            2126.0,
+            "A blow to the forehead, Sánchez Martínez comes to be interested, Deiverson to protest."
+        ],
+        "291": [
+            2127.0,
+            2132.0,
+            "And let's see if in the repeated action we see the origin of that play with Isco and Kiko Femenía."
+        ],
+        "292": [
+            2135.0,
+            2146.0,
+            "In that action, I believe he hit the face with his elbow and involuntarily, the face of Kiko Femenía, who was lying on the field of play and who has already returned to his senses."
+        ],
+        "293": [
+            2147.0,
+            2155.0,
+            "The neutral bounce with which Marcelo is going to put the ball into play without returning the ball because the ball is for Real Madrid and Deiverson applauds."
+        ],
+        "294": [
+            2157.0,
+            2159.0,
+            "Play the white square again."
+        ],
+        "295": [
+            2162.0,
+            2167.0,
+            "Gareth Bale, chased by Raúl García, ends up on the ground."
+        ],
+        "296": [
+            2167.0,
+            2177.0,
+            "There is a lack of Deportivo's defender and at the same time Jorge now seems determined to take a step forward and try to exhaust the possibilities he can count on to score points today."
+        ],
+        "297": [
+            2178.0,
+            2179.0,
+            "That's it, exactly."
+        ],
+        "298": [
+            2183.0,
+            2193.0,
+            "Nacho, Marcelo, on top of Marcelo, Morata fights, good drop for Ronaldo who is in the race, Alexis arrives a moment before."
+        ],
+        "299": [
+            2193.0,
+            2200.0,
+            "It is Gareth Bale's turn whose shot hits Raúl García's back, another corner for Real Madrid."
+        ],
+        "300": [
+            2201.0,
+            2213.0,
+            "And the last change, the last bullet for Pelegrino's team is Cristian Santos, he is preparing that number 9, he has 9 minutes left plus added time at the same time to try to find the tie against Real Madrid."
+        ],
+        "301": [
+            2214.0,
+            2220.0,
+            "The feeling is that Real Madrid seems closer to third than Alavés to a tie."
+        ],
+        "302": [
+            2221.0,
+            2228.0,
+            "Against the disorder of Alavés, Real Madrid will weigh its tremendous capacity for counterattacks."
+        ],
+        "303": [
+            2229.0,
+            2235.0,
+            "There goes Toni Kroos, shot at the penalty spot, Ronaldo looks for it, Torres managed to clear it."
+        ],
+        "304": [
+            2236.0,
+            2251.0,
+            "Well, once again Varane was hugging an Alavés player, if we interpret a penalty and all those types of plays, then maybe that's what we have to do, right? To end them."
+        ],
+        "305": [
+            2252.0,
+            2262.0,
+            "The ball went up to Pacheco, he rushed in, he was in too much of a hurry, they asked him for a little calm from the bench, a bench where, let's not forget, neither Pelegrino nor one of his assistants was there."
+        ],
+        "306": [
+            2263.0,
+            2266.0,
+            "Both expelled at this moment, the last change from Alavés arrives, Ricardo."
+        ],
+        "307": [
+            2267.0,
+            2278.0,
+            "Dani Torres, a midfielder, leaves, Cristian Santos, a forward, enters the field, that is, it is the last bullet, the Vitorian team is playing to find that tie at two on the scoreboard."
+        ],
+        "308": [
+            2279.0,
+            2292.0,
+            "Now there is a change in Alavés, one of the two opponents loses, a forward gains, takes on a greater risk and we will see how this modifies the development of the match."
+        ],
+        "309": [
+            2294.0,
+            2307.0,
+            "Camarasa, chopped ball from Camarasa, Danilo clears, tries to set up the counterattack, Real Madrid just entered the field, Venezuelan Cristian Santos, good ball, looking for Morata, Morata, Morata, Morata."
+        ],
+        "310": [
+            2309.0,
+            2317.0,
+            "Goal!"
+        ],
+        "311": [
+            2319.0,
+            2328.0,
+            "From Real Madrid in the 83rd minute, goal by Álvaro Morata, simple, simple, why else, long ball behind the defense, measured by Marcelo."
+        ],
+        "312": [
+            2329.0,
+            2341.0,
+            "Morata starts running, stands in front of Pacheco and with a single touch, without even accommodating her, without needing control, he puts her over the Alavés goalkeeper to possibly close the game."
+        ],
+        "313": [
+            2342.0,
+            2346.0,
+            "It's Real Madrid's goal, scored by Álvaro Morata, Deportivo Alavés 1, Real Madrid 3."
+        ],
+        "314": [
+            2347.0,
+            2370.0,
+            "It is true, the conception of the counterattack is very simple, Marcelo's perfect pass for Morata's career, it beats success in speed and with full speed, impeccable definition from the Real Madrid forward who continues to add merits game by game."
+        ],
+        "315": [
+            2371.0,
+            2384.0,
+            "There are three goals in the league for Álvaro Morata, there are seven in all competitions and on this occasion it serves to give peace of mind to his team after a great pass from Marcelo who celebrated it almost as if he had scored the goal himself."
+        ],
+        "316": [
+            2385.0,
+            2391.0,
+            "Ronaldo up, Ronaldo deflected, he received Morata's pass, he lined up for the hit, it's the whole feeling of being completely broken."
+        ],
+        "317": [
+            2392.0,
+            2401.0,
+            "Yes, and that is why Cristiano dares to shoot from that position when he had two or three teammates much better positioned to give continuity to the play."
+        ],
+        "318": [
+            2402.0,
+            2419.0,
+            "Lucas Vázquez is going to come in, it will be the last change at Real Madrid, the recently renewed Galician footballer until 2021, the signing last Thursday, acts as a reward for the improvement of the contract for what Lucas Vázquez has earned in this year and a half, a year and a half will not come again at Real Madrid, it will be the last change."
+        ],
+        "319": [
+            2420.0,
+            2421.0,
+            "Zinedine Zidane's team."
+        ],
+        "320": [
+            2423.0,
+            2434.0,
+            "Danilo, received a clear foul from his marker, will see a yellow card, Ricardo, Cristi admonished, yes."
+        ],
+        "321": [
+            2434.0,
+            2451.0,
+            "Yes, yes, yes, the Serbian footballer after that action, and these warnings provoke ironic applause from the Mendy Zorroza stands, because in that chapter the balance is obviously very uneven for Alavés, I think it is the fourth yellow card."
+        ],
+        "322": [
+            2452.0,
+            2456.0,
+            "For Alavés the fifth, Davidson, Torres, De Ornandes, Kiko and Kristicic."
+        ],
+        "323": [
+            2456.0,
+            2484.0,
+            "Correct, and one only for Real Madrid with Gareth Bale, who is precisely the man who is leaving, the greeting with Cristiano Ronaldo, who we have seen talk a lot with Zinedine Zidane in this second half, talk a lot with the bench, he leaves the Welshman, the man who with the free kick was going to provoke the controversial action that would end in the penalty of a 1-1 tie, that hand, that ball on Davidson's head, the one who enters the field of play is Lucas Vázquez , the three changes made to Zidane's team."
+        ],
+        "324": [
+            2486.0,
+            2490.0,
+            "Bale out, Lucas Vázquez in, which is the last change of the game."
+        ],
+        "325": [
+            2491.0,
+            2506.0,
+            "Another of Real Madrid's merits, another of those who find fewer minutes than they deserve within a squad that is very rich, and we are not surprised by Zidane's difficulties in ending up imposing a starting team."
+        ],
+        "326": [
+            2507.0,
+            2509.0,
+            "Short delivery to Camarasa for Kricicic."
+        ],
+        "327": [
+            2510.0,
+            2512.0,
+            "Raúl García goes up from the left."
+        ],
+        "328": [
+            2513.0,
+            2514.0,
+            "Teo moved ahead."
+        ],
+        "329": [
+            2517.0,
+            2520.0,
+            "The team led by Mauricio Pellegrino prefers to start over."
+        ],
+        "330": [
+            2520.0,
+            2521.0,
+            "Cathay."
+        ],
+        "331": [
+            2522.0,
+            2534.0,
+            "Catay faced, good bike, escapes from the first, Catay continues, puts the ball inside towards Cristian Santos' location, but clears the Real Madrid defense."
+        ],
+        "332": [
+            2535.0,
+            2536.0,
+            "Marcellus."
+        ],
+        "333": [
+            2537.0,
+            2538.0,
+            "Back for Nacho."
+        ],
+        "334": [
+            2540.0,
+            2544.0,
+            "The cast led by Zidane is now successfully circulating the ball."
+        ],
+        "335": [
+            2544.0,
+            2548.0,
+            "Ronaldo for Marcelo, Marcelo for Ronaldo, Ronaldo, Ronaldo, RONALDO."
+        ],
+        "336": [
+            2549.0,
+            2557.0,
+            "GOOOOOOL."
+        ],
+        "337": [
+            2558.0,
+            2560.0,
+            "From Real Madrid in '87."
+        ],
+        "338": [
+            2561.0,
+            2563.0,
+            "Cristiano Ronaldo hat-trick."
+        ],
+        "339": [
+            2564.0,
+            2566.0,
+            "Kovacic starts driving, gives it to 7."
+        ],
+        "340": [
+            2567.0,
+            2569.0,
+            "Vela arrived on Marcelo's left side."
+        ],
+        "341": [
+            2569.0,
+            2576.0,
+            "Yours for Cristiano to receive again inside the area, who waits for the right moment and beats Pacheco to score a hat-trick."
+        ],
+        "342": [
+            2577.0,
+            2583.0,
+            "Cristiano Ronaldo has returned with the records of yesteryear, three goals from one attack, marks the white box."
+        ],
+        "343": [
+            2584.0,
+            2586.0,
+            "Deportivo at the same time one, Real Madrid four."
+        ],
+        "344": [
+            2587.0,
+            2594.0,
+            "Alaves is paying dearly for its bet on the risk that was otherwise inevitable."
+        ],
+        "345": [
+            2594.0,
+            2599.0,
+            "The gap left in the center of the field is found by Real Madrid to be able to accelerate."
+        ],
+        "346": [
+            2600.0,
+            2603.0,
+            "This time Kovacic did it with a long drive."
+        ],
+        "347": [
+            2604.0,
+            2612.0,
+            "But the one who is pronouncing the result a little more, the one who is enlarging it, is Marcelo."
+        ],
+        "348": [
+            2613.0,
+            2620.0,
+            "That with an appearance through a long pass served the third and now with an exemplary pass."
+        ],
+        "349": [
+            2620.0,
+            2633.0,
+            "When you receive the ball from Marcelo, you would have expected anything, even the shot, but not the discharge measured backwards so that Cristiano would end up in a very, very favorable situation."
+        ],
+        "350": [
+            2634.0,
+            2645.0,
+            "The truth is that in this second half Real Madrid scored two goals, missed a penalty and every time they accelerated they found the goal because of the level of efficiency they had throughout the game."
+        ],
+        "351": [
+            2645.0,
+            2654.0,
+            "It has been really tremendous, without much play, without many chances, he already has four goals on the scoreboard."
+        ],
+        "352": [
+            2655.0,
+            2664.0,
+            "A result that he undoubtedly deserves and that he has been able to expand based on order, something that we do not always recognize."
+        ],
+        "353": [
+            2665.0,
+            2668.0,
+            "Morata who wants more, Ronaldo inside the area, puts the ball."
+        ],
+        "354": [
+            2668.0,
+            2673.0,
+            "Pacheco's frivolity to rescue Ronaldo inside the area and keep that ball."
+        ],
+        "355": [
+            2674.0,
+            2681.0,
+            "The Alavés responds with that deep ball, it does not reach Catá and we are very pending the extension of the addition that Ricardo will know shortly."
+        ],
+        "356": [
+            2682.0,
+            2688.0,
+            "Yes, in less than 10 seconds. Well, it's Cristiano Ronaldo's first hat-trick this season, there are five goals in the league."
+        ],
+        "357": [
+            2688.0,
+            2693.0,
+            "The most anticipated moment for the Portuguese footballer, which is the penalties."
+        ]
+    }
+}

@@ -1,0 +1,3384 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            5.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "1": [
+            30.0,
+            34.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "2": [
+            60.0,
+            63.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "3": [
+            90.0,
+            93.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "4": [
+            120.0,
+            123.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "5": [
+            150.0,
+            153.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "6": [
+            180.0,
+            183.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "7": [
+            210.0,
+            213.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "8": [
+            240.0,
+            243.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "9": [
+            270.0,
+            274.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "10": [
+            300.0,
+            303.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "11": [
+            330.0,
+            333.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "12": [
+            360.0,
+            363.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "13": [
+            364.0,
+            367.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "14": [
+            368.0,
+            371.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "15": [
+            372.0,
+            375.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "16": [
+            376.0,
+            379.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "17": [
+            380.0,
+            383.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "18": [
+            384.0,
+            387.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "19": [
+            387.0,
+            390.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "20": [
+            391.0,
+            394.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "21": [
+            395.0,
+            398.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "22": [
+            399.0,
+            402.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "23": [
+            403.0,
+            406.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "24": [
+            407.0,
+            410.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "25": [
+            411.0,
+            414.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "26": [
+            414.0,
+            417.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "27": [
+            418.0,
+            421.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "28": [
+            422.0,
+            425.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "29": [
+            426.0,
+            429.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "30": [
+            430.0,
+            433.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "31": [
+            434.0,
+            437.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "32": [
+            438.0,
+            441.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "33": [
+            441.0,
+            444.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "34": [
+            445.0,
+            448.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "35": [
+            449.0,
+            452.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "36": [
+            453.0,
+            456.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "37": [
+            457.0,
+            460.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "38": [
+            461.0,
+            464.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "39": [
+            465.0,
+            468.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "40": [
+            468.0,
+            471.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "41": [
+            472.0,
+            475.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "42": [
+            476.0,
+            479.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "43": [
+            480.0,
+            483.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "44": [
+            484.0,
+            487.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "45": [
+            488.0,
+            491.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "46": [
+            492.0,
+            495.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "47": [
+            496.0,
+            499.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "48": [
+            500.0,
+            503.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "49": [
+            504.0,
+            507.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "50": [
+            508.0,
+            511.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "51": [
+            512.0,
+            515.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "52": [
+            516.0,
+            519.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "53": [
+            520.0,
+            523.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "54": [
+            523.0,
+            526.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "55": [
+            527.0,
+            530.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "56": [
+            531.0,
+            534.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "57": [
+            535.0,
+            538.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "58": [
+            539.0,
+            542.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "59": [
+            543.0,
+            546.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "60": [
+            547.0,
+            550.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "61": [
+            550.0,
+            553.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "62": [
+            554.0,
+            557.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "63": [
+            558.0,
+            561.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "64": [
+            562.0,
+            565.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "65": [
+            566.0,
+            569.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "66": [
+            570.0,
+            573.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "67": [
+            574.0,
+            577.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "68": [
+            577.0,
+            580.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "69": [
+            581.0,
+            584.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "70": [
+            585.0,
+            588.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "71": [
+            589.0,
+            592.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "72": [
+            593.0,
+            596.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "73": [
+            597.0,
+            600.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "74": [
+            601.0,
+            604.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "75": [
+            604.0,
+            607.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "76": [
+            608.0,
+            611.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "77": [
+            612.0,
+            615.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "78": [
+            616.0,
+            619.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "79": [
+            620.0,
+            623.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "80": [
+            624.0,
+            627.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "81": [
+            628.0,
+            631.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "82": [
+            631.0,
+            634.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "83": [
+            635.0,
+            638.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "84": [
+            639.0,
+            642.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "85": [
+            643.0,
+            646.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "86": [
+            647.0,
+            650.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "87": [
+            651.0,
+            654.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "88": [
+            655.0,
+            658.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "89": [
+            658.0,
+            661.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "90": [
+            662.0,
+            665.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "91": [
+            666.0,
+            669.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "92": [
+            670.0,
+            673.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "93": [
+            674.0,
+            677.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "94": [
+            678.0,
+            681.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "95": [
+            682.0,
+            685.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "96": [
+            685.0,
+            688.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "97": [
+            689.0,
+            692.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "98": [
+            693.0,
+            696.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "99": [
+            697.0,
+            700.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "100": [
+            701.0,
+            704.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "101": [
+            705.0,
+            708.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "102": [
+            709.0,
+            712.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "103": [
+            712.0,
+            715.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "104": [
+            716.0,
+            719.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "105": [
+            720.0,
+            723.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "106": [
+            724.0,
+            727.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "107": [
+            728.0,
+            731.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "108": [
+            732.0,
+            735.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "109": [
+            736.0,
+            739.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "110": [
+            739.0,
+            742.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "111": [
+            743.0,
+            746.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "112": [
+            747.0,
+            750.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "113": [
+            751.0,
+            754.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "114": [
+            755.0,
+            758.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "115": [
+            759.0,
+            762.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "116": [
+            763.0,
+            766.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "117": [
+            766.0,
+            769.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "118": [
+            770.0,
+            773.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "119": [
+            774.0,
+            777.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "120": [
+            778.0,
+            781.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "121": [
+            782.0,
+            785.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "122": [
+            786.0,
+            789.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "123": [
+            790.0,
+            793.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "124": [
+            793.0,
+            796.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "125": [
+            797.0,
+            800.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "126": [
+            801.0,
+            804.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "127": [
+            805.0,
+            808.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "128": [
+            809.0,
+            812.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "129": [
+            813.0,
+            816.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "130": [
+            817.0,
+            820.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "131": [
+            820.0,
+            823.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "132": [
+            824.0,
+            827.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "133": [
+            828.0,
+            831.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "134": [
+            832.0,
+            835.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "135": [
+            836.0,
+            839.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "136": [
+            840.0,
+            843.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "137": [
+            844.0,
+            847.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "138": [
+            847.0,
+            850.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "139": [
+            851.0,
+            854.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "140": [
+            855.0,
+            858.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "141": [
+            859.0,
+            862.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "142": [
+            863.0,
+            866.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "143": [
+            867.0,
+            870.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "144": [
+            871.0,
+            874.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "145": [
+            874.0,
+            877.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "146": [
+            878.0,
+            881.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "147": [
+            882.0,
+            885.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "148": [
+            886.0,
+            889.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "149": [
+            890.0,
+            893.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "150": [
+            894.0,
+            897.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "151": [
+            898.0,
+            901.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "152": [
+            901.0,
+            904.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "153": [
+            905.0,
+            908.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "154": [
+            909.0,
+            912.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "155": [
+            913.0,
+            916.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "156": [
+            917.0,
+            920.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "157": [
+            921.0,
+            924.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "158": [
+            925.0,
+            928.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "159": [
+            928.0,
+            931.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "160": [
+            932.0,
+            935.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "161": [
+            936.0,
+            939.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "162": [
+            940.0,
+            943.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "163": [
+            944.0,
+            947.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "164": [
+            948.0,
+            951.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "165": [
+            952.0,
+            955.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "166": [
+            955.0,
+            958.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "167": [
+            959.0,
+            962.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "168": [
+            963.0,
+            966.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "169": [
+            967.0,
+            970.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "170": [
+            971.0,
+            974.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "171": [
+            975.0,
+            978.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "172": [
+            979.0,
+            982.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "173": [
+            982.0,
+            985.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "174": [
+            986.0,
+            989.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "175": [
+            990.0,
+            993.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "176": [
+            994.0,
+            997.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "177": [
+            998.0,
+            1001.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "178": [
+            1002.0,
+            1005.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "179": [
+            1006.0,
+            1009.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "180": [
+            1009.0,
+            1012.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "181": [
+            1013.0,
+            1016.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "182": [
+            1017.0,
+            1020.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "183": [
+            1021.0,
+            1024.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "184": [
+            1025.0,
+            1028.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "185": [
+            1029.0,
+            1032.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "186": [
+            1033.0,
+            1036.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "187": [
+            1036.0,
+            1039.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "188": [
+            1040.0,
+            1043.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "189": [
+            1044.0,
+            1047.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "190": [
+            1048.0,
+            1051.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "191": [
+            1052.0,
+            1055.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "192": [
+            1056.0,
+            1059.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "193": [
+            1060.0,
+            1063.0,
+            "El primer balón para Dani Alves, juega el FC Barcelona"
+        ],
+        "194": [
+            1064.0,
+            1067.0,
+            "Independencia, ahí juega la pelota el FC Barcelona"
+        ],
+        "195": [
+            1068.0,
+            1071.0,
+            "Independencia, ahí juega la pelota el FC Barcelona"
+        ],
+        "196": [
+            1072.0,
+            1075.0,
+            "Busquets tocando para Mascherano"
+        ],
+        "197": [
+            1076.0,
+            1079.0,
+            "Mascherano digo que es listo porque cuando ve que el otro venía precipitado se frena delante del balón y del rival"
+        ],
+        "198": [
+            1080.0,
+            1083.0,
+            "Si tú quieres salir con el balón, el balón te va a ganar en velocidad, entonces tienes que ser muy listo"
+        ],
+        "199": [
+            1084.0,
+            1087.0,
+            "Cuidado con esta, que esta sí que tiene ventaja"
+        ],
+        "200": [
+            1088.0,
+            1091.0,
+            "Saber elegir, ojo que se viene arriba, ahí viene Kramer, Kramer, Kramer, balón otra vez para Kamppel"
+        ],
+        "201": [
+            1091.0,
+            1094.0,
+            "¡Fuera! Cuidado con el Bayern Leverkusen"
+        ],
+        "202": [
+            1095.0,
+            1101.0,
+            "Ha rozado el palo Esteban, estoy justo detrás de Zere Stegen, detrás y lo he visto vamos casi dentro"
+        ],
+        "203": [
+            1102.0,
+            1105.0,
+            "Hoy tenemos a nuestra Susana Wass justo ahí detrás de esa portería"
+        ],
+        "204": [
+            1106.0,
+            1108.0,
+            "Ahí estamos, escoltando al portero alemán"
+        ],
+        "205": [
+            1109.0,
+            1112.0,
+            "Y fiscalizando cada movimiento, pero me dices que está, vamos rozando ¿no?"
+        ],
+        "206": [
+            1113.0,
+            1116.0,
+            "Rozando, rozando, la cara de Zere Stegen ha sido un poema"
+        ],
+        "207": [
+            1117.0,
+            1119.0,
+            "¡Ojo, ojo! Otra vez Kamppel"
+        ],
+        "208": [
+            1119.0,
+            1121.0,
+            "Madre mía, eres lobeno Marcos"
+        ],
+        "209": [
+            1122.0,
+            1127.0,
+            "Está saliendo muy bien y Kamppel desde la banda derecha está haciendo esa diagonal que el Lobo le reclamaba a Messi hace un momento"
+        ],
+        "210": [
+            1128.0,
+            1131.0,
+            "Quiere jugar la pelota, viene ayudando alguno de los tres de arriba que es Luis Suárez"
+        ],
+        "211": [
+            1132.0,
+            1135.0,
+            "El Bayern que va a la espalda, quiere correr Donati, el lateral italiano también cuestionado delante de Iniesta"
+        ],
+        "212": [
+            1136.0,
+            1138.0,
+            "Juega la pelota, se la quitó de en medio, supo elegir ante Andrés"
+        ],
+        "213": [
+            1139.0,
+            1144.0,
+            "Balón ahí que recupera el Barça, es Luis Suárez quien conduce la bola, la deja de taco el uruguayo"
+        ],
+        "214": [
+            1145.0,
+            1147.0,
+            "El desalto, juega para Busquets, Busquets otra vez para Piqué"
+        ],
+        "215": [
+            1147.0,
+            1150.0,
+            "Piqué, ya cruza el balón, la línea central, balón otra vez para Dani Alves"
+        ],
+        "216": [
+            1151.0,
+            1154.0,
+            "La mete arriba, juega para Rakitic, entre tres siempre cuando recibe el croata"
+        ],
+        "217": [
+            1155.0,
+            1158.0,
+            "Toca para Sandro Ramírez, la apuesta, balón arriba, juega para Dani Alves, el tuyo y la mía"
+        ],
+        "218": [
+            1159.0,
+            1162.0,
+            "Sale Bender, viene para Iniesta, la mete arriba, ¡que pase de Iniesta!"
+        ],
+        "219": [
+            1163.0,
+            1166.0,
+            "Se anticipó, ta, recupera Kamppel, el balón por dentro ahí, de nuevo para Kramer"
+        ],
+        "220": [
+            1167.0,
+            1170.0,
+            "Kramer atrás, juega el central, balón más arriba, toca Saljah Noglu"
+        ],
+        "221": [
+            1171.0,
+            1172.0,
+            "Viene Belharab y descarga, bien Rakitic"
+        ],
+        "222": [
+            1173.0,
+            1176.0,
+            "Pisa, arrastra, recupera para el Barça, la mantiene, toca en el círculo central"
+        ],
+        "223": [
+            1177.0,
+            1180.0,
+            "Hoy sin duda es un examen para el Barça, para esa presión tras pérdida"
+        ],
+        "224": [
+            1181.0,
+            1184.0,
+            "Porque el Leverkusen si lo deja salir, en el momento que ya supera la primera línea de presión"
+        ],
+        "225": [
+            1185.0,
+            1186.0,
+            "Ya hace una opción de contraataque clara"
+        ],
+        "226": [
+            1187.0,
+            1188.0,
+            "Lobo, estoy echando de menos a Neymar"
+        ],
+        "227": [
+            1189.0,
+            1191.0,
+            "Sí, porque está queriendo coger la responsabilidad, pero tiene que leer"
+        ],
+        "228": [
+            1192.0,
+            1195.0,
+            "Si procede de dar un toque, esperar el momento, que no se precipite"
+        ],
+        "229": [
+            1196.0,
+            1199.0,
+            "Porque si no está mandando un telegrama de voy a regatearte, voy a regatearte permanentemente"
+        ],
+        "230": [
+            1200.0,
+            1203.0,
+            "Ese movimiento que avanzaba también en la previa de Marcos de el arco constante"
+        ],
+        "231": [
+            1204.0,
+            1207.0,
+            "Para mover toda la línea defensiva de derecha a izquierda o izquierda a derecha"
+        ],
+        "232": [
+            1208.0,
+            1211.0,
+            "Y al tener dos puntas o dos nueves dentro de la formación titular"
+        ],
+        "233": [
+            1212.0,
+            1214.0,
+            "Sandro, Luis Suárez, la variante es muy clara"
+        ],
+        "234": [
+            1215.0,
+            1217.0,
+            "Si el partido se atasca en la estructura 4-3-3"
+        ],
+        "235": [
+            1218.0,
+            1220.0,
+            "Puedes poner a Luis Suárez y a Sandro atacando a los dos centrales"
+        ],
+        "236": [
+            1221.0,
+            1222.0,
+            "Y darle libertad a Neymar por dentro"
+        ],
+        "237": [
+            1223.0,
+            1226.0,
+            "Pero eso obliga a Alves y a Matié a ocupar banda y a desequilibrar por banda"
+        ],
+        "238": [
+            1227.0,
+            1228.0,
+            "Sale Piqué, el recurso ahora desde el central"
+        ],
+        "239": [
+            1229.0,
+            1232.0,
+            "La viene a tocar Luis Suárez, no salió el mecanismo ahora a la pared para Rakitic por elevación"
+        ],
+        "240": [
+            1233.0,
+            1236.0,
+            "Atrapa a Leno, no es una defensa Marcos la del Bayern o Everkusen"
+        ],
+        "241": [
+            1237.0,
+            1239.0,
+            "Que vaya muy arriba tampoco a buscar la presión, ¿no?"
+        ],
+        "242": [
+            1240.0,
+            1243.0,
+            "No, no va a la chica con la media, la delantera va a la agresión"
+        ],
+        "243": [
+            1244.0,
+            1245.0,
+            "Buscan la recuperación en campo contrario"
+        ],
+        "244": [
+            1246.0,
+            1250.0,
+            "Sin embargo, la línea defensiva no tira hasta el límite el fuera de juego"
+        ],
+        "245": [
+            1251.0,
+            1253.0,
+            "No es un equipo que le preocupe demasiado la entre líneas"
+        ],
+        "246": [
+            1254.0,
+            1255.0,
+            "Y ahí puede estar el agujero que puede aprovechar el Barça"
+        ],
+        "247": [
+            1256.0,
+            1258.0,
+            "Viene Belalabi, pisa, arrastra, de momento aguanta, contemporánea se va de Alves"
+        ],
+        "248": [
+            1259.0,
+            1261.0,
+            "La pone, apareció Piqué, corre"
+        ],
+        "249": [
+            1262.0,
+            1268.0,
+            "Sí, a encarar y a correr, él pone el balón por delante, 4 o 5 metros y ahí tiene una explosividad fenomenal"
+        ],
+        "250": [
+            1269.0,
+            1273.0,
+            "Tiene el saque de esquina cuando llegamos al minuto 22 de la primera parte"
+        ],
+        "251": [
+            1274.0,
+            1277.0,
+            "De momento FC Barcelona 0, Bayern Leverkusen 0"
+        ],
+        "252": [
+            1278.0,
+            1284.0,
+            "Cuidado con los rematadores, Tag, Wender, Papado, Paulos, también en segunda estancia Campbell"
+        ],
+        "253": [
+            1285.0,
+            1288.0,
+            "Se enfocan a Chicharito que tiene un gran timing de salto pero evidentemente"
+        ],
+        "254": [
+            1288.0,
+            1292.0,
+            "Segundo palo Chicharito, exacto, es el oportunismo, el olfato, viene para jugarla"
+        ],
+        "255": [
+            1293.0,
+            1294.0,
+            "Se las tiene ahí con Mascherano"
+        ],
+        "256": [
+            1295.0,
+            1298.0,
+            "Y también con una maleta para poner la pelota al turco"
+        ],
+        "257": [
+            1299.0,
+            1309.0,
+            "Levanta la mano, marca jugada, viene Salgano, que lo pone, gol, gol, gol ,gor, gol ,gor, gor, dor, gol, gol, gol, gol, gol, gol, gol"
+        ],
+        "258": [
+            1309.0,
+            1311.0,
+            "¡Gol!"
+        ],
+        "259": [
+            1311.0,
+            1313.0,
+            "¡Gol!"
+        ],
+        "260": [
+            1313.0,
+            1315.0,
+            "¡Gol!"
+        ],
+        "261": [
+            1315.0,
+            1317.0,
+            "¡Gol!"
+        ],
+        "262": [
+            1317.0,
+            1319.0,
+            "¡Gol!"
+        ],
+        "263": [
+            1319.0,
+            1321.0,
+            "¡Gol!"
+        ],
+        "264": [
+            1321.0,
+            1323.0,
+            "¡Gol!"
+        ],
+        "265": [
+            1323.0,
+            1325.0,
+            "¡Gol!"
+        ],
+        "266": [
+            1325.0,
+            1327.0,
+            "¡Gol!"
+        ],
+        "267": [
+            1327.0,
+            1329.0,
+            "¡Gol!"
+        ],
+        "268": [
+            1329.0,
+            1331.0,
+            "¡Gol!"
+        ],
+        "269": [
+            1331.0,
+            1333.0,
+            "¡Gol!"
+        ],
+        "270": [
+            1333.0,
+            1335.0,
+            "¡Gol!"
+        ],
+        "271": [
+            1335.0,
+            1337.0,
+            "¡Gol!"
+        ],
+        "272": [
+            1337.0,
+            1339.0,
+            "¡Gol!"
+        ],
+        "273": [
+            1339.0,
+            1341.0,
+            "¡Gol!"
+        ],
+        "274": [
+            1341.0,
+            1343.0,
+            "¡Gol!"
+        ],
+        "275": [
+            1343.0,
+            1345.0,
+            "¡Gol!"
+        ],
+        "276": [
+            1345.0,
+            1347.0,
+            "¡Gol!"
+        ],
+        "277": [
+            1347.0,
+            1349.0,
+            "¡Gol!"
+        ],
+        "278": [
+            1349.0,
+            1351.0,
+            "¡Gol!"
+        ],
+        "279": [
+            1351.0,
+            1353.0,
+            "¡Gol!"
+        ],
+        "280": [
+            1353.0,
+            1355.0,
+            "¡Gol!"
+        ],
+        "281": [
+            1355.0,
+            1357.0,
+            "¡Gol!"
+        ],
+        "282": [
+            1357.0,
+            1359.0,
+            "¡Gol!"
+        ],
+        "283": [
+            1359.0,
+            1361.0,
+            "¡Gol!"
+        ],
+        "284": [
+            1361.0,
+            1363.0,
+            "¡Gol!"
+        ],
+        "285": [
+            1363.0,
+            1365.0,
+            "¡Gol!"
+        ],
+        "286": [
+            1365.0,
+            1367.0,
+            "¡Gol!"
+        ],
+        "287": [
+            1367.0,
+            1369.0,
+            "¡Gol!"
+        ],
+        "288": [
+            1369.0,
+            1371.0,
+            "¡Gol!"
+        ],
+        "289": [
+            1371.0,
+            1373.0,
+            "¡Gol!"
+        ],
+        "290": [
+            1373.0,
+            1375.0,
+            "¡Gol!"
+        ],
+        "291": [
+            1375.0,
+            1377.0,
+            "¡Gol!"
+        ],
+        "292": [
+            1377.0,
+            1379.0,
+            "¡Gol!"
+        ],
+        "293": [
+            1379.0,
+            1381.0,
+            "¡Gol!"
+        ],
+        "294": [
+            1381.0,
+            1383.0,
+            "¡Gol!"
+        ],
+        "295": [
+            1383.0,
+            1385.0,
+            "¡Gol!"
+        ],
+        "296": [
+            1385.0,
+            1387.0,
+            "¡Gol!"
+        ],
+        "297": [
+            1387.0,
+            1389.0,
+            "¡Gol!"
+        ],
+        "298": [
+            1389.0,
+            1391.0,
+            "¡Gol!"
+        ],
+        "299": [
+            1391.0,
+            1393.0,
+            "¡Gol!"
+        ],
+        "300": [
+            1393.0,
+            1395.0,
+            "¡Gol!"
+        ],
+        "301": [
+            1395.0,
+            1397.0,
+            "¡Gol!"
+        ],
+        "302": [
+            1397.0,
+            1399.0,
+            "¡Gol!"
+        ],
+        "303": [
+            1399.0,
+            1401.0,
+            "¡Gol!"
+        ],
+        "304": [
+            1401.0,
+            1403.0,
+            "¡Gol!"
+        ],
+        "305": [
+            1403.0,
+            1405.0,
+            "¡Gol!"
+        ],
+        "306": [
+            1405.0,
+            1407.0,
+            "¡Gol!"
+        ],
+        "307": [
+            1407.0,
+            1409.0,
+            "¡Gol!"
+        ],
+        "308": [
+            1409.0,
+            1411.0,
+            "¡Gol!"
+        ],
+        "309": [
+            1411.0,
+            1413.0,
+            "¡Gol!"
+        ],
+        "310": [
+            1413.0,
+            1415.0,
+            "¡Gol!"
+        ],
+        "311": [
+            1415.0,
+            1417.0,
+            "¡Gol!"
+        ],
+        "312": [
+            1417.0,
+            1419.0,
+            "¡Gol!"
+        ],
+        "313": [
+            1419.0,
+            1421.0,
+            "¡Gol!"
+        ],
+        "314": [
+            1421.0,
+            1424.48,
+            "final de su carrera tesora una gran experiencia, me parece un gran colegiado"
+        ],
+        "315": [
+            1426.48,
+            1432.28,
+            "a ser un árbitro que no se diga de lance para uno o para otro, cuando sea fuego digamos un poco más al"
+        ],
+        "316": [
+            1432.28,
+            1439.28,
+            "límite no llegando a traspasar el reclamento, no apuesta por evitar demasiadas faltas, no Rafa?"
+        ],
+        "317": [
+            1439.28,
+            1442.8,
+            "correcto, así es el arbitraje de Martin Atkinson"
+        ],
+        "318": [
+            1444.16,
+            1447.36,
+            "ahí juega la pelota, abrano en la espalda para ver a Navi, que bien se la ha robado Daniel,"
+        ],
+        "319": [
+            1447.36,
+            1451.56,
+            "juega para pique como decía Susana, el que animaba con aplausos a la defensa, ahora lo hace también"
+        ],
+        "320": [
+            1451.56,
+            1456.64,
+            "Luis Enrique para que no se vengan abajo, pero su cara ya mostraba preocupación, por las veces que"
+        ],
+        "321": [
+            1456.64,
+            1464.08,
+            "estaba llegando bien el Bayern a Ter Stegen, fuera de juego, estábamos viendo en el monitor la"
+        ],
+        "322": [
+            1464.08,
+            1470.4,
+            "repetición desde la posición del Saljanoglu del golpeo, increíble, le golpea con una rosca que si"
+        ],
+        "323": [
+            1470.4,
+            1476.84,
+            "no toca a Papado Poulos es gol olímpico y la verdad que la pone tan tensa, tan fuerte que ese tipo de"
+        ],
+        "324": [
+            1476.84,
+            1482.04,
+            "balón, si lo toca tanto un atacante como un defensor, eso se envenena para el portero, yo creo"
+        ],
+        "325": [
+            1482.04,
+            1485.92,
+            "que ahí los jugadores que estaban en la marca de primer palo, ese balón tienen que luchar por"
+        ],
+        "326": [
+            1485.92,
+            1492.76,
+            "ganarlo, es fallo pero quizá como dice Marcos, viendo cómo va ese centro, es que es un marrón,"
+        ],
+        "327": [
+            1492.76,
+            1497.6,
+            "es la verdad, y si no lo saca Mati con contundencia el primer palo es difícil, el marrón ahora para"
+        ],
+        "328": [
+            1497.6,
+            1501.8,
+            "Donati, que parece que se ha hecho daño y vamos a ver si puede continuar, porque los gestos son"
+        ],
+        "329": [
+            1502.68,
+            1507.92,
+            "serios, de dolor en el tobillo izquierdo, si se lleva la mano como dice Guas ahí a la bota,"
+        ],
+        "330": [
+            1507.92,
+            1515.52,
+            "de momento se incorpora el italiano en lateral de Roger Smith, y le deja continuar Pintos por ese"
+        ],
+        "331": [
+            1515.52,
+            1522.8,
+            "motivo, pelota para Piqué, Piqué juega hacia atrás, le viene a presionar Berarabi, retrasa"
+        ],
+        "332": [
+            1522.8,
+            1529.36,
+            "para Ter Stegen, toca para Mascherano, a vueltas con los goles encajados, está llegado a balón"
+        ],
+        "333": [
+            1530.36,
+            1535.6,
+            "viene Piqué, queda minutos y mucho partido por delante, esto es la Champions, en antena 3,"
+        ],
+        "334": [
+            1535.6,
+            1541.6,
+            "juega la pelota Ter Stegen, balón a la izquierda para Mascherano, juega el jefecito, de momento"
+        ],
+        "335": [
+            1541.6,
+            1545.48,
+            "busca la polla, parece Rakitic, pero el Barça se está ampliando demasiado, no lo intenta,"
+        ],
+        "336": [
+            1545.48,
+            1553.28,
+            "separándose ahí Mati ganando el lateral, sale por banda. Ahora está viniendo Neymar por dentro"
+        ],
+        "337": [
+            1553.28,
+            1558.52,
+            "para enlazar, vamos a ver qué es lo que tiene que hacer, mover el balón, hasta que llegue el"
+        ],
+        "338": [
+            1558.52,
+            1564.16,
+            "esférico a los tres cuartos de campo, y ahí sí que hay que cambiar el ritmo, acelerar. Quizás ahí"
+        ],
+        "339": [
+            1564.16,
+            1570.12,
+            "es la mejor zona para dividir la defensa del Bayer Leverkusen, la distancia que entre la defensa y la"
+        ],
+        "340": [
+            1570.12,
+            1574.48,
+            "media, porque la media va la presión hacia adelante, da ese paso y ahí se abre un hueco"
+        ],
+        "341": [
+            1574.48,
+            1580.16,
+            "que tiene que aprovechar o bien Iniesta, o bien Rakitic, o bien Neymar llegando de fuera hacia"
+        ],
+        "342": [
+            1580.16,
+            1585.84,
+            "dentro. El único problema es que Luis Suárez no puede estirar a Taglia y a Papadopoulos, porque están"
+        ],
+        "343": [
+            1585.84,
+            1592.96,
+            "los centrales intentando acercarse a sus medios centros y ahí queda menos sitio. Ahora mismo sí, está como"
+        ],
+        "344": [
+            1592.96,
+            1598.48,
+            "enjaulado, ya sabemos que él enjaular es muy difícil porque se mueve de un sitio a otro y vamos a ver"
+        ],
+        "345": [
+            1598.48,
+            1603.84,
+            "si tiene alguna ventaja. Mira cómo viene a buscar ahora la pelota, por si se la daba alguno de los"
+        ],
+        "346": [
+            1603.84,
+            1607.44,
+            "futbolistas como Piqué o Busquets, como dice Lobo Carrasco, juega la pelota en el balcón del área Ter"
+        ],
+        "347": [
+            1607.44,
+            1612.4,
+            "Steker. Balón para Piqué, Piqué quiere salir con la pelota controlada de momento, aguanta, tira ese pase"
+        ],
+        "348": [
+            1612.4,
+            1617.16,
+            "ahora en raso para Rakitic, en el círculo central, la domina el Croata, la pone arriba, sube Matié, puede"
+        ],
+        "349": [
+            1617.16,
+            1621.52,
+            "meter en problemas ahora Donati, viene Matié, aguanta, le viene la ayuda también Campbell, ayudan todos"
+        ],
+        "350": [
+            1621.52,
+            1628.08,
+            "ahí Marcos, recupera Campbell. Bueno, las ayudas de Campbell una constante, muy bien. Balón para Iniesta,"
+        ],
+        "351": [
+            1628.08,
+            1632.92,
+            "está buena, viene Iniesta, se lo leyó, corto el Bayer Leverkusen, sale la contra, es al Janoglu, balón para"
+        ],
+        "352": [
+            1632.92,
+            1637.84,
+            "Belarabi, Belarabi tiene arriba a Chicharito, va a recibir el mexicano, autopase de Chicharito, está"
+        ],
+        "353": [
+            1637.84,
+            1646.84,
+            "solo es al Janoglu, Iniesta. Muy bien, cuidado, piden balón fuera. Y están los dos tendidos, Guas."
+        ],
+        "354": [
+            1648.6,
+            1655.68,
+            "Pide el servicio médico las asistencias, el árbitro, salen los de, tanto los del Bayern como los del Barça."
+        ],
+        "355": [
+            1657.72,
+            1658.56,
+            "Vamos a ver."
+        ],
+        "356": [
+            1658.92,
+            1665.88,
+            "Y esto Rafa Guerrero es lo que dice el reglamento, cuando hay un golpe en la cabeza y los dos caen,"
+        ],
+        "357": [
+            1665.88,
+            1670.16,
+            "enseguida se tienen que autorizar las asistencias y parar el partido. Efectivamente, porque a nadie"
+        ],
+        "358": [
+            1670.16,
+            1674.4,
+            "se le perjudica porque entre la asistencia y le atiendan el campo, porque es uno de cada equipo."
+        ],
+        "359": [
+            1674.4,
+            1681.32,
+            "Muy bien, muy bien visto Esteban. Bueno, pues de momento Bayern Múnich 4, Dinamo de Zagreb 0,"
+        ],
+        "360": [
+            1681.32,
+            1688.0,
+            "además de Sepad y Borisov 2, Roma 0. Ya sabes, luego todos los resúmenes, todo. Sigue la Champions"
+        ],
+        "361": [
+            1688.0,
+            1695.28,
+            "en mega. Los compañeros, ahí quiere... Y mientras tanto Guas está recibiendo piqué,"
+        ],
+        "362": [
+            1695.28,
+            1700.2,
+            "instrucciones de Luis Enrique. Se ha cruzado todo el campo Gerard Piqué para ir a hablar con Luis"
+        ],
+        "363": [
+            1700.2,
+            1703.88,
+            "Enrique, a ver cómo se puede arreglar el partido en estos últimos minutos de la primera parte. Y por"
+        ],
+        "364": [
+            1703.88,
+            1708.4,
+            "cierto, debe estar inquieto también viendo el encuentro y el resultado, Leo Messi, que ha venido"
+        ],
+        "365": [
+            1708.4,
+            1712.6,
+            "hasta aquí, aunque le han dicho que esté de reposo cuatro o cinco días. Bueno, debe estar con la"
+        ],
+        "366": [
+            1712.6,
+            1717.52,
+            "pierna en alto, pero en el vestuario. Yo creo que para no armar mucho revuelo en la grada, ha querido"
+        ],
+        "367": [
+            1717.52,
+            1722.68,
+            "quedar allí. Perdóname, pero me he recordado la de César con Figo, ese choque de los dos llegando"
+        ],
+        "368": [
+            1722.68,
+            1727.0,
+            "Mascherano con Belarabi. Se ha podido hacer mucho daño cualquiera de los dos, pero parece que el más"
+        ],
+        "369": [
+            1727.0,
+            1732.4,
+            "dañado es Mascherano, Lobo, Marcos. Vamos a ver cómo se ha quedado las piernas atrapadas."
+        ],
+        "370": [
+            1732.4,
+            1738.52,
+            "Se ha mostrado amarilla ahora, ¿no? Sí, ahí influye mucho si llevas taco de aluminio, que supongo que"
+        ],
+        "371": [
+            1738.52,
+            1743.32,
+            "habrán hecho una mezcla, a lo mejor algún jugador. Vamos a ver si el impacto lo puede superar. Porque"
+        ],
+        "372": [
+            1743.32,
+            1749.84,
+            "se queda más clavado en la hierba. Sí, porque si contacta, es que viene el balón tan tocado,"
+        ],
+        "373": [
+            1749.84,
+            1755.0,
+            "tan fuerte, con tanta potencia, que cuesta mucho tomar decisión en una midecina. ¿Qué me decías,"
+        ],
+        "374": [
+            1755.0,
+            1761.4,
+            "Guas, amarilla? Entran los dos ya. Habían salido, para ser atendidos, ya le han entrado los dos."
+        ],
+        "375": [
+            1761.4,
+            1765.44,
+            "11 contra 11, como dice nuestra compañera. Juega la pelota arriba, balón para Mascherano. A ver,"
+        ],
+        "376": [
+            1765.44,
+            1769.88,
+            "se está probando de momento el balón atrás para Ter Stege. Controla con el muslo. Esto desde luego"
+        ],
+        "377": [
+            1769.88,
+            1777.32,
+            "hace de fábula el alemán. Juega para Piqué. Barça tiene que conseguir con Ter Stege dividir ya al"
+        ],
+        "378": [
+            1777.32,
+            1781.64,
+            "Bayer Leverkusen desde la primera presión. Son dos puntas, tres jugadores del Barça,"
+        ],
+        "379": [
+            1781.64,
+            1785.56,
+            "abrir bien el campo, porque si no están muy cómodos de momento, tanto Chicharito como"
+        ],
+        "380": [
+            1785.56,
+            1790.8,
+            "Belarabi, tapando a los dos centrales. Y están muy al límite, insisto, tanto un equipo como otro."
+        ],
+        "381": [
+            1790.8,
+            1796.2,
+            "Cuando sueltan la pelota, apuran demasiado la llegada del hombre que presiona. A poco que"
+        ],
+        "382": [
+            1796.2,
+            1800.68,
+            "estén imprecisos en ese tipo de centros, o bien no le den la velocidad como dice el Lobo,"
+        ],
+        "383": [
+            1800.68,
+            1806.24,
+            "necesaria. Ahí llega el error. Casi le ha estado a punto de pasar ahora a Piqué. Juega la pelota"
+        ],
+        "384": [
+            1806.24,
+            1810.52,
+            "Mascherano. Le dice a Piqué que se vaya para atrás para buscar ese espacio ahora y clarificar la"
+        ],
+        "385": [
+            1810.52,
+            1814.44,
+            "jugada. Balón de nuevo de Piqué para Ter Stegen. Otro más para tocar ahí atrás. Tiene a la izquierda"
+        ],
+        "386": [
+            1814.44,
+            1819.92,
+            "y va a recibir la pelota jugando ahora el Barça. Tiene que poner el balón más arriba. Lo hace para"
+        ],
+        "387": [
+            1819.92,
+            1824.4,
+            "Neymar. Viene a recibir Neymar. Fíjese qué posición. Le enciman cuatro. Recupera el Bayer"
+        ],
+        "388": [
+            1824.4,
+            1828.08,
+            "Leverkusen. Sale por dentro Bender. No llega Belarabi. Recupera la pelota Busquets. Juega"
+        ],
+        "389": [
+            1828.08,
+            1831.8,
+            "para Iniesta. Tiene por delante a Rakitic. Va a jugar más arriba y por encima ahora para Dani"
+        ],
+        "390": [
+            1831.8,
+            1835.0,
+            "Alves. Controla. Se le va larga. Aguanta el brasileño. Encara al brasileño. Y viene la"
+        ],
+        "391": [
+            1835.0,
+            1840.68,
+            "bígona al interior. Tuvo que rectificar de nuevo ahí atrás el Bayer Leverkusen. Kramer. Recupera"
+        ],
+        "392": [
+            1840.68,
+            1844.52,
+            "el control Iniesta. Aguanta. Levanta el cuero. Qué balón. Qué balón para Sandro. No hay fuera"
+        ],
+        "393": [
+            1844.52,
+            1849.12,
+            "de juego. Sandro la quiere poner. Aguanta Sandro. Línea de fondo. Viene el alambre. Pisa. Arrastra."
+        ],
+        "394": [
+            1849.12,
+            1854.44,
+            "Quiere poner la bola. Sigue bailando. Le salen dos. Encierra. Perdió el balón. Ahí sufre Sandro."
+        ],
+        "395": [
+            1854.44,
+            1859.92,
+            "No tiene ese uno para uno como jugador extremo. Quizás en la izquierda siendo directo yéndose"
+        ],
+        "396": [
+            1859.92,
+            1863.84,
+            "para dentro bien, pero en derecha ahí sufre en ese uno para uno. Y qué recurso del genio Saljanoglu"
+        ],
+        "397": [
+            1863.84,
+            1867.36,
+            "para quitarse ese balón de encima. Casi le cayó y a punto estuvo de crear un problema. Loco para"
+        ],
+        "398": [
+            1867.36,
+            1871.0,
+            "Iniesta. Gerard recibe la pelota Neymar. Venía Iniesta. Se hace daño, pero sigue. Le juega a"
+        ],
+        "399": [
+            1871.0,
+            1875.8,
+            "juego. El tuya mía. A ver quién la gana. Sale de nuevo Belarabi. Es él contra el muro. Viene"
+        ],
+        "400": [
+            1875.8,
+            1883.12,
+            "Belarabi. La primera. Muy bien Piqué manteniendo la posición, retrasando para qué obligarle a hacer"
+        ],
+        "401": [
+            1883.12,
+            1888.88,
+            "esto, porque si le busca lo regatea con una facilidad enorme. Hay una clave en por qué el"
+        ],
+        "402": [
+            1888.88,
+            1892.92,
+            "Bayern Leverkusen siempre saca contraataques. Es que sus dos medios centros, Kramer, Wendler,"
+        ],
+        "403": [
+            1892.92,
+            1899.04,
+            "sobre todo Wendler, el 90% de sus pases son hacia adelante. Y eso habla de un jugador que según"
+        ],
+        "404": [
+            1899.04,
+            1904.88,
+            "recupera va hacia adelante sin remisión. El Navi es rapidísimo. Muy rápido. No es extraño que"
+        ],
+        "405": [
+            1904.88,
+            1909.16,
+            "sea titular con Alemania. Casi siempre en la fase de clasificación lo ha sido. Eso es. Tras el"
+        ],
+        "406": [
+            1909.16,
+            1915.16,
+            "monopolio. En el banquillo del FC Barcelona, cuánto le aguanta el combustible a los futbolistas del"
+        ],
+        "407": [
+            1915.16,
+            1920.52,
+            "Bayern Leverkusen. Hay otro tendido. Por cierto, me comenta mi compañero Rafa Zabadero que acaba"
+        ],
+        "408": [
+            1920.52,
+            1926.4,
+            "de marcar el tercero, el bate a la Roma. Sí, venía con muchas bajas a jugar el partido y seguro que"
+        ],
+        "409": [
+            1926.4,
+            1931.08,
+            "han aprovechado esa ventaja psicológica y en el terreno del juego con el primer gol. Ahí está"
+        ],
+        "410": [
+            1931.08,
+            1936.6,
+            "Daniel Bess. Para ejecutar, pero de momento tiene que esperar a que la asistencia atienda al futbolista"
+        ],
+        "411": [
+            1936.6,
+            1941.96,
+            "alemán caído junto a la frontal del área. Leno, que te voy a decir una cosa Antonio, juega tan"
+        ],
+        "412": [
+            1941.96,
+            1948.92,
+            "adelantado como Ter Stegen. El balón está en el medio campo, por ejemplo, circulando. Los cuatro"
+        ],
+        "413": [
+            1948.92,
+            1954.88,
+            "achican, cierran, o sea, se van un poco a juntarse con los centrocampistas. Y él está en la luna, en la"
+        ],
+        "414": [
+            1954.88,
+            1960.16,
+            "media luna, perdón, del área grande. O sea que si el Barcelona es capaz de ver, lo que pasa es que no hay un chutador"
+        ],
+        "415": [
+            1960.4,
+            1968.8,
+            "para hacer desde 50 metros el disparo y sobre todo retrasarlo. Bueno, pues ahí va. Sale Wendel del"
+        ],
+        "416": [
+            1968.8,
+            1974.12,
+            "terreno de juego, silba la afición del Camp Nou para que no se pierda tanto tiempo. Claro, ahora mismo"
+        ],
+        "417": [
+            1974.12,
+            1980.24,
+            "corre en su contra, salió el lateral brasileño del Bayern Leverkusen, pelota en juego, balón para Iniesta, juega en tres"
+        ],
+        "418": [
+            1980.24,
+            1985.48,
+            "cuartos de cancha, balón atrás para Mascherano. Ya hemos pasado el balón de Iniesta, lo recupera en"
+        ],
+        "419": [
+            1985.48,
+            1989.84,
+            "campo propio y cruza la divisoria. Está en campo del Bayern Leverkusen que empieza a replegar. Empiezan"
+        ],
+        "420": [
+            1989.84,
+            1995.44,
+            "a pasar los minutos. 34 de la primera parte en directo en el Camp Nou. Esto es la Champions. Juega la"
+        ],
+        "421": [
+            1995.44,
+            2001.44,
+            "velota para el campeón, Virini está para Rakitic, ahí se cruzaba Wendel, despeja Saljanoglu, la"
+        ],
+        "422": [
+            2001.44,
+            2005.84,
+            "pelota arriba va a la espalda de Mathieu, controla de cabeza directamente ahí para Neymar, la pone"
+        ],
+        "423": [
+            2005.84,
+            2012.68,
+            "delante de Donati, no llega Neymar. Sí, sí, la parte de las parejas no están funcionando. Alves con Sandro no"
+        ],
+        "424": [
+            2012.68,
+            2017.56,
+            "están teniendo esa sintonía que desean porque en estático Sandro tiene problemas para regatear, no lo"
+        ],
+        "425": [
+            2017.56,
+            2022.44,
+            "miro cuando viene lanzado, porque ahí sí que es una locomotora y luego pues Neymar con Mathieu de"
+        ],
+        "426": [
+            2022.44,
+            2026.72,
+            "momento no están encontrando ventajas de dos contra uno. Quiere jugar ese dos contra dos ahora el"
+        ],
+        "427": [
+            2026.72,
+            2031.04,
+            "Bayern Leverkusen, balón para Rakitic, siempre que la recibe el croata hay tres encima Marcos, se lo"
+        ],
+        "428": [
+            2031.04,
+            2035.76,
+            "tienen bien estudiado. Balón arriba, recupera bien la pelota, juega hacia la derecha, venía Saljanoglu,"
+        ],
+        "429": [
+            2035.76,
+            2040.08,
+            "Chicharito se ve a la presión, se la quita de medio Ter Stegen pero va también hacia el lateral, lo"
+        ],
+        "430": [
+            2040.08,
+            2044.64,
+            "tienen estudiado también, va para Alves, balón que presiona Saljanoglu, viene Piqué, aguanta, gana"
+        ],
+        "431": [
+            2044.64,
+            2049.36,
+            "espacio, juega para el croata, ahí está Rakitic, retrasa para Ter Stegen, controla con el exterior,"
+        ],
+        "432": [
+            2049.36,
+            2053.76,
+            "patea arriba, la pone medida para Dani Alves que va a prolongar, no, controla con el pecho, se le echa"
+        ],
+        "433": [
+            2053.76,
+            2059.76,
+            "encima el alemán, con la plancha pero al final dice que saque de banda, balón para el Barça, ver a"
+        ],
+        "434": [
+            2059.76,
+            2064.28,
+            "Saljanoglu, balón otra vez para Rakitic, Rakitic juega en el cambio de frente, ahora para Neymar,"
+        ],
+        "435": [
+            2064.28,
+            2068.0,
+            "control exquisito de Neymar, la deja dormida, viene Neymar, van a cargar, viene la velocidad del"
+        ],
+        "436": [
+            2068.0,
+            2072.52,
+            "brasileño, juega la pared para Luis Suárez, ahí está buena, los dos del centro como dice Marcos,"
+        ],
+        "437": [
+            2072.52,
+            2076.76,
+            "vuelven a hacer la tenaza, recupera a Belarabi, ahora le toca golpear al Bayer Leverkusen, balón"
+        ],
+        "438": [
+            2076.76,
+            2081.24,
+            "arriba, no llegó Chicharito. Hay que fijarse que todos los pases de Chicharito siempre son hacia"
+        ],
+        "439": [
+            2081.24,
+            2086.24,
+            "adelante, ni uno de apoyo, ni uno para combinar, siempre se busca el último pase a Chicharito,"
+        ],
+        "440": [
+            2086.24,
+            2092.56,
+            "muy incómodo el Barça en este momento y el Bayer Leverkusen dando una silención de mentalidad,"
+        ],
+        "441": [
+            2092.56,
+            2098.48,
+            "marcan un gol y siguen jugando lo mismo, un equipo que juega muy estilo Bielsa. Sí señor,"
+        ],
+        "442": [
+            2098.48,
+            2103.56,
+            "ahí juega la pelota como dice Marcos, un equipo mirando hacia adelante, siempre, siempre,"
+        ],
+        "443": [
+            2103.56,
+            2107.56,
+            "siempre, esté jugando en el campo que asumen riesgos independientemente del resultado,"
+        ],
+        "444": [
+            2107.56,
+            2111.64,
+            "tanto en casa como fuera. Ahí pero de arriba no llega Neymar a punto de pinchar la balón,"
+        ],
+        "445": [
+            2111.64,
+            2120.96,
+            "que recupera Berleno, el joven portero también alemán, 23 años, pide ahí con Ter Stegen también"
+        ],
+        "446": [
+            2120.96,
+            2125.96,
+            "la misma edad, los dos relevos de Neuer, va a poner en el balcón del área, va a jugar desde ahí,"
+        ],
+        "447": [
+            2125.96,
+            2129.24,
+            "había fuera de juego anterior Rafa Guerrero, correcto, de Suárez creo que era."
+        ],
+        "448": [
+            2131.52,
+            2136.4,
+            "El momento 36 de la primera parte, sigue cayendo es la noticia, el FC Barcelona frente al Bayer"
+        ],
+        "449": [
+            2136.4,
+            2139.8,
+            "Leverkusen, partido muy disputado, el balón ha llegado, balón parado, pelota arriba,"
+        ],
+        "450": [
+            2139.8,
+            2143.56,
+            "ahí viene Belarabi, Belarabi contra Piqué, Piqué le mete el cuerpo, gana Belarabi,"
+        ],
+        "451": [
+            2143.56,
+            2148.24,
+            "ojo que hace la mera sin leñar, buena mano de Ter Stegen, recupera Saljanoglu,"
+        ],
+        "452": [
+            2148.24,
+            2151.48,
+            "vuelve a meter un centro envenenado, punto de penalti la saca Iniesta."
+        ],
+        "453": [
+            2151.6,
+            2153.96,
+            "Seis jugadores del Bayer Leverkusen en el área."
+        ],
+        "454": [
+            2153.96,
+            2157.28,
+            "Señores está defendiendo Iniesta lo que no hacen casi los demás, es lobo."
+        ],
+        "455": [
+            2157.28,
+            2161.36,
+            "Sí, sí, es que tienen que hacerlo porque Rakitic y Iniesta quieren colaborar con el balón,"
+        ],
+        "456": [
+            2161.36,
+            2162.6,
+            "pero cuidado vamos a ver esta primero."
+        ],
+        "457": [
+            2162.6,
+            2166.36,
+            "Viene ahí para Luis Orejón, dejada para Neymar, se mueve el uruguayo,"
+        ],
+        "458": [
+            2166.36,
+            2170.8,
+            "otra vez entra en juego, pelota arriba, quería jugar para Rakitic, pero ya hay siete alemanes."
+        ],
+        "459": [
+            2172.12,
+            2175.52,
+            "Otra vez vuelve a la carga Neymar, Neymar contra Donati, Neymar hacia adentro,"
+        ],
+        "460": [
+            2175.52,
+            2177.28,
+            "Neymar por dentro, cayó Neymar."
+        ],
+        "461": [
+            2177.8,
+            2182.52,
+            "Falta de Neymar, dice Atkinson que no, que iba a ser amonestado posiblemente."
+        ],
+        "462": [
+            2184.32,
+            2186.24,
+            "Sí, lo tienen en la mano ya la primera."
+        ],
+        "463": [
+            2186.24,
+            2190.16,
+            "Pues yo te digo, Atkinson la ha tenido que ver tan rápido como la decisión que ha tomado Rafa."
+        ],
+        "464": [
+            2190.16,
+            2193.68,
+            "La ha visto muy bien, sí, está muy bien situado, lo acepta bien Neymar,"
+        ],
+        "465": [
+            2193.68,
+            2197.44,
+            "porque Neymar abre las dos piernas a la vez para intentar contactar,"
+        ],
+        "466": [
+            2197.44,
+            2201.8,
+            "eso es lo que he visto en una primera imagen como pudo ver Atkinson."
+        ],
+        "467": [
+            2202.6,
+            2207.56,
+            "Eso es, abre una pierna a cada lado, entonces tiene que contactar, pero no es penalti."
+        ],
+        "468": [
+            2208.4,
+            2209.6,
+            "Muy bien el colegiado."
+        ],
+        "469": [
+            2209.6,
+            2212.4,
+            "Hace el uno-dos y luego provoca esa situación."
+        ],
+        "470": [
+            2212.4,
+            2213.4,
+            "Correcto."
+        ],
+        "471": [
+            2213.4,
+            2218.4,
+            "Y esta es la anterior que saca Ter Stegen, que es parada, porque hay que estar ahí bien colocado"
+        ],
+        "472": [
+            2218.4,
+            2221.0,
+            "y sacar la mano fuerte, tensionada para que no se doble."
+        ],
+        "473": [
+            2221.0,
+            2226.6,
+            "Sí, mucha rapidez de actuación en ese momento, porque fíjate, estaba tan cerca."
+        ],
+        "474": [
+            2226.6,
+            2227.6,
+            "Fueron reflejos ahí."
+        ],
+        "475": [
+            2227.6,
+            2228.84,
+            "Sí, ahora recibe."
+        ],
+        "476": [
+            2228.84,
+            2232.04,
+            "El valor de la parada también es mantenerse ahí en pie fuerte."
+        ],
+        "477": [
+            2232.04,
+            2233.04,
+            "Y no caer a un lado."
+        ],
+        "478": [
+            2233.04,
+            2235.04,
+            "Eso es, no derribarse."
+        ],
+        "479": [
+            2235.04,
+            2240.84,
+            "Bueno, pues con esta jugada en el área ahora del Bayer Leverkusen,"
+        ],
+        "480": [
+            2240.84,
+            2246.24,
+            "la anterior otra ocasión para Belarabi, que de nuevo tiene que sacar intuyendo hacia dónde va el rechace"
+        ],
+        "481": [
+            2246.24,
+            2248.84,
+            "o el nuevo pase de Saljanoglu, Andrés Iniesta."
+        ],
+        "482": [
+            2248.84,
+            2251.64,
+            "Gran trabajo atrás, pero de momento el Barça también lo necesita arriba."
+        ],
+        "483": [
+            2251.64,
+            2253.44,
+            "Pelota que se va por banda, va a jugar el Barça."
+        ],
+        "484": [
+            2253.44,
+            2255.24,
+            "Ahí viene Dani Alves."
+        ],
+        "485": [
+            2255.24,
+            2257.04,
+            "Viene a recibir, toca y descarga Busquets."
+        ],
+        "486": [
+            2257.04,
+            2259.04,
+            "Viene a levantar la pelota para Mascherano."
+        ],
+        "487": [
+            2259.04,
+            2262.44,
+            "Va a salir Ter Stegen para ahorrar metros."
+        ],
+        "488": [
+            2262.44,
+            2264.04,
+            "Matías Solao, también Mascherano."
+        ],
+        "489": [
+            2264.04,
+            2264.84,
+            "Recibe el jefecito."
+        ],
+        "490": [
+            2264.84,
+            2266.64,
+            "Ahí está el argentino."
+        ],
+        "491": [
+            2266.64,
+            2267.64,
+            "Quiere jugar la bola."
+        ],
+        "492": [
+            2267.64,
+            2269.24,
+            "Lo hace para Piqué."
+        ],
+        "493": [
+            2269.24,
+            2272.64,
+            "Piqué pisa, toca, el balón de nuevo atrás."
+        ],
+        "494": [
+            2272.64,
+            2274.84,
+            "Lobo, están viendo al Barça pelín previsible."
+        ],
+        "495": [
+            2274.84,
+            2280.84,
+            "No, lo que estoy viendo es que derriban la barrera del medio campo con una facilidad enorme el Bayer Leverkusen."
+        ],
+        "496": [
+            2281.04,
+            2284.64,
+            "Es porque aglutina muchos jugadores cerca del balón."
+        ],
+        "497": [
+            2284.64,
+            2285.64,
+            "Cuidado con esta primero."
+        ],
+        "498": [
+            2285.64,
+            2286.64,
+            "Viene ahora a ver a Neymar."
+        ],
+        "499": [
+            2286.64,
+            2288.04,
+            "Se inventó esa espuela para Luis Suárez."
+        ],
+        "500": [
+            2288.04,
+            2288.84,
+            "No salió."
+        ],
+        "501": [
+            2288.84,
+            2289.84,
+            "Mete el pecho a Rakitic."
+        ],
+        "502": [
+            2289.84,
+            2290.44,
+            "Levanta el cuero."
+        ],
+        "503": [
+            2290.44,
+            2291.44,
+            "¡Qué balón, qué balón, qué balón!"
+        ],
+        "504": [
+            2291.44,
+            2292.84,
+            "Bueno, viene Neymar."
+        ],
+        "505": [
+            2292.84,
+            2294.04,
+            "Neymar para Luis Suárez."
+        ],
+        "506": [
+            2294.04,
+            2295.84,
+            "No, gira Neymar."
+        ],
+        "507": [
+            2295.84,
+            2297.24,
+            "El rechace al talo."
+        ],
+        "508": [
+            2297.24,
+            2298.84,
+            "A la segunda."
+        ],
+        "509": [
+            2298.84,
+            2301.24,
+            "La sacan los porteros alemanes."
+        ],
+        "510": [
+            2301.24,
+            2302.44,
+            "Madre de mi vida."
+        ],
+        "511": [
+            2302.44,
+            2304.44,
+            "Sandro, que te digo una cosa."
+        ],
+        "512": [
+            2304.44,
+            2309.84,
+            "Es un futbolista, Marcos, que encuentra muy bien los rincones en los remates."
+        ],
+        "513": [
+            2309.84,
+            2312.84,
+            "Bueno, porque es finalizador, es un 9."
+        ],
+        "514": [
+            2312.84,
+            2315.04,
+            "Lo conocemos de las categorías inferiores."
+        ],
+        "515": [
+            2315.04,
+            2317.04,
+            "Su intención es coger el contrapié a todo."
+        ],
+        "516": [
+            2317.04,
+            2317.64,
+            "Eso es."
+        ],
+        "517": [
+            2317.64,
+            2319.24,
+            "Yo creo que busca el contrapié."
+        ],
+        "518": [
+            2319.24,
+            2323.84,
+            "Lo que pasa es que el futbol también tiene ese punto de fortuna-no fortuna."
+        ],
+        "519": [
+            2323.84,
+            2325.04,
+            "Y ahí se la sacan bien."
+        ],
+        "520": [
+            2325.04,
+            2325.84,
+            "Rakitic."
+        ],
+        "521": [
+            2325.84,
+            2326.64,
+            "Punto de penalti."
+        ],
+        "522": [
+            2326.64,
+            2328.04,
+            "El balón colgado desde el saque de esquina."
+        ],
+        "523": [
+            2328.04,
+            2328.84,
+            "Metió la cabeza."
+        ],
+        "524": [
+            2328.84,
+            2330.24,
+            "Despeja Kramer."
+        ],
+        "525": [
+            2330.24,
+            2331.44,
+            "De espaldas, ahora Chicharito."
+        ],
+        "526": [
+            2331.44,
+            2332.64,
+            "Balón arriba para Campbell."
+        ],
+        "527": [
+            2332.64,
+            2334.04,
+            "Campbell hace el cambio para Saljanoglu."
+        ],
+        "528": [
+            2334.04,
+            2334.64,
+            "Engaña a todos."
+        ],
+        "529": [
+            2334.64,
+            2335.84,
+            "Arriba ya está esperando Belanavis."
+        ],
+        "530": [
+            2335.84,
+            2336.44,
+            "Sigue Saljanoglu."
+        ],
+        "531": [
+            2336.44,
+            2337.24,
+            "El turco por dentro."
+        ],
+        "532": [
+            2337.24,
+            2338.24,
+            "Control exquisito."
+        ],
+        "533": [
+            2338.24,
+            2339.24,
+            "Ahí avanza el otomano."
+        ],
+        "534": [
+            2340.44,
+            2341.04,
+            "Madre mía, fue."
+        ],
+        "535": [
+            2341.04,
+            2342.04,
+            "Sí, sí, sí."
+        ],
+        "536": [
+            2342.04,
+            2345.44,
+            "Se le ha visto que tenía las ganas de soltar su gran disparo."
+        ],
+        "537": [
+            2345.44,
+            2348.84,
+            "Afortunadamente se ha ido por arriba del larguero."
+        ],
+        "538": [
+            2348.84,
+            2355.44,
+            "Pero fíjate, o fijaros, mejor dicho, que pocas opciones da el Bayern Leverkusen de la contra de la contra."
+        ],
+        "539": [
+            2355.44,
+            2356.64,
+            "Las finalizan todas."
+        ],
+        "540": [
+            2356.64,
+            2357.64,
+            "Va contra el reloj, claro."
+        ],
+        "541": [
+            2357.64,
+            2359.84,
+            "Ahí puedes pensar, ¿tendría otro pase?"
+        ],
+        "542": [
+            2359.84,
+            2361.04,
+            "¿Podría buscar otra jugada?"
+        ],
+        "543": [
+            2361.04,
+            2361.24,
+            "No."
+        ],
+        "544": [
+            2361.24,
+            2362.24,
+            "Acaba la jugada."
+        ],
+        "545": [
+            2362.24,
+            2364.84,
+            "El Barça vuelve a empezar contra 11 por detrás de balón."
+        ],
+        "546": [
+            2364.84,
+            2369.44,
+            "Se adelanta Loporto en 2-0 al Chelsea."
+        ],
+        "547": [
+            2369.44,
+            2371.44,
+            "Luego el resumen, ya sabes, en mega."
+        ],
+        "548": [
+            2371.44,
+            2376.04,
+            "Todos los resúmenes, los detalles, absolutamente todo en la Champions total se vive en A3 media."
+        ],
+        "549": [
+            2376.04,
+            2379.84,
+            "Y mañana también con los resúmenes del Real Madrid, del Atlético de Madrid, del Sevilla Fútbol Club."
+        ],
+        "550": [
+            2379.84,
+            2386.04,
+            "Hoy, extensísimo resumen del Olympique de Lyon-Valencia, que sigue con el 0-0."
+        ],
+        "551": [
+            2386.04,
+            2388.44,
+            "Aguantando el equipo de Nuno Espíritu también en Francia."
+        ],
+        "552": [
+            2388.44,
+            2390.04,
+            "Juega la pelota ahí para Matié."
+        ],
+        "553": [
+            2390.04,
+            2392.44,
+            "Matié arranca en campo del Bayern Leverkusen."
+        ],
+        "554": [
+            2392.44,
+            2394.64,
+            "Ya prometíamos intensidad y la estamos teniendo."
+        ],
+        "555": [
+            2394.64,
+            2396.24,
+            "Ahí viene Neymar entre los dos."
+        ],
+        "556": [
+            2396.24,
+            2397.64,
+            "Viene el guía."
+        ],
+        "557": [
+            2397.64,
+            2399.64,
+            "Ahora pita la falta, ¿no?"
+        ],
+        "558": [
+            2399.64,
+            2403.04,
+            "Sí, y cartulina amarilla."
+        ],
+        "559": [
+            2403.04,
+            2404.64,
+            "Muy bien Atkinson."
+        ],
+        "560": [
+            2405.84,
+            2407.04,
+            "Para vender, ¿no?"
+        ],
+        "561": [
+            2407.64,
+            2408.24,
+            "Efectivamente."
+        ],
+        "562": [
+            2408.24,
+            2409.44,
+            "Parece que es para vender al final."
+        ],
+        "563": [
+            2410.64,
+            2411.24,
+            "Sí, correcto."
+        ],
+        "564": [
+            2411.24,
+            2413.24,
+            "Necesita el Barça de uno para uno de Neymar."
+        ],
+        "565": [
+            2415.24,
+            2417.04,
+            "Bueno, pues la primera para el Bayern Leverkusen."
+        ],
+        "566": [
+            2417.04,
+            2419.04,
+            "Ya la vieron, Mascherano y Neymar."
+        ],
+        "567": [
+            2420.24,
+            2424.84,
+            "Según nos cantan también los datos oficiales de la UEFA, de la Champions League."
+        ],
+        "568": [
+            2425.84,
+            2427.64,
+            "Y es clara, Rafa, porque se le va."
+        ],
+        "569": [
+            2427.64,
+            2431.44,
+            "Es muy clara y además viene de una ventaja que ha dado."
+        ],
+        "570": [
+            2431.44,
+            2434.44,
+            "Está francamente bien el colegiado Atkinson."
+        ],
+        "571": [
+            2435.84,
+            2437.04,
+            "De momento está acertando."
+        ],
+        "572": [
+            2437.04,
+            2438.04,
+            "Palmas."
+        ],
+        "573": [
+            2438.04,
+            2439.04,
+            "Ojo a Rakitic."
+        ],
+        "574": [
+            2440.04,
+            2441.44,
+            "Uno que está bien y se retira."
+        ],
+        "575": [
+            2442.04,
+            2444.24,
+            "Bueno, pues no está Messi, pero está Neymar."
+        ],
+        "576": [
+            2444.24,
+            2446.44,
+            "Y Rakitic, como dice Lobo."
+        ],
+        "577": [
+            2446.44,
+            2447.84,
+            "Vamos a ver para quién es la falta."
+        ],
+        "578": [
+            2447.84,
+            2453.64,
+            "La rosca del croata o el disparo de tres dedos del brasileño."
+        ],
+        "579": [
+            2454.64,
+            2455.64,
+            "Vamos a ver."
+        ],
+        "580": [
+            2456.04,
+            2456.64,
+            "Hay distancia."
+        ],
+        "581": [
+            2456.64,
+            2458.04,
+            "Viene Rakitic."
+        ],
+        "582": [
+            2458.04,
+            2458.64,
+            "Leno."
+        ],
+        "583": [
+            2458.64,
+            2459.64,
+            "La vio, la vio."
+        ],
+        "584": [
+            2460.24,
+            2460.84,
+            "Sí, sí."
+        ],
+        "585": [
+            2460.84,
+            2462.04,
+            "Salió antes de tiempo y todo."
+        ],
+        "586": [
+            2462.04,
+            2465.04,
+            "Fíjate que está, ya te digo, impecable de momento en esta primera parte."
+        ],
+        "587": [
+            2465.04,
+            2467.44,
+            "El scouting del Bayern Leverkusen, Marcos, es impecable."
+        ],
+        "588": [
+            2468.04,
+            2473.84,
+            "Bueno, creo que tiene el partido muy preparado, pero sobre todo lo que están consiguiendo es llevarlo a su ritmo."
+        ],
+        "589": [
+            2473.84,
+            2474.44,
+            "Por eso digo."
+        ],
+        "590": [
+            2474.44,
+            2477.04,
+            "El Barça está intentando llevar el partido a su ritmo."
+        ],
+        "591": [
+            2477.04,
+            2479.64,
+            "Con la posición lo está consiguiendo, 64%."
+        ],
+        "592": [
+            2479.84,
+            2480.44,
+            "Cuidado."
+        ],
+        "593": [
+            2480.44,
+            2482.24,
+            "Cuidado, allá arriba cayó Luis Suárez."
+        ],
+        "594": [
+            2482.24,
+            2483.44,
+            "Ahora pita la falta."
+        ],
+        "595": [
+            2483.84,
+            2487.64,
+            "Le reclama a él, Charrua, otra tarjeta apta."
+        ],
+        "596": [
+            2489.04,
+            2489.84,
+            "No es, no es..."
+        ],
+        "597": [
+            2489.84,
+            2491.04,
+            "Y la pide el cambrón, Susana."
+        ],
+        "598": [
+            2493.24,
+            2497.24,
+            "Sí, el camp Nou empieza a cansarse de las continuas faltas, pero no la va a sacar."
+        ],
+        "599": [
+            2497.24,
+            2498.24,
+            "Ya se ha puesto la pelota en juego."
+        ],
+        "600": [
+            2498.24,
+            2499.84,
+            "Neymar el más listo, la que se pone antes que nadie."
+        ],
+        "601": [
+            2499.84,
+            2502.24,
+            "Balón para David Alves, Alves para Sandro."
+        ],
+        "602": [
+            2502.24,
+            2503.44,
+            "Abajo se tiró."
+        ],
+        "603": [
+            2503.84,
+            2506.64,
+            "Cortando bien ahí atrás, Bender ayudando al lateral."
+        ],
+        "604": [
+            2507.04,
+            2508.04,
+            "Ha salido la bola."
+        ],
+        "605": [
+            2508.24,
+            2509.44,
+            "Balón para el Barça en banda."
+        ],
+        "606": [
+            2510.44,
+            2514.24,
+            "42 de partido, cuenta atrás, quedan 3 para el descanso."
+        ],
+        "607": [
+            2514.64,
+            2517.04,
+            "Camp Nou, Barça 0, Bayer Leverkusen 1."
+        ],
+        "608": [
+            2517.24,
+            2519.84,
+            "Pues el Barça con la posesión de momento la está dominando."
+        ],
+        "609": [
+            2519.84,
+            2525.04,
+            "Sin embargo, yo creo que en ataque, en campo contrario, necesita de mayor participación de los laterales."
+        ],
+        "610": [
+            2525.04,
+            2526.24,
+            "Del 1 para 1 de Neymar."
+        ],
+        "611": [
+            2526.64,
+            2530.04,
+            "Y de que aparezca algún futbolista entre líneas, que es su cualidad principal,"
+        ],
+        "612": [
+            2530.04,
+            2534.44,
+            "para dividir a la defensa de un Bayer Leverkusen que está llevando el partido a su ritmo."
+        ],
+        "613": [
+            2534.44,
+            2536.64,
+            "Si fueras Luis Enrique Lobo para el descanso."
+        ],
+        "614": [
+            2537.64,
+            2540.84,
+            "Vamos a ver, porque el banquillo ya ha visto que no tenemos muchas posibilidades."
+        ],
+        "615": [
+            2540.84,
+            2545.24,
+            "Pero yo de momento haría hincapié en que los jugadores están haciendo bien las cosas."
+        ],
+        "616": [
+            2545.24,
+            2549.64,
+            "Lo que pasa que, de momento, al Bayern no lo puede atar el FC Barcelona."
+        ],
+        "617": [
+            2549.64,
+            2551.44,
+            "Sobre todo cuando tiene el balón, el equipo."
+        ],
+        "618": [
+            2551.64,
+            2553.04,
+            "Ahí es donde hay que mejorar muchísimo."
+        ],
+        "619": [
+            2553.04,
+            2557.44,
+            "Ahí está Sandro, Neymar, Neymar mete ahí la aceleración al primer palo."
+        ],
+        "620": [
+            2557.44,
+            2559.04,
+            "Frenó justo casi en la línea de fondo."
+        ],
+        "621": [
+            2559.04,
+            2560.64,
+            "Rechazó ahora la defensa del Bayer Leverkusen."
+        ],
+        "622": [
+            2560.64,
+            2561.44,
+            "También Mathieu."
+        ],
+        "623": [
+            2561.64,
+            2563.04,
+            "Balón para los alemanes."
+        ],
+        "624": [
+            2563.64,
+            2566.24,
+            "Tú lo conoces bien Marcos, tu etapa en la Roma."
+        ],
+        "625": [
+            2566.84,
+            2569.04,
+            "Se le tienen que estar pasando demasiadas cosas por la cabeza."
+        ],
+        "626": [
+            2569.44,
+            2576.04,
+            "Bueno, yo creo que está buscando cómo poder ayudar en la charla técnica del descanso a su equipo."
+        ],
+        "627": [
+            2576.44,
+            2580.04,
+            "Yo creo que desde un control de la posesión, que el Barça es claro,"
+        ],
+        "628": [
+            2580.04,
+            2585.04,
+            "ahora mismo es del 64% y que está habiendo participación y juego del Barça en campo contrario."
+        ],
+        "629": [
+            2585.24,
+            2586.64,
+            "Tienen que encontrar los espacios."
+        ],
+        "630": [
+            2586.64,
+            2589.04,
+            "Y te decía, mayor participación de los laterales."
+        ],
+        "631": [
+            2589.04,
+            2592.84,
+            "Estamos viendo que Neymar y Mathieu y en banda izquierda está habiendo mayor presencia."
+        ],
+        "632": [
+            2592.84,
+            2595.24,
+            "Pero también el juego entre líneas que no está apareciendo."
+        ],
+        "633": [
+            2595.44,
+            2597.04,
+            "Y ojo que se adelanta Fegulí."
+        ],
+        "634": [
+            2597.24,
+            2598.84,
+            "Olympique de Lyon cero."
+        ],
+        "635": [
+            2599.24,
+            2600.44,
+            "Valencia uno."
+        ],
+        "636": [
+            2600.44,
+            2603.04,
+            "Gol de Fegulí también al filo del descanso."
+        ],
+        "637": [
+            2603.64,
+            2607.44,
+            "Ahí protestaban también Susana los aficionados por la pérdida de tiempo en el saque del Bayer Leverkusen."
+        ],
+        "638": [
+            2608.04,
+            2610.04,
+            "Sí, por el saque."
+        ],
+        "639": [
+            2610.04,
+            2615.04,
+            "También por cuando hay alguna entrada fea que está demasiado rato encima del césped."
+        ],
+        "640": [
+            2615.04,
+            2615.44,
+            "En fin."
+        ],
+        "641": [
+            2616.44,
+            2619.44,
+            "Pero es verdad que el banquillo del Barça es muy justito."
+        ],
+        "642": [
+            2619.44,
+            2624.64,
+            "Es que está Masip, está Douglas, Bartram, Unir, Jordi Alba, Sergi Roberto y Gumbau."
+        ],
+        "643": [
+            2624.84,
+            2625.84,
+            "Hay que apurar más tiempo."
+        ],
+        "644": [
+            2625.84,
+            2628.84,
+            "Y en segundo lugar, el Barcelona sin balón."
+        ],
+        "645": [
+            2629.24,
+            2637.64,
+            "De momento tiene el partido controlado mucho más, pese a la posición más alta del Barcelona, como estamos diciendo, el Bayer Leverkusen."
+        ],
+        "646": [
+            2637.64,
+            2638.64,
+            "Porque cada ataque..."
+        ],
+        "647": [
+            2638.64,
+            2639.44,
+            "O sea, tú..."
+        ],
+        "648": [
+            2639.44,
+            2644.04,
+            "Ahora te digo, ha llegado diez veces al área prácticamente el Bayer Leverkusen."
+        ],
+        "649": [
+            2644.04,
+            2644.64,
+            "Eso es..."
+        ],
+        "650": [
+            2645.24,
+            2649.64,
+            "Eso es algo imposible para querer dominar y manejar las estadísticas de un partido."
+        ],
+        "651": [
+            2649.64,
+            2654.24,
+            "Claro, una cosa es tener la posesión, una cosa es estar por delante del marcador y otra cosa es gobernar el partido."
+        ],
+        "652": [
+            2654.84,
+            2655.84,
+            "Ahí quiere jugar Piqué."
+        ],
+        "653": [
+            2656.24,
+            2657.84,
+            "Piqué arriba, mete el balón para Matié."
+        ],
+        "654": [
+            2657.84,
+            2659.24,
+            "Corta la bola ahí Donati."
+        ],
+        "655": [
+            2659.64,
+            2662.24,
+            "Donati la pone arriba, que es lo que le pide el Lobo a su equipo al Barça."
+        ],
+        "656": [
+            2662.24,
+            2663.24,
+            "Balón ahí para Kampl."
+        ],
+        "657": [
+            2663.24,
+            2664.84,
+            "Kampl aguanta, le viene Matié."
+        ],
+        "658": [
+            2665.04,
+            2667.44,
+            "Se gira el esloveno, aguanta con la bola, pegadita a la bota."
+        ],
+        "659": [
+            2667.44,
+            2670.24,
+            "Ahora por dentro se cuela el pequeño delante de Iniesta, que balón metía arriba."
+        ],
+        "660": [
+            2670.24,
+            2671.24,
+            "El defectuoso."
+        ],
+        "661": [
+            2671.84,
+            2672.84,
+            "La intención era buena, el aplaude."
+        ],
+        "662": [
+            2672.84,
+            2674.24,
+            "Por eso Chicharito la saca Ter Stegen."
+        ],
+        "663": [
+            2674.24,
+            2675.24,
+            "Balón para Piqué."
+        ],
+        "664": [
+            2676.44,
+            2678.44,
+            "Piqué, quiere jugarla para Dani Alves."
+        ],
+        "665": [
+            2679.44,
+            2681.24,
+            "Camnove en silencio, juega Alves."
+        ],
+        "666": [
+            2681.24,
+            2682.44,
+            "Alves de nuevo para Rakitic."
+        ],
+        "667": [
+            2682.44,
+            2684.04,
+            "Descarga para Piqué, controla con el muslo."
+        ],
+        "668": [
+            2684.44,
+            2686.24,
+            "Van a buscar la jugada, se abren los extremos."
+        ],
+        "669": [
+            2686.24,
+            2687.64,
+            "Se abre Sandro, también Neymar."
+        ],
+        "670": [
+            2688.24,
+            2689.84,
+            "Más hacia la izquierda, ahora vienen para dentro."
+        ],
+        "671": [
+            2689.84,
+            2691.24,
+            "Luis Suárez como el referente arriba."
+        ],
+        "672": [
+            2691.84,
+            2695.04,
+            "Incluso en posición teórica de fuera de juego para luego salir."
+        ],
+        "673": [
+            2695.24,
+            2696.44,
+            "Y ahora arrancar en la jugada."
+        ],
+        "674": [
+            2696.84,
+            2698.04,
+            "No va a llegar Matié."
+        ],
+        "675": [
+            2698.24,
+            2699.24,
+            "Esto está despidiendo."
+        ]
+    }
+}

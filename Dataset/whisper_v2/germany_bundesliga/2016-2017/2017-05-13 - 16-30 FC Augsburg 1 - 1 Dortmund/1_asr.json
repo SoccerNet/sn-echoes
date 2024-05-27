@@ -1,0 +1,2864 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            3.0,
+            "Der 33. Spieltag."
+        ],
+        "1": [
+            18.0,
+            20.0,
+            "Dortmund mit dem Belay."
+        ],
+        "2": [
+            22.0,
+            24.0,
+            "Piszczek."
+        ],
+        "3": [
+            24.0,
+            26.0,
+            "Der Ball ist nicht in der Hand."
+        ],
+        "4": [
+            30.0,
+            32.0,
+            "Dortmund mit der Dreierkette."
+        ],
+        "5": [
+            36.0,
+            39.0,
+            "Auf den ersten Blick mit den beiden Flügelspielern."
+        ],
+        "6": [
+            43.0,
+            46.0,
+            "Die Dreierkette besteht aus Ginter, Sokratis und Schmelzer."
+        ],
+        "7": [
+            47.0,
+            49.0,
+            "Das erste heftige Foul."
+        ],
+        "8": [
+            49.0,
+            51.0,
+            "Ginter hat es erwischt."
+        ],
+        "9": [
+            55.0,
+            57.0,
+            "Die beiden gehen auf den Ball."
+        ],
+        "10": [
+            61.0,
+            63.0,
+            "Dann gibt es einen harten Schlag."
+        ],
+        "11": [
+            63.0,
+            65.0,
+            "Bayer spielt natürlich auf den Ball."
+        ],
+        "12": [
+            65.0,
+            67.0,
+            "Er hat auch ordentlich zugelangt."
+        ],
+        "13": [
+            68.0,
+            70.0,
+            "Der Ball kommt in die Hand."
+        ],
+        "14": [
+            70.0,
+            72.0,
+            "Dann geht es weiter."
+        ],
+        "15": [
+            73.0,
+            75.0,
+            "Die beiden haben sich durchgehalten."
+        ],
+        "16": [
+            76.0,
+            78.0,
+            "Der Ball kommt in die Hand."
+        ],
+        "17": [
+            81.0,
+            83.0,
+            "Der Ball kommt in die Hand."
+        ],
+        "18": [
+            86.0,
+            89.0,
+            "Von der spielerischen Konstellation her sind die Verhältnisse"
+        ],
+        "19": [
+            89.0,
+            91.0,
+            "eindeutig."
+        ],
+        "20": [
+            91.0,
+            93.0,
+            "Die Mannschaft muss über den Ball herrschen."
+        ],
+        "21": [
+            93.0,
+            95.0,
+            "Der FC Augsburg wird vor allem verteidigen."
+        ],
+        "22": [
+            95.0,
+            99.6,
+            "auf dem Zettel haben Dortmund grundsätzlich schwer auszurechnen, weil sie im Spiel halt"
+        ],
+        "23": [
+            99.6,
+            102.76,
+            "auch fließend die Grundformation verändern können."
+        ],
+        "24": [
+            102.76,
+            112.4,
+            "Jetzt wollen wir jetzt mal hoffen, dass es bei Ginter ruckelfrei weitergehen kann."
+        ],
+        "25": [
+            112.4,
+            113.4,
+            "Halbzeit."
+        ],
+        "26": [
+            113.4,
+            114.4,
+            "Halbzeit."
+        ],
+        "27": [
+            114.4,
+            115.4,
+            "Halbzeit."
+        ],
+        "28": [
+            115.4,
+            116.4,
+            "Halbzeit."
+        ],
+        "29": [
+            116.4,
+            117.4,
+            "Halbzeit."
+        ],
+        "30": [
+            117.4,
+            118.4,
+            "Halbzeit."
+        ],
+        "31": [
+            118.4,
+            119.4,
+            "Halbzeit."
+        ],
+        "32": [
+            119.4,
+            120.4,
+            "Halbzeit."
+        ],
+        "33": [
+            120.4,
+            121.4,
+            "Halbzeit."
+        ],
+        "34": [
+            121.4,
+            122.4,
+            "Halbzeit."
+        ],
+        "35": [
+            122.4,
+            123.4,
+            "Halbzeit."
+        ],
+        "36": [
+            123.4,
+            124.4,
+            "Halbzeit."
+        ],
+        "37": [
+            124.4,
+            125.4,
+            "Halbzeit."
+        ],
+        "38": [
+            125.4,
+            126.4,
+            "Halbzeit."
+        ],
+        "39": [
+            126.4,
+            127.4,
+            "Halbzeit."
+        ],
+        "40": [
+            127.4,
+            128.4,
+            "Halbzeit."
+        ],
+        "41": [
+            128.4,
+            129.4,
+            "Halbzeit."
+        ],
+        "42": [
+            129.4,
+            130.4,
+            "Halbzeit."
+        ],
+        "43": [
+            130.4,
+            131.4,
+            "Halbzeit."
+        ],
+        "44": [
+            131.4,
+            132.4,
+            "Halbzeit."
+        ],
+        "45": [
+            132.4,
+            133.4,
+            "Halbzeit."
+        ],
+        "46": [
+            133.4,
+            134.4,
+            "Halbzeit."
+        ],
+        "47": [
+            134.4,
+            135.4,
+            "Halbzeit."
+        ],
+        "48": [
+            135.4,
+            136.4,
+            "Halbzeit."
+        ],
+        "49": [
+            136.4,
+            137.4,
+            "Halbzeit."
+        ],
+        "50": [
+            137.4,
+            138.4,
+            "Halbzeit."
+        ],
+        "51": [
+            138.4,
+            139.4,
+            "Halbzeit."
+        ],
+        "52": [
+            139.4,
+            140.4,
+            "Halbzeit."
+        ],
+        "53": [
+            140.4,
+            141.4,
+            "Halbzeit."
+        ],
+        "54": [
+            142.4,
+            145.2,
+            "Kagawa relativ tief in dieser Anfangsphase."
+        ],
+        "55": [
+            154.32,
+            159.4,
+            "Augsburger verteidigen auf der anderen Seite nicht wirklich so als Formation 4-4-2, sondern"
+        ],
+        "56": [
+            159.4,
+            162.4,
+            "viel Mann gegen Mann, das ist natürlich extrem laufintensiv."
+        ],
+        "57": [
+            162.4,
+            167.92,
+            "Da ist der erste lange Ball und der hätte beinahe geklappt auf Philipp Max, der ist"
+        ],
+        "58": [
+            167.92,
+            171.92,
+            "förmlich explodiert in den letzten Spieltagen."
+        ],
+        "59": [
+            171.92,
+            177.92,
+            "Man könnte natürlich auch sagen, er ist raus aus einem tiefen Formloch, das würde auch zutreffen."
+        ],
+        "60": [
+            181.92,
+            188.92,
+            "Guerreiro, oh oh, erste kritische Situation, Verhag gegen Kagawa."
+        ],
+        "61": [
+            189.92,
+            195.92,
+            "Ganz erfahrener Mann, der Kapitän des FC Augsburg, Paul Verhag, hat auch so seine kleinen Tiefs"
+        ],
+        "62": [
+            195.92,
+            197.92,
+            "gehabt im Verlauf dieser Saison."
+        ],
+        "63": [
+            199.92,
+            202.92,
+            "Finn Burgason aufgestützt, Max war's."
+        ],
+        "64": [
+            218.92,
+            228.92,
+            "Nochmal vielleicht die tabellarische Konstellation, also sollten die Augsburger hier gewinnen,"
+        ],
+        "65": [
+            228.92,
+            236.92,
+            "haben sie ausgezeichnete Chancen, auch eine siebte Bundesliga-Saison in Folge zu erleben."
+        ],
+        "66": [
+            236.92,
+            239.92,
+            "Jetzt gucken wir mal aufs Piszczek."
+        ],
+        "67": [
+            242.92,
+            247.92,
+            "Ginter wieder dabei, Dembélé, und erstmal wieder Ruhe im Spiel."
+        ],
+        "68": [
+            247.92,
+            253.92,
+            "Also, ein Sieg Augsburg, dann reicht's wahrscheinlich, dann müssten schon Mainz, Wolfsburg und Hamburg gewinnen."
+        ],
+        "69": [
+            253.92,
+            258.92,
+            "Dann würde sich die Entscheidung in Sachen Augsburg auf den 34. Spieltag vertagen."
+        ],
+        "70": [
+            260.92,
+            265.92,
+            "Es gibt eine Konstellation, in der auch ein Unentschieden reichen würde, für den Fall,"
+        ],
+        "71": [
+            265.92,
+            267.92,
+            "dass Wolfsburg verliert und der HSV nicht gewinnt."
+        ],
+        "72": [
+            267.92,
+            273.92,
+            "Das ist graue Theorie, wir gehen nachher nochmal drauf ein, wenn es wirklich so weit kommen sollte."
+        ],
+        "73": [
+            278.92,
+            281.92,
+            "Etwas simpler ist die Situation bei Borussia Dortmund."
+        ],
+        "74": [
+            281.92,
+            283.92,
+            "Das ist ein einfaches Fernduell mit der TSG Hoffenheim."
+        ],
+        "75": [
+            283.92,
+            287.92,
+            "Zwei Punkte sind die Dortmunder vorne, Hoffenheim auswärts in Bremen."
+        ],
+        "76": [
+            307.92,
+            324.92,
+            "Dembélé, Reus, Reus nochmal durchgesteckt auf Dembélé, Kagawa."
+        ],
+        "77": [
+            327.92,
+            329.92,
+            "Da waren gleich vier Dortmunder im Strafraum."
+        ],
+        "78": [
+            329.92,
+            333.92,
+            "Nächste leicht kritische Situation für den FC Augsburg, Altintop."
+        ],
+        "79": [
+            337.92,
+            338.92,
+            "Weigl."
+        ],
+        "80": [
+            339.92,
+            340.92,
+            "Weigl."
+        ],
+        "81": [
+            340.92,
+            341.92,
+            "Weigl."
+        ],
+        "82": [
+            341.92,
+            368.92,
+            "Guerreiro zu kurz für diesen Kopfball, weil das Timing nicht gestimmt."
+        ],
+        "83": [
+            369.92,
+            373.92,
+            "Und Schmid lässt den Ball ins Austrudeln, um erstmal Ruhe reinzukriegen."
+        ],
+        "84": [
+            377.92,
+            381.92,
+            "Das letzte Wochenende ist ja ziemlich bitter gelaufen für den FC Augsburg."
+        ],
+        "85": [
+            381.92,
+            385.92,
+            "Sie haben einen Punkt geholt, auswärts bei Borussia Mönchengladbach."
+        ],
+        "86": [
+            385.92,
+            387.92,
+            "Wenn man da so drauf schaut, erstmal ein großer Erfolg."
+        ],
+        "87": [
+            387.92,
+            389.92,
+            "Die Art und Weise war halt hart."
+        ],
+        "88": [
+            389.92,
+            393.92,
+            "Lange mit 1 zu 0 geführt, vierte Minute der Nachspielzeit."
+        ],
+        "89": [
+            393.92,
+            396.92,
+            "Dann auch noch der Treffer durch den Ex-Augsburger Andre Hahn."
+        ],
+        "90": [
+            397.92,
+            401.92,
+            "Schon auch die Frage, wie die Augsburger mit diesem Schock umgehen."
+        ],
+        "91": [
+            403.92,
+            407.92,
+            "Und die Dortmunder, das wissen sie, sie hatten ja dieses Du-or-Dei-Spiel gegen die TSG Hoffenheim."
+        ],
+        "92": [
+            407.92,
+            413.92,
+            "Mit, nennen wir es etwas günstigem Spielverlauf zu Hause, dem Sieg gegen die TSG."
+        ],
+        "93": [
+            413.92,
+            418.92,
+            "Dembélé als Beschleuniger, Dembélé in den Lauf von Piszczek."
+        ],
+        "94": [
+            421.92,
+            424.92,
+            "Aubameyang und Guerreiro haben verpasst, Altintop."
+        ],
+        "95": [
+            426.92,
+            428.92,
+            "Nicht schlecht gelöst, Kohr."
+        ],
+        "96": [
+            430.92,
+            432.92,
+            "Mit dem Auge für Verhag."
+        ],
+        "97": [
+            432.92,
+            434.92,
+            "Augsburg fährt den ersten Konter."
+        ],
+        "98": [
+            435.92,
+            437.92,
+            "Max dabei, Finn Bogason dabei."
+        ],
+        "99": [
+            438.92,
+            440.92,
+            "Dominic Kohr."
+        ],
+        "100": [
+            441.92,
+            443.92,
+            "Er ist gedacht für Daniel Bayer, Piszczek ist da."
+        ],
+        "101": [
+            445.92,
+            447.92,
+            "Und jetzt Aubameyang gegen Hinteregger."
+        ],
+        "102": [
+            457.92,
+            461.92,
+            "Erste kleine Zwischeninfo, Hoffenheim ist in Führung gegangen in Bremen."
+        ],
+        "103": [
+            461.92,
+            464.92,
+            "Damit sind sie aktuell punktgleich."
+        ],
+        "104": [
+            465.92,
+            467.92,
+            "Dortmund hat das bessere Torverhältnis."
+        ],
+        "105": [
+            487.92,
+            489.92,
+            "Helfen, helfen, helfen."
+        ],
+        "106": [
+            491.92,
+            493.92,
+            "Helfen, helfen, helfen."
+        ],
+        "107": [
+            494.92,
+            496.92,
+            "Helfen, helfen, helfen."
+        ],
+        "108": [
+            497.92,
+            499.92,
+            "Helfen, helfen, helfen."
+        ],
+        "109": [
+            500.92,
+            502.92,
+            "Helfen, helfen, helfen."
+        ],
+        "110": [
+            503.92,
+            505.92,
+            "Helfen, helfen, helfen."
+        ],
+        "111": [
+            506.92,
+            510.92,
+            "Es ist eine betont ruhige Anfangsphase, also man spürt förmlich,"
+        ],
+        "112": [
+            511.92,
+            514.92,
+            "das was auf dem Spiel steht, das es um etwas geht."
+        ],
+        "113": [
+            514.92,
+            516.92,
+            "Kein Foul, Finn Bogason."
+        ],
+        "114": [
+            517.92,
+            519.92,
+            "Hinteregger, Finn Bogason."
+        ],
+        "115": [
+            524.92,
+            527.92,
+            "Ein Stück weit der zentrale Mann, zuletzt auswärts bei Borussia"
+        ],
+        "116": [
+            527.92,
+            529.92,
+            "Mönchengladbach."
+        ],
+        "117": [
+            529.92,
+            532.92,
+            "Er hat viele Chancen verbrannt, aber auch die eine gemacht."
+        ],
+        "118": [
+            532.92,
+            534.92,
+            "Er kommt langsam wieder."
+        ],
+        "119": [
+            535.92,
+            537.92,
+            "Nach seiner langen Auszeit, verletzungsbedingt."
+        ],
+        "120": [
+            538.92,
+            541.92,
+            "Das ist relativ mutig, wie die Augsburger das angehen."
+        ],
+        "121": [
+            541.92,
+            544.92,
+            "Dortmunder können so etwas im Normalfall spielend lösen."
+        ],
+        "122": [
+            544.92,
+            546.92,
+            "So wie hier."
+        ],
+        "123": [
+            546.92,
+            548.92,
+            "Schmelzer für den Belay."
+        ],
+        "124": [
+            568.92,
+            571.92,
+            "Das Hinspiel war ein 1-1 im Signal Iduna Park."
+        ],
+        "125": [
+            572.92,
+            575.92,
+            "Dong Won-Ji mit seinem ausgerechneten Moment."
+        ],
+        "126": [
+            576.92,
+            579.92,
+            "Als ehemaliger Dortmund mit dem Führungstreffer für die"
+        ],
+        "127": [
+            579.92,
+            581.92,
+            "Augsburger."
+        ],
+        "128": [
+            581.92,
+            583.92,
+            "Dem Belay machte den Ausgleich."
+        ],
+        "129": [
+            583.92,
+            585.92,
+            "Dortmund in der Folge drückend überlegen."
+        ],
+        "130": [
+            585.92,
+            588.92,
+            "Aber da hatten sie mal wieder einen großen Tag in Sachen"
+        ],
+        "131": [
+            588.92,
+            590.92,
+            "Chancen wegwerfen."
+        ],
+        "132": [
+            590.92,
+            593.92,
+            "So war es am Ende ein etwas glückliches 1-1 für die"
+        ],
+        "133": [
+            593.92,
+            595.92,
+            "Augsburger."
+        ],
+        "134": [
+            596.92,
+            598.92,
+            "Das 2. Spiel für Manuel Baum."
+        ],
+        "135": [
+            602.92,
+            604.92,
+            "Kagawa."
+        ],
+        "136": [
+            626.92,
+            628.92,
+            "Das war ein guter Ball."
+        ],
+        "137": [
+            629.92,
+            631.92,
+            "Das war ein guter Ball."
+        ],
+        "138": [
+            640.92,
+            642.92,
+            "Obermeyer mit einer klasse Ablage."
+        ],
+        "139": [
+            642.92,
+            644.92,
+            "Was macht Piszczek daraus?"
+        ],
+        "140": [
+            648.92,
+            650.92,
+            "Dem Belay."
+        ],
+        "141": [
+            650.92,
+            652.92,
+            "Das war ein guter Ball."
+        ],
+        "142": [
+            652.92,
+            654.92,
+            "Der war gut."
+        ],
+        "143": [
+            654.92,
+            656.92,
+            "Das war ein guter Ball."
+        ],
+        "144": [
+            656.92,
+            658.92,
+            "Ein guter Zweikampf mit Paul Verhag."
+        ],
+        "145": [
+            658.92,
+            660.92,
+            "Germany."
+        ],
+        "146": [
+            660.92,
+            662.92,
+            "Pazificar."
+        ],
+        "147": [
+            678.92,
+            681.92,
+            "Die Feuerwehr Suppe Gintas und ein bisschen auch Verdacht."
+        ],
+        "148": [
+            681.92,
+            686.24,
+            "Führungsspieler Kapitän hat sich allerdings mit der Khertjan Verbeek überworfen."
+        ],
+        "149": [
+            694.92,
+            696.92,
+            "Sokrates für Kagawa."
+        ],
+        "150": [
+            699.68,
+            702.88,
+            "Kagawa übernimmt viel Verantwortung im Spielaufbau."
+        ],
+        "151": [
+            706.6,
+            709.76,
+            "Dem Belay eher in so einer Art Zehnerposition."
+        ],
+        "152": [
+            712.8,
+            716.0,
+            "Feiner Ball von Sokrates, er hat noch nicht fein genug."
+        ],
+        "153": [
+            719.8,
+            722.2,
+            "Schwer zu verwerten für Lukas Piszczek."
+        ],
+        "154": [
+            722.2,
+            724.2,
+            "Sokrates mit dem Ball."
+        ],
+        "155": [
+            725.2,
+            727.2,
+            "Und dann der Ball von Sokrates."
+        ],
+        "156": [
+            742.2,
+            745.2,
+            "An der Kante zum Halbseits Obermeerjagen."
+        ],
+        "157": [
+            746.2,
+            749.2,
+            "Den zweiten Ball sammeln die Dortmunder auf."
+        ],
+        "158": [
+            752.2,
+            754.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "159": [
+            755.2,
+            757.2,
+            "Und dann der Ball von Sokrates."
+        ],
+        "160": [
+            758.2,
+            760.2,
+            "Sokrates hat den Tempo Vorteil."
+        ],
+        "161": [
+            761.2,
+            763.2,
+            "Und dann ist die erste Karte fällig."
+        ],
+        "162": [
+            766.2,
+            768.2,
+            "13. Minute."
+        ],
+        "163": [
+            769.2,
+            771.2,
+            "Ginter in ein undankbares Laufduell."
+        ],
+        "164": [
+            772.2,
+            774.2,
+            "Auf offener Wiese gegen Philipp Max."
+        ],
+        "165": [
+            775.2,
+            777.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "166": [
+            778.2,
+            780.2,
+            "Und dann der Ball von Sokrates."
+        ],
+        "167": [
+            781.2,
+            783.2,
+            "Wenn er den Ellenbogen weglässt,"
+        ],
+        "168": [
+            784.2,
+            786.2,
+            "dann ist es kein Foul."
+        ],
+        "169": [
+            787.2,
+            790.2,
+            "Aber in dem hohen Tempo reicht ein kleiner Schubser"
+        ],
+        "170": [
+            791.2,
+            793.2,
+            "für einen Foul und eine gelbe Karte."
+        ],
+        "171": [
+            796.2,
+            799.2,
+            "Es springt heraus eine Freistoßgelegenheit für den FC"
+        ],
+        "172": [
+            800.2,
+            802.2,
+            "Augsburg."
+        ],
+        "173": [
+            803.2,
+            805.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "174": [
+            806.2,
+            808.2,
+            "Das ist ein Foul."
+        ],
+        "175": [
+            809.2,
+            811.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "176": [
+            812.2,
+            815.2,
+            "Sokrates kann den direkten Freistoß verwandeln."
+        ],
+        "177": [
+            819.2,
+            821.2,
+            "Jonathan Schmid ist zuständig."
+        ],
+        "178": [
+            822.2,
+            824.2,
+            "Der bringt den Freistoß direkt."
+        ],
+        "179": [
+            825.2,
+            827.2,
+            "Das ist auf einmal ein Faktor beim FCA."
+        ],
+        "180": [
+            828.2,
+            830.2,
+            "Er war abgetaucht."
+        ],
+        "181": [
+            830.2,
+            832.2,
+            "Aber er hat den Ball in der Mitte."
+        ],
+        "182": [
+            833.2,
+            835.2,
+            "Er hat den Ball in der Mitte."
+        ],
+        "183": [
+            836.2,
+            838.2,
+            "Er liefert gute Leistungen."
+        ],
+        "184": [
+            845.2,
+            848.2,
+            "Sofortige Antwort auf das Augsburger Pressing."
+        ],
+        "185": [
+            849.2,
+            851.2,
+            "Der lange Ball."
+        ],
+        "186": [
+            852.2,
+            854.2,
+            "Der Torwart fragt noch mal nach."
+        ],
+        "187": [
+            855.2,
+            857.2,
+            "Der High Clisting von Birki."
+        ],
+        "188": [
+            857.2,
+            859.2,
+            "Das war ein guter Ball."
+        ],
+        "189": [
+            860.2,
+            862.2,
+            "Das war ein guter Ball."
+        ],
+        "190": [
+            863.2,
+            865.2,
+            "Das war ein guter Ball."
+        ],
+        "191": [
+            866.2,
+            868.2,
+            "Das war ein guter Ball."
+        ],
+        "192": [
+            869.2,
+            871.2,
+            "Dem Ball."
+        ],
+        "193": [
+            872.2,
+            874.2,
+            "Dem Ball."
+        ],
+        "194": [
+            875.2,
+            877.2,
+            "Viel Platz für Piszczek."
+        ],
+        "195": [
+            878.2,
+            880.2,
+            "Mit großem Abstand."
+        ],
+        "196": [
+            887.2,
+            889.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "197": [
+            890.2,
+            892.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "198": [
+            905.2,
+            907.2,
+            "Rauwe Leo verfolgt Kakawa hartnäckig."
+        ],
+        "199": [
+            909.2,
+            911.2,
+            "Dominic Coeur macht Dinge."
+        ],
+        "200": [
+            912.2,
+            914.2,
+            "Einer der härteren Mittelfeldspieler."
+        ],
+        "201": [
+            917.2,
+            919.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "202": [
+            920.2,
+            922.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "203": [
+            923.2,
+            925.2,
+            "Die Viertelstunde ist vorbei."
+        ],
+        "204": [
+            926.2,
+            928.2,
+            "Es liegt eine gewisse Schwere in der Luft."
+        ],
+        "205": [
+            929.2,
+            932.2,
+            "Beide Mannschaften spielen es nicht wirklich frei."
+        ],
+        "206": [
+            933.2,
+            935.2,
+            "Das Tempo ist mitunter überschaubar."
+        ],
+        "207": [
+            936.2,
+            938.2,
+            "Jeder vergewissert sich,"
+        ],
+        "208": [
+            939.2,
+            941.2,
+            "bevor er den Ball abspielt."
+        ],
+        "209": [
+            942.2,
+            944.2,
+            "Das ist die richtige Option."
+        ],
+        "210": [
+            944.2,
+            946.2,
+            "Der Ball ist in der Mitte."
+        ],
+        "211": [
+            947.2,
+            949.2,
+            "Die Mannschaft ist sehr konzentriert."
+        ],
+        "212": [
+            950.2,
+            952.2,
+            "Sie sind sachlich und solide."
+        ],
+        "213": [
+            954.2,
+            956.2,
+            "Augsburg erlaubt ihre Chance."
+        ],
+        "214": [
+            957.2,
+            959.2,
+            "2-3 Mal waren sie ansatzweise im Strafraum."
+        ],
+        "215": [
+            960.2,
+            962.2,
+            "Mehr auch nicht."
+        ],
+        "216": [
+            963.2,
+            965.2,
+            "Jetzt schon wieder Schmelzer abgeblockt."
+        ],
+        "217": [
+            966.2,
+            968.2,
+            "Zusammenfassend."
+        ],
+        "218": [
+            969.2,
+            971.2,
+            "Es gibt noch keine Tormöglichkeit."
+        ],
+        "219": [
+            971.2,
+            973.2,
+            "Max mit diesem Steilpass."
+        ],
+        "220": [
+            974.2,
+            976.2,
+            "Und kein Tor."
+        ],
+        "221": [
+            977.2,
+            979.2,
+            "Riesenaktion von Böcki."
+        ],
+        "222": [
+            981.2,
+            983.2,
+            "17. Minute."
+        ],
+        "223": [
+            984.2,
+            986.2,
+            "Finn Burgason."
+        ],
+        "224": [
+            987.2,
+            989.2,
+            "Hochkaräter."
+        ],
+        "225": [
+            993.2,
+            995.2,
+            "Es war an eins ein klasse Konter."
+        ],
+        "226": [
+            996.2,
+            998.2,
+            "An zwei ein klasse Zuspiel."
+        ],
+        "227": [
+            998.2,
+            1000.2,
+            "Das war ein guter Abschluss."
+        ],
+        "228": [
+            1001.2,
+            1003.2,
+            "Aber in allererster Linie"
+        ],
+        "229": [
+            1004.2,
+            1006.2,
+            "war es ein Spitzentiming von Roman Böcki."
+        ],
+        "230": [
+            1007.2,
+            1009.2,
+            "Mit der Hand zur Ecke."
+        ],
+        "231": [
+            1018.2,
+            1020.2,
+            "Erster Eckball."
+        ],
+        "232": [
+            1021.2,
+            1023.2,
+            "Auch nicht ganz ungefährlich."
+        ],
+        "233": [
+            1028.2,
+            1030.2,
+            "Aber es war ein guter Abschluss."
+        ],
+        "234": [
+            1031.2,
+            1033.2,
+            "Das war ein guter Abschluss."
+        ],
+        "235": [
+            1034.2,
+            1036.2,
+            "Das war das erste Highlight."
+        ],
+        "236": [
+            1037.2,
+            1039.2,
+            "In diesem Spiel."
+        ],
+        "237": [
+            1040.2,
+            1042.2,
+            "Das passt zu den Augsburger Wochen."
+        ],
+        "238": [
+            1043.2,
+            1045.2,
+            "Oder zu den Augsburger Leistungen."
+        ],
+        "239": [
+            1046.2,
+            1048.2,
+            "Die sie gezeigt haben in den letzten Spielen."
+        ],
+        "240": [
+            1049.2,
+            1051.2,
+            "Sie waren immer wieder messerscharf im Konter."
+        ],
+        "241": [
+            1052.2,
+            1054.2,
+            "Das ist das, was die Mannschaft ausgezeichnet hat."
+        ],
+        "242": [
+            1055.2,
+            1057.2,
+            "Wenn man den Bogen etwas länger oder größer spannt,"
+        ],
+        "243": [
+            1058.2,
+            1060.2,
+            "dann ist es ein guter Abschluss."
+        ],
+        "244": [
+            1061.2,
+            1063.2,
+            "Das ist das, was die Mannschaft ausgezeichnet hat."
+        ],
+        "245": [
+            1064.2,
+            1066.2,
+            "In der Liga gehalten hat."
+        ],
+        "246": [
+            1067.2,
+            1069.2,
+            "Und zwar meistens sehr souverän."
+        ],
+        "247": [
+            1088.2,
+            1090.2,
+            "Das war ein guter Abschluss."
+        ],
+        "248": [
+            1091.2,
+            1093.2,
+            "Das war ein guter Abschluss."
+        ],
+        "249": [
+            1094.2,
+            1096.2,
+            "Das war ein guter Abschluss."
+        ],
+        "250": [
+            1097.2,
+            1099.2,
+            "Das war ein guter Abschluss."
+        ],
+        "251": [
+            1100.2,
+            1102.2,
+            "Tennis würde ich Ihnen gerne ans Herz legen."
+        ],
+        "252": [
+            1103.2,
+            1105.2,
+            "Da ist schwer was los."
+        ],
+        "253": [
+            1106.2,
+            1108.2,
+            "Allein in den Halbfinals."
+        ],
+        "254": [
+            1109.2,
+            1111.2,
+            "Mit Djokovic gegen Nadal."
+        ],
+        "255": [
+            1112.2,
+            1114.2,
+            "Und heute Abend mit dem Österreicher Dominik Thiem."
+        ],
+        "256": [
+            1115.2,
+            1117.2,
+            "Sie ahnen es, das Finale gibt es morgen."
+        ],
+        "257": [
+            1118.2,
+            1120.2,
+            "Das Finale gibt es morgen."
+        ],
+        "258": [
+            1121.2,
+            1123.2,
+            "Bis dahin."
+        ],
+        "259": [
+            1124.2,
+            1126.2,
+            "Bis dahin."
+        ],
+        "260": [
+            1127.2,
+            1129.2,
+            "Bis dahin."
+        ],
+        "261": [
+            1130.2,
+            1132.2,
+            "Bis dahin."
+        ],
+        "262": [
+            1133.2,
+            1135.2,
+            "Bis dahin."
+        ],
+        "263": [
+            1136.2,
+            1138.2,
+            "Nächste kleine Verhandlungspause."
+        ],
+        "264": [
+            1139.2,
+            1141.2,
+            "Nächste kleine Verhandlungspause."
+        ],
+        "265": [
+            1142.2,
+            1144.2,
+            "Taktik Pantomime bei Thomas Tofel."
+        ],
+        "266": [
+            1145.2,
+            1147.2,
+            "Taktik Pantomime bei Thomas Tofel."
+        ],
+        "267": [
+            1148.2,
+            1150.2,
+            "Taktik Pantomime bei Thomas Tofel."
+        ],
+        "268": [
+            1151.2,
+            1153.2,
+            "Das war kein Foul."
+        ],
+        "269": [
+            1154.2,
+            1156.2,
+            "Max hat einfach seinen Körper reingestellt."
+        ],
+        "270": [
+            1157.2,
+            1159.2,
+            "Max hat einfach seinen Körper reingestellt."
+        ],
+        "271": [
+            1160.2,
+            1162.2,
+            "Das nutzen sie draußen."
+        ],
+        "272": [
+            1163.2,
+            1165.2,
+            "Das nutzen sie draußen."
+        ],
+        "273": [
+            1166.2,
+            1168.2,
+            "Um noch einmal kurz Wasser aufzutanken."
+        ],
+        "274": [
+            1169.2,
+            1171.2,
+            "Um noch einmal kurz Wasser aufzutanken."
+        ],
+        "275": [
+            1172.2,
+            1174.2,
+            "Schwere Schmerzen scheinen das zu sein."
+        ],
+        "276": [
+            1175.2,
+            1177.2,
+            "Schwere Schmerzen scheinen das zu sein."
+        ],
+        "277": [
+            1178.2,
+            1180.2,
+            "Schwere Schmerzen scheinen das zu sein."
+        ],
+        "278": [
+            1181.2,
+            1183.2,
+            "Schwere Schmerzen scheinen das zu sein."
+        ],
+        "279": [
+            1184.2,
+            1186.2,
+            "Er ist mit der Fußspitze im Rasen hängen geblieben."
+        ],
+        "280": [
+            1187.2,
+            1189.2,
+            "Er ist mit der Fußspitze im Rasen hängen geblieben."
+        ],
+        "281": [
+            1190.2,
+            1192.2,
+            "Das sieht hochgradig ungesund aus."
+        ],
+        "282": [
+            1193.2,
+            1195.2,
+            "Das sieht hochgradig ungesund aus."
+        ],
+        "283": [
+            1196.2,
+            1198.2,
+            "Thomas Tochel ist viel gewohnt."
+        ],
+        "284": [
+            1199.2,
+            1201.2,
+            "Thomas Tochel ist viel gewohnt."
+        ],
+        "285": [
+            1202.2,
+            1204.2,
+            "Er ist Bundesliga-Spitzentrainer."
+        ],
+        "286": [
+            1205.2,
+            1207.2,
+            "Er ist es gewohnt, im Fokus und in der Öffentlichkeit zu stehen."
+        ],
+        "287": [
+            1208.2,
+            1210.2,
+            "Er ist es gewohnt, im Fokus und in der Öffentlichkeit zu stehen."
+        ],
+        "288": [
+            1211.2,
+            1213.2,
+            "Er ist es gewohnt, im Fokus und in der Öffentlichkeit zu stehen."
+        ],
+        "289": [
+            1214.2,
+            1216.2,
+            "Er hat eine gute Chance in diesem Spiel."
+        ],
+        "290": [
+            1217.2,
+            1219.2,
+            "Er hat eine gute Chance in diesem Spiel."
+        ],
+        "291": [
+            1220.2,
+            1222.2,
+            "Vorarbeit von Max."
+        ],
+        "292": [
+            1223.2,
+            1225.2,
+            "Vorarbeit von Max."
+        ],
+        "293": [
+            1226.2,
+            1228.2,
+            "Auf den Bierdeckel."
+        ],
+        "294": [
+            1229.2,
+            1231.2,
+            "Auf den Punkt."
+        ],
+        "295": [
+            1232.2,
+            1234.2,
+            "Auf den Punkt."
+        ],
+        "296": [
+            1234.2,
+            1236.2,
+            "Er hat die Chance."
+        ],
+        "297": [
+            1237.2,
+            1239.2,
+            "Er hat die Chance."
+        ],
+        "298": [
+            1240.2,
+            1242.2,
+            "Der Torhüter macht sich bereit, ins Spiel zu kommen."
+        ],
+        "299": [
+            1243.2,
+            1245.2,
+            "Der Torhüter macht sich bereit, ins Spiel zu kommen."
+        ],
+        "300": [
+            1246.2,
+            1248.2,
+            "Das sieht gar nicht gut aus."
+        ],
+        "301": [
+            1249.2,
+            1251.2,
+            "Das sieht gar nicht gut aus."
+        ],
+        "302": [
+            1252.2,
+            1254.2,
+            "Ist das das Ende seiner zweiten,"
+        ],
+        "303": [
+            1255.2,
+            1257.2,
+            "langen, erfolgreichen Saison?"
+        ],
+        "304": [
+            1258.2,
+            1260.2,
+            "Julian Weigl?"
+        ],
+        "305": [
+            1261.2,
+            1263.2,
+            "Julian Weigl?"
+        ],
+        "306": [
+            1264.2,
+            1266.2,
+            "Der ist der Strategische."
+        ],
+        "307": [
+            1267.2,
+            1269.2,
+            "Der ist der Strategische."
+        ],
+        "308": [
+            1270.2,
+            1272.2,
+            "Alles Gute an der Stelle."
+        ],
+        "309": [
+            1273.2,
+            1275.2,
+            "Alles Gute an der Stelle."
+        ],
+        "310": [
+            1276.2,
+            1278.2,
+            "Arbeitsunfall."
+        ],
+        "311": [
+            1279.2,
+            1281.2,
+            "Arbeitsunfall."
+        ],
+        "312": [
+            1282.2,
+            1284.2,
+            "Max stellt den Körper rein."
+        ],
+        "313": [
+            1285.2,
+            1287.2,
+            "Max stellt den Körper rein."
+        ],
+        "314": [
+            1288.2,
+            1290.2,
+            "Dann rutscht Weigl ganz unglücklich."
+        ],
+        "315": [
+            1291.2,
+            1293.2,
+            "Dann rutscht Weigl ganz unglücklich."
+        ],
+        "316": [
+            1294.2,
+            1296.2,
+            "Dann rutscht Weigl ganz unglücklich."
+        ],
+        "317": [
+            1297.2,
+            1299.2,
+            "Er hat den Körper nicht dabei."
+        ],
+        "318": [
+            1300.2,
+            1302.2,
+            "Er hat den Körper nicht dabei."
+        ],
+        "319": [
+            1303.2,
+            1305.2,
+            "Er hat den Körper nicht dabei."
+        ],
+        "320": [
+            1306.2,
+            1308.2,
+            "Logische Einwechslung wäre Sebastian Rohde."
+        ],
+        "321": [
+            1309.2,
+            1311.2,
+            "Logische Einwechslung wäre Sebastian Rohde."
+        ],
+        "322": [
+            1312.2,
+            1314.2,
+            "Aber Dortmund wird umstellen."
+        ],
+        "323": [
+            1315.2,
+            1317.2,
+            "Aber Dortmund wird umstellen."
+        ],
+        "324": [
+            1318.2,
+            1320.2,
+            "Das bringt Erik Duhm."
+        ],
+        "325": [
+            1321.2,
+            1323.2,
+            "Das bringt Erik Duhm."
+        ],
+        "326": [
+            1324.2,
+            1326.2,
+            "Einer der größten Feindspieler der Saison."
+        ],
+        "327": [
+            1327.2,
+            1329.2,
+            "Einer der größten Feindspieler der Saison."
+        ],
+        "328": [
+            1330.2,
+            1332.2,
+            "Er hat sich tatsächlich verletzt."
+        ],
+        "329": [
+            1333.2,
+            1335.2,
+            "Er hat sich tatsächlich verletzt."
+        ],
+        "330": [
+            1336.2,
+            1338.2,
+            "Er sorte sich rechts ein."
+        ],
+        "331": [
+            1339.2,
+            1341.2,
+            "Er sorte sich rechts ein."
+        ],
+        "332": [
+            1342.2,
+            1344.2,
+            "Eine Position wird nach hinten gerutscht."
+        ],
+        "333": [
+            1345.2,
+            1347.2,
+            "Eine Position wird nach hinten gerutscht."
+        ],
+        "334": [
+            1348.2,
+            1350.2,
+            "Günter geht auf die 6."
+        ],
+        "335": [
+            1351.2,
+            1353.2,
+            "Günter geht auf die 6."
+        ],
+        "336": [
+            1354.2,
+            1356.2,
+            "3-4-3-artig Borussia Dortmund."
+        ],
+        "337": [
+            1371.2,
+            1377.2,
+            "Bislang 22 Minuten zum Reinkommen für Andreas Lute."
+        ],
+        "338": [
+            1385.2,
+            1389.2,
+            "Die grundlegende Spitzenaufnahme wurde überwiesen."
+        ],
+        "339": [
+            1389.2,
+            1411.2,
+            "Gerrero, zuletzt meist im zentralen Mittelfeld gefordert, heute wieder auf der Außenbahn."
+        ],
+        "340": [
+            1412.2,
+            1414.2,
+            "Sokrates"
+        ],
+        "341": [
+            1423.2,
+            1426.2,
+            "Ginter, Dembélé"
+        ],
+        "342": [
+            1427.2,
+            1430.2,
+            "Übermorgen 20, Ousmane Dembélé"
+        ],
+        "343": [
+            1431.2,
+            1435.2,
+            "Erste Aktion von Eric Duhm, der hatte zuletzt Rückenprobleme"
+        ],
+        "344": [
+            1441.2,
+            1461.2,
+            "Dembélé, Dembélé, Dembélé, Dembélé"
+        ],
+        "345": [
+            1461.2,
+            1467.52,
+            "Massig Ballbesitz für Borussia Dortmund, aber halt in der unkritischen Zone."
+        ],
+        "346": [
+            1467.52,
+            1469.52,
+            "Dem Belay."
+        ],
+        "347": [
+            1473.52,
+            1477.52,
+            "Im Normalfall der, der für das Überraschungsmoment sorgt bei Borussia Dortmund, wenn es nach"
+        ],
+        "348": [
+            1477.52,
+            1478.52,
+            "vorne geht."
+        ],
+        "349": [
+            1478.52,
+            1484.92,
+            "Es sind solchen Phasen ja immer die Frage, wer verschärft das Tempo, wer hat die entscheidende"
+        ],
+        "350": [
+            1484.92,
+            1486.52,
+            "Aktion, wer verändert den Rhythmus."
+        ],
+        "351": [
+            1491.52,
+            1493.52,
+            "Kagawa."
+        ],
+        "352": [
+            1497.52,
+            1502.52,
+            "Missverständnis, Guerreiro hatte die Situation ein bisschen anders eingeschätzt."
+        ],
+        "353": [
+            1502.76,
+            1505.84,
+            "Gerade im Aufbauspiel jetzt natürlich der das Maximum erreicht."
+        ],
+        "354": [
+            1505.84,
+            1508.76,
+            "Gerade der shoebox-Zuge hatte gearbeitet."
+        ],
+        "355": [
+            1512.56,
+            1514.76,
+            "パッションバイロボ важいですよ。"
+        ],
+        "356": [
+            1519.48,
+            1522.08,
+            "Immer diese不過-dieses-doing."
+        ],
+        "357": [
+            1522.08,
+            1525.28,
+            "Luke Zagmeier hat die Ice- Alexis gehabt."
+        ],
+        "358": [
+            1525.28,
+            1534.6,
+            "Gerade im Aufbauspiel jetzt natürlich schon eine neue Situation ohne Weige."
+        ],
+        "359": [
+            1534.6,
+            1559.22,
+            "Verlust auch noch einmal am Stürmer des Regiments und sieht um den Tissen vorbei."
+        ],
+        "360": [
+            1559.22,
+            1586.22,
+            "Die anderen Optionen, die Thomas Dohrl noch so hat."
+        ],
+        "361": [
+            1586.22,
+            1598.38,
+            "Nicht ganz unwichtig, die Neuigkeiten von den anderen Plätzen."
+        ],
+        "362": [
+            1598.38,
+            1602.02,
+            "Hamburg liegt zurück, Wolfsburg liegt zurück."
+        ],
+        "363": [
+            1602.02,
+            1608.34,
+            "Heißt für den Moment erstmal noch nichts, aber der Weg wäre bereitet für den FC Augsburg."
+        ],
+        "364": [
+            1608.34,
+            1613.34,
+            "Jetzt kommt allerdings erstmal Dembélé, seine Hereingabe abgeblockt von Stafelidis."
+        ],
+        "365": [
+            1613.34,
+            1632.86,
+            "Und nur um das einzuordnen, also in dieser Konstellation wäre auch ein Unentschieden"
+        ],
+        "366": [
+            1632.86,
+            1636.86,
+            "der gefühlte Klassenerhalt, aber nur der gefühlte für den FC Augsburg, denn das Torverhältnis"
+        ],
+        "367": [
+            1636.86,
+            1640.66,
+            "ist halt dramatisch besser im Vergleich zum Hamburger Sportverein."
+        ],
+        "368": [
+            1640.66,
+            1645.34,
+            "Mit den Flanken haut das noch nicht so hin."
+        ],
+        "369": [
+            1645.34,
+            1648.7,
+            "Duhm, wenn man so will, kalt gekommen."
+        ],
+        "370": [
+            1648.7,
+            1654.46,
+            "Reus, an ihm läuft das Spiel mehr oder weniger auch noch vorbei, was aber nicht zwingend"
+        ],
+        "371": [
+            1654.46,
+            1656.94,
+            "an Reus liegt, sondern an den Zuspielen, die er bekommt."
+        ],
+        "372": [
+            1656.94,
+            1665.26,
+            "Und insgesamt fehlt die nötige Schärfe im Spiel der Dortmunder."
+        ],
+        "373": [
+            1665.26,
+            1676.9,
+            "Lute, mit einem einzigen langen Ball, Dortmund ausgehebelt, Max, und da ist die Chance, das"
+        ],
+        "374": [
+            1676.9,
+            1680.26,
+            "Tor, Bürki mit dem Fehler."
+        ],
+        "375": [
+            1680.26,
+            1692.82,
+            "28."
+        ],
+        "376": [
+            1692.82,
+            1698.1,
+            "Minute, der FC Augsburg führt durch Alfred Finn Burgason."
+        ],
+        "377": [
+            1698.1,
+            1706.26,
+            "Los ging's mit einem langen Ball seines Stellvertreters, Andreas Lute."
+        ],
+        "378": [
+            1707.22,
+            1712.5,
+            "Die Kugel nach vorne gebremst und damit nimmt er, Achtung, alle Dortmunder aus dem Spiel"
+        ],
+        "379": [
+            1712.5,
+            1713.5,
+            "kein Abseits."
+        ],
+        "380": [
+            1713.5,
+            1716.58,
+            "Max war in der eigenen Hälfte im entscheidenden Moment."
+        ],
+        "381": [
+            1716.58,
+            1718.34,
+            "Max ist dann schnell und durch."
+        ],
+        "382": [
+            1718.34,
+            1721.18,
+            "Er hat das mit dem Fehler nämlich zurück."
+        ],
+        "383": [
+            1721.18,
+            1726.1,
+            "Bürki muss sich wahnsinnig strecken, um den überhaupt noch zu kriegen."
+        ],
+        "384": [
+            1726.1,
+            1731.54,
+            "Dann ist es natürlich unglücklich, dass er genau in den Lauf von Alfred Finn Burgason"
+        ],
+        "385": [
+            1731.54,
+            1732.86,
+            "die Kugel lenkt."
+        ],
+        "386": [
+            1732.86,
+            1734.26,
+            "Der muss nur noch einschieben."
+        ],
+        "387": [
+            1735.26,
+            1738.94,
+            "Aber was natürlich gar nicht geht, ist, dass die Dortmunder das so auf Abseits spielen."
+        ],
+        "388": [
+            1738.94,
+            1744.78,
+            "Und Max wieder die freie Bahn lassen, sein Tempo ist bekannt."
+        ],
+        "389": [
+            1744.78,
+            1747.98,
+            "Simpler geht's nicht."
+        ],
+        "390": [
+            1747.98,
+            1749.46,
+            "Und Dortmund liegt hinten."
+        ],
+        "391": [
+            1749.46,
+            1753.34,
+            "Augsburg führt die anderen Konstellationen, habe ich Ihnen gerade schon genannt, heißt"
+        ],
+        "392": [
+            1753.34,
+            1757.06,
+            "im Moment hat der FC Augsburg den Klassenerhalt sicher."
+        ],
+        "393": [
+            1764.26,
+            1784.06,
+            "Gleich eine halbe Stunde rum."
+        ],
+        "394": [
+            1784.06,
+            1787.62,
+            "Die Partie eigentlich in ganz ruhigem Fahrwasser."
+        ],
+        "395": [
+            1787.62,
+            1791.98,
+            "Das hat sich durch das Tor natürlich komplett verändert."
+        ],
+        "396": [
+            1791.98,
+            1798.98,
+            "Altintop, Finn Burgason."
+        ],
+        "397": [
+            1798.98,
+            1802.98,
+            "Jonathan Spieth."
+        ],
+        "398": [
+            1802.98,
+            1805.98,
+            "Kommt da Schmelzer ran?"
+        ],
+        "399": [
+            1805.98,
+            1809.98,
+            "Insofern ja, dass er die Flanke ablockt."
+        ],
+        "400": [
+            1809.98,
+            1812.98,
+            "Altintop."
+        ],
+        "401": [
+            1813.98,
+            1824.98,
+            "Ganz wichtig mit seinen Zweikämpfen, er hat schon drei, vier Bälle erobert, kein Abseits."
+        ],
+        "402": [
+            1824.98,
+            1832.98,
+            "Sogradzic ist nix anderem, Daniel Bayer."
+        ],
+        "403": [
+            1832.98,
+            1838.98,
+            "Dafür gibt's den Freistoß für Borussia Dortmund, das Faulspiel von Stachy Leedes."
+        ],
+        "404": [
+            1843.98,
+            1855.98,
+            "Rein historisch im Übrigen spricht ja nix für den FC Augsburg."
+        ],
+        "405": [
+            1855.98,
+            1859.98,
+            "Wir haben ja zu Hause gegen Borussia Dortmund noch nie gewinnen können."
+        ],
+        "406": [
+            1859.98,
+            1864.98,
+            "Überhaupt die Gesamtbilanz spricht klar für den BVB."
+        ],
+        "407": [
+            1865.98,
+            1873.98,
+            "Der Ball war nicht im Aus, dafür Leedes."
+        ],
+        "408": [
+            1873.98,
+            1876.98,
+            "Reus."
+        ],
+        "409": [
+            1876.98,
+            1880.98,
+            "Ginter, könnt's probieren."
+        ],
+        "410": [
+            1880.98,
+            1884.98,
+            "Piszczek, Dembélé."
+        ],
+        "411": [
+            1884.98,
+            1888.98,
+            "Durm, die Hereingabe ist scharf."
+        ],
+        "412": [
+            1888.98,
+            1890.98,
+            "Und Kagawa."
+        ],
+        "413": [
+            1891.98,
+            1893.98,
+            "Tor."
+        ],
+        "414": [
+            1893.98,
+            1895.98,
+            "Aubameyang."
+        ],
+        "415": [
+            1898.98,
+            1901.98,
+            "32. Dortmund mit dem Ausgleich."
+        ],
+        "416": [
+            1912.98,
+            1915.98,
+            "Ganze vier Minuten hält die Führung für den FC Augsburg."
+        ],
+        "417": [
+            1915.98,
+            1918.98,
+            "Aubameyang."
+        ],
+        "418": [
+            1918.98,
+            1921.98,
+            "Gucken wir noch mal auf Abseits."
+        ],
+        "419": [
+            1921.98,
+            1924.98,
+            "Hier ist alles gut."
+        ],
+        "420": [
+            1924.98,
+            1928.98,
+            "Jetzt Achtung Kagawa, der verzögert, lässt damit Core aussteigen."
+        ],
+        "421": [
+            1928.98,
+            1930.98,
+            "Kein Abseits."
+        ],
+        "422": [
+            1930.98,
+            1935.98,
+            "Alles sauber bei Pierre-Emerick Aubameyang, der genau richtig steht."
+        ],
+        "423": [
+            1935.98,
+            1938.98,
+            "Er hat schon kompliziertere Tore in dieser Saison erzielen müssen."
+        ],
+        "424": [
+            1939.98,
+            1942.98,
+            "Der BVB-Spieler, der mit 29."
+        ],
+        "425": [
+            1942.98,
+            1945.98,
+            "Allein in der Bundesliga."
+        ],
+        "426": [
+            1945.98,
+            1948.98,
+            "The race is on."
+        ],
+        "427": [
+            1948.98,
+            1951.98,
+            "Wie Sie wissen."
+        ],
+        "428": [
+            1951.98,
+            1954.98,
+            "Allerdings hat Lewandowski mittlerweile auch getroffen."
+        ],
+        "429": [
+            1954.98,
+            1957.98,
+            "Beide jetzt gerade mit 29."
+        ],
+        "430": [
+            1957.98,
+            1959.98,
+            "Man fasst es nicht,"
+        ],
+        "431": [
+            1959.98,
+            1961.98,
+            "100."
+        ],
+        "432": [
+            1961.98,
+            1964.98,
+            "Skorerpunkt für Pierre-Emerick Aubameyang."
+        ],
+        "433": [
+            1965.98,
+            1968.98,
+            "Und wie sie begann."
+        ],
+        "434": [
+            1968.98,
+            1971.98,
+            "Mit schicken drei Toren zum Auftakt der Saison."
+        ],
+        "435": [
+            1971.98,
+            1974.98,
+            "Augsburg ist ein gutes Pflaster."
+        ],
+        "436": [
+            1994.98,
+            1997.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "437": [
+            1997.98,
+            2000.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "438": [
+            2000.98,
+            2003.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "439": [
+            2003.98,
+            2006.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "440": [
+            2006.98,
+            2009.98,
+            "Es ist ein faszinierendes Spiel."
+        ],
+        "441": [
+            2009.98,
+            2012.98,
+            "Das liegt nicht an dem,"
+        ],
+        "442": [
+            2012.98,
+            2015.98,
+            "was zwischen den Strafräumen stattfindet."
+        ],
+        "443": [
+            2015.98,
+            2018.98,
+            "Das verläuft eher stocksteif."
+        ],
+        "444": [
+            2018.98,
+            2021.98,
+            "Aber es ist ein Spiel, das total von den einzelnen Momenten lebt."
+        ],
+        "445": [
+            2021.98,
+            2024.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "446": [
+            2024.98,
+            2027.98,
+            "Es ist ein Spiel, das total von den einzelnen Momenten lebt."
+        ],
+        "447": [
+            2027.98,
+            2030.98,
+            "Die beiden konnten es nutzen."
+        ],
+        "448": [
+            2030.98,
+            2033.98,
+            "Der Ballgewinn für Borussia Dortmund."
+        ],
+        "449": [
+            2033.98,
+            2036.98,
+            "Der Torwart ist im Tor."
+        ],
+        "450": [
+            2036.98,
+            2039.98,
+            "Der Torwart ist im Tor."
+        ],
+        "451": [
+            2039.98,
+            2042.98,
+            "Das liegt nach 33 Minuten"
+        ],
+        "452": [
+            2042.98,
+            2045.98,
+            "eine totale Spannung in der Luft."
+        ],
+        "453": [
+            2051.98,
+            2054.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "454": [
+            2054.98,
+            2057.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "455": [
+            2057.98,
+            2060.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "456": [
+            2060.98,
+            2063.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "457": [
+            2063.98,
+            2066.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "458": [
+            2066.98,
+            2069.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "459": [
+            2069.98,
+            2072.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "460": [
+            2072.98,
+            2075.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "461": [
+            2075.98,
+            2078.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "462": [
+            2078.98,
+            2081.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "463": [
+            2081.98,
+            2084.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "464": [
+            2095.98,
+            2098.98,
+            "Die Ergebnisse in Wolfsburg und Schalke"
+        ],
+        "465": [
+            2098.98,
+            2101.98,
+            "würden den Augsburgern auch reichen."
+        ],
+        "466": [
+            2101.98,
+            2104.98,
+            "würden den Augsburgern auch reichen."
+        ],
+        "467": [
+            2109.98,
+            2112.98,
+            "Die Spannung ist ein Spiel,"
+        ],
+        "468": [
+            2112.98,
+            2115.98,
+            "die einzig und allein an der Spannung liegt."
+        ],
+        "469": [
+            2115.98,
+            2118.98,
+            "die Spannung ist ein Spiel,"
+        ],
+        "470": [
+            2118.98,
+            2121.98,
+            "die einzig und allein an der Spannung liegt."
+        ],
+        "471": [
+            2121.98,
+            2124.98,
+            "Jeder schaut alle 2 Minuten aufs Handy."
+        ],
+        "472": [
+            2124.98,
+            2127.98,
+            "Jeder schaut alle 2 Minuten aufs Handy."
+        ],
+        "473": [
+            2139.98,
+            2142.98,
+            "Das war ein klasse Spiel für Gerrero."
+        ],
+        "474": [
+            2142.98,
+            2145.98,
+            "Das war ein klasse Spiel für Gerrero."
+        ],
+        "475": [
+            2145.98,
+            2148.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "476": [
+            2148.98,
+            2151.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "477": [
+            2151.98,
+            2154.98,
+            "Das war das erste Mal,"
+        ],
+        "478": [
+            2154.98,
+            2157.98,
+            "dass er rammen musste."
+        ],
+        "479": [
+            2157.98,
+            2160.98,
+            "30 Jahre alt."
+        ],
+        "480": [
+            2160.98,
+            2163.98,
+            "30 Jahre alt."
+        ],
+        "481": [
+            2163.98,
+            2166.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "482": [
+            2166.98,
+            2169.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "483": [
+            2169.98,
+            2172.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "484": [
+            2172.98,
+            2175.98,
+            "Der Ball ist nicht so gut."
+        ],
+        "485": [
+            2176.98,
+            2179.98,
+            "Das war ein guter Ball."
+        ],
+        "486": [
+            2179.98,
+            2182.98,
+            "Das war ein guter Ball."
+        ],
+        "487": [
+            2187.98,
+            2190.98,
+            "Ein Tor von Leopold Leow."
+        ],
+        "488": [
+            2190.98,
+            2193.98,
+            "Ein Tor von Leopold Leow."
+        ],
+        "489": [
+            2193.98,
+            2196.98,
+            "Die Augsburger schwören Stein und Bein."
+        ],
+        "490": [
+            2196.98,
+            2199.98,
+            "Die Augsburger schwören Stein und Bein."
+        ],
+        "491": [
+            2199.98,
+            2202.98,
+            "Dann wird korrigiert."
+        ],
+        "492": [
+            2202.98,
+            2205.98,
+            "Dann wird korrigiert."
+        ],
+        "493": [
+            2205.98,
+            2208.98,
+            "Dann wird korrigiert."
+        ],
+        "494": [
+            2208.98,
+            2211.98,
+            "Wir sind durch die Zeitgruppe schlauer."
+        ],
+        "495": [
+            2211.98,
+            2214.98,
+            "Wir sind durch die Zeitgruppe schlauer."
+        ],
+        "496": [
+            2214.98,
+            2217.98,
+            "Wir sehen, dass die Augsburger recht haben."
+        ],
+        "497": [
+            2217.98,
+            2220.98,
+            "Wir sehen, dass die Augsburger recht haben."
+        ],
+        "498": [
+            2220.98,
+            2224.98,
+            "Als letzten Williams-Sport Conference im Wishing Memorial."
+        ],
+        "499": [
+            2224.98,
+            2227.98,
+            "Als letzten Willings-Sport Conference im Wishing Memorial."
+        ],
+        "500": [
+            2227.98,
+            2231.98,
+            "Nachwuchs über Eddie Byern."
+        ],
+        "501": [
+            2231.98,
+            2246.96,
+            "So ein kleinen Vorschlag hätte ich für Sie, falls Sie nächste Woche Lust haben, Bayern"
+        ],
+        "502": [
+            2246.96,
+            2250.84,
+            "gegen Freiburg zu gucken und zwar vor Ort im Stadion zur Schalenübergabe."
+        ],
+        "503": [
+            2250.84,
+            2258.64,
+            "Facebook, liken Sie doch den Auftritt von SkySport.de, dann wären ein paar Karten"
+        ],
+        "504": [
+            2258.64,
+            2259.64,
+            "drin."
+        ],
+        "505": [
+            2259.64,
+            2271.76,
+            "Oh oh, schwieriger Ballverlust von Lukas Piszczek."
+        ],
+        "506": [
+            2271.76,
+            2277.6,
+            "Auf Wim Burgason hat es vertindelt."
+        ],
+        "507": [
+            2277.6,
+            2285.96,
+            "Unsauber von Sokratis, aber der Ball kam trotzdem an bei Aubameyang."
+        ],
+        "508": [
+            2285.96,
+            2302.6,
+            "Uiuiui, aus drei Metern ein hochpräziser Fehlpass von Matthias Ginter."
+        ],
+        "509": [
+            2302.6,
+            2303.8,
+            "Augsburg macht nichts draus."
+        ],
+        "510": [
+            2303.8,
+            2318.8,
+            "Hat sehr, sehr viele Spiele gemacht in dieser Saison, Matthias Ginter, sein 28."
+        ],
+        "511": [
+            2318.8,
+            2319.8,
+            "Alleine in der Bundesliga."
+        ],
+        "512": [
+            2319.8,
+            2327.36,
+            "Was aber nicht heißt, dass er eine Riesensaison gespielt hat."
+        ],
+        "513": [
+            2327.36,
+            2329.84,
+            "Immer mal wieder auch so kleine Unsicherheiten."
+        ],
+        "514": [
+            2329.84,
+            2333.92,
+            "Bestenfalls unauffällig."
+        ],
+        "515": [
+            2359.84,
+            2376.44,
+            "Der Befreiungsschlag von Stafelidis."
+        ],
+        "516": [
+            2376.44,
+            2377.44,
+            "Kommt wieder Borussia Dortmund."
+        ],
+        "517": [
+            2377.44,
+            2378.44,
+            "Cargava, Durm."
+        ],
+        "518": [
+            2378.44,
+            2387.6,
+            "Hat mittlerweile eingecheckt in diesem Spiel."
+        ],
+        "519": [
+            2387.6,
+            2391.4,
+            "Den Belay noch abgefälscht."
+        ],
+        "520": [
+            2391.4,
+            2398.12,
+            "Nur so vom Gefühl her, das ist eine kritische Phase für den FC Augsburg."
+        ],
+        "521": [
+            2398.12,
+            2400.44,
+            "Jetzt die Dortmunder werden stärker."
+        ],
+        "522": [
+            2400.44,
+            2414.32,
+            "Matthias Gehoffenheit, kann ich Ihnen sagen, ist im Übrigen nicht gewillt, den Dortmundern"
+        ],
+        "523": [
+            2414.32,
+            2415.32,
+            "irgendwas zu schenken."
+        ],
+        "524": [
+            2415.32,
+            2417.36,
+            "Sie führen mittlerweile recht komfortabel."
+        ],
+        "525": [
+            2417.36,
+            2418.72,
+            "3 zu 0 in Bremen."
+        ],
+        "526": [
+            2430.44,
+            2453.2,
+            "Ginter, Schmelzer, Cargava, Guerreiro."
+        ],
+        "527": [
+            2454.2,
+            2460.2,
+            "Ja, kleiner Schubser von Marco Reus."
+        ],
+        "528": [
+            2460.2,
+            2462.2,
+            "Aber mehr nicht."
+        ],
+        "529": [
+            2484.2,
+            2490.2,
+            "Er hat auch bemerkt, was es bedeutet, Trainer eines Bundesligisten zu sein."
+        ],
+        "530": [
+            2490.2,
+            2495.2,
+            "Manuel Baum ist auf viel Kritik um die Ohren geflogen in der Zeit, als es nicht lief."
+        ],
+        "531": [
+            2495.2,
+            2499.2,
+            "Tiefpunkt sicherlich die Heimniederlage gegen den FC Ingolstadt."
+        ],
+        "532": [
+            2499.2,
+            2503.2,
+            "Unmittelbar nach einem 0 zu 6 beim FC Bayern."
+        ],
+        "533": [
+            2503.2,
+            2507.2,
+            "Da hat die Mannschaft aber auch wirklich nicht gut ausgesehen."
+        ],
+        "534": [
+            2507.2,
+            2509.2,
+            "So wie hier, hinter Enger, Aubameyang."
+        ],
+        "535": [
+            2509.2,
+            2511.2,
+            "Flanke für Reus, der überlässt für Cargava."
+        ],
+        "536": [
+            2512.2,
+            2516.2,
+            "Reklamiert Handspiel, alle reklamieren Handspiel."
+        ],
+        "537": [
+            2522.2,
+            2525.2,
+            "Von hier oben schwer zu beurteilen."
+        ],
+        "538": [
+            2536.2,
+            2537.2,
+            "Reus."
+        ],
+        "539": [
+            2542.2,
+            2545.2,
+            "So, dann Sokrates gegen Finn Burgason."
+        ],
+        "540": [
+            2546.2,
+            2549.2,
+            "Ich glaube, das hat Sokrates sehr clever gemacht."
+        ],
+        "541": [
+            2553.2,
+            2554.2,
+            "Dembélé."
+        ],
+        "542": [
+            2555.2,
+            2558.2,
+            "Augsburger haben sich in der Formation angepasst."
+        ],
+        "543": [
+            2558.2,
+            2559.2,
+            "4-1, 4-1."
+        ],
+        "544": [
+            2560.2,
+            2562.2,
+            "Daniel Bayer als alleiniger Sechser."
+        ],
+        "545": [
+            2562.2,
+            2564.2,
+            "Finn Burgason vorne."
+        ],
+        "546": [
+            2571.2,
+            2574.2,
+            "Luchsaver ist eingentwickelt und ist verstützt."
+        ],
+        "547": [
+            2595.2,
+            2597.2,
+            "Cargava."
+        ],
+        "548": [
+            2601.2,
+            2604.2,
+            "in einer ungewöhnlichen ersten Hälfte."
+        ],
+        "549": [
+            2604.2,
+            2608.7,
+            "Also das hat mit einem, ich sag mal, routinemäßigen Bundesligaspiel nichts zu tun."
+        ],
+        "550": [
+            2610.4,
+            2611.4,
+            "Reus"
+        ],
+        "551": [
+            2615.8,
+            2617.2,
+            "ist nicht wie sonst."
+        ],
+        "552": [
+            2625.2,
+            2626.2,
+            "Alti-Top."
+        ],
+        "553": [
+            2627.0,
+            2628.0,
+            "Kor."
+        ],
+        "554": [
+            2629.0,
+            2635.0,
+            "Bei den Augsburgern spürt man, dass sie im Konter die totale Überzeugung haben, dass"
+        ],
+        "555": [
+            2635.0,
+            2638.0,
+            "sie da ihre Chancen finden und bekommen."
+        ],
+        "556": [
+            2639.0,
+            2643.0,
+            "Hat ja auch ganz gut geklappt in der 28. Minute bei Alfred Finnburgason."
+        ],
+        "557": [
+            2644.0,
+            2647.0,
+            "Dortmund mit viel Spielkontrolle."
+        ],
+        "558": [
+            2648.0,
+            2650.0,
+            "Der Tempowechsel ist das Problem."
+        ],
+        "559": [
+            2650.0,
+            2655.0,
+            "Unterm Strich vergleichsweise wenige Chancen, die sich Borussia Dortmund erspielt hat."
+        ],
+        "560": [
+            2655.0,
+            2660.0,
+            "Sie sind weit entfernt vom Chancenwucher, den sie ansonsten ja ganz gerne mal an den Tag legen."
+        ],
+        "561": [
+            2661.0,
+            2665.0,
+            "Kontrolliertes Spiel, aber in der einen entscheidenden Situation waren sie da."
+        ],
+        "562": [
+            2665.0,
+            2666.0,
+            "32."
+        ],
+        "563": [
+            2666.0,
+            2670.0,
+            "Der schnelle Ausgleich durch Pierre-Emerick-Oma-Méhenghe."
+        ],
+        "564": [
+            2670.0,
+            2671.0,
+            "Jetzt gucken wir hier nochmal drauf."
+        ],
+        "565": [
+            2673.0,
+            2678.0,
+            "Also ja, möglicherweise war die Hand von Raúl Leo da dran."
+        ],
+        "566": [
+            2679.0,
+            2684.0,
+            "Oh, aber ich sage in der Zeitlupe ist es ein Handspiel."
+        ],
+        "567": [
+            2684.0,
+            2688.0,
+            "In der echten Geschwindigkeit kann ich mir nicht vorstellen, dass das eine absichtliche"
+        ],
+        "568": [
+            2688.0,
+            2690.0,
+            "Bewegung sein soll."
+        ],
+        "569": [
+            2690.0,
+            2693.0,
+            "Das geht so schnell, die Distanz ist so kurz."
+        ],
+        "570": [
+            2694.0,
+            2698.0,
+            "Ich vermute, dass das ein klassischer Unterschied ist zwischen realer Geschwindigkeit und der"
+        ],
+        "571": [
+            2698.0,
+            2700.0,
+            "verlangsamten Fassung."
+        ]
+    }
+}

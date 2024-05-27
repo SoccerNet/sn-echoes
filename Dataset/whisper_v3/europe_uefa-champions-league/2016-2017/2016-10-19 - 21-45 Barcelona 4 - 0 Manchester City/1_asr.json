@@ -1,0 +1,494 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            6.54,
+            "There are very few exits without random blocks"
+        ],
+        "1": [
+            30.0,
+            59.98,
+            "Takk for ating mediet."
+        ],
+        "2": [
+            60.0,
+            89.98,
+            "Takk for ating mediet."
+        ],
+        "3": [
+            90.0,
+            119.98,
+            "Takk for ating mediet."
+        ],
+        "4": [
+            120.0,
+            149.98,
+            "Takk for ating mediet."
+        ],
+        "5": [
+            150.0,
+            179.98,
+            "Takk for ating mediet."
+        ],
+        "6": [
+            180.0,
+            209.98,
+            "Takk for ating mediet."
+        ],
+        "7": [
+            210.0,
+            239.98,
+            "Takk for ating mediet."
+        ],
+        "8": [
+            240.0,
+            269.98,
+            "Takk for ating mediet."
+        ],
+        "9": [
+            270.0,
+            299.98,
+            "Takk for ating mediet."
+        ],
+        "10": [
+            300.0,
+            329.98,
+            "Takk for ating mediet."
+        ],
+        "11": [
+            330.0,
+            359.98,
+            "Takk for ating mediet."
+        ],
+        "12": [
+            360.0,
+            389.98,
+            "Takk for ating mediet."
+        ],
+        "13": [
+            390.0,
+            419.98,
+            "Takk for ating mediet."
+        ],
+        "14": [
+            420.0,
+            449.98,
+            "Takk for ating mediet."
+        ],
+        "15": [
+            450.0,
+            451.76,
+            "Takk for ating mediet."
+        ],
+        "16": [
+            451.8,
+            453.0,
+            "Takk for ating mediet."
+        ],
+        "17": [
+            454.0,
+            456.0,
+            "Right on — Withegee, you."
+        ],
+        "18": [
+            456.1,
+            459.0,
+            "Ating mediet."
+        ],
+        "19": [
+            461.0,
+            466.0,
+            "Takk for ating mediet."
+        ],
+        "20": [
+            466.02,
+            468.0,
+            "Thank you."
+        ],
+        "21": [
+            472.0,
+            475.02,
+            "Sak sei shantung."
+        ],
+        "22": [
+            475.92,
+            478.68,
+            "Ating mediet."
+        ],
+        "23": [
+            480.0,
+            509.98,
+            "Stadion Stadion"
+        ],
+        "24": [
+            510.0,
+            539.98,
+            "Stadion Stadion"
+        ],
+        "25": [
+            540.0,
+            569.98,
+            "Stadion Stadion"
+        ],
+        "26": [
+            570.0,
+            599.98,
+            "Stadion Stadion"
+        ],
+        "27": [
+            600.0,
+            629.98,
+            "Stadion Stadion"
+        ],
+        "28": [
+            630.0,
+            659.98,
+            "Stadion Stadion"
+        ],
+        "29": [
+            660.0,
+            689.98,
+            "Stadion Stadion"
+        ],
+        "30": [
+            690.0,
+            719.98,
+            "Stadion Stadion"
+        ],
+        "31": [
+            720.0,
+            749.98,
+            "Stadion Stadion"
+        ],
+        "32": [
+            750.0,
+            779.98,
+            "Stadion Stadion"
+        ],
+        "33": [
+            780.0,
+            809.98,
+            "Stadion Stadion"
+        ],
+        "34": [
+            810.0,
+            839.98,
+            "Stadion Stadion"
+        ],
+        "35": [
+            840.0,
+            869.98,
+            "Stadion Stadion"
+        ],
+        "36": [
+            870.0,
+            899.98,
+            "Stadion Stadion"
+        ],
+        "37": [
+            900.0,
+            929.98,
+            "Stadion Stadion"
+        ],
+        "38": [
+            930.0,
+            959.98,
+            "Stadion Stadion"
+        ],
+        "39": [
+            960.0,
+            989.98,
+            "Stadion Stadion"
+        ],
+        "40": [
+            990.0,
+            1019.98,
+            "Stadion Stadion"
+        ],
+        "41": [
+            1020.0,
+            1049.98,
+            "Stadion Stadion"
+        ],
+        "42": [
+            1050.0,
+            1079.98,
+            "Stadion Stadion"
+        ],
+        "43": [
+            1080.0,
+            1109.98,
+            "Stadion Stadion"
+        ],
+        "44": [
+            1110.0,
+            1139.98,
+            "Stadion Stadion"
+        ],
+        "45": [
+            1140.0,
+            1169.98,
+            "Stadion Stadion"
+        ],
+        "46": [
+            1170.0,
+            1199.98,
+            "Stadion Stadion"
+        ],
+        "47": [
+            1200.0,
+            1229.98,
+            "Stadion Stadion"
+        ],
+        "48": [
+            1230.0,
+            1259.98,
+            "Stadion Stadion"
+        ],
+        "49": [
+            1260.0,
+            1289.98,
+            "Stadion Stadion"
+        ],
+        "50": [
+            1290.0,
+            1319.98,
+            "Stadion Stadion"
+        ],
+        "51": [
+            1320.0,
+            1349.98,
+            "Stadion Stadion Stadion"
+        ],
+        "52": [
+            1350.0,
+            1379.98,
+            "Stadion Stadion Stadion"
+        ],
+        "53": [
+            1380.0,
+            1409.98,
+            "Stadion Stadion Stadion"
+        ],
+        "54": [
+            1410.0,
+            1439.98,
+            "Stadion Stadion Stadion"
+        ],
+        "55": [
+            1440.0,
+            1469.98,
+            "Stadion Stadion Stadion"
+        ],
+        "56": [
+            1470.0,
+            1499.98,
+            "Stadion Stadion Stadion"
+        ],
+        "57": [
+            1500.0,
+            1529.98,
+            "Stadion Stadion Stadion"
+        ],
+        "58": [
+            1530.0,
+            1559.98,
+            "Stadion Stadion Stadion"
+        ],
+        "59": [
+            1560.0,
+            1589.98,
+            "Stadion Stadion Stadion"
+        ],
+        "60": [
+            1590.0,
+            1619.98,
+            "Stadion Stadion Stadion"
+        ],
+        "61": [
+            1620.0,
+            1649.98,
+            "Stadion Stadion Stadion"
+        ],
+        "62": [
+            1650.0,
+            1679.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "63": [
+            1680.0,
+            1709.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "64": [
+            1710.0,
+            1739.98,
+            "Stadion Stadion Stadion"
+        ],
+        "65": [
+            1740.0,
+            1769.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "66": [
+            1770.0,
+            1799.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "67": [
+            1800.0,
+            1829.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "68": [
+            1830.0,
+            1859.98,
+            "Stadion Stadion Stadion Stadion"
+        ],
+        "69": [
+            1860.0,
+            1889.98,
+            "Stadion Stadion Stadion Stadion Stadion"
+        ],
+        "70": [
+            1890.0,
+            1919.98,
+            "Stadion Stadion Stadion Stadion Stadion"
+        ],
+        "71": [
+            1920.0,
+            1949.98,
+            "Stadion Stadion Stadion Stadion Stadion"
+        ],
+        "72": [
+            1950.0,
+            1979.98,
+            "Stadion Stadion Stadion Stadion Stadion"
+        ],
+        "73": [
+            1980.0,
+            2009.98,
+            "Stavros Stavros"
+        ],
+        "74": [
+            2010.0,
+            2039.98,
+            "Stavros Stavros"
+        ],
+        "75": [
+            2040.0,
+            2069.98,
+            "Stavros Stavros"
+        ],
+        "76": [
+            2070.0,
+            2099.98,
+            "Stavros Stavros"
+        ],
+        "77": [
+            2100.0,
+            2129.98,
+            "Stavros Stavros"
+        ],
+        "78": [
+            2130.0,
+            2159.98,
+            "Stavros Stavros"
+        ],
+        "79": [
+            2160.0,
+            2189.98,
+            "Stavros Stavros"
+        ],
+        "80": [
+            2190.0,
+            2219.98,
+            "Stavros Stavros"
+        ],
+        "81": [
+            2220.0,
+            2249.98,
+            "Stavros Stavros"
+        ],
+        "82": [
+            2250.0,
+            2279.98,
+            "Stavros Stavros"
+        ],
+        "83": [
+            2280.0,
+            2309.98,
+            "Stavros Stavros"
+        ],
+        "84": [
+            2310.0,
+            2339.98,
+            "Stavros Stavros"
+        ],
+        "85": [
+            2340.0,
+            2369.98,
+            "Stavros Stavros"
+        ],
+        "86": [
+            2370.0,
+            2399.98,
+            "Stavros Stavros"
+        ],
+        "87": [
+            2400.0,
+            2429.98,
+            "Stavros Stavros"
+        ],
+        "88": [
+            2430.0,
+            2459.98,
+            "Stavros Stavros"
+        ],
+        "89": [
+            2460.0,
+            2489.98,
+            "Stavros Stavros"
+        ],
+        "90": [
+            2490.0,
+            2519.98,
+            "Stavros Stavros"
+        ],
+        "91": [
+            2520.0,
+            2549.98,
+            "Stavros Stavros"
+        ],
+        "92": [
+            2550.0,
+            2579.98,
+            "Stavros Stavros"
+        ],
+        "93": [
+            2580.0,
+            2609.98,
+            "Stavros Stavros"
+        ],
+        "94": [
+            2610.0,
+            2639.98,
+            "Stavros Stavros"
+        ],
+        "95": [
+            2640.0,
+            2669.98,
+            "Stavros Stavros"
+        ],
+        "96": [
+            2670.0,
+            2699.98,
+            "Stavros Stavros"
+        ],
+        "97": [
+            2700.0,
+            2700.02,
+            "Stavros Stavros"
+        ]
+    }
+}

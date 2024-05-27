@@ -1,0 +1,3969 @@
+{
+    "segments": {
+        "0": [
+            120.0,
+            122.0,
+            "C'est la fin de la journée."
+        ],
+        "1": [
+            122.0,
+            124.0,
+            "Je ne peux pas me calmer."
+        ],
+        "2": [
+            124.0,
+            126.0,
+            "Je ne peux pas me calmer."
+        ],
+        "3": [
+            126.0,
+            128.0,
+            "Je ne peux pas me calmer."
+        ],
+        "4": [
+            128.0,
+            130.0,
+            "Je ne peux pas me calmer."
+        ],
+        "5": [
+            130.0,
+            132.0,
+            "Je ne peux pas me calmer."
+        ],
+        "6": [
+            132.0,
+            134.0,
+            "Je ne peux pas me calmer."
+        ],
+        "7": [
+            134.0,
+            136.0,
+            "Je ne peux pas me calmer."
+        ],
+        "8": [
+            136.0,
+            138.0,
+            "Je ne peux pas me calmer."
+        ],
+        "9": [
+            138.0,
+            140.0,
+            "Je ne peux pas me calmer."
+        ],
+        "10": [
+            140.0,
+            142.0,
+            "Je ne peux pas me calmer."
+        ],
+        "11": [
+            142.0,
+            144.0,
+            "Je ne peux pas me calmer."
+        ],
+        "12": [
+            144.0,
+            146.0,
+            "Je ne peux pas me calmer."
+        ],
+        "13": [
+            146.0,
+            148.0,
+            "Je ne peux pas me calmer."
+        ],
+        "14": [
+            148.0,
+            150.0,
+            "Je ne peux pas me calmer."
+        ],
+        "15": [
+            150.0,
+            152.0,
+            "Je ne peux pas me calmer."
+        ],
+        "16": [
+            152.0,
+            154.0,
+            "Je ne peux pas me calmer."
+        ],
+        "17": [
+            154.0,
+            156.0,
+            "Je ne peux pas me calmer."
+        ],
+        "18": [
+            156.0,
+            158.0,
+            "Je ne peux pas me calmer."
+        ],
+        "19": [
+            158.0,
+            160.0,
+            "Je ne peux pas me calmer."
+        ],
+        "20": [
+            160.0,
+            162.0,
+            "Je ne peux pas me calmer."
+        ],
+        "21": [
+            162.0,
+            164.0,
+            "Je ne peux pas me calmer."
+        ],
+        "22": [
+            164.0,
+            166.0,
+            "Je ne peux pas me calmer."
+        ],
+        "23": [
+            166.0,
+            168.0,
+            "Je ne peux pas me calmer."
+        ],
+        "24": [
+            168.0,
+            170.0,
+            "Je ne peux pas me calmer."
+        ],
+        "25": [
+            170.0,
+            172.0,
+            "Je ne peux pas me calmer."
+        ],
+        "26": [
+            172.0,
+            174.0,
+            "Je ne peux pas me calmer."
+        ],
+        "27": [
+            174.0,
+            176.0,
+            "Je ne peux pas me calmer."
+        ],
+        "28": [
+            176.0,
+            178.0,
+            "Je ne peux pas me calmer."
+        ],
+        "29": [
+            178.0,
+            180.0,
+            "Je ne peux pas me calmer."
+        ],
+        "30": [
+            180.0,
+            182.0,
+            "Je ne peux pas me calmer."
+        ],
+        "31": [
+            182.0,
+            184.0,
+            "Je ne peux pas me calmer."
+        ],
+        "32": [
+            184.0,
+            186.0,
+            "Je ne peux pas me calmer."
+        ],
+        "33": [
+            186.0,
+            188.0,
+            "Je ne peux pas me calmer."
+        ],
+        "34": [
+            188.0,
+            190.0,
+            "Je ne peux pas me calmer."
+        ],
+        "35": [
+            190.0,
+            192.0,
+            "Je ne peux pas me calmer."
+        ],
+        "36": [
+            192.0,
+            194.0,
+            "Je ne peux pas me calmer."
+        ],
+        "37": [
+            194.0,
+            196.0,
+            "Je ne peux pas me calmer."
+        ],
+        "38": [
+            196.0,
+            198.0,
+            "Je ne peux pas me calmer."
+        ],
+        "39": [
+            198.0,
+            200.0,
+            "Je ne peux pas me calmer."
+        ],
+        "40": [
+            200.0,
+            202.0,
+            "Je ne peux pas me calmer."
+        ],
+        "41": [
+            202.0,
+            204.0,
+            "Je ne peux pas me calmer."
+        ],
+        "42": [
+            204.0,
+            206.0,
+            "Je ne peux pas me calmer."
+        ],
+        "43": [
+            206.0,
+            208.0,
+            "Je ne peux pas me calmer."
+        ],
+        "44": [
+            208.0,
+            210.0,
+            "Je ne peux pas me calmer."
+        ],
+        "45": [
+            210.0,
+            212.0,
+            "Je ne peux pas me calmer."
+        ],
+        "46": [
+            212.0,
+            214.0,
+            "Je ne peux pas me calmer."
+        ],
+        "47": [
+            214.0,
+            216.0,
+            "Je ne peux pas me calmer."
+        ],
+        "48": [
+            216.0,
+            218.0,
+            "Je ne peux pas me calmer."
+        ],
+        "49": [
+            218.0,
+            220.0,
+            "Je ne peux pas me calmer."
+        ],
+        "50": [
+            220.0,
+            222.0,
+            "Je ne peux pas me calmer."
+        ],
+        "51": [
+            222.0,
+            224.0,
+            "Je ne peux pas me calmer."
+        ],
+        "52": [
+            224.0,
+            226.0,
+            "Je ne peux pas me calmer."
+        ],
+        "53": [
+            226.0,
+            228.0,
+            "Je ne peux pas me calmer."
+        ],
+        "54": [
+            228.0,
+            230.0,
+            "Je ne peux pas me calmer."
+        ],
+        "55": [
+            230.0,
+            232.0,
+            "Je ne peux pas me calmer."
+        ],
+        "56": [
+            232.0,
+            234.0,
+            "Je ne peux pas me calmer."
+        ],
+        "57": [
+            234.0,
+            236.0,
+            "Je ne peux pas me calmer."
+        ],
+        "58": [
+            236.0,
+            238.0,
+            "Je ne peux pas me calmer."
+        ],
+        "59": [
+            238.0,
+            240.0,
+            "Je ne peux pas me calmer."
+        ],
+        "60": [
+            240.0,
+            242.0,
+            "Je ne peux pas me calmer."
+        ],
+        "61": [
+            242.0,
+            244.0,
+            "Je ne peux pas me calmer."
+        ],
+        "62": [
+            244.0,
+            246.0,
+            "Je ne peux pas me calmer."
+        ],
+        "63": [
+            246.0,
+            248.0,
+            "Je ne peux pas me calmer."
+        ],
+        "64": [
+            248.0,
+            250.0,
+            "Je ne peux pas me calmer."
+        ],
+        "65": [
+            250.0,
+            252.0,
+            "Je ne peux pas me calmer."
+        ],
+        "66": [
+            252.0,
+            254.0,
+            "Je ne peux pas me calmer."
+        ],
+        "67": [
+            254.0,
+            256.0,
+            "Je ne peux pas me calmer."
+        ],
+        "68": [
+            256.0,
+            258.0,
+            "Je ne peux pas me calmer."
+        ],
+        "69": [
+            258.0,
+            260.0,
+            "Je ne peux pas me calmer."
+        ],
+        "70": [
+            260.0,
+            262.0,
+            "Je ne peux pas me calmer."
+        ],
+        "71": [
+            262.0,
+            264.0,
+            "Je ne peux pas me calmer."
+        ],
+        "72": [
+            264.0,
+            266.0,
+            "Je ne peux pas me calmer."
+        ],
+        "73": [
+            266.0,
+            268.0,
+            "Je ne peux pas me calmer."
+        ],
+        "74": [
+            268.0,
+            270.0,
+            "Je ne peux pas me calmer."
+        ],
+        "75": [
+            270.0,
+            272.0,
+            "Je ne peux pas me calmer."
+        ],
+        "76": [
+            272.0,
+            274.0,
+            "Je ne peux pas me calmer."
+        ],
+        "77": [
+            274.0,
+            276.0,
+            "Je ne peux pas me calmer."
+        ],
+        "78": [
+            276.0,
+            278.0,
+            "Je ne peux pas me calmer."
+        ],
+        "79": [
+            278.0,
+            280.0,
+            "Je ne peux pas me calmer."
+        ],
+        "80": [
+            280.0,
+            282.0,
+            "Je ne peux pas me calmer."
+        ],
+        "81": [
+            282.0,
+            284.0,
+            "Je ne peux pas me calmer."
+        ],
+        "82": [
+            284.0,
+            286.0,
+            "Je ne peux pas me calmer."
+        ],
+        "83": [
+            286.0,
+            288.0,
+            "Je ne peux pas me calmer."
+        ],
+        "84": [
+            288.0,
+            290.0,
+            "Je ne peux pas me calmer."
+        ],
+        "85": [
+            290.0,
+            292.0,
+            "Je ne peux pas me calmer."
+        ],
+        "86": [
+            292.0,
+            294.0,
+            "Je ne peux pas me calmer."
+        ],
+        "87": [
+            294.0,
+            296.0,
+            "Je ne peux pas me calmer."
+        ],
+        "88": [
+            296.0,
+            298.0,
+            "Je ne peux pas me calmer."
+        ],
+        "89": [
+            298.0,
+            300.0,
+            "Je ne peux pas me calmer."
+        ],
+        "90": [
+            300.0,
+            302.0,
+            "Je ne peux pas me calmer."
+        ],
+        "91": [
+            302.0,
+            304.0,
+            "Je ne peux pas me calmer."
+        ],
+        "92": [
+            304.0,
+            306.0,
+            "Je ne peux pas me calmer."
+        ],
+        "93": [
+            306.0,
+            308.0,
+            "Je ne peux pas me calmer."
+        ],
+        "94": [
+            308.0,
+            310.0,
+            "Je ne peux pas me calmer."
+        ],
+        "95": [
+            310.0,
+            312.0,
+            "Je ne peux pas me calmer."
+        ],
+        "96": [
+            312.0,
+            314.0,
+            "Je ne peux pas me calmer."
+        ],
+        "97": [
+            314.0,
+            316.0,
+            "Je ne peux pas me calmer."
+        ],
+        "98": [
+            316.0,
+            318.0,
+            "Je ne peux pas me calmer."
+        ],
+        "99": [
+            318.0,
+            320.0,
+            "Je ne peux pas me calmer."
+        ],
+        "100": [
+            320.0,
+            322.0,
+            "Je ne peux pas me calmer."
+        ],
+        "101": [
+            322.0,
+            324.0,
+            "Je ne peux pas me calmer."
+        ],
+        "102": [
+            324.0,
+            326.0,
+            "Je ne peux pas me calmer."
+        ],
+        "103": [
+            326.0,
+            328.0,
+            "Je ne peux pas me calmer."
+        ],
+        "104": [
+            328.0,
+            330.0,
+            "Je ne peux pas me calmer."
+        ],
+        "105": [
+            330.0,
+            332.0,
+            "Je ne peux pas me calmer."
+        ],
+        "106": [
+            332.0,
+            334.0,
+            "Je ne peux pas me calmer."
+        ],
+        "107": [
+            334.0,
+            336.0,
+            "Je ne peux pas me calmer."
+        ],
+        "108": [
+            336.0,
+            338.0,
+            "Je ne peux pas me calmer."
+        ],
+        "109": [
+            338.0,
+            340.0,
+            "Je ne peux pas me calmer."
+        ],
+        "110": [
+            340.0,
+            342.0,
+            "Je ne peux pas me calmer."
+        ],
+        "111": [
+            342.0,
+            344.0,
+            "Je ne peux pas me calmer."
+        ],
+        "112": [
+            344.0,
+            346.0,
+            "Je ne peux pas me calmer."
+        ],
+        "113": [
+            346.0,
+            348.0,
+            "Je ne peux pas me calmer."
+        ],
+        "114": [
+            348.0,
+            350.0,
+            "Je ne peux pas me calmer."
+        ],
+        "115": [
+            350.0,
+            352.0,
+            "Je ne peux pas me calmer."
+        ],
+        "116": [
+            352.0,
+            354.0,
+            "Je ne peux pas me calmer."
+        ],
+        "117": [
+            354.0,
+            356.0,
+            "Je ne peux pas me calmer."
+        ],
+        "118": [
+            356.0,
+            358.0,
+            "Je ne peux pas me calmer."
+        ],
+        "119": [
+            358.0,
+            360.0,
+            "Je ne peux pas me calmer."
+        ],
+        "120": [
+            360.0,
+            362.0,
+            "Je ne peux pas me calmer."
+        ],
+        "121": [
+            362.0,
+            364.0,
+            "Je ne peux pas me calmer."
+        ],
+        "122": [
+            364.0,
+            366.0,
+            "Je ne peux pas me calmer."
+        ],
+        "123": [
+            366.0,
+            368.0,
+            "Je ne peux pas me calmer."
+        ],
+        "124": [
+            368.0,
+            370.0,
+            "Je ne peux pas me calmer."
+        ],
+        "125": [
+            370.0,
+            372.0,
+            "Je ne peux pas me calmer."
+        ],
+        "126": [
+            372.0,
+            374.0,
+            "Je ne peux pas me calmer."
+        ],
+        "127": [
+            374.0,
+            376.0,
+            "Je ne peux pas me calmer."
+        ],
+        "128": [
+            376.0,
+            378.0,
+            "Je ne peux pas me calmer."
+        ],
+        "129": [
+            378.0,
+            380.0,
+            "Je ne peux pas me calmer."
+        ],
+        "130": [
+            380.0,
+            382.0,
+            "Je ne peux pas me calmer."
+        ],
+        "131": [
+            382.0,
+            384.0,
+            "Je ne peux pas me calmer."
+        ],
+        "132": [
+            384.0,
+            386.0,
+            "Je ne peux pas me calmer."
+        ],
+        "133": [
+            386.0,
+            388.0,
+            "Je ne peux pas me calmer."
+        ],
+        "134": [
+            388.0,
+            390.0,
+            "Je ne peux pas me calmer."
+        ],
+        "135": [
+            390.0,
+            392.0,
+            "Je ne peux pas me calmer."
+        ],
+        "136": [
+            392.0,
+            394.0,
+            "Je ne peux pas me calmer."
+        ],
+        "137": [
+            394.0,
+            396.0,
+            "Je ne peux pas me calmer."
+        ],
+        "138": [
+            396.0,
+            398.0,
+            "Je ne peux pas me calmer."
+        ],
+        "139": [
+            398.0,
+            400.0,
+            "Je ne peux pas me calmer."
+        ],
+        "140": [
+            400.0,
+            402.0,
+            "Je ne peux pas me calmer."
+        ],
+        "141": [
+            402.0,
+            404.0,
+            "Je ne peux pas me calmer."
+        ],
+        "142": [
+            404.0,
+            406.0,
+            "Je ne peux pas me calmer."
+        ],
+        "143": [
+            406.0,
+            408.0,
+            "Je ne peux pas me calmer."
+        ],
+        "144": [
+            408.0,
+            410.0,
+            "Je ne peux pas me calmer."
+        ],
+        "145": [
+            410.0,
+            412.0,
+            "Je ne peux pas me calmer."
+        ],
+        "146": [
+            412.0,
+            414.0,
+            "Je ne peux pas me calmer."
+        ],
+        "147": [
+            414.0,
+            416.0,
+            "Je ne peux pas me calmer."
+        ],
+        "148": [
+            416.0,
+            418.0,
+            "Je ne peux pas me calmer."
+        ],
+        "149": [
+            418.0,
+            420.0,
+            "Je ne peux pas me calmer."
+        ],
+        "150": [
+            420.0,
+            422.0,
+            "Je ne peux pas me calmer."
+        ],
+        "151": [
+            422.0,
+            424.0,
+            "Je ne peux pas me calmer."
+        ],
+        "152": [
+            424.0,
+            426.0,
+            "Je ne peux pas me calmer."
+        ],
+        "153": [
+            426.0,
+            428.0,
+            "Je ne peux pas me calmer."
+        ],
+        "154": [
+            428.0,
+            430.0,
+            "Je ne peux pas me calmer."
+        ],
+        "155": [
+            430.0,
+            432.0,
+            "Je ne peux pas me calmer."
+        ],
+        "156": [
+            432.0,
+            434.0,
+            "Je ne peux pas me calmer."
+        ],
+        "157": [
+            434.0,
+            436.0,
+            "Je ne peux pas me calmer."
+        ],
+        "158": [
+            436.0,
+            438.0,
+            "Je ne peux pas me calmer."
+        ],
+        "159": [
+            438.0,
+            440.0,
+            "Je ne peux pas me calmer."
+        ],
+        "160": [
+            440.0,
+            442.0,
+            "Je ne peux pas me calmer."
+        ],
+        "161": [
+            442.0,
+            444.0,
+            "Je ne peux pas me calmer."
+        ],
+        "162": [
+            444.0,
+            446.0,
+            "Je ne peux pas me calmer."
+        ],
+        "163": [
+            446.0,
+            448.0,
+            "Je ne peux pas me calmer."
+        ],
+        "164": [
+            448.0,
+            450.0,
+            "Je ne peux pas me calmer."
+        ],
+        "165": [
+            450.0,
+            452.0,
+            "Je ne peux pas me calmer."
+        ],
+        "166": [
+            452.0,
+            454.0,
+            "Je ne peux pas me calmer."
+        ],
+        "167": [
+            454.0,
+            456.0,
+            "Je ne peux pas me calmer."
+        ],
+        "168": [
+            456.0,
+            458.0,
+            "Je ne peux pas me calmer."
+        ],
+        "169": [
+            458.0,
+            460.0,
+            "Je ne peux pas me calmer."
+        ],
+        "170": [
+            460.0,
+            462.0,
+            "Je ne peux pas me calmer."
+        ],
+        "171": [
+            462.0,
+            464.0,
+            "Je ne peux pas me calmer."
+        ],
+        "172": [
+            464.0,
+            466.0,
+            "Je ne peux pas me calmer."
+        ],
+        "173": [
+            466.0,
+            468.0,
+            "Je ne peux pas me calmer."
+        ],
+        "174": [
+            468.0,
+            470.0,
+            "Je ne peux pas me calmer."
+        ],
+        "175": [
+            470.0,
+            472.0,
+            "Je ne peux pas me calmer."
+        ],
+        "176": [
+            472.0,
+            474.0,
+            "Je ne peux pas me calmer."
+        ],
+        "177": [
+            474.0,
+            476.0,
+            "Je ne peux pas me calmer."
+        ],
+        "178": [
+            476.0,
+            478.0,
+            "Je ne peux pas me calmer."
+        ],
+        "179": [
+            478.0,
+            480.0,
+            "Je ne peux pas me calmer."
+        ],
+        "180": [
+            480.0,
+            482.0,
+            "Je ne peux pas me calmer."
+        ],
+        "181": [
+            482.0,
+            484.0,
+            "Je ne peux pas me calmer."
+        ],
+        "182": [
+            484.0,
+            486.0,
+            "Je ne peux pas me calmer."
+        ],
+        "183": [
+            486.0,
+            488.0,
+            "Je ne peux pas me calmer."
+        ],
+        "184": [
+            488.0,
+            490.0,
+            "Je ne peux pas me calmer."
+        ],
+        "185": [
+            490.0,
+            492.0,
+            "Je ne peux pas me calmer."
+        ],
+        "186": [
+            492.0,
+            494.0,
+            "Je ne peux pas me calmer."
+        ],
+        "187": [
+            494.0,
+            496.0,
+            "Je ne peux pas me calmer."
+        ],
+        "188": [
+            496.0,
+            498.0,
+            "Je ne peux pas me calmer."
+        ],
+        "189": [
+            498.0,
+            500.0,
+            "Je ne peux pas me calmer."
+        ],
+        "190": [
+            500.0,
+            502.0,
+            "Je ne peux pas me calmer."
+        ],
+        "191": [
+            502.0,
+            504.0,
+            "Je ne peux pas me calmer."
+        ],
+        "192": [
+            504.0,
+            506.0,
+            "Je ne peux pas me calmer."
+        ],
+        "193": [
+            506.0,
+            508.0,
+            "Je ne peux pas me calmer."
+        ],
+        "194": [
+            508.0,
+            510.0,
+            "Je ne peux pas me calmer."
+        ],
+        "195": [
+            510.0,
+            512.0,
+            "Je ne peux pas me calmer."
+        ],
+        "196": [
+            512.0,
+            514.0,
+            "Je ne peux pas me calmer."
+        ],
+        "197": [
+            514.0,
+            516.0,
+            "Je ne peux pas me calmer."
+        ],
+        "198": [
+            516.0,
+            518.0,
+            "Je ne peux pas me calmer."
+        ],
+        "199": [
+            518.0,
+            520.0,
+            "Je ne peux pas me calmer."
+        ],
+        "200": [
+            520.0,
+            522.0,
+            "Je ne peux pas me calmer."
+        ],
+        "201": [
+            522.0,
+            524.0,
+            "Je ne peux pas me calmer."
+        ],
+        "202": [
+            524.0,
+            526.0,
+            "Je ne peux pas me calmer."
+        ],
+        "203": [
+            526.0,
+            528.0,
+            "Je ne peux pas me calmer."
+        ],
+        "204": [
+            528.0,
+            530.0,
+            "Je ne peux pas me calmer."
+        ],
+        "205": [
+            530.0,
+            532.0,
+            "Je ne peux pas me calmer."
+        ],
+        "206": [
+            532.0,
+            534.0,
+            "Je ne peux pas me calmer."
+        ],
+        "207": [
+            534.0,
+            536.0,
+            "Je ne peux pas me calmer."
+        ],
+        "208": [
+            536.0,
+            538.0,
+            "Je ne peux pas me calmer."
+        ],
+        "209": [
+            538.0,
+            540.0,
+            "Je ne peux pas me calmer."
+        ],
+        "210": [
+            540.0,
+            542.0,
+            "Je ne peux pas me calmer."
+        ],
+        "211": [
+            542.0,
+            544.0,
+            "Je ne peux pas me calmer."
+        ],
+        "212": [
+            544.0,
+            546.0,
+            "Je ne peux pas me calmer."
+        ],
+        "213": [
+            546.0,
+            548.0,
+            "Je ne peux pas me calmer."
+        ],
+        "214": [
+            548.0,
+            550.0,
+            "Je ne peux pas me calmer."
+        ],
+        "215": [
+            550.0,
+            552.0,
+            "Je ne peux pas me calmer."
+        ],
+        "216": [
+            552.0,
+            554.0,
+            "Je ne peux pas me calmer."
+        ],
+        "217": [
+            554.0,
+            556.0,
+            "Je ne peux pas me calmer."
+        ],
+        "218": [
+            556.0,
+            558.0,
+            "Je ne peux pas me calmer."
+        ],
+        "219": [
+            558.0,
+            560.0,
+            "Je ne peux pas me calmer."
+        ],
+        "220": [
+            560.0,
+            562.0,
+            "Je ne peux pas me calmer."
+        ],
+        "221": [
+            562.0,
+            564.0,
+            "Je ne peux pas me calmer."
+        ],
+        "222": [
+            564.0,
+            566.0,
+            "Je ne peux pas me calmer."
+        ],
+        "223": [
+            566.0,
+            568.0,
+            "Je ne peux pas me calmer."
+        ],
+        "224": [
+            568.0,
+            570.0,
+            "Je ne peux pas me calmer."
+        ],
+        "225": [
+            570.0,
+            572.0,
+            "Je ne peux pas me calmer."
+        ],
+        "226": [
+            572.0,
+            574.0,
+            "Je ne peux pas me calmer."
+        ],
+        "227": [
+            574.0,
+            576.0,
+            "Je ne peux pas me calmer."
+        ],
+        "228": [
+            576.0,
+            578.0,
+            "Je ne peux pas me calmer."
+        ],
+        "229": [
+            578.0,
+            580.0,
+            "Je ne peux pas me calmer."
+        ],
+        "230": [
+            580.0,
+            582.0,
+            "Je ne peux pas me calmer."
+        ],
+        "231": [
+            582.0,
+            584.0,
+            "Je ne peux pas me calmer."
+        ],
+        "232": [
+            584.0,
+            586.0,
+            "Je ne peux pas me calmer."
+        ],
+        "233": [
+            586.0,
+            588.0,
+            "Je ne peux pas me calmer."
+        ],
+        "234": [
+            588.0,
+            590.0,
+            "Je ne peux pas me calmer."
+        ],
+        "235": [
+            590.0,
+            592.0,
+            "Je ne peux pas me calmer."
+        ],
+        "236": [
+            592.0,
+            594.0,
+            "Je ne peux pas me calmer."
+        ],
+        "237": [
+            594.0,
+            596.0,
+            "Je ne peux pas me calmer."
+        ],
+        "238": [
+            596.0,
+            598.0,
+            "Je ne peux pas me calmer."
+        ],
+        "239": [
+            598.0,
+            600.0,
+            "Je ne peux pas me calmer."
+        ],
+        "240": [
+            600.0,
+            602.0,
+            "Je ne peux pas me calmer."
+        ],
+        "241": [
+            602.0,
+            604.0,
+            "Je ne peux pas me calmer."
+        ],
+        "242": [
+            604.0,
+            606.0,
+            "Je ne peux pas me calmer."
+        ],
+        "243": [
+            606.0,
+            608.0,
+            "Je ne peux pas me calmer."
+        ],
+        "244": [
+            608.0,
+            610.0,
+            "Je ne peux pas me calmer."
+        ],
+        "245": [
+            610.0,
+            612.0,
+            "Je ne peux pas me calmer."
+        ],
+        "246": [
+            612.0,
+            614.0,
+            "Je ne peux pas me calmer."
+        ],
+        "247": [
+            614.0,
+            616.0,
+            "Je ne peux pas me calmer."
+        ],
+        "248": [
+            616.0,
+            618.0,
+            "Je ne peux pas me calmer."
+        ],
+        "249": [
+            618.0,
+            620.0,
+            "Je ne peux pas me calmer."
+        ],
+        "250": [
+            620.0,
+            622.0,
+            "Je ne peux pas me calmer."
+        ],
+        "251": [
+            622.0,
+            624.0,
+            "Je ne peux pas me calmer."
+        ],
+        "252": [
+            624.0,
+            626.0,
+            "Je ne peux pas me calmer."
+        ],
+        "253": [
+            626.0,
+            628.0,
+            "Je ne peux pas me calmer."
+        ],
+        "254": [
+            628.0,
+            630.0,
+            "Je ne peux pas me calmer."
+        ],
+        "255": [
+            630.0,
+            632.0,
+            "Je ne peux pas me calmer."
+        ],
+        "256": [
+            632.0,
+            634.0,
+            "Je ne peux pas me calmer."
+        ],
+        "257": [
+            634.0,
+            636.0,
+            "Je ne peux pas me calmer."
+        ],
+        "258": [
+            636.0,
+            638.0,
+            "Je ne peux pas me calmer."
+        ],
+        "259": [
+            638.0,
+            640.0,
+            "Je ne peux pas me calmer."
+        ],
+        "260": [
+            640.0,
+            642.0,
+            "Je ne peux pas me calmer."
+        ],
+        "261": [
+            642.0,
+            644.0,
+            "Je ne peux pas me calmer."
+        ],
+        "262": [
+            644.0,
+            646.0,
+            "Je ne peux pas me calmer."
+        ],
+        "263": [
+            646.0,
+            648.0,
+            "Je ne peux pas me calmer."
+        ],
+        "264": [
+            648.0,
+            650.0,
+            "Je ne peux pas me calmer."
+        ],
+        "265": [
+            650.0,
+            652.0,
+            "Je ne peux pas me calmer."
+        ],
+        "266": [
+            652.0,
+            654.0,
+            "Je ne peux pas me calmer."
+        ],
+        "267": [
+            654.0,
+            656.0,
+            "Je ne peux pas me calmer."
+        ],
+        "268": [
+            656.0,
+            658.0,
+            "Je ne peux pas me calmer."
+        ],
+        "269": [
+            658.0,
+            660.0,
+            "Je ne peux pas me calmer."
+        ],
+        "270": [
+            660.0,
+            662.0,
+            "Je ne peux pas me calmer."
+        ],
+        "271": [
+            662.0,
+            664.0,
+            "Je ne peux pas me calmer."
+        ],
+        "272": [
+            664.0,
+            666.0,
+            "Je ne peux pas me calmer."
+        ],
+        "273": [
+            666.0,
+            668.0,
+            "Je ne peux pas me calmer."
+        ],
+        "274": [
+            668.0,
+            670.0,
+            "Je ne peux pas me calmer."
+        ],
+        "275": [
+            670.0,
+            672.0,
+            "Je ne peux pas me calmer."
+        ],
+        "276": [
+            672.0,
+            674.0,
+            "Je ne peux pas me calmer."
+        ],
+        "277": [
+            674.0,
+            676.0,
+            "Je ne peux pas me calmer."
+        ],
+        "278": [
+            676.0,
+            678.0,
+            "Je ne peux pas me calmer."
+        ],
+        "279": [
+            678.0,
+            680.0,
+            "Je ne peux pas me calmer."
+        ],
+        "280": [
+            680.0,
+            682.0,
+            "Je ne peux pas me calmer."
+        ],
+        "281": [
+            682.0,
+            684.0,
+            "Je ne peux pas me calmer."
+        ],
+        "282": [
+            684.0,
+            686.0,
+            "Je ne peux pas me calmer."
+        ],
+        "283": [
+            686.0,
+            688.0,
+            "Je ne peux pas me calmer."
+        ],
+        "284": [
+            688.0,
+            690.0,
+            "Je ne peux pas me calmer."
+        ],
+        "285": [
+            690.0,
+            692.0,
+            "Je ne peux pas me calmer."
+        ],
+        "286": [
+            692.0,
+            694.0,
+            "Je ne peux pas me calmer."
+        ],
+        "287": [
+            694.0,
+            696.0,
+            "Je ne peux pas me calmer."
+        ],
+        "288": [
+            696.0,
+            698.0,
+            "Je ne peux pas me calmer."
+        ],
+        "289": [
+            698.0,
+            700.0,
+            "Je ne peux pas me calmer."
+        ],
+        "290": [
+            700.0,
+            702.0,
+            "Je ne peux pas me calmer."
+        ],
+        "291": [
+            702.0,
+            704.0,
+            "Je ne peux pas me calmer."
+        ],
+        "292": [
+            704.0,
+            706.0,
+            "Je ne peux pas me calmer."
+        ],
+        "293": [
+            706.0,
+            708.0,
+            "Je ne peux pas me calmer."
+        ],
+        "294": [
+            709.0,
+            711.0,
+            "Je compare les siis du groupe 1 à la 3."
+        ],
+        "295": [
+            711.0,
+            732.26,
+            "Moi je compare aussi les"
+        ],
+        "296": [
+            732.26,
+            733.26,
+            "M."
+        ],
+        "297": [
+            733.26,
+            735.26,
+            "Grilllliut du groupe 1 au groupe 1."
+        ],
+        "298": [
+            735.26,
+            737.26,
+            "Je ne compare plus rien entre nous."
+        ],
+        "299": [
+            737.26,
+            767.26,
+            "19. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B3. B"
+        ],
+        "300": [
+            767.26,
+            770.62,
+            "I'm alive"
+        ],
+        "301": [
+            774.78,
+            776.7,
+            ".*"
+        ],
+        "302": [
+            776.7,
+            778.7,
+            "🎵 🎵 🎵"
+        ],
+        "303": [
+            778.7,
+            780.7,
+            "🎵 🎵 🎵"
+        ],
+        "304": [
+            780.7,
+            782.7,
+            "🎵 🎵 🎵"
+        ],
+        "305": [
+            782.7,
+            784.7,
+            "🎵 🎵 🎵"
+        ],
+        "306": [
+            784.7,
+            786.7,
+            "🎵 🎵 🎵"
+        ],
+        "307": [
+            786.7,
+            788.7,
+            "🎵 🎵 🎵"
+        ],
+        "308": [
+            788.7,
+            790.7,
+            "🎵 🎵 🎵"
+        ],
+        "309": [
+            790.7,
+            792.7,
+            "🎵 🎵 🎵"
+        ],
+        "310": [
+            792.7,
+            794.7,
+            "🎵 🎵 🎵"
+        ],
+        "311": [
+            794.7,
+            796.7,
+            "🎵 🎵 🎵"
+        ],
+        "312": [
+            796.7,
+            798.7,
+            "🎵 🎵 🎵"
+        ],
+        "313": [
+            798.7,
+            800.7,
+            "🎵 🎵 🎵"
+        ],
+        "314": [
+            800.7,
+            802.7,
+            "🎵 🎵 🎵"
+        ],
+        "315": [
+            802.7,
+            804.7,
+            "🎵 🎵 🎵"
+        ],
+        "316": [
+            804.7,
+            806.7,
+            "🎵 🎵"
+        ],
+        "317": [
+            806.7,
+            808.7,
+            "🎵 🎵 🎵"
+        ],
+        "318": [
+            808.7,
+            810.7,
+            "🎵 🎵 🎵"
+        ],
+        "319": [
+            810.7,
+            812.7,
+            "🎵 🎵 🎵"
+        ],
+        "320": [
+            812.7,
+            814.7,
+            "🎵 🎵 🎵"
+        ],
+        "321": [
+            814.7,
+            816.7,
+            "🎵 🎵 🎵"
+        ],
+        "322": [
+            816.7,
+            818.7,
+            "🎵 🎵 🎵"
+        ],
+        "323": [
+            818.7,
+            820.7,
+            "🎵 🎵 🎵"
+        ],
+        "324": [
+            820.7,
+            822.7,
+            "🎵 🎵 🎵"
+        ],
+        "325": [
+            822.7,
+            824.7,
+            "🎵 🎵 🎵"
+        ],
+        "326": [
+            824.7,
+            826.7,
+            "🎵 🎵 🎵"
+        ],
+        "327": [
+            826.7,
+            828.7,
+            "🎵 🎵 🎵"
+        ],
+        "328": [
+            828.7,
+            830.7,
+            "🎵 🎵 🎵"
+        ],
+        "329": [
+            830.7,
+            832.7,
+            "🎵 🎵 🎵"
+        ],
+        "330": [
+            832.7,
+            834.7,
+            "🎵 🎵 🎵"
+        ],
+        "331": [
+            834.7,
+            836.7,
+            "🎵 🎵 🎵"
+        ],
+        "332": [
+            836.7,
+            838.7,
+            "🎵 🎵 🎵"
+        ],
+        "333": [
+            838.7,
+            840.7,
+            "🎵 🎵 🎵"
+        ],
+        "334": [
+            840.7,
+            842.7,
+            "🎵 🎵 🎵"
+        ],
+        "335": [
+            842.7,
+            844.7,
+            "🎵 🎵 🎵"
+        ],
+        "336": [
+            844.7,
+            846.7,
+            "🎵 🎵 🎵"
+        ],
+        "337": [
+            846.7,
+            848.7,
+            "🎵 🎵 🎵"
+        ],
+        "338": [
+            848.7,
+            850.7,
+            "🎵 🎵 🎵"
+        ],
+        "339": [
+            850.7,
+            852.7,
+            "🎵 🎵 🎵"
+        ],
+        "340": [
+            852.7,
+            854.7,
+            "🎵 🎵 🎵"
+        ],
+        "341": [
+            854.7,
+            856.7,
+            "🎵 🎵 🎵"
+        ],
+        "342": [
+            856.7,
+            858.7,
+            "🎵 🎵 🎵"
+        ],
+        "343": [
+            858.7,
+            860.7,
+            "🎵 🎵 🎵"
+        ],
+        "344": [
+            860.7,
+            862.7,
+            "🎵🎵 🎵"
+        ],
+        "345": [
+            862.7,
+            864.7,
+            "🎵🎵 🎵"
+        ],
+        "346": [
+            864.7,
+            866.7,
+            "🎵 🎵 🎵"
+        ],
+        "347": [
+            866.7,
+            868.7,
+            "🎵 🎵 🎵"
+        ],
+        "348": [
+            868.7,
+            870.7,
+            "🎵🎵 🎵"
+        ],
+        "349": [
+            870.7,
+            872.7,
+            "🎵🎵 🎵"
+        ],
+        "350": [
+            872.7,
+            886.7,
+            "🎵 🎵 ✨"
+        ],
+        "351": [
+            946.7,
+            948.7,
+            "何方?"
+        ],
+        "352": [
+            948.7,
+            950.7,
+            "何方?"
+        ],
+        "353": [
+            950.7,
+            952.7,
+            "何方?"
+        ],
+        "354": [
+            952.7,
+            954.7,
+            "何方?"
+        ],
+        "355": [
+            954.7,
+            956.7,
+            "何方?"
+        ],
+        "356": [
+            956.7,
+            958.7,
+            "何方?"
+        ],
+        "357": [
+            958.7,
+            960.7,
+            "何方?"
+        ],
+        "358": [
+            960.7,
+            962.7,
+            "何方?"
+        ],
+        "359": [
+            962.7,
+            964.7,
+            "何方?"
+        ],
+        "360": [
+            964.7,
+            966.7,
+            "何方?"
+        ],
+        "361": [
+            966.7,
+            968.7,
+            "何方?"
+        ],
+        "362": [
+            968.7,
+            970.7,
+            "何方?"
+        ],
+        "363": [
+            970.7,
+            972.7,
+            "何方?"
+        ],
+        "364": [
+            972.7,
+            974.7,
+            "何方?"
+        ],
+        "365": [
+            974.7,
+            976.7,
+            "何方?"
+        ],
+        "366": [
+            976.7,
+            978.7,
+            "何方?"
+        ],
+        "367": [
+            978.7,
+            980.7,
+            "何方?"
+        ],
+        "368": [
+            980.7,
+            982.7,
+            "何方?"
+        ],
+        "369": [
+            982.7,
+            984.7,
+            "何方?"
+        ],
+        "370": [
+            984.7,
+            986.7,
+            "何方?"
+        ],
+        "371": [
+            986.7,
+            988.7,
+            "何方?"
+        ],
+        "372": [
+            988.7,
+            990.7,
+            "何方?"
+        ],
+        "373": [
+            990.7,
+            992.7,
+            "何方?"
+        ],
+        "374": [
+            992.7,
+            994.7,
+            "何方?"
+        ],
+        "375": [
+            994.7,
+            996.7,
+            "何方?"
+        ],
+        "376": [
+            996.7,
+            998.7,
+            "何方?"
+        ],
+        "377": [
+            998.7,
+            1000.7,
+            "何方?"
+        ],
+        "378": [
+            1000.7,
+            1002.7,
+            "何方?"
+        ],
+        "379": [
+            1002.7,
+            1004.7,
+            "何方?"
+        ],
+        "380": [
+            1004.7,
+            1006.7,
+            "何方?"
+        ],
+        "381": [
+            1006.7,
+            1008.7,
+            "何方?"
+        ],
+        "382": [
+            1008.7,
+            1010.7,
+            "何方?"
+        ],
+        "383": [
+            1010.7,
+            1012.7,
+            "何方?"
+        ],
+        "384": [
+            1012.7,
+            1014.7,
+            "何方?"
+        ],
+        "385": [
+            1014.7,
+            1016.7,
+            "何方?"
+        ],
+        "386": [
+            1016.7,
+            1018.7,
+            "何方?"
+        ],
+        "387": [
+            1018.7,
+            1020.7,
+            "何方?"
+        ],
+        "388": [
+            1020.7,
+            1022.7,
+            "何方?"
+        ],
+        "389": [
+            1022.7,
+            1024.7,
+            "何方?"
+        ],
+        "390": [
+            1024.7,
+            1026.7,
+            "何方?"
+        ],
+        "391": [
+            1026.7,
+            1028.7,
+            "何方?"
+        ],
+        "392": [
+            1028.7,
+            1030.7,
+            "何方?"
+        ],
+        "393": [
+            1030.7,
+            1032.7,
+            "何方?"
+        ],
+        "394": [
+            1032.7,
+            1034.7,
+            "何方?"
+        ],
+        "395": [
+            1034.7,
+            1036.7,
+            "何方?"
+        ],
+        "396": [
+            1036.7,
+            1038.7,
+            "何方?"
+        ],
+        "397": [
+            1060.7,
+            1062.7,
+            "何方?"
+        ],
+        "398": [
+            1062.7,
+            1064.7,
+            "何方?"
+        ],
+        "399": [
+            1064.7,
+            1066.7,
+            "何方?"
+        ],
+        "400": [
+            1066.7,
+            1068.7,
+            "何方?"
+        ],
+        "401": [
+            1068.7,
+            1070.7,
+            "何方?"
+        ],
+        "402": [
+            1070.7,
+            1072.7,
+            "何方?"
+        ],
+        "403": [
+            1072.7,
+            1074.7,
+            "何方?"
+        ],
+        "404": [
+            1074.7,
+            1076.7,
+            "何方?"
+        ],
+        "405": [
+            1076.7,
+            1078.7,
+            "何方?"
+        ],
+        "406": [
+            1078.7,
+            1080.7,
+            "何方?"
+        ],
+        "407": [
+            1080.7,
+            1082.7,
+            "何方?"
+        ],
+        "408": [
+            1082.7,
+            1084.7,
+            "何方?"
+        ],
+        "409": [
+            1084.7,
+            1086.7,
+            "何方?"
+        ],
+        "410": [
+            1086.7,
+            1088.7,
+            "何方?"
+        ],
+        "411": [
+            1088.7,
+            1090.7,
+            "何方?"
+        ],
+        "412": [
+            1090.7,
+            1092.7,
+            "何方?"
+        ],
+        "413": [
+            1092.7,
+            1094.7,
+            "何方?"
+        ],
+        "414": [
+            1094.7,
+            1096.7,
+            "何方?"
+        ],
+        "415": [
+            1096.7,
+            1098.7,
+            "何方?"
+        ],
+        "416": [
+            1098.7,
+            1100.7,
+            "何方?"
+        ],
+        "417": [
+            1100.7,
+            1102.7,
+            "何方?"
+        ],
+        "418": [
+            1102.7,
+            1104.7,
+            "何方?"
+        ],
+        "419": [
+            1104.7,
+            1106.7,
+            "何方?"
+        ],
+        "420": [
+            1106.7,
+            1108.7,
+            "何方?"
+        ],
+        "421": [
+            1108.7,
+            1110.7,
+            "何方?"
+        ],
+        "422": [
+            1110.7,
+            1112.7,
+            "何方?"
+        ],
+        "423": [
+            1112.7,
+            1114.7,
+            "何方?"
+        ],
+        "424": [
+            1114.7,
+            1116.7,
+            "何方?"
+        ],
+        "425": [
+            1116.7,
+            1118.7,
+            "何方?"
+        ],
+        "426": [
+            1118.7,
+            1120.7,
+            "何方?"
+        ],
+        "427": [
+            1140.7,
+            1142.7,
+            "何方?"
+        ],
+        "428": [
+            1142.7,
+            1144.7,
+            "何方?"
+        ],
+        "429": [
+            1144.7,
+            1149.7,
+            "C'est la fin de la journée."
+        ],
+        "430": [
+            1149.7,
+            1154.7,
+            "C'est la fin de la journée."
+        ],
+        "431": [
+            1154.7,
+            1159.7,
+            "C'est la fin de la journée."
+        ],
+        "432": [
+            1159.7,
+            1164.7,
+            "C'est la fin de la journée."
+        ],
+        "433": [
+            1164.7,
+            1169.7,
+            "C'est la fin de la journée."
+        ],
+        "434": [
+            1169.7,
+            1179.7,
+            "C'est la fin de la journée."
+        ],
+        "435": [
+            1184.7,
+            1195.7,
+            "Quelle journée une journée deserving"
+        ],
+        "436": [
+            1225.7,
+            1255.7,
+            "10.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000.000."
+        ],
+        "437": [
+            1255.7,
+            1270.42,
+            "A�� followers"
+        ],
+        "438": [
+            1285.7,
+            1287.7,
+            "R.I.P."
+        ],
+        "439": [
+            1315.8,
+            1317.7,
+            "cuộcة هني نستって"
+        ],
+        "440": [
+            1319.04,
+            1320.32,
+            "hemfull"
+        ],
+        "441": [
+            1321.62,
+            1323.62,
+            "guy"
+        ],
+        "442": [
+            1326.02,
+            1328.02,
+            "hopi"
+        ],
+        "443": [
+            1328.02,
+            1329.32,
+            "george"
+        ],
+        "444": [
+            1329.32,
+            1331.7,
+            "chyba"
+        ],
+        "445": [
+            1332.24,
+            1334.26,
+            "how"
+        ],
+        "446": [
+            1334.3,
+            1336.3,
+            "road"
+        ],
+        "447": [
+            1336.74,
+            1338.74,
+            "stop"
+        ],
+        "448": [
+            1368.74,
+            1398.74,
+            "Le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le Cordon Bleu, le"
+        ],
+        "449": [
+            1398.74,
+            1401.7,
+            "Coron Bleu, le Cordon Bleu, ileste"
+        ],
+        "450": [
+            1458.74,
+            1464.74,
+            "1997年4月1日 国有鉄道国有鉄道国有鉄道国有鉄道"
+        ],
+        "451": [
+            1465.74,
+            1469.74,
+            "国有鉄道国有鉄道"
+        ],
+        "452": [
+            1470.74,
+            1474.74,
+            "国有鉄道国有鉄道"
+        ],
+        "453": [
+            1475.74,
+            1479.74,
+            "国有鉄道国有鉄道"
+        ],
+        "454": [
+            1480.74,
+            1484.74,
+            "国有鉄道国有鉄道"
+        ],
+        "455": [
+            1484.74,
+            1488.74,
+            "国有鉄道国有鉄道"
+        ],
+        "456": [
+            1489.74,
+            1493.74,
+            "国有鉄道"
+        ],
+        "457": [
+            1494.74,
+            1498.74,
+            "国有鉄道国有鉄道"
+        ],
+        "458": [
+            1499.74,
+            1503.74,
+            "国有鉄道国有鉄道"
+        ],
+        "459": [
+            1504.74,
+            1508.74,
+            "国有鉄道国有鉄道"
+        ],
+        "460": [
+            1509.74,
+            1513.74,
+            "国有鉄道国有鉄道"
+        ],
+        "461": [
+            1514.74,
+            1518.74,
+            "国有鉄道"
+        ],
+        "462": [
+            1519.74,
+            1523.74,
+            "国有鉄道"
+        ],
+        "463": [
+            1524.74,
+            1528.74,
+            "国有鉄道"
+        ],
+        "464": [
+            1529.74,
+            1533.74,
+            "国有鉄道"
+        ],
+        "465": [
+            1534.74,
+            1538.74,
+            "国有鉄道"
+        ],
+        "466": [
+            1539.74,
+            1543.74,
+            "国有鉄道"
+        ],
+        "467": [
+            1544.74,
+            1548.74,
+            "国有鉄道"
+        ],
+        "468": [
+            1549.74,
+            1553.74,
+            "国有鉄道"
+        ],
+        "469": [
+            1554.74,
+            1558.74,
+            "国有鉄道"
+        ],
+        "470": [
+            1559.74,
+            1563.74,
+            "国有特道"
+        ],
+        "471": [
+            1564.74,
+            1570.74,
+            "国有特赦"
+        ],
+        "472": [
+            1600.74,
+            1607.74,
+            "We are the champions of the world"
+        ],
+        "473": [
+            1607.74,
+            1611.74,
+            "We are the champions of the world"
+        ],
+        "474": [
+            1611.74,
+            1615.74,
+            "We are the champions of the world"
+        ],
+        "475": [
+            1615.74,
+            1619.74,
+            "We are the champions of the world"
+        ],
+        "476": [
+            1619.74,
+            1623.74,
+            "We are the champions of the world"
+        ],
+        "477": [
+            1623.74,
+            1627.74,
+            "We are the champions of the world"
+        ],
+        "478": [
+            1627.74,
+            1631.74,
+            "We are the champions of the world"
+        ],
+        "479": [
+            1631.74,
+            1635.74,
+            "We are the champions of the world"
+        ],
+        "480": [
+            1635.74,
+            1639.74,
+            "We are the champions of the world"
+        ],
+        "481": [
+            1639.74,
+            1643.74,
+            "We are the champions of the world"
+        ],
+        "482": [
+            1643.74,
+            1647.74,
+            "We are the champions of the world"
+        ],
+        "483": [
+            1647.74,
+            1651.74,
+            "We are the champions of the world"
+        ],
+        "484": [
+            1651.74,
+            1655.74,
+            "We are the champions of the world"
+        ],
+        "485": [
+            1655.74,
+            1659.74,
+            "We are the champions of the world"
+        ],
+        "486": [
+            1659.74,
+            1663.74,
+            "We are the champions of the world"
+        ],
+        "487": [
+            1685.74,
+            1689.74,
+            "We are the champions of the world"
+        ],
+        "488": [
+            1689.74,
+            1693.74,
+            "We are the champions of the world"
+        ],
+        "489": [
+            1693.74,
+            1697.74,
+            "We are the champions of the world"
+        ],
+        "490": [
+            1697.74,
+            1701.74,
+            "We are the champions of the world"
+        ],
+        "491": [
+            1701.74,
+            1705.74,
+            "We are the champions of the world"
+        ],
+        "492": [
+            1705.74,
+            1709.74,
+            "We are the champions of the world"
+        ],
+        "493": [
+            1709.74,
+            1713.74,
+            "We are the champions of the world"
+        ],
+        "494": [
+            1713.74,
+            1717.74,
+            "We are the champions of the world"
+        ],
+        "495": [
+            1717.74,
+            1721.74,
+            "We are the champions of the world"
+        ],
+        "496": [
+            1721.74,
+            1725.74,
+            "We are the champions of the world"
+        ],
+        "497": [
+            1725.74,
+            1729.74,
+            "We are the champions of the world"
+        ],
+        "498": [
+            1729.74,
+            1733.74,
+            "We are the champions of the world"
+        ],
+        "499": [
+            1733.74,
+            1737.74,
+            "We are the champions of the world"
+        ],
+        "500": [
+            1737.74,
+            1741.74,
+            "We are the champions of the world"
+        ],
+        "501": [
+            1741.74,
+            1745.74,
+            "We are the champions of the world"
+        ],
+        "502": [
+            1745.74,
+            1749.74,
+            "We are the champions of the world"
+        ],
+        "503": [
+            1749.74,
+            1753.74,
+            "We are the champions of the world"
+        ],
+        "504": [
+            1753.74,
+            1757.74,
+            "We are the champions of the world"
+        ],
+        "505": [
+            1757.74,
+            1761.74,
+            "We are the champions of the world"
+        ],
+        "506": [
+            1761.74,
+            1765.74,
+            "We are the champions of the world"
+        ],
+        "507": [
+            1765.74,
+            1769.74,
+            "We are the champions of the world"
+        ],
+        "508": [
+            1769.74,
+            1773.74,
+            "We are the champions of the world"
+        ],
+        "509": [
+            1773.74,
+            1777.74,
+            "We are the champions of the world"
+        ],
+        "510": [
+            1777.74,
+            1781.74,
+            "We are the champions of the world"
+        ],
+        "511": [
+            1781.74,
+            1785.74,
+            "We are the champions of the world"
+        ],
+        "512": [
+            1785.74,
+            1789.74,
+            "We are the champions of the world"
+        ],
+        "513": [
+            1789.74,
+            1793.74,
+            "We are the champions of the world"
+        ],
+        "514": [
+            1793.74,
+            1797.74,
+            "We are the champions of the world"
+        ],
+        "515": [
+            1797.74,
+            1801.74,
+            "We are the champions of the world"
+        ],
+        "516": [
+            1801.74,
+            1805.74,
+            "We are the champions of the world"
+        ],
+        "517": [
+            1805.74,
+            1809.74,
+            "We are the champions of the world"
+        ],
+        "518": [
+            1809.74,
+            1813.74,
+            "We are the champions of the world"
+        ],
+        "519": [
+            1813.74,
+            1817.74,
+            "We are the champions of the world"
+        ],
+        "520": [
+            1817.74,
+            1821.74,
+            "We are the champions of the world"
+        ],
+        "521": [
+            1821.74,
+            1825.74,
+            "We are the champions of the world"
+        ],
+        "522": [
+            1825.74,
+            1829.74,
+            "We are the champions of the world"
+        ],
+        "523": [
+            1829.74,
+            1833.74,
+            "We are the champions of the world"
+        ],
+        "524": [
+            1855.74,
+            1859.74,
+            "We are the champions of the world"
+        ],
+        "525": [
+            1859.74,
+            1863.74,
+            "We are the champions of the world"
+        ],
+        "526": [
+            1863.74,
+            1867.74,
+            "We are the champions of the world"
+        ],
+        "527": [
+            1867.74,
+            1871.74,
+            "We are the champions of the world"
+        ],
+        "528": [
+            1871.74,
+            1875.74,
+            "We are the champions of the world"
+        ],
+        "529": [
+            1875.74,
+            1879.74,
+            "We are the champions of the world"
+        ],
+        "530": [
+            1879.74,
+            1883.74,
+            "We are the champions of the world"
+        ],
+        "531": [
+            1883.74,
+            1887.74,
+            "We are the champions of the world"
+        ],
+        "532": [
+            1887.74,
+            1891.74,
+            "We are the champions of the world"
+        ],
+        "533": [
+            1891.74,
+            1895.74,
+            "We are the champions of the world"
+        ],
+        "534": [
+            1899.74,
+            1903.74,
+            "We are the champions of the world"
+        ],
+        "535": [
+            1903.74,
+            1907.74,
+            "We are the champions of the world"
+        ],
+        "536": [
+            1997.74,
+            2027.74,
+            "当地国家会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议"
+        ],
+        "537": [
+            2027.74,
+            2035.78,
+            "会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会是"
+        ],
+        "538": [
+            2035.78,
+            2042.94,
+            "会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员会议员"
+        ],
+        "539": [
+            2102.94,
+            2132.94,
+            "「」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 」「 �"
+        ],
+        "540": [
+            2132.94,
+            2149.44,
+            "ちょっとつばさっか 日舊合填"
+        ],
+        "541": [
+            2209.44,
+            2211.44,
+            "19."
+        ],
+        "542": [
+            2211.44,
+            2213.44,
+            "R.I.P."
+        ],
+        "543": [
+            2213.44,
+            2215.44,
+            "R.I.P."
+        ],
+        "544": [
+            2215.44,
+            2217.44,
+            "R.I.P."
+        ],
+        "545": [
+            2217.44,
+            2219.44,
+            "R.I.P."
+        ],
+        "546": [
+            2219.44,
+            2221.44,
+            "R.I.P."
+        ],
+        "547": [
+            2221.44,
+            2223.44,
+            "R.I.P."
+        ],
+        "548": [
+            2223.44,
+            2225.44,
+            "R.I.P."
+        ],
+        "549": [
+            2225.44,
+            2227.44,
+            "R.I.P."
+        ],
+        "550": [
+            2227.44,
+            2229.44,
+            "R.I.P."
+        ],
+        "551": [
+            2229.44,
+            2231.44,
+            "R.I.P."
+        ],
+        "552": [
+            2231.44,
+            2233.44,
+            "R.I.P."
+        ],
+        "553": [
+            2233.44,
+            2235.44,
+            "R.I.P."
+        ],
+        "554": [
+            2235.44,
+            2237.44,
+            "R.I.P."
+        ],
+        "555": [
+            2237.44,
+            2239.44,
+            "R.I.P."
+        ],
+        "556": [
+            2239.44,
+            2241.44,
+            "R.I.P."
+        ],
+        "557": [
+            2241.44,
+            2243.44,
+            "R.I.P."
+        ],
+        "558": [
+            2243.44,
+            2245.44,
+            "R.I.P."
+        ],
+        "559": [
+            2245.44,
+            2247.44,
+            "R.I.P."
+        ],
+        "560": [
+            2247.44,
+            2249.44,
+            "R.I.P."
+        ],
+        "561": [
+            2249.44,
+            2251.44,
+            "R.I.P."
+        ],
+        "562": [
+            2251.44,
+            2253.44,
+            "R.I.P."
+        ],
+        "563": [
+            2253.44,
+            2255.44,
+            "R.I.P."
+        ],
+        "564": [
+            2255.44,
+            2257.44,
+            "R.I.P."
+        ],
+        "565": [
+            2257.44,
+            2259.44,
+            "R.I.P."
+        ],
+        "566": [
+            2259.44,
+            2261.44,
+            "R.I.P."
+        ],
+        "567": [
+            2261.44,
+            2263.44,
+            "R.I.P."
+        ],
+        "568": [
+            2263.44,
+            2265.44,
+            "R.I.P."
+        ],
+        "569": [
+            2265.44,
+            2267.44,
+            "R.I.P."
+        ],
+        "570": [
+            2267.44,
+            2269.44,
+            "R.I.P."
+        ],
+        "571": [
+            2269.44,
+            2271.44,
+            "R.I.P."
+        ],
+        "572": [
+            2271.44,
+            2273.44,
+            "R.I.P."
+        ],
+        "573": [
+            2273.44,
+            2275.44,
+            "R.I.P."
+        ],
+        "574": [
+            2275.44,
+            2277.44,
+            "R.I.P."
+        ],
+        "575": [
+            2277.44,
+            2279.44,
+            "R.I.P."
+        ],
+        "576": [
+            2279.44,
+            2281.44,
+            "R.I.P."
+        ],
+        "577": [
+            2281.44,
+            2283.44,
+            "R.I.P."
+        ],
+        "578": [
+            2283.44,
+            2285.44,
+            "R.I.P."
+        ],
+        "579": [
+            2285.44,
+            2287.44,
+            "R.I.P."
+        ],
+        "580": [
+            2287.44,
+            2289.44,
+            "R.I.P."
+        ],
+        "581": [
+            2289.44,
+            2291.44,
+            "R.I.P."
+        ],
+        "582": [
+            2291.44,
+            2293.44,
+            "R.I.P."
+        ],
+        "583": [
+            2293.44,
+            2295.44,
+            "R.I.P."
+        ],
+        "584": [
+            2295.44,
+            2297.44,
+            "R.I.P."
+        ],
+        "585": [
+            2297.44,
+            2299.44,
+            "R.I.P."
+        ],
+        "586": [
+            2299.44,
+            2301.44,
+            "R.I.P."
+        ],
+        "587": [
+            2301.44,
+            2303.44,
+            "R.I.P."
+        ],
+        "588": [
+            2303.44,
+            2305.44,
+            "R.I.P."
+        ],
+        "589": [
+            2305.44,
+            2307.44,
+            "R.I.P."
+        ],
+        "590": [
+            2307.44,
+            2309.44,
+            "R.I.P."
+        ],
+        "591": [
+            2309.44,
+            2311.44,
+            "R.I.P."
+        ],
+        "592": [
+            2311.44,
+            2313.44,
+            "R.I.P."
+        ],
+        "593": [
+            2313.44,
+            2315.44,
+            "R.I.P."
+        ],
+        "594": [
+            2315.44,
+            2317.44,
+            "R.I.P."
+        ],
+        "595": [
+            2317.44,
+            2319.44,
+            "R.I.P."
+        ],
+        "596": [
+            2319.44,
+            2321.44,
+            "R.I.P."
+        ],
+        "597": [
+            2321.44,
+            2323.44,
+            "R.I.P."
+        ],
+        "598": [
+            2323.44,
+            2325.44,
+            "R.I.P."
+        ],
+        "599": [
+            2325.44,
+            2327.44,
+            "R.I.P."
+        ],
+        "600": [
+            2327.44,
+            2329.44,
+            "R.I.P."
+        ],
+        "601": [
+            2329.44,
+            2331.44,
+            "R.I.P."
+        ],
+        "602": [
+            2331.44,
+            2333.44,
+            "R.I.P."
+        ],
+        "603": [
+            2333.44,
+            2335.44,
+            "R.I.P."
+        ],
+        "604": [
+            2335.44,
+            2337.44,
+            "R.I.P."
+        ],
+        "605": [
+            2337.44,
+            2339.44,
+            "R.I.P."
+        ],
+        "606": [
+            2339.44,
+            2341.44,
+            "R.I.P."
+        ],
+        "607": [
+            2341.44,
+            2343.44,
+            "R.I.P."
+        ],
+        "608": [
+            2343.44,
+            2345.44,
+            "R.I.P."
+        ],
+        "609": [
+            2345.44,
+            2347.44,
+            "R.I.P."
+        ],
+        "610": [
+            2347.44,
+            2349.44,
+            "R.I.P."
+        ],
+        "611": [
+            2349.44,
+            2351.44,
+            "R.I.P."
+        ],
+        "612": [
+            2351.44,
+            2353.44,
+            "R.I.P."
+        ],
+        "613": [
+            2353.44,
+            2355.44,
+            "R.I.P."
+        ],
+        "614": [
+            2355.44,
+            2357.44,
+            "R.I.P."
+        ],
+        "615": [
+            2357.44,
+            2359.44,
+            "R.I.P."
+        ],
+        "616": [
+            2359.44,
+            2361.44,
+            "R.I.P."
+        ],
+        "617": [
+            2361.44,
+            2363.44,
+            "R.I.P."
+        ],
+        "618": [
+            2363.44,
+            2365.44,
+            "R.I.P."
+        ],
+        "619": [
+            2365.44,
+            2367.44,
+            "R.I.P."
+        ],
+        "620": [
+            2367.44,
+            2369.44,
+            "R.I.P."
+        ],
+        "621": [
+            2369.44,
+            2371.44,
+            "R.I.P."
+        ],
+        "622": [
+            2371.44,
+            2373.44,
+            "R.I.P."
+        ],
+        "623": [
+            2373.44,
+            2375.44,
+            "R.I.P."
+        ],
+        "624": [
+            2375.44,
+            2377.44,
+            "R.I.P."
+        ],
+        "625": [
+            2377.44,
+            2379.44,
+            "R.I.P."
+        ],
+        "626": [
+            2379.44,
+            2381.44,
+            "R.I.P."
+        ],
+        "627": [
+            2381.44,
+            2383.44,
+            "R.I.P."
+        ],
+        "628": [
+            2383.44,
+            2385.44,
+            "R.I.P."
+        ],
+        "629": [
+            2385.44,
+            2387.44,
+            "R.I.P."
+        ],
+        "630": [
+            2387.44,
+            2389.44,
+            "R.I.P."
+        ],
+        "631": [
+            2389.44,
+            2391.44,
+            "R.I.P."
+        ],
+        "632": [
+            2391.44,
+            2393.44,
+            "R.I.P."
+        ],
+        "633": [
+            2393.44,
+            2395.44,
+            "R.I.P."
+        ],
+        "634": [
+            2395.44,
+            2397.44,
+            "R.I.P."
+        ],
+        "635": [
+            2397.44,
+            2399.44,
+            "R.I.P."
+        ],
+        "636": [
+            2399.44,
+            2401.44,
+            "R.I.P."
+        ],
+        "637": [
+            2401.44,
+            2403.44,
+            "R.I.P."
+        ],
+        "638": [
+            2403.44,
+            2405.44,
+            "R.I.P."
+        ],
+        "639": [
+            2405.44,
+            2407.44,
+            "R.I.P."
+        ],
+        "640": [
+            2407.44,
+            2409.44,
+            "R.I.P."
+        ],
+        "641": [
+            2409.44,
+            2411.44,
+            "R.I.P."
+        ],
+        "642": [
+            2411.44,
+            2413.44,
+            "R.I.P."
+        ],
+        "643": [
+            2413.44,
+            2415.44,
+            "R.I.P."
+        ],
+        "644": [
+            2415.44,
+            2417.44,
+            "R.I.P."
+        ],
+        "645": [
+            2417.44,
+            2419.44,
+            "R.I.P."
+        ],
+        "646": [
+            2419.44,
+            2421.44,
+            "R.I.P."
+        ],
+        "647": [
+            2421.44,
+            2423.44,
+            "R.I.P."
+        ],
+        "648": [
+            2423.44,
+            2425.44,
+            "R.I.P."
+        ],
+        "649": [
+            2425.44,
+            2427.44,
+            "R.I.P."
+        ],
+        "650": [
+            2427.44,
+            2429.44,
+            "R.I.P."
+        ],
+        "651": [
+            2429.44,
+            2431.44,
+            "R.I.P."
+        ],
+        "652": [
+            2431.44,
+            2433.44,
+            "R.I.P."
+        ],
+        "653": [
+            2433.44,
+            2435.44,
+            "R.I.P."
+        ],
+        "654": [
+            2435.44,
+            2437.44,
+            "R.I.P."
+        ],
+        "655": [
+            2437.44,
+            2439.44,
+            "R.I.P."
+        ],
+        "656": [
+            2439.44,
+            2441.44,
+            "R.I.P."
+        ],
+        "657": [
+            2441.44,
+            2443.44,
+            "R.I.P."
+        ],
+        "658": [
+            2443.44,
+            2445.44,
+            "R.I.P."
+        ],
+        "659": [
+            2445.44,
+            2447.44,
+            "R.I.P."
+        ],
+        "660": [
+            2447.44,
+            2449.44,
+            "R.I.P."
+        ],
+        "661": [
+            2449.44,
+            2451.44,
+            "R.I.P."
+        ],
+        "662": [
+            2451.44,
+            2453.44,
+            "R.I.P."
+        ],
+        "663": [
+            2453.44,
+            2455.44,
+            "R.I.P."
+        ],
+        "664": [
+            2455.44,
+            2457.44,
+            "R.I.P."
+        ],
+        "665": [
+            2457.44,
+            2459.44,
+            "R.I.P."
+        ],
+        "666": [
+            2459.44,
+            2461.44,
+            "R.I.P."
+        ],
+        "667": [
+            2461.44,
+            2463.44,
+            "R.I.P."
+        ],
+        "668": [
+            2463.44,
+            2465.44,
+            "R.I.P."
+        ],
+        "669": [
+            2465.44,
+            2467.44,
+            "R.I.P."
+        ],
+        "670": [
+            2467.44,
+            2469.44,
+            "R.I.P."
+        ],
+        "671": [
+            2469.44,
+            2471.44,
+            "R.I.P."
+        ],
+        "672": [
+            2471.44,
+            2473.44,
+            "R.I.P."
+        ],
+        "673": [
+            2473.44,
+            2475.44,
+            "R.I.P."
+        ],
+        "674": [
+            2475.44,
+            2477.44,
+            "R.I.P."
+        ],
+        "675": [
+            2477.44,
+            2479.44,
+            "R.I.P."
+        ],
+        "676": [
+            2479.44,
+            2481.44,
+            "R.I.P."
+        ],
+        "677": [
+            2481.44,
+            2483.44,
+            "R.I.P."
+        ],
+        "678": [
+            2483.44,
+            2485.44,
+            "R.I.P."
+        ],
+        "679": [
+            2485.44,
+            2487.44,
+            "R.I.P."
+        ],
+        "680": [
+            2487.44,
+            2489.44,
+            "R.I.P."
+        ],
+        "681": [
+            2489.44,
+            2491.44,
+            "R.I.P."
+        ],
+        "682": [
+            2491.44,
+            2493.44,
+            "R.I.P."
+        ],
+        "683": [
+            2493.44,
+            2495.44,
+            "R.I.P."
+        ],
+        "684": [
+            2495.44,
+            2497.44,
+            "R.I.P."
+        ],
+        "685": [
+            2497.44,
+            2499.44,
+            "R.I.P."
+        ],
+        "686": [
+            2499.44,
+            2501.44,
+            "R.I.P."
+        ],
+        "687": [
+            2501.44,
+            2503.44,
+            "R.I.P."
+        ],
+        "688": [
+            2503.44,
+            2505.44,
+            "R.I.P."
+        ],
+        "689": [
+            2505.44,
+            2507.44,
+            "R.I.P."
+        ],
+        "690": [
+            2507.44,
+            2509.44,
+            "R.I.P."
+        ],
+        "691": [
+            2509.44,
+            2511.44,
+            "R.I.P."
+        ],
+        "692": [
+            2511.44,
+            2513.44,
+            "R.I.P."
+        ],
+        "693": [
+            2513.44,
+            2515.44,
+            "R.I.P."
+        ],
+        "694": [
+            2515.44,
+            2517.44,
+            "R.I.P."
+        ],
+        "695": [
+            2517.44,
+            2519.44,
+            "R.I.P."
+        ],
+        "696": [
+            2519.44,
+            2521.44,
+            "R.I.P."
+        ],
+        "697": [
+            2521.44,
+            2523.44,
+            "R.I.P."
+        ],
+        "698": [
+            2523.44,
+            2525.44,
+            "R.I.P."
+        ],
+        "699": [
+            2525.44,
+            2527.44,
+            "R.I.P."
+        ],
+        "700": [
+            2527.44,
+            2529.44,
+            "R.I.P."
+        ],
+        "701": [
+            2529.44,
+            2531.44,
+            "R.I.P."
+        ],
+        "702": [
+            2531.44,
+            2533.44,
+            "R.I.P."
+        ],
+        "703": [
+            2533.44,
+            2535.44,
+            "R.I.P."
+        ],
+        "704": [
+            2535.44,
+            2537.44,
+            "R.I.P."
+        ],
+        "705": [
+            2537.44,
+            2539.44,
+            "R.I.P."
+        ],
+        "706": [
+            2539.44,
+            2541.44,
+            "R.I.P."
+        ],
+        "707": [
+            2541.44,
+            2543.44,
+            "R.I.P."
+        ],
+        "708": [
+            2543.44,
+            2545.44,
+            "R.I.P."
+        ],
+        "709": [
+            2545.44,
+            2547.44,
+            "R.I.P."
+        ],
+        "710": [
+            2547.44,
+            2549.44,
+            "R.I.P."
+        ],
+        "711": [
+            2549.44,
+            2551.44,
+            "R.I.P."
+        ],
+        "712": [
+            2551.44,
+            2553.44,
+            "R.I.P."
+        ],
+        "713": [
+            2553.44,
+            2555.44,
+            "R.I.P."
+        ],
+        "714": [
+            2555.44,
+            2557.44,
+            "R.I.P."
+        ],
+        "715": [
+            2557.44,
+            2559.44,
+            "R.I.P."
+        ],
+        "716": [
+            2559.44,
+            2561.44,
+            "R.I.P."
+        ],
+        "717": [
+            2561.44,
+            2563.44,
+            "R.I.P."
+        ],
+        "718": [
+            2563.44,
+            2565.44,
+            "R.I.P."
+        ],
+        "719": [
+            2565.44,
+            2567.44,
+            "R.I.P."
+        ],
+        "720": [
+            2567.44,
+            2569.44,
+            "R.I.P."
+        ],
+        "721": [
+            2569.44,
+            2571.44,
+            "R.I.P."
+        ],
+        "722": [
+            2571.44,
+            2573.44,
+            "R.I.P."
+        ],
+        "723": [
+            2573.44,
+            2575.44,
+            "R.I.P."
+        ],
+        "724": [
+            2575.44,
+            2577.44,
+            "R.I.P."
+        ],
+        "725": [
+            2577.44,
+            2579.44,
+            "R.I.P."
+        ],
+        "726": [
+            2579.44,
+            2581.44,
+            "R.I.P."
+        ],
+        "727": [
+            2581.44,
+            2583.44,
+            "R.I.P."
+        ],
+        "728": [
+            2583.44,
+            2585.44,
+            "R.I.P."
+        ],
+        "729": [
+            2585.44,
+            2587.44,
+            "R.I.P."
+        ],
+        "730": [
+            2587.44,
+            2589.44,
+            "R.I.P."
+        ],
+        "731": [
+            2589.44,
+            2591.44,
+            "R.I.P."
+        ],
+        "732": [
+            2591.44,
+            2593.44,
+            "R.I.P."
+        ],
+        "733": [
+            2593.44,
+            2595.44,
+            "R.I.P."
+        ],
+        "734": [
+            2595.44,
+            2597.44,
+            "R.I.P."
+        ],
+        "735": [
+            2597.44,
+            2599.44,
+            "R.I.P."
+        ],
+        "736": [
+            2599.44,
+            2601.44,
+            "R.I.P."
+        ],
+        "737": [
+            2601.44,
+            2603.44,
+            "R.I.P."
+        ],
+        "738": [
+            2603.44,
+            2605.44,
+            "R.I.P."
+        ],
+        "739": [
+            2605.44,
+            2607.44,
+            "R.I.P."
+        ],
+        "740": [
+            2607.44,
+            2609.44,
+            "R.I.P."
+        ],
+        "741": [
+            2609.44,
+            2611.44,
+            "R.I.P."
+        ],
+        "742": [
+            2611.44,
+            2613.44,
+            "R.I.P."
+        ],
+        "743": [
+            2613.44,
+            2615.44,
+            "R.I.P."
+        ],
+        "744": [
+            2615.44,
+            2617.44,
+            "R.I.P."
+        ],
+        "745": [
+            2617.44,
+            2619.44,
+            "R.I.P."
+        ],
+        "746": [
+            2619.44,
+            2621.44,
+            "R.I.P."
+        ],
+        "747": [
+            2621.44,
+            2623.44,
+            "R.I.P."
+        ],
+        "748": [
+            2623.44,
+            2625.44,
+            "R.I.P."
+        ],
+        "749": [
+            2625.44,
+            2627.44,
+            "R.I.P."
+        ],
+        "750": [
+            2627.44,
+            2629.44,
+            "R.I.P."
+        ],
+        "751": [
+            2629.44,
+            2631.44,
+            "R.I.P."
+        ],
+        "752": [
+            2631.44,
+            2633.44,
+            "R.I.P."
+        ],
+        "753": [
+            2633.44,
+            2635.44,
+            "R.I.P."
+        ],
+        "754": [
+            2635.44,
+            2637.44,
+            "R.I.P."
+        ],
+        "755": [
+            2637.44,
+            2639.44,
+            "R.I.P."
+        ],
+        "756": [
+            2639.44,
+            2641.44,
+            "R.I.P."
+        ],
+        "757": [
+            2641.44,
+            2643.44,
+            "R.I.P."
+        ],
+        "758": [
+            2643.44,
+            2645.44,
+            "R.I.P."
+        ],
+        "759": [
+            2645.44,
+            2647.44,
+            "R.I.P."
+        ],
+        "760": [
+            2647.44,
+            2649.44,
+            "R.I.P."
+        ],
+        "761": [
+            2649.44,
+            2651.44,
+            "R.I.P."
+        ],
+        "762": [
+            2651.44,
+            2653.44,
+            "R.I.P."
+        ],
+        "763": [
+            2653.44,
+            2655.44,
+            "R.I.P."
+        ],
+        "764": [
+            2655.44,
+            2657.44,
+            "R.I.P."
+        ],
+        "765": [
+            2657.44,
+            2659.44,
+            "R.I.P."
+        ],
+        "766": [
+            2659.44,
+            2661.44,
+            "R.I.P."
+        ],
+        "767": [
+            2661.44,
+            2663.44,
+            "R.I.P."
+        ],
+        "768": [
+            2663.44,
+            2665.44,
+            "R.I.P."
+        ],
+        "769": [
+            2665.44,
+            2667.44,
+            "R.I.P."
+        ],
+        "770": [
+            2667.44,
+            2669.44,
+            "R.I.P."
+        ],
+        "771": [
+            2669.44,
+            2671.44,
+            "R.I.P."
+        ],
+        "772": [
+            2671.44,
+            2673.44,
+            "R.I.P."
+        ],
+        "773": [
+            2673.44,
+            2675.44,
+            "R.I.P."
+        ],
+        "774": [
+            2675.44,
+            2677.44,
+            "R.I.P."
+        ],
+        "775": [
+            2677.44,
+            2679.44,
+            "R.I.P."
+        ],
+        "776": [
+            2679.44,
+            2681.44,
+            "R.I.P."
+        ],
+        "777": [
+            2681.44,
+            2683.44,
+            "R.I.P."
+        ],
+        "778": [
+            2683.44,
+            2685.44,
+            "R.I.P."
+        ],
+        "779": [
+            2685.44,
+            2687.44,
+            "R.I.P."
+        ],
+        "780": [
+            2687.44,
+            2689.44,
+            "R.I.P."
+        ],
+        "781": [
+            2689.44,
+            2691.44,
+            "R.I.P."
+        ],
+        "782": [
+            2691.44,
+            2693.44,
+            "R.I.P."
+        ],
+        "783": [
+            2693.44,
+            2695.44,
+            "R.I.P."
+        ],
+        "784": [
+            2695.44,
+            2697.44,
+            "R.I.P."
+        ],
+        "785": [
+            2697.44,
+            2699.44,
+            "R.I.P."
+        ],
+        "786": [
+            2699.44,
+            2701.44,
+            "R.I.P."
+        ],
+        "787": [
+            2701.44,
+            2703.44,
+            "R.I.P."
+        ],
+        "788": [
+            2703.44,
+            2705.44,
+            "R.I.P."
+        ],
+        "789": [
+            2705.44,
+            2707.44,
+            "R.I.P."
+        ],
+        "790": [
+            2707.44,
+            2709.44,
+            "R.I.P."
+        ],
+        "791": [
+            2709.44,
+            2711.44,
+            "R.I.P."
+        ],
+        "792": [
+            2711.44,
+            2713.44,
+            "R.I.P."
+        ]
+    }
+}

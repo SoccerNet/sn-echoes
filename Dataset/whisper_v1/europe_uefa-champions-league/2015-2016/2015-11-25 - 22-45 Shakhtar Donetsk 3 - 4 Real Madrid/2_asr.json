@@ -1,0 +1,679 @@
+{
+    "segments": {
+        "0": [
+            30.0,
+            32.0,
+            "Salimos, salimos."
+        ],
+        "1": [
+            60.0,
+            62.0,
+            "Salimos, salimos."
+        ],
+        "2": [
+            90.0,
+            92.0,
+            "Salimos, salimos."
+        ],
+        "3": [
+            120.0,
+            122.0,
+            "¡Vamos! ¡Vamos!"
+        ],
+        "4": [
+            150.0,
+            154.0,
+            "¡Atención! ¡Atención!"
+        ],
+        "5": [
+            180.0,
+            182.0,
+            "¡Salimos! ¡Salimos!"
+        ],
+        "6": [
+            201.0,
+            204.0,
+            "¡Atención! ¡Atención!"
+        ],
+        "7": [
+            210.0,
+            225.0,
+            "Quintana Roo"
+        ],
+        "8": [
+            240.0,
+            262.0,
+            "СПОКОЙНАЯ МУЗЫКА"
+        ],
+        "9": [
+            262.0,
+            269.0,
+            "ГОЛОСА В ЗАЛЕ"
+        ],
+        "10": [
+            269.0,
+            279.0,
+            "ГОЛОСА В ЗАЛЕ"
+        ],
+        "11": [
+            299.0,
+            309.0,
+            "ГОЛОСА В ЗАЛЕ"
+        ],
+        "12": [
+            329.0,
+            339.0,
+            "ГОЛОСА В ЗАЛЕ"
+        ],
+        "13": [
+            339.0,
+            349.0,
+            "ГОЛОСА В ЗАЛЕ"
+        ],
+        "14": [
+            349.0,
+            359.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "15": [
+            359.0,
+            369.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "16": [
+            369.0,
+            389.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "17": [
+            389.0,
+            399.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "18": [
+            399.0,
+            409.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "19": [
+            409.0,
+            429.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "20": [
+            429.0,
+            449.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "21": [
+            449.0,
+            469.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "22": [
+            469.0,
+            489.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "23": [
+            489.0,
+            509.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "24": [
+            509.0,
+            529.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "25": [
+            529.0,
+            549.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "26": [
+            549.0,
+            569.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "27": [
+            569.0,
+            589.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "28": [
+            589.0,
+            609.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "29": [
+            609.0,
+            629.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "30": [
+            629.0,
+            649.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "31": [
+            649.0,
+            669.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "32": [
+            669.0,
+            689.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "33": [
+            689.0,
+            709.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "34": [
+            709.0,
+            729.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "35": [
+            729.0,
+            749.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "36": [
+            749.0,
+            769.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "37": [
+            769.0,
+            789.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "38": [
+            789.0,
+            809.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "39": [
+            809.0,
+            829.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "40": [
+            829.0,
+            849.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "41": [
+            849.0,
+            869.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "42": [
+            869.0,
+            889.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "43": [
+            889.0,
+            909.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "44": [
+            909.0,
+            929.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "45": [
+            929.0,
+            949.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "46": [
+            949.0,
+            969.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "47": [
+            969.0,
+            989.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "48": [
+            989.0,
+            1009.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "49": [
+            1009.0,
+            1029.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "50": [
+            1029.0,
+            1049.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "51": [
+            1049.0,
+            1069.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "52": [
+            1069.0,
+            1089.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "53": [
+            1089.0,
+            1109.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "54": [
+            1109.0,
+            1129.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "55": [
+            1129.0,
+            1149.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "56": [
+            1149.0,
+            1169.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "57": [
+            1169.0,
+            1189.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "58": [
+            1189.0,
+            1209.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "59": [
+            1209.0,
+            1229.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "60": [
+            1229.0,
+            1249.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "61": [
+            1249.0,
+            1269.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "62": [
+            1269.0,
+            1289.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "63": [
+            1289.0,
+            1309.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "64": [
+            1309.0,
+            1329.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "65": [
+            1329.0,
+            1349.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "66": [
+            1349.0,
+            1369.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "67": [
+            1369.0,
+            1389.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "68": [
+            1389.0,
+            1409.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "69": [
+            1409.0,
+            1429.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "70": [
+            1429.0,
+            1449.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "71": [
+            1449.0,
+            1469.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "72": [
+            1469.0,
+            1489.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "73": [
+            1489.0,
+            1509.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "74": [
+            1509.0,
+            1529.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "75": [
+            1529.0,
+            1549.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "76": [
+            1549.0,
+            1569.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "77": [
+            1569.0,
+            1589.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "78": [
+            1589.0,
+            1609.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "79": [
+            1609.0,
+            1629.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "80": [
+            1629.0,
+            1649.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "81": [
+            1649.0,
+            1659.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "82": [
+            1659.0,
+            1679.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "83": [
+            1679.0,
+            1699.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "84": [
+            1699.0,
+            1719.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "85": [
+            1719.0,
+            1739.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "86": [
+            1739.0,
+            1759.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "87": [
+            1759.0,
+            1779.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "88": [
+            1779.0,
+            1799.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "89": [
+            1799.0,
+            1819.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "90": [
+            1819.0,
+            1839.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "91": [
+            1839.0,
+            1859.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "92": [
+            1859.0,
+            1879.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "93": [
+            1879.0,
+            1899.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "94": [
+            1899.0,
+            1919.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "95": [
+            1919.0,
+            1939.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "96": [
+            1939.0,
+            1959.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "97": [
+            1959.0,
+            1979.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "98": [
+            1979.0,
+            1999.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "99": [
+            1999.0,
+            2019.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "100": [
+            2019.0,
+            2039.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "101": [
+            2039.0,
+            2059.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "102": [
+            2059.0,
+            2079.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "103": [
+            2079.0,
+            2099.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "104": [
+            2099.0,
+            2119.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "105": [
+            2119.0,
+            2139.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "106": [
+            2139.0,
+            2159.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "107": [
+            2159.0,
+            2179.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "108": [
+            2179.0,
+            2199.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "109": [
+            2199.0,
+            2219.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "110": [
+            2219.0,
+            2239.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "111": [
+            2239.0,
+            2259.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "112": [
+            2259.0,
+            2279.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "113": [
+            2279.0,
+            2299.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "114": [
+            2299.0,
+            2319.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "115": [
+            2319.0,
+            2339.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "116": [
+            2339.0,
+            2349.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "117": [
+            2349.0,
+            2369.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "118": [
+            2369.0,
+            2389.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "119": [
+            2389.0,
+            2409.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "120": [
+            2409.0,
+            2419.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "121": [
+            2419.0,
+            2439.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "122": [
+            2439.0,
+            2459.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "123": [
+            2459.0,
+            2479.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "124": [
+            2479.0,
+            2499.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "125": [
+            2499.0,
+            2519.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "126": [
+            2519.0,
+            2539.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "127": [
+            2539.0,
+            2559.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "128": [
+            2559.0,
+            2579.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "129": [
+            2579.0,
+            2599.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "130": [
+            2599.0,
+            2619.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "131": [
+            2619.0,
+            2639.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "132": [
+            2639.0,
+            2659.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "133": [
+            2659.0,
+            2679.0,
+            "GOLOSAS EN EL VÍDEO"
+        ],
+        "134": [
+            2679.0,
+            2699.0,
+            "GOLOSAS EN EL VÍDEO"
+        ]
+    }
+}

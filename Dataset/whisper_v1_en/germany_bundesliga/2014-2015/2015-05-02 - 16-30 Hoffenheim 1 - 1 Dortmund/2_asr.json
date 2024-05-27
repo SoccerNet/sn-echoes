@@ -1,0 +1,2829 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            2.0,
+            "The team is in the first half."
+        ],
+        "1": [
+            2.98,
+            5.0,
+            "The team is in the first half."
+        ],
+        "2": [
+            5.98,
+            8.0,
+            "The team is in the first half."
+        ],
+        "3": [
+            8.98,
+            11.0,
+            "The team is in the first half."
+        ],
+        "4": [
+            11.98,
+            14.0,
+            "The team is in the first half."
+        ],
+        "5": [
+            14.98,
+            17.0,
+            "The team is in the first half."
+        ],
+        "6": [
+            17.98,
+            20.0,
+            "The team is in the first half."
+        ],
+        "7": [
+            20.98,
+            23.0,
+            "The team is in the first half."
+        ],
+        "8": [
+            23.98,
+            26.0,
+            "The team is in the first half."
+        ],
+        "9": [
+            26.98,
+            29.0,
+            "The team is in the first half."
+        ],
+        "10": [
+            30.0,
+            32.02,
+            "The team is in the first half."
+        ],
+        "11": [
+            33.0,
+            35.02,
+            "The team is in the first half."
+        ],
+        "12": [
+            37.02,
+            39.019999999999996,
+            "Kevin Volland."
+        ],
+        "13": [
+            41.0,
+            43.0,
+            "A strong left foot."
+        ],
+        "14": [
+            44.019999999999996,
+            46.019999999999996,
+            "That was unpleasant for Lengerek."
+        ],
+        "15": [
+            47.019999999999996,
+            49.019999999999996,
+            "He could see him at the latest."
+        ],
+        "16": [
+            60.02,
+            62.02,
+            "That was a very good opportunity."
+        ],
+        "17": [
+            64.02,
+            66.02,
+            "That was a very good opportunity."
+        ],
+        "18": [
+            73.02,
+            76.02,
+            "This also applies to international competition."
+        ],
+        "19": [
+            77.02,
+            79.02,
+            "Both are extremely sought after."
+        ],
+        "20": [
+            79.03999999999999,
+            81.03999999999999,
+            "That was a good opportunity."
+        ],
+        "21": [
+            83.03999999999999,
+            85.03999999999999,
+            "That was a good opportunity."
+        ],
+        "22": [
+            86.03999999999999,
+            88.03999999999999,
+            "That was a good opportunity."
+        ],
+        "23": [
+            90.03999999999999,
+            92.03999999999999,
+            "I thought at first,"
+        ],
+        "24": [
+            93.03999999999999,
+            96.03999999999999,
+            "that it was Abraham with the Gündogan passport."
+        ],
+        "25": [
+            97.03999999999999,
+            99.03999999999999,
+            "But that wasn't offside."
+        ],
+        "26": [
+            100.03999999999999,
+            102.03999999999999,
+            "Abraham picked it up."
+        ],
+        "27": [
+            103.03999999999999,
+            105.03999999999999,
+            "And here it was perhaps still irritated."
+        ],
+        "28": [
+            106.03999999999999,
+            108.03999999999999,
+            "But he can do that."
+        ],
+        "29": [
+            109.03999999999999,
+            111.03999999999999,
+            "But he can do that."
+        ],
+        "30": [
+            113.03999999999999,
+            115.03999999999999,
+            "That was a great opportunity."
+        ],
+        "31": [
+            116.03999999999999,
+            118.03999999999999,
+            "A great passing game from Lengerek."
+        ],
+        "32": [
+            121.03999999999999,
+            123.03999999999999,
+            "He crossed it from Lengerek."
+        ],
+        "33": [
+            124.03999999999999,
+            126.03999999999999,
+            "That was a great opportunity."
+        ],
+        "34": [
+            128.04,
+            131.04,
+            "Now it's the second yellow card in this game."
+        ],
+        "35": [
+            132.04,
+            134.04,
+            "Against Sebastian Kehl."
+        ],
+        "36": [
+            134.06,
+            136.06,
+            "That was a great opportunity."
+        ],
+        "37": [
+            138.06,
+            140.06,
+            "That was a great opportunity."
+        ],
+        "38": [
+            144.06,
+            146.06,
+            "You can show a yellow card."
+        ],
+        "39": [
+            148.06,
+            150.06,
+            "For the 35 year old,"
+        ],
+        "40": [
+            151.06,
+            153.06,
+            "the one in four games"
+        ],
+        "41": [
+            154.06,
+            156.06,
+            "will end his career at BVB."
+        ],
+        "42": [
+            164.06,
+            166.06,
+            "That was a great opportunity."
+        ],
+        "43": [
+            168.06,
+            170.06,
+            "That was a great opportunity."
+        ],
+        "44": [
+            171.06,
+            173.06,
+            "That was a great opportunity."
+        ],
+        "45": [
+            176.06,
+            180.06,
+            " Witz has the last duels in the first round."
+        ],
+        "46": [
+            181.06,
+            183.06,
+            "Especially in aerial duels."
+        ],
+        "47": [
+            184.06,
+            186.06,
+            "It's not that unimportant this afternoon."
+        ],
+        "48": [
+            187.06,
+            189.06,
+            "100% won duels."
+        ],
+        "49": [
+            189.08,
+            191.08,
+            "That was a great opportunity."
+        ],
+        "50": [
+            193.08,
+            195.08,
+            "That was a great opportunity."
+        ],
+        "51": [
+            197.08,
+            199.08,
+            "In the lower spine."
+        ],
+        "52": [
+            201.08,
+            204.08,
+            "A lot of injuries this season."
+        ],
+        "53": [
+            207.08,
+            210.08,
+            "Thigh hardness, pelvis, tilted position."
+        ],
+        "54": [
+            211.08,
+            213.08,
+            "Here's the duel with Modest."
+        ],
+        "55": [
+            215.08,
+            218.08,
+            "Maybe the Modest will hit the studs too."
+        ],
+        "56": [
+            219.08,
+            221.08,
+            "That was a great opportunity."
+        ],
+        "57": [
+            223.08,
+            225.08,
+            "The reservists are prepared."
+        ],
+        "58": [
+            227.08,
+            229.08,
+            "They run from right to left."
+        ],
+        "59": [
+            231.08,
+            233.08,
+            "These are the hopes for the goal."
+        ],
+        "60": [
+            235.08,
+            237.08,
+            "The left-backs."
+        ],
+        "61": [
+            238.08,
+            240.08,
+            "Leni Musi."
+        ],
+        "62": [
+            241.08,
+            243.08,
+            "Zuber."
+        ],
+        "63": [
+            245.08,
+            247.08,
+            "Amiri."
+        ],
+        "64": [
+            249.08,
+            251.08,
+            "That was a great opportunity."
+        ],
+        "65": [
+            253.08,
+            255.08,
+            "That was a great opportunity."
+        ],
+        "66": [
+            268.08,
+            271.08,
+            "Borussia Dortmund's substitution players."
+        ],
+        "67": [
+            273.08,
+            275.08,
+            "Kampel is traveling dangerously."
+        ],
+        "68": [
+            275.09999999999997,
+            277.09999999999997,
+            "It was a good opportunity."
+        ],
+        "69": [
+            281.09999999999997,
+            283.09999999999997,
+            "Immobile for the attack."
+        ],
+        "70": [
+            285.09999999999997,
+            287.09999999999997,
+            "Piszczek."
+        ],
+        "71": [
+            288.09999999999997,
+            290.09999999999997,
+            "A right-back option."
+        ],
+        "72": [
+            294.09999999999997,
+            296.09999999999997,
+            "That was a good opportunity."
+        ],
+        "73": [
+            299.09999999999997,
+            302.09999999999997,
+            " Kampel switched sides with Mkhitaryan."
+        ],
+        "74": [
+            302.12,
+            304.12,
+            "That was a good opportunity."
+        ],
+        "75": [
+            306.12,
+            308.12,
+            "That was a good opportunity."
+        ],
+        "76": [
+            308.14,
+            310.14,
+            "That was a good opportunity."
+        ],
+        "77": [
+            312.14,
+            314.14,
+            "That was a good opportunity."
+        ],
+        "78": [
+            329.14,
+            331.14,
+            "Modest."
+        ],
+        "79": [
+            332.14,
+            334.14,
+            "Volland."
+        ],
+        "80": [
+            338.14,
+            340.14,
+            "That was a good opportunity."
+        ],
+        "81": [
+            342.14,
+            344.14,
+            "That was a good opportunity."
+        ],
+        "82": [
+            350.14,
+            352.14,
+            "That was difficult for Obermeier."
+        ],
+        "83": [
+            355.14,
+            359.14,
+            "The national player has scored nine times in the national games."
+        ],
+        "84": [
+            364.14,
+            366.14,
+            "That was the foul play against the back."
+        ],
+        "85": [
+            368.14,
+            370.14,
+            "That was a good opportunity."
+        ],
+        "86": [
+            372.14,
+            374.14,
+            "Modest again."
+        ],
+        "87": [
+            398.14,
+            400.14,
+            "That was a good opportunity."
+        ],
+        "88": [
+            402.14,
+            404.14,
+            "That was a good opportunity."
+        ],
+        "89": [
+            410.14,
+            412.14,
+            " Tolyan."
+        ],
+        "90": [
+            415.14,
+            417.14,
+            "Volland."
+        ],
+        "91": [
+            418.14,
+            420.14,
+            "Kampel."
+        ],
+        "92": [
+            422.14,
+            424.14,
+            "Past Polanski."
+        ],
+        "93": [
+            428.14,
+            430.14,
+            "That was a good opportunity."
+        ],
+        "94": [
+            432.14,
+            434.14,
+            "That was a good opportunity."
+        ],
+        "95": [
+            436.14,
+            438.14,
+            " Kampel meets Mkhitaryan."
+        ],
+        "96": [
+            440.14,
+            442.14,
+            "He played the ball before."
+        ],
+        "97": [
+            443.14,
+            445.14,
+            "This is the scene."
+        ],
+        "98": [
+            446.14,
+            448.14,
+            "He meets the national player."
+        ],
+        "99": [
+            453.14,
+            455.14,
+            "Lots of tough duels in this game."
+        ],
+        "100": [
+            458.14,
+            460.14,
+            "That was a good opportunity."
+        ],
+        "101": [
+            462.14,
+            464.14,
+            "That was a good opportunity."
+        ],
+        "102": [
+            470.14,
+            472.14,
+            "Mkhitaryan is in strong form."
+        ],
+        "103": [
+            474.14,
+            477.14,
+            "I promise that we will do everything as a team,"
+        ],
+        "104": [
+            477.14,
+            479.14,
+            "to win this game."
+        ],
+        "105": [
+            488.14,
+            490.14,
+            "That was a good opportunity."
+        ],
+        "106": [
+            493.14,
+            495.14,
+            "He sticks to the rule."
+        ],
+        "107": [
+            518.14,
+            520.14,
+            "That was a good opportunity."
+        ],
+        "108": [
+            522.14,
+            524.14,
+            "That was a good opportunity."
+        ],
+        "109": [
+            526.14,
+            528.14,
+            "That was a good opportunity."
+        ],
+        "110": [
+            530.14,
+            532.14,
+            "The village number cannot be avoided."
+        ],
+        "111": [
+            534.14,
+            538.14,
+            "The Hoffenheim team finished this attack themselves."
+        ],
+        "112": [
+            539.14,
+            541.14,
+            "That was the scene."
+        ],
+        "113": [
+            542.14,
+            544.14,
+            "Schwegler versus Kagawa."
+        ],
+        "114": [
+            544.16,
+            546.16,
+            "That was a good opportunity."
+        ],
+        "115": [
+            548.16,
+            550.16,
+            "That was a good opportunity."
+        ],
+        "116": [
+            556.16,
+            558.16,
+            "There is plenty of room for Mkhitaryan."
+        ],
+        "117": [
+            560.16,
+            562.16,
+            "He suspected receiving the ball."
+        ],
+        "118": [
+            565.16,
+            567.16,
+            "That was a good opportunity."
+        ],
+        "119": [
+            569.16,
+            571.16,
+            "The center is occupied by Firmino."
+        ],
+        "120": [
+            574.16,
+            576.16,
+            "That was a good opportunity."
+        ],
+        "121": [
+            578.16,
+            580.16,
+            "It was a hectic atmosphere."
+        ],
+        "122": [
+            582.16,
+            584.16,
+            "Every duel is discussed."
+        ],
+        "123": [
+            592.16,
+            595.16,
+            "The third yellow card in two games."
+        ],
+        "124": [
+            596.16,
+            598.16,
+            "In Munich he saw yellow and red."
+        ],
+        "125": [
+            600.16,
+            602.16,
+            "In the Allianz Arena after being substituted."
+        ],
+        "126": [
+            604.16,
+            606.16,
+            "That was a good opportunity."
+        ],
+        "127": [
+            608.16,
+            610.16,
+            "That was a good opportunity."
+        ],
+        "128": [
+            610.18,
+            612.18,
+            "That was a good opportunity."
+        ],
+        "129": [
+            614.18,
+            616.18,
+            "That was a good opportunity."
+        ],
+        "130": [
+            622.18,
+            625.18,
+            "Adam Solloj can share his complaint."
+        ],
+        "131": [
+            627.18,
+            630.18,
+            "From above it looked as if the arm was on."
+        ],
+        "132": [
+            631.18,
+            633.18,
+            "That was a good move."
+        ],
+        "133": [
+            636.18,
+            638.18,
+            "That was the yellow card."
+        ],
+        "134": [
+            640.18,
+            642.18,
+            "That was a good move."
+        ],
+        "135": [
+            644.18,
+            646.18,
+            "That was a good move."
+        ],
+        "136": [
+            648.18,
+            650.18,
+            " Corner for BVB."
+        ],
+        "137": [
+            666.18,
+            668.18,
+            " Corner for Mkhitaryan."
+        ],
+        "138": [
+            670.18,
+            672.18,
+            "That was a good move."
+        ],
+        "139": [
+            676.18,
+            678.18,
+            "The card wasn't that good."
+        ],
+        "140": [
+            680.18,
+            682.18,
+            "But that was a good move."
+        ],
+        "141": [
+            684.18,
+            686.18,
+            "That was a good move."
+        ],
+        "142": [
+            700.18,
+            702.18,
+            "That was a good move."
+        ],
+        "143": [
+            704.18,
+            706.18,
+            "That was a good move."
+        ],
+        "144": [
+            710.18,
+            712.18,
+            "Modest wins the first duel."
+        ],
+        "145": [
+            714.18,
+            716.18,
+            "That was a good move."
+        ],
+        "146": [
+            719.18,
+            721.18,
+            "That was a good move."
+        ],
+        "147": [
+            724.18,
+            726.18,
+            "Dresden was doing well."
+        ],
+        "148": [
+            727.18,
+            729.18,
+            "Some Dortmund players are calling for penalties."
+        ],
+        "149": [
+            730.18,
+            732.18,
+            "But that was a good move."
+        ],
+        "150": [
+            734.18,
+            736.18,
+            "That was a good move."
+        ],
+        "151": [
+            738.18,
+            740.18,
+            "Modest has the chance."
+        ],
+        "152": [
+            742.18,
+            744.18,
+            "And he forgives Dom for that lapse."
+        ],
+        "153": [
+            747.18,
+            749.18,
+            "Modest with a huge opportunity,"
+        ],
+        "154": [
+            750.18,
+            754.18,
+            "To bring Markus Gisthol's team into the front again."
+        ],
+        "155": [
+            754.1999999999999,
+            756.1999999999999,
+            "That was a good move."
+        ],
+        "156": [
+            758.1999999999999,
+            760.1999999999999,
+            "But that was a good move."
+        ],
+        "157": [
+            762.1999999999999,
+            764.1999999999999,
+            "And before that, Obermeyer's chance."
+        ],
+        "158": [
+            766.1999999999999,
+            769.1999999999999,
+            "But perhaps we also underestimate Abraham."
+        ],
+        "159": [
+            771.1999999999999,
+            774.1999999999999,
+            "I noticed in the first round,"
+        ],
+        "160": [
+            775.1999999999999,
+            778.1999999999999,
+            "that the central defender moves very quickly on foot."
+        ],
+        "161": [
+            778.22,
+            780.22,
+            "But he has the chance."
+        ],
+        "162": [
+            782.22,
+            784.22,
+            "And he has the chance."
+        ],
+        "163": [
+            786.22,
+            788.22,
+            "And he has the chance."
+        ],
+        "164": [
+            790.22,
+            792.22,
+            "87% won in the duels."
+        ],
+        "165": [
+            808.22,
+            810.22,
+            "And he has the chance."
+        ],
+        "166": [
+            812.22,
+            814.22,
+            "The goalkeeper has the chance."
+        ],
+        "167": [
+            816.22,
+            818.22,
+            "The 60th minute was 1 on 1."
+        ],
+        "168": [
+            820.22,
+            823.22,
+            "Vorland and Hummels scored the goals."
+        ],
+        "169": [
+            824.22,
+            826.22,
+            "And the chance for Hoffenheim."
+        ],
+        "170": [
+            828.2,
+            830.2,
+            "That was a good move."
+        ],
+        "171": [
+            832.22,
+            834.22,
+            "And that was a good move."
+        ],
+        "172": [
+            835.22,
+            837.22,
+            "And that was a good move."
+        ],
+        "173": [
+            838.22,
+            840.22,
+            "And that was a good move."
+        ],
+        "174": [
+            842.22,
+            844.22,
+            "And that was a good move."
+        ],
+        "175": [
+            848.22,
+            852.22,
+            "In the muscle strain will no longer be available next time"
+        ],
+        "176": [
+            852.22,
+            854.22,
+            " stand."
+        ],
+        "177": [
+            855.22,
+            857.22,
+            "Soloi and Langerak."
+        ],
+        "178": [
+            859.22,
+            861.22,
+            "You can play your way through exactly."
+        ],
+        "179": [
+            863.22,
+            865.22,
+            "Soloi and Langerak."
+        ],
+        "180": [
+            868.22,
+            870.22,
+            "That was a good move."
+        ],
+        "181": [
+            872.22,
+            874.22,
+            "And that was a good move."
+        ],
+        "182": [
+            876.22,
+            878.22,
+            "The skills must speak."
+        ],
+        "183": [
+            880.22,
+            882.22,
+            "Not much rotation."
+        ],
+        "184": [
+            884.22,
+            887.22,
+            "The personnel structure doesn’t allow that at the moment."
+        ],
+        "185": [
+            893.22,
+            895.22,
+            "Modest becomes incredibly present."
+        ],
+        "186": [
+            895.24,
+            897.24,
+            "That was a good move."
+        ],
+        "187": [
+            899.24,
+            901.24,
+            "And then it was gone."
+        ],
+        "188": [
+            903.24,
+            905.24,
+            "Difficult for the right foot,"
+        ],
+        "189": [
+            906.24,
+            908.24,
+            "To hit crosses from the left side."
+        ],
+        "190": [
+            910.24,
+            912.24,
+            "But at least Mkhitaryan and also Dome"
+        ],
+        "191": [
+            914.24,
+            916.24,
+            "Both were offensive."
+        ],
+        "192": [
+            917.24,
+            920.24,
+            "The Hoffenheim captain got that under control."
+        ],
+        "193": [
+            925.24,
+            927.24,
+            "And then it was gone."
+        ],
+        "194": [
+            929.24,
+            931.24,
+            "And then it was gone."
+        ],
+        "195": [
+            935.24,
+            937.24,
+            "Hummels waves the ball through."
+        ],
+        "196": [
+            939.24,
+            942.24,
+            "Langerak wasn't that easy against Modest."
+        ],
+        "197": [
+            944.24,
+            947.24,
+            "And the Australian national goalkeeper is annoyed."
+        ],
+        "198": [
+            948.24,
+            950.24,
+            "Hummels casually lets him through."
+        ],
+        "199": [
+            951.24,
+            953.24,
+            "And Modest never gives up a ball."
+        ],
+        "200": [
+            953.26,
+            955.26,
+            "And then it was gone."
+        ],
+        "201": [
+            957.26,
+            959.26,
+            "And then it was gone."
+        ],
+        "202": [
+            960.26,
+            962.26,
+            "And then it was gone."
+        ],
+        "203": [
+            964.26,
+            966.26,
+            "This time it was the right thigh."
+        ],
+        "204": [
+            968.26,
+            971.26,
+            "In the early stages it was the left thigh."
+        ],
+        "205": [
+            972.26,
+            974.26,
+            "Great game at this stage."
+        ],
+        "206": [
+            975.26,
+            977.26,
+            "Schwegler."
+        ],
+        "207": [
+            983.26,
+            985.26,
+            "Schwegler with the ball."
+        ],
+        "208": [
+            987.26,
+            989.26,
+            "And then it was gone."
+        ],
+        "209": [
+            990.26,
+            992.26,
+            "Schwegler."
+        ],
+        "210": [
+            994.26,
+            996.26,
+            "That was still up for Firmino Langerak."
+        ],
+        "211": [
+            999.26,
+            1002.26,
+            "This is not a designated header monster."
+        ],
+        "212": [
+            1003.26,
+            1005.26,
+            " Roberto Firmino 1.81."
+        ],
+        "213": [
+            1006.26,
+            1008.26,
+            "But he's free to head the ball."
+        ],
+        "214": [
+            1009.26,
+            1011.26,
+            "And Borussia Dortmund with the chance to counterattack."
+        ],
+        "215": [
+            1011.28,
+            1013.28,
+            "It was a wasted counterattack opportunity."
+        ],
+        "216": [
+            1021.28,
+            1023.28,
+            "Gün Doğan gets the ball against Volland."
+        ],
+        "217": [
+            1024.28,
+            1026.28,
+            "It's pressing against pressing."
+        ],
+        "218": [
+            1027.28,
+            1029.28,
+            " And so forth."
+        ],
+        "219": [
+            1034.28,
+            1036.28,
+            "With the external crack."
+        ],
+        "220": [
+            1036.3,
+            1038.3,
+            "Could Bear الج رع對啊."
+        ],
+        "221": [
+            1052.3,
+            1054.3,
+            " Khakha Bausjaa still came here."
+        ],
+        "222": [
+            1096.28,
+            1098.28,
+            "He has the chance, the chance, the chance."
+        ],
+        "223": [
+            1099.28,
+            1100.28,
+            "But he doesn't have it."
+        ],
+        "224": [
+            1101.28,
+            1102.3,
+            "He has the chance, the chance."
+        ],
+        "225": [
+            1111.28,
+            1112.3,
+            "Obermeer-Jang versus Bicakic."
+        ],
+        "226": [
+            1113.3,
+            1114.3,
+            "Obermeer-Jang, angle unfavorable."
+        ],
+        "227": [
+            1116.3,
+            1117.3,
+            "Right, strong on the move."
+        ],
+        "228": [
+            1118.3,
+            1119.3,
+            "Next chance for BVB."
+        ],
+        "229": [
+            1121.3,
+            1124.3,
+            "Here he had to look for the finish with his left."
+        ],
+        "230": [
+            1124.32,
+            1125.32,
+            "That was a good ending."
+        ],
+        "231": [
+            1128.3,
+            1130.32,
+            "But BVB has the chance, the chance."
+        ],
+        "232": [
+            1131.3,
+            1133.32,
+            "But BVB has the chance, the chance."
+        ],
+        "233": [
+            1134.3,
+            1136.32,
+            "BVB has to get past the pain point."
+        ],
+        "234": [
+            1143.3,
+            1146.3,
+            "But BVB still needs three or four this afternoon,"
+        ],
+        "235": [
+            1146.32,
+            1148.32,
+            "Maybe five such sprints."
+        ],
+        "236": [
+            1148.34,
+            1149.34,
+            "That was a good ending."
+        ],
+        "237": [
+            1152.32,
+            1153.34,
+            "That was a good ending."
+        ],
+        "238": [
+            1158.32,
+            1161.34,
+            "A very strong second half of the game from both teams."
+        ],
+        "239": [
+            1162.32,
+            1163.34,
+            "Offensively conducted."
+        ],
+        "240": [
+            1164.34,
+            1165.34,
+            "Little frills."
+        ],
+        "241": [
+            1167.34,
+            1170.34,
+            "The direct route to the gate is the order of the day."
+        ],
+        "242": [
+            1178.34,
+            1179.34,
+            "That was a good ending."
+        ],
+        "243": [
+            1182.32,
+            1183.34,
+            "That was a good ending."
+        ],
+        "244": [
+            1198.32,
+            1201.34,
+            "Sven Schiplock, most recently successful as a substitute"
+        ],
+        "245": [
+            1202.32,
+            1203.34,
+            " in Hannover."
+        ],
+        "246": [
+            1204.34,
+            1205.34,
+            "He has three goals this season."
+        ],
+        "247": [
+            1208.34,
+            1209.34,
+            "He's a good player."
+        ],
+        "248": [
+            1212.32,
+            1213.34,
+            "He's a good player."
+        ],
+        "249": [
+            1215.34,
+            1218.34,
+            "Not as successful as he imagined."
+        ],
+        "250": [
+            1219.32,
+            1220.34,
+            "Anthony Modest."
+        ],
+        "251": [
+            1224.34,
+            1226.34,
+            "He was from Bordeaux just two years ago."
+        ],
+        "252": [
+            1238.34,
+            1239.34,
+            "He's a good player."
+        ],
+        "253": [
+            1242.32,
+            1243.34,
+            "He's a good player."
+        ],
+        "254": [
+            1248.32,
+            1250.34,
+            "BVB sold out the arena."
+        ],
+        "255": [
+            1252.34,
+            1254.34,
+            "You only get 1% with these acoustics."
+        ],
+        "256": [
+            1256.34,
+            1260.34,
+            "You can fill the whole street with sound if you open the windows"
+        ],
+        "257": [
+            1260.34,
+            1261.34,
+            " open up."
+        ],
+        "258": [
+            1262.34,
+            1263.34,
+            "When Mkhitaryan passes."
+        ],
+        "259": [
+            1268.34,
+            1270.34,
+            "That was the decisive moment."
+        ],
+        "260": [
+            1272.34,
+            1275.34,
+            "Offside position correctly recorded by Raphael Foltin."
+        ],
+        "261": [
+            1298.32,
+            1299.34,
+            "He's a good player."
+        ],
+        "262": [
+            1328.34,
+            1329.34,
+            "He's a good player."
+        ],
+        "263": [
+            1335.34,
+            1336.34,
+            "He's a good player."
+        ],
+        "264": [
+            1340.34,
+            1344.34,
+            "He had the idea of ​​getting out of the box at short notice."
+        ],
+        "265": [
+            1345.34,
+            1346.34,
+            " He was gone."
+        ],
+        "266": [
+            1350.34,
+            1351.34,
+            " He was gone."
+        ],
+        "267": [
+            1351.36,
+            1352.36,
+            " He was gone."
+        ],
+        "268": [
+            1355.36,
+            1356.36,
+            " He was gone."
+        ],
+        "269": [
+            1358.36,
+            1359.36,
+            " He was gone."
+        ],
+        "270": [
+            1362.36,
+            1363.36,
+            " He is gone."
+        ],
+        "271": [
+            1365.36,
+            1366.36,
+            " He is gone."
+        ],
+        "272": [
+            1366.3799999999999,
+            1367.3799999999999,
+            " He is gone."
+        ],
+        "273": [
+            1373.3799999999999,
+            1374.3799999999999,
+            " He is gone."
+        ],
+        "274": [
+            1382.3799999999999,
+            1383.3799999999999,
+            " He is gone."
+        ],
+        "275": [
+            1387.3799999999999,
+            1388.3799999999999,
+            " He is gone."
+        ],
+        "276": [
+            1396.3799999999999,
+            1397.3799999999999,
+            " He is gone."
+        ],
+        "277": [
+            1400.3799999999999,
+            1401.3799999999999,
+            " He is gone."
+        ],
+        "278": [
+            1415.3799999999999,
+            1418.3799999999999,
+            "You have time for the understatement of the afternoon."
+        ],
+        "279": [
+            1420.3799999999999,
+            1422.3799999999999,
+            "How long will BVB's strength last?"
+        ],
+        "280": [
+            1422.4,
+            1425.4,
+            "We'll see how Yeah-BVB goes on the road."
+        ],
+        "281": [
+            1432.42,
+            1434.42,
+            "averaging consumption by bar."
+        ],
+        "282": [
+            1452.38,
+            1459.18,
+            "Here in Hoffenheim we look to Alexander Rosen and to Markus Gisdol, who a few years ago"
+        ],
+        "283": [
+            1459.18,
+            1464.7,
+            "Days extended his contract here in Sinsheim until 2018."
+        ],
+        "284": [
+            1464.7,
+            1469.42,
+            "So strategically the alternative to Borussia Dortmund."
+        ],
+        "285": [
+            1469.42,
+            1474.8600000000001,
+            "Thomas Tuchel will now take over from Jürgen Klopp."
+        ],
+        "286": [
+            1474.86,
+            1484.4199999999998,
+            "Yes, that was a real offside position."
+        ],
+        "287": [
+            1484.4199999999998,
+            1490.4199999999998,
+            "Soloi came offside."
+        ],
+        "288": [
+            1490.4199999999998,
+            1502.6999999999998,
+            "Here Abraham and Soloi are clearly offside."
+        ],
+        "289": [
+            1532.7,
+            1555.9,
+            "The loss of the goalkeeper is definitely a tactical foul."
+        ],
+        "290": [
+            1555.9,
+            1563.14,
+            "I think it should be yellow against BVB's right-back, here against Firmino."
+        ],
+        "291": [
+            1563.14,
+            1570.3000000000002,
+            "A loss of the ball, you'll see in slow motion, Dom also saw a yellow card from Dr."
+        ],
+        "292": [
+            1570.3000000000002,
+            1571.3000000000002,
+            "Jochen Drese."
+        ],
+        "293": [
+            1571.3000000000002,
+            1582.3000000000002,
+            "This jacket card is fine too."
+        ],
+        "294": [
+            1582.62,
+            1583.62,
+            "And of course the free kick too."
+        ],
+        "295": [
+            1583.62,
+            1584.62,
+            "Schwegler's ball, Genoa in between."
+        ],
+        "296": [
+            1584.62,
+            1585.62,
+            "Away with Schwegler."
+        ],
+        "297": [
+            1615.62,
+            1632.6599999999999,
+            "The mistake was also difficult for Kevin Kampel, Polanski."
+        ],
+        "298": [
+            1632.6599999999999,
+            1641.86,
+            "So to underline the physical demands once again, both teams are over"
+        ],
+        "299": [
+            1641.86,
+            1645.1399999999999,
+            "Walked 86 kilometers."
+        ],
+        "300": [
+            1645.14,
+            1646.14,
+            "Every single team."
+        ],
+        "301": [
+            1646.14,
+            1655.0600000000002,
+            "The willingness to run will remain a big issue as this game progresses."
+        ],
+        "302": [
+            1655.0600000000002,
+            1660.66,
+            "It's a big topic and the question remains, how long will it last at Borussia Dortmund?"
+        ],
+        "303": [
+            1660.66,
+            1661.66,
+            " the forces."
+        ],
+        "304": [
+            1661.66,
+            1685.0600000000002,
+            "Here Firmino played the ball again too early after Kehl's foul."
+        ],
+        "305": [
+            1685.0600000000002,
+            1687.1000000000001,
+            "It has to follow the rules."
+        ],
+        "306": [
+            1687.1000000000001,
+            1688.1000000000001,
+            "That's why Dr."
+        ],
+        "307": [
+            1688.1000000000001,
+            1691.1000000000001,
+            "Jochen Drese take this free kick again."
+        ],
+        "308": [
+            1691.1,
+            1695.82,
+            "And then Jochen Klopp gives the opportunity to take Shinji Kagawa down, who then"
+        ],
+        "309": [
+            1695.82,
+            1699.2199999999998,
+            "had a few technical problems today."
+        ],
+        "310": [
+            1699.2199999999998,
+            1701.6999999999998,
+            "And Giro Immobile is coming for him."
+        ],
+        "311": [
+            1701.6999999999998,
+            1706.1399999999999,
+            "There's Modeste, great."
+        ],
+        "312": [
+            1706.1399999999999,
+            1710.02,
+            "This ball reception, the ball was accurate."
+        ],
+        "313": [
+            1710.02,
+            1713.6999999999998,
+            "The first contact is crucial, then he has a bit of reserve."
+        ],
+        "314": [
+            1713.6999999999998,
+            1715.62,
+            "You can see that again in this slow motion."
+        ],
+        "315": [
+            1715.62,
+            1719.6999999999998,
+            "Here, that's strong, then he'll lie well."
+        ],
+        "316": [
+            1719.7,
+            1725.3,
+            "Then he gets a little backwards with his body weight and loses control"
+        ],
+        "317": [
+            1725.3,
+            1726.3,
+            "at graduation."
+        ],
+        "318": [
+            1726.3,
+            1743.94,
+            "And also Markus Gisdol with his first change."
+        ],
+        "319": [
+            1743.94,
+            1748.06,
+            " Modest, which I really liked."
+        ],
+        "320": [
+            1748.46,
+            1751.58,
+            "I actually don't understand why he takes it down."
+        ],
+        "321": [
+            1751.58,
+            1753.94,
+            "So dangerous with every action."
+        ],
+        "322": [
+            1753.94,
+            1760.34,
+            "Run incredibly long distances, always dodging to the side, very present"
+        ],
+        "323": [
+            1760.34,
+            1761.58,
+            "in the aerial duels."
+        ],
+        "324": [
+            1761.58,
+            1765.3,
+            "Strong Bundesliga game from Anthony Modeste."
+        ],
+        "325": [
+            1765.3,
+            1769.34,
+            "And for him now Sven Schiplock doesn't change anything about Hoffenheim's 4-4-2."
+        ],
+        "326": [
+            1778.06,
+            1791.3,
+            "And therefore similarly structured tactically as BVB now has with Aubameyang and the Mobele."
+        ],
+        "327": [
+            1791.3,
+            1794.94,
+            "Also more of a 4-4-2."
+        ],
+        "328": [
+            1794.94,
+            1796.86,
+            "Vegetarian on the right, Kampel on the left."
+        ],
+        "329": [
+            1796.86,
+            1803.1799999999998,
+            "And the double sixes were won unchanged."
+        ],
+        "330": [
+            1803.1799999999998,
+            1806.46,
+            "Exciting last 15 minutes, I'm sure."
+        ],
+        "331": [
+            1806.46,
+            1808.02,
+            "Exciting football game."
+        ],
+        "332": [
+            1808.02,
+            1812.66,
+            "Scoring chances plus for TSG."
+        ],
+        "333": [
+            1812.66,
+            1815.18,
+            "Firmino hit the aluminum with his head."
+        ],
+        "334": [
+            1815.18,
+            1820.6200000000001,
+            "Modeste had a great chance, that's perhaps the only flaw in the performance of the substitute"
+        ],
+        "335": [
+            1820.6200000000001,
+            1821.6200000000001,
+            " French people."
+        ],
+        "336": [
+            1821.6200000000001,
+            1828.14,
+            "Lots of duels, straightforward football game."
+        ],
+        "337": [
+            1828.14,
+            1831.82,
+            "Both want and neither are satisfied with this one point."
+        ],
+        "338": [
+            1836.46,
+            1837.46,
+            "Offside decision."
+        ],
+        "339": [
+            1837.46,
+            1838.46,
+            "This is distorted."
+        ],
+        "340": [
+            1838.46,
+            1865.46,
+            "Difficult decision that Rafael Foltin had to make."
+        ],
+        "341": [
+            1865.46,
+            1869.78,
+            "This is a tool, a very clear tactical means against the fast Aubameyang."
+        ],
+        "342": [
+            1869.78,
+            1871.26,
+            "This has to work."
+        ],
+        "343": [
+            1895.46,
+            1898.82,
+            " Schmelzer, Toljan follows up and is rewarded."
+        ],
+        "344": [
+            1898.82,
+            1902.46,
+            "Get the corner because Subotic still helps."
+        ],
+        "345": [
+            1902.46,
+            1920.22,
+            "Vicky and Hoffi are just as excited as everyone else this afternoon."
+        ],
+        "346": [
+            1920.22,
+            1921.22,
+            "Schwegler's corner."
+        ],
+        "347": [
+            1921.22,
+            1922.22,
+            " Tolyan."
+        ],
+        "348": [
+            1923.02,
+            1930.02,
+            "Next corner kick for TSG."
+        ],
+        "349": [
+            1940.02,
+            1942.02,
+            "Dortmund covers in space."
+        ],
+        "350": [
+            1942.02,
+            1945.02,
+            "And there is Schwegler's corner."
+        ],
+        "351": [
+            1953.02,
+            1956.02,
+            "A good ball from Beck for Pirmin Schwegler."
+        ],
+        "352": [
+            1956.02,
+            1957.02,
+            "Assumption is also neat."
+        ],
+        "353": [
+            1957.02,
+            1959.02,
+            "And Hummel's next corner."
+        ],
+        "354": [
+            1973.02,
+            1975.02,
+            "8 to 3 the corner kick file."
+        ],
+        "355": [
+            1975.02,
+            1977.02,
+            "This is now in favor of the hosts."
+        ],
+        "356": [
+            1977.02,
+            1979.02,
+            "Schwegler."
+        ],
+        "357": [
+            1979.02,
+            1981.02,
+            "Long Corner."
+        ],
+        "358": [
+            1982.22,
+            1986.22,
+            "But well equipped by Greg Reumin."
+        ],
+        "359": [
+            1990.22,
+            1996.22,
+            "Aubameyang with a serious head is a security in the center."
+        ],
+        "360": [
+            1996.22,
+            2001.22,
+            "But we're focused on Cameron Campbell."
+        ],
+        "361": [
+            2001.22,
+            2002.22,
+            "Curry and Schmeff."
+        ],
+        "362": [
+            2002.22,
+            2005.22,
+            "and grows."
+        ],
+        "363": [
+            2005.22,
+            2007.22,
+            "That was a good ball."
+        ],
+        "364": [
+            2009.22,
+            2013.22,
+            "But the team didn't take care of the ball very well."
+        ],
+        "365": [
+            2014.2,
+            2016.2,
+            "But they can take care of the ball."
+        ],
+        "366": [
+            2016.22,
+            2018.22,
+            "You punished the slow motion correctly."
+        ],
+        "367": [
+            2019.2,
+            2020.22,
+            "This is the action."
+        ],
+        "368": [
+            2022.22,
+            2024.22,
+            "No foul play on Abraham."
+        ],
+        "369": [
+            2026.22,
+            2028.22,
+            "He was framed."
+        ],
+        "370": [
+            2030.22,
+            2033.22,
+            "He landed roughly on the Dortmund goalkeeper."
+        ],
+        "371": [
+            2036.22,
+            2039.22,
+            "But he didn't take care of the ball that well."
+        ],
+        "372": [
+            2040.2,
+            2042.22,
+            "It was an exciting football game."
+        ],
+        "373": [
+            2047.22,
+            2050.2200000000003,
+            "Now maybe both teams have to"
+        ],
+        "374": [
+            2051.2,
+            2053.2200000000003,
+            "beyond the painful point."
+        ],
+        "375": [
+            2054.2200000000003,
+            2056.2200000000003,
+            "In the last ten minutes."
+        ],
+        "376": [
+            2061.2200000000003,
+            2063.2200000000003,
+            "That's the scene again."
+        ],
+        "377": [
+            2065.22,
+            2067.22,
+            "That was a good ball."
+        ],
+        "378": [
+            2071.22,
+            2073.22,
+            "That was a good ball."
+        ],
+        "379": [
+            2076.22,
+            2079.22,
+            "Hoffenheim is missing Niklas Süle"
+        ],
+        "380": [
+            2080.2,
+            2082.2,
+            "A set central defender."
+        ],
+        "381": [
+            2084.22,
+            2087.22,
+            "It doesn't seem to be possible to continue."
+        ],
+        "382": [
+            2088.2,
+            2089.22,
+            "There you see Kim."
+        ],
+        "383": [
+            2090.2,
+            2091.22,
+            "That can only mean,"
+        ],
+        "384": [
+            2092.2,
+            2094.22,
+            "that Jan Toll slides into the center."
+        ],
+        "385": [
+            2096.22,
+            2098.22,
+            "That was a good ball."
+        ],
+        "386": [
+            2101.2,
+            2103.2,
+            "That was a good ball."
+        ],
+        "387": [
+            2105.22,
+            2107.22,
+            "There's Kim."
+        ],
+        "388": [
+            2109.22,
+            2111.22,
+            "A South Korean national defender."
+        ],
+        "389": [
+            2112.2,
+            2114.22,
+            "Actually a left-back."
+        ],
+        "390": [
+            2115.2,
+            2117.22,
+            "It's like the side changes."
+        ],
+        "391": [
+            2118.2,
+            2120.22,
+            "The page returns to its original position."
+        ],
+        "392": [
+            2121.2,
+            2123.22,
+            "Abraham will leave the place soon."
+        ],
+        "393": [
+            2124.22,
+            2126.22,
+            "That was a good ball."
+        ],
+        "394": [
+            2129.2,
+            2131.2,
+            "That was a good ball."
+        ],
+        "395": [
+            2135.22,
+            2138.22,
+            "In the cover center in central defense"
+        ],
+        "396": [
+            2139.2,
+            2141.2,
+            "was the TSC."
+        ],
+        "397": [
+            2142.22,
+            2144.22,
+            "Compliments to David Abraham."
+        ],
+        "398": [
+            2145.2,
+            2148.22,
+            "He played a really good football game today."
+        ],
+        "399": [
+            2149.2,
+            2151.2,
+            "72% won in the duels."
+        ],
+        "400": [
+            2152.2,
+            2154.2,
+            "That was a good ball."
+        ],
+        "401": [
+            2162.18,
+            2164.18,
+            "Immobile versus Bicakic."
+        ],
+        "402": [
+            2181.2,
+            2184.2,
+            "That was a good ball."
+        ],
+        "403": [
+            2212.2,
+            2214.2,
+            "That was a good ball."
+        ],
+        "404": [
+            2215.2,
+            2217.2,
+            "That was a good ball."
+        ],
+        "405": [
+            2218.2,
+            2220.2,
+            "That was a good ball."
+        ],
+        "406": [
+            2221.2,
+            2223.2,
+            "That was a good ball."
+        ],
+        "407": [
+            2224.2,
+            2226.2,
+            "That was a good ball."
+        ],
+        "408": [
+            2227.2,
+            2229.2,
+            "That was a good ball."
+        ],
+        "409": [
+            2230.2,
+            2232.2,
+            "That was a good ball."
+        ],
+        "410": [
+            2234.2,
+            2236.2,
+            "Silence."
+        ],
+        "411": [
+            2238.2,
+            2240.2,
+            "Every duel exists."
+        ],
+        "412": [
+            2241.2,
+            2243.2,
+            "Throat."
+        ],
+        "413": [
+            2244.2,
+            2246.2,
+            "No foreplay from Dortmund."
+        ],
+        "414": [
+            2246.2,
+            2248.2,
+            "That was a good ball."
+        ],
+        "415": [
+            2250.2,
+            2252.2,
+            "That was a good ball."
+        ],
+        "416": [
+            2253.2,
+            2255.2,
+            "That was a good ball."
+        ],
+        "417": [
+            2256.2,
+            2258.2,
+            "That was a good ball."
+        ],
+        "418": [
+            2260.2,
+            2264.2,
+            "He can be happy with his team's performance."
+        ],
+        "419": [
+            2265.2,
+            2267.2,
+            "Not with exploiting opportunities."
+        ],
+        "420": [
+            2268.2,
+            2271.2,
+            "If we want to complain about TSG,"
+        ],
+        "421": [
+            2272.2,
+            2275.2,
+            "then that's certainly a variety of options"
+        ],
+        "422": [
+            2276.2,
+            2278.2,
+            " Accusations."
+        ],
+        "423": [
+            2279.2,
+            2281.2,
+            "That was a good ball."
+        ],
+        "424": [
+            2282.2,
+            2284.2,
+            "That was a good ball."
+        ],
+        "425": [
+            2285.2,
+            2287.2,
+            "That was a good ball."
+        ],
+        "426": [
+            2288.2,
+            2290.2,
+            "That was a good ball."
+        ],
+        "427": [
+            2291.2,
+            2293.2,
+            "That was a good ball."
+        ],
+        "428": [
+            2296.2,
+            2300.2,
+            "Kehl has the advantage of exploiting the header duel."
+        ],
+        "429": [
+            2301.2,
+            2304.2,
+            "He thinks it's a shoulder injury."
+        ],
+        "430": [
+            2307.2,
+            2309.2,
+            "But that was a good ball."
+        ],
+        "431": [
+            2310.2,
+            2312.2,
+            "That was a good ball."
+        ],
+        "432": [
+            2313.2,
+            2315.2,
+            "He always found his way back."
+        ],
+        "433": [
+            2318.2,
+            2322.2,
+            "He has always delivered an outstanding standard."
+        ],
+        "434": [
+            2325.2,
+            2327.2,
+            "The ball is good for Obermeyer."
+        ],
+        "435": [
+            2328.2,
+            2330.2,
+            "Obermeyer is here."
+        ],
+        "436": [
+            2331.2,
+            2333.2,
+            "And Baumann will be out in time."
+        ],
+        "437": [
+            2333.2,
+            2335.2,
+            "The ball is good for Obermeyer."
+        ],
+        "438": [
+            2336.2,
+            2338.2,
+            "The ball is good for Baumann."
+        ],
+        "439": [
+            2339.2,
+            2341.2,
+            "He has assertiveness."
+        ],
+        "440": [
+            2342.2,
+            2344.2,
+            "He played well."
+        ],
+        "441": [
+            2345.2,
+            2347.2,
+            "He played well."
+        ],
+        "442": [
+            2348.2,
+            2350.2,
+            "That was a good ball."
+        ],
+        "443": [
+            2351.2,
+            2353.2,
+            "That was a good ball."
+        ],
+        "444": [
+            2367.2,
+            2369.2,
+            "Baumann had a strong reaction."
+        ],
+        "445": [
+            2370.2,
+            2372.2,
+            "Two great goals this afternoon."
+        ],
+        "446": [
+            2372.2,
+            2374.2,
+            "That was a good ball."
+        ],
+        "447": [
+            2375.2,
+            2377.2,
+            "That was a good ball."
+        ],
+        "448": [
+            2378.2,
+            2381.2,
+            "Schlegler is first from the front, then from behind."
+        ],
+        "449": [
+            2382.2,
+            2384.2,
+            "First from your own, then from someone else's."
+        ],
+        "450": [
+            2385.2,
+            2387.2,
+            "And of course he gets up again."
+        ],
+        "451": [
+            2391.2,
+            2393.2,
+            "Tugutic versus Schiblock."
+        ],
+        "452": [
+            2403.2,
+            2405.2,
+            "That was a good ball."
+        ],
+        "453": [
+            2406.2,
+            2408.2,
+            "That was a good ball."
+        ],
+        "454": [
+            2409.2,
+            2412.2,
+            "There's one thing I'll miss in the next few weeks."
+        ],
+        "455": [
+            2413.2,
+            2415.2,
+            "The clues to our boxing match."
+        ],
+        "456": [
+            2416.2,
+            2418.2,
+            "Today from 3:30 a.m."
+        ],
+        "457": [
+            2419.2,
+            2421.2,
+            "The fight probably starts at 5 o'clock."
+        ],
+        "458": [
+            2422.2,
+            2424.2,
+            "It's about the Kronenwelter weight."
+        ],
+        "459": [
+            2425.2,
+            2427.2,
+            "In Las Vegas."
+        ],
+        "460": [
+            2428.2,
+            2430.2,
+            "Live on Sky Select."
+        ],
+        "461": [
+            2432.2,
+            2434.2,
+            "The Crownwelter Weight."
+        ],
+        "462": [
+            2435.2,
+            2437.2,
+            "The Crownwelter Weight."
+        ],
+        "463": [
+            2442.2,
+            2444.2,
+            "Five more minutes."
+        ],
+        "464": [
+            2449.2,
+            2451.2,
+            "Foot too high."
+        ],
+        "465": [
+            2452.2,
+            2454.2,
+            "Dangerous game by Sebastian Kehl."
+        ],
+        "466": [
+            2455.2,
+            2457.2,
+            "Free kick for TSG."
+        ],
+        "467": [
+            2463.2,
+            2465.2,
+            "That was a good ball."
+        ],
+        "468": [
+            2466.2,
+            2468.2,
+            "That was a good ball."
+        ],
+        "469": [
+            2469.2,
+            2471.2,
+            "That was a good ball."
+        ],
+        "470": [
+            2472.2,
+            2474.2,
+            "That was a good ball."
+        ],
+        "471": [
+            2475.2,
+            2477.2,
+            "That was a good ball."
+        ],
+        "472": [
+            2478.2,
+            2480.2,
+            "That was a good ball."
+        ],
+        "473": [
+            2481.2,
+            2483.2,
+            "Hoffenheim in Frankfurt next week."
+        ],
+        "474": [
+            2484.2,
+            2486.2,
+            "Then go out again."
+        ],
+        "475": [
+            2487.2,
+            2489.2,
+            "In Leverkusen."
+        ],
+        "476": [
+            2489.2,
+            2491.2,
+            "That was a good ball."
+        ],
+        "477": [
+            2492.2,
+            2494.2,
+            "That was a good ball."
+        ],
+        "478": [
+            2495.2,
+            2497.2,
+            "Once home."
+        ],
+        "479": [
+            2498.2,
+            2500.2,
+            "That's the way of TSG."
+        ],
+        "480": [
+            2501.2,
+            2503.2,
+            "Maybe to Europe."
+        ],
+        "481": [
+            2504.2,
+            2506.2,
+            " Borussia Dortmund."
+        ],
+        "482": [
+            2507.2,
+            2509.2,
+            "Berlin at home next week."
+        ],
+        "483": [
+            2510.2,
+            2512.2,
+            "Then away."
+        ],
+        "484": [
+            2513.2,
+            2515.2,
+            "Bremen at home."
+        ],
+        "485": [
+            2515.2,
+            2517.2,
+            "That was a good ball."
+        ],
+        "486": [
+            2518.2,
+            2520.2,
+            "That was a good ball."
+        ],
+        "487": [
+            2521.2,
+            2523.2,
+            "Immobile is in the center."
+        ],
+        "488": [
+            2524.2,
+            2526.2,
+            "Baumann is here."
+        ],
+        "489": [
+            2527.2,
+            2529.2,
+            "Immobile has to do it."
+        ],
+        "490": [
+            2530.2,
+            2532.2,
+            "The still reigning top scorer."
+        ],
+        "491": [
+            2533.2,
+            2535.2,
+            "A great counterattack."
+        ],
+        "492": [
+            2536.2,
+            2538.2,
+            "At the ideal moment"
+        ],
+        "493": [
+            2539.2,
+            2541.2,
+            "Obermeyer played sideways."
+        ],
+        "494": [
+            2545.2,
+            2547.2,
+            "That was a good ball."
+        ],
+        "495": [
+            2548.2,
+            2550.2,
+            "That was a good ball."
+        ],
+        "496": [
+            2551.2,
+            2553.2,
+            "That was a good ball."
+        ],
+        "497": [
+            2554.2,
+            2556.2,
+            "Throat."
+        ],
+        "498": [
+            2557.2,
+            2559.2,
+            "Mkhitaryan vs. Kim."
+        ],
+        "499": [
+            2564.2,
+            2567.2,
+            "Dortmund doesn't take note of this one point."
+        ],
+        "500": [
+            2568.2,
+            2571.2,
+            "Dortmund doesn't take note of this one point."
+        ],
+        "501": [
+            2571.2,
+            2573.2,
+            "That was a good ball."
+        ],
+        "502": [
+            2574.2,
+            2576.2,
+            "That was a good ball."
+        ],
+        "503": [
+            2577.2,
+            2579.2,
+            "Oliver Baumann once again."
+        ],
+        "504": [
+            2580.2,
+            2582.2,
+            "A short distance."
+        ],
+        "505": [
+            2583.2,
+            2585.2,
+            "It's just a reflex."
+        ],
+        "506": [
+            2586.2,
+            2588.2,
+            "And afterwards the peace itself."
+        ],
+        "507": [
+            2589.2,
+            2591.2,
+            "That was a good ball."
+        ],
+        "508": [
+            2592.2,
+            2594.2,
+            "Throat."
+        ],
+        "509": [
+            2595.2,
+            2597.2,
+            " Very good."
+        ],
+        "510": [
+            2598.2,
+            2600.2,
+            "For BVB."
+        ],
+        "511": [
+            2601.2,
+            2603.2,
+            "Jürgen Klopp's team"
+        ],
+        "512": [
+            2604.2,
+            2606.2,
+            "Goes well beyond the pain threshold."
+        ],
+        "513": [
+            2607.2,
+            2609.2,
+            "That's honorable."
+        ],
+        "514": [
+            2610.2,
+            2612.2,
+            "And Aki Watzke can't take it anymore."
+        ],
+        "515": [
+            2613.2,
+            2616.2,
+            "Or maybe he just wants to avoid the traffic jam."
+        ],
+        "516": [
+            2617.2,
+            2619.2,
+            "That was a good ball."
+        ],
+        "517": [
+            2620.2,
+            2622.2,
+            "That was a good ball."
+        ],
+        "518": [
+            2623.2,
+            2625.2,
+            "And of course the Hoffenheim team will"
+        ],
+        "519": [
+            2626.2,
+            2628.2,
+            "Feeling disadvantaged."
+        ],
+        "520": [
+            2629.2,
+            2631.2,
+            "By Hummels' irregularly swallowed 1-1."
+        ],
+        "521": [
+            2632.2,
+            2634.2,
+            "Because Obermeyer is not penalized for being offside."
+        ],
+        "522": [
+            2635.2,
+            2637.2,
+            "From the three referees."
+        ],
+        "523": [
+            2638.2,
+            2640.2,
+            "Of the four."
+        ],
+        "524": [
+            2641.2,
+            2643.2,
+            "Immobile."
+        ],
+        "525": [
+            2646.2,
+            2648.2,
+            "That was a good ball."
+        ],
+        "526": [
+            2649.2,
+            2651.2,
+            "That was a good ball."
+        ],
+        "527": [
+            2652.2,
+            2654.2,
+            "That was a good ball."
+        ],
+        "528": [
+            2655.2,
+            2657.2,
+            "The 90th minute is now underway."
+        ],
+        "529": [
+            2658.2,
+            2660.2,
+            "A spectacular second half of the game."
+        ],
+        "530": [
+            2661.2,
+            2663.2,
+            "No goals."
+        ],
+        "531": [
+            2664.2,
+            2666.2,
+            "But still a great football game."
+        ],
+        "532": [
+            2667.2,
+            2669.2,
+            "Immobile."
+        ],
+        "533": [
+            2670.2,
+            2672.2,
+            "There will probably be three minutes of added time."
+        ],
+        "534": [
+            2673.2,
+            2675.2,
+            "Past Beck."
+        ],
+        "535": [
+            2676.2,
+            2678.2,
+            "The ball is good."
+        ],
+        "536": [
+            2679.2,
+            2681.2,
+            "The ball is good."
+        ],
+        "537": [
+            2682.2,
+            2684.2,
+            "We saw good central defenders."
+        ],
+        "538": [
+            2685.2,
+            2687.2,
+            "The ball is the best."
+        ],
+        "539": [
+            2688.2,
+            2690.2,
+            "The four good ones."
+        ],
+        "540": [
+            2691.2,
+            2693.2,
+            "We still have something great to add."
+        ],
+        "541": [
+            2694.2,
+            2696.2,
+            "We even saw five."
+        ],
+        "542": [
+            2697.2,
+            2699.2,
+            " Corner for BVB."
+        ],
+        "543": [
+            2700.2,
+            2702.2,
+            "Hummels is coming over there."
+        ],
+        "544": [
+            2703.2,
+            2705.2,
+            "There you have it."
+        ],
+        "545": [
+            2706.2,
+            2708.2,
+            " He is good."
+        ],
+        "546": [
+            2709.2,
+            2711.2,
+            "He has good leadership."
+        ],
+        "547": [
+            2712.2,
+            2715.2,
+            "He could have added six minutes."
+        ],
+        "548": [
+            2720.2,
+            2722.2,
+            "It has its own topic."
+        ],
+        "549": [
+            2723.2,
+            2725.2,
+            "Last match day."
+        ],
+        "550": [
+            2726.2,
+            2728.2,
+            "2012, 2013."
+        ],
+        "551": [
+            2729.2,
+            2731.2,
+            "Hoffenheim were basically relegated."
+        ],
+        "552": [
+            2732.2,
+            2734.2,
+            "Then they won 2 to 1 in Dortmund."
+        ],
+        "553": [
+            2734.2,
+            2736.2,
+            "That was a good game."
+        ],
+        "554": [
+            2737.2,
+            2739.2,
+            "It was a good game."
+        ],
+        "555": [
+            2740.2,
+            2742.2,
+            "Weidenfeller was red."
+        ],
+        "556": [
+            2743.2,
+            2745.2,
+            "He had to score on the second penalty."
+        ],
+        "557": [
+            2746.2,
+            2748.2,
+            "And Schwegler was a fighter."
+        ],
+        "558": [
+            2749.2,
+            2751.2,
+            "He was down so many times."
+        ],
+        "559": [
+            2752.2,
+            2754.2,
+            "He kept getting up."
+        ],
+        "560": [
+            2755.2,
+            2757.2,
+            "He's going down."
+        ],
+        "561": [
+            2764.2,
+            2766.2,
+            "That was a good game."
+        ],
+        "562": [
+            2767.2,
+            2769.2,
+            "That was a good game."
+        ],
+        "563": [
+            2770.2,
+            2772.2,
+            "If you score the BVB goal,"
+        ],
+        "564": [
+            2773.2,
+            2775.2,
+            "Then Seat Saljowic's minute could strike."
+        ]
+    }
+}

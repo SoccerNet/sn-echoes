@@ -1,0 +1,3439 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            5.0,
+            "Der VfB hat die Chance, die Hälfte der Spielzeit zu verbringen."
+        ],
+        "1": [
+            5.0,
+            7.0,
+            "Die Hälfte der Spielzeit."
+        ],
+        "2": [
+            7.0,
+            9.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "3": [
+            9.02,
+            11.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "4": [
+            11.02,
+            13.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "5": [
+            13.02,
+            15.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "6": [
+            15.02,
+            17.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "7": [
+            17.02,
+            19.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "8": [
+            19.02,
+            21.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "9": [
+            21.02,
+            23.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "10": [
+            23.02,
+            25.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "11": [
+            25.02,
+            27.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "12": [
+            27.02,
+            29.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "13": [
+            29.02,
+            31.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "14": [
+            31.02,
+            33.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "15": [
+            33.02,
+            35.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "16": [
+            35.02,
+            37.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "17": [
+            37.02,
+            39.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "18": [
+            39.02,
+            41.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "19": [
+            41.02,
+            43.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "20": [
+            43.02,
+            45.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "21": [
+            45.02,
+            47.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "22": [
+            47.02,
+            49.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "23": [
+            49.02,
+            51.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "24": [
+            51.02,
+            53.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "25": [
+            53.02,
+            55.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "26": [
+            55.02,
+            57.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "27": [
+            57.02,
+            59.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "28": [
+            59.02,
+            61.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "29": [
+            61.02,
+            63.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "30": [
+            63.02,
+            65.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "31": [
+            65.02,
+            67.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "32": [
+            67.02,
+            69.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "33": [
+            69.02,
+            71.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "34": [
+            71.02,
+            73.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "35": [
+            73.02,
+            75.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "36": [
+            75.02,
+            77.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "37": [
+            77.02,
+            79.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "38": [
+            79.02,
+            81.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "39": [
+            81.02,
+            83.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "40": [
+            83.02,
+            85.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "41": [
+            85.02,
+            87.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "42": [
+            87.02,
+            89.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "43": [
+            89.02,
+            91.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "44": [
+            91.02,
+            93.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "45": [
+            93.02,
+            95.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "46": [
+            95.02,
+            97.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "47": [
+            97.02,
+            99.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "48": [
+            99.02,
+            101.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "49": [
+            101.02,
+            103.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "50": [
+            103.02,
+            105.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "51": [
+            105.02,
+            107.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "52": [
+            107.02,
+            109.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "53": [
+            109.02,
+            111.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "54": [
+            111.02,
+            113.02,
+            "Die Hälfte der Spielzeit."
+        ],
+        "55": [
+            113.02,
+            115.02,
+            "Es gibt heute schon 3 Heimniederlagen."
+        ],
+        "56": [
+            117.02,
+            119.02,
+            "Alle Auswärts."
+        ],
+        "57": [
+            119.02,
+            121.02,
+            "Alle ohne eigenes Tor."
+        ],
+        "58": [
+            123.02,
+            125.02,
+            "0,3 bei den Bayern."
+        ],
+        "59": [
+            125.02,
+            127.02,
+            "0,1 bei Borussia Dortmund."
+        ],
+        "60": [
+            127.02,
+            129.02,
+            "Gibt es heute die erste Heimniederlage?"
+        ],
+        "61": [
+            143.02,
+            149.66,
+            "Insgesamt ein anständiges Spiel."
+        ],
+        "62": [
+            149.66,
+            155.02,
+            "Timo Werner hat eine einzige gelbe Karte kassiert von Sascha Stegemann."
+        ],
+        "63": [
+            155.02,
+            159.62,
+            "Die war aber auch okay, weil er den Socken drauf gehalten hat."
+        ],
+        "64": [
+            159.62,
+            162.42,
+            "Ansonsten ein sehr faires Fußballspiel."
+        ],
+        "65": [
+            162.42,
+            166.38,
+            "Forsberg mit dem Freistoß für RB Leipzig."
+        ],
+        "66": [
+            167.38,
+            169.38,
+            "Werner Adler."
+        ],
+        "67": [
+            172.98,
+            174.98,
+            "Und Abseitsstellung."
+        ],
+        "68": [
+            181.38,
+            183.38,
+            "Ilsanca."
+        ],
+        "69": [
+            196.38,
+            206.38,
+            "Einer der wenigen Fehler von Wallacey."
+        ],
+        "70": [
+            206.38,
+            210.38,
+            "Auch das passt im Zentrum Wallacey und Jung."
+        ],
+        "71": [
+            214.38,
+            216.38,
+            "Keita Halstenberg."
+        ],
+        "72": [
+            219.38,
+            221.38,
+            "Hinspiel übrigens 4 zu 0."
+        ],
+        "73": [
+            221.38,
+            223.38,
+            "Forsberg per Vollelfmeter."
+        ],
+        "74": [
+            223.38,
+            225.38,
+            "Dann noch drei Joker-Tore."
+        ],
+        "75": [
+            225.38,
+            228.38,
+            "Werner, der damals von der Bank kam, hat zweimal getroffen."
+        ],
+        "76": [
+            228.38,
+            230.38,
+            "Selke."
+        ],
+        "77": [
+            230.38,
+            232.38,
+            "Ein Tor erzielt 0 zu 0."
+        ],
+        "78": [
+            232.38,
+            234.38,
+            "Stand zur Pause im Voxburgstadion."
+        ],
+        "79": [
+            240.38,
+            242.38,
+            "Abseits, ja."
+        ],
+        "80": [
+            251.38,
+            254.38,
+            "Das war die richtige Entscheidung."
+        ],
+        "81": [
+            282.38,
+            284.38,
+            "Das war die richtige Entscheidung."
+        ],
+        "82": [
+            292.38,
+            294.38,
+            "Aus Zscholek."
+        ],
+        "83": [
+            295.38,
+            297.38,
+            "Für Woods."
+        ],
+        "84": [
+            297.38,
+            299.38,
+            "Gegen Orban."
+        ],
+        "85": [
+            299.38,
+            301.38,
+            "Keita."
+        ],
+        "86": [
+            302.38,
+            304.38,
+            "Und dann der Torwart."
+        ],
+        "87": [
+            304.38,
+            306.38,
+            "Gegen Ilsanca."
+        ],
+        "88": [
+            306.38,
+            308.38,
+            "Der das stark macht."
+        ],
+        "89": [
+            308.38,
+            311.38,
+            "Gegen den schnellen Hamburger Mittelstürmer."
+        ],
+        "90": [
+            315.38,
+            317.38,
+            "Vier Tore hat er erzielt."
+        ],
+        "91": [
+            317.38,
+            319.38,
+            "Am 9. Spieltag."
+        ],
+        "92": [
+            319.38,
+            321.38,
+            "Auswärtsspiel."
+        ],
+        "93": [
+            321.38,
+            325.38,
+            "Er hat wegen einer Tätigkeit Dominic Heinz rot gesehen."
+        ],
+        "94": [
+            325.38,
+            327.38,
+            "Er wurde für drei Spiele gesperrt."
+        ],
+        "95": [
+            327.38,
+            329.38,
+            "Keita."
+        ],
+        "96": [
+            331.38,
+            333.38,
+            "Damit hat er das Torwartstil."
+        ],
+        "97": [
+            333.38,
+            335.38,
+            "Also das war das Strafverbot."
+        ],
+        "98": [
+            335.38,
+            337.38,
+            "Das war nicht gut."
+        ],
+        "99": [
+            337.38,
+            339.38,
+            "Das könnte was geben."
+        ],
+        "100": [
+            339.38,
+            341.38,
+            "Müller."
+        ],
+        "101": [
+            341.38,
+            344.38,
+            "Müller und Kostic sind auf der Seite."
+        ],
+        "102": [
+            344.38,
+            347.38,
+            "Aber da müssen die Pässe genauer kommen."
+        ],
+        "103": [
+            347.38,
+            350.38,
+            "Im Grunde der einzige Makel im HSV-Spiel."
+        ],
+        "104": [
+            350.38,
+            352.38,
+            "Das ist die Situation von vorhin."
+        ],
+        "105": [
+            352.38,
+            354.38,
+            "Ilsanca war super."
+        ],
+        "106": [
+            354.38,
+            356.38,
+            "Gegen Bobby Wood."
+        ],
+        "107": [
+            356.38,
+            359.38,
+            "Der einzige Makel im HSV-Spiel."
+        ],
+        "108": [
+            359.38,
+            361.38,
+            "nach vorne gespielt werden."
+        ],
+        "109": [
+            369.38,
+            371.38,
+            "Keita Forsberg."
+        ],
+        "110": [
+            373.38,
+            380.38,
+            "Wir können mal nebenbei die Reservebänke von rechts nach links für sie durchspulen, meine Damen und Herren."
+        ],
+        "111": [
+            380.38,
+            383.38,
+            "Ralf Hasenüttl kann ja nur noch einmal wechseln."
+        ],
+        "112": [
+            384.38,
+            391.38,
+            "Berg war sicherlich einer, der noch die Offensive bereichern könnte mit seinem Tempo Müller fürs Tor,"
+        ],
+        "113": [
+            391.38,
+            399.38,
+            "Kedirer für das zentrale Mittelfeld, Berg der Angesprochene für den Sturm, Schmitz Außenverteidiger und Kaiseroffensiver Mittelfeldspieler,"
+        ],
+        "114": [
+            399.38,
+            401.38,
+            "der Kapitän dieser Mannschaft."
+        ],
+        "115": [
+            403.38,
+            407.38,
+            "Und der HSV und dessen Trainer Markus Gieswald hat noch sämtliche Möglichkeiten."
+        ],
+        "116": [
+            407.38,
+            412.38,
+            "Gucken wir zunächst auf Keita, Papadopoulos dazwischen und eine neuerliche Kontrasituation für den HSV."
+        ],
+        "117": [
+            413.38,
+            416.38,
+            "Gut kam aus dem Abseits, auch das ist korrekt."
+        ],
+        "118": [
+            416.38,
+            420.38,
+            "HSV, Martenia fürs Tor, Diekmeier rechter Verteidiger, Djuru für die Innenverteidigung,"
+        ],
+        "119": [
+            420.38,
+            427.38,
+            "Douglas Santos linker Verteidiger, Lazorga klar für das Sturmzentrum, Hand für die Zehn und Ekdal für das defensive Mittelfeld."
+        ],
+        "120": [
+            442.38,
+            463.38,
+            "Bernardo, vorbei an Kostic, Faustberg, der ist gut, der ist gut, der ist gut, der ist gut,"
+        ],
+        "121": [
+            464.38,
+            477.38,
+            "Bernardo, vorbei an Kostic, Faustberg, hier links ist Platz Keita zunächst, Keita geht durchs Zentrum mit Faustberg,"
+        ],
+        "122": [
+            477.38,
+            480.38,
+            "da ist Werner und dann gibt es keinen Vorlaufmeter."
+        ],
+        "123": [
+            480.38,
+            492.38,
+            "Faustberg, vorbei an Müller, Faustberg mit Keita, Keita abgefälscht, Keita noch einmal,"
+        ],
+        "124": [
+            492.38,
+            504.38,
+            "Arnzenberg, Sabitzer rüber gewechselt auf die linke Seite, einer für Werner und das ist die Chance, die Nachschusschance für Demme."
+        ],
+        "125": [
+            505.38,
+            514.38,
+            "Zum ersten Mal eigentlich so eine Art Powerplay Situation für die Leipziger und schon die Konterchance für den HSV müsste wieder abseits sein."
+        ],
+        "126": [
+            514.38,
+            521.38,
+            "Das machen Ilsanke und Aubahn dann allerdings sehr geschickt und das ist letztlich auch die einzige Waffe,"
+        ],
+        "127": [
+            521.38,
+            526.38,
+            "die schnellen Hanseaten dann einigermaßen in den Griff zu bekommen."
+        ],
+        "128": [
+            526.38,
+            530.38,
+            "Da hat Aubahn rechtzeitig die zwei, drei Schritte in die richtige Richtung gemacht."
+        ],
+        "129": [
+            544.38,
+            552.38,
+            "Es macht immer wieder Spaß, hat Ralf Hasenruther gesagt, sich bei jedem Heimspiel aufzureiben und den Menschen hier in der Stadt schöne Wochenenden zu bereiten."
+        ],
+        "130": [
+            553.38,
+            559.38,
+            "Bislang war das so. Acht Siege, ein Unentschieden gegen Borussia Mönchengladbach."
+        ],
+        "131": [
+            559.38,
+            572.38,
+            "Und Papadopoulos mit einem taktischen Foul, dafür holt er sich gelb ab, entschuldigt sich bei Faustberg, nachdem er sich zuvor bei Sascha Stegemann bedankt hat."
+        ],
+        "132": [
+            573.38,
+            575.38,
+            "Entscheidung in Ordnung."
+        ],
+        "133": [
+            578.38,
+            581.38,
+            "Hier noch einmal Sakai gegen Keita."
+        ],
+        "134": [
+            584.38,
+            587.38,
+            "Der Ball hatte mit dieser Situation am Rande was zu tun."
+        ],
+        "135": [
+            587.38,
+            593.38,
+            "Der HSV hätte sich nicht beklagen dürfen, wenn Sascha Stegemann diese Situation anders eingeschätzt hatte."
+        ],
+        "136": [
+            593.38,
+            598.38,
+            "Denn den Ball hat er nicht gespielt, Sakai, den Gegner gesperrt und zu Fall gebracht."
+        ],
+        "137": [
+            599.38,
+            601.38,
+            "Keita."
+        ],
+        "138": [
+            614.38,
+            618.38,
+            "Wieder eine Konterchance, aber schwierig zu kontrollieren der Ball für Bobby Wood."
+        ],
+        "139": [
+            619.38,
+            623.38,
+            "Die ersten zehn Minuten seit Wiederbeginn hat der HSV wieder schadlos überstanden."
+        ],
+        "140": [
+            623.38,
+            626.38,
+            "Ohne Gegentor, Selke hatte noch keine Aktion."
+        ],
+        "141": [
+            626.38,
+            635.38,
+            "Das Publikum ist da, merkt, dass heute ein besonderer Tag sein könnte und dass die Mannschaft, die gastgebende Mannschaft, hier jede erdenkliche Unterstützung braucht."
+        ],
+        "142": [
+            635.38,
+            637.38,
+            "Und das ist das, was wir hier in der Stadt sehen."
+        ],
+        "143": [
+            637.38,
+            639.38,
+            "Und das ist das, was wir hier in der Stadt sehen."
+        ],
+        "144": [
+            640.38,
+            648.38,
+            "Das Publikum ist da, merkt, dass heute ein besonderer Tag sein könnte und dass die Mannschaft, die gastgebende Mannschaft, hier jede erdenkliche Unterstützung braucht."
+        ],
+        "145": [
+            648.38,
+            650.38,
+            "Gegen einen enorm starken Gegner."
+        ],
+        "146": [
+            670.38,
+            672.38,
+            "Selke."
+        ],
+        "147": [
+            672.38,
+            674.38,
+            "Rapport Obolos."
+        ],
+        "148": [
+            674.38,
+            676.38,
+            "Mit der Pike."
+        ],
+        "149": [
+            680.38,
+            682.38,
+            "Hier ist Platz für Werner."
+        ],
+        "150": [
+            683.38,
+            685.38,
+            "Jetzt Sakai zurück gegen Werner."
+        ],
+        "151": [
+            685.38,
+            687.38,
+            "Forsberg, der stärker wird."
+        ],
+        "152": [
+            689.38,
+            691.38,
+            "Forsberg setzt sich hier durch gegen Wallace."
+        ],
+        "153": [
+            691.38,
+            693.38,
+            "Und dann wird es ein Tor für den HSV."
+        ],
+        "154": [
+            693.38,
+            695.38,
+            "Und dann wird es ein Tor für den HSV."
+        ],
+        "155": [
+            695.38,
+            697.38,
+            "Und dann wird es ein Tor für den HSV."
+        ],
+        "156": [
+            697.38,
+            699.38,
+            "Forsberg setzt sich hier durch gegen Wallace."
+        ],
+        "157": [
+            715.38,
+            719.38,
+            "Noch so ein neuer, Mergey Mavray, der aus Köln kam."
+        ],
+        "158": [
+            720.38,
+            726.38,
+            "Und heute und aktuell der Mannschaft von Ralf Hasenhüttl große Sorgen bereitet."
+        ],
+        "159": [
+            728.38,
+            735.38,
+            "Noch keine Torchance für die Bullen im zweiten Durchgang."
+        ],
+        "160": [
+            737.38,
+            739.38,
+            "Kostic nach dem Fehler von Bernardo."
+        ],
+        "161": [
+            741.38,
+            744.38,
+            "Den er dann selbst wieder gut machen kann."
+        ],
+        "162": [
+            745.38,
+            747.38,
+            "Gemeinsam mit Ilsanca Keita."
+        ],
+        "163": [
+            747.38,
+            750.38,
+            "Sehr riskant, aber stark gemacht von Keita."
+        ],
+        "164": [
+            751.38,
+            753.38,
+            "Forsberg."
+        ],
+        "165": [
+            757.38,
+            764.38,
+            "Merber Handspiel bei der Ballannahme von Marcel Halstenberg."
+        ],
+        "166": [
+            787.38,
+            789.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "167": [
+            790.38,
+            792.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "168": [
+            817.38,
+            819.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "169": [
+            819.38,
+            821.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "170": [
+            821.38,
+            823.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "171": [
+            823.38,
+            825.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "172": [
+            825.38,
+            827.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "173": [
+            827.38,
+            829.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "174": [
+            829.38,
+            831.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "175": [
+            831.38,
+            833.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "176": [
+            833.38,
+            835.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "177": [
+            835.38,
+            837.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "178": [
+            837.38,
+            839.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "179": [
+            839.38,
+            841.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "180": [
+            841.38,
+            843.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "181": [
+            843.38,
+            845.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "182": [
+            845.38,
+            847.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "183": [
+            875.38,
+            877.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "184": [
+            877.38,
+            879.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "185": [
+            879.38,
+            881.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "186": [
+            881.38,
+            883.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "187": [
+            883.38,
+            885.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "188": [
+            885.38,
+            887.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "189": [
+            887.38,
+            889.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "190": [
+            889.38,
+            891.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "191": [
+            891.38,
+            893.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "192": [
+            893.38,
+            895.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "193": [
+            895.38,
+            897.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "194": [
+            897.38,
+            899.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "195": [
+            899.38,
+            901.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "196": [
+            901.38,
+            903.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "197": [
+            903.38,
+            905.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "198": [
+            905.38,
+            907.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "199": [
+            907.38,
+            909.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "200": [
+            909.38,
+            911.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "201": [
+            911.38,
+            913.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "202": [
+            913.38,
+            915.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "203": [
+            915.38,
+            917.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "204": [
+            917.38,
+            919.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "205": [
+            919.38,
+            921.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "206": [
+            921.38,
+            923.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "207": [
+            923.38,
+            925.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "208": [
+            925.38,
+            927.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "209": [
+            927.38,
+            929.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "210": [
+            929.38,
+            931.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "211": [
+            931.38,
+            933.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "212": [
+            933.38,
+            935.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "213": [
+            935.38,
+            937.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "214": [
+            937.38,
+            939.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "215": [
+            939.38,
+            941.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "216": [
+            941.38,
+            943.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "217": [
+            943.38,
+            945.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "218": [
+            945.38,
+            947.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "219": [
+            947.38,
+            949.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "220": [
+            949.38,
+            951.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "221": [
+            951.38,
+            953.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "222": [
+            953.38,
+            955.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "223": [
+            955.38,
+            957.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "224": [
+            957.38,
+            959.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "225": [
+            959.38,
+            961.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "226": [
+            961.38,
+            963.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "227": [
+            963.38,
+            965.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "228": [
+            965.38,
+            967.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "229": [
+            967.38,
+            969.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "230": [
+            969.38,
+            971.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "231": [
+            971.38,
+            973.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "232": [
+            973.38,
+            975.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "233": [
+            975.38,
+            977.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "234": [
+            977.38,
+            979.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "235": [
+            979.38,
+            981.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "236": [
+            981.38,
+            983.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "237": [
+            983.38,
+            985.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "238": [
+            985.38,
+            987.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "239": [
+            987.38,
+            989.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "240": [
+            989.38,
+            991.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "241": [
+            991.38,
+            993.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "242": [
+            993.38,
+            995.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "243": [
+            995.38,
+            997.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "244": [
+            997.38,
+            999.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "245": [
+            999.38,
+            1001.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "246": [
+            1001.38,
+            1003.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "247": [
+            1003.38,
+            1005.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "248": [
+            1005.38,
+            1007.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "249": [
+            1007.38,
+            1009.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "250": [
+            1009.38,
+            1011.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "251": [
+            1011.38,
+            1013.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "252": [
+            1013.38,
+            1015.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "253": [
+            1015.38,
+            1017.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "254": [
+            1017.38,
+            1019.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "255": [
+            1019.38,
+            1021.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "256": [
+            1021.38,
+            1023.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "257": [
+            1023.38,
+            1025.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "258": [
+            1025.38,
+            1027.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "259": [
+            1027.38,
+            1029.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "260": [
+            1029.38,
+            1031.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "261": [
+            1031.38,
+            1033.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "262": [
+            1033.38,
+            1035.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "263": [
+            1035.38,
+            1037.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "264": [
+            1037.38,
+            1039.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "265": [
+            1039.38,
+            1041.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "266": [
+            1041.38,
+            1043.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "267": [
+            1043.38,
+            1045.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "268": [
+            1045.38,
+            1047.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "269": [
+            1047.38,
+            1049.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "270": [
+            1049.38,
+            1051.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "271": [
+            1051.38,
+            1053.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "272": [
+            1053.38,
+            1055.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "273": [
+            1055.38,
+            1057.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "274": [
+            1057.38,
+            1059.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "275": [
+            1059.38,
+            1061.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "276": [
+            1061.38,
+            1063.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "277": [
+            1063.38,
+            1065.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "278": [
+            1065.38,
+            1067.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "279": [
+            1067.38,
+            1069.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "280": [
+            1069.38,
+            1071.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "281": [
+            1071.38,
+            1073.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "282": [
+            1073.38,
+            1075.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "283": [
+            1075.38,
+            1077.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "284": [
+            1077.38,
+            1079.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "285": [
+            1079.38,
+            1081.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "286": [
+            1081.38,
+            1083.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "287": [
+            1083.38,
+            1085.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "288": [
+            1085.38,
+            1087.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "289": [
+            1087.38,
+            1089.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "290": [
+            1089.38,
+            1091.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "291": [
+            1091.38,
+            1093.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "292": [
+            1093.38,
+            1095.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "293": [
+            1095.38,
+            1097.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "294": [
+            1097.38,
+            1099.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "295": [
+            1099.38,
+            1101.38,
+            "Und dann die Führung von Sakai."
+        ],
+        "296": [
+            1102.36,
+            1104.36,
+            "Und dann die Führung von Sakai."
+        ],
+        "297": [
+            1112.38,
+            1114.38,
+            "Jens Mavrei."
+        ],
+        "298": [
+            1114.38,
+            1116.38,
+            "Jens Mavrei."
+        ],
+        "299": [
+            1117.36,
+            1118.38,
+            "Werner, Sabitzer und Selk,"
+        ],
+        "300": [
+            1119.36,
+            1121.38,
+            "Werner, Sabitzer und Selk,"
+        ],
+        "301": [
+            1121.38,
+            1123.38,
+            "jetzt im Zentrum."
+        ],
+        "302": [
+            1123.38,
+            1125.38,
+            "jetzt im Zentrum."
+        ],
+        "303": [
+            1125.38,
+            1127.38,
+            "Ceuta rückt nach."
+        ],
+        "304": [
+            1127.38,
+            1130.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "305": [
+            1130.38,
+            1133.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "306": [
+            1133.38,
+            1136.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "307": [
+            1136.38,
+            1139.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "308": [
+            1139.38,
+            1142.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "309": [
+            1142.38,
+            1145.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "310": [
+            1145.38,
+            1148.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "311": [
+            1148.38,
+            1151.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "312": [
+            1151.38,
+            1154.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "313": [
+            1154.38,
+            1157.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "314": [
+            1157.38,
+            1160.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "315": [
+            1160.38,
+            1163.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "316": [
+            1163.38,
+            1166.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "317": [
+            1166.38,
+            1169.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "318": [
+            1169.38,
+            1172.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "319": [
+            1172.38,
+            1175.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "320": [
+            1175.38,
+            1178.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "321": [
+            1178.38,
+            1181.38,
+            "Er hat sich nicht mehr auf die Karte gesetzt."
+        ],
+        "322": [
+            1182.38,
+            1185.38,
+            "Berlin genau das Gegenteil der Leipziger."
+        ],
+        "323": [
+            1185.38,
+            1188.38,
+            "Berlin genau das Gegenteil der Leipziger."
+        ],
+        "324": [
+            1192.38,
+            1195.38,
+            "Halstenberg mit links, Vosberg mit rechts."
+        ],
+        "325": [
+            1195.38,
+            1198.38,
+            "Halstenberg mit links, Vosberg mit rechts."
+        ],
+        "326": [
+            1198.38,
+            1206.38,
+            "Wenn natürlich eine Nummer für den gebürtigen Leipziger René Adler, dessen Familie im"
+        ],
+        "327": [
+            1206.38,
+            1212.86,
+            "Stadion ist, normalerweise, wie zu lesen war, alle RB Leipzig Fans, heute drücken sie"
+        ],
+        "328": [
+            1212.86,
+            1216.38,
+            "dem Filius logischerweise die Daumen und damit dem HSV."
+        ],
+        "329": [
+            1228.38,
+            1232.38,
+            "Aus Zscholecki."
+        ],
+        "330": [
+            1232.38,
+            1254.38,
+            "Der wurde nochmal interessant für Kulacsi."
+        ],
+        "331": [
+            1254.38,
+            1258.38,
+            "War allerdings schon im Tor aus."
+        ],
+        "332": [
+            1258.38,
+            1261.38,
+            "Flankenball von Kostic."
+        ],
+        "333": [
+            1261.38,
+            1278.38,
+            "Der hat sich verletzt bei diesem Einsatz gegen Selke."
+        ],
+        "334": [
+            1278.38,
+            1289.38,
+            "Wieder Wallacy."
+        ],
+        "335": [
+            1289.38,
+            1300.38,
+            "Also Leipzig, der beste Aufsteiger aller Zeiten in der Fußball-Bundesliga bis zum"
+        ],
+        "336": [
+            1300.38,
+            1301.38,
+            "13."
+        ],
+        "337": [
+            1301.38,
+            1302.38,
+            "Spieltag ohne Niederlage."
+        ],
+        "338": [
+            1302.38,
+            1306.38,
+            "Zehn Siege, drei Remis, dann gab es das 0 zu 1 in Ingolstadt."
+        ],
+        "339": [
+            1307.38,
+            1310.38,
+            "Und dann gab es in der Niederlage noch einmal Selke gegen Mavra."
+        ],
+        "340": [
+            1310.38,
+            1313.38,
+            "Ich glaube, er bekommt die Ferse ab."
+        ],
+        "341": [
+            1313.38,
+            1316.38,
+            "Unbeabsichtigt von Davy Selke."
+        ],
+        "342": [
+            1316.38,
+            1321.38,
+            "Dann zwischen dem 6. und dem 13."
+        ],
+        "343": [
+            1321.38,
+            1324.38,
+            "Spieltag hatte Leipzig acht Siege in Folge."
+        ],
+        "344": [
+            1324.38,
+            1330.38,
+            "Alles lief super, bis auf das Pokalhaus in der ersten Runde gegen Dynamo Dresden."
+        ],
+        "345": [
+            1330.38,
+            1334.38,
+            "Und zunächst waren es in den letzten Wochen die Auswärtsniederlagen, die ein bisschen"
+        ],
+        "346": [
+            1334.38,
+            1335.38,
+            "Auer gemacht haben."
+        ],
+        "347": [
+            1335.38,
+            1341.38,
+            "Möglicherweise gibt es heute am Ende und im Anschluss an die Partie gegen den HSV eine"
+        ],
+        "348": [
+            1341.38,
+            1343.38,
+            "andere thematische Gemengelage."
+        ],
+        "349": [
+            1343.38,
+            1348.38,
+            "Es wäre dann die erste Heimniederlage seit April des vergangenen Jahres."
+        ],
+        "350": [
+            1348.38,
+            1359.38,
+            "Und ganz ehrlich, im zweiten Durchgang bislang Halstenberg aus der Distanz, aber darüber"
+        ],
+        "351": [
+            1360.38,
+            1366.38,
+            "hinaus keine Situation, bei der man sich hätte Sorgen machen müssen um den HSV."
+        ],
+        "352": [
+            1366.38,
+            1369.38,
+            "Es gab mal eine knifflige Szene im 16-Meter-Raum."
+        ],
+        "353": [
+            1369.38,
+            1371.38,
+            "War es ein Foulspiel von Sakai?"
+        ],
+        "354": [
+            1371.38,
+            1373.38,
+            "War es kein Foulspiel?"
+        ],
+        "355": [
+            1373.38,
+            1381.38,
+            "Aber Leipzig nicht mit der Wucht, nicht mit der spielerischen Klasse, mit der Tempohärte,"
+        ],
+        "356": [
+            1381.38,
+            1386.38,
+            "mit der die Mannschaft von Ralf Hasenüttel ansonsten gerade daheim zu Werke geht."
+        ],
+        "357": [
+            1390.38,
+            1394.38,
+            "Papadopoulos und Timo Werner."
+        ],
+        "358": [
+            1404.38,
+            1408.38,
+            "Also der ist mit so viel Leidenschaft, mit so viel Seele dabei."
+        ],
+        "359": [
+            1408.38,
+            1412.38,
+            "Eigentlich wünscht man sich einen solchen Spieler im eigenen Trikot."
+        ],
+        "360": [
+            1412.38,
+            1418.38,
+            "Und ich denke mir, wenn Ralf Hasenüttel den hier heute so Fußballspielen sieht, vielleicht"
+        ],
+        "361": [
+            1418.38,
+            1421.38,
+            "hat er auch ein Tränchen im Auge dabei."
+        ],
+        "362": [
+            1421.38,
+            1425.38,
+            "Also so einen Innenverteidiger willst du doch auf dem Platz haben."
+        ],
+        "363": [
+            1448.38,
+            1450.38,
+            "Wieder Mavrai gegen Selke."
+        ],
+        "364": [
+            1455.38,
+            1458.38,
+            "Sabitzer gegen Wallersee."
+        ],
+        "365": [
+            1460.38,
+            1462.38,
+            "Demme, der ist gut für Forsberg."
+        ],
+        "366": [
+            1462.38,
+            1466.38,
+            "Und da ist Selke, wird dann vom eigenen Mann behindert und das war genau die Krux."
+        ],
+        "367": [
+            1466.38,
+            1483.38,
+            "Das war mal richtig hübsch herauskombiniert mit ein, zwei Pässchen, dann in die Spitze gespielt"
+        ],
+        "368": [
+            1483.38,
+            1485.38,
+            "und dann behindern sie sich gegenseitig."
+        ],
+        "369": [
+            1485.38,
+            1490.38,
+            "Also möglicherweise ist es so ein Tag, an dem es halt nicht sein soll."
+        ],
+        "370": [
+            1497.38,
+            1499.38,
+            "Gut angeschlagen."
+        ],
+        "371": [
+            1506.38,
+            1510.38,
+            "Kampf für dreieinhalb Millionen im vergangenen Sommer von Union Berlin."
+        ],
+        "372": [
+            1510.38,
+            1511.38,
+            "Hier gucken wir noch einmal."
+        ],
+        "373": [
+            1511.38,
+            1513.38,
+            "Da ist die Hand draußen von Bernardo."
+        ],
+        "374": [
+            1515.38,
+            1517.38,
+            "Und dann die Hand von Selke."
+        ],
+        "375": [
+            1517.38,
+            1519.38,
+            "Und dann die Hand von Bernardo."
+        ],
+        "376": [
+            1519.38,
+            1521.38,
+            "Und dann die Hand von Bernardo."
+        ],
+        "377": [
+            1521.38,
+            1523.38,
+            "Und dann die Hand von Bernardo."
+        ],
+        "378": [
+            1523.38,
+            1525.38,
+            "Da ist die Hand draußen von Bernardo."
+        ],
+        "379": [
+            1526.38,
+            1530.38,
+            "Bei diesen Temperaturen kann selbst ein Wischer unangenehm sein."
+        ],
+        "380": [
+            1530.38,
+            1532.38,
+            "Aber er sollte jetzt nicht mehr draus machen als war."
+        ],
+        "381": [
+            1533.38,
+            1535.38,
+            "Letzter Wechsel, den Ralf Hasenröthl vornehmen kann."
+        ],
+        "382": [
+            1535.38,
+            1539.38,
+            "Er wechselt seinen Außenverteidiger, nimmt Bernardo runter."
+        ],
+        "383": [
+            1543.38,
+            1546.38,
+            "Und er bringt Benno Schmitz ins Team."
+        ],
+        "384": [
+            1547.38,
+            1549.38,
+            "Da ist der Außenverteidiger."
+        ],
+        "385": [
+            1549.38,
+            1552.38,
+            "Er ist 22 Jahre alt, in München geboren."
+        ],
+        "386": [
+            1552.38,
+            1555.38,
+            "In der Jugend mal beim FC Bayern unterwegs."
+        ],
+        "387": [
+            1564.38,
+            1566.38,
+            "Ein Wechsel in der Position."
+        ],
+        "388": [
+            1566.38,
+            1569.38,
+            "Jetzt geht es auch gleich über die rechte Verteidigerseite von Schmitz."
+        ],
+        "389": [
+            1569.38,
+            1571.38,
+            "Da fehlt er."
+        ],
+        "390": [
+            1571.38,
+            1573.38,
+            "Holpi ist da."
+        ],
+        "391": [
+            1573.38,
+            1575.38,
+            "Und dann Keita."
+        ],
+        "392": [
+            1575.38,
+            1577.38,
+            "Nachschuss Chance für Kostic."
+        ],
+        "393": [
+            1580.38,
+            1582.38,
+            "Und dann der Schuss."
+        ],
+        "394": [
+            1582.38,
+            1584.38,
+            "Das war jetzt auch unnötig."
+        ],
+        "395": [
+            1598.38,
+            1600.38,
+            "Das war jetzt auch unnötig."
+        ],
+        "396": [
+            1600.38,
+            1602.38,
+            "Von Stefan Ilsanker."
+        ],
+        "397": [
+            1602.38,
+            1604.38,
+            "Mit in den Einen Philipp Kostic."
+        ],
+        "398": [
+            1610.38,
+            1612.38,
+            "Und jetzt ist die Chance für Kostic."
+        ],
+        "399": [
+            1612.38,
+            1614.38,
+            "Er hat es schon gesagt."
+        ],
+        "400": [
+            1614.38,
+            1616.38,
+            "Da kann man schon mal Gelb zeigen."
+        ],
+        "401": [
+            1616.38,
+            1618.38,
+            "Aber auch das moderiert er weg."
+        ],
+        "402": [
+            1618.38,
+            1620.38,
+            "Richtig so."
+        ],
+        "403": [
+            1620.38,
+            1622.38,
+            "Gute 20 Minuten noch."
+        ],
+        "404": [
+            1640.38,
+            1643.38,
+            "Jede Unterbrechung ist gut für den HSV."
+        ],
+        "405": [
+            1643.38,
+            1646.38,
+            "Jede Unterbrechung ist Gift für den Spielfluss."
+        ],
+        "406": [
+            1646.38,
+            1649.38,
+            "Und die Kombinationsbedürftigkeit von RB Leipzig."
+        ],
+        "407": [
+            1658.38,
+            1660.38,
+            "Deme Keita."
+        ],
+        "408": [
+            1660.38,
+            1662.38,
+            "Bleibt an Wallacey hängen."
+        ],
+        "409": [
+            1662.38,
+            1664.38,
+            "Force back."
+        ],
+        "410": [
+            1665.38,
+            1667.38,
+            "Der Ball ist weg."
+        ],
+        "411": [
+            1667.38,
+            1669.38,
+            "Der Ball ist weg."
+        ],
+        "412": [
+            1669.38,
+            1671.38,
+            "Der Ball ist weg."
+        ],
+        "413": [
+            1671.38,
+            1673.38,
+            "Werner gegen Sakai."
+        ],
+        "414": [
+            1673.38,
+            1675.38,
+            "Werner gegen Müller."
+        ],
+        "415": [
+            1675.38,
+            1677.38,
+            "Vorteil war die Entscheidung."
+        ],
+        "416": [
+            1677.38,
+            1679.38,
+            "Schmitz mit seiner 1. Offensivaktion."
+        ],
+        "417": [
+            1679.38,
+            1681.38,
+            "Schmitz."
+        ],
+        "418": [
+            1681.38,
+            1683.38,
+            "Selke."
+        ],
+        "419": [
+            1683.38,
+            1685.38,
+            "Selke vorbei."
+        ],
+        "420": [
+            1685.38,
+            1687.38,
+            "An Mavrai."
+        ],
+        "421": [
+            1687.38,
+            1689.38,
+            "Wieder nichts."
+        ],
+        "422": [
+            1694.38,
+            1696.38,
+            "Der Ball ist weg."
+        ],
+        "423": [
+            1696.38,
+            1698.38,
+            "Der Ball ist weg."
+        ],
+        "424": [
+            1698.38,
+            1700.38,
+            "Der Ball ist weg."
+        ],
+        "425": [
+            1700.38,
+            1702.38,
+            "Der Ball ist weg."
+        ],
+        "426": [
+            1702.38,
+            1704.38,
+            "Der Ball ist weg."
+        ],
+        "427": [
+            1704.38,
+            1706.38,
+            "Der Ball ist weg."
+        ],
+        "428": [
+            1706.38,
+            1708.38,
+            "Der Ball ist weg."
+        ],
+        "429": [
+            1708.38,
+            1710.38,
+            "Der Ball ist weg."
+        ],
+        "430": [
+            1710.38,
+            1712.38,
+            "Der Ball ist weg."
+        ],
+        "431": [
+            1712.38,
+            1714.38,
+            "Der Ball ist weg."
+        ],
+        "432": [
+            1714.38,
+            1716.38,
+            "Der Ball ist weg."
+        ],
+        "433": [
+            1716.38,
+            1718.38,
+            "Der Ball ist weg."
+        ],
+        "434": [
+            1718.38,
+            1720.38,
+            "Der Ball ist weg."
+        ],
+        "435": [
+            1720.38,
+            1722.38,
+            "Der Ball ist weg."
+        ],
+        "436": [
+            1722.38,
+            1724.38,
+            "Der Ball ist weg."
+        ],
+        "437": [
+            1724.38,
+            1726.38,
+            "Der Ball ist weg."
+        ],
+        "438": [
+            1726.38,
+            1728.38,
+            "Der Ball ist weg."
+        ],
+        "439": [
+            1728.38,
+            1730.38,
+            "Der Ball ist weg."
+        ],
+        "440": [
+            1730.38,
+            1732.38,
+            "Das hatte ein guter Schuss."
+        ],
+        "441": [
+            1732.38,
+            1734.38,
+            "Das hatte ein guter Schuss."
+        ],
+        "442": [
+            1734.38,
+            1736.38,
+            "Der Verein war begeistert."
+        ],
+        "443": [
+            1736.38,
+            1738.38,
+            "Der Verein war begeistert."
+        ],
+        "444": [
+            1738.38,
+            1740.38,
+            "Das hat ihn einen Stammplatz gekostet."
+        ],
+        "445": [
+            1740.38,
+            1742.38,
+            "Das hat ihn einen Stammplatz gekostet."
+        ],
+        "446": [
+            1742.38,
+            1744.38,
+            "Die beiden Innenverteidiger."
+        ],
+        "447": [
+            1744.38,
+            1746.38,
+            "Die wollten sie haben."
+        ],
+        "448": [
+            1746.38,
+            1748.38,
+            "Die wollten sie haben."
+        ],
+        "449": [
+            1748.38,
+            1750.38,
+            "Der Verein hat die Wünsche erfüllt."
+        ],
+        "450": [
+            1750.38,
+            1756.38,
+            "Und die Spieler funktionieren offenbar sofort."
+        ],
+        "451": [
+            1763.38,
+            1765.38,
+            "Bei Borussia Dortmund muss man das sicherlich nur abwarten."
+        ],
+        "452": [
+            1765.38,
+            1772.38,
+            "Kommt aus einer ganz anderen Klimazone, da wird man zwei, drei Spiele abwarten müssen,"
+        ],
+        "453": [
+            1772.38,
+            1774.38,
+            "ob er dann vielleicht in ein Leistungsloch fällt."
+        ],
+        "454": [
+            1774.38,
+            1777.38,
+            "Aber er war schon stark im Pokal gegen den 1. FC Köln."
+        ],
+        "455": [
+            1777.38,
+            1781.38,
+            "Er musste dann nur nach einer guten Stunde ausgewechselt werden, weil er gelb-rot gefährdet war."
+        ],
+        "456": [
+            1781.38,
+            1785.38,
+            "Mavray war im Prinzip voll im Saft beim 1. FC Köln."
+        ],
+        "457": [
+            1785.38,
+            1786.38,
+            "Papadopoulos kaum gespielt."
+        ],
+        "458": [
+            1786.38,
+            1792.38,
+            "Und das ist dann schon überraschend, dass er so gut unterwegs ist und so stark und stabil spielt."
+        ],
+        "459": [
+            1792.38,
+            1808.38,
+            "Fosberg, Halstenberg."
+        ],
+        "460": [
+            1808.38,
+            1813.38,
+            "Das ist schon einfach mal so ins Zentrum gespielt."
+        ],
+        "461": [
+            1813.38,
+            1814.38,
+            "Kommt dann nicht an."
+        ],
+        "462": [
+            1814.38,
+            1816.38,
+            "Über Keita geht es dann weiter."
+        ],
+        "463": [
+            1817.38,
+            1820.38,
+            "Und Schmitz."
+        ],
+        "464": [
+            1820.38,
+            1824.38,
+            "Und im Zentrum lag Fosberg auf dem Boden, hat aber nicht reklamiert."
+        ],
+        "465": [
+            1824.38,
+            1828.38,
+            "Ich nehme das mal als Indiz dafür, dass da auch nichts war."
+        ],
+        "466": [
+            1829.38,
+            1847.38,
+            "Knappes Chancenplus für den RB aus Leipzig im zweiten Durchgang."
+        ],
+        "467": [
+            1847.38,
+            1849.38,
+            "Halstenberg, Selke."
+        ],
+        "468": [
+            1849.38,
+            1851.38,
+            "Chancen im Ansatz."
+        ],
+        "469": [
+            1851.38,
+            1853.38,
+            "Es war keine klare Gelegenheit dabei."
+        ],
+        "470": [
+            1854.38,
+            1856.38,
+            "Holk wie für den HSV auf der anderen Seite."
+        ],
+        "471": [
+            1856.38,
+            1861.38,
+            "Und das unveränderte Manko der Mannschaft von Markus Gießloh."
+        ],
+        "472": [
+            1861.38,
+            1866.38,
+            "Wenn es denn eins gibt überhaupt an einem Nachmittag, an dem sehr viel gut läuft für den HSV,"
+        ],
+        "473": [
+            1866.38,
+            1871.38,
+            "sind es die Konter, die eben nicht ins Ziel gebracht werden."
+        ],
+        "474": [
+            1871.38,
+            1873.38,
+            "Ansonsten hätten sie wahrscheinlich schon Ruhe."
+        ],
+        "475": [
+            1873.38,
+            1876.38,
+            "So bleibt noch eine spannende Schlussphase."
+        ],
+        "476": [
+            1877.38,
+            1883.38,
+            "Ein Rückstand aus Sicht der Leipziger, der rein zeitlich noch zu erledigen wäre."
+        ],
+        "477": [
+            1883.38,
+            1886.38,
+            "Aber reicht es sportlich, reicht es spielerisch?"
+        ],
+        "478": [
+            1886.38,
+            1890.38,
+            "Oder sitzt dann irgendwann mal ein hanseatischer Konter?"
+        ],
+        "479": [
+            1890.38,
+            1891.38,
+            "Da ist Kostic."
+        ],
+        "480": [
+            1892.38,
+            1893.38,
+            "Wahnsinn."
+        ],
+        "481": [
+            1893.38,
+            1894.38,
+            "Saison."
+        ],
+        "482": [
+            1894.38,
+            1896.38,
+            "Zwölf Spiele von Beginn an ohne Sieg."
+        ],
+        "483": [
+            1896.38,
+            1898.38,
+            "Seit dem dritten Spieltag in der Tabelle."
+        ],
+        "484": [
+            1898.38,
+            1899.38,
+            "16."
+        ],
+        "485": [
+            1899.38,
+            1900.38,
+            "Oder schlechter unterwegs."
+        ],
+        "486": [
+            1900.38,
+            1902.38,
+            "Ansonsten ist es eine gute Chance für den HSV."
+        ],
+        "487": [
+            1902.38,
+            1904.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "488": [
+            1904.38,
+            1906.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "489": [
+            1906.38,
+            1908.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "490": [
+            1908.38,
+            1910.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "491": [
+            1910.38,
+            1912.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "492": [
+            1912.38,
+            1914.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "493": [
+            1914.38,
+            1916.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "494": [
+            1916.38,
+            1918.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "495": [
+            1918.38,
+            1920.38,
+            "Das ist eine gute Chance für den HSV."
+        ],
+        "496": [
+            1921.38,
+            1923.38,
+            "Am fünften Spieltag."
+        ],
+        "497": [
+            1923.38,
+            1924.38,
+            "Ein starkes Spiel."
+        ],
+        "498": [
+            1924.38,
+            1926.38,
+            "Zu Hause gegen die Bayern."
+        ],
+        "499": [
+            1926.38,
+            1927.38,
+            "Knapp verloren."
+        ],
+        "500": [
+            1927.38,
+            1930.38,
+            "Danach die Entlassung von Bruno Labbadia."
+        ],
+        "501": [
+            1930.38,
+            1933.38,
+            "Und die Verpflichtung von Markus Gisdol."
+        ],
+        "502": [
+            1933.38,
+            1936.38,
+            "Der bislang beim HSV vier Mal gewonnen hat."
+        ],
+        "503": [
+            1936.38,
+            1937.38,
+            "Drei Unentschieden."
+        ],
+        "504": [
+            1937.38,
+            1938.38,
+            "Sieben Mal verloren."
+        ],
+        "505": [
+            1938.38,
+            1941.38,
+            "Heute wäre das ein richtiger Schritt."
+        ],
+        "506": [
+            1941.38,
+            1943.38,
+            "Heute wäre das ein richtiger Schritt."
+        ],
+        "507": [
+            1943.38,
+            1947.38,
+            "Das wird sicherlich auch Herbert Bruchhagen so konzidieren."
+        ],
+        "508": [
+            1950.38,
+            1953.38,
+            "Jetzt kommt der freie Schuss."
+        ],
+        "509": [
+            1953.38,
+            1956.38,
+            "Jetzt kommt der freie Schuss."
+        ],
+        "510": [
+            1956.38,
+            1958.38,
+            "Der freie Schuss."
+        ],
+        "511": [
+            1958.38,
+            1960.38,
+            "Der freie Schuss."
+        ],
+        "512": [
+            1960.38,
+            1962.38,
+            "Der freie Schuss."
+        ],
+        "513": [
+            1962.38,
+            1965.38,
+            "Es geht um das Tor."
+        ],
+        "514": [
+            1965.38,
+            1969.38,
+            "Es geht um das Tor."
+        ],
+        "515": [
+            1969.38,
+            1972.38,
+            "Das war keine gute Chance."
+        ],
+        "516": [
+            1972.38,
+            1975.38,
+            "Das war keine gute Chance."
+        ],
+        "517": [
+            1975.38,
+            1978.38,
+            "Ein freier Schuss."
+        ],
+        "518": [
+            1978.38,
+            1980.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "519": [
+            1980.38,
+            1982.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "520": [
+            1983.36,
+            1985.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "521": [
+            1985.38,
+            1987.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "522": [
+            1988.36,
+            1990.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "523": [
+            1990.38,
+            1992.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "524": [
+            1993.36,
+            1995.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "525": [
+            1995.38,
+            1997.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "526": [
+            1998.36,
+            2000.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "527": [
+            2000.38,
+            2002.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "528": [
+            2003.36,
+            2005.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "529": [
+            2005.38,
+            2007.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "530": [
+            2009.38,
+            2011.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "531": [
+            2014.36,
+            2016.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "532": [
+            2032.38,
+            2034.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "533": [
+            2034.38,
+            2036.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "534": [
+            2037.38,
+            2039.38,
+            "Der Mann ist in der Mitte."
+        ],
+        "535": [
+            2040.36,
+            2042.36,
+            "Der Mann ist in der Mitte."
+        ],
+        "536": [
+            2044.38,
+            2047.38,
+            "Er muss auch die Wettkampfpraxis erst zurückkommen."
+        ],
+        "537": [
+            2048.36,
+            2050.38,
+            "Es ist sein erstes Spiel im Jahr 2017."
+        ],
+        "538": [
+            2051.36,
+            2053.38,
+            "Am 16. Spieltag, also kurz vor Weihnachten,"
+        ],
+        "539": [
+            2054.36,
+            2056.38,
+            "war er mit Rot vom Platz gegangen."
+        ],
+        "540": [
+            2057.36,
+            2059.38,
+            "Er hat drei Spiele gesperrt."
+        ],
+        "541": [
+            2065.38,
+            2068.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "542": [
+            2068.38,
+            2071.38,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "543": [
+            2084.36,
+            2087.38,
+            "Da liegt Nikolai Müller am rechten Bildrand."
+        ],
+        "544": [
+            2088.36,
+            2091.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "545": [
+            2094.38,
+            2096.38,
+            "Er hatte muskuläre Probleme."
+        ],
+        "546": [
+            2097.36,
+            2100.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "547": [
+            2102.38,
+            2104.38,
+            "Er ist ein kantiger Innenverteidiger."
+        ],
+        "548": [
+            2105.38,
+            2108.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "549": [
+            2110.38,
+            2113.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "550": [
+            2115.38,
+            2117.38,
+            "Er ist der Außenverteidiger des HSV."
+        ],
+        "551": [
+            2118.36,
+            2121.38,
+            "Er deutet sich der erste Wechsel bei den Gästen an."
+        ],
+        "552": [
+            2122.36,
+            2125.38,
+            "Markus Giesthol wird alle drei Möglichkeiten nutzen."
+        ],
+        "553": [
+            2126.36,
+            2128.36,
+            "Dazu ist er clever genug."
+        ],
+        "554": [
+            2135.38,
+            2138.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "555": [
+            2140.38,
+            2143.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "556": [
+            2145.38,
+            2148.36,
+            "Er hat sich immer wieder auf den Platz gelegt."
+        ],
+        "557": [
+            2150.38,
+            2152.38,
+            "Das gehört sich nicht."
+        ],
+        "558": [
+            2153.36,
+            2156.38,
+            "Das ging dem Kapitän des RB Leipzig nicht schnell genug."
+        ],
+        "559": [
+            2157.36,
+            2160.38,
+            "Deswegen hat er den Medizinkoffer nach außen geschleudert."
+        ],
+        "560": [
+            2161.38,
+            2163.38,
+            "Das ist der 5. Spiel."
+        ],
+        "561": [
+            2166.36,
+            2168.36,
+            "Das ist der 5. Spiel."
+        ],
+        "562": [
+            2170.38,
+            2174.36,
+            "Das erklärt Sascha Schneegemann, dass sich das nicht gehört."
+        ],
+        "563": [
+            2174.38,
+            2176.38,
+            "Das ist der 5. Spiel."
+        ],
+        "564": [
+            2179.36,
+            2181.36,
+            "Das ist dämlich."
+        ],
+        "565": [
+            2181.38,
+            2183.36,
+            "Das ist dämlich."
+        ],
+        "566": [
+            2183.38,
+            2185.36,
+            "Das ist dämlich."
+        ],
+        "567": [
+            2185.38,
+            2187.36,
+            "Das ist dämlich."
+        ],
+        "568": [
+            2187.38,
+            2189.36,
+            "Das ist dämlich."
+        ],
+        "569": [
+            2190.38,
+            2192.36,
+            "Das ist dämlich."
+        ],
+        "570": [
+            2195.36,
+            2197.38,
+            "Das war der VfB von Vorsberg."
+        ],
+        "571": [
+            2203.36,
+            2205.38,
+            "Sehr schick von Vorsberg."
+        ],
+        "572": [
+            2208.38,
+            2210.38,
+            "Werner versucht, auf Selke zu passen."
+        ],
+        "573": [
+            2212.38,
+            2214.38,
+            "Und Papadopoulos dazwischen."
+        ],
+        "574": [
+            2220.38,
+            2224.94,
+            "Und hier passiert so viel auf dem Spielfeld."
+        ],
+        "575": [
+            2224.94,
+            2229.06,
+            "Er wedelt da mit den Armen, will seit Augenblicken wechseln."
+        ],
+        "576": [
+            2229.06,
+            2230.46,
+            "Dennis Diekmeier steht da bereit."
+        ],
+        "577": [
+            2230.46,
+            2234.7,
+            "Und wer holt sie wieder zusammen?"
+        ],
+        "578": [
+            2234.7,
+            2235.7,
+            "Papadopoulos."
+        ],
+        "579": [
+            2235.7,
+            2240.34,
+            "Also auch für die Hygiene in der Mannschaft, für die Geschlossenheit im Team ist Papadopoulos"
+        ],
+        "580": [
+            2240.34,
+            2241.78,
+            "ja eigentlich gar nicht zu bezahlen."
+        ],
+        "581": [
+            2241.78,
+            2245.5,
+            "Immer dabei, klatscht immer ab."
+        ],
+        "582": [
+            2245.5,
+            2252.18,
+            "Hier geht Wannessi für meinen Geschmack mit den Stollen voraus rein, gibt aber gleich"
+        ],
+        "583": [
+            2252.18,
+            2253.78,
+            "wohl Freistoß für die Hamburger."
+        ],
+        "584": [
+            2253.78,
+            2256.78,
+            "Und das ist nochmal die Rettungsaktion von Papadopoulos."
+        ],
+        "585": [
+            2256.78,
+            2260.5,
+            "Eine fleischgewordene Urgewalt."
+        ],
+        "586": [
+            2260.5,
+            2264.82,
+            "Kostic geht."
+        ],
+        "587": [
+            2264.82,
+            2266.66,
+            "Defensiver Wechsel, klar."
+        ],
+        "588": [
+            2266.66,
+            2274.74,
+            "Und für den serbischen Nationalstürmer, der gut gespielt hat, hat er auch eine Gelegenheit"
+        ],
+        "589": [
+            2274.74,
+            2276.02,
+            "zum Torerfolg zu kommen."
+        ],
+        "590": [
+            2276.02,
+            2281.38,
+            "Jetzt Dennis Diekmeier."
+        ],
+        "591": [
+            2281.38,
+            2284.34,
+            "Nikolaj Müller wechselt die Seite, spielt auf der Kostic-Position."
+        ],
+        "592": [
+            2284.34,
+            2287.94,
+            "Diekmeier nach rechts gegangen, spielt vor Sakai."
+        ],
+        "593": [
+            2287.94,
+            2289.78,
+            "Das ist die erste Aktion von Dennis Diekmeier."
+        ],
+        "594": [
+            2304.74,
+            2314.7,
+            "Ja und weit einwerfen kann er auch, Dennis Diekmeier."
+        ],
+        "595": [
+            2314.7,
+            2322.1,
+            "Macht aber nicht."
+        ],
+        "596": [
+            2322.1,
+            2323.1,
+            "Sechseinhalb Minuten noch."
+        ],
+        "597": [
+            2323.1,
+            2333.98,
+            "Nach dem 2 zu 0 in Darmstadt im Herbst des vergangenen Jahres steuert der HSV auf seinen"
+        ],
+        "598": [
+            2334.22,
+            2336.62,
+            "zweiten Auswärtssieg in dieser Saison zu."
+        ],
+        "599": [
+            2336.62,
+            2338.58,
+            "Und das beim Tabellenzweiten."
+        ],
+        "600": [
+            2338.58,
+            2339.58,
+            "Also das wäre ein Statement."
+        ],
+        "601": [
+            2339.58,
+            2349.14,
+            "Genauso wie die Tatsache, meine Damen und Herren, dass wir ihn Tennis übertragen, die ATP-Master-Serie."
+        ],
+        "602": [
+            2349.14,
+            2353.26,
+            "Wir starten in Rotterdam am kommenden Montag mit unserer Übertragung."
+        ],
+        "603": [
+            2353.26,
+            2362.26,
+            "Wird ein tolles Turnier, auch wenn Wawrinka und Nadal abgesagt haben."
+        ],
+        "604": [
+            2362.26,
+            2365.14,
+            "Montag ab 12.30 Uhr, Sky Sport 1 HD."
+        ],
+        "605": [
+            2392.26,
+            2415.5,
+            "Halstenberg und Forstberg."
+        ],
+        "606": [
+            2416.5,
+            2423.5,
+            "Werner gegen Jung, der dann hält."
+        ],
+        "607": [
+            2423.5,
+            2425.5,
+            "Taktisches Vorgib gelb gegen den Hamburger."
+        ],
+        "608": [
+            2446.5,
+            2452.5,
+            "Forstberg mit diesem Freistoß."
+        ],
+        "609": [
+            2465.5,
+            2468.5,
+            "Ich denke nochmal gerade an René Adler."
+        ],
+        "610": [
+            2469.5,
+            2475.5,
+            "Im Interview mit ihm gelesen, vor seiner Rückkehr in seine Geburtsstadt, hat er gesagt,"
+        ],
+        "611": [
+            2475.5,
+            2478.5,
+            "wir spielen auf Sieg, wir wollen die drei Punkte in Leipzig."
+        ],
+        "612": [
+            2478.5,
+            2482.5,
+            "Da hat sicherlich der eine oder andere gedacht, ja erzähl du mal, wie wollt ihr das denn schaffen?"
+        ],
+        "613": [
+            2482.5,
+            2485.5,
+            "Und jetzt ist es bald Realität."
+        ],
+        "614": [
+            2487.5,
+            2490.5,
+            "Zwei Standard-Tore haben gereicht bislang."
+        ],
+        "615": [
+            2490.5,
+            2493.5,
+            "Achtung, gucken wir nochmal auf Wutt, diesmal nicht im Abseits."
+        ],
+        "616": [
+            2493.5,
+            2495.5,
+            "Und Diekmeyer, Diekmeyer kann es finalisieren."
+        ],
+        "617": [
+            2495.5,
+            2498.5,
+            "Diekmeyer gegen Gulaschi, Latte."
+        ],
+        "618": [
+            2507.5,
+            2512.5,
+            "Diekmeyer hat hier die Gelegenheit, dieses Spiel endgültig zu entscheiden."
+        ],
+        "619": [
+            2514.5,
+            2521.5,
+            "Und für Dennis Diekmeyer wäre es sicherlich historisch gewesen, in seinem 169. Bundesligaspiel,"
+        ],
+        "620": [
+            2521.5,
+            2524.5,
+            "wäre dies das erste Tor gewesen."
+        ],
+        "621": [
+            2526.5,
+            2528.5,
+            "Drei Minuten noch."
+        ],
+        "622": [
+            2532.5,
+            2535.5,
+            "Also vor diesem Spiel Leipzig Tabellenplatz 2, 42 Punkte."
+        ],
+        "623": [
+            2535.5,
+            2538.5,
+            "Achtung Selke, Adler ist da."
+        ],
+        "624": [
+            2540.5,
+            2543.5,
+            "Und jetzt fordern die Leipziger 11 Meter."
+        ],
+        "625": [
+            2544.5,
+            2547.5,
+            "Und die Frage ist, wer hat wen zu Fall gebracht?"
+        ],
+        "626": [
+            2547.5,
+            2552.5,
+            "Ich glaube, aber das sage ich jetzt ohne Zeitlupe gesehen zu haben, dass Selke eher in Adler reingerauscht ist."
+        ],
+        "627": [
+            2553.5,
+            2558.5,
+            "Wir gucken jetzt mal auf den Konter der Hanseaten mit Diekmeyer, mit Müller, der durchlassen will."
+        ],
+        "628": [
+            2558.5,
+            2560.5,
+            "Funktioniert aber nicht."
+        ],
+        "629": [
+            2560.5,
+            2566.5,
+            "Und Selke liegt da hinten und muss behandelt werden. Adler ist da, aber der hat keinen Medizinkoffer dabei."
+        ],
+        "630": [
+            2577.5,
+            2580.5,
+            "So, jetzt kommen die Leipziger Betreuer."
+        ],
+        "631": [
+            2583.5,
+            2587.5,
+            "Ein harter Kontakt zwischen Adler und Selke."
+        ],
+        "632": [
+            2587.5,
+            2590.5,
+            "Selke steht da besser als Papadopoulos."
+        ],
+        "633": [
+            2590.5,
+            2594.5,
+            "Dann kommt Adler, spielt den Ball und dann trifft er Selke."
+        ],
+        "634": [
+            2595.5,
+            2599.5,
+            "Das ist ein harter Einsatz, aber Adler spielt den Ball."
+        ],
+        "635": [
+            2600.5,
+            2603.5,
+            "Und damit brauchen wir bei 11 Meter nicht zu sprechen."
+        ],
+        "636": [
+            2604.5,
+            2607.5,
+            "Aber dass es weh getan hat, das steht außer Frage."
+        ],
+        "637": [
+            2608.5,
+            2612.5,
+            "Adler ist ein fairer Sportsmann, ist sofort bei Davy Selke."
+        ],
+        "638": [
+            2612.5,
+            2618.5,
+            "Und Markus Gisdol wird in wenigen Augenblicken, dies als taktische Maßnahme zu verstehen, Ektar bringen."
+        ],
+        "639": [
+            2618.5,
+            2623.5,
+            "Das ist nochmal diese Gelegenheit für Dennis Diekmeyer, der im Grunde alles richtig macht."
+        ],
+        "640": [
+            2623.5,
+            2626.5,
+            "Ich finde das Zeichen der Leipziger Fans sed auch bemerkenswert."
+        ],
+        "641": [
+            2626.5,
+            2643.5,
+            "Hier ist keiner sauer, hier ist keiner niedergeschlagen und es war auch keiner belustigt,"
+        ],
+        "642": [
+            2643.5,
+            2646.5,
+            "Milk Alaska, w 32 der Eenougglees."
+        ],
+        "643": [
+            2648.5,
+            2651.5,
+            "Der Jerome Albas dann in bereit."
+        ],
+        "644": [
+            2651.5,
+            2653.9,
+            "Keiner ist sauer, keiner ist niedergeschlagen."
+        ],
+        "645": [
+            2653.9,
+            2658.4,
+            "Sie hüpfen, sie feiern die Mannschaft, weil die Truppe von Ralf Hasenhüttl logischerweise"
+        ],
+        "646": [
+            2658.4,
+            2663.5,
+            "in dieser Saison Außerordentliches geleistet hat und sicherlich auch wieder leisten wird."
+        ],
+        "647": [
+            2663.5,
+            2665.9,
+            "Aber heute war halt der Tag des HSV."
+        ],
+        "648": [
+            2665.9,
+            2668.26,
+            "Es läuft die 90. Minute."
+        ],
+        "649": [
+            2668.26,
+            2673.9,
+            "Hamburg wird dieses 2 zu 0 richtig gut tun."
+        ],
+        "650": [
+            2673.9,
+            2680.18,
+            "Nach einem 1 zu 0 gegen Leverkusen im Pokal haben sie das Viertelfinale erreicht durch"
+        ],
+        "651": [
+            2680.18,
+            2682.02,
+            "ein 2 zu 0 gegen den 1."
+        ],
+        "652": [
+            2682.02,
+            2685.18,
+            "FC Köln und heute ein Sieg beim Tabellenzweiten."
+        ],
+        "653": [
+            2685.18,
+            2687.18,
+            "Also das ist ein Big Point."
+        ],
+        "654": [
+            2687.18,
+            2688.18,
+            "Ohne Frage."
+        ],
+        "655": [
+            2688.18,
+            2695.26,
+            "Dazu die neu gewonnene Heimstärke des HSV."
+        ],
+        "656": [
+            2695.26,
+            2698.3,
+            "Vier Pflichtspiel-Siege in Folge im Volksbankstadion."
+        ],
+        "657": [
+            2698.3,
+            2702.7,
+            "Jetzt gucken wir nochmal auf Forstberg."
+        ],
+        "658": [
+            2702.7,
+            2703.7,
+            "Papadopoulos zur Ecke."
+        ],
+        "659": [
+            2703.7,
+            2706.78,
+            "Und wenn wir dann auf das Programm gucken des HSV."
+        ],
+        "660": [
+            2706.78,
+            2712.3,
+            "Nächsten 5 Spiele sind 4 zu Hause."
+        ],
+        "661": [
+            2712.3,
+            2716.94,
+            "Freiburg nächsten Samstag, Bayern auswärts und dann Mönchengladbach Viertelfinale zu"
+        ],
+        "662": [
+            2716.94,
+            2720.1,
+            "Hause, Hertha zu Hause und Mönchengladbach Renner Liga zu Hause."
+        ],
+        "663": [
+            2720.1,
+            2728.3,
+            "Holtby hat für mich ein klasse Spiel abgeliefert."
+        ],
+        "664": [
+            2728.3,
+            2735.3,
+            "Viel gelaufen, viel gekämpft, die Räume erkannt, viele Konter eingefädelt."
+        ],
+        "665": [
+            2735.3,
+            2740.34,
+            "Wie gesagt, das ist das einzige Manko im HSV-Spiel, die dann nicht ordentlich zu Ende"
+        ],
+        "666": [
+            2740.34,
+            2741.34,
+            "gespielt worden war."
+        ],
+        "667": [
+            2741.34,
+            2747.46,
+            "3 Minuten Nachspielzeit und Eckdahl für Holtby."
+        ],
+        "668": [
+            2747.46,
+            2759.7,
+            "Und dann der HSV gleich einen kopfballstarken Defensivmann bei dieser Ecke, die Forstberg"
+        ],
+        "669": [
+            2759.7,
+            2760.7,
+            "nun hereinbringt."
+        ],
+        "670": [
+            2761.7,
+            2768.3,
+            "Papadopoulos, eins mit Sternchen heute für den griechischen Nationalverteidiger."
+        ],
+        "671": [
+            2783.3,
+            2789.42,
+            "Und Leipzig nächste Woche am Sonntag 15.30 Uhr in Mönchengladbach, dann Köln zu Hause,"
+        ],
+        "672": [
+            2790.14,
+            2795.74,
+            "Augsburg auswärts, Wolfsburg zu Hause, Bremen auswärts, Darmstadt zu Hause."
+        ],
+        "673": [
+            2795.74,
+            2801.94,
+            "Ich hab's Ihnen gesagt, Markus Giestolp wechselt dreimal, ist doch logisch."
+        ],
+        "674": [
+            2801.94,
+            2811.46,
+            "Jetzt geht Wuth, der vier, fünf, sechs Mal im Abseitsstand eine gute Torgelegenheit hatte"
+        ],
+        "675": [
+            2811.46,
+            2816.58,
+            "und er macht jetzt Platz für Aaron Hunt, der im Pokal in der Startelf war und richtig gut"
+        ],
+        "676": [
+            2816.58,
+            2818.14,
+            "gespielt hat auf der Zehn."
+        ],
+        "677": [
+            2818.86,
+            2824.38,
+            "Und auch das eine Erfahrung des HSV in dieser Woche, wenn man vier, fünf Pausieren aus"
+        ],
+        "678": [
+            2824.38,
+            2829.38,
+            "der vermeintlichen Stammelf, ist kein Qualitätsverlust zu verzeichnen."
+        ],
+        "679": [
+            2829.38,
+            2833.5,
+            "What a see mit diesem Ball, jetzt kann Nikolaj Müller den Deckel drauf machen."
+        ],
+        "680": [
+            2833.5,
+            2835.74,
+            "Müller und dann ist es vorbei."
+        ],
+        "681": [
+            2835.74,
+            2839.5,
+            "3-0 und es ist Hunt mit seinem ersten Ballkontakt."
+        ],
+        "682": [
+            2849.14,
+            2857.5,
+            "Eine bittere Niederlage für Ralf Asenhütl und ein super Sieg für Markus Giestolp, der"
+        ],
+        "683": [
+            2857.5,
+            2862.38,
+            "mit Ralf Rangnick zusammen 2011 bei den Schalkern, mit den Schalkern Deutscher Pokalsieger wurde."
+        ],
+        "684": [
+            2862.38,
+            2863.46,
+            "Hier ist es kein Abseits."
+        ],
+        "685": [
+            2863.46,
+            2872.46,
+            "Und beim Pass Müllers steht Hunt hinter dem Ball, alles sauber."
+        ],
+        "686": [
+            2872.46,
+            2879.94,
+            "Müller macht das stark nach dem langen Ball von What a see und Hunt erzielt sein erstes."
+        ]
+    }
+}

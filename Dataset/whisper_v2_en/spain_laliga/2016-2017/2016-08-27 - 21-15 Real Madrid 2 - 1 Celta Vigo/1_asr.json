@@ -1,0 +1,4334 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            6.0,
+            "The players are in the stadium, the fans are cheering for them, the fans are cheering for them,"
+        ],
+        "1": [
+            6.0,
+            9.0,
+            "the fans are cheering for them, the fans are cheering for them,"
+        ],
+        "2": [
+            9.0,
+            12.0,
+            "the fans are cheering for them, the fans are cheering for them,"
+        ],
+        "3": [
+            12.0,
+            15.0,
+            "the fans are cheering for them, the fans are cheering for them,"
+        ],
+        "4": [
+            15.0,
+            18.0,
+            "the fans are cheering for them,"
+        ],
+        "5": [
+            18.0,
+            21.0,
+            "the fans are cheering for them,"
+        ],
+        "6": [
+            21.0,
+            24.0,
+            "the fans are cheering for them,"
+        ],
+        "7": [
+            24.0,
+            27.0,
+            "the fans are cheering for them,"
+        ],
+        "8": [
+            27.0,
+            30.0,
+            "the fans are cheering for them,"
+        ],
+        "9": [
+            30.0,
+            33.0,
+            "the fans are cheering for them,"
+        ],
+        "10": [
+            33.0,
+            36.0,
+            "the fans are cheering for them,"
+        ],
+        "11": [
+            36.0,
+            39.0,
+            "the fans are cheering for them,"
+        ],
+        "12": [
+            39.0,
+            42.0,
+            "the fans are cheering for them,"
+        ],
+        "13": [
+            42.0,
+            45.0,
+            "the fans are cheering for them,"
+        ],
+        "14": [
+            45.0,
+            48.0,
+            "the fans are cheering for them,"
+        ],
+        "15": [
+            48.0,
+            51.0,
+            "the fans are cheering for them,"
+        ],
+        "16": [
+            51.0,
+            54.0,
+            "the fans are cheering for them,"
+        ],
+        "17": [
+            54.0,
+            57.0,
+            "the fans are cheering for them,"
+        ],
+        "18": [
+            57.0,
+            60.0,
+            "the fans are cheering for them,"
+        ],
+        "19": [
+            60.0,
+            63.0,
+            "the fans are cheering for them,"
+        ],
+        "20": [
+            63.0,
+            66.0,
+            "the fans are cheering for them,"
+        ],
+        "21": [
+            66.0,
+            69.0,
+            "the fans are cheering for them,"
+        ],
+        "22": [
+            69.0,
+            72.0,
+            "the fans are cheering for them,"
+        ],
+        "23": [
+            72.0,
+            75.0,
+            "the fans are cheering for them,"
+        ],
+        "24": [
+            75.0,
+            78.0,
+            "the fans are cheering for them,"
+        ],
+        "25": [
+            78.0,
+            81.0,
+            "the fans are cheering for them,"
+        ],
+        "26": [
+            82.0,
+            85.0,
+            "the fans are cheering for them,"
+        ],
+        "27": [
+            85.0,
+            88.0,
+            "the fans are cheering for them,"
+        ],
+        "28": [
+            88.0,
+            91.0,
+            "the fans are cheering for them,"
+        ],
+        "29": [
+            91.0,
+            94.0,
+            "the fans are cheering for them,"
+        ],
+        "30": [
+            94.0,
+            97.0,
+            "the fans are cheering for them,"
+        ],
+        "31": [
+            97.0,
+            100.0,
+            "the fans are cheering for them,"
+        ],
+        "32": [
+            100.0,
+            103.0,
+            "the fans are cheering for them,"
+        ],
+        "33": [
+            103.0,
+            106.0,
+            "the fans are cheering for them,"
+        ],
+        "34": [
+            106.0,
+            109.0,
+            "the fans are cheering for them,"
+        ],
+        "35": [
+            109.0,
+            112.0,
+            "the fans are cheering for them,"
+        ],
+        "36": [
+            112.0,
+            115.0,
+            "the fans are cheering for them,"
+        ],
+        "37": [
+            115.0,
+            118.0,
+            "the fans are cheering for them,"
+        ],
+        "38": [
+            118.0,
+            121.0,
+            "the fans are cheering for them,"
+        ],
+        "39": [
+            121.0,
+            124.0,
+            "the fans are cheering for them,"
+        ],
+        "40": [
+            124.0,
+            127.0,
+            "the fans are cheering for them,"
+        ],
+        "41": [
+            127.0,
+            130.0,
+            "the fans are cheering for them,"
+        ],
+        "42": [
+            130.0,
+            133.0,
+            "the fans are cheering for them,"
+        ],
+        "43": [
+            133.0,
+            136.0,
+            "the fans are cheering for them,"
+        ],
+        "44": [
+            136.0,
+            139.0,
+            "the fans are cheering for them,"
+        ],
+        "45": [
+            139.0,
+            142.0,
+            "the fans are cheering for them,"
+        ],
+        "46": [
+            142.0,
+            145.0,
+            "the fans are cheering for them,"
+        ],
+        "47": [
+            145.0,
+            148.0,
+            "the fans are cheering for them,"
+        ],
+        "48": [
+            148.0,
+            151.0,
+            "the fans are cheering for them,"
+        ],
+        "49": [
+            151.0,
+            154.0,
+            "the fans are cheering for them,"
+        ],
+        "50": [
+            154.0,
+            157.0,
+            "the fans are cheering for them,"
+        ],
+        "51": [
+            157.0,
+            160.0,
+            "the fans are cheering for them,"
+        ],
+        "52": [
+            160.0,
+            163.0,
+            "the fans are cheering for them,"
+        ],
+        "53": [
+            163.0,
+            166.0,
+            "the fans are cheering for them,"
+        ],
+        "54": [
+            166.0,
+            169.0,
+            "the fans are cheering for them,"
+        ],
+        "55": [
+            169.0,
+            172.0,
+            "the fans are cheering for them,"
+        ],
+        "56": [
+            172.0,
+            175.0,
+            "the fans are cheering for them,"
+        ],
+        "57": [
+            175.0,
+            178.0,
+            "the fans are cheering for them,"
+        ],
+        "58": [
+            178.0,
+            181.0,
+            "the fans are cheering for them,"
+        ],
+        "59": [
+            181.0,
+            184.0,
+            "the fans are cheering for them,"
+        ],
+        "60": [
+            184.0,
+            187.0,
+            "the fans are cheering for them,"
+        ],
+        "61": [
+            187.0,
+            190.0,
+            "the fans are cheering for them,"
+        ],
+        "62": [
+            190.0,
+            193.0,
+            "the fans are cheering for them,"
+        ],
+        "63": [
+            193.0,
+            196.0,
+            "the fans are cheering for them,"
+        ],
+        "64": [
+            196.0,
+            199.0,
+            "the fans are cheering for them,"
+        ],
+        "65": [
+            199.0,
+            202.0,
+            "the fans are cheering for them,"
+        ],
+        "66": [
+            202.0,
+            205.0,
+            "the fans are cheering for them,"
+        ],
+        "67": [
+            205.0,
+            208.0,
+            "the fans are cheering for them,"
+        ],
+        "68": [
+            208.0,
+            211.0,
+            "the fans are cheering for them,"
+        ],
+        "69": [
+            211.0,
+            214.0,
+            "the fans are cheering for them,"
+        ],
+        "70": [
+            214.0,
+            217.0,
+            "the fans are cheering for them,"
+        ],
+        "71": [
+            217.0,
+            220.0,
+            "the fans are cheering for them,"
+        ],
+        "72": [
+            220.0,
+            223.0,
+            "the fans are cheering for them,"
+        ],
+        "73": [
+            223.0,
+            226.0,
+            "the fans are cheering for them,"
+        ],
+        "74": [
+            226.0,
+            229.0,
+            "the fans are cheering for them,"
+        ],
+        "75": [
+            229.0,
+            232.0,
+            "the fans are cheering for them,"
+        ],
+        "76": [
+            232.0,
+            235.0,
+            "the fans are cheering for them,"
+        ],
+        "77": [
+            235.0,
+            238.0,
+            "the fans are cheering for them,"
+        ],
+        "78": [
+            238.0,
+            241.0,
+            "the fans are cheering for them,"
+        ],
+        "79": [
+            241.0,
+            244.0,
+            "the fans are cheering for them,"
+        ],
+        "80": [
+            244.0,
+            247.0,
+            "the fans are cheering for them,"
+        ],
+        "81": [
+            247.0,
+            250.0,
+            "the fans are cheering for them,"
+        ],
+        "82": [
+            250.0,
+            253.0,
+            "the fans are cheering for them,"
+        ],
+        "83": [
+            253.0,
+            256.0,
+            "the fans are cheering for them,"
+        ],
+        "84": [
+            256.0,
+            259.0,
+            "the fans are cheering for them,"
+        ],
+        "85": [
+            259.0,
+            262.0,
+            "the fans are cheering for them,"
+        ],
+        "86": [
+            262.0,
+            265.0,
+            "the fans are cheering for them,"
+        ],
+        "87": [
+            265.0,
+            268.0,
+            "the fans are cheering for them,"
+        ],
+        "88": [
+            268.0,
+            271.0,
+            "the fans are cheering for them,"
+        ],
+        "89": [
+            271.0,
+            274.0,
+            "the fans are cheering for them,"
+        ],
+        "90": [
+            274.0,
+            277.0,
+            "the fans are cheering for them,"
+        ],
+        "91": [
+            277.0,
+            280.0,
+            "the fans are cheering for them,"
+        ],
+        "92": [
+            280.0,
+            283.0,
+            "the fans are cheering for them,"
+        ],
+        "93": [
+            283.0,
+            286.0,
+            "the fans are cheering for them,"
+        ],
+        "94": [
+            286.0,
+            289.0,
+            "the fans are cheering for them,"
+        ],
+        "95": [
+            289.0,
+            292.0,
+            "the fans are cheering for them,"
+        ],
+        "96": [
+            292.0,
+            295.0,
+            "the fans are cheering for them,"
+        ],
+        "97": [
+            295.0,
+            298.0,
+            "the fans are cheering for them,"
+        ],
+        "98": [
+            298.0,
+            301.0,
+            "the fans are cheering for them,"
+        ],
+        "99": [
+            301.0,
+            304.0,
+            "the fans are cheering for them,"
+        ],
+        "100": [
+            304.0,
+            307.0,
+            "the fans are cheering for them,"
+        ],
+        "101": [
+            307.0,
+            310.0,
+            "the fans are cheering for them,"
+        ],
+        "102": [
+            310.0,
+            313.0,
+            "the fans are cheering for them,"
+        ],
+        "103": [
+            313.0,
+            316.0,
+            "the fans are cheering for them,"
+        ],
+        "104": [
+            316.0,
+            319.0,
+            "the fans are cheering for them,"
+        ],
+        "105": [
+            319.0,
+            322.0,
+            "the fans are cheering for them,"
+        ],
+        "106": [
+            322.0,
+            325.0,
+            "the fans are cheering for them,"
+        ],
+        "107": [
+            325.0,
+            328.0,
+            "the fans are cheering for them,"
+        ],
+        "108": [
+            328.0,
+            331.0,
+            "the fans are cheering for them,"
+        ],
+        "109": [
+            331.0,
+            334.0,
+            "the fans are cheering for them,"
+        ],
+        "110": [
+            334.0,
+            337.0,
+            "the fans are cheering for them,"
+        ],
+        "111": [
+            337.0,
+            340.0,
+            "the fans are cheering for them,"
+        ],
+        "112": [
+            340.0,
+            343.0,
+            "the fans are cheering for them,"
+        ],
+        "113": [
+            343.0,
+            346.0,
+            "the fans are cheering for them,"
+        ],
+        "114": [
+            346.0,
+            349.0,
+            "the fans are cheering for them,"
+        ],
+        "115": [
+            349.0,
+            352.0,
+            "the fans are cheering for them,"
+        ],
+        "116": [
+            352.0,
+            355.0,
+            "the fans are cheering for them,"
+        ],
+        "117": [
+            355.0,
+            358.0,
+            "the fans are cheering for them,"
+        ],
+        "118": [
+            358.0,
+            361.0,
+            "the fans are cheering for them,"
+        ],
+        "119": [
+            361.0,
+            364.0,
+            "the fans are cheering for them,"
+        ],
+        "120": [
+            364.0,
+            367.0,
+            "the fans are cheering for them,"
+        ],
+        "121": [
+            367.0,
+            370.0,
+            "the fans are cheering for them,"
+        ],
+        "122": [
+            370.0,
+            373.0,
+            "the fans are cheering for them,"
+        ],
+        "123": [
+            373.0,
+            376.0,
+            "the fans are cheering for them,"
+        ],
+        "124": [
+            376.0,
+            379.0,
+            "the fans are cheering for them,"
+        ],
+        "125": [
+            379.0,
+            382.0,
+            "the fans are cheering for them,"
+        ],
+        "126": [
+            382.0,
+            385.0,
+            "the fans are cheering for them,"
+        ],
+        "127": [
+            385.0,
+            388.0,
+            "the fans are cheering for them,"
+        ],
+        "128": [
+            388.0,
+            391.0,
+            "the fans are cheering for them,"
+        ],
+        "129": [
+            391.0,
+            394.0,
+            "the fans are cheering for them,"
+        ],
+        "130": [
+            394.0,
+            397.0,
+            "the fans are cheering for them,"
+        ],
+        "131": [
+            397.0,
+            400.0,
+            "the fans are cheering for them,"
+        ],
+        "132": [
+            400.0,
+            403.0,
+            "the fans are cheering for them,"
+        ],
+        "133": [
+            403.0,
+            406.0,
+            "the fans are cheering for them,"
+        ],
+        "134": [
+            406.0,
+            409.0,
+            "the fans are cheering for them,"
+        ],
+        "135": [
+            409.0,
+            412.0,
+            "the fans are cheering for them,"
+        ],
+        "136": [
+            412.0,
+            415.0,
+            "the fans are cheering for them,"
+        ],
+        "137": [
+            415.0,
+            418.0,
+            "the fans are cheering for them,"
+        ],
+        "138": [
+            418.0,
+            421.0,
+            "the fans are cheering for them,"
+        ],
+        "139": [
+            421.0,
+            424.0,
+            "the fans are cheering for them,"
+        ],
+        "140": [
+            424.0,
+            427.0,
+            "the fans are cheering for them,"
+        ],
+        "141": [
+            427.0,
+            430.0,
+            "the fans are cheering for them,"
+        ],
+        "142": [
+            430.0,
+            433.0,
+            "the fans are cheering for them,"
+        ],
+        "143": [
+            433.0,
+            436.0,
+            "the fans are cheering for them,"
+        ],
+        "144": [
+            436.0,
+            439.0,
+            "the fans are cheering for them,"
+        ],
+        "145": [
+            439.0,
+            442.0,
+            "the fans are cheering for them,"
+        ],
+        "146": [
+            442.0,
+            445.0,
+            "the fans are cheering for them,"
+        ],
+        "147": [
+            445.0,
+            448.0,
+            "the fans are cheering for them,"
+        ],
+        "148": [
+            448.0,
+            451.0,
+            "the fans are cheering for them,"
+        ],
+        "149": [
+            451.0,
+            454.0,
+            "the fans are cheering for them,"
+        ],
+        "150": [
+            454.0,
+            457.0,
+            "the fans are cheering for them,"
+        ],
+        "151": [
+            457.0,
+            460.0,
+            "the fans are cheering for them,"
+        ],
+        "152": [
+            460.0,
+            463.0,
+            "the fans are cheering for them,"
+        ],
+        "153": [
+            463.0,
+            466.0,
+            "the fans are cheering for them,"
+        ],
+        "154": [
+            466.0,
+            469.0,
+            "the fans are cheering for them,"
+        ],
+        "155": [
+            469.0,
+            472.0,
+            "the fans are cheering for them,"
+        ],
+        "156": [
+            472.0,
+            475.0,
+            "the fans are cheering for them,"
+        ],
+        "157": [
+            475.0,
+            478.0,
+            "the fans are cheering for them,"
+        ],
+        "158": [
+            478.0,
+            481.0,
+            "the fans are cheering for them,"
+        ],
+        "159": [
+            481.0,
+            484.0,
+            "the fans are cheering for them,"
+        ],
+        "160": [
+            484.0,
+            487.0,
+            "the fans are cheering for them,"
+        ],
+        "161": [
+            487.0,
+            490.0,
+            "the fans are cheering for them,"
+        ],
+        "162": [
+            490.0,
+            493.0,
+            "the fans are cheering for them,"
+        ],
+        "163": [
+            493.0,
+            496.0,
+            "the fans are cheering for them,"
+        ],
+        "164": [
+            496.0,
+            499.0,
+            "the fans are cheering for them,"
+        ],
+        "165": [
+            499.0,
+            502.0,
+            "the fans are cheering for them,"
+        ],
+        "166": [
+            502.0,
+            505.0,
+            "the fans are cheering for them,"
+        ],
+        "167": [
+            505.0,
+            508.0,
+            "the fans are cheering for them,"
+        ],
+        "168": [
+            508.0,
+            511.0,
+            "the fans are cheering for them,"
+        ],
+        "169": [
+            511.0,
+            514.0,
+            "the fans are cheering for them,"
+        ],
+        "170": [
+            514.0,
+            517.0,
+            "the fans are cheering for them,"
+        ],
+        "171": [
+            517.0,
+            520.0,
+            "the fans are cheering for them,"
+        ],
+        "172": [
+            520.0,
+            523.0,
+            "the fans are cheering for them,"
+        ],
+        "173": [
+            523.0,
+            526.0,
+            "the fans are cheering for them,"
+        ],
+        "174": [
+            526.0,
+            529.0,
+            "the fans are cheering for them,"
+        ],
+        "175": [
+            529.0,
+            532.0,
+            "the fans are cheering for them,"
+        ],
+        "176": [
+            532.0,
+            535.0,
+            "the fans are cheering for them,"
+        ],
+        "177": [
+            535.0,
+            538.0,
+            "the fans are cheering for them,"
+        ],
+        "178": [
+            538.0,
+            541.0,
+            "the fans are cheering for them,"
+        ],
+        "179": [
+            541.0,
+            544.0,
+            "the fans are cheering for them,"
+        ],
+        "180": [
+            544.0,
+            547.0,
+            "the fans are cheering for them,"
+        ],
+        "181": [
+            547.0,
+            550.0,
+            "the fans are cheering for them,"
+        ],
+        "182": [
+            550.0,
+            553.0,
+            "the fans are cheering for them,"
+        ],
+        "183": [
+            553.0,
+            556.0,
+            "the fans are cheering for them,"
+        ],
+        "184": [
+            556.0,
+            559.0,
+            "the fans are cheering for them,"
+        ],
+        "185": [
+            559.0,
+            562.0,
+            "the fans are cheering for them,"
+        ],
+        "186": [
+            562.0,
+            565.0,
+            "the fans are cheering for them,"
+        ],
+        "187": [
+            565.0,
+            568.0,
+            "the fans are cheering for them,"
+        ],
+        "188": [
+            568.0,
+            571.0,
+            "the fans are cheering for them,"
+        ],
+        "189": [
+            571.0,
+            574.0,
+            "the fans are cheering for them,"
+        ],
+        "190": [
+            574.0,
+            577.0,
+            "the fans are cheering for them,"
+        ],
+        "191": [
+            577.0,
+            580.0,
+            "the fans are cheering for them,"
+        ],
+        "192": [
+            580.0,
+            583.0,
+            "the fans are cheering for them,"
+        ],
+        "193": [
+            583.0,
+            586.0,
+            "the fans are cheering for them,"
+        ],
+        "194": [
+            586.0,
+            589.0,
+            "the fans are cheering for them,"
+        ],
+        "195": [
+            589.0,
+            592.0,
+            "the fans are cheering for them,"
+        ],
+        "196": [
+            592.0,
+            595.0,
+            "the fans are cheering for them,"
+        ],
+        "197": [
+            595.0,
+            598.0,
+            "the fans are cheering for them,"
+        ],
+        "198": [
+            598.0,
+            601.0,
+            "the fans are cheering for them,"
+        ],
+        "199": [
+            601.0,
+            604.0,
+            "the fans are cheering for them,"
+        ],
+        "200": [
+            604.0,
+            607.0,
+            "the fans are cheering for them,"
+        ],
+        "201": [
+            607.0,
+            610.0,
+            "the fans are cheering for them,"
+        ],
+        "202": [
+            610.0,
+            613.0,
+            "the fans are cheering for them,"
+        ],
+        "203": [
+            613.0,
+            616.0,
+            "the fans are cheering for them,"
+        ],
+        "204": [
+            616.0,
+            619.0,
+            "the fans are cheering for them,"
+        ],
+        "205": [
+            619.0,
+            622.0,
+            "the fans are cheering for them,"
+        ],
+        "206": [
+            622.0,
+            625.0,
+            "the fans are cheering for them,"
+        ],
+        "207": [
+            625.0,
+            628.0,
+            "the fans are cheering for them,"
+        ],
+        "208": [
+            628.0,
+            631.0,
+            "the fans are cheering for them,"
+        ],
+        "209": [
+            631.0,
+            634.0,
+            "the fans are cheering for them,"
+        ],
+        "210": [
+            634.0,
+            637.0,
+            "the fans are cheering for them,"
+        ],
+        "211": [
+            637.0,
+            640.0,
+            "the fans are cheering for them,"
+        ],
+        "212": [
+            640.0,
+            643.0,
+            "the fans are cheering for them,"
+        ],
+        "213": [
+            643.0,
+            646.0,
+            "the fans are cheering for them,"
+        ],
+        "214": [
+            646.0,
+            649.0,
+            "the fans are cheering for them,"
+        ],
+        "215": [
+            649.0,
+            652.0,
+            "the fans are cheering for them,"
+        ],
+        "216": [
+            652.0,
+            655.0,
+            "the fans are cheering for them,"
+        ],
+        "217": [
+            655.0,
+            658.0,
+            "the fans are cheering for them,"
+        ],
+        "218": [
+            658.0,
+            661.0,
+            "the fans are cheering for them,"
+        ],
+        "219": [
+            661.0,
+            664.0,
+            "the fans are cheering for them,"
+        ],
+        "220": [
+            664.0,
+            667.0,
+            "the fans are cheering for them,"
+        ],
+        "221": [
+            667.0,
+            670.0,
+            "the fans are cheering for them,"
+        ],
+        "222": [
+            670.0,
+            673.0,
+            "the fans are cheering for them,"
+        ],
+        "223": [
+            673.0,
+            676.0,
+            "the fans are cheering for them,"
+        ],
+        "224": [
+            676.0,
+            679.0,
+            "the fans are cheering for them,"
+        ],
+        "225": [
+            679.0,
+            682.0,
+            "the fans are cheering for them,"
+        ],
+        "226": [
+            682.0,
+            685.0,
+            "the fans are cheering for them,"
+        ],
+        "227": [
+            685.0,
+            688.0,
+            "the fans are cheering for them,"
+        ],
+        "228": [
+            688.0,
+            691.0,
+            "the fans are cheering for them,"
+        ],
+        "229": [
+            691.0,
+            694.0,
+            "the fans are cheering for them,"
+        ],
+        "230": [
+            694.0,
+            697.0,
+            "the fans are cheering for them,"
+        ],
+        "231": [
+            697.0,
+            700.0,
+            "the fans are cheering for them,"
+        ],
+        "232": [
+            700.0,
+            703.0,
+            "the fans are cheering for them,"
+        ],
+        "233": [
+            703.0,
+            706.0,
+            "the fans are cheering for them,"
+        ],
+        "234": [
+            706.0,
+            709.0,
+            "the fans are cheering for them,"
+        ],
+        "235": [
+            709.0,
+            712.0,
+            "the fans are cheering for them,"
+        ],
+        "236": [
+            712.0,
+            715.0,
+            "the fans are cheering for them,"
+        ],
+        "237": [
+            715.0,
+            718.0,
+            "the fans are cheering for them,"
+        ],
+        "238": [
+            718.0,
+            721.0,
+            "the fans are cheering for them,"
+        ],
+        "239": [
+            721.0,
+            724.0,
+            "the fans are cheering for them,"
+        ],
+        "240": [
+            724.0,
+            727.0,
+            "the fans are cheering for them,"
+        ],
+        "241": [
+            727.0,
+            730.0,
+            "the fans are cheering for them,"
+        ],
+        "242": [
+            730.0,
+            733.0,
+            "the fans are cheering for them,"
+        ],
+        "243": [
+            733.0,
+            736.0,
+            "the fans are cheering for them,"
+        ],
+        "244": [
+            736.0,
+            739.0,
+            "the fans are cheering for them,"
+        ],
+        "245": [
+            739.0,
+            742.0,
+            "the fans are cheering for them,"
+        ],
+        "246": [
+            742.0,
+            745.0,
+            "the fans are cheering for them,"
+        ],
+        "247": [
+            745.0,
+            748.0,
+            "the fans are cheering for them,"
+        ],
+        "248": [
+            748.0,
+            751.0,
+            "the fans are cheering for them,"
+        ],
+        "249": [
+            751.0,
+            754.0,
+            "the fans are cheering for them,"
+        ],
+        "250": [
+            754.0,
+            757.0,
+            "the fans are cheering for them,"
+        ],
+        "251": [
+            757.0,
+            760.0,
+            "the fans are cheering for them,"
+        ],
+        "252": [
+            760.0,
+            763.0,
+            "the fans are cheering for them,"
+        ],
+        "253": [
+            763.0,
+            766.0,
+            "the fans are cheering for them,"
+        ],
+        "254": [
+            766.0,
+            769.0,
+            "the fans are cheering for them,"
+        ],
+        "255": [
+            769.0,
+            772.0,
+            "the fans are cheering for them,"
+        ],
+        "256": [
+            772.0,
+            775.0,
+            "the fans are cheering for them,"
+        ],
+        "257": [
+            775.0,
+            778.0,
+            "the fans are cheering for them,"
+        ],
+        "258": [
+            778.0,
+            781.0,
+            "the fans are cheering for them,"
+        ],
+        "259": [
+            781.0,
+            784.0,
+            "the fans are cheering for them,"
+        ],
+        "260": [
+            784.0,
+            787.0,
+            "the fans are cheering for them,"
+        ],
+        "261": [
+            787.0,
+            790.0,
+            "the fans are cheering for them,"
+        ],
+        "262": [
+            790.0,
+            793.0,
+            "the fans are cheering for them,"
+        ],
+        "263": [
+            793.0,
+            796.0,
+            "the fans are cheering for them,"
+        ],
+        "264": [
+            796.0,
+            799.0,
+            "the fans are cheering for them,"
+        ],
+        "265": [
+            799.0,
+            802.0,
+            "the fans are cheering for them,"
+        ],
+        "266": [
+            802.0,
+            805.0,
+            "the fans are cheering for them,"
+        ],
+        "267": [
+            805.0,
+            808.0,
+            "the fans are cheering for them,"
+        ],
+        "268": [
+            808.0,
+            811.0,
+            "the fans are cheering for them,"
+        ],
+        "269": [
+            811.0,
+            814.0,
+            "the fans are cheering for them,"
+        ],
+        "270": [
+            814.0,
+            817.0,
+            "the fans are cheering for them,"
+        ],
+        "271": [
+            817.0,
+            820.0,
+            "the fans are cheering for them,"
+        ],
+        "272": [
+            820.0,
+            823.0,
+            "the fans are cheering for them,"
+        ],
+        "273": [
+            823.0,
+            826.0,
+            "the fans are cheering for them,"
+        ],
+        "274": [
+            826.0,
+            829.0,
+            "the fans are cheering for them,"
+        ],
+        "275": [
+            829.0,
+            832.0,
+            "the fans are cheering for them,"
+        ],
+        "276": [
+            832.0,
+            835.0,
+            "the fans are cheering for them,"
+        ],
+        "277": [
+            835.0,
+            838.0,
+            "the fans are cheering for them,"
+        ],
+        "278": [
+            838.0,
+            841.0,
+            "the fans are cheering for them,"
+        ],
+        "279": [
+            841.0,
+            844.0,
+            "the fans are cheering for them,"
+        ],
+        "280": [
+            844.0,
+            847.0,
+            "the fans are cheering for them,"
+        ],
+        "281": [
+            847.0,
+            850.0,
+            "the fans are cheering for them,"
+        ],
+        "282": [
+            850.0,
+            853.0,
+            "the fans are cheering for them,"
+        ],
+        "283": [
+            853.0,
+            856.0,
+            "the fans are cheering for them,"
+        ],
+        "284": [
+            856.0,
+            859.0,
+            "the fans are cheering for them,"
+        ],
+        "285": [
+            859.0,
+            862.0,
+            "the fans are cheering for them,"
+        ],
+        "286": [
+            862.0,
+            865.0,
+            "the fans are cheering for them,"
+        ],
+        "287": [
+            865.0,
+            868.0,
+            "the fans are cheering for them,"
+        ],
+        "288": [
+            868.0,
+            871.0,
+            "the fans are cheering for them,"
+        ],
+        "289": [
+            871.0,
+            874.0,
+            "the fans are cheering for them,"
+        ],
+        "290": [
+            874.0,
+            877.0,
+            "the fans are cheering for them,"
+        ],
+        "291": [
+            877.0,
+            880.0,
+            "the fans are cheering for them,"
+        ],
+        "292": [
+            880.0,
+            883.0,
+            "the fans are cheering for them,"
+        ],
+        "293": [
+            883.0,
+            886.0,
+            "the fans are cheering for them,"
+        ],
+        "294": [
+            886.0,
+            889.0,
+            "the fans are cheering for them,"
+        ],
+        "295": [
+            889.0,
+            892.0,
+            "the fans are cheering for them,"
+        ],
+        "296": [
+            892.0,
+            895.0,
+            "the fans are cheering for them,"
+        ],
+        "297": [
+            895.0,
+            898.0,
+            "the fans are cheering for them,"
+        ],
+        "298": [
+            898.0,
+            901.0,
+            "the fans are cheering for them,"
+        ],
+        "299": [
+            901.0,
+            904.0,
+            "the fans are cheering for them,"
+        ],
+        "300": [
+            904.0,
+            907.0,
+            "the fans are cheering for them,"
+        ],
+        "301": [
+            907.0,
+            910.0,
+            "the fans are cheering for them,"
+        ],
+        "302": [
+            910.0,
+            913.0,
+            "the fans are cheering for them,"
+        ],
+        "303": [
+            913.0,
+            916.0,
+            "the fans are cheering for them,"
+        ],
+        "304": [
+            916.0,
+            919.0,
+            "the fans are cheering for them,"
+        ],
+        "305": [
+            919.0,
+            922.0,
+            "the fans are cheering for them,"
+        ],
+        "306": [
+            922.0,
+            925.0,
+            "the fans are cheering for them,"
+        ],
+        "307": [
+            925.0,
+            928.0,
+            "the fans are cheering for them,"
+        ],
+        "308": [
+            928.0,
+            931.0,
+            "the fans are cheering for them,"
+        ],
+        "309": [
+            931.0,
+            934.0,
+            "the fans are cheering for them,"
+        ],
+        "310": [
+            934.0,
+            937.0,
+            "the fans are cheering for them,"
+        ],
+        "311": [
+            937.0,
+            940.0,
+            "the fans are cheering for them,"
+        ],
+        "312": [
+            940.0,
+            943.0,
+            "the fans are cheering for them,"
+        ],
+        "313": [
+            943.0,
+            946.0,
+            "the fans are cheering for them,"
+        ],
+        "314": [
+            946.0,
+            949.0,
+            "the fans are cheering for them,"
+        ],
+        "315": [
+            949.0,
+            952.0,
+            "the fans are cheering for them,"
+        ],
+        "316": [
+            952.0,
+            955.0,
+            "the fans are cheering for them,"
+        ],
+        "317": [
+            955.0,
+            958.0,
+            "the fans are cheering for them,"
+        ],
+        "318": [
+            958.0,
+            961.0,
+            "the fans are cheering for them,"
+        ],
+        "319": [
+            961.0,
+            964.0,
+            "the fans are cheering for them,"
+        ],
+        "320": [
+            964.0,
+            967.0,
+            "the fans are cheering for them,"
+        ],
+        "321": [
+            967.0,
+            970.0,
+            "the fans are cheering for them,"
+        ],
+        "322": [
+            970.0,
+            973.0,
+            "the fans are cheering for them,"
+        ],
+        "323": [
+            973.0,
+            976.0,
+            "the fans are cheering for them,"
+        ],
+        "324": [
+            976.0,
+            979.0,
+            "the fans are cheering for them,"
+        ],
+        "325": [
+            979.0,
+            982.0,
+            "the fans are cheering for them,"
+        ],
+        "326": [
+            982.0,
+            985.0,
+            "the fans are cheering for them,"
+        ],
+        "327": [
+            985.0,
+            988.0,
+            "the fans are cheering for them,"
+        ],
+        "328": [
+            988.0,
+            991.0,
+            "the fans are cheering for them,"
+        ],
+        "329": [
+            991.0,
+            994.0,
+            "the fans are cheering for them,"
+        ],
+        "330": [
+            994.0,
+            997.0,
+            "the fans are cheering for them,"
+        ],
+        "331": [
+            997.0,
+            1000.0,
+            "the fans are cheering for them,"
+        ],
+        "332": [
+            1000.0,
+            1003.0,
+            "the fans are cheering for them,"
+        ],
+        "333": [
+            1003.0,
+            1006.0,
+            "the fans are cheering for them,"
+        ],
+        "334": [
+            1006.0,
+            1009.0,
+            "the fans are cheering for them,"
+        ],
+        "335": [
+            1009.0,
+            1012.0,
+            "the fans are cheering for them,"
+        ],
+        "336": [
+            1012.0,
+            1015.0,
+            "the fans are cheering for them,"
+        ],
+        "337": [
+            1015.0,
+            1018.0,
+            "the fans are cheering for them,"
+        ],
+        "338": [
+            1018.0,
+            1021.0,
+            "the fans are cheering for them,"
+        ],
+        "339": [
+            1021.0,
+            1024.0,
+            "the fans are cheering for them,"
+        ],
+        "340": [
+            1024.0,
+            1027.0,
+            "the fans are cheering for them,"
+        ],
+        "341": [
+            1027.0,
+            1030.0,
+            "the fans are cheering for them,"
+        ],
+        "342": [
+            1030.0,
+            1033.0,
+            "the fans are cheering for them,"
+        ],
+        "343": [
+            1033.0,
+            1036.0,
+            "the fans are cheering for them,"
+        ],
+        "344": [
+            1036.0,
+            1039.0,
+            "the fans are cheering for them,"
+        ],
+        "345": [
+            1039.0,
+            1042.0,
+            "the fans are cheering for them,"
+        ],
+        "346": [
+            1042.0,
+            1045.0,
+            "the fans are cheering for them,"
+        ],
+        "347": [
+            1045.0,
+            1048.0,
+            "the fans are cheering for them,"
+        ],
+        "348": [
+            1048.0,
+            1051.0,
+            "the fans are cheering for them,"
+        ],
+        "349": [
+            1051.0,
+            1054.0,
+            "the fans are cheering for them,"
+        ],
+        "350": [
+            1054.0,
+            1057.0,
+            "the fans are cheering for them,"
+        ],
+        "351": [
+            1057.0,
+            1060.0,
+            "the fans are cheering for them,"
+        ],
+        "352": [
+            1060.0,
+            1063.0,
+            "the fans are cheering for them,"
+        ],
+        "353": [
+            1063.0,
+            1066.0,
+            "the fans are cheering for them,"
+        ],
+        "354": [
+            1066.0,
+            1069.0,
+            "the fans are cheering for them,"
+        ],
+        "355": [
+            1069.0,
+            1072.0,
+            "the fans are cheering for them,"
+        ],
+        "356": [
+            1072.0,
+            1075.0,
+            "the fans are cheering for them,"
+        ],
+        "357": [
+            1075.0,
+            1078.0,
+            "the fans are cheering for them,"
+        ],
+        "358": [
+            1078.0,
+            1081.0,
+            "the fans are cheering for them,"
+        ],
+        "359": [
+            1081.0,
+            1084.0,
+            "the fans are cheering for them,"
+        ],
+        "360": [
+            1084.0,
+            1087.0,
+            "the fans are cheering for them,"
+        ],
+        "361": [
+            1087.0,
+            1090.0,
+            "the fans are cheering for them,"
+        ],
+        "362": [
+            1090.0,
+            1093.0,
+            "the fans are cheering for them,"
+        ],
+        "363": [
+            1093.0,
+            1096.0,
+            "the fans are cheering for them,"
+        ],
+        "364": [
+            1096.0,
+            1099.0,
+            "the fans are cheering for them,"
+        ],
+        "365": [
+            1099.0,
+            1102.0,
+            "the fans are cheering for them,"
+        ],
+        "366": [
+            1102.0,
+            1105.0,
+            "the fans are cheering for them,"
+        ],
+        "367": [
+            1105.0,
+            1108.0,
+            "the fans are cheering for them,"
+        ],
+        "368": [
+            1108.0,
+            1111.0,
+            "the fans are cheering for them,"
+        ],
+        "369": [
+            1111.0,
+            1114.0,
+            "the fans are cheering for them,"
+        ],
+        "370": [
+            1114.0,
+            1117.0,
+            "the fans are cheering for them,"
+        ],
+        "371": [
+            1117.0,
+            1120.0,
+            "the fans are cheering for them,"
+        ],
+        "372": [
+            1120.0,
+            1123.0,
+            "the fans are cheering for them,"
+        ],
+        "373": [
+            1123.0,
+            1126.0,
+            "the fans are cheering for them,"
+        ],
+        "374": [
+            1126.0,
+            1129.0,
+            "the fans are cheering for them,"
+        ],
+        "375": [
+            1129.0,
+            1132.0,
+            "the fans are cheering for them,"
+        ],
+        "376": [
+            1132.0,
+            1135.0,
+            "the fans are cheering for them,"
+        ],
+        "377": [
+            1135.0,
+            1138.0,
+            "the fans are cheering for them,"
+        ],
+        "378": [
+            1138.0,
+            1141.0,
+            "the fans are cheering for them,"
+        ],
+        "379": [
+            1141.0,
+            1144.0,
+            "the fans are cheering for them,"
+        ],
+        "380": [
+            1144.0,
+            1147.0,
+            "the fans are cheering for them,"
+        ],
+        "381": [
+            1147.0,
+            1150.0,
+            "the fans are cheering for them,"
+        ],
+        "382": [
+            1150.0,
+            1153.0,
+            "the fans are cheering for them,"
+        ],
+        "383": [
+            1153.0,
+            1156.0,
+            "the fans are cheering for them,"
+        ],
+        "384": [
+            1156.0,
+            1159.0,
+            "the fans are cheering for them,"
+        ],
+        "385": [
+            1159.0,
+            1162.0,
+            "the fans are cheering for them,"
+        ],
+        "386": [
+            1162.0,
+            1165.0,
+            "Gustavo Cabral is another one of the reappearances,"
+        ],
+        "387": [
+            1165.0,
+            1168.0,
+            "a player who wasn't present in the first match"
+        ],
+        "388": [
+            1168.0,
+            1171.0,
+            "and who was also sanctioned"
+        ],
+        "389": [
+            1171.0,
+            1174.0,
+            "for an act of indiscipline,"
+        ],
+        "390": [
+            1174.0,
+            1177.0,
+            "we don't know which one it was"
+        ],
+        "391": [
+            1177.0,
+            1180.0,
+            "because the coach decided to be very discreet,"
+        ],
+        "392": [
+            1180.0,
+            1183.0,
+            "but it's an Argentine couple"
+        ],
+        "393": [
+            1183.0,
+            1186.0,
+            "who appear in LaLiga for the first time,"
+        ],
+        "394": [
+            1186.0,
+            1189.0,
+            "Roncaglia and Cabral are two very forceful players."
+        ],
+        "395": [
+            1189.0,
+            1192.0,
+            "Good cross, Modric's pass,"
+        ],
+        "396": [
+            1192.0,
+            1195.0,
+            "Morata from Taco, looking to project"
+        ],
+        "397": [
+            1195.0,
+            1198.0,
+            "in attack to Asensio, Hugo Mayo deflects it"
+        ],
+        "398": [
+            1198.0,
+            1201.0,
+            "and plays with a lot of sense, a lot of temper,"
+        ],
+        "399": [
+            1201.0,
+            1204.0,
+            "Sergio Álvarez again to Mayo, this is Cabral"
+        ],
+        "400": [
+            1204.0,
+            1207.0,
+            "and this is Daniel Vaz who receives and turns,"
+        ],
+        "401": [
+            1207.0,
+            1210.0,
+            "Casemiro is thrown over, Radoya,"
+        ],
+        "402": [
+            1210.0,
+            1213.0,
+            "distributes the serve, goes up the right,"
+        ],
+        "403": [
+            1213.0,
+            1216.0,
+            "Guidetti scores and the Swedish appears,"
+        ],
+        "404": [
+            1216.0,
+            1219.0,
+            "he tries to cross, changes direction,"
+        ],
+        "405": [
+            1219.0,
+            1222.0,
+            "Guidetti, a 2-1 with the corner flag,"
+        ],
+        "406": [
+            1222.0,
+            1225.0,
+            "he tries to get something positive, there's the ball for Daniel Vaz,"
+        ],
+        "407": [
+            1225.0,
+            1228.0,
+            "the volley with the right foot"
+        ],
+        "408": [
+            1228.0,
+            1231.0,
+            "ends slowly in Casillas' hands."
+        ],
+        "409": [
+            1231.0,
+            1234.0,
+            "The Danish and Maikel have come determined."
+        ],
+        "410": [
+            1234.0,
+            1237.0,
+            "What can I say, the last two Celta attacks"
+        ],
+        "411": [
+            1237.0,
+            1240.0,
+            "have come after where they've kept the ball the most."
+        ],
+        "412": [
+            1240.0,
+            1243.0,
+            "We remember that this last attack"
+        ],
+        "413": [
+            1243.0,
+            1246.0,
+            "has lasted a little longer."
+        ],
+        "414": [
+            1246.0,
+            1249.0,
+            "It comes from the goalkeeper, it comes from Sergio Álvarez."
+        ],
+        "415": [
+            1249.0,
+            1252.0,
+            "You can play it straight, so of course,"
+        ],
+        "416": [
+            1252.0,
+            1255.0,
+            "you have to do it, but you can also keep the ball"
+        ],
+        "417": [
+            1255.0,
+            1258.0,
+            "to slow down a bit"
+        ],
+        "418": [
+            1258.0,
+            1261.0,
+            "and it's convenient for you as a visitor here."
+        ],
+        "419": [
+            1261.0,
+            1264.0,
+            "And Vaz appears up there,"
+        ],
+        "420": [
+            1264.0,
+            1267.0,
+            "the two shots were his."
+        ],
+        "421": [
+            1268.0,
+            1271.0,
+            "Yes, he's a player who likes to get there,"
+        ],
+        "422": [
+            1271.0,
+            1274.0,
+            "he has a good shot."
+        ],
+        "423": [
+            1274.0,
+            1277.0,
+            "There's Daniel Vaz again,"
+        ],
+        "424": [
+            1277.0,
+            1280.0,
+            "who was encouraging with the shot from the front."
+        ],
+        "425": [
+            1280.0,
+            1283.0,
+            "We just mentioned it, and there was the third attempt"
+        ],
+        "426": [
+            1283.0,
+            1286.0,
+            "by the international footballer for Denmark."
+        ],
+        "427": [
+            1287.0,
+            1290.0,
+            "Radoya,"
+        ],
+        "428": [
+            1290.0,
+            1293.0,
+            "the Tuku with the school for Cabral,"
+        ],
+        "429": [
+            1293.0,
+            1296.0,
+            "who plays from the first to the middle, who's free."
+        ],
+        "430": [
+            1296.0,
+            1299.0,
+            "Orellana for the Tuku."
+        ],
+        "431": [
+            1299.0,
+            1302.0,
+            "Radoya, who can lift his head up."
+        ],
+        "432": [
+            1302.0,
+            1305.0,
+            "A good ball from Carvajal's back."
+        ],
+        "433": [
+            1305.0,
+            1308.0,
+            "Bongonda, inside the box."
+        ],
+        "434": [
+            1308.0,
+            1311.0,
+            "He catches Casillas,"
+        ],
+        "435": [
+            1311.0,
+            1314.0,
+            "because he was already with the shot."
+        ],
+        "436": [
+            1314.0,
+            1317.0,
+            "John Guidetti on the second post."
+        ],
+        "437": [
+            1317.0,
+            1320.0,
+            "It's not the first Celta's approach,"
+        ],
+        "438": [
+            1320.0,
+            1323.0,
+            "but it's more and more close to the prize."
+        ],
+        "439": [
+            1323.0,
+            1326.0,
+            "They're getting more and more"
+        ],
+        "440": [
+            1326.0,
+            1329.0,
+            "the ball, which is what makes Real Madrid suffer."
+        ],
+        "441": [
+            1329.0,
+            1332.0,
+            "It's much less aggressive in the pressure"
+        ],
+        "442": [
+            1332.0,
+            1335.0,
+            "than it was in San Sebastian."
+        ],
+        "443": [
+            1335.0,
+            1338.0,
+            "But of course, we have to take into account"
+        ],
+        "444": [
+            1338.0,
+            1341.0,
+            "that in San Sebastian, at the minute,"
+        ],
+        "445": [
+            1341.0,
+            1344.0,
+            "Madrid won 1-0, and that generated"
+        ],
+        "446": [
+            1344.0,
+            1347.0,
+            "spaces, everything this team"
+        ],
+        "447": [
+            1347.0,
+            1350.0,
+            "needs to make their conditions worse."
+        ],
+        "448": [
+            1353.0,
+            1356.0,
+            "Modric,"
+        ],
+        "449": [
+            1356.0,
+            1359.0,
+            "Radoya stops him."
+        ],
+        "450": [
+            1359.0,
+            1362.0,
+            "Varane, who's further back for Casillas."
+        ],
+        "451": [
+            1362.0,
+            1365.0,
+            "Ramos."
+        ],
+        "452": [
+            1365.0,
+            1368.0,
+            "Marcelo again with Ramos."
+        ],
+        "453": [
+            1371.0,
+            1374.0,
+            "Varane, who's free from surveillance,"
+        ],
+        "454": [
+            1374.0,
+            1377.0,
+            "who's watching his teammates."
+        ],
+        "455": [
+            1377.0,
+            1380.0,
+            "Carvajal, good anticipation from Bongonda."
+        ],
+        "456": [
+            1380.0,
+            1383.0,
+            "Guidetti, Bongonda, Bongonda."
+        ],
+        "457": [
+            1383.0,
+            1386.0,
+            "He hit Bongonda when he had two"
+        ],
+        "458": [
+            1386.0,
+            1389.0,
+            "passes inside the box."
+        ],
+        "459": [
+            1389.0,
+            1392.0,
+            "Guidetti wants to eat him, he wants to eat him more."
+        ],
+        "460": [
+            1392.0,
+            1395.0,
+            "The Celta could have him, Bongonda has him."
+        ],
+        "461": [
+            1395.0,
+            1398.0,
+            "A brilliant play, he takes the ball,"
+        ],
+        "462": [
+            1398.0,
+            1401.0,
+            "he leaves the two obstacles he encountered on the way"
+        ],
+        "463": [
+            1401.0,
+            1404.0,
+            "very easily, and when he had trouble thinking,"
+        ],
+        "464": [
+            1404.0,
+            1407.0,
+            "he forgot to raise his head."
+        ],
+        "465": [
+            1407.0,
+            1410.0,
+            "He forgot the intention of the shot"
+        ],
+        "466": [
+            1410.0,
+            1413.0,
+            "and also hit him badly."
+        ],
+        "467": [
+            1415.0,
+            1418.0,
+            "He was also reprimanded by both"
+        ],
+        "468": [
+            1418.0,
+            1421.0,
+            "Guidetti and Vaz, especially Guidetti who was waiting"
+        ],
+        "469": [
+            1421.0,
+            1424.0,
+            "for the second post. Bongonda's action, he comes to doubt,"
+        ],
+        "470": [
+            1424.0,
+            1427.0,
+            "he looks for the goalkeeper, he finds the side of the net."
+        ],
+        "471": [
+            1427.0,
+            1430.0,
+            "This is the replica of Real Madrid, and Modric puts it, looking for Marco Asensio."
+        ],
+        "472": [
+            1430.0,
+            1433.0,
+            "With security, Hugo Mallo, delivery for Sergio Alvarez."
+        ],
+        "473": [
+            1433.0,
+            1436.0,
+            "But the fourth time in seven minutes,"
+        ],
+        "474": [
+            1436.0,
+            1439.0,
+            "he has reached the goal of Real Madrid."
+        ],
+        "475": [
+            1467.0,
+            1470.0,
+            "Starting again from the defensive line,"
+        ],
+        "476": [
+            1470.0,
+            1473.0,
+            "the Sinedin Zidane team."
+        ],
+        "477": [
+            1473.0,
+            1476.0,
+            "Gareth Bale,"
+        ],
+        "478": [
+            1476.0,
+            1479.0,
+            "chased by Jonny."
+        ],
+        "479": [
+            1479.0,
+            1482.0,
+            "Marcelo,"
+        ],
+        "480": [
+            1482.0,
+            1485.0,
+            "the ball up to Morata, it's offered in the centre to Casemiro."
+        ],
+        "481": [
+            1485.0,
+            1488.0,
+            "The Brazilian steps on it, he wants to turn around, and it's missing from"
+        ],
+        "482": [
+            1488.0,
+            1491.0,
+            "Tuco Hernandez."
+        ],
+        "483": [
+            1496.0,
+            1499.0,
+            "Rafael Varane,"
+        ],
+        "484": [
+            1499.0,
+            1502.0,
+            "Kroos,"
+        ],
+        "485": [
+            1504.0,
+            1507.0,
+            "Sergio Ramos, it's on Casemiro,"
+        ],
+        "486": [
+            1507.0,
+            1510.0,
+            "Marcelo, through Asensio,"
+        ],
+        "487": [
+            1510.0,
+            1513.0,
+            "Bale, too long,"
+        ],
+        "488": [
+            1513.0,
+            1516.0,
+            "Marcelo Vieira's service is inaccurate."
+        ],
+        "489": [
+            1516.0,
+            1519.0,
+            "It's off again to Celta, who are managing to"
+        ],
+        "490": [
+            1519.0,
+            1522.0,
+            "obstruct, and how the start of the play,"
+        ],
+        "491": [
+            1522.0,
+            1525.0,
+            "the preparation of the attack actions by Real Madrid."
+        ],
+        "492": [
+            1525.0,
+            1528.0,
+            "It always seems, at least from here,"
+        ],
+        "493": [
+            1528.0,
+            1531.0,
+            "that they have to leave a little more margin"
+        ],
+        "494": [
+            1531.0,
+            1534.0,
+            "to receive. It's Casemiro in the middle."
+        ],
+        "495": [
+            1534.0,
+            1537.0,
+            "But..."
+        ],
+        "496": [
+            1537.0,
+            1540.0,
+            "Well, he's calling"
+        ],
+        "497": [
+            1540.0,
+            1543.0,
+            "the attention of Burgos Bengoetxea to Morata and Roncaglia."
+        ],
+        "498": [
+            1543.0,
+            1546.0,
+            "Now he also speaks with"
+        ],
+        "499": [
+            1546.0,
+            1549.0,
+            "Sergio, the goalkeeper of Celta,"
+        ],
+        "500": [
+            1549.0,
+            1552.0,
+            "because of Morata's pressure, and how the goalkeeper had complained,"
+        ],
+        "501": [
+            1552.0,
+            1555.0,
+            "about the absence of the striker of Real Madrid."
+        ],
+        "502": [
+            1555.0,
+            1558.0,
+            "Yes, it was a clear absence"
+        ],
+        "503": [
+            1558.0,
+            1561.0,
+            "about the goalkeeper. He tried to take it out with his hand,"
+        ],
+        "504": [
+            1561.0,
+            1564.0,
+            "and Morata"
+        ],
+        "505": [
+            1564.0,
+            1567.0,
+            "tried to stop him, but it was a clear absence."
+        ],
+        "506": [
+            1567.0,
+            1570.0,
+            "Morata, who just apologized to Sergio when he started to shoot the ball."
+        ],
+        "507": [
+            1570.0,
+            1573.0,
+            "So, a tight issue,"
+        ],
+        "508": [
+            1573.0,
+            1576.0,
+            "it's played again at the Bernabéu, close to the"
+        ],
+        "509": [
+            1576.0,
+            1579.0,
+            "first half hour of play. We're still without goals."
+        ],
+        "510": [
+            1579.0,
+            1582.0,
+            "Real Madrid 0, Real Club Celta 0."
+        ],
+        "511": [
+            1582.0,
+            1585.0,
+            "Toni Kroos,"
+        ],
+        "512": [
+            1585.0,
+            1588.0,
+            "Marcelo, from the first half."
+        ],
+        "513": [
+            1588.0,
+            1591.0,
+            "He wanted to get to Marco Asensio, but it seems that not even Motto could reach him"
+        ],
+        "514": [
+            1591.0,
+            1594.0,
+            "in the Mallorquin. So, a new goal kick"
+        ],
+        "515": [
+            1594.0,
+            1597.0,
+            "for Sergio Álvarez."
+        ],
+        "516": [
+            1597.0,
+            1600.0,
+            "All those who had a very high score in San Sebastián in the first half"
+        ],
+        "517": [
+            1600.0,
+            1603.0,
+            "are having very few number of interventions."
+        ],
+        "518": [
+            1603.0,
+            1606.0,
+            "We're not seeing Bale, Morata moves a lot,"
+        ],
+        "519": [
+            1606.0,
+            1609.0,
+            "the midfielders can't find him."
+        ],
+        "520": [
+            1609.0,
+            1612.0,
+            "And neither Asensio, who tried to mix with the midfielders"
+        ],
+        "521": [
+            1612.0,
+            1615.0,
+            "in the first minutes,"
+        ],
+        "522": [
+            1615.0,
+            1618.0,
+            "is having continuity in the game."
+        ],
+        "523": [
+            1618.0,
+            1621.0,
+            "Guidetti, he goes to the ground, he asks for a foul,"
+        ],
+        "524": [
+            1621.0,
+            1624.0,
+            "he says, from Burgos Bengoetxea."
+        ],
+        "525": [
+            1624.0,
+            1627.0,
+            "Varane, too powerful a ball"
+        ],
+        "526": [
+            1627.0,
+            1630.0,
+            "even for Bale. These are bigger words."
+        ],
+        "527": [
+            1630.0,
+            1633.0,
+            "He arrived before Jonny, who touched back."
+        ],
+        "528": [
+            1637.0,
+            1640.0,
+            "He looks for Sergio, Guidetti's jump,"
+        ],
+        "529": [
+            1640.0,
+            1643.0,
+            "Varane is imposed. Who will take it down?"
+        ],
+        "530": [
+            1643.0,
+            1646.0,
+            "Celta, Orellana."
+        ],
+        "531": [
+            1646.0,
+            1649.0,
+            "Mayo, he wanted to look for Orellana again."
+        ],
+        "532": [
+            1649.0,
+            1652.0,
+            "Marcelo recovers, he gets the free kick."
+        ],
+        "533": [
+            1652.0,
+            1655.0,
+            "Asensio."
+        ],
+        "534": [
+            1655.0,
+            1658.0,
+            "Asensio,"
+        ],
+        "535": [
+            1658.0,
+            1661.0,
+            "delivery for Toni Kroos."
+        ],
+        "536": [
+            1666.0,
+            1669.0,
+            "Ramos for Varane."
+        ],
+        "537": [
+            1673.0,
+            1676.0,
+            "The white box has problems to find Modric,"
+        ],
+        "538": [
+            1676.0,
+            1679.0,
+            "to find Kroos. Now they connected with the Croatian."
+        ],
+        "539": [
+            1679.0,
+            1682.0,
+            "What he did after the 19th minute was wonderful."
+        ],
+        "540": [
+            1682.0,
+            1685.0,
+            "Modric, he hits Modric."
+        ],
+        "541": [
+            1685.0,
+            1688.0,
+            "The crossbar."
+        ],
+        "542": [
+            1688.0,
+            1691.0,
+            "Modric's first appearance."
+        ],
+        "543": [
+            1691.0,
+            1694.0,
+            "To receive, cut, sprint, look for the gap"
+        ],
+        "544": [
+            1695.0,
+            1698.0,
+            "Only the crossbar has been able to save the Celta."
+        ],
+        "545": [
+            1698.0,
+            1701.0,
+            "Real Madrid has had it, Luka Modric has had it."
+        ],
+        "546": [
+            1701.0,
+            1704.0,
+            "Yes, but he has done everything."
+        ],
+        "547": [
+            1704.0,
+            1707.0,
+            "He has played in the midfield."
+        ],
+        "548": [
+            1707.0,
+            1710.0,
+            "He has taken it with his back to the opposite."
+        ],
+        "549": [
+            1710.0,
+            1713.0,
+            "He has made a 1-1 draw."
+        ],
+        "550": [
+            1713.0,
+            1716.0,
+            "To be in the top of the list."
+        ],
+        "551": [
+            1716.0,
+            1719.0,
+            "In the end, he has thrown it."
+        ],
+        "552": [
+            1720.0,
+            1723.0,
+            "But this is what is needed."
+        ],
+        "553": [
+            1723.0,
+            1726.0,
+            "When everyone is marked, you need someone to take the ball"
+        ],
+        "554": [
+            1726.0,
+            1729.0,
+            "and go from his."
+        ],
+        "555": [
+            1729.0,
+            1732.0,
+            "The first coach I had told me,"
+        ],
+        "556": [
+            1732.0,
+            1735.0,
+            "the one who drives does not shoot, but Modric was not told."
+        ],
+        "557": [
+            1735.0,
+            1738.0,
+            "The opportunity that has awakened a little"
+        ],
+        "558": [
+            1738.0,
+            1741.0,
+            "the atmosphere in the Bernabéu, the palms,"
+        ],
+        "559": [
+            1741.0,
+            1744.0,
+            "putting a little pressure on the game."
+        ],
+        "560": [
+            1744.0,
+            1747.0,
+            "They began to hear shy whistles, more than whistles."
+        ],
+        "561": [
+            1747.0,
+            1750.0,
+            "Real Madrid with this incursion of Marcelo, who is going to step into the area."
+        ],
+        "562": [
+            1750.0,
+            1753.0,
+            "Marcelo puts it back here to Asensio."
+        ],
+        "563": [
+            1753.0,
+            1756.0,
+            "It does not reach 20, nor does Bale."
+        ],
+        "564": [
+            1756.0,
+            1759.0,
+            "Real Madrid loses it."
+        ],
+        "565": [
+            1759.0,
+            1762.0,
+            "Well, but very strong the shipment of Marcelo."
+        ],
+        "566": [
+            1762.0,
+            1765.0,
+            "He did not allow Asensio to be rectified"
+        ],
+        "567": [
+            1765.0,
+            1768.0,
+            "that had gone too far."
+        ],
+        "568": [
+            1768.0,
+            1771.0,
+            "We take the opportunity to have repeated"
+        ],
+        "569": [
+            1771.0,
+            1774.0,
+            "that launch of Luka Modric, while"
+        ],
+        "570": [
+            1774.0,
+            1777.0,
+            "the Bernabéu is going up in the form of whistles."
+        ],
+        "571": [
+            1777.0,
+            1780.0,
+            "What does the Real Madrid fan complain about, Ricardo?"
+        ],
+        "572": [
+            1780.0,
+            1783.0,
+            "Well, the Celta wants to scratch, as they say, a little second to the stopwatch."
+        ],
+        "573": [
+            1783.0,
+            1786.0,
+            "We have not yet reached 30 of the first part."
+        ],
+        "574": [
+            1786.0,
+            1789.0,
+            "But before Sergio, now Johnny, taking a little time to get out."
+        ],
+        "575": [
+            1789.0,
+            1792.0,
+            "He wants to stop the game a little bit at this moment, the Celta."
+        ],
+        "576": [
+            1792.0,
+            1795.0,
+            "Providencial Marcelo, after the mistake in the chain"
+        ],
+        "577": [
+            1795.0,
+            1798.0,
+            "of the Real Madrid saga, who was about to take advantage of John Guidetti."
+        ],
+        "578": [
+            1798.0,
+            1801.0,
+            "Casemiro, who is encouraged. Pea Casemiro with a lot of courage."
+        ],
+        "579": [
+            1802.0,
+            1805.0,
+            "Well, but things happen to the game, right?"
+        ],
+        "580": [
+            1805.0,
+            1808.0,
+            "Sometimes to one side, sometimes to the other."
+        ],
+        "581": [
+            1808.0,
+            1814.0,
+            "Now Casemiro's daring was not what one expects from a defensive midfielder."
+        ],
+        "582": [
+            1814.0,
+            1817.0,
+            "And warns him of Burgos Bengoechea."
+        ],
+        "583": [
+            1817.0,
+            1820.0,
+            "Sergio Alvarez from the Celta goalkeeper, who no more, not one more."
+        ],
+        "584": [
+            1820.0,
+            1823.0,
+            "That if he continues to lose time, he will be upset."
+        ],
+        "585": [
+            1823.0,
+            1826.0,
+            "We are in the 30 of the first part."
+        ],
+        "586": [
+            1826.0,
+            1829.0,
+            "Correct. Circumstance a little strange or little frequent"
+        ],
+        "587": [
+            1829.0,
+            1832.0,
+            "for the match heights in which we are."
+        ],
+        "588": [
+            1833.0,
+            1838.0,
+            "Yes, he made a very, very clear claim to Modric, the referee."
+        ],
+        "589": [
+            1838.0,
+            1840.0,
+            "And the referee caught his attention."
+        ],
+        "590": [
+            1840.0,
+            1844.0,
+            "That's why the audience got so aggressive in the claim."
+        ],
+        "591": [
+            1845.0,
+            1848.0,
+            "Another from Marcelo, who has released the chain."
+        ],
+        "592": [
+            1848.0,
+            1851.0,
+            "The Carioca is stopped. Asensio has the left."
+        ],
+        "593": [
+            1851.0,
+            1854.0,
+            "There is the Mallorquin, who wants to eliminate, who wants to break."
+        ],
+        "594": [
+            1854.0,
+            1857.0,
+            "He can't at the moment with Fabián Orellana."
+        ],
+        "595": [
+            1857.0,
+            1859.0,
+            "He turns around."
+        ],
+        "596": [
+            1859.0,
+            1861.0,
+            "Delivered again to Marcelo."
+        ],
+        "597": [
+            1861.0,
+            1863.0,
+            "This is Toni Kroos. Good cut. He can hit."
+        ],
+        "598": [
+            1863.0,
+            1865.0,
+            "Kroos to Maga. He leaves Bale."
+        ],
+        "599": [
+            1865.0,
+            1867.0,
+            "This is Madrid."
+        ],
+        "600": [
+            1867.0,
+            1870.0,
+            "Where is Sergio Alvarez going?"
+        ],
+        "601": [
+            1870.0,
+            1873.0,
+            "After a play of Orfebrería of Real Madrid."
+        ],
+        "602": [
+            1873.0,
+            1875.0,
+            "Combining the first touch."
+        ],
+        "603": [
+            1875.0,
+            1878.0,
+            "Toni Kroos, Gareth Bale and Luka Modric."
+        ],
+        "604": [
+            1878.0,
+            1881.0,
+            "So that the Croatian will demand Sergio Alvarez again."
+        ],
+        "605": [
+            1881.0,
+            1884.0,
+            "No, there was everything. Again, one who goes his own way."
+        ],
+        "606": [
+            1884.0,
+            1886.0,
+            "Sergio Kroos. A pass."
+        ],
+        "607": [
+            1886.0,
+            1889.0,
+            "A first touch. And one that arrives."
+        ],
+        "608": [
+            1889.0,
+            1891.0,
+            "Another for Real Madrid, who is looking for a ball."
+        ],
+        "609": [
+            1891.0,
+            1893.0,
+            "Bale!"
+        ],
+        "610": [
+            1893.0,
+            1895.0,
+            "The shot from the Galician. He goes out."
+        ],
+        "611": [
+            1895.0,
+            1898.0,
+            "He has awakened Real Madrid in the final stretch of the first half."
+        ],
+        "612": [
+            1898.0,
+            1901.0,
+            "And as it happens almost always, the awakener made it sound."
+        ],
+        "613": [
+            1901.0,
+            1905.0,
+            "Modric, who is a superior player."
+        ],
+        "614": [
+            1905.0,
+            1908.0,
+            "This last shot was extraordinary."
+        ],
+        "615": [
+            1908.0,
+            1910.0,
+            "He was looking for the angle with force."
+        ],
+        "616": [
+            1910.0,
+            1912.0,
+            "Very good response from Sergio."
+        ],
+        "617": [
+            1913.0,
+            1915.0,
+            "And Bale finally appeared."
+        ],
+        "618": [
+            1915.0,
+            1920.0,
+            "In that header, which is one of his registered marks."
+        ],
+        "619": [
+            1920.0,
+            1922.0,
+            "Here we have the repetition of the shot."
+        ],
+        "620": [
+            1922.0,
+            1924.0,
+            "And the great response of Sergio."
+        ],
+        "621": [
+            1926.0,
+            1929.0,
+            "There is a Celtic player on the pitch."
+        ],
+        "622": [
+            1929.0,
+            1931.0,
+            "Yes, in the jump is John Guidetti."
+        ],
+        "623": [
+            1931.0,
+            1934.0,
+            "The one who complains of a problem in the knee."
+        ],
+        "624": [
+            1934.0,
+            1936.0,
+            "Or in the upper part."
+        ],
+        "625": [
+            1936.0,
+            1938.0,
+            "I think the part of the thigh."
+        ],
+        "626": [
+            1938.0,
+            1940.0,
+            "Although he already gets up, limping."
+        ],
+        "627": [
+            1940.0,
+            1942.0,
+            "But the game continues."
+        ],
+        "628": [
+            1942.0,
+            1944.0,
+            "What a recovery of the Tucu Hernández."
+        ],
+        "629": [
+            1944.0,
+            1946.0,
+            "He wanted to throw a pipe to Casemiro."
+        ],
+        "630": [
+            1946.0,
+            1949.0,
+            "Today Casemiro with the Tucu Hernandez."
+        ],
+        "631": [
+            1949.0,
+            1952.0,
+            "He has sent the Chilean footballer to the ground."
+        ],
+        "632": [
+            1952.0,
+            1954.0,
+            "Face the Real Madrid footballer."
+        ],
+        "633": [
+            1954.0,
+            1956.0,
+            "Let's see what he decides."
+        ],
+        "634": [
+            1956.0,
+            1958.0,
+            "De Burgos comes and kicks."
+        ],
+        "635": [
+            1958.0,
+            1960.0,
+            "Now the Celtic footballer gets up."
+        ],
+        "636": [
+            1960.0,
+            1963.0,
+            "He claims the action we just saw in the bench area."
+        ],
+        "637": [
+            1963.0,
+            1966.0,
+            "But I think he's going to stay in that."
+        ],
+        "638": [
+            1966.0,
+            1968.0,
+            "From above it seemed a push."
+        ],
+        "639": [
+            1968.0,
+            1970.0,
+            "And the repetition has also been revealed."
+        ],
+        "640": [
+            1970.0,
+            1972.0,
+            "Guidetti also comes to complain."
+        ],
+        "641": [
+            1972.0,
+            1974.0,
+            "The line judge of the previous action."
+        ],
+        "642": [
+            1974.0,
+            1976.0,
+            "He complains of the thigh."
+        ],
+        "643": [
+            1976.0,
+            1978.0,
+            "The footballers take advantage to cool off."
+        ],
+        "644": [
+            1978.0,
+            1980.0,
+            "Zidane to talk to Sergio Ramos."
+        ],
+        "645": [
+            1980.0,
+            1983.0,
+            "On the bench of the Celtic also to talk to the coaching staff."
+        ],
+        "646": [
+            1983.0,
+            1985.0,
+            "He has got up Vlado Gudel."
+        ],
+        "647": [
+            1985.0,
+            1987.0,
+            "He also goes Chendo."
+        ],
+        "648": [
+            1987.0,
+            1990.0,
+            "De Burgos says he feels everyone."
+        ],
+        "649": [
+            1990.0,
+            1993.0,
+            "Nothing has happened here in terms of harassment."
+        ],
+        "650": [
+            1994.0,
+            1996.0,
+            "Although he has told Casemiro the referee."
+        ],
+        "651": [
+            1996.0,
+            1998.0,
+            "But he has not said what tranquility."
+        ],
+        "652": [
+            1998.0,
+            2000.0,
+            "At the moment the first fire."
+        ],
+        "653": [
+            2000.0,
+            2002.0,
+            "We have suffocated."
+        ],
+        "654": [
+            2002.0,
+            2004.0,
+            "It was suffocated with water."
+        ],
+        "655": [
+            2004.0,
+            2006.0,
+            "The most sensible thing they have done."
+        ],
+        "656": [
+            2006.0,
+            2008.0,
+            "It is to cool off and drink water."
+        ],
+        "657": [
+            2008.0,
+            2010.0,
+            "The temperature is very hot."
+        ],
+        "658": [
+            2012.0,
+            2014.0,
+            "What just happened."
+        ],
+        "659": [
+            2014.0,
+            2016.0,
+            "It does not look like the game."
+        ],
+        "660": [
+            2016.0,
+            2018.0,
+            "It was very fluid."
+        ],
+        "661": [
+            2018.0,
+            2020.0,
+            "And he had very few aggressive plays."
+        ],
+        "662": [
+            2020.0,
+            2022.0,
+            "Let's not forget that the Tuco Hernandez."
+        ],
+        "663": [
+            2022.0,
+            2024.0,
+            "Although he has a Chilean passport."
+        ],
+        "664": [
+            2024.0,
+            2026.0,
+            "He has a Argentine throwing a Brazilian."
+        ],
+        "665": [
+            2026.0,
+            2028.0,
+            "There has to be a spark."
+        ],
+        "666": [
+            2028.0,
+            2030.0,
+            "I did not miss the detail."
+        ],
+        "667": [
+            2030.0,
+            2032.0,
+            "On the other hand."
+        ],
+        "668": [
+            2032.0,
+            2034.0,
+            "It can also be said that there has been contact."
+        ],
+        "669": [
+            2034.0,
+            2036.0,
+            "I think the referee has read the game."
+        ],
+        "670": [
+            2036.0,
+            2038.0,
+            "So far everything has gone well."
+        ],
+        "671": [
+            2038.0,
+            2040.0,
+            "It's a normal game."
+        ],
+        "672": [
+            2040.0,
+            2042.0,
+            "We will continue."
+        ],
+        "673": [
+            2042.0,
+            2044.0,
+            "I'm not going to start."
+        ],
+        "674": [
+            2044.0,
+            2046.0,
+            "Taking cards for something like that."
+        ],
+        "675": [
+            2046.0,
+            2048.0,
+            "But of course."
+        ],
+        "676": [
+            2048.0,
+            2050.0,
+            "Something happens in 2 or 3 minutes."
+        ],
+        "677": [
+            2050.0,
+            2052.0,
+            "Same line."
+        ],
+        "678": [
+            2052.0,
+            2054.0,
+            "I'm sure he'll get it."
+        ],
+        "679": [
+            2054.0,
+            2056.0,
+            "Anyway."
+        ],
+        "680": [
+            2056.0,
+            2058.0,
+            "If he took out the card."
+        ],
+        "681": [
+            2058.0,
+            2060.0,
+            "We would have understood."
+        ],
+        "682": [
+            2060.0,
+            2062.0,
+            "It was a very clear push."
+        ],
+        "683": [
+            2062.0,
+            2064.0,
+            "Sergio Ramos."
+        ],
+        "684": [
+            2064.0,
+            2066.0,
+            "Brakes under pressure from Guidetti."
+        ],
+        "685": [
+            2066.0,
+            2068.0,
+            "Back to Casillas."
+        ],
+        "686": [
+            2068.0,
+            2070.0,
+            "He also gets the ex from Manchester City."
+        ],
+        "687": [
+            2070.0,
+            2072.0,
+            "Casillas tries to get to Morata."
+        ],
+        "688": [
+            2072.0,
+            2074.0,
+            "He does."
+        ],
+        "689": [
+            2074.0,
+            2076.0,
+            "But he does not hit."
+        ],
+        "690": [
+            2076.0,
+            2078.0,
+            "With that touch to the right."
+        ],
+        "691": [
+            2078.0,
+            2080.0,
+            "The recovery of Celta."
+        ],
+        "692": [
+            2080.0,
+            2082.0,
+            "We are already looking at the final stretch."
+        ],
+        "693": [
+            2082.0,
+            2084.0,
+            "Of the first half."
+        ],
+        "694": [
+            2084.0,
+            2086.0,
+            "The last 10 minutes of the first half."
+        ],
+        "695": [
+            2086.0,
+            2088.0,
+            "Besides."
+        ],
+        "696": [
+            2088.0,
+            2090.0,
+            "Celta does not hold."
+        ],
+        "697": [
+            2090.0,
+            2092.0,
+            "As a survivor."
+        ],
+        "698": [
+            2092.0,
+            2094.0,
+            "Of those we have seen so many in the Bernabéu."
+        ],
+        "699": [
+            2094.0,
+            2096.0,
+            "With 10 players from half court."
+        ],
+        "700": [
+            2096.0,
+            2098.0,
+            "He is proposing a game."
+        ],
+        "701": [
+            2098.0,
+            2100.0,
+            "That subjects Real Madrid."
+        ],
+        "702": [
+            2100.0,
+            2102.0,
+            "To many difficulties."
+        ],
+        "703": [
+            2102.0,
+            2104.0,
+            "He is forcing Real Madrid to think."
+        ],
+        "704": [
+            2104.0,
+            2106.0,
+            "Also Borges does not know."
+        ],
+        "705": [
+            2106.0,
+            2108.0,
+            "He does not know how to put 10 there."
+        ],
+        "706": [
+            2108.0,
+            2110.0,
+            "He can put it."
+        ],
+        "707": [
+            2110.0,
+            2112.0,
+            "But he does not know."
+        ],
+        "708": [
+            2112.0,
+            2114.0,
+            "What a ball from the Tucu."
+        ],
+        "709": [
+            2114.0,
+            2116.0,
+            "Dani Elvas is able."
+        ],
+        "710": [
+            2116.0,
+            2118.0,
+            "Pizarri"
+        ],
+        "711": [
+            2118.0,
+            2120.0,
+            "Marcelo."
+        ],
+        "712": [
+            2120.0,
+            2122.0,
+            "Guidetti again."
+        ],
+        "713": [
+            2122.0,
+            2124.0,
+            "He prefers to let the ball go."
+        ],
+        "714": [
+            2124.0,
+            2126.0,
+            "To enjoy that band."
+        ],
+        "715": [
+            2126.0,
+            2128.0,
+            "Again."
+        ],
+        "716": [
+            2128.0,
+            2130.0,
+            "Again."
+        ],
+        "717": [
+            2130.0,
+            2132.0,
+            "With Pablo Hernández."
+        ],
+        "718": [
+            2132.0,
+            2134.0,
+            "It is true what Michael says."
+        ],
+        "719": [
+            2134.0,
+            2136.0,
+            "He does not know how to play."
+        ],
+        "720": [
+            2136.0,
+            2138.0,
+            "That is a blessing for Spanish football."
+        ],
+        "721": [
+            2138.0,
+            2140.0,
+            "That there are so many teams."
+        ],
+        "722": [
+            2140.0,
+            2142.0,
+            "That are able to come to the Bernabéu."
+        ],
+        "723": [
+            2142.0,
+            2144.0,
+            "To propose."
+        ],
+        "724": [
+            2144.0,
+            2146.0,
+            "Joni."
+        ],
+        "725": [
+            2146.0,
+            2148.0,
+            "Inside of Joni."
+        ],
+        "726": [
+            2148.0,
+            2150.0,
+            "Cut Modric."
+        ],
+        "727": [
+            2150.0,
+            2152.0,
+            "Gareth Bale."
+        ],
+        "728": [
+            2152.0,
+            2154.0,
+            "Tony Kroos."
+        ],
+        "729": [
+            2154.0,
+            2156.0,
+            "Guidetti."
+        ],
+        "730": [
+            2156.0,
+            2158.0,
+            "Daniel Bast."
+        ],
+        "731": [
+            2158.0,
+            2160.0,
+            "He is looking for options."
+        ],
+        "732": [
+            2160.0,
+            2162.0,
+            "He puts it."
+        ],
+        "733": [
+            2162.0,
+            2164.0,
+            "Rafael Varane."
+        ],
+        "734": [
+            2164.0,
+            2166.0,
+            "Providential."
+        ],
+        "735": [
+            2166.0,
+            2168.0,
+            "The cut."
+        ],
+        "736": [
+            2168.0,
+            2170.0,
+            "Providential."
+        ],
+        "737": [
+            2170.0,
+            2172.0,
+            "Because he came from behind."
+        ],
+        "738": [
+            2172.0,
+            2174.0,
+            "With the worst intentions."
+        ],
+        "739": [
+            2174.0,
+            2176.0,
+            "He was alone."
+        ],
+        "740": [
+            2176.0,
+            2178.0,
+            "The team of Eduardo Berizzo."
+        ],
+        "741": [
+            2178.0,
+            2180.0,
+            "Despite the recent Real Madrid."
+        ],
+        "742": [
+            2180.0,
+            2182.0,
+            "With a cross."
+        ],
+        "743": [
+            2182.0,
+            2184.0,
+            "Including Luka Modric."
+        ],
+        "744": [
+            2186.0,
+            2188.0,
+            "We take the break."
+        ],
+        "745": [
+            2188.0,
+            2190.0,
+            "To see again."
+        ],
+        "746": [
+            2190.0,
+            2192.0,
+            "That hook."
+        ],
+        "747": [
+            2192.0,
+            2194.0,
+            "There is no more."
+        ],
+        "748": [
+            2194.0,
+            2196.0,
+            "Between the Brazilian."
+        ],
+        "749": [
+            2196.0,
+            2198.0,
+            "The change."
+        ],
+        "750": [
+            2198.0,
+            2200.0,
+            "Inside the area is Joni."
+        ],
+        "751": [
+            2200.0,
+            2202.0,
+            "The control is not good."
+        ],
+        "752": [
+            2202.0,
+            2204.0,
+            "Carvajal to get out of the field."
+        ],
+        "753": [
+            2204.0,
+            2206.0,
+            "The goal."
+        ],
+        "754": [
+            2206.0,
+            2208.0,
+            "For Kiko Casillas."
+        ],
+        "755": [
+            2214.0,
+            2216.0,
+            "The Celta closes all the exits."
+        ],
+        "756": [
+            2216.0,
+            2218.0,
+            "Casillas can not."
+        ],
+        "757": [
+            2218.0,
+            2220.0,
+            "Go short."
+        ],
+        "758": [
+            2222.0,
+            2224.0,
+            "Morata."
+        ],
+        "759": [
+            2224.0,
+            2226.0,
+            "With Roncaglia."
+        ],
+        "760": [
+            2226.0,
+            2228.0,
+            "There is a lack."
+        ],
+        "761": [
+            2228.0,
+            2230.0,
+            "Morata."
+        ],
+        "762": [
+            2230.0,
+            2232.0,
+            "The referee complains."
+        ],
+        "763": [
+            2232.0,
+            2234.0,
+            "But the pressure."
+        ],
+        "764": [
+            2234.0,
+            2236.0,
+            "The international push."
+        ],
+        "765": [
+            2236.0,
+            2238.0,
+            "The lack that allows."
+        ],
+        "766": [
+            2238.0,
+            2240.0,
+            "The Celta to leave from behind."
+        ],
+        "767": [
+            2242.0,
+            2244.0,
+            "Radoja."
+        ],
+        "768": [
+            2244.0,
+            2246.0,
+            "Mayo."
+        ],
+        "769": [
+            2246.0,
+            2248.0,
+            "Radoja."
+        ],
+        "770": [
+            2248.0,
+            2250.0,
+            "Orellana."
+        ],
+        "771": [
+            2250.0,
+            2252.0,
+            "The referee."
+        ],
+        "772": [
+            2252.0,
+            2254.0,
+            "The attack."
+        ],
+        "773": [
+            2254.0,
+            2256.0,
+            "Carvajal."
+        ],
+        "774": [
+            2256.0,
+            2258.0,
+            "Orellana."
+        ],
+        "775": [
+            2258.0,
+            2260.0,
+            "The shot."
+        ],
+        "776": [
+            2260.0,
+            2262.0,
+            "Orellana."
+        ],
+        "777": [
+            2262.0,
+            2264.0,
+            "The second."
+        ],
+        "778": [
+            2264.0,
+            2266.0,
+            "The head."
+        ],
+        "779": [
+            2266.0,
+            2268.0,
+            "Sensational."
+        ],
+        "780": [
+            2268.0,
+            2270.0,
+            "The initiative."
+        ],
+        "781": [
+            2270.0,
+            2272.0,
+            "The Celta."
+        ],
+        "782": [
+            2272.0,
+            2274.0,
+            "A new demonstration."
+        ],
+        "783": [
+            2274.0,
+            2276.0,
+            "Of tactical courage."
+        ],
+        "784": [
+            2276.0,
+            2278.0,
+            "Three players."
+        ],
+        "785": [
+            2278.0,
+            2280.0,
+            "The Celta."
+        ],
+        "786": [
+            2280.0,
+            2282.0,
+            "Orellana."
+        ],
+        "787": [
+            2282.0,
+            2284.0,
+            "The Chilean."
+        ],
+        "788": [
+            2284.0,
+            2286.0,
+            "Orellana."
+        ],
+        "789": [
+            2286.0,
+            2288.0,
+            "Asensio."
+        ],
+        "790": [
+            2288.0,
+            2290.0,
+            "The left."
+        ],
+        "791": [
+            2290.0,
+            2292.0,
+            "Real Madrid."
+        ],
+        "792": [
+            2292.0,
+            2294.0,
+            "For Marcelo."
+        ],
+        "793": [
+            2294.0,
+            2296.0,
+            "In an action."
+        ],
+        "794": [
+            2296.0,
+            2298.0,
+            "With Ghidetti."
+        ],
+        "795": [
+            2298.0,
+            2300.0,
+            "Again."
+        ],
+        "796": [
+            2300.0,
+            2302.0,
+            "Casemiro."
+        ],
+        "797": [
+            2302.0,
+            2304.0,
+            "The Brazilian."
+        ],
+        "798": [
+            2304.0,
+            2306.0,
+            "The lack of the sign."
+        ],
+        "799": [
+            2306.0,
+            2308.0,
+            "No scoring."
+        ],
+        "800": [
+            2330.0,
+            2332.0,
+            "All are good."
+        ],
+        "801": [
+            2332.0,
+            2334.0,
+            "Not hot."
+        ],
+        "802": [
+            2334.0,
+            2341.74,
+            "I didn't expect him to have his rival behind him, Guidetti blocked and"
+        ],
+        "803": [
+            2341.74,
+            2347.48,
+            "Marcelo's leg seemed weak and it is possible that there was a"
+        ],
+        "804": [
+            2347.48,
+            2351.58,
+            "small ankle sprain but no one leaves the field because of an ankle"
+        ],
+        "805": [
+            2351.58,
+            2355.56,
+            "battered, yes because of the knee, but because of the ankle no one leaves the field of play."
+        ],
+        "806": [
+            2355.56,
+            2358.86,
+            "He is one of the most difficult players to replace at Real Madrid with"
+        ],
+        "807": [
+            2358.86,
+            2362.72,
+            "permission from the figures above, such as Bale, who here rehearses that"
+        ],
+        "808": [
+            2362.72,
+            2366.7599999999998,
+            "shot that goes into the hands of Sergio Álvarez, whatever it may be on the bench"
+        ],
+        "809": [
+            2366.7599999999998,
+            2371.06,
+            "Today's substitutes for Zinedine Zidane in case he had to end up replacing Marcelo."
+        ],
+        "810": [
+            2371.06,
+            2377.4599999999996,
+            "They are the goalkeeper, Yanez, Pepe, James Rodriguez, Kovacic, Lucas Vazquez, Mariano and Danilo."
+        ],
+        "811": [
+            2377.4599999999996,
+            2383.5,
+            "That Danilo would be the theoretical substitute to play or change bands"
+        ],
+        "812": [
+            2383.5,
+            2387.8999999999996,
+            "or with Carvajal on the left. There is Marcelo first for Morata who"
+        ],
+        "813": [
+            2387.8999999999996,
+            2392.2599999999998,
+            "cuts, he slipped, he slipped, he fell again and it is not the first time"
+        ],
+        "814": [
+            2392.26,
+            2396.82,
+            "the one that Morata loses verticality in the middle of the play."
+        ],
+        "815": [
+            2396.82,
+            2401.34,
+            "If all the coordination he showed against Real Sociedad in the first"
+        ],
+        "816": [
+            2401.34,
+            2408.98,
+            "Morata didn't have a good match today as he was a bit in a fight with the ball."
+        ],
+        "817": [
+            2409.38,
+            2413.1000000000004,
+            "Morata who is still looking for his first goal in an official match since his return to the"
+        ],
+        "818": [
+            2413.1000000000004,
+            2417.5800000000004,
+            "Real Madrid did score in the Santiago Bernabéu trophy, but not in an official match or in the"
+        ],
+        "819": [
+            2417.5800000000004,
+            2420.7400000000002,
+            "league debut nor in the European Super Cup. It does not come to mode"
+        ],
+        "820": [
+            2420.74,
+            2425.8999999999996,
+            "right for that ball. Goal kick for Real Club Cielo de Vigo."
+        ],
+        "821": [
+            2425.8999999999996,
+            2429.8199999999997,
+            "And he seems more recovered, at least not so sore. Marcelo endures on the"
+        ],
+        "822": [
+            2429.8199999999997,
+            2434.02,
+            "terrain of the game. Well there has not been any alarm on the Real Madrid bench."
+        ],
+        "823": [
+            2441.4599999999996,
+            2446.1,
+            "Since the construction of the game, Real Madrid only created dangers in shots from"
+        ],
+        "824": [
+            2446.1,
+            2450.66,
+            "medium and long distance and then in a corner where he does show weaknesses"
+        ],
+        "825": [
+            2450.66,
+            2455.46,
+            "Celta since last season. In fact, he lost the first game there."
+        ],
+        "826": [
+            2458.18,
+            2461.98,
+            "And in those actions that Sorge mentioned, in which Real Madrid has been able to carry"
+        ],
+        "827": [
+            2461.98,
+            2466.54,
+            "danger to Celta's goal, always or almost always in Genesis there was a dribble,"
+        ],
+        "828": [
+            2466.54,
+            2469.06,
+            "a footballer who eliminates a rival. That's no coincidence."
+        ],
+        "829": [
+            2469.06,
+            2475.8199999999997,
+            "No, that is essential to generate danger. Someone eliminate someone."
+        ],
+        "830": [
+            2475.8199999999997,
+            2480.46,
+            "Kroos did it once, Modri ​​did it in Nostra, but he is missing from Real Madrid"
+        ],
+        "831": [
+            2480.82,
+            2486.78,
+            "individual inspiration to break lines. There is a very dangerous foul in favor of Celta,"
+        ],
+        "832": [
+            2486.78,
+            2493.7,
+            "the foul committed on the Chilean Fabián Orellana and which seems to be executed by himself"
+        ],
+        "833": [
+            2493.7,
+            2498.14,
+            "Real Club Celta attacker. It's because no one stays around the ball,"
+        ],
+        "834": [
+            2498.14,
+            2503.98,
+            "only Fabián Orellana. Let's see if he looks for a goal or a finisher at the far post,"
+        ],
+        "835": [
+            2503.98,
+            2509.94,
+            "where, for example, John Guidetti is positioned. 1, 2, 3, 4, 5, 6 of Celta looking for the possible"
+        ],
+        "836": [
+            2509.94,
+            2515.78,
+            "center of Orellana. Among them the central defenders Roncaglia and Cabral. The Basque referee authorizes,"
+        ],
+        "837": [
+            2515.78,
+            2520.2200000000003,
+            "Orellana plays mark, Orellana puts it and is in the shot at the penalty spot,"
+        ],
+        "838": [
+            2520.2200000000003,
+            2523.46,
+            "rejected by the Real Madrid defense. Rejection for Arradoya, it depends on Arradoya."
+        ],
+        "839": [
+            2523.46,
+            2527.98,
+            "Kiko Casillas catches, who serves quickly looking for Marcelo."
+        ],
+        "840": [
+            2531.54,
+            2537.46,
+            "Marcelo holds on, the Celta footballers covered him well. Casemiro is about to lose her. He goes out with"
+        ],
+        "841": [
+            2537.5,
+            2542.58,
+            "a little luck and with a lot of power. Withstand May's onslaught on the 14th, touch back and the"
+        ],
+        "842": [
+            2542.58,
+            2547.82,
+            "Celta once again recovering positions in defense, while continuing to accumulate approaches. Latest"
+        ],
+        "843": [
+            2547.82,
+            2552.38,
+            "It is Arradoya's shot. Having the centre-backs drive is a good idea, but"
+        ],
+        "844": [
+            2552.38,
+            2562.9,
+            "driving the center half is not such a good idea. There you do have to play with your touches."
+        ],
+        "845": [
+            2563.06,
+            2566.9,
+            "Marcelo para Toni Kroos."
+        ],
+        "846": [
+            2571.14,
+            2571.78,
+            "Ramos."
+        ],
+        "847": [
+            2575.9,
+            2580.78,
+            "Barán delivers for Luka Modric. What a great detail with the exterior, he makes the direct move, Modric continues,"
+        ],
+        "848": [
+            2580.78,
+            2584.94,
+            "raise your head first. Espeil, this is Kroos on the front. Kroos for Morata. Morata"
+        ],
+        "849": [
+            2584.94,
+            2591.7000000000003,
+            "If offside, Morata is not allowed. The possibility is lost for Real Madrid."
+        ],
+        "850": [
+            2591.7,
+            2597.22,
+            "What's wrong with Berizzo? Well, he is desperate right now with his soccer players. How can"
+        ],
+        "851": [
+            2597.22,
+            2603.02,
+            "allow that ball to finally reach the area where Morata was? He was holding up well"
+        ],
+        "852": [
+            2603.02,
+            2610.7,
+            "Celta at times in this first half, but Berizzo seeks to make there less and less danger"
+        ],
+        "853": [
+            2610.7,
+            2614.9399999999996,
+            "in Sergio's goal. We have just seen the repetition of that offside signaled to"
+        ],
+        "854": [
+            2614.9399999999996,
+            2621.06,
+            "Morata. What do you think? Very fair, but we must highlight the play, Modric's first touch."
+        ],
+        "855": [
+            2621.06,
+            2628.5,
+            "Look again, he receives from his back, he eliminates one with a touch like that, he has Kroos and leaves him."
+        ],
+        "856": [
+            2628.5,
+            2638.98,
+            "And once again danger is created. Radoya turns to Kroos. Touch back for Cabral."
+        ],
+        "857": [
+            2642.7799999999997,
+            2647.1,
+            "Roncaglia receives, good pressure from Real Madrid. Night fell on Radoya,"
+        ],
+        "858": [
+            2647.1,
+            2654.22,
+            "about to lose. Modric is missing there. After he was about to get into trouble,"
+        ],
+        "859": [
+            2654.22,
+            2660.3399999999997,
+            "It was not Radoya, but Pablo Hernández. Defensive midfielder, back to the opponent,"
+        ],
+        "860": [
+            2660.3399999999997,
+            2667.94,
+            "who wants to stop the value. The story starts badly and usually ends badly. I think it is in"
+        ],
+        "861": [
+            2667.94,
+            2682.3,
+            "page 2 or 3 of the book. Pablo Hernández for Daniel Vaz. Celta's three midfielders have"
+        ],
+        "862": [
+            2682.3,
+            2687.14,
+            "made a very big effort in this first time. That's where Real Madrid,"
+        ],
+        "863": [
+            2687.14,
+            2692.5,
+            "Maybe in the second part, you will find a little more ease. That's why I wanted to ask you,"
+        ],
+        "864": [
+            2692.5,
+            2695.1,
+            "Jorge, what did you like most about this first part that is about to end?"
+        ],
+        "865": [
+            2695.1,
+            2699.7,
+            "Celta's midfield seemed very solid to me."
+        ]
+    }
+}

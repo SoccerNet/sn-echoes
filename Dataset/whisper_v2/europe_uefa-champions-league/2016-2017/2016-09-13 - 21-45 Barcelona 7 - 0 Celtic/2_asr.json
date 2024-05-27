@@ -1,0 +1,1344 @@
+{
+    "segments": {
+        "0": [
+            1.0,
+            10.0,
+            "Please wear on earphones!!"
+        ],
+        "1": [
+            10.0,
+            20.0,
+            "If you can't move your device and watch it, Please watch while dragging the screen!"
+        ],
+        "2": [
+            20.0,
+            30.0,
+            "Please enjoy the video!"
+        ],
+        "3": [
+            30.0,
+            40.0,
+            "Thank you for watching!"
+        ],
+        "4": [
+            40.0,
+            50.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "5": [
+            50.0,
+            60.0,
+            "Thank you!"
+        ],
+        "6": [
+            70.0,
+            80.0,
+            "Please share the video!"
+        ],
+        "7": [
+            80.0,
+            90.0,
+            "Thank you!"
+        ],
+        "8": [
+            100.0,
+            110.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "9": [
+            110.0,
+            120.0,
+            "Thank you!"
+        ],
+        "10": [
+            120.0,
+            130.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "11": [
+            130.0,
+            140.0,
+            "Thank you!"
+        ],
+        "12": [
+            140.0,
+            150.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "13": [
+            150.0,
+            160.0,
+            "Thank you!"
+        ],
+        "14": [
+            160.0,
+            170.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "15": [
+            170.0,
+            180.0,
+            "Thank you!"
+        ],
+        "16": [
+            180.0,
+            190.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "17": [
+            190.0,
+            200.0,
+            "Thank you!"
+        ],
+        "18": [
+            200.0,
+            210.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "19": [
+            210.0,
+            220.0,
+            "Thank you!"
+        ],
+        "20": [
+            220.0,
+            230.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "21": [
+            230.0,
+            240.0,
+            "Thank you!"
+        ],
+        "22": [
+            240.0,
+            250.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "23": [
+            250.0,
+            260.0,
+            "Thank you!"
+        ],
+        "24": [
+            260.0,
+            270.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "25": [
+            270.0,
+            280.0,
+            "Thank you!"
+        ],
+        "26": [
+            280.0,
+            290.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "27": [
+            290.0,
+            300.0,
+            "Thank you!"
+        ],
+        "28": [
+            300.0,
+            310.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "29": [
+            310.0,
+            320.0,
+            "Thank you!"
+        ],
+        "30": [
+            320.0,
+            330.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "31": [
+            330.0,
+            340.0,
+            "Thank you!"
+        ],
+        "32": [
+            340.0,
+            350.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "33": [
+            350.0,
+            360.0,
+            "Thank you!"
+        ],
+        "34": [
+            360.0,
+            370.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "35": [
+            370.0,
+            380.0,
+            "Thank you!"
+        ],
+        "36": [
+            380.0,
+            390.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "37": [
+            390.0,
+            400.0,
+            "Thank you!"
+        ],
+        "38": [
+            400.0,
+            410.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "39": [
+            410.0,
+            420.0,
+            "Thank you!"
+        ],
+        "40": [
+            420.0,
+            430.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "41": [
+            430.0,
+            440.0,
+            "Thank you!"
+        ],
+        "42": [
+            440.0,
+            450.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "43": [
+            450.0,
+            460.0,
+            "Thank you!"
+        ],
+        "44": [
+            460.0,
+            470.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "45": [
+            470.0,
+            480.0,
+            "Thank you!"
+        ],
+        "46": [
+            480.0,
+            490.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "47": [
+            490.0,
+            500.0,
+            "Thank you!"
+        ],
+        "48": [
+            500.0,
+            510.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "49": [
+            510.0,
+            520.0,
+            "Thank you!"
+        ],
+        "50": [
+            520.0,
+            530.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "51": [
+            530.0,
+            540.0,
+            "Thank you!"
+        ],
+        "52": [
+            540.0,
+            550.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "53": [
+            550.0,
+            560.0,
+            "Thank you!"
+        ],
+        "54": [
+            560.0,
+            570.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "55": [
+            570.0,
+            580.0,
+            "Thank you!"
+        ],
+        "56": [
+            580.0,
+            590.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "57": [
+            590.0,
+            600.0,
+            "Thank you!"
+        ],
+        "58": [
+            600.0,
+            610.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "59": [
+            610.0,
+            620.0,
+            "Thank you!"
+        ],
+        "60": [
+            620.0,
+            630.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "61": [
+            630.0,
+            640.0,
+            "Thank you!"
+        ],
+        "62": [
+            640.0,
+            650.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "63": [
+            650.0,
+            660.0,
+            "Thank you!"
+        ],
+        "64": [
+            660.0,
+            670.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "65": [
+            670.0,
+            680.0,
+            "Thank you!"
+        ],
+        "66": [
+            680.0,
+            690.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "67": [
+            690.0,
+            700.0,
+            "Thank you!"
+        ],
+        "68": [
+            700.0,
+            710.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "69": [
+            710.0,
+            720.0,
+            "Thank you!"
+        ],
+        "70": [
+            720.0,
+            730.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "71": [
+            730.0,
+            740.0,
+            "Thank you!"
+        ],
+        "72": [
+            740.0,
+            750.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "73": [
+            750.0,
+            760.0,
+            "Thank you!"
+        ],
+        "74": [
+            760.0,
+            770.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "75": [
+            770.0,
+            780.0,
+            "Thank you!"
+        ],
+        "76": [
+            780.0,
+            790.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "77": [
+            790.0,
+            800.0,
+            "Thank you!"
+        ],
+        "78": [
+            800.0,
+            810.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "79": [
+            810.0,
+            820.0,
+            "Thank you!"
+        ],
+        "80": [
+            820.0,
+            830.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "81": [
+            830.0,
+            840.0,
+            "Thank you!"
+        ],
+        "82": [
+            840.0,
+            850.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "83": [
+            850.0,
+            860.0,
+            "Thank you!"
+        ],
+        "84": [
+            860.0,
+            870.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "85": [
+            870.0,
+            880.0,
+            "Thank you!"
+        ],
+        "86": [
+            880.0,
+            890.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "87": [
+            890.0,
+            900.0,
+            "Thank you!"
+        ],
+        "88": [
+            900.0,
+            910.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "89": [
+            910.0,
+            920.0,
+            "Thank you!"
+        ],
+        "90": [
+            920.0,
+            930.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "91": [
+            930.0,
+            940.0,
+            "Thank you!"
+        ],
+        "92": [
+            940.0,
+            950.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "93": [
+            950.0,
+            960.0,
+            "Thank you!"
+        ],
+        "94": [
+            960.0,
+            970.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "95": [
+            970.0,
+            980.0,
+            "Thank you!"
+        ],
+        "96": [
+            980.0,
+            990.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "97": [
+            990.0,
+            1000.0,
+            "Thank you!"
+        ],
+        "98": [
+            1000.0,
+            1010.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "99": [
+            1010.0,
+            1020.0,
+            "Thank you!"
+        ],
+        "100": [
+            1020.0,
+            1030.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "101": [
+            1030.0,
+            1040.0,
+            "Thank you!"
+        ],
+        "102": [
+            1040.0,
+            1050.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "103": [
+            1050.0,
+            1060.0,
+            "Thank you!"
+        ],
+        "104": [
+            1060.0,
+            1070.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "105": [
+            1070.0,
+            1080.0,
+            "Thank you!"
+        ],
+        "106": [
+            1080.0,
+            1090.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "107": [
+            1090.0,
+            1100.0,
+            "Thank you!"
+        ],
+        "108": [
+            1100.0,
+            1110.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "109": [
+            1110.0,
+            1120.0,
+            "Thank you!"
+        ],
+        "110": [
+            1120.0,
+            1130.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "111": [
+            1130.0,
+            1140.0,
+            "Thank you!"
+        ],
+        "112": [
+            1140.0,
+            1150.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "113": [
+            1150.0,
+            1160.0,
+            "Thank you!"
+        ],
+        "114": [
+            1160.0,
+            1170.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "115": [
+            1170.0,
+            1180.0,
+            "Thank you!"
+        ],
+        "116": [
+            1180.0,
+            1190.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "117": [
+            1190.0,
+            1200.0,
+            "Thank you!"
+        ],
+        "118": [
+            1200.0,
+            1210.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "119": [
+            1210.0,
+            1220.0,
+            "Thank you!"
+        ],
+        "120": [
+            1220.0,
+            1230.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "121": [
+            1230.0,
+            1240.0,
+            "Thank you!"
+        ],
+        "122": [
+            1240.0,
+            1250.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "123": [
+            1250.0,
+            1260.0,
+            "Thank you!"
+        ],
+        "124": [
+            1260.0,
+            1270.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "125": [
+            1270.0,
+            1280.0,
+            "Thank you!"
+        ],
+        "126": [
+            1280.0,
+            1290.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "127": [
+            1290.0,
+            1300.0,
+            "Thank you!"
+        ],
+        "128": [
+            1300.0,
+            1310.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "129": [
+            1310.0,
+            1320.0,
+            "Thank you!"
+        ],
+        "130": [
+            1320.0,
+            1330.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "131": [
+            1330.0,
+            1340.0,
+            "Thank you!"
+        ],
+        "132": [
+            1340.0,
+            1350.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "133": [
+            1350.0,
+            1360.0,
+            "Thank you!"
+        ],
+        "134": [
+            1360.0,
+            1370.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "135": [
+            1370.0,
+            1380.0,
+            "Thank you!"
+        ],
+        "136": [
+            1380.0,
+            1390.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "137": [
+            1390.0,
+            1400.0,
+            "Thank you!"
+        ],
+        "138": [
+            1400.0,
+            1410.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "139": [
+            1410.0,
+            1420.0,
+            "Thank you!"
+        ],
+        "140": [
+            1420.0,
+            1430.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "141": [
+            1430.0,
+            1440.0,
+            "Thank you!"
+        ],
+        "142": [
+            1440.0,
+            1450.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "143": [
+            1450.0,
+            1460.0,
+            "Thank you!"
+        ],
+        "144": [
+            1460.0,
+            1470.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "145": [
+            1470.0,
+            1480.0,
+            "Thank you!"
+        ],
+        "146": [
+            1480.0,
+            1490.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "147": [
+            1490.0,
+            1500.0,
+            "Thank you!"
+        ],
+        "148": [
+            1500.0,
+            1510.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "149": [
+            1510.0,
+            1520.0,
+            "Thank you!"
+        ],
+        "150": [
+            1520.0,
+            1530.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "151": [
+            1530.0,
+            1540.0,
+            "Thank you!"
+        ],
+        "152": [
+            1540.0,
+            1550.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "153": [
+            1550.0,
+            1560.0,
+            "Thank you!"
+        ],
+        "154": [
+            1560.0,
+            1570.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "155": [
+            1570.0,
+            1580.0,
+            "Thank you!"
+        ],
+        "156": [
+            1580.0,
+            1590.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "157": [
+            1590.0,
+            1600.0,
+            "Thank you!"
+        ],
+        "158": [
+            1600.0,
+            1610.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "159": [
+            1610.0,
+            1620.0,
+            "Thank you!"
+        ],
+        "160": [
+            1620.0,
+            1630.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "161": [
+            1630.0,
+            1640.0,
+            "Thank you!"
+        ],
+        "162": [
+            1640.0,
+            1650.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "163": [
+            1650.0,
+            1660.0,
+            "Thank you!"
+        ],
+        "164": [
+            1660.0,
+            1670.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "165": [
+            1670.0,
+            1680.0,
+            "Thank you!"
+        ],
+        "166": [
+            1680.0,
+            1690.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "167": [
+            1690.0,
+            1700.0,
+            "Thank you!"
+        ],
+        "168": [
+            1700.0,
+            1710.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "169": [
+            1710.0,
+            1720.0,
+            "Thank you!"
+        ],
+        "170": [
+            1720.0,
+            1730.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "171": [
+            1730.0,
+            1740.0,
+            "Thank you!"
+        ],
+        "172": [
+            1740.0,
+            1750.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "173": [
+            1750.0,
+            1760.0,
+            "Thank you!"
+        ],
+        "174": [
+            1760.0,
+            1770.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "175": [
+            1770.0,
+            1780.0,
+            "Thank you!"
+        ],
+        "176": [
+            1780.0,
+            1790.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "177": [
+            1790.0,
+            1800.0,
+            "Thank you!"
+        ],
+        "178": [
+            1800.0,
+            1810.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "179": [
+            1810.0,
+            1820.0,
+            "Thank you!"
+        ],
+        "180": [
+            1820.0,
+            1830.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "181": [
+            1830.0,
+            1840.0,
+            "Thank you!"
+        ],
+        "182": [
+            1840.0,
+            1850.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "183": [
+            1850.0,
+            1860.0,
+            "Thank you!"
+        ],
+        "184": [
+            1860.0,
+            1870.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "185": [
+            1870.0,
+            1880.0,
+            "Thank you!"
+        ],
+        "186": [
+            1880.0,
+            1890.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "187": [
+            1890.0,
+            1900.0,
+            "Thank you!"
+        ],
+        "188": [
+            1900.0,
+            1910.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "189": [
+            1910.0,
+            1920.0,
+            "Thank you!"
+        ],
+        "190": [
+            1920.0,
+            1930.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "191": [
+            1930.0,
+            1940.0,
+            "Thank you!"
+        ],
+        "192": [
+            1940.0,
+            1950.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "193": [
+            1950.0,
+            1960.0,
+            "Thank you!"
+        ],
+        "194": [
+            1960.0,
+            1970.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "195": [
+            1970.0,
+            1980.0,
+            "Thank you!"
+        ],
+        "196": [
+            1980.0,
+            1990.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "197": [
+            1990.0,
+            2000.0,
+            "Thank you!"
+        ],
+        "198": [
+            2000.0,
+            2010.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "199": [
+            2010.0,
+            2020.0,
+            "Thank you!"
+        ],
+        "200": [
+            2020.0,
+            2030.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "201": [
+            2030.0,
+            2040.0,
+            "Thank you!"
+        ],
+        "202": [
+            2040.0,
+            2050.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "203": [
+            2050.0,
+            2060.0,
+            "Thank you!"
+        ],
+        "204": [
+            2060.0,
+            2070.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "205": [
+            2070.0,
+            2080.0,
+            "Thank you!"
+        ],
+        "206": [
+            2080.0,
+            2090.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "207": [
+            2090.0,
+            2100.0,
+            "Thank you!"
+        ],
+        "208": [
+            2100.0,
+            2110.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "209": [
+            2110.0,
+            2120.0,
+            "Thank you!"
+        ],
+        "210": [
+            2120.0,
+            2130.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "211": [
+            2130.0,
+            2140.0,
+            "Thank you!"
+        ],
+        "212": [
+            2140.0,
+            2150.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "213": [
+            2150.0,
+            2160.0,
+            "Thank you!"
+        ],
+        "214": [
+            2160.0,
+            2170.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "215": [
+            2170.0,
+            2180.0,
+            "Thank you!"
+        ],
+        "216": [
+            2180.0,
+            2190.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "217": [
+            2190.0,
+            2200.0,
+            "Thank you!"
+        ],
+        "218": [
+            2200.0,
+            2210.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "219": [
+            2210.0,
+            2220.0,
+            "Thank you!"
+        ],
+        "220": [
+            2220.0,
+            2230.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "221": [
+            2230.0,
+            2240.0,
+            "Thank you!"
+        ],
+        "222": [
+            2240.0,
+            2250.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "223": [
+            2250.0,
+            2260.0,
+            "Thank you!"
+        ],
+        "224": [
+            2260.0,
+            2270.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "225": [
+            2270.0,
+            2280.0,
+            "Thank you!"
+        ],
+        "226": [
+            2280.0,
+            2290.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "227": [
+            2290.0,
+            2300.0,
+            "Thank you!"
+        ],
+        "228": [
+            2300.0,
+            2310.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "229": [
+            2310.0,
+            2320.0,
+            "Thank you!"
+        ],
+        "230": [
+            2320.0,
+            2330.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "231": [
+            2330.0,
+            2340.0,
+            "Thank you!"
+        ],
+        "232": [
+            2340.0,
+            2350.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "233": [
+            2350.0,
+            2360.0,
+            "Thank you!"
+        ],
+        "234": [
+            2360.0,
+            2370.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "235": [
+            2370.0,
+            2380.0,
+            "Thank you!"
+        ],
+        "236": [
+            2380.0,
+            2390.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "237": [
+            2390.0,
+            2400.0,
+            "Thank you!"
+        ],
+        "238": [
+            2400.0,
+            2410.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "239": [
+            2410.0,
+            2420.0,
+            "Thank you!"
+        ],
+        "240": [
+            2420.0,
+            2430.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "241": [
+            2430.0,
+            2440.0,
+            "Thank you!"
+        ],
+        "242": [
+            2440.0,
+            2450.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "243": [
+            2450.0,
+            2460.0,
+            "Thank you!"
+        ],
+        "244": [
+            2460.0,
+            2470.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "245": [
+            2470.0,
+            2480.0,
+            "Thank you!"
+        ],
+        "246": [
+            2480.0,
+            2490.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "247": [
+            2490.0,
+            2500.0,
+            "Thank you!"
+        ],
+        "248": [
+            2500.0,
+            2510.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "249": [
+            2510.0,
+            2520.0,
+            "Thank you!"
+        ],
+        "250": [
+            2520.0,
+            2530.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "251": [
+            2530.0,
+            2540.0,
+            "Thank you!"
+        ],
+        "252": [
+            2540.0,
+            2550.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "253": [
+            2550.0,
+            2560.0,
+            "Thank you!"
+        ],
+        "254": [
+            2560.0,
+            2570.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "255": [
+            2570.0,
+            2580.0,
+            "Thank you!"
+        ],
+        "256": [
+            2580.0,
+            2590.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "257": [
+            2590.0,
+            2600.0,
+            "Thank you!"
+        ],
+        "258": [
+            2600.0,
+            2610.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "259": [
+            2610.0,
+            2620.0,
+            "Thank you!"
+        ],
+        "260": [
+            2620.0,
+            2630.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "261": [
+            2630.0,
+            2640.0,
+            "Thank you!"
+        ],
+        "262": [
+            2640.0,
+            2650.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "263": [
+            2650.0,
+            2660.0,
+            "Thank you!"
+        ],
+        "264": [
+            2660.0,
+            2670.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "265": [
+            2670.0,
+            2680.0,
+            "Thank you!"
+        ],
+        "266": [
+            2680.0,
+            2690.0,
+            "Please subscribe to the channel and click the like button!"
+        ],
+        "267": [
+            2690.0,
+            2700.0,
+            "Thank you!"
+        ]
+    }
+}
