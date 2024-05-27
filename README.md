@@ -59,11 +59,8 @@ text: A string containing the textual content of the commentary segment.
 
 
 
-## Citations
-> [!IMPORTANT]
-> Please cite our research using the following BibTeX entries:
-
-
+## Citation
+Please cite our work if you use the SoccerNet-Echoes dataset:
 
 <pre><code>
 @misc{gautam2024soccernetechoes,
