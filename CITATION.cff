@@ -43,12 +43,13 @@ authors:
     affiliation: "UCF Center for Research in Computer Vision"
     country: "USA"
 version: 1.0
-abstract: "This repository contains datasets related to football (soccer) matches, organized into various categories and seasons."
+abstract: "This repository contains the SoccerNet-Echoes dataset, an augmentation of the SoccerNet dataset with automatically generated transcriptions of audio commentaries from soccer game broadcasts, enhancing video content with rich layers of textual information derived from the game audio using ASR. These textual commentaries, generated using the Whisper model and translated with Google Translate, extend the usefulness of the SoccerNet dataset in diverse applications such as enhanced action spotting, automatic caption generation, and game summarization. By incorporating textual data alongside visual and auditory content, SoccerNet-Echoes aims to serve as a comprehensive resource for the development of algorithms specialized in capturing the dynamics of soccer games."
 doi: "10.48550/arXiv.2405.07354"
 keywords:
   - football
   - soccer
   - dataset
-  - matches
+  - match
+  - game
   - sports
 repository-code: "https://github.com/SoccerNet/sn-echoes"
