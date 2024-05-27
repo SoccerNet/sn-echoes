@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset in your work, please cite it."
-title: "SoccerEchoes: A Soccer Game Audio Commentary Dataset"
+title: "SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset"
 authors:
   - family-names: "Gautam"
     given-names: "Sushant"
