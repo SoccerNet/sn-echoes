@@ -1,0 +1,1324 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            29.98,
+            "Rudiger, Fazio and Manolas"
+        ],
+        "1": [
+            30.0,
+            59.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "2": [
+            60.0,
+            89.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "3": [
+            90.0,
+            119.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "4": [
+            120.0,
+            137.14,
+            "Roma, Fazio and Manolas"
+        ],
+        "5": [
+            137.14,
+            141.4,
+            "Roma, Fazio and Manolas"
+        ],
+        "6": [
+            141.4,
+            149.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "7": [
+            150.0,
+            167.46,
+            "Roma, Fazio and Manolas"
+        ],
+        "8": [
+            180.0,
+            209.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "9": [
+            210.0,
+            239.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "10": [
+            240.0,
+            269.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "11": [
+            270.0,
+            299.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "12": [
+            300.0,
+            329.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "13": [
+            330.0,
+            359.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "14": [
+            360.0,
+            389.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "15": [
+            390.0,
+            419.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "16": [
+            420.0,
+            449.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "17": [
+            450.0,
+            479.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "18": [
+            480.0,
+            509.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "19": [
+            510.0,
+            539.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "20": [
+            540.0,
+            569.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "21": [
+            570.0,
+            599.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "22": [
+            600.0,
+            629.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "23": [
+            630.0,
+            659.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "24": [
+            660.0,
+            689.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "25": [
+            690.0,
+            719.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "26": [
+            720.0,
+            749.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "27": [
+            750.0,
+            779.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "28": [
+            780.0,
+            809.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "29": [
+            810.0,
+            839.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "30": [
+            840.0,
+            869.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "31": [
+            870.0,
+            899.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "32": [
+            900.0,
+            929.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "33": [
+            930.0,
+            959.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "34": [
+            960.0,
+            989.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "35": [
+            990.0,
+            1019.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "36": [
+            1020.0,
+            1049.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "37": [
+            1050.0,
+            1079.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "38": [
+            1080.0,
+            1109.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "39": [
+            1110.0,
+            1139.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "40": [
+            1140.0,
+            1169.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "41": [
+            1170.0,
+            1199.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "42": [
+            1200.0,
+            1229.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "43": [
+            1230.0,
+            1259.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "44": [
+            1260.0,
+            1289.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "45": [
+            1290.0,
+            1319.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "46": [
+            1320.0,
+            1349.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "47": [
+            1350.0,
+            1379.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "48": [
+            1380.0,
+            1409.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "49": [
+            1410.0,
+            1439.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "50": [
+            1440.0,
+            1469.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "51": [
+            1470.0,
+            1499.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "52": [
+            1500.0,
+            1529.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "53": [
+            1530.0,
+            1559.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "54": [
+            1560.0,
+            1589.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "55": [
+            1590.0,
+            1619.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "56": [
+            1620.0,
+            1649.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "57": [
+            1650.0,
+            1679.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "58": [
+            1680.0,
+            1709.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "59": [
+            1710.0,
+            1712.0,
+            "Roma, Fazio and Manolas"
+        ],
+        "60": [
+            1712.0,
+            1739.98,
+            "Roma, Fazio and Manolas"
+        ],
+        "61": [
+            1740.0,
+            1742.0,
+            "Roma, Fazio and Manolas"
+        ],
+        "62": [
+            1742.0,
+            1746.0,
+            "Roma, Fazio and Manolas"
+        ],
+        "63": [
+            1770.0,
+            1772.56,
+            "And here who will hit Rudiger first on the ball?"
+        ],
+        "64": [
+            1773.16,
+            1774.6,
+            "Oh, what a revival right away."
+        ],
+        "65": [
+            1775.04,
+            1776.62,
+            "Tello is fresh."
+        ],
+        "66": [
+            1777.4,
+            1781.28,
+            "He left Perez, who had lost his vigilance a little."
+        ],
+        "67": [
+            1781.4,
+            1785.8,
+            "And at a very respectful distance the opponent was controlled by Roma's new square."
+        ],
+        "68": [
+            1786.36,
+            1788.36,
+            "Ingalan runs and runs."
+        ],
+        "69": [
+            1788.8,
+            1791.06,
+            "Take it, hit Ingalan."
+        ],
+        "70": [
+            1791.16,
+            1791.68,
+            "Tribune!"
+        ],
+        "71": [
+            1792.72,
+            1795.68,
+            "Oh, how handsome Rajan Ingalan is."
+        ],
+        "72": [
+            1795.78,
+            1797.26,
+            "Oh, what a handsome man."
+        ],
+        "73": [
+            1797.26,
+            1800.74,
+            "How he handled the ball, how calmly he did everything."
+        ],
+        "74": [
+            1801.24,
+            1803.34,
+            "A brilliant goal for Ingalan."
+        ],
+        "75": [
+            1803.48,
+            1807.24,
+            "An excellent combination of counter to Roma\u2019s attack and 3-0."
+        ],
+        "76": [
+            1807.46,
+            1808.68,
+            "Fair result."
+        ],
+        "77": [
+            1809.02,
+            1813.0,
+            "Well, bravo, bravo, bravo Rajan Ingalan."
+        ],
+        "78": [
+            1813.2,
+            1817.44,
+            "The best midfielder of the Italian championship at the moment."
+        ],
+        "79": [
+            1817.54,
+            1819.26,
+            "And someone go argue with this."
+        ],
+        "80": [
+            1819.76,
+            1821.62,
+            "Derosi scores a magnificent goal."
+        ],
+        "81": [
+            1821.74,
+            1824.26,
+            "Becomes the author of the pre-goal assist."
+        ],
+        "82": [
+            1824.96,
+            1826.88,
+            "An assist hat-trick of sorts."
+        ],
+        "83": [
+            1826.88,
+            1831.34,
+            "Well, Strotman made the touch directly before Ingalan\u2019s goal."
+        ],
+        "84": [
+            1832.18,
+            1834.0,
+            "The perfect counterattack."
+        ],
+        "85": [
+            1834.42,
+            1834.94,
+            "Perfect."
+        ],
+        "86": [
+            1835.08,
+            1837.36,
+            "Four football players were involved in it."
+        ],
+        "87": [
+            1837.76,
+            1840.74,
+            "And it started from almost Roma\u2019s penalty area."
+        ],
+        "88": [
+            1840.9,
+            1842.94,
+            "From where the pass was made, in my opinion, Perez."
+        ],
+        "89": [
+            1843.36,
+            1844.26,
+            "Next is Derosi."
+        ],
+        "90": [
+            1844.54,
+            1844.88,
+            "Next is Strotman."
+        ],
+        "91": [
+            1845.84,
+            1847.86,
+            "And Rajan Ingalan takes out."
+        ],
+        "92": [
+            1848.22,
+            1851.5,
+            "His fifth goal this season was exceptionally good."
+        ],
+        "93": [
+            1851.6,
+            1856.64,
+            "And how calmly, how calmly Ingalan approached this moment."
+        ],
+        "94": [
+            1856.64,
+            1856.7,
+            "Yes."
+        ],
+        "95": [
+            1856.88,
+            1858.54,
+            "In fact, it was a very difficult episode."
+        ],
+        "96": [
+            1859.26,
+            1862.46,
+            "It seems to me that there was an opportunity to break through right away."
+        ],
+        "97": [
+            1862.6,
+            1863.66,
+            "But it was a big risk."
+        ],
+        "98": [
+            1864.0,
+            1865.0,
+            "Don't hit the ball."
+        ],
+        "99": [
+            1865.04,
+            1867.28,
+            "Ingalan handled a very difficult ball."
+        ],
+        "100": [
+            1867.62,
+            1869.62,
+            "I didn\u2019t let him go far from me."
+        ],
+        "101": [
+            1869.8,
+            1874.94,
+            "And in the end, with two touches I dealt with this ball and this moment."
+        ],
+        "102": [
+            1875.28,
+            1875.68,
+            "Bravo!"
+        ],
+        "103": [
+            1875.96,
+            1876.96,
+            "On Ingalan 3-0."
+        ],
+        "104": [
+            1877.08,
+            1878.84,
+            "Roma wins this match."
+        ],
+        "105": [
+            1878.9,
+            1880.62,
+            "I have no doubt about this."
+        ],
+        "106": [
+            1881.94,
+            1882.54,
+            "Yes."
+        ],
+        "107": [
+            1883.32,
+            1885.02,
+            "There can be no more doubts here."
+        ],
+        "108": [
+            1885.02,
+            1886.86,
+            "This is Rajan Ingalan's eighth goal."
+        ],
+        "109": [
+            1886.88,
+            1890.06,
+            "In all tournaments this season."
+        ],
+        "110": [
+            1890.2,
+            1892.1,
+            "In the Italian Cup, in the Europa League."
+        ],
+        "111": [
+            1893.56,
+            1895.74,
+            "And it\u2019s interesting that it will really reach."
+        ],
+        "112": [
+            1896.2,
+            1900.82,
+            "It seems to me that Shtenzny acted recklessly here."
+        ],
+        "113": [
+            1901.26,
+            1903.4,
+            "Coming out of the gate and noticing a jump."
+        ],
+        "114": [
+            1904.1,
+            1908.3,
+            "So, Ingalan scored the winning goal against Dinez."
+        ],
+        "115": [
+            1908.44,
+            1909.88,
+            "The winning goal in the Milan goal."
+        ],
+        "116": [
+            1910.9,
+            1911.72,
+            "And the only one."
+        ],
+        "117": [
+            1912.72,
+            1915.56,
+            "Samdori's winning goal in the Cup."
+        ],
+        "118": [
+            1915.56,
+            1916.8,
+            "And also him."
+        ],
+        "119": [
+            1916.8,
+            1918.1,
+            "He finished off his opponents."
+        ],
+        "120": [
+            1918.76,
+            1920.44,
+            "We don't leave any chances anymore."
+        ],
+        "121": [
+            1920.5,
+            1922.82,
+            "This was the case with Latso, with Sosolo and with Austria."
+        ],
+        "122": [
+            1923.18,
+            1927.9,
+            "And it seems to me that this goal is rather beyond the scope."
+        ],
+        "123": [
+            1929.02,
+            1931.08,
+            "But he hardly decides anything definitively."
+        ],
+        "124": [
+            1931.16,
+            1937.14,
+            "Although he, in fact, probably no longer leaves any chance in Kilikin."
+        ],
+        "125": [
+            1937.48,
+            1939.12,
+            "The guests have one more replacement."
+        ],
+        "126": [
+            1939.44,
+            1940.64,
+            "Chiesa leaves Paul."
+        ],
+        "127": [
+            1940.74,
+            1942.78,
+            "Sebastian Kristoforov comes out."
+        ],
+        "128": [
+            1942.78,
+            1945.66,
+            "This is also a very young football player."
+        ],
+        "129": [
+            1945.76,
+            1946.78,
+            "He has dual citizenship."
+        ],
+        "130": [
+            1946.86,
+            1948.0,
+            "Uruguay, Italy."
+        ],
+        "131": [
+            1948.16,
+            1950.16,
+            "He is 23 years old."
+        ],
+        "132": [
+            1950.34,
+            1953.5,
+            "But at the same time, he is by no means a first-team player."
+        ],
+        "133": [
+            1953.56,
+            1955.52,
+            "He has one game in the starting lineup."
+        ],
+        "134": [
+            1955.62,
+            1957.4,
+            "Nine from the bench."
+        ],
+        "135": [
+            1958.56,
+            1960.18,
+            "Not a single goal."
+        ],
+        "136": [
+            1960.42,
+            1961.78,
+            "But at the same time in two gears."
+        ],
+        "137": [
+            1963.02,
+            1963.42,
+            "Assists."
+        ],
+        "138": [
+            1964.12,
+            1967.84,
+            "Well, yes, Kristoforov really is a substitute player."
+        ],
+        "139": [
+            1967.96,
+            1970.2,
+            "Rather, it\u2019s much more interesting here,"
+        ],
+        "140": [
+            1970.2,
+            1973.64,
+            "Why did Totti rush towards the bench?"
+        ],
+        "141": [
+            1974.14,
+            1975.18,
+            "Is he going to the field?"
+        ],
+        "142": [
+            1975.54,
+            1976.26,
+            "Why not?"
+        ],
+        "143": [
+            1976.8,
+            1980.58,
+            "Why not treat the Roman public to an appearance by the emperor?"
+        ],
+        "144": [
+            1980.58,
+            1983.04,
+            "Nobel, we're having a real party here."
+        ],
+        "145": [
+            1983.04,
+            1985.04,
+            "A real party."
+        ],
+        "146": [
+            1985.04,
+            1986.3,
+            "If you speak English."
+        ],
+        "147": [
+            1986.3,
+            1988.3,
+            "And we know that Totti no party."
+        ],
+        "148": [
+            1988.3,
+            1991.3,
+            "What moment did Sharyaev miss?"
+        ],
+        "149": [
+            1991.3,
+            1992.3,
+            "It wasn't a miracle that I got there."
+        ],
+        "150": [
+            1992.3,
+            1994.3,
+            "I will mark Emerson properly."
+        ],
+        "151": [
+            1994.3,
+            1998.3,
+            "But the ball flew out of bounds."
+        ],
+        "152": [
+            1998.3,
+            1999.3,
+            "Showing off."
+        ],
+        "153": [
+            1999.3,
+            2000.3,
+            "Already Roma."
+        ],
+        "154": [
+            2000.3,
+            2002.3,
+            "Everyone wants to score."
+        ],
+        "155": [
+            2002.3,
+            2006.06,
+            "Moreover, there is no pressure anymore."
+        ],
+        "156": [
+            2006.06,
+            2007.06,
+            "Result."
+        ],
+        "157": [
+            2007.06,
+            2009.06,
+            "The outcome is clear."
+        ],
+        "158": [
+            2009.06,
+            2012.06,
+            "All that remains is to understand how packed Roma is today."
+        ],
+        "159": [
+            2012.06,
+            2014.06,
+            "9 goals."
+        ],
+        "160": [
+            2014.06,
+            2016.06,
+            "It's a pity. Sorry for Ferentin."
+        ],
+        "161": [
+            2016.06,
+            2019.06,
+            "She never really got close to the gates of Meshchentsny."
+        ],
+        "162": [
+            2019.06,
+            2021.06,
+            "There were a couple of bad catches."
+        ],
+        "163": [
+            2021.06,
+            2025.06,
+            "And it was Chiesa who had the first scoring chance."
+        ],
+        "164": [
+            2025.06,
+            2029.06,
+            "We remember that he eventually threw the ball over Meshchentsov."
+        ],
+        "165": [
+            2029.06,
+            2031.06,
+            "But the defenders provided insurance."
+        ],
+        "166": [
+            2031.06,
+            2033.06,
+            "Yes, forget about Chiesa then."
+        ],
+        "167": [
+            2033.06,
+            2035.06,
+            "Perhaps the game would have turned out differently."
+        ],
+        "168": [
+            2035.06,
+            2035.9,
+            "Battle."
+        ],
+        "169": [
+            2035.9,
+            2036.9,
+            "Badel."
+        ],
+        "170": [
+            2036.9,
+            2047.9,
+            "Well, Rajan Ingalan is another option for the name of the best player of the match."
+        ],
+        "171": [
+            2047.9,
+            2050.9,
+            "Because R\u00fcdiger is probably good today too."
+        ],
+        "172": [
+            2050.9,
+            2052.9,
+            "And Dorosev."
+        ],
+        "173": [
+            2052.9,
+            2054.9,
+            "The passer is brilliant."
+        ],
+        "174": [
+            2054.9,
+            2056.9,
+            "Well, Ingalan is simply everywhere."
+        ],
+        "175": [
+            2056.9,
+            2058.9,
+            "Now in the selection for Ingalan."
+        ],
+        "176": [
+            2058.9,
+            2059.9,
+            "Picks up the ball."
+        ],
+        "177": [
+            2059.9,
+            2061.9,
+            "By the way, we praise him, we praise him."
+        ],
+        "178": [
+            2061.9,
+            2063.9,
+            "And everything will be deservedly regulated."
+        ],
+        "179": [
+            2063.9,
+            2064.9,
+            "OK."
+        ],
+        "180": [
+            2064.9,
+            2066.9,
+            "We'll reach Ingalan a little later."
+        ],
+        "181": [
+            2066.9,
+            2068.9,
+            "For now, let's listen to Rome's applause."
+        ],
+        "182": [
+            2068.9,
+            2070.9,
+            "Shut up."
+        ],
+        "183": [
+            2070.9,
+            2072.9,
+            "The third part."
+        ],
+        "184": [
+            2072.9,
+            2074.9,
+            "Shalom Yu."
+        ],
+        "185": [
+            2074.9,
+            2076.9,
+            "Time."
+        ],
+        "186": [
+            2076.9,
+            2078.9,
+            "Time."
+        ],
+        "187": [
+            2078.9,
+            2080.9,
+            "Heads."
+        ],
+        "188": [
+            2080.9,
+            2082.9,
+            "Time."
+        ],
+        "189": [
+            2082.9,
+            2084.9,
+            "Time."
+        ],
+        "190": [
+            2084.9,
+            2086.9,
+            "Heads."
+        ],
+        "191": [
+            2086.9,
+            2088.9,
+            "Time."
+        ],
+        "192": [
+            2088.9,
+            2090.9,
+            "Heads."
+        ],
+        "193": [
+            2090.9,
+            2092.9,
+            "Time."
+        ],
+        "194": [
+            2092.9,
+            2098.24,
+            "It's never been more romantic in Rome!"
+        ],
+        "195": [
+            2122.9,
+            2123.34,
+            "Jacko!"
+        ],
+        "196": [
+            2152.9,
+            2154.9,
+            "Kaleri!"
+        ],
+        "197": [
+            2182.9,
+            2184.9,
+            "Jacko!"
+        ],
+        "198": [
+            2212.9,
+            2214.9,
+            "Jacko!"
+        ],
+        "199": [
+            2242.9,
+            2244.9,
+            "Jacko!"
+        ],
+        "200": [
+            2272.9,
+            2274.9,
+            "Jacko!"
+        ],
+        "201": [
+            2302.9,
+            2304.9,
+            "Jacko!"
+        ],
+        "202": [
+            2332.9,
+            2334.9,
+            "Jacko!"
+        ],
+        "203": [
+            2362.9,
+            2364.9,
+            "Jacko!"
+        ],
+        "204": [
+            2392.9,
+            2394.9,
+            "Jacko!"
+        ],
+        "205": [
+            2422.9,
+            2424.9,
+            "Jacko!"
+        ],
+        "206": [
+            2452.9,
+            2454.9,
+            "Jacko!"
+        ],
+        "207": [
+            2482.9,
+            2484.9,
+            "Jacko!"
+        ],
+        "208": [
+            2512.9,
+            2514.9,
+            "Jacko!"
+        ],
+        "209": [
+            2542.9,
+            2547.16,
+            "Today the Roman wolves trampled the violet meadow."
+        ],
+        "210": [
+            2547.66,
+            2548.6,
+            "Let's call it that."
+        ],
+        "211": [
+            2549.68,
+            2550.52,
+            "Coetic."
+        ],
+        "212": [
+            2551.14,
+            2554.18,
+            "Wolves is the nickname of the Roman team."
+        ],
+        "213": [
+            2554.32,
+            2556.0,
+            "Everything is clear about violets too."
+        ],
+        "214": [
+            2556.72,
+            2560.58,
+            "Unfortunately, Ferentina was unable to impose the fight today."
+        ],
+        "215": [
+            2560.76,
+            2565.86,
+            "First of all, because of the way Roma approached this match."
+        ],
+        "216": [
+            2565.86,
+            2567.04,
+            "Very concentrated."
+        ],
+        "217": [
+            2567.32,
+            2569.86,
+            "Minimum errors in simple situations."
+        ],
+        "218": [
+            2570.82,
+            2572.64,
+            "And a rather relaxed game lies ahead."
+        ],
+        "219": [
+            2572.9,
+            2575.58,
+            "Or Chech."
+        ],
+        "220": [
+            2576.88,
+            2577.8,
+            "Under attack."
+        ],
+        "221": [
+            2577.98,
+            2579.32,
+            "But now you can break through."
+        ],
+        "222": [
+            2579.52,
+            2582.72,
+            "And again the Roma football player played very tightly in defense."
+        ],
+        "223": [
+            2582.82,
+            2583.46,
+            "Fasio."
+        ],
+        "224": [
+            2584.28,
+            2585.0,
+            "Breaking the rules."
+        ],
+        "225": [
+            2585.5,
+            2587.52,
+            "Come on, Nobel, your rating."
+        ],
+        "226": [
+            2587.82,
+            2589.22,
+            "Who is the best in the match today?"
+        ],
+        "227": [
+            2590.9,
+            2595.0,
+            "In my opinion, it\u2019s difficult to single out anyone from Roma."
+        ],
+        "228": [
+            2595.56,
+            2598.08,
+            "Dzeko, Nayan Golan, Emerson."
+        ],
+        "229": [
+            2598.74,
+            2599.54,
+            "Here are my top three."
+        ],
+        "230": [
+            2601.78,
+            2602.42,
+            "Replacement."
+        ],
+        "231": [
+            2602.42,
+            2602.5,
+            "Replacement."
+        ],
+        "232": [
+            2602.9,
+            2603.82,
+            "Substitution for Roma."
+        ],
+        "233": [
+            2605.64,
+            2608.5,
+            "Newcomer Cl\u00e9ment Grenier appears on the field."
+        ],
+        "234": [
+            2609.1,
+            2617.7,
+            "And he comes out instead of Rajin Nayan Golan, who, of course, is also very loved in Rome."
+        ],
+        "235": [
+            2618.92,
+            2623.0,
+            "Yes, Spalletti said in a recent interview, I repeat that Nayan Golan is like Pogba."
+        ],
+        "236": [
+            2623.0,
+            2631.66,
+            "But, it seems to me, just a little more, and soon they will say Pogba, if only you played like Najan Golan."
+        ],
+        "237": [
+            2632.9,
+            2641.8,
+            "If Paul is not doing well there in Manchester, then Raja, the undisputed leader of Roma."
+        ],
+        "238": [
+            2642.88,
+            2648.98,
+            "If you are interested, dear viewers, I would probably also include Deros in my top three."
+        ],
+        "239": [
+            2649.66,
+            2650.1,
+            "Derose today."
+        ],
+        "240": [
+            2650.1,
+            2650.52,
+            "Instead of whom?"
+        ],
+        "241": [
+            2650.76,
+            2651.6,
+            "Instead of Emerson."
+        ],
+        "242": [
+            2651.72,
+            2652.38,
+            "Instead of Emerson."
+        ],
+        "243": [
+            2652.38,
+            2659.64,
+            "Yes, Derose, of course, we shouldn\u2019t forget about Derose, because he really played a very good match with two assists to his name."
+        ],
+        "244": [
+            2659.82,
+            2661.56,
+            "In general, friends, choose."
+        ],
+        "245": [
+            2661.8,
+            2662.38,
+            "It's really..."
+        ],
+        "246": [
+            2662.9,
+            2664.52,
+            "You can name anyone."
+        ],
+        "247": [
+            2664.62,
+            2667.16,
+            "And here he is Grinier, a young Frenchman."
+        ],
+        "248": [
+            2667.68,
+            2667.94,
+            "Pass."
+        ],
+        "249": [
+            2668.56,
+            2670.96,
+            "No, it definitely turns out in the direction of Stratman."
+        ],
+        "250": [
+            2670.96,
+            2672.34,
+            "Difficult to execute, yes."
+        ],
+        "251": [
+            2672.98,
+            2674.42,
+            "By the way, about Derose."
+        ],
+        "252": [
+            2675.04,
+            2676.76,
+            "Many people, perhaps not in the know, are surprised."
+        ],
+        "253": [
+            2676.84,
+            2678.16,
+            "Where is Alexandro Florenze?"
+        ],
+        "254": [
+            2678.16,
+            2683.14,
+            "Yes, one of the players of the Italian national team, one of the colorful players of Roma."
+        ],
+        "255": [
+            2683.2,
+            2687.06,
+            "He probably should have run along the right flank somewhere now, but Perez is doing it."
+        ],
+        "256": [
+            2687.3,
+            2688.4,
+            "He passes to Stratman."
+        ],
+        "257": [
+            2688.76,
+            2689.28,
+            "Stratman!"
+        ],
+        "258": [
+            2689.8,
+            2691.0,
+            "Oh, what a tackle!"
+        ],
+        "259": [
+            2691.1,
+            2692.48,
+            "It's practically breakdancing!"
+        ],
+        "260": [
+            2692.9,
+            2693.62,
+            "Yes."
+        ],
+        "261": [
+            2693.62,
+            2694.62,
+            "Ferentina penalty."
+        ],
+        "262": [
+            2694.72,
+            2698.36,
+            "Now Stratman, without touching the ball, outwitted his opponent."
+        ],
+        "263": [
+            2699.54,
+            2700.0,
+            "Yes friends."
+        ]
+    }
+}

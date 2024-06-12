@@ -1,0 +1,3929 @@
+{
+    "segments": {
+        "0": [
+            0.0,
+            2.04,
+            "Go!"
+        ],
+        "1": [
+            30.0,
+            32.36,
+            "Matri, a bunch of forwards"
+        ],
+        "2": [
+            32.36,
+            34.66,
+            "Defrel, apparently a little from the depths"
+        ],
+        "3": [
+            34.66,
+            36.02,
+            "Matri, finally"
+        ],
+        "4": [
+            36.02,
+            38.32,
+            "Urome"
+        ],
+        "5": [
+            38.32,
+            40.02,
+            "At the gates of Szczecin"
+        ],
+        "6": [
+            40.02,
+            41.92,
+            "Left back Emerson"
+        ],
+        "7": [
+            41.92,
+            42.94,
+            "On the right is Florenzi"
+        ],
+        "8": [
+            42.94,
+            46.14,
+            "In the center of Facio and Manues"
+        ],
+        "9": [
+            46.14,
+            47.74,
+            "Defensive midfielders"
+        ],
+        "10": [
+            47.74,
+            48.98,
+            "Strotman and Terrosi"
+        ],
+        "11": [
+            48.98,
+            51.82,
+            "Salah on the right, El Sharawi on the left"
+        ],
+        "12": [
+            51.82,
+            53.2,
+            "Naingalan"
+        ],
+        "13": [
+            53.2,
+            55.6,
+            "Another central midfielder"
+        ],
+        "14": [
+            55.6,
+            57.52,
+            "In general, it looks more like a 4-3-3 formation."
+        ],
+        "15": [
+            57.52,
+            59.16,
+            "Although Naingalan is closer to Jack"
+        ],
+        "16": [
+            59.16,
+            59.84,
+            "Playing"
+        ],
+        "17": [
+            59.84,
+            61.8,
+            "Well, Jack is the center forward"
+        ],
+        "18": [
+            61.8,
+            64.88,
+            "Roma, Jack vs. Canavar accelerates"
+        ],
+        "19": [
+            64.88,
+            69.1,
+            "And the Bosnian will even show us some tricks"
+        ],
+        "20": [
+            69.1,
+            71.92,
+            "But this is a pass, a reverse pass from Naingalan"
+        ],
+        "21": [
+            71.92,
+            76.92,
+            "It seemed, it seemed at some point that"
+        ],
+        "22": [
+            76.92,
+            78.86,
+            "There was an option for a chance to strike"
+        ],
+        "23": [
+            78.86,
+            82.0,
+            "Trainers Defrancesco and Spariti"
+        ],
+        "24": [
+            82.0,
+            83.02,
+            "I'll introduce them again"
+        ],
+        "25": [
+            83.02,
+            85.24,
+            "Chief referee of the match Antonio D'Amato"
+        ],
+        "26": [
+            85.24,
+            86.84,
+            "Dmitry Shnyakin, your commentator"
+        ],
+        "27": [
+            86.84,
+            88.82,
+            "Long forward pass"
+        ],
+        "28": [
+            88.82,
+            96.62,
+            "Well, anyway, you know, yeah"
+        ],
+        "29": [
+            96.62,
+            99.4,
+            "Yes, luck, yes, those hits on the crossbar"
+        ],
+        "30": [
+            99.4,
+            101.86,
+            "Anyway, it looks so monolithic"
+        ],
+        "31": [
+            101.86,
+            104.42,
+            "Defense of Susolo"
+        ],
+        "32": [
+            104.42,
+            108.16,
+            "With those changes, besides, yes, that are in it"
+        ],
+        "33": [
+            108.16,
+            110.74,
+            "I remind you that Chime Versalco"
+        ],
+        "34": [
+            110.74,
+            114.26,
+            "In my opinion, the best right-back in Italy last season"
+        ],
+        "35": [
+            114.26,
+            115.2,
+            "Or one of"
+        ],
+        "36": [
+            115.2,
+            116.34,
+            "But in any case"
+        ],
+        "37": [
+            116.34,
+            118.66,
+            "In this case, it's not what I think"
+        ],
+        "38": [
+            118.66,
+            118.7,
+            "It's not what I think"
+        ],
+        "39": [
+            118.7,
+            118.74,
+            "It's not what I think"
+        ],
+        "40": [
+            118.74,
+            118.78,
+            "It's not what I think"
+        ],
+        "41": [
+            118.78,
+            118.8,
+            "It's not what I think"
+        ],
+        "42": [
+            118.82,
+            148.8,
+            "It's not what I think"
+        ],
+        "43": [
+            148.8,
+            148.84,
+            "It's not what I think"
+        ],
+        "44": [
+            148.84,
+            148.88,
+            "It's not what I think"
+        ],
+        "45": [
+            148.88,
+            178.78,
+            "It's not what I think"
+        ],
+        "46": [
+            178.78,
+            178.86,
+            "It's not what I think"
+        ],
+        "47": [
+            178.86,
+            208.76,
+            "It's not what I think"
+        ],
+        "48": [
+            208.76,
+            208.84,
+            "It's not what I think"
+        ],
+        "49": [
+            208.84,
+            238.74,
+            "It's not what I think"
+        ],
+        "50": [
+            238.74,
+            238.82,
+            "It's not what I think"
+        ],
+        "51": [
+            238.82,
+            268.72,
+            "It's not what I think"
+        ],
+        "52": [
+            268.72,
+            268.8,
+            "It's not what I think"
+        ],
+        "53": [
+            268.8,
+            269.86,
+            "It's not what I think"
+        ],
+        "54": [
+            269.86,
+            270.28,
+            "Here, these are the barriers"
+        ],
+        "55": [
+            270.28,
+            271.6,
+            "Here, these are the barriers"
+        ],
+        "56": [
+            271.6,
+            278.72,
+            "AND..."
+        ],
+        "57": [
+            278.72,
+            280.72,
+            "I think he's not underneath"
+        ],
+        "58": [
+            280.72,
+            284.76,
+            "And, of course, this person, comments"
+        ],
+        "59": [
+            284.76,
+            286.88,
+            "Of course, he couldn't ignore"
+        ],
+        "60": [
+            286.88,
+            287.5,
+            "Topic"
+        ],
+        "61": [
+            287.5,
+            288.56,
+            "And, of course, for now"
+        ],
+        "62": [
+            288.56,
+            292.7,
+            "Gonsal Higuaina"
+        ],
+        "63": [
+            292.7,
+            295.48,
+            "Which came from Naples to Juventus"
+        ],
+        "64": [
+            295.48,
+            297.9,
+            "He said that on the one hand I\u2019m not going to judge him"
+        ],
+        "65": [
+            297.9,
+            302.2,
+            "There are dances in general, I wouldn\u2019t recommend it either"
+        ],
+        "66": [
+            302.2,
+            311.46,
+            "needle and well, wander the streets of Naples in expensive watches"
+        ],
+        "67": [
+            311.46,
+            314.98,
+            "and pass forward fair play"
+        ],
+        "68": [
+            314.98,
+            329.04,
+            "the canal is already in place"
+        ],
+        "69": [
+            336.42,
+            342.94,
+            "51 minutes from the word of Roma, but I told you that it\u2019s still a somewhat inconvenient opponent"
+        ],
+        "70": [
+            342.94,
+            344.92,
+            "from the word for Roma and"
+        ],
+        "71": [
+            344.98,
+            352.3,
+            "if we take the previous match, this is actually the idea, but just the opposite because"
+        ],
+        "72": [
+            352.3,
+            362.6,
+            "here at this stadium in 2014 won the 20th test and pasta with the record 2015 30 and even"
+        ],
+        "73": [
+            362.6,
+            368.74,
+            "love, I distinguished myself for rum, you understand, but still, every time problems arose and"
+        ],
+        "74": [
+            368.74,
+            374.76,
+            "time, for example, Roma does not always win, it was some of the Asuls and"
+        ],
+        "75": [
+            374.98,
+            379.92,
+            "Roma last year I remember very well this match, just the same at this stadium"
+        ],
+        "76": [
+            379.92,
+            386.94,
+            "from the words of Roma he commented then the countdown opened lah just arrived burn"
+        ],
+        "77": [
+            386.94,
+            393.42,
+            "but the penalty was converted by Gerarde and in the end it\u2019s not the second year to replace the cross to Matri inaccurate"
+        ],
+        "78": [
+            393.42,
+            404.2,
+            "how the imprecise face here clearly plays with balls and the balls are still in the discs is a complex one"
+        ],
+        "79": [
+            404.98,
+            405.98,
+            "When"
+        ],
+        "80": [
+            405.98,
+            411.7,
+            "what a great match Gotzoly and Matsetel are playing, they are holding him back Salah Salah of course"
+        ],
+        "81": [
+            411.7,
+            418.86,
+            "more dangerous is the reverse transmission from inhalan went all the transmissions of these Roman"
+        ],
+        "82": [
+            418.86,
+            425.82,
+            "Roma is slowly but surely approaching the opponent's goal"
+        ],
+        "83": [
+            430.14,
+            430.24,
+            "A"
+        ],
+        "84": [
+            430.24,
+            430.3,
+            "A"
+        ],
+        "85": [
+            430.3,
+            430.36,
+            "A"
+        ],
+        "86": [
+            430.36,
+            430.4,
+            "A"
+        ],
+        "87": [
+            430.4,
+            430.44,
+            "A"
+        ],
+        "88": [
+            430.44,
+            430.46,
+            "A"
+        ],
+        "89": [
+            430.46,
+            430.48,
+            "A"
+        ],
+        "90": [
+            430.48,
+            430.5,
+            "A"
+        ],
+        "91": [
+            430.5,
+            430.52,
+            "A"
+        ],
+        "92": [
+            430.52,
+            430.54,
+            "A"
+        ],
+        "93": [
+            430.54,
+            430.56,
+            "A"
+        ],
+        "94": [
+            430.56,
+            430.58,
+            "A"
+        ],
+        "95": [
+            430.58,
+            430.6,
+            "A"
+        ],
+        "96": [
+            430.6,
+            430.62,
+            "A"
+        ],
+        "97": [
+            430.62,
+            430.64,
+            "A"
+        ],
+        "98": [
+            430.64,
+            430.66,
+            "A"
+        ],
+        "99": [
+            430.66,
+            430.68,
+            "A"
+        ],
+        "100": [
+            430.68,
+            430.7,
+            "A"
+        ],
+        "101": [
+            430.7,
+            430.72,
+            "A"
+        ],
+        "102": [
+            430.72,
+            430.74,
+            "A"
+        ],
+        "103": [
+            430.74,
+            430.76,
+            "A"
+        ],
+        "104": [
+            430.76,
+            430.78,
+            "A"
+        ],
+        "105": [
+            430.78,
+            430.8,
+            "A"
+        ],
+        "106": [
+            430.8,
+            430.82,
+            "A"
+        ],
+        "107": [
+            430.82,
+            430.84,
+            "A"
+        ],
+        "108": [
+            430.84,
+            430.86,
+            "A"
+        ],
+        "109": [
+            430.86,
+            430.88,
+            "A"
+        ],
+        "110": [
+            430.88,
+            430.9,
+            "A"
+        ],
+        "111": [
+            430.9,
+            430.92,
+            "A"
+        ],
+        "112": [
+            430.92,
+            430.96,
+            "A"
+        ],
+        "113": [
+            434.98,
+            464.98,
+            ""
+        ],
+        "114": [
+            464.98,
+            494.98,
+            ""
+        ],
+        "115": [
+            494.98,
+            524.98,
+            ""
+        ],
+        "116": [
+            524.98,
+            554.98,
+            ""
+        ],
+        "117": [
+            554.98,
+            555.32,
+            "A"
+        ],
+        "118": [
+            555.32,
+            560.32,
+            "A"
+        ],
+        "119": [
+            571.62,
+            573.04,
+            "Not"
+        ],
+        "120": [
+            573.04,
+            579.54,
+            "it seems that people will get their places on the fields and a dunk is possible"
+        ],
+        "121": [
+            579.54,
+            584.06,
+            "Few of us pass the penalty"
+        ],
+        "122": [
+            584.06,
+            584.1,
+            "behind"
+        ],
+        "123": [
+            584.1,
+            584.46,
+            "with StrefaN of Sensi"
+        ],
+        "124": [
+            584.46,
+            588.7,
+            "And he almost wrapped himself in the carpet of Florence."
+        ],
+        "125": [
+            589.04,
+            592.48,
+            "For those who may have tuned in to this broadcast after the rest of the second half,"
+        ],
+        "126": [
+            592.8,
+            598.28,
+            "I will say that there were a huge number of corners, as many as 14, at the end of the first half."
+        ],
+        "127": [
+            598.74,
+            599.78,
+            "Quite an amazing story."
+        ],
+        "128": [
+            600.64,
+            605.62,
+            "When 14 corners in a match are taken, it\u2019s already beyond your legs."
+        ],
+        "129": [
+            605.96,
+            606.88,
+            "And here it\u2019s only for you."
+        ],
+        "130": [
+            610.18,
+            612.5,
+            "Yes, and by the way, I\u2019m getting better."
+        ],
+        "131": [
+            612.5,
+            615.96,
+            "Thanks to the attentive viewers."
+        ],
+        "132": [
+            616.5,
+            623.42,
+            "Regarding one of the matches taking place, I said that Ferentino is playing on zeroes with Crouton."
+        ],
+        "133": [
+            623.6,
+            628.24,
+            "But, as it turned out, the rains were once again very heavy."
+        ],
+        "134": [
+            628.34,
+            630.58,
+            "This is the first time Ferentino has suffered from this."
+        ],
+        "135": [
+            633.18,
+            636.88,
+            "Therefore, as I understand it, the match is not taking place."
+        ],
+        "136": [
+            638.32,
+            639.34,
+            "Translation to Salah."
+        ],
+        "137": [
+            639.5,
+            641.28,
+            "Salah is picking up speed."
+        ],
+        "138": [
+            641.28,
+            642.16,
+            "Look."
+        ],
+        "139": [
+            642.16,
+            643.56,
+            "Two, or even three at once."
+        ],
+        "140": [
+            643.66,
+            645.36,
+            "There is a safety net there in Salah."
+        ],
+        "141": [
+            645.56,
+            647.28,
+            "They know where it is dangerous."
+        ],
+        "142": [
+            647.98,
+            648.62,
+            "Innings."
+        ],
+        "143": [
+            649.0,
+            652.26,
+            "By the way, good pitch from Strotman."
+        ],
+        "144": [
+            653.2,
+            657.6,
+            "But for some reason Jack didn\u2019t move there into the zone."
+        ],
+        "145": [
+            659.74,
+            661.06,
+            "Don't think too much."
+        ],
+        "146": [
+            661.56,
+            667.76,
+            "Strotman didn't have a fun break or bury his face in the markings."
+        ],
+        "147": [
+            667.76,
+            669.9,
+            "He has a special ointment."
+        ],
+        "148": [
+            670.16,
+            671.2,
+            "One-on-one exit."
+        ],
+        "149": [
+            671.34,
+            671.68,
+            "And a goal!"
+        ],
+        "150": [
+            672.16,
+            672.8,
+            "One."
+        ],
+        "151": [
+            672.92,
+            673.4,
+            "Jacko!"
+        ],
+        "152": [
+            674.58,
+            677.84,
+            "Who performed such a luxurious show?"
+        ],
+        "153": [
+            678.02,
+            679.7,
+            "It hit me right in the leg."
+        ],
+        "154": [
+            680.04,
+            682.88,
+            "Through Sesuol's two lines of defense."
+        ],
+        "155": [
+            683.06,
+            688.24,
+            "And Dzeko gently, carefully sends the ball into the far corner."
+        ],
+        "156": [
+            688.74,
+            691.76,
+            "Establishing himself as the best bomber of the championship."
+        ],
+        "157": [
+            691.92,
+            693.9,
+            "This is Salah."
+        ],
+        "158": [
+            695.8,
+            701.38,
+            "Salah, who has almost lost his jersey, continues to fight."
+        ],
+        "159": [
+            701.38,
+            704.74,
+            "And he makes a cool pass to Jack in the corridor."
+        ],
+        "160": [
+            704.82,
+            706.78,
+            "Then, apparently, he didn\u2019t follow Konovar."
+        ],
+        "161": [
+            707.24,
+            710.48,
+            "And Gatzolo narrowed the zone there too."
+        ],
+        "162": [
+            710.7,
+            711.54,
+            "Cool goal."
+        ],
+        "163": [
+            711.68,
+            713.1,
+            "Well, that's what I was talking about."
+        ],
+        "164": [
+            713.26,
+            716.5,
+            "The two leaders of Roma's attacks this season."
+        ],
+        "165": [
+            717.84,
+            719.2,
+            "Salah gives away a lot."
+        ],
+        "166": [
+            719.42,
+            721.76,
+            "Jack scores even more."
+        ],
+        "167": [
+            721.76,
+            722.22,
+            "Salam!"
+        ],
+        "168": [
+            723.42,
+            723.94,
+            "Salam!"
+        ],
+        "169": [
+            725.58,
+            726.18,
+            "Salam!"
+        ],
+        "170": [
+            726.96,
+            727.58,
+            "Valliere!"
+        ],
+        "171": [
+            727.64,
+            728.1,
+            "Valliere!"
+        ],
+        "172": [
+            728.26,
+            728.6,
+            "Valliere!"
+        ],
+        "173": [
+            729.32,
+            729.6,
+            "Salam!"
+        ],
+        "174": [
+            729.6,
+            730.14,
+            "Valliere!"
+        ],
+        "175": [
+            730.14,
+            730.22,
+            "Valliere!"
+        ],
+        "176": [
+            730.22,
+            730.56,
+            "Diam!"
+        ],
+        "177": [
+            730.56,
+            730.74,
+            "Valliere!"
+        ],
+        "178": [
+            730.74,
+            731.08,
+            "Valliere!"
+        ],
+        "179": [
+            731.08,
+            731.36,
+            "Valliere!"
+        ],
+        "180": [
+            731.38,
+            735.86,
+            "Edin Dzhekov saw the statistics perfectly. This is the ninth goal this season."
+        ],
+        "181": [
+            736.06,
+            742.92,
+            "Well, for Mohamed Salah, a first-class manager, this is his fourth assist."
+        ],
+        "182": [
+            743.62,
+            752.88,
+            "Moreover, in a match against Naples away a couple of weeks ago, he also made an assist for Edin Jack."
+        ],
+        "183": [
+            752.88,
+            754.28,
+            "And then the account was opened."
+        ],
+        "184": [
+            755.5,
+            760.18,
+            "Well, plus everything, he did the same in the previous round match with Poehler."
+        ],
+        "185": [
+            760.18,
+            761.82,
+            "Here's the scoring pass."
+        ],
+        "186": [
+            763.5,
+            766.24,
+            "The truth is on Stefan Elsharowy at the very end."
+        ],
+        "187": [
+            767.06,
+            770.64,
+            "By the way, Salah himself scored then. Dzhekov, in turn, assisted him."
+        ],
+        "188": [
+            771.0,
+            775.28,
+            "In general, I must say that all these attacking players have established a game connection."
+        ],
+        "189": [
+            775.72,
+            778.56,
+            "And now Roma, of course, has a psychological advantage."
+        ],
+        "190": [
+            778.56,
+            782.66,
+            "The young football players in the MTR had a great first half."
+        ],
+        "191": [
+            782.76,
+            784.32,
+            "Well, or let's say the first 30 minutes."
+        ],
+        "192": [
+            784.92,
+            787.2,
+            "But then they began to slowly cave in."
+        ],
+        "193": [
+            787.32,
+            789.32,
+            "And now Roma is switching to different speeds."
+        ],
+        "194": [
+            789.42,
+            789.94,
+            "Manuas."
+        ],
+        "195": [
+            790.18,
+            790.92,
+            "In Florence."
+        ],
+        "196": [
+            791.4,
+            792.4,
+            "Next to Trodman."
+        ],
+        "197": [
+            792.5,
+            795.14,
+            "But Florence passes forward to Jack."
+        ],
+        "198": [
+            795.86,
+            797.26,
+            "Kriser's move took off."
+        ],
+        "199": [
+            797.52,
+            800.24,
+            "And it\u2019s easier for Acher to play against him."
+        ],
+        "200": [
+            810.56,
+            817.94,
+            "We see that rarely, by the way, do the Romans play so recklessly with their serves to Jack."
+        ],
+        "201": [
+            818.06,
+            818.64,
+            "Although..."
+        ],
+        "202": [
+            818.64,
+            819.36,
+            "Well done!"
+        ],
+        "203": [
+            819.36,
+            819.96,
+            "Well done!"
+        ],
+        "204": [
+            820.18,
+            820.84,
+            "Well, here she is, right?"
+        ],
+        "205": [
+            821.98,
+            823.12,
+            "That's how everything went towards her."
+        ],
+        "206": [
+            823.64,
+            825.04,
+            "I just started talking about it."
+        ],
+        "207": [
+            825.44,
+            827.8,
+            "Although, of course, Jack's height is very good."
+        ],
+        "208": [
+            827.92,
+            831.16,
+            "And he can perform Rittberger in the air there."
+        ],
+        "209": [
+            831.54,
+            833.96,
+            "He can unwind and win the fight."
+        ],
+        "210": [
+            834.86,
+            836.02,
+            "And put your head up."
+        ],
+        "211": [
+            837.42,
+            840.46,
+            "You see, more and more often he plays low on Jack."
+        ],
+        "212": [
+            840.56,
+            842.02,
+            "And he handles the processing."
+        ],
+        "213": [
+            842.1,
+            843.94,
+            "Copes with his scoring chances."
+        ],
+        "214": [
+            844.06,
+            846.02,
+            "A good left-footed shot into the far corner."
+        ],
+        "215": [
+            848.14,
+            850.0,
+            "There was a lot of criticism."
+        ],
+        "216": [
+            850.18,
+            852.0,
+            "And they demanded that he be returned to hell."
+        ],
+        "217": [
+            852.08,
+            854.04,
+            "There to Germany, then to England."
+        ],
+        "218": [
+            854.04,
+            855.84,
+            "Fans exactly last season."
+        ],
+        "219": [
+            855.84,
+            858.76,
+            "But how did the Bosnians develop today..."
+        ],
+        "220": [
+            858.76,
+            863.3,
+            "You know, I keep remembering one of Jack's interviews that he did last season."
+        ],
+        "221": [
+            863.62,
+            865.86,
+            "Well, it looked, of course, more like an excuse."
+        ],
+        "222": [
+            866.0,
+            871.62,
+            "He said that, well, it\u2019s always like this with him when he moves to a new championship."
+        ],
+        "223": [
+            871.62,
+            872.9,
+            "This was the case in Germany."
+        ],
+        "224": [
+            873.86,
+            875.86,
+            "This is how it was in England."
+        ],
+        "225": [
+            878.06,
+            878.98,
+            "For the first matches."
+        ],
+        "226": [
+            878.98,
+            879.48,
+            "There it is."
+        ],
+        "227": [
+            879.48,
+            881.1,
+            "The first of the season they score a little."
+        ],
+        "228": [
+            881.22,
+            883.2,
+            "Here we almost made a fatal mistake."
+        ],
+        "229": [
+            883.78,
+            886.78,
+            "There is no need to rush you."
+        ],
+        "230": [
+            887.56,
+            895.26,
+            "Well, then, then I supposedly fumble, yes, I quickly fumble in championship style and start scoring."
+        ],
+        "231": [
+            896.24,
+            897.42,
+            "Well, we listened to him."
+        ],
+        "232": [
+            897.92,
+            900.78,
+            "And in the end, as we see, he scores goals next season."
+        ],
+        "233": [
+            901.26,
+            903.1,
+            "Indeed, I did not deceive."
+        ],
+        "234": [
+            903.78,
+            907.5,
+            "Well, Biendini, you see, we played a guessing game and we got it right."
+        ],
+        "235": [
+            907.5,
+            909.1,
+            "Biendini appears on the field."
+        ],
+        "236": [
+            909.48,
+            916.8,
+            "And it\u2019s not like I just pointed at the sky and hit it."
+        ],
+        "237": [
+            916.86,
+            918.24,
+            "This is indeed the expected replacement."
+        ],
+        "238": [
+            918.8,
+            923.54,
+            "Biendini must create balance in the midfield."
+        ],
+        "239": [
+            923.62,
+            924.72,
+            "There this balance is lost."
+        ],
+        "240": [
+            926.68,
+            928.58,
+            "Matri plays with the heel."
+        ],
+        "241": [
+            929.26,
+            930.88,
+            "Original, but they covered it up."
+        ],
+        "242": [
+            930.94,
+            933.0,
+            "True, the selection is up to Cesola and Ricochet."
+        ],
+        "243": [
+            933.1,
+            934.82,
+            "Another 30th corner."
+        ],
+        "244": [
+            939.48,
+            945.7,
+            "You are such an hourglass and I will give you 90!"
+        ],
+        "245": [
+            946.94,
+            947.64,
+            "Ahh..."
+        ],
+        "246": [
+            949.3,
+            950.36,
+            "Will you give it to me now?"
+        ],
+        "247": [
+            950.56,
+            954.56,
+            "If I\u2019m in the gym and at your place, I\u2019ll do it for you, and only then will you emphasize it \u2013 under the aspire bag."
+        ],
+        "248": [
+            954.88,
+            958.26,
+            "You are our dead sessions with regard and counting matrices."
+        ],
+        "249": [
+            958.32,
+            962.14,
+            "L 330 copies \ubc88 6 \u00e9s."
+        ],
+        "250": [
+            962.34,
+            964.7,
+            "Analytics Digital determination."
+        ],
+        "251": [
+            964.7,
+            967.34,
+            "This\u0131ndan pag zashchazh democrats all 6 hours\uc790\ufffd d monks"
+        ],
+        "252": [
+            967.78,
+            968.74,
+            "You are me, in trouble."
+        ],
+        "253": [
+            968.76,
+            969.4,
+            "Bio."
+        ],
+        "254": [
+            969.4,
+            971.06,
+            "near bar. The selection, however,"
+        ],
+        "255": [
+            971.14,
+            973.18,
+            "behind Pong. So what's he doing today?"
+        ],
+        "256": [
+            973.18,
+            974.02,
+            "with blows, huh?"
+        ],
+        "257": [
+            975.62,
+            976.82,
+            "Sometimes it\u2019s crooked, sometimes it\u2019s bone."
+        ],
+        "258": [
+            978.14,
+            979.66,
+            "Then towards the corner."
+        ],
+        "259": [
+            980.96,
+            981.52,
+            "Sharavi"
+        ],
+        "260": [
+            981.52,
+            983.38,
+            "I failed. Feint from Cherby."
+        ],
+        "261": [
+            984.02,
+            985.6,
+            "He intercepted the ball carefully."
+        ],
+        "262": [
+            985.68,
+            986.72,
+            "But then he\u2019s strict."
+        ],
+        "263": [
+            987.18,
+            988.48,
+            "The dog rushes."
+        ],
+        "264": [
+            989.22,
+            990.02,
+            "A wolf to be more precise."
+        ],
+        "265": [
+            991.76,
+            993.2,
+            "Salah picks up speed."
+        ],
+        "266": [
+            993.2,
+            995.2,
+            "Salah. This is gender position."
+        ],
+        "267": [
+            996.76,
+            998.1,
+            "And there is no goal."
+        ],
+        "268": [
+            999.4,
+            1002.64,
+            "On the holes. Egyptian"
+        ],
+        "269": [
+            1002.64,
+            1004.58,
+            "played here. A little bit"
+        ],
+        "270": [
+            1004.58,
+            1005.8,
+            "at some point the ball is already"
+        ],
+        "271": [
+            1005.8,
+            1008.44,
+            "missed and all that remained was"
+        ],
+        "272": [
+            1008.44,
+            1010.32,
+            "toe it"
+        ],
+        "273": [
+            1010.32,
+            1011.34,
+            "poke forward."
+        ],
+        "274": [
+            1012.72,
+            1014.64,
+            "The forces of this, if I may say so,"
+        ],
+        "275": [
+            1014.76,
+            1016.52,
+            "the blow was not enough to"
+        ],
+        "276": [
+            1016.52,
+            1018.4,
+            "the ball rolled to the empty goal."
+        ],
+        "277": [
+            1019.0,
+            1020.38,
+            "Helps out the team."
+        ],
+        "278": [
+            1021.14,
+            1022.58,
+            "Who was it there? Well, he ran"
+        ],
+        "279": [
+            1022.58,
+            1024.18,
+            "Konovar and someone nearby, probably."
+        ],
+        "280": [
+            1024.4,
+            1025.4,
+            "Cherby, in theory."
+        ],
+        "281": [
+            1027.46,
+            1028.54,
+            "And one more goal"
+        ],
+        "282": [
+            1028.54,
+            1029.38,
+            "moment for Roma."
+        ],
+        "283": [
+            1029.4,
+            1031.32,
+            "To Ingalan."
+        ],
+        "284": [
+            1031.78,
+            1033.02,
+            "Five-stroke position."
+        ],
+        "285": [
+            1033.44,
+            1035.38,
+            "And, you know, it seems to me that Ingalan is on this"
+        ],
+        "286": [
+            1035.38,
+            1037.48,
+            "plays too. Many people expect from him"
+        ],
+        "287": [
+            1037.48,
+            1038.98,
+            "mid-range strike."
+        ],
+        "288": [
+            1039.14,
+            1041.64,
+            "A terrible blow. But he's at the last minute"
+        ],
+        "289": [
+            1041.64,
+            1043.0,
+            "still performs a crowd of gears."
+        ],
+        "290": [
+            1043.06,
+            1045.22,
+            "Mistake, by the way, Defrelli. How is he anyway"
+        ],
+        "291": [
+            1045.22,
+            1047.46,
+            "ended up there? Marvelous."
+        ],
+        "292": [
+            1048.38,
+            1049.36,
+            "And, by the way, myself!"
+        ],
+        "293": [
+            1050.56,
+            1051.72,
+            "Gregor himself"
+        ],
+        "294": [
+            1051.72,
+            1052.5,
+            "Defrelli!"
+        ],
+        "295": [
+            1053.06,
+            1055.76,
+            "When was the last time you saw"
+        ],
+        "296": [
+            1055.76,
+            1057.62,
+            "such that the central"
+        ],
+        "297": [
+            1057.62,
+            1059.2,
+            "striker... Well, yes,"
+        ],
+        "298": [
+            1059.4,
+            1061.8,
+            "he is not a classic forum for this"
+        ],
+        "299": [
+            1061.8,
+            1063.54,
+            "match so that he"
+        ],
+        "300": [
+            1063.54,
+            1065.82,
+            "in a game episode"
+        ],
+        "301": [
+            1065.82,
+            1067.68,
+            "and after the standard there was"
+        ],
+        "302": [
+            1067.68,
+            1070.04,
+            "the player who takes out"
+        ],
+        "303": [
+            1070.04,
+            1071.62,
+            "ball from the goal ribbon."
+        ],
+        "304": [
+            1072.64,
+            1073.72,
+            "Amazing moment."
+        ],
+        "305": [
+            1074.62,
+            1075.78,
+            "And by the way,"
+        ],
+        "306": [
+            1075.9,
+            1077.6,
+            "Defrelli is, of course, big here"
+        ],
+        "307": [
+            1077.6,
+            1079.64,
+            "Well done. Actually, I didn\u2019t make a mistake"
+        ],
+        "308": [
+            1079.64,
+            1081.84,
+            "done. First I broke it"
+        ],
+        "309": [
+            1082.14,
+            1082.82,
+            "and then fixed it."
+        ],
+        "310": [
+            1084.02,
+            1085.4,
+            "Well, I've played enough"
+        ],
+        "311": [
+            1085.4,
+            1087.82,
+            "Defrelli in this story with two"
+        ],
+        "312": [
+            1087.82,
+            1089.28,
+            "attackers. In general, of course,"
+        ],
+        "313": [
+            1089.4,
+            1091.4,
+            "according to the behests of Dzeman, he loves to play"
+        ],
+        "314": [
+            1091.4,
+            1093.54,
+            "4-3-3, but we are different sesols"
+        ],
+        "315": [
+            1093.54,
+            1095.34,
+            "seen in previous seasons."
+        ],
+        "316": [
+            1095.82,
+            1097.36,
+            "Today, in my opinion, it was more likely"
+        ],
+        "317": [
+            1097.36,
+            1098.46,
+            "4-2-3-1."
+        ],
+        "318": [
+            1099.18,
+            1101.1,
+            "But now, I think, that\u2019s just it"
+        ],
+        "319": [
+            1101.1,
+            1103.68,
+            "at 4-3-3 sesoli will start playing"
+        ],
+        "320": [
+            1103.68,
+            1105.22,
+            "Defrelli. Biondini is ahead."
+        ],
+        "321": [
+            1106.3,
+            1107.54,
+            "In the middle"
+        ],
+        "322": [
+            1107.54,
+            1109.24,
+            "With"
+        ],
+        "323": [
+            1109.24,
+            1111.18,
+            "Pelegrini Mazzetelli"
+        ],
+        "324": [
+            1111.18,
+            1113.38,
+            "Politana Adepunko."
+        ],
+        "325": [
+            1116.32,
+            1117.84,
+            "Defrelli picks up speed."
+        ],
+        "326": [
+            1117.84,
+            1119.38,
+            "But now he has a position"
+        ],
+        "327": [
+            1119.4,
+            1122.2,
+            "more comfortable for him."
+        ],
+        "328": [
+            1131.42,
+            1133.42,
+            "Garosi got it."
+        ],
+        "329": [
+            1134.0,
+            1136.0,
+            "Recently"
+        ],
+        "330": [
+            1137.16,
+            1139.16,
+            "they are together with Totti"
+        ],
+        "331": [
+            1139.16,
+            1141.16,
+            "according to one of the videos,"
+        ],
+        "332": [
+            1141.16,
+            1143.16,
+            "I can judge"
+        ],
+        "333": [
+            1143.16,
+            1145.16,
+            "on the Roma fans website."
+        ],
+        "334": [
+            1145.16,
+            1147.16,
+            "Together with Totti they scored more than a thousand"
+        ],
+        "335": [
+            1147.16,
+            1149.16,
+            "matches."
+        ],
+        "336": [
+            1149.4,
+            1151.4,
+            "Them first"
+        ],
+        "337": [
+            1151.4,
+            1153.4,
+            "for Totti,"
+        ],
+        "338": [
+            1153.4,
+            1155.4,
+            "and for Roma."
+        ],
+        "339": [
+            1155.4,
+            1157.4,
+            "Almost already"
+        ],
+        "340": [
+            1157.4,
+            1159.4,
+            "after a short period of time"
+        ],
+        "341": [
+            1159.4,
+            1161.4,
+            "Garosi followed Totti,"
+        ],
+        "342": [
+            1161.4,
+            1163.4,
+            "who debuted"
+        ],
+        "343": [
+            1163.4,
+            1165.4,
+            "and debuted"
+        ],
+        "344": [
+            1165.4,
+            1167.4,
+            "in the main team."
+        ],
+        "345": [
+            1167.4,
+            1169.4,
+            "They've been together for many, many years now."
+        ],
+        "346": [
+            1171.4,
+            1173.4,
+            "give their all,"
+        ],
+        "347": [
+            1173.4,
+            1175.4,
+            "his entire career to one club."
+        ],
+        "348": [
+            1175.4,
+            1177.4,
+            "In general, it is customary, of course, to talk about Totti,"
+        ],
+        "349": [
+            1177.4,
+            1179.4,
+            "as a great example that did not exist, but, of course, exists."
+        ],
+        "350": [
+            1179.4,
+            1187.86,
+            "the football dignity of football loyalty is forgotten, and so is the growth that also comes with birth"
+        ],
+        "351": [
+            1187.86,
+            1193.4,
+            "from the birth of this she-wolf with feeding if you want"
+        ],
+        "352": [
+            1193.4,
+            1205.26,
+            "hard junction the game has become rougher, but here again the house is ours, one yellow card does not reach"
+        ],
+        "353": [
+            1205.26,
+            1217.92,
+            "we still have her uluki matsetel and this is quite controversial a little bit succeeded sesol"
+        ],
+        "354": [
+            1217.92,
+            1226.84,
+            "pay attention to this tempo, reduce the tempo of the Roman attacks, but here is the transfer between the zone to Inhalan"
+        ],
+        "355": [
+            1226.84,
+            1235.0,
+            "Emerson went cross the ball did not understand bendy is not here either"
+        ],
+        "356": [
+            1235.26,
+            1239.1,
+            "stuck between three Roma football players"
+        ],
+        "357": [
+            1239.1,
+            1250.38,
+            "David Obebe is not an experienced player, we know from the traditions of Soviet football that there is one redhead on the team"
+        ],
+        "358": [
+            1250.38,
+            1260.14,
+            "should, well, this is the role played by Dean, who, in principle, has been playing for the team for a long time and"
+        ],
+        "359": [
+            1260.14,
+            1264.86,
+            "All seasons in the series will help along with the rules team"
+        ],
+        "360": [
+            1265.26,
+            1268.62,
+            "2014"
+        ],
+        "361": [
+            1268.62,
+            1277.9,
+            "Genua Talent Kaleri have been in their careers and worse"
+        ],
+        "362": [
+            1277.9,
+            1283.52,
+            "when I was not a top-class player and a top club but a solid, solid"
+        ],
+        "363": [
+            1283.52,
+            1293.5,
+            "a football player who knows how to destroy and us to create an Emerson style"
+        ],
+        "364": [
+            1293.5,
+            1295.1,
+            "And"
+        ],
+        "365": [
+            1295.26,
+            1298.72,
+            "face so far away"
+        ],
+        "366": [
+            1298.72,
+            1302.34,
+            "how"
+        ],
+        "367": [
+            1302.34,
+            1308.06,
+            "hit on contact, by the way, it was a dangerous episode, no one really interfered with the ball"
+        ],
+        "368": [
+            1308.06,
+            1315.82,
+            "it seemed like I was in a bit of a hurry, there was an opportunity to process it"
+        ],
+        "369": [
+            1315.82,
+            1317.82,
+            "A"
+        ],
+        "370": [
+            1317.82,
+            1319.82,
+            "A"
+        ],
+        "371": [
+            1319.82,
+            1321.82,
+            "A"
+        ],
+        "372": [
+            1321.82,
+            1323.82,
+            "A"
+        ],
+        "373": [
+            1325.26,
+            1332.44,
+            "I remember the 10th line in the tournament on the table, but they share the ninth position with Atalanta, here you also need"
+        ],
+        "374": [
+            1332.44,
+            1336.56,
+            "remember that very victory over"
+        ],
+        "375": [
+            1336.9,
+            1348.26,
+            "and soon the victory and defeat would not be counted, in general now it would be all 16 points, yes it is"
+        ],
+        "376": [
+            1348.26,
+            1353.7,
+            "fifth place behind giants Juventus Roma Milana Manna"
+        ],
+        "377": [
+            1355.26,
+            1357.56,
+            "yearning"
+        ],
+        "378": [
+            1357.56,
+            1359.22,
+            "A"
+        ],
+        "379": [
+            1359.22,
+            1359.94,
+            "wow Bell"
+        ],
+        "380": [
+            1359.94,
+            1360.36,
+            "Here"
+        ],
+        "381": [
+            1360.36,
+            1361.54,
+            "A"
+        ],
+        "382": [
+            1361.54,
+            1362.42,
+            "wow"
+        ],
+        "383": [
+            1362.42,
+            1363.98,
+            "eleven"
+        ],
+        "384": [
+            1363.98,
+            1365.48,
+            "on"
+        ],
+        "385": [
+            1365.48,
+            1366.92,
+            "V"
+        ],
+        "386": [
+            1366.92,
+            1368.16,
+            "And"
+        ],
+        "387": [
+            1368.16,
+            1371.1,
+            "Italy"
+        ],
+        "388": [
+            1371.1,
+            1372.14,
+            "our"
+        ],
+        "389": [
+            1372.14,
+            1373.06,
+            "night"
+        ],
+        "390": [
+            1373.06,
+            1373.92,
+            "All"
+        ],
+        "391": [
+            1373.92,
+            1374.76,
+            "mother"
+        ],
+        "392": [
+            1374.76,
+            1375.26,
+            "my"
+        ],
+        "393": [
+            1375.26,
+            1376.46,
+            "firewood"
+        ],
+        "394": [
+            1376.46,
+            1377.06,
+            "viewirse"
+        ],
+        "395": [
+            1377.06,
+            1378.24,
+            "above"
+        ],
+        "396": [
+            1378.24,
+            1379.26,
+            "concealed"
+        ],
+        "397": [
+            1379.26,
+            1379.86,
+            "A"
+        ],
+        "398": [
+            1379.86,
+            1380.5,
+            "I"
+        ],
+        "399": [
+            1380.5,
+            1381.2,
+            "So"
+        ],
+        "400": [
+            1381.2,
+            1383.3,
+            "tutorials"
+        ],
+        "401": [
+            1383.3,
+            1383.32,
+            "food"
+        ],
+        "402": [
+            1383.32,
+            1383.9,
+            "board"
+        ],
+        "403": [
+            1383.9,
+            1384.9,
+            "items In unloading"
+        ],
+        "404": [
+            1384.9,
+            1387.96,
+            "Adyapong plays defense."
+        ],
+        "405": [
+            1395.96,
+            1396.8,
+            "Attention."
+        ],
+        "406": [
+            1397.52,
+            1399.08,
+            "Will Emerson serve?"
+        ],
+        "407": [
+            1400.4,
+            1403.28,
+            "Except he didn\u2019t hit the goal today."
+        ],
+        "408": [
+            1407.54,
+            1409.62,
+            "Left Matri Field."
+        ],
+        "409": [
+            1409.78,
+            1411.74,
+            "Also such a significant moment."
+        ],
+        "410": [
+            1411.74,
+            1418.86,
+            "And now Di Francesco understands that he can lose this game."
+        ],
+        "411": [
+            1419.88,
+            1427.94,
+            "In this case, it is better to have a certain balance and good chances of a draw,"
+        ],
+        "412": [
+            1428.1,
+            1432.16,
+            "than again relying on some chance that Matri can use."
+        ],
+        "413": [
+            1432.28,
+            1435.12,
+            "Matri is generally a player who acts outside the system."
+        ],
+        "414": [
+            1435.12,
+            1441.44,
+            "In the sense that his team may not demonstrate particularly amazing football."
+        ],
+        "415": [
+            1441.54,
+            1441.72,
+            "But he's a chance."
+        ],
+        "416": [
+            1441.74,
+            1442.56,
+            "Take advantage of the chance."
+        ],
+        "417": [
+            1443.32,
+            1443.92,
+            "Strotman."
+        ],
+        "418": [
+            1444.44,
+            1445.44,
+            "Kevin Strotman."
+        ],
+        "419": [
+            1445.56,
+            1446.36,
+            "Leaves the field."
+        ],
+        "420": [
+            1447.16,
+            1448.88,
+            "To be honest, it's a bit unexpected."
+        ],
+        "421": [
+            1449.66,
+            1454.4,
+            "Rather, I would not be surprised by the replacement of Derosi, for example."
+        ],
+        "422": [
+            1454.56,
+            1458.18,
+            "If he really wants to refresh the middle line with Leti."
+        ],
+        "423": [
+            1458.28,
+            1459.08,
+            "But he knows better."
+        ],
+        "424": [
+            1459.22,
+            1460.38,
+            "Enters the Parades field."
+        ],
+        "425": [
+            1460.88,
+            1463.26,
+            "Also a player who fights for hits."
+        ],
+        "426": [
+            1463.92,
+            1467.0,
+            "For regular, let's say, appearances in the Roma team."
+        ],
+        "427": [
+            1467.4,
+            1470.94,
+            "Sometimes he actually ends up in the first 11."
+        ],
+        "428": [
+            1471.98,
+            1473.42,
+            "You know, \u30dbhound Hay."
+        ],
+        "429": [
+            1473.5,
+            1474.8,
+            "I walked along the street."
+        ],
+        "430": [
+            1475.68,
+            1476.54,
+            "Exactly."
+        ],
+        "431": [
+            1477.2,
+            1480.94,
+            "Well, when we meanly brat mijn shufel,"
+        ],
+        "432": [
+            1481.22,
+            1484.04,
+            "then the yelled Kadenfhold turns to us."
+        ],
+        "433": [
+            1484.14,
+            1486.56,
+            "Amazon il\u00fdchGenius"
+        ],
+        "434": [
+            1487.24,
+            1489.18,
+            "Faobicona"
+        ],
+        "435": [
+            1489.4,
+            1490.52,
+            "Anitya Hoekste"
+        ],
+        "436": [
+            1492.52,
+            1494.42,
+            "bildwerk"
+        ],
+        "437": [
+            1495.56,
+            1497.12,
+            "Anitya Hoekstego"
+        ],
+        "438": [
+            1497.34,
+            1499.3,
+            "Dteubsogo"
+        ],
+        "439": [
+            1499.38,
+            1500.28,
+            "Museum"
+        ],
+        "440": [
+            1500.28,
+            1500.98,
+            "D Fuel"
+        ],
+        "441": [
+            1500.98,
+            1501.38,
+            "XS"
+        ],
+        "442": [
+            1501.38,
+            1506.02,
+            "sometimes the team goes to the European Cup"
+        ],
+        "443": [
+            1512.42,
+            1518.72,
+            "By the way, Dafrel is scoring a lot this season"
+        ],
+        "444": [
+            1518.72,
+            1522.56,
+            "for listening to the scorer of team 4"
+        ],
+        "445": [
+            1522.56,
+            1536.84,
+            "here also and on the site he scored 4 goals in the Italian championship and in total he has 7 goals if we take"
+        ],
+        "446": [
+            1536.84,
+            1544.24,
+            "also the Europa League and of course Dominique Berrardi is not on the field today, we can\u2019t help but remember this"
+        ],
+        "447": [
+            1544.24,
+            1552.44,
+            "once again two goals in the championship and only 7 goals to take the European League there in this very"
+        ],
+        "448": [
+            1552.44,
+            1560.06,
+            "the european league so far is so comfortable that the group is very equal, but more on that later"
+        ],
+        "449": [
+            1560.06,
+            1567.44,
+            "Emerson suddenly materialized in the middle of the field and earned a free kick, but now of course he would quickly"
+        ],
+        "450": [
+            1567.44,
+            1574.48,
+            "Uncover Francesco Tati and without warming up for this penalty, a yellow card was issued to Pilgrinn"
+        ],
+        "451": [
+            1582.44,
+            1603.2,
+            "exactamente but regarding none inside puh"
+        ],
+        "452": [
+            1603.2,
+            1607.44,
+            "caligen MakaluYa"
+        ],
+        "453": [
+            1607.44,
+            1609.28,
+            "against"
+        ],
+        "454": [
+            1609.28,
+            1610.36,
+            "so enquanto"
+        ],
+        "455": [
+            1610.36,
+            1610.84,
+            "ka"
+        ],
+        "456": [
+            1610.84,
+            1611.06,
+            "Pubeda"
+        ],
+        "457": [
+            1611.06,
+            1612.06,
+            "defeat by Genk Belgian"
+        ],
+        "458": [
+            1612.06,
+            1612.1,
+            "Ephraim"
+        ],
+        "459": [
+            1612.1,
+            1612.2,
+            "difference in \u91abston"
+        ],
+        "460": [
+            1612.2,
+            1612.26,
+            "the fastest for our colleague"
+        ],
+        "461": [
+            1612.26,
+            1612.36,
+            "fictional"
+        ],
+        "462": [
+            1612.36,
+            1612.4,
+            "pause"
+        ],
+        "463": [
+            1612.4,
+            1618.82,
+            "away 13 and there was a draw away with Rapid Vienna second place for now but"
+        ],
+        "464": [
+            1618.82,
+            1624.58,
+            "there the second group, equal to Susova, still fight and fight for the historical"
+        ],
+        "465": [
+            1624.58,
+            1629.32,
+            "getting in your parade with"
+        ],
+        "466": [
+            1629.32,
+            1633.94,
+            "Latin American young man takes this free kick either"
+        ],
+        "467": [
+            1633.94,
+            1636.48,
+            "or him"
+        ],
+        "468": [
+            1636.48,
+            1641.16,
+            "Yes"
+        ],
+        "469": [
+            1641.42,
+            1647.78,
+            "this is a blow from a couple to a shot from the right foot higher"
+        ],
+        "470": [
+            1647.78,
+            1651.78,
+            "goals but in fact often fulfills standards in the ditch"
+        ],
+        "471": [
+            1651.78,
+            1661.6,
+            "and serves with corners today and the same field of the novel that I already told"
+        ],
+        "472": [
+            1661.6,
+            1666.4,
+            "very young defender on loan from"
+        ],
+        "473": [
+            1666.48,
+            1669.92,
+            "Juventus"
+        ],
+        "474": [
+            1669.92,
+            1673.24,
+            "wing defender"
+        ],
+        "475": [
+            1673.24,
+            1679.54,
+            "he\u2019s just a little 19 years old and what a young team today, by the way"
+        ],
+        "476": [
+            1679.54,
+            1685.56,
+            "thank you thank you one of the attentive viewers told me that moment 1"
+        ],
+        "477": [
+            1685.56,
+            1691.26,
+            "half, the average age of the players was approximately 26, and at half it seemed"
+        ],
+        "478": [
+            1691.26,
+            1695.16,
+            "what is less up to considering how many Italian youth habitually Susova came out all"
+        ],
+        "479": [
+            1695.16,
+            1695.72,
+            "only that about the fathers of teaching OR competitions in the MTR stopped the same go out for \u3082\u3046 enough all sorts of intercessions of the road, as she also says absolutely gloriousN variant vs Abdul viel alla und holy and the view of snatch"
+        ],
+        "480": [
+            1696.48,
+            1699.24,
+            "There are older guys here too. Salah breaks the rules."
+        ],
+        "481": [
+            1700.88,
+            1703.32,
+            "Having finished about Leral, he is a Spaniard."
+        ],
+        "482": [
+            1704.54,
+            1707.98,
+            "He moved to Italy from Espanyol."
+        ],
+        "483": [
+            1709.12,
+            1714.52,
+            "By the way, he was taken along with another guy, Blanco, if you remember."
+        ],
+        "484": [
+            1715.56,
+            1718.14,
+            "And if you haven\u2019t seen it, be sure to watch it after the match."
+        ],
+        "485": [
+            1718.14,
+            1722.24,
+            "An absolutely mind-blowing strike from young Blanco for Juventus."
+        ],
+        "486": [
+            1722.24,
+            1725.0,
+            "He scored from the center of the field with a kick."
+        ],
+        "487": [
+            1726.06,
+            1733.72,
+            "The ball flew 50 meters in a preseason game in the United States of America."
+        ],
+        "488": [
+            1736.46,
+            1741.14,
+            "Well, he's on loan in Sosol. Before that, Juventus played in Primavera for two years."
+        ],
+        "489": [
+            1741.98,
+            1744.24,
+            "But it's a completely different matter in Serie A."
+        ],
+        "490": [
+            1745.9,
+            1749.86,
+            "Here he makes a mistake with the ball, although it seems like he was the first on the ball."
+        ],
+        "491": [
+            1750.28,
+            1752.22,
+            "Aggressively displaces Jack."
+        ],
+        "492": [
+            1752.24,
+            1754.66,
+            "Jack again takes advantage of his size."
+        ],
+        "493": [
+            1754.82,
+            1755.84,
+            "I put the handle out and that\u2019s it."
+        ],
+        "494": [
+            1756.28,
+            1757.36,
+            "Nobody can get close."
+        ],
+        "495": [
+            1757.9,
+            1759.0,
+            "Bendy isn't wrong."
+        ],
+        "496": [
+            1759.34,
+            1760.06,
+            "Derosi."
+        ],
+        "497": [
+            1761.08,
+            1762.54,
+            "Throw to Salah."
+        ],
+        "498": [
+            1764.7,
+            1766.6,
+            "Again he wins the ball from Leral."
+        ],
+        "499": [
+            1766.76,
+            1767.24,
+            "And it's a penalty."
+        ],
+        "500": [
+            1768.06,
+            1771.26,
+            "And this is the import of a young defender."
+        ],
+        "501": [
+            1773.12,
+            1774.22,
+            "What are you going to do?"
+        ],
+        "502": [
+            1774.34,
+            1776.38,
+            "I just praised him here."
+        ],
+        "503": [
+            1777.7,
+            1780.86,
+            "It seems to me that this is still Di Francesco\u2019s mistake."
+        ],
+        "504": [
+            1782.24,
+            1787.24,
+            "Gatsola didn't look that bad."
+        ],
+        "505": [
+            1788.34,
+            1790.34,
+            "Honestly, I can't understand."
+        ],
+        "506": [
+            1790.64,
+            1792.64,
+            "Either he decided to increase the pressure."
+        ],
+        "507": [
+            1793.64,
+            1796.64,
+            "Yes, there's a penalty here. I think there can be no questions here."
+        ],
+        "508": [
+            1796.74,
+            1801.74,
+            "Yes, Jack is great here and won the fight."
+        ],
+        "509": [
+            1803.04,
+            1806.04,
+            "Okay, let's talk about the reasons for this replacement later."
+        ],
+        "510": [
+            1806.14,
+            1807.14,
+            "The fact remains a fact."
+        ],
+        "511": [
+            1807.24,
+            1811.84,
+            "How much did you pay for incompletes? Three minutes that are on the field."
+        ],
+        "512": [
+            1811.84,
+            1816.14,
+            "I managed to make one inaccurate pass, and a second."
+        ],
+        "513": [
+            1816.26,
+            1820.1,
+            "And he also hit Jack\u2019s legs, not the ball."
+        ],
+        "514": [
+            1821.0,
+            1824.06,
+            "The victim himself will perform."
+        ],
+        "515": [
+            1824.18,
+            1825.3,
+            "He has already scored one goal."
+        ],
+        "516": [
+            1825.44,
+            1826.28,
+            "Edin Jack."
+        ],
+        "517": [
+            1826.68,
+            1827.24,
+            "Attention."
+        ],
+        "518": [
+            1828.52,
+            1829.54,
+            "2-1."
+        ],
+        "519": [
+            1830.28,
+            1831.18,
+            "2-1."
+        ],
+        "520": [
+            1832.24,
+            1833.86,
+            "Edin Jack."
+        ],
+        "521": [
+            1835.72,
+            1839.28,
+            "He scored more than one goal today."
+        ],
+        "522": [
+            1839.28,
+            1841.58,
+            "He is the top scorer in Serie A."
+        ],
+        "523": [
+            1841.84,
+            1844.84,
+            "And he already has ten on his account."
+        ],
+        "524": [
+            1846.24,
+            1847.84,
+            "Goes to Guain's records."
+        ],
+        "525": [
+            1848.04,
+            1849.04,
+            "May be."
+        ],
+        "526": [
+            1849.24,
+            1850.24,
+            "Good."
+        ],
+        "527": [
+            1850.44,
+            1851.44,
+            "Edin is good."
+        ],
+        "528": [
+            1852.44,
+            1854.44,
+            "Everyone forgives him, I think his fans now."
+        ],
+        "529": [
+            1854.64,
+            1856.64,
+            "Remembering last season."
+        ],
+        "530": [
+            1856.84,
+            1857.84,
+            "It struck powerfully and clearly."
+        ],
+        "531": [
+            1858.04,
+            1863.04,
+            "It seems he took penalties in both Wolfsburg and City."
+        ],
+        "532": [
+            1864.24,
+            1866.24,
+            "A great forum in every sense."
+        ],
+        "533": [
+            1869.24,
+            1871.24,
+            "Well, as long as we have it, yes."
+        ],
+        "534": [
+            1871.84,
+            1873.44,
+            "Time. Let's speculate."
+        ],
+        "535": [
+            1873.64,
+            1877.44,
+            "It seems to me that this is why Gatzolo was replaced."
+        ],
+        "536": [
+            1877.64,
+            1880.64,
+            "He was still more focused on defense."
+        ],
+        "537": [
+            1880.84,
+            1887.64,
+            "But since Emerson began to regularly throw his edge and go to the middle line of the field,"
+        ],
+        "538": [
+            1887.84,
+            1890.64,
+            "the left flank was exposed."
+        ],
+        "539": [
+            1890.84,
+            1898.84,
+            "And I think Di Francesco expected that Leruala with his connections would definitely be punished."
+        ],
+        "540": [
+            1901.84,
+            1903.64,
+            "For his visit ahead."
+        ],
+        "541": [
+            1903.84,
+            1905.64,
+            "Well, that's how it happened."
+        ],
+        "542": [
+            1905.84,
+            1912.64,
+            "The 19-year-old guy, under pressure from big players from Roma, makes mistakes."
+        ],
+        "543": [
+            1915.64,
+            1921.64,
+            "This is Leroual's 6th game this season."
+        ],
+        "544": [
+            1921.84,
+            1925.64,
+            "By the way, this is his first time as a substitute player."
+        ],
+        "545": [
+            1925.84,
+            1927.64,
+            "In general, this is also always a question."
+        ],
+        "546": [
+            1927.84,
+            1929.64,
+            "Very different."
+        ],
+        "547": [
+            1929.64,
+            1932.44,
+            "A football player is playing as a substitute."
+        ],
+        "548": [
+            1932.64,
+            1935.44,
+            "El Sharawi breaks through and hits the finishing touch."
+        ],
+        "549": [
+            1935.64,
+            1937.44,
+            "3-1."
+        ],
+        "550": [
+            1937.64,
+            1939.44,
+            "Fourth goal in this match."
+        ],
+        "551": [
+            1939.64,
+            1942.44,
+            "It had to be effective."
+        ],
+        "552": [
+            1942.64,
+            1945.44,
+            "And here we celebrate El Sharawi."
+        ],
+        "553": [
+            1945.64,
+            1951.44,
+            "And we note again that this attack passed through the flank of the Leroual field."
+        ],
+        "554": [
+            1951.64,
+            1955.44,
+            "I don\u2019t know anymore whether he is the direct culprit of this goal."
+        ],
+        "555": [
+            1955.64,
+            1959.44,
+            "Well, Rajan Igalan scores his first goal this season."
+        ],
+        "556": [
+            1959.64,
+            1961.44,
+            "Let's see how it happened."
+        ],
+        "557": [
+            1961.64,
+            1964.44,
+            "Yes, he galloped away from Lerual El Konovar."
+        ],
+        "558": [
+            1964.64,
+            1966.44,
+            "El Sharawi shoots."
+        ],
+        "559": [
+            1966.64,
+            1969.44,
+            "Although, it seems to me that he should invent a transmission here."
+        ],
+        "560": [
+            1969.64,
+            1974.44,
+            "And he finishes off Igalan."
+        ],
+        "561": [
+            1974.64,
+            1975.44,
+            "3-1."
+        ],
+        "562": [
+            1975.64,
+            1978.44,
+            "Roma turns the game around."
+        ],
+        "563": [
+            1978.64,
+            1984.44,
+            "Roma, which had enough scoring chances, translated quantity into quality."
+        ],
+        "564": [
+            1984.64,
+            1987.44,
+            "Well, and the quality..."
+        ],
+        "565": [
+            1987.44,
+            1993.24,
+            "And the qualities of Roma players, of course, are quite different."
+        ],
+        "566": [
+            1993.44,
+            1996.24,
+            "El Sharawi, we see, retained his strength for this breakthrough."
+        ],
+        "567": [
+            1996.44,
+            1999.24,
+            "He ran."
+        ],
+        "568": [
+            1999.44,
+            2004.24,
+            "Here, again, yes, in terms of the importance of replacements."
+        ],
+        "569": [
+            2004.44,
+            2006.24,
+            "Richie appears on the field."
+        ],
+        "570": [
+            2006.44,
+            2008.24,
+            "The same one I already talked about."
+        ],
+        "571": [
+            2008.44,
+            2011.24,
+            "You see, we guessed two replacements at once."
+        ],
+        "572": [
+            2011.44,
+            2016.24,
+            "I'll kill Dini, Igor Richie."
+        ],
+        "573": [
+            2016.24,
+            2020.04,
+            "El Sharawi leaves the field in Italy."
+        ],
+        "574": [
+            2020.24,
+            2027.04,
+            "His last name is pronounced with an emphasis on El Sharawi."
+        ],
+        "575": [
+            2027.24,
+            2029.04,
+            "Antonio Rudiger."
+        ],
+        "576": [
+            2029.24,
+            2034.04,
+            "Antonio R\u00fcdiger, yes, well, the defense is already concreted here."
+        ],
+        "577": [
+            2034.24,
+            2036.04,
+            "I understand that R\u00fcdiger is on the right edge."
+        ],
+        "578": [
+            2036.24,
+            2040.04,
+            "He is an all-rounder, he can play in the center, he can also defend on the edge."
+        ],
+        "579": [
+            2040.24,
+            2042.04,
+            "And Florence will go on the attack."
+        ],
+        "580": [
+            2042.24,
+            2045.04,
+            "Yes, we can already see Florence on the left."
+        ],
+        "581": [
+            2045.04,
+            2046.84,
+            "Moved."
+        ],
+        "582": [
+            2047.04,
+            2048.84,
+            "They all understand perfectly well."
+        ],
+        "583": [
+            2049.04,
+            2050.84,
+            "I think I\u2019ll burn it even without prompting."
+        ],
+        "584": [
+            2053.04,
+            2054.84,
+            "We would like to see Totti again."
+        ],
+        "585": [
+            2055.04,
+            2056.84,
+            "Totti, Totti, bring it on."
+        ],
+        "586": [
+            2059.04,
+            2060.84,
+            "Slept."
+        ],
+        "587": [
+            2063.04,
+            2064.84,
+            "And Totti slept."
+        ],
+        "588": [
+            2065.04,
+            2067.84,
+            "This, I mean, is the nickname of the head coach of Roma."
+        ],
+        "589": [
+            2068.04,
+            2072.84,
+            "Totti gets playing practice in Europa League matches."
+        ],
+        "590": [
+            2072.84,
+            2076.64,
+            "By the way, in this very Europa League, everything is also incredibly interesting."
+        ],
+        "591": [
+            2076.84,
+            2079.64,
+            "The Romans are not all right with their motivation."
+        ],
+        "592": [
+            2079.84,
+            2082.64,
+            "I must say where the point losses come from."
+        ],
+        "593": [
+            2082.84,
+            2087.64,
+            "They have already played a draw away with Victoria Polzin."
+        ],
+        "594": [
+            2087.84,
+            2093.64,
+            "We beat Astra with a score of 4-0."
+        ],
+        "595": [
+            2093.84,
+            2096.64,
+            "And with Austria."
+        ],
+        "596": [
+            2096.84,
+            2102.64,
+            "The Austrians played 3-3 at home, despite having a two-goal advantage."
+        ],
+        "597": [
+            2102.64,
+            2108.44,
+            "And then they led with a score of 3-1."
+        ],
+        "598": [
+            2108.64,
+            2110.44,
+            "But in the very end they conceded two goals."
+        ],
+        "599": [
+            2110.64,
+            2113.44,
+            "The result is a draw. Completely unexpected damage."
+        ],
+        "600": [
+            2117.64,
+            2120.44,
+            "So 4 points, like, by the way, the SSO in the Europa League."
+        ],
+        "601": [
+            2120.64,
+            2122.44,
+            "It's still an important topic. Whatever you do."
+        ],
+        "602": [
+            2122.64,
+            2128.44,
+            "Because, of course, the Italians need to slowly return to their former positions in the coefficient table."
+        ],
+        "603": [
+            2128.64,
+            2131.44,
+            "And have more teams in the Champions League."
+        ],
+        "604": [
+            2131.44,
+            2134.24,
+            "In connection with the upcoming reform of the Champions League."
+        ],
+        "605": [
+            2134.44,
+            2137.24,
+            "Italy can regain its place again."
+        ],
+        "606": [
+            2137.44,
+            2140.24,
+            "Well, apparently, he is losing."
+        ],
+        "607": [
+            2140.44,
+            2144.24,
+            "The MTR is defeated. Although, of course, there is still time."
+        ],
+        "608": [
+            2144.44,
+            2149.24,
+            "But here, having dug in on the defensive, Roma is unlikely to allow much."
+        ],
+        "609": [
+            2149.44,
+            2152.24,
+            "You see what situations arise."
+        ],
+        "610": [
+            2156.44,
+            2161.24,
+            "All the same, Roma was and remains a team that is very interesting to watch."
+        ],
+        "611": [
+            2161.44,
+            2164.24,
+            "And growth that is interesting to watch."
+        ],
+        "612": [
+            2166.44,
+            2170.24,
+            "Its owner, Giorgio Squinsi, is a very extraordinary character."
+        ],
+        "613": [
+            2170.44,
+            2173.24,
+            "He owns it in very good condition."
+        ],
+        "614": [
+            2173.44,
+            2178.24,
+            "But, by the way, this situation is similar to the one in Krasnodar."
+        ],
+        "615": [
+            2178.44,
+            2181.24,
+            "The color scheme is the same."
+        ],
+        "616": [
+            2181.44,
+            2188.24,
+            "In general, there is a lot of money. He could buy up anyone there."
+        ],
+        "617": [
+            2188.44,
+            2191.24,
+            "But little by little he is moving forward."
+        ],
+        "618": [
+            2191.44,
+            2196.24,
+            "Only by developing the team with small adequate investments."
+        ],
+        "619": [
+            2196.44,
+            2200.24,
+            "Squincy is a Milan fan, by the way."
+        ],
+        "620": [
+            2200.44,
+            2202.24,
+            "Well, here we have an injury in Florence."
+        ],
+        "621": [
+            2202.44,
+            2208.24,
+            "And from Derosi\u2019s gesture it becomes clear that this is a replacement."
+        ],
+        "622": [
+            2208.44,
+            2214.24,
+            "And I sincerely hope that this is not some kind of serious injury."
+        ],
+        "623": [
+            2214.44,
+            2221.24,
+            "But because they hold Florence by the legs."
+        ],
+        "624": [
+            2221.44,
+            2224.24,
+            "And by the way, his..."
+        ],
+        "625": [
+            2224.44,
+            2227.24,
+            "Skulapy."
+        ],
+        "626": [
+            2227.44,
+            2230.24,
+            "What are you going to do, huh?"
+        ],
+        "627": [
+            2230.44,
+            2233.24,
+            "What are you going to do?"
+        ],
+        "628": [
+            2233.44,
+            2236.24,
+            "Defender of the Italian national team."
+        ],
+        "629": [
+            2236.44,
+            2242.24,
+            "The main defender, the main player of Roma, who operates both in midfield and in defense."
+        ],
+        "630": [
+            2242.44,
+            2248.24,
+            "Receives, apparently, serious damage when the score is 3-1."
+        ],
+        "631": [
+            2248.44,
+            2250.24,
+            "I stumbled."
+        ],
+        "632": [
+            2250.24,
+            2254.04,
+            "And I think the point here is that..."
+        ],
+        "633": [
+            2254.24,
+            2260.04,
+            "You see, when the ankle can go to the side like that, sometimes it goes to the knee."
+        ],
+        "634": [
+            2260.24,
+            2262.04,
+            "The knee is in a ligament."
+        ],
+        "635": [
+            2262.24,
+            2269.04,
+            "And I hope that now this is Florence\u2019s reaction, it\u2019s more like the first painful shock."
+        ],
+        "636": [
+            2269.24,
+            2272.04,
+            "And it's not as serious as it might seem."
+        ],
+        "637": [
+            2272.24,
+            2274.04,
+            "But Florence is crying."
+        ],
+        "638": [
+            2274.24,
+            2279.04,
+            "And the whole stadium is silent, knowing full well that this is not so much about the opposing defender,"
+        ],
+        "639": [
+            2279.04,
+            2281.84,
+            "how much about the national team player."
+        ],
+        "640": [
+            2282.04,
+            2288.84,
+            "What are you going to do? What a shame, isn't it? To lose such a bright football player."
+        ],
+        "641": [
+            2289.04,
+            2294.84,
+            "."
+        ],
+        "642": [
+            2295.04,
+            2298.84,
+            "."
+        ],
+        "643": [
+            2299.04,
+            2302.84,
+            "."
+        ],
+        "644": [
+            2303.04,
+            2304.84,
+            "."
+        ],
+        "645": [
+            2305.04,
+            2306.84,
+            "."
+        ],
+        "646": [
+            2306.84,
+            2308.84,
+            "."
+        ],
+        "647": [
+            2309.04,
+            2310.84,
+            "."
+        ],
+        "648": [
+            2311.04,
+            2312.84,
+            "."
+        ],
+        "649": [
+            2313.04,
+            2314.84,
+            "."
+        ],
+        "650": [
+            2315.04,
+            2317.04,
+            "."
+        ],
+        "651": [
+            2317.24,
+            2319.04,
+            "."
+        ],
+        "652": [
+            2319.24,
+            2321.24,
+            "."
+        ],
+        "653": [
+            2321.44,
+            2322.44,
+            "."
+        ],
+        "654": [
+            2322.64,
+            2324.44,
+            "."
+        ],
+        "655": [
+            2324.64,
+            2326.64,
+            "."
+        ],
+        "656": [
+            2326.84,
+            2328.64,
+            "."
+        ],
+        "657": [
+            2328.84,
+            2330.64,
+            "."
+        ],
+        "658": [
+            2330.84,
+            2332.64,
+            "."
+        ],
+        "659": [
+            2332.84,
+            2334.64,
+            "."
+        ],
+        "660": [
+            2334.64,
+            2336.64,
+            ". ."
+        ],
+        "661": [
+            2336.84,
+            2344.64,
+            "."
+        ],
+        "662": [
+            2344.84,
+            2346.64,
+            "."
+        ],
+        "663": [
+            2346.84,
+            2348.24,
+            ". ."
+        ],
+        "664": [
+            2348.54,
+            2350.64,
+            ". ."
+        ],
+        "665": [
+            2350.84,
+            2352.64,
+            ". ."
+        ],
+        "666": [
+            2352.84,
+            2356.04,
+            "."
+        ],
+        "667": [
+            2356.14,
+            2359.84,
+            ". ."
+        ],
+        "668": [
+            2360.24,
+            2363.24,
+            ". ."
+        ],
+        "669": [
+            2363.34,
+            2364.54,
+            ". . ."
+        ],
+        "670": [
+            2364.54,
+            2366.76,
+            "We need to score, we need to do it."
+        ],
+        "671": [
+            2368.2,
+            2369.8,
+            "Although, of course, what he gives out is"
+        ],
+        "672": [
+            2369.96,
+            2372.46,
+            "When does he appear in the starting lineup in Europa League matches?"
+        ],
+        "673": [
+            2373.02,
+            2375.22,
+            "Such mind-blowing shows."
+        ],
+        "674": [
+            2375.92,
+            2377.7,
+            "Well, here we go again, if you haven't seen it,"
+        ],
+        "675": [
+            2377.8,
+            2378.94,
+            "it's worth watching."
+        ],
+        "676": [
+            2379.7,
+            2381.22,
+            "Outer side of the foot"
+        ],
+        "677": [
+            2381.42,
+            2383.78,
+            "50, 40 meters, whatever he wants."
+        ],
+        "678": [
+            2384.34,
+            2385.86,
+            "Well, there, of course, the level allows."
+        ],
+        "679": [
+            2387.66,
+            2389.24,
+            "Like a Romanian opponent."
+        ],
+        "680": [
+            2392.4,
+            2393.8,
+            "You know, to be honest, even"
+        ],
+        "681": [
+            2393.8,
+            2397.2,
+            "somehow the whole impression of the game"
+        ],
+        "682": [
+            2397.2,
+            2401.12,
+            "somewhat crumpled due to the injury of Alexander Florents."
+        ],
+        "683": [
+            2402.08,
+            2404.16,
+            "I have never hidden this."
+        ],
+        "684": [
+            2404.26,
+            2405.88,
+            "One of my football players"
+        ],
+        "685": [
+            2406.02,
+            2408.8,
+            "favorites in the Italian Championship Florenza."
+        ],
+        "686": [
+            2409.68,
+            2412.58,
+            "For his football, for the way he thinks on the field"
+        ],
+        "687": [
+            2412.58,
+            2415.66,
+            "and also makes it a pleasure to watch."
+        ],
+        "688": [
+            2416.34,
+            2419.68,
+            "And I think you will all join in my wishes"
+        ],
+        "689": [
+            2419.68,
+            2420.78,
+            "get well soon."
+        ],
+        "690": [
+            2421.84,
+            2423.56,
+            "Well, we are waiting, of course, for news."
+        ],
+        "691": [
+            2423.8,
+            2425.8,
+            "Goodbye."
+        ],
+        "692": [
+            2425.8,
+            2429.92,
+            "Cesola and Roma play, I repeat, as expected,"
+        ],
+        "693": [
+            2430.06,
+            2432.88,
+            "I think for many people they play high-scoring football."
+        ],
+        "694": [
+            2433.02,
+            2435.26,
+            "Sesol didn't last long."
+        ],
+        "695": [
+            2437.74,
+            2439.7,
+            "Although, yes, they held on for the whole half."
+        ],
+        "696": [
+            2440.36,
+            2443.04,
+            "But already at the end of the first half it was clear"
+        ],
+        "697": [
+            2443.22,
+            2445.54,
+            "that Roma is gaining momentum,"
+        ],
+        "698": [
+            2445.58,
+            2447.54,
+            "and Roma is ready to make a comeback."
+        ],
+        "699": [
+            2447.54,
+            2452.48,
+            "That guy."
+        ],
+        "700": [
+            2452.48,
+            2453.58,
+            "How fast."
+        ],
+        "701": [
+            2453.8,
+            2457.04,
+            "How quickly Derosi recovered from the slap in the face."
+        ],
+        "702": [
+            2458.14,
+            2458.74,
+            "Paradis."
+        ],
+        "703": [
+            2460.34,
+            2460.98,
+            "Manuas."
+        ],
+        "704": [
+            2461.86,
+            2463.62,
+            "Well, now it\u2019s also important for the team"
+        ],
+        "705": [
+            2463.62,
+            2465.46,
+            "organize some kind of penalty,"
+        ],
+        "706": [
+            2467.04,
+            2469.22,
+            "so that Totti has the opportunity"
+        ],
+        "707": [
+            2469.22,
+            2472.24,
+            "perform..."
+        ],
+        "708": [
+            2472.24,
+            2474.24,
+            "Here he is with the ball, that\u2019s where he settled down."
+        ],
+        "709": [
+            2475.06,
+            2477.14,
+            "On the right is midfield from something suddenly."
+        ],
+        "710": [
+            2477.42,
+            2478.08,
+            "R\u00fcdeger."
+        ],
+        "711": [
+            2478.22,
+            2479.8,
+            "Cross in Jack's direction."
+        ],
+        "712": [
+            2481.48,
+            2483.78,
+            "By the way, I think, even if the gun had been earned,"
+        ],
+        "713": [
+            2483.8,
+            2487.62,
+            "in the final, then Cesko would give the right to perform it."
+        ],
+        "714": [
+            2487.74,
+            2488.04,
+            "Jack."
+        ],
+        "715": [
+            2488.48,
+            2489.28,
+            "Still high three."
+        ],
+        "716": [
+            2493.68,
+            2494.32,
+            "Lerolam."
+        ],
+        "717": [
+            2501.58,
+            2504.76,
+            "Also one of the main anti-heroes of this match."
+        ],
+        "718": [
+            2507.38,
+            2510.96,
+            "Well, too, after all, you also have to go through this."
+        ],
+        "719": [
+            2510.96,
+            2513.78,
+            "And you need to feel it for yourself."
+        ],
+        "720": [
+            2513.8,
+            2515.6,
+            "There are also sidelong glances in the locker room."
+        ],
+        "721": [
+            2515.64,
+            2517.8,
+            "This is absolutely normal for the team, for..."
+        ],
+        "722": [
+            2520.56,
+            2521.78,
+            "Yes, they'll shove it at him."
+        ],
+        "723": [
+            2522.0,
+            2523.96,
+            "Well, maybe someone will support."
+        ],
+        "724": [
+            2524.06,
+            2526.16,
+            "But this again"
+        ],
+        "725": [
+            2526.16,
+            2529.36,
+            "a situation without which"
+        ],
+        "726": [
+            2529.36,
+            2531.14,
+            "you don't become a great football player."
+        ],
+        "727": [
+            2532.54,
+            2533.48,
+            "It's a big question, though."
+        ],
+        "728": [
+            2534.0,
+            2535.48,
+            "How will you get out of this situation?"
+        ],
+        "729": [
+            2536.4,
+            2537.0,
+            "Interception."
+        ],
+        "730": [
+            2537.9,
+            2539.28,
+            "There is an opportunity to strike."
+        ],
+        "731": [
+            2539.62,
+            2540.16,
+            "Hit."
+        ],
+        "732": [
+            2540.16,
+            2543.4,
+            "Far from the domain."
+        ],
+        "733": [
+            2543.8,
+            2544.8,
+            "Shchensnova."
+        ],
+        "734": [
+            2544.8,
+            2545.8,
+            "Szczesny."
+        ],
+        "735": [
+            2545.8,
+            2546.8,
+            "This is the feeling."
+        ],
+        "736": [
+            2546.8,
+            2549.8,
+            "We remembered him when Konovara scored a goal."
+        ],
+        "737": [
+            2549.8,
+            2550.8,
+            "That's all, actually."
+        ],
+        "738": [
+            2550.8,
+            2557.8,
+            "In some other situations, to help the team out,"
+        ],
+        "739": [
+            2557.8,
+            2558.8,
+            "was not noticed."
+        ],
+        "740": [
+            2558.8,
+            2561.8,
+            "Well, really, I remember it even before the goal was scored."
+        ],
+        "741": [
+            2561.8,
+            2563.8,
+            "Defrel struck well."
+        ],
+        "742": [
+            2568.8,
+            2569.8,
+            "Dineev beats."
+        ],
+        "743": [
+            2573.8,
+            2575.32,
+            "Force and Jekko."
+        ],
+        "744": [
+            2575.32,
+            2577.7,
+            "And, of course, this is Their"
+        ],
+        "745": [
+            2577.7,
+            2580.4,
+            "somehow carried 9980."
+        ],
+        "746": [
+            2580.4,
+            2582.44,
+            "Well, iptop."
+        ],
+        "747": [
+            2582.44,
+            2585.58,
+            "And this is fermi in this right corner,"
+        ],
+        "748": [
+            2585.58,
+            2587.92,
+            "because VloM is still there after all"
+        ],
+        "749": [
+            2587.92,
+            2589.98,
+            "in the third section on average,"
+        ],
+        "750": [
+            2589.98,
+            2590.8,
+            "although they probably have"
+        ],
+        "751": [
+            2590.8,
+            2591.62,
+            "I'm not any worse."
+        ],
+        "752": [
+            2591.62,
+            2592.9,
+            "And now everything is strange"
+        ],
+        "753": [
+            2592.9,
+            2595.08,
+            "Why do they need situations?"
+        ],
+        "754": [
+            2595.08,
+            2596.44,
+            "Parasite Dem 3 taking."
+        ],
+        "755": [
+            2596.44,
+            2597.72,
+            "Tetabe."
+        ],
+        "756": [
+            2597.72,
+            2598.7,
+            "But not 16 greeny,"
+        ],
+        "757": [
+            2598.7,
+            2599.86,
+            "MAYon BB"
+        ],
+        "758": [
+            2600.76,
+            2601.8,
+            "This is not Western Germany."
+        ],
+        "759": [
+            2601.8,
+            2602.8,
+            "breakup."
+        ],
+        "760": [
+            2602.8,
+            2608.36,
+            "Somehow he tries to shoot, albeit from an acute angle."
+        ],
+        "761": [
+            2609.36,
+            2610.94,
+            "But such a blow would be unexpected."
+        ],
+        "762": [
+            2612.04,
+            2615.86,
+            "And Chairbi, look how briskly he steps forward."
+        ],
+        "763": [
+            2616.2,
+            2618.52,
+            "Serve, Facio wins."
+        ],
+        "764": [
+            2618.94,
+            2620.86,
+            "The tallest football player is now on the field."
+        ],
+        "765": [
+            2623.2,
+            2623.92,
+            "Ricochet!"
+        ],
+        "766": [
+            2624.6,
+            2627.56,
+            "And in passing Misha Schentsny touches."
+        ],
+        "767": [
+            2629.52,
+            2630.74,
+            "Federico Ritchie."
+        ],
+        "768": [
+            2630.74,
+            2638.68,
+            "On your screens is another Roma graduate as part of Sosuolo."
+        ],
+        "769": [
+            2642.08,
+            2644.36,
+            "He will now take the corner."
+        ],
+        "770": [
+            2649.52,
+            2651.88,
+            "By the way, it still belongs to Roma."
+        ],
+        "771": [
+            2652.46,
+            2653.84,
+            "Delivery to the far post."
+        ],
+        "772": [
+            2654.08,
+            2656.94,
+            "Here, none of the Sosuolo players can reach the ball."
+        ],
+        "773": [
+            2657.48,
+            2660.1,
+            "By the way, Richie still played four matches for Roma."
+        ],
+        "774": [
+            2660.1,
+            2661.68,
+            "He then had a tenancy in Crouton."
+        ],
+        "775": [
+            2662.48,
+            2664.46,
+            "By the way, this Winger scored a lot there."
+        ],
+        "776": [
+            2664.68,
+            2667.78,
+            "Well, since 2016 he has been a soccer player for Sosuolo."
+        ],
+        "777": [
+            2667.88,
+            2671.84,
+            "True, there is such a story that after the end of this lease"
+        ],
+        "778": [
+            2671.84,
+            2675.16,
+            "Sosuolo will have the opportunity to buy out the rights to the player."
+        ],
+        "779": [
+            2675.46,
+            2677.24,
+            "But for now he is a reserve player."
+        ],
+        "780": [
+            2682.88,
+            2686.32,
+            "Roma wins for the fourth time in a row."
+        ],
+        "781": [
+            2686.54,
+            2689.94,
+            "Smooth, by the way, such an effective move for the Romans."
+        ],
+        "782": [
+            2690.1,
+            2693.5,
+            "Two goals were scored for Inter."
+        ],
+        "783": [
+            2693.76,
+            2696.26,
+            "Three goals against Napoli, four against Palermo."
+        ],
+        "784": [
+            2696.32,
+            2698.5,
+            "And here are three goals in the Sosuolo match."
+        ]
+    }
+}
