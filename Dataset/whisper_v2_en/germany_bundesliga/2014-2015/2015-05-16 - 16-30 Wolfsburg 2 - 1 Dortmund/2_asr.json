@@ -55,7 +55,7 @@
             125.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "eleven": [
+        "11": [
             125.0,
             128.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -75,7 +75,7 @@
             137.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "fifteen": [
+        "15": [
             137.0,
             140.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -100,12 +100,12 @@
             152.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "twenty": [
+        "20": [
             152.0,
             155.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "twenty-one": [
+        "21": [
             155.0,
             158.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -170,7 +170,7 @@
             194.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "3. 4": [
+        "34": [
             194.0,
             197.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -225,7 +225,7 @@
             227.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "Four. Five": [
+        "45": [
             227.0,
             230.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -250,7 +250,7 @@
             242.0,
             "The game of the week passes through the streets of the city of Madrid."
         ],
-        "fifty": [
+        "50": [
             242.0,
             245.0,
             "The game of the week passes through the streets of the city of Madrid."
@@ -1026,28 +1026,28 @@
             "Send the ball out of the Bruin three-quarter zone."
         ],
         "205": [
-            922.3000000000001,
-            926.3000000000001,
+            922.3,
+            926.3,
             "I think the only thing Subotic was looking for was to provoke the priest in his favor."
         ],
         "206": [
-            926.3000000000001,
-            930.3000000000001,
+            926.3,
+            930.3,
             "I think he didn't get it because it was awarded to Wolfsburg."
         ],
         "207": [
-            932.3000000000001,
-            935.3000000000001,
+            932.3,
+            935.3,
             "No, they give it to Jürgen Klopp's team."
         ],
         "208": [
-            935.3000000000001,
-            937.3000000000001,
+            935.3,
+            937.3,
             "Lucky for the Serbian player."
         ],
         "209": [
-            942.3000000000001,
-            945.3000000000001,
+            942.3,
+            945.3,
             "When Eric Thurm passes the ball, he protects Campbell."
         ],
         "210": [
@@ -1167,62 +1167,62 @@
         ],
         "233": [
             1023.38,
-            1027.3799999999999,
+            1027.38,
             "It is true that he gives the team a good start, but his virtues are lost"
         ],
-        "2. 3. 4": [
-            1027.3799999999999,
-            1029.3799999999999,
+        "234": [
+            1027.38,
+            1029.38,
             "with that vibrancy in the midpoint."
         ],
         "235": [
-            1032.3799999999999,
-            1034.3799999999999,
+            1032.38,
+            1034.38,
             "Mark the play that Neymr de Bruyne hits the Belgian."
         ],
         "236": [
-            1034.3799999999999,
-            1036.3799999999999,
+            1034.38,
+            1036.38,
             "And the ball."
         ],
         "237": [
-            1036.3799999999999,
-            1038.3799999999999,
+            1036.38,
+            1038.38,
             "Hit I believe in a rival."
         ],
         "238": [
-            1038.3799999999999,
-            1039.3799999999999,
+            1038.38,
+            1039.38,
             "There was offside, yes."
         ],
         "239": [
-            1040.3799999999999,
-            1041.3799999999999,
+            1040.38,
+            1041.38,
             "There was offside."
         ],
         "240": [
-            1041.3799999999999,
-            1045.3799999999999,
+            1041.38,
+            1045.38,
             "He hits a Borussia Dortmund player, but the play was already invalidated."
         ],
         "241": [
-            1062.3799999999999,
-            1064.3799999999999,
+            1062.38,
+            1064.38,
             "Socrates is shot by Langerak."
         ],
         "242": [
-            1064.3799999999999,
-            1065.3799999999999,
+            1064.38,
+            1065.38,
             "Press now Kevin de Bruyne."
         ],
         "243": [
-            1065.3799999999999,
-            1067.3799999999999,
+            1065.38,
+            1067.38,
             "The Australian is going to get rid of her."
         ],
         "244": [
-            1069.3799999999999,
-            1071.3799999999999,
+            1069.38,
+            1071.38,
             "The ball went straight out to Langerak."
         ],
         "245": [
@@ -1327,11 +1327,11 @@
         ],
         "265": [
             1157.1,
-            1162.3799999999999,
+            1162.38,
             "Perez Sexte gets rid of it and delays Sebastián Jun, now press for Sinji's departure"
         ],
         "266": [
-            1162.3799999999999,
+            1162.38,
             1167.02,
             "Kagawa although he arrives late, Caligiuri playing on the right, Kevin's change of orientation from"
         ],
@@ -1357,7 +1357,7 @@
         ],
         "271": [
             1192.62,
-            1197.1799999999998,
+            1197.18,
             "I want to prolong but not directly send the ball to the defense Aubameyane"
         ],
         "272": [
@@ -1372,17 +1372,17 @@
         ],
         "274": [
             1209.34,
-            1212.9399999999998,
+            1212.94,
             "He receives the ball again from his full-back playing in association with De Bruyne, deep ball"
         ],
         "275": [
-            1212.9399999999998,
+            1212.94,
             1218.3,
             "by Kevin De Bruyne, what magic the former Chelsea player uses and the ball, the center"
         ],
         "276": [
             1218.3,
-            1220.1399999999999,
+            1220.14,
             "Too much of the past is lost on the touchline"
         ],
         "277": [
@@ -1392,7 +1392,7 @@
         ],
         "278": [
             1235.74,
-            1240.1399999999999,
+            1240.14,
             "Good club player, maybe not a big star but a very useful player"
         ],
         "279": [
@@ -1412,17 +1412,17 @@
         ],
         "282": [
             1270.86,
-            1275.8999999999999,
+            1275.9,
             "oriented and ball forward high, raise your head and move the ball long directly"
         ],
         "283": [
-            1276.6200000000001,
+            1276.62,
             1278.14,
             "Langerac goal attack"
         ],
         "284": [
-            1286.7800000000002,
-            1288.5400000000002,
+            1286.78,
+            1288.54,
             "Marco Reus playing among others"
         ],
         "285": [
@@ -1437,11 +1437,11 @@
         ],
         "287": [
             1322.94,
-            1326.3000000000002,
+            1326.3,
             "The only good news for Dortmund is that Augsburg is not winning either"
         ],
         "288": [
-            1328.3000000000002,
+            1328.3,
             1333.26,
             "which is currently one of the teams that occupies a Europa League place with Schalke, is losing"
         ],
@@ -1492,16 +1492,16 @@
         ],
         "298": [
             1386.06,
-            1389.8999999999999,
+            1389.9,
             "I believe that Dortmund has a head for the title final"
         ],
         "299": [
             1390.78,
-            1395.8999999999999,
+            1395.9,
             "More than anything else, it becomes Caligiuri's movement and the shot caught by"
         ],
         "300": [
-            1395.8999999999999,
+            1395.9,
             1401.82,
             "Langerak, the action of the Volksburg player is magnificent, the save he made is also magnificent"
         ],
@@ -1512,21 +1512,21 @@
         ],
         "302": [
             1408.62,
-            1409.4199999999998,
+            1409.42,
             "as it deserves"
         ],
         "303": [
             1410.38,
-            1415.3400000000001,
+            1415.34,
             "The last matchday is Dortmund-Verde-Premien precisely, so if he wins that match"
         ],
         "304": [
-            1415.3400000000001,
-            1421.5800000000002,
+            1415.34,
+            1421.58,
             "He would have no rival in Bremen while Schalke goes to Hamburg's field"
         ],
         "305": [
-            1421.5800000000002,
+            1421.58,
             1426.22,
             "Relegation is at stake, but well, here we have said that seventh also gives access"
         ],
@@ -1547,16 +1547,16 @@
         ],
         "309": [
             1445.42,
-            1452.3000000000002,
+            1452.3,
             "Things were good in those five minutes 66 at the Weserstadion and 0-1 in favor of the team today"
         ],
         "310": [
-            1452.8600000000001,
-            1459.1000000000001,
+            1452.86,
+            1459.1,
             "He starts as third place and will continue that way for the moment thanks to these three points"
         ],
         "311": [
-            1459.1000000000001,
+            1459.1,
             1464.54,
             "They stay at the Volkswagen Arena, Chiro's cell phone is going to come in, for Bremen it is important"
         ],
@@ -1567,26 +1567,26 @@
         ],
         "313": [
             1468.38,
-            1473.5800000000002,
+            1473.58,
             "Therefore, on the last day it would be better to tie, well Chiro is going to enter immobile"
         ],
         "314": [
-            1473.5800000000002,
-            1476.8600000000001,
+            1473.58,
+            1476.86,
             "Probably living his last games as a Dortmund player because of his experience"
         ],
         "315": [
-            1476.8600000000001,
+            1476.86,
             1482.22,
             "In Germany it hasn't been good at all, at least Klopp hasn't counted on him much, Roes is going to come in too"
         ],
         "316": [
             1482.22,
-            1489.5800000000002,
+            1489.58,
             "This is good news that now in the Cup final, two who have tiptoed are leaving"
         ],
         "317": [
-            1489.5800000000002,
+            1489.58,
             1495.9,
             "Very on tiptoe especially Cagagua, Cagagua has been spectacular, the little that it has seemed like"
         ],
@@ -1596,33 +1596,33 @@
             "Chiro enters motionless for Campbell, Marco Roes for Shinji Cagagua"
         ],
         "319": [
-            1504.3000000000002,
-            1509.1000000000001,
+            1504.3,
+            1509.1,
             "Campbell is not happy, Cagagua seems more indifferent to the situation but Campbell is"
         ],
         "320": [
-            1509.1000000000001,
+            1509.1,
             1517.26,
             "He is angry with his performance, it was not good at all, watch out for Marco Roes' robbery, he claims the foul"
         ],
         "321": [
             1517.26,
-            1521.3400000000001,
+            1521.34,
             "of the yellow card and that's how Marco Fritz is going to show it to Ivan Perisic"
         ],
         "322": [
             1555.9,
-            1568.7800000000002,
+            1568.78,
             "The ball remains dead inside the area, Uba Mejan hits it with an acrobatic shot in this case"
         ],
         "323": [
-            1568.7800000000002,
+            1568.78,
             1574.46,
             "In Guilabogui who clears, a throw-in in hostile territory in favor of Dortmund, he puts it behind"
         ],
         "324": [
             1574.46,
-            1581.3400000000001,
+            1581.34,
             "In Kitarian picks up Gundogan, presses Perisic, the Gabonese retains Uba Mejan"
         ],
         "325": [
@@ -1632,16 +1632,16 @@
         ],
         "326": [
             1587.82,
-            1592.9399999999998,
+            1592.94,
             "He plays the ball again with his right back to Maa with the pass inside"
         ],
         "327": [
-            1592.9399999999998,
-            1598.8999999999999,
+            1592.94,
+            1598.9,
             "Finally, he delayed the ball for Subotich who placed the vertical pass well but Roes was the one who"
         ],
         "328": [
-            1598.8999999999999,
+            1598.9,
             1603.86,
             "Bad discharge, now there has been a foul by Gundogan in the Volksburg ball exit and a yellow card"
         ],
@@ -1657,7 +1657,7 @@
         ],
         "331": [
             1641.34,
-            1647.1799999999998,
+            1647.18,
             "Subotich manages to clear it and claims Brueghn's foul but Marco Fritz is not going to grant it"
         ],
         "332": [
@@ -1667,12 +1667,12 @@
         ],
         "333": [
             1659.34,
-            1663.1799999999998,
+            1663.18,
             "Clearly superior team this season for a Seadormund"
         ],
         "334": [
-            1663.1799999999998,
-            1668.4599999999998,
+            1663.18,
+            1668.46,
             "which has even been flirting with relegation for a good part of the campaign"
         ],
         "335": [
@@ -1725,19 +1725,19 @@
             1766.7,
             "would not allow him to secure second place mathematically yet"
         ],
-        "3. 4. 5": [
+        "345": [
             1796.7,
-            1807.6200000000001,
+            1807.62,
             "Delayed ball for Socrates for Pastatopoulos between the center backs Gündogan distributes for Subotic"
         ],
         "346": [
-            1807.6200000000001,
-            1812.6200000000001,
+            1807.62,
+            1812.62,
             "He accompanies the play and yet Subotic decides to make a vertical pass for Marco Reus"
         ],
         "347": [
-            1812.6200000000001,
-            1816.6200000000001,
+            1812.62,
+            1816.62,
             "ball into space, Chiro Immobile attacks him, he protects the ball well against Torino"
         ],
         "348": [
@@ -1801,53 +1801,53 @@
             "The inside ball was good and the first unloading was good for the arrival of Lucas Pisec, not Eric Durm"
         ],
         "360": [
-            1890.3000000000002,
-            1893.3000000000002,
+            1890.3,
+            1893.3,
             "Behind the ball he puts it for Marco Reus"
         ],
         "361": [
-            1896.3000000000002,
-            1900.3000000000002,
+            1896.3,
+            1900.3,
             "Eric Durm was already offside, Ilkay Gundogan saw him late"
         ],
         "362": [
-            1900.3000000000002,
-            1903.3000000000002,
+            1900.3,
+            1903.3,
             "And the Borussia Dortmund player let the ball pass"
         ],
         "363": [
-            1920.3000000000002,
-            1925.3000000000002,
+            1920.3,
+            1925.3,
             "I have already reappeared Pisec, on May 9, one pass played 20 minutes as well"
         ],
         "364": [
-            1928.3000000000002,
-            1934.3000000000002,
+            1928.3,
+            1934.3,
             "Two and a half months after his last relapse because he had another injury also in the first round"
         ],
         "365": [
-            1938.3000000000002,
-            1943.3000000000002,
+            1938.3,
+            1943.3,
             "The ball is on the left, you can hit it with your right foot, coming out of Benaglio with your fists"
         ],
         "366": [
-            1943.3000000000002,
-            1947.3000000000002,
+            1943.3,
+            1947.3,
             "The second play does not favor Gundogan"
         ],
         "367": [
-            1950.3000000000002,
-            1952.3000000000002,
+            1950.3,
+            1952.3,
             "and then the recovery of Lucas Pisec"
         ],
         "368": [
-            1953.3000000000002,
-            1957.3000000000002,
+            1953.3,
+            1957.3,
             "He sends the cross cut by Pérez and Benaglio is going to save it"
         ],
         "369": [
-            1957.3000000000002,
-            1960.3000000000002,
+            1957.3,
+            1960.3,
             "I don't think it saved him, I think it touched him directly"
         ],
         "370": [
@@ -1936,7 +1936,7 @@
             "Neves receives and goes back"
         ],
         "387": [
-            2041.0600000000002,
+            2041.06,
             2048.06,
             "Neves Subotich receives and plays right back although Milik Keibundogan is occupying that position"
         ],
@@ -2041,38 +2041,38 @@
             "He starts and goes over the divide with a goal"
         ],
         "408": [
-            2143.7400000000002,
-            2146.7400000000002,
+            2143.74,
+            2146.74,
             "and he passes over the divide, manages to change pace, gets between two and fouls"
         ],
         "409": [
-            2147.7400000000002,
-            2149.7400000000002,
+            2147.74,
+            2149.74,
             "Well no, the ball says that Marco Fritz Kilabogui touched it"
         ],
         "410": [
-            2150.7400000000002,
-            2154.7400000000002,
+            2150.74,
+            2154.74,
             "The start, the response comes from Volksburg"
         ],
         "411": [
-            2160.7400000000002,
-            2164.7400000000002,
+            2160.74,
+            2164.74,
             "Kevin De Bruyne overflows to the baseline and claims the foul, it is not granted"
         ],
         "412": [
-            2166.7400000000002,
-            2168.7400000000002,
+            2166.74,
+            2168.74,
             "serve in favor of Langerak and the bolsero"
         ],
         "413": [
-            2173.7400000000002,
-            2174.7400000000002,
+            2173.74,
+            2174.74,
             "Lihue molecule Ahead"
         ],
         "414": [
-            2177.7400000000002,
-            2196.7400000000002,
+            2177.74,
+            2196.74,
             "Caraca, now Billon"
         ],
         "415": [
@@ -2081,37 +2081,37 @@
             "in the center, the long"
         ],
         "416": [
-            2205.9799999999996,
-            2210.2999999999997,
+            2205.98,
+            2210.3,
             "and indeed it tells us"
         ],
         "417": [
-            2210.2999999999997,
-            2213.3799999999997,
+            2210.3,
+            2213.38,
             "María Candelario on Twitter"
         ],
         "418": [
-            2213.3799999999997,
+            2213.38,
             2217.54,
             "with the result that exists now with the results that exist now"
         ],
         "419": [
             2217.54,
-            2222.4199999999996,
+            2222.42,
             "The Laugsburg game and the Schalke game, Augsburg losing"
         ],
         "420": [
-            2222.4199999999996,
+            2222.42,
             2225.66,
             "He would be left with the same points as he has 46 and with a goal difference"
         ],
         "421": [
             2225.66,
-            2230.7799999999997,
+            2230.78,
             "negative of minus one would put Schalke with the tie they now win"
         ],
         "422": [
-            2230.7799999999997,
+            2230.78,
             2234.18,
             "At Goletinsarena with the same points but with a goal difference"
         ],
@@ -2132,17 +2132,17 @@
         ],
         "426": [
             2271.22,
-            2276.3799999999997,
+            2276.38,
             "The German international marks the action, the rejection favors him with a bitten shot and"
         ],
         "427": [
-            2276.3799999999997,
+            2276.38,
             2281.66,
             "There was directly outside Aubameyán's anti-regulatory position afterwards"
         ],
         "428": [
             2281.66,
-            2284.8199999999997,
+            2284.82,
             "from that Marco Reis auction"
         ],
         "429": [
@@ -2372,22 +2372,22 @@
         ],
         "474": [
             2523.22,
-            2530.9399999999996,
+            2530.94,
             "On the verge of losing it, he manages to get hold of the ball even though they tried to take it away from him several times"
         ],
         "475": [
-            2530.9399999999996,
+            2530.94,
             2537.22,
             "Sometimes he finally lost it and he fought against Volsburg although Aaron Hunt himself stopped him"
         ],
         "476": [
             2537.22,
-            2545.3399999999997,
+            2545.34,
             "Delays for Sebastián Jun, Gundogan puts pressure, Marco Reus also puts pressure, Benaglio playing it safe"
         ],
         "477": [
-            2545.3399999999997,
-            2549.4199999999996,
+            2545.34,
+            2549.42,
             "Gundogan finally tries to catch the ball, Jun misses that door, he has to turn around to"
         ],
         "478": [
@@ -2412,11 +2412,11 @@
         ],
         "482": [
             2609.26,
-            2619.1800000000003,
+            2619.18,
             "Hamburg and Hannover continue to win 1-2 against VfB, 3 of the last 4 are winning their games"
         ],
         "483": [
-            2619.1800000000003,
+            2619.18,
             2620.86,
             "Today, tremendous"
         ],
@@ -2441,17 +2441,17 @@
             "The first goal that you remember came in the first minute of the game, if it had been one minute"
         ],
         "488": [
-            2653.1800000000003,
-            2657.1000000000004,
+            2653.18,
+            2657.1,
             "and André Surle, another former Chelsea player, enters"
         ],
         "489": [
-            2661.7400000000002,
-            2667.5400000000004,
+            2661.74,
+            2667.54,
             "We have already said Surle at the beginning that it started very well but lately it has gone down quite a bit"
         ],
         "490": [
-            2667.5400000000004,
+            2667.54,
             2673.34,
             "He has already lost his place in the team, right now I think he is not going to play in the Cup final, he is a substitute"
         ],
@@ -2477,12 +2477,12 @@
         ],
         "495": [
             2700.98,
-            2706.6600000000003,
+            2706.66,
             "The peak of the area manages to clear it now Naldo, send it directly out Eric Durm"
         ],
         "496": [
             2706.66,
-            2708.3799999999997,
+            2708.38,
             "There it is, we'll get there until 93"
         ],
         "497": [
@@ -2492,7 +2492,7 @@
         ],
         "498": [
             2718.5,
-            2723.3799999999997,
+            2723.38,
             "In space, Chiru Immobile does not attack him, the former del Toro did not understand him"
         ],
         "499": [
@@ -2501,7 +2501,7 @@
             "Naldo to 3"
         ],
         "500": [
-            2729.7000000000003,
+            2729.7,
             2733.86,
             "0-2 for Klopp, a match almost doomed in Bremen"
         ],
@@ -2512,7 +2512,7 @@
         ],
         "502": [
             2748.62,
-            2749.7000000000003,
+            2749.7,
             "There it is, he gave it a long time"
         ],
         "503": [
@@ -2532,17 +2532,17 @@
         ],
         "506": [
             2765.06,
-            2770.3799999999997,
+            2770.38,
             "And Cologne, the next rival of this Wolfsburg, is also losing 2-0 against Mainz in Mainz"
         ],
         "507": [
-            2780.2999999999997,
-            2781.8199999999997,
+            2780.3,
+            2781.82,
             "Olappagos"
         ],
         "508": [
             2785.62,
-            2786.8999999999996,
+            2786.9,
             " tide"
         ],
         "509": [
