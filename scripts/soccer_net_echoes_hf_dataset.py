@@ -76,7 +76,7 @@ class FootballASRDataset(datasets.GeneratorBasedBuilder):
     def _info(self):
         features = datasets.Features(
             {
-                "segment_index": datasets.Value("string"),
+                "segment_index": datasets.Value("int32"),
                 "start_time": datasets.Value("float"),
                 "end_time": datasets.Value("float"),
                 "transcribed_text": datasets.Value("string"),
@@ -115,7 +115,7 @@ class FootballASRDataset(datasets.GeneratorBasedBuilder):
                             filename = "/".join(root.split("/")
                                                 [-3:])+"/"+str(file[0])
                             yield f"{filename}_{segment_index}", {
-                                "segment_index": str(segment_index),
+                                "segment_index": segment_index,
                                 "start_time": segment_data[0],
                                 "end_time": segment_data[1],
                                 "transcribed_text": segment_data[2],
@@ -124,11 +124,13 @@ class FootballASRDataset(datasets.GeneratorBasedBuilder):
 
 
 # RUN: datasets-cli test  scripts/soccer_net_echoes_hf_dataset.py --save_info --all_configs
+# make sure latest data is downloaded form github, else set force_download set to True
 # the dataset will be prepared at ~/.cache/huggingface/datasets/soccer_net_echoes_hf_dataset/
 # remove all *.lock files in the directory:
 # RUN: rm ~/.cache/huggingface/datasets/soccer_net_echoes_hf_dataset/**/*.lock
 # RUN: cd ~/.cache/huggingface/datasets/soccer_net_echoes_hf_dataset/
-# Bring and edit readme from https://huggingface.co/datasets/SoccerNet/SN-echoes/tree/main (to prevent double commit)
+# HERE are the new files
 # Upload to HF datasets (will create a new commit and DOI)
-# CAREFUL  CAREFUL CAREFUL
+# Bring and edit readme from https://huggingface.co/datasets/SoccerNet/SN-echoes/tree/main (to prevent double commit)
+# CAREFUL  CAREFUL CAREFUL, works for the first time only on empty repo
 # huggingface-cli upload SoccerNet/SN-echoes  . .  --repo-type dataset
