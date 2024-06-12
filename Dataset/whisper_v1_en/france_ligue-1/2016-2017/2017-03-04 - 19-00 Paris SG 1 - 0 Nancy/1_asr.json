@@ -2,11 +2,11 @@
     "segments": {
         "0": [
             0.0,
-            1.6400000000000001,
+            1.64,
             "The last one was Toulouse."
         ],
         "1": [
-            1.6400000000000001,
+            1.64,
             5.2,
             "Nancy will try to draw inspiration from the Toulouse match"
         ],
@@ -62,11 +62,11 @@
         ],
         "12": [
             51.68,
-            54.120000000000005,
+            54.12,
             "The proof for the moment is the Nancyens who monopolize the ball."
         ],
         "13": [
-            54.120000000000005,
+            54.12,
             56.68,
             "Chirnick clears Krikowiak's head."
         ],
@@ -111,12 +111,12 @@
             "but he is actually expected to play for an hour maximum."
         ],
         "22": [
-            85.16000000000001,
-            88.80000000000001,
+            85.16,
+            88.8,
             "So replaced by Ben Arfa after an hour of play."
         ],
         "23": [
-            88.80000000000001,
+            88.8,
             92.12,
             "The Parisians first offensive, first attack with Ramire Pastorey."
         ],
@@ -136,13 +136,13 @@
             "The hit will be for Nancy."
         ],
         "27": [
-            100.08000000000001,
+            100.08,
             102.68,
             "Ah we weren't far from seeing the first strike of the match."
         ],
         "28": [
             102.68,
-            107.36000000000001,
+            107.36,
             "He hesitated a little bit, Tergi Verset then it must be said that there was a good return from the defender in these 1."
         ],
         "29": [
@@ -1137,7 +1137,7 @@
         ],
         "227": [
             1020.36,
-            1028.3600000000001,
+            1028.36,
             "It’s really prevention for the players who are absent today."
         ],
         "228": [
@@ -2652,57 +2652,57 @@
         ],
         "530": [
             2047.36,
-            2048.3599999999997,
+            2048.36,
             "There’s still time to go."
         ],
         "531": [
-            2048.3599999999997,
-            2050.3599999999997,
+            2048.36,
+            2050.36,
             "I think Verratti did it well."
         ],
         "532": [
-            2050.3599999999997,
-            2051.3599999999997,
+            2050.36,
+            2051.36,
             "Guel."
         ],
         "533": [
-            2051.3599999999997,
-            2052.3599999999997,
+            2051.36,
+            2052.36,
             "Guel."
         ],
         "534": [
-            2052.3599999999997,
-            2053.3599999999997,
+            2052.36,
+            2053.36,
             "Guel who stares."
         ],
         "535": [
-            2053.3599999999997,
-            2054.3599999999997,
+            2053.36,
+            2054.36,
             "Guel who goes around."
         ],
         "536": [
-            2054.3599999999997,
-            2056.3599999999997,
+            2054.36,
+            2056.36,
             "Guelez who gets a free kick."
         ],
         "537": [
-            2056.3599999999997,
-            2057.3599999999997,
+            2056.36,
+            2057.36,
             "There is a mistake on this hook."
         ],
         "538": [
-            2057.3599999999997,
-            2058.3599999999997,
+            2057.36,
+            2058.36,
             "There is a mistake."
         ],
         "539": [
-            2060.3599999999997,
-            2061.3599999999997,
+            2060.36,
+            2061.36,
             "10 minutes before the break."
         ],
         "540": [
-            2061.3599999999997,
-            2062.3599999999997,
+            2061.36,
+            2062.36,
             "Very good free kick."
         ],
         "541": [
@@ -4207,7 +4207,7 @@
         ],
         "841": [
             2681.36,
-            2683.2400000000002,
+            2683.24,
             "And not yet transformed."
         ],
         "842": [
@@ -4237,17 +4237,17 @@
         ],
         "847": [
             2695.88,
-            2698.1600000000003,
+            2698.16,
             "and it was he who wanted to perform quickly, Marco Verratti."
         ],
         "848": [
             2704.28,
-            2706.7200000000003,
+            2706.72,
             "This ball for Lucas, not very well given."
         ],
         "849": [
-            2706.7200000000003,
-            2707.7200000000003,
+            2706.72,
+            2707.72,
             "Lucas who…"
         ],
         "850": [
@@ -4256,22 +4256,22 @@
             "The old one, kept this ball again, Puyo."
         ],
         "851": [
-            2714.3199999999997,
-            2716.8799999999997,
+            2714.32,
+            2716.88,
             "We were talking just before the match with Pablo Correa,"
         ],
         "852": [
-            2716.8799999999997,
-            2718.7599999999998,
+            2716.88,
+            2718.76,
             "he said it mainly depends on PSG,"
         ],
         "853": [
-            2718.7599999999998,
+            2718.76,
             2720.24,
             "from this match."
         ],
         "854": [
-            2721.4399999999996,
+            2721.44,
             2722.64,
             "It’s true that in Paris he was a little worse"
         ],
@@ -4427,11 +4427,11 @@
         ],
         "885": [
             2797.68,
-            2800.2799999999997,
+            2800.28,
             "but left until the end of the season in Nancy."
         ],
         "886": [
-            2801.2799999999997,
+            2801.28,
             2805.12,
             "Lucas, the last Parisian possibility in this first period."
         ],
@@ -4442,11 +4442,11 @@
         ],
         "888": [
             2812.56,
-            2814.8799999999997,
+            2814.88,
             "Second card for the Nancyens."
         ],
         "889": [
-            2814.8799999999997,
+            2814.88,
             2818.6,
             "And this is undoubtedly the last possibility for Paris"
         ],
@@ -4481,7 +4481,7 @@
             "which puts back on axis, new deviation and Chermic"
         ],
         "896": [
-            2834.7599999999998,
+            2834.76,
             2836.56,
             "can intervene without difficulty,"
         ],
@@ -4497,11 +4497,11 @@
         ],
         "899": [
             2840.52,
-            2841.7999999999997,
+            2841.8,
             "The Last Whistle,"
         ],
         "900": [
-            2841.7999999999997,
+            2841.8,
             2844.04,
             "It's the last whistle for Paris Saint-Germain."
         ],
@@ -4517,17 +4517,17 @@
         ],
         "903": [
             2846.36,
-            2847.7999999999997,
+            2847.8,
             "Hell is strongest."
         ],
         "904": [
-            2847.7999999999997,
-            2848.7999999999997,
+            2847.8,
+            2848.8,
             "The Last Whistle,"
         ],
         "905": [
-            2848.7999999999997,
-            2849.7999999999997,
+            2848.8,
+            2849.8,
             "Hell is strongest."
         ],
         "906": [
@@ -4537,36 +4537,36 @@
         ],
         "907": [
             2852.0,
-            2854.6400000000003,
+            2854.64,
             " for half of the way accomplished for Nancy."
         ],
         "908": [
-            2857.0800000000004,
+            2857.08,
             2858.4,
             "A long, long release."
         ],
         "909": [
             2858.4,
-            2860.1200000000003,
+            2860.12,
             "Kevin Trapp, let’s not forget the great save"
         ],
         "910": [
-            2860.1200000000003,
+            2860.12,
             2861.88,
             "that he also played the Parisian goalkeeper"
         ],
         "911": [
             2861.88,
-            2863.2000000000003,
+            2863.2,
             "during this first period."
         ],
         "912": [
-            2863.2000000000003,
-            2864.2000000000003,
+            2863.2,
+            2864.2,
             "Mawassa."
         ],
         "913": [
-            2865.6400000000003,
+            2865.64,
             2867.04,
             "Pastorey does not pass,"
         ],

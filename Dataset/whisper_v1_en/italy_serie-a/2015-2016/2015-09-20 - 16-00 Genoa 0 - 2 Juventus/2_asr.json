@@ -2,11 +2,11 @@
     "segments": {
         "0": [
             0.0,
-            6.6000000000000005,
+            6.6,
             "Squad number 23 Lamanna, goalkeeper in defense 90 Iso Sisokko."
         ],
         "1": [
-            6.6000000000000005,
+            6.6,
             15.0,
             "He plays on the right, 93rd Diego Laxal plays on the left."
         ],
@@ -81,33 +81,33 @@
             "Throws far, but not accurately."
         ],
         "16": [
-            85.39999999999999,
-            89.39999999999999,
+            85.4,
+            89.4,
             "But Evra will get a second try."
         ],
         "17": [
-            91.39999999999999,
-            94.39999999999999,
+            91.4,
+            94.4,
             "Right now, right, Patrice Evra."
         ],
         "18": [
-            95.39999999999999,
-            98.39999999999999,
+            95.4,
+            98.4,
             "Kick towards Mandzukic, he throws the ball away."
         ],
         "19": [
-            101.39999999999999,
-            104.39999999999999,
+            101.4,
+            104.4,
             "Evra, Evra is good."
         ],
         "20": [
-            105.39999999999999,
-            107.39999999999999,
+            105.4,
+            107.4,
             "Also the presentation."
         ],
         "21": [
-            108.39999999999999,
-            111.39999999999999,
+            108.4,
+            111.4,
             "The truth is a little unfortunate."
         ],
         "22": [
@@ -137,16 +137,16 @@
         ],
         "27": [
             125.7,
-            131.70000000000002,
+            131.7,
             "But Vinkov figured it out well, beat Quadrata and Pogba without any problems."
         ],
         "28": [
-            142.20000000000002,
-            143.70000000000002,
+            142.2,
+            143.7,
             "Who's there?"
         ],
         "29": [
-            143.70000000000002,
+            143.7,
             144.9,
             "Evra, Evra."
         ],
@@ -1291,8 +1291,8 @@
             "Kilini."
         ],
         "258": [
-            1028.6399999999999,
-            1029.6399999999999,
+            1028.64,
+            1029.64,
             "Kilini."
         ],
         "259": [
@@ -2202,7 +2202,7 @@
         ],
         "440": [
             1967.64,
-            1995.5400000000002,
+            1995.54,
             "Brother, it works well on your eyebrows."
         ],
         "441": [
@@ -2357,11 +2357,11 @@
         ],
         "471": [
             2160.62,
-            2165.3399999999997,
+            2165.34,
             "So far, Mishan is hitting the turn again."
         ],
         "472": [
-            2165.3399999999997,
+            2165.34,
             2167.38,
             "Oops, it's still beating."
         ],
@@ -2412,16 +2412,16 @@
         ],
         "482": [
             2203.82,
-            2216.2200000000003,
+            2216.22,
             "A pause is needed again."
         ],
         "483": [
-            2216.2200000000003,
-            2218.6600000000003,
+            2216.22,
+            2218.66,
             "Mario Mandzukovich and another muscle problem."
         ],
         "484": [
-            2218.6600000000003,
+            2218.66,
             2221.46,
             "Yes, it seems to me that this is a systemic problem"
         ],
@@ -3462,7 +3462,7 @@
         ],
         "692": [
             2674.94,
-            2699.7400000000002,
+            2699.74,
             "Couplighter for the Genua ball."
         ]
     }
