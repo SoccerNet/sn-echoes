@@ -22,7 +22,7 @@ import datasets
 
 _CITATION = """\
 @article{Gautam2024May,
-	author = {Gautam, Sushant and Sarkhoosh, Mehdi Houshmand and Held, Jan and others},
+	author = {Gautam, Sushant and Sarkhoosh, Mehdi Houshmand and Held, Jan and Midoglu, Cise and Cioppa, Anthony and Giancola, Silvio and Thambawita, Vajira and Riegler, Michael A. and Halvorsen, P{\aa}l and Shah, Mubarak},
 	title = {{SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset}},
 	journal = {arXiv},
 	year = {2024},
