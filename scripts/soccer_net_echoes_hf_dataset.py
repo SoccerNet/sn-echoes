@@ -79,7 +79,7 @@ class FootballASRDataset(datasets.GeneratorBasedBuilder):
                 "segment_index": datasets.Value("int32"),
                 "start_time": datasets.Value("float"),
                 "end_time": datasets.Value("float"),
-                "transcribed_text": datasets.Value("string"),
+                "text": datasets.Value("string"),
                 "game": datasets.Value("string"),
             }
         )
@@ -118,7 +118,7 @@ class FootballASRDataset(datasets.GeneratorBasedBuilder):
                                 "segment_index": segment_index,
                                 "start_time": segment_data[0],
                                 "end_time": segment_data[1],
-                                "transcribed_text": segment_data[2],
+                                "text": segment_data[2],
                                 "game": filename,
                             }
 
