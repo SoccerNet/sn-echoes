@@ -57,6 +57,15 @@ end_time: A number representing the ending time of the segment in seconds.
 text: A string containing the textual content of the commentary segment.
 ```
 
+##Flattened Data on Hugging Face
+The hierarchical directory structure with the JSON files has been transformed into a tabular format, consisting of columns for segment index, start and end times, the text (either transcribed or translated), and the game path (represented as a string).
+This was divided into three subsets (v1, v2, and v3 of Whisper versions), with each subset further split into "original" (ASR-generated) and "en" (English translated). The flattened representation can be found under https://huggingface.co/datasets/SoccerNet/SN-echoes.
+
+Particular data split and subset can be loaded using the following example code:
+``
+from datasets import datasets
+dataset = load_dataset("SoccerNet/SN-echoes", 'whisper_v1', split="en")`
+```
 
 
 ## Citation
