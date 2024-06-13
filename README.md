@@ -57,3 +57,20 @@ end_time: A number representing the ending time of the segment in seconds.
 text: A string containing the textual content of the commentary segment.
 ```
 
+
+
+## Citation
+Please cite our work if you use the SoccerNet-Echoes dataset:
+
+<pre><code>
+@misc{gautam2024soccernetechoes,
+      title={SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset}, 
+      author={Sushant Gautam and Mehdi Houshmand Sarkhoosh and Jan Held and Cise Midoglu and Anthony Cioppa and Silvio Giancola and Vajira Thambawita and Michael A. Riegler and Pål Halvorsen and Mubarak Shah},
+      year={2024},
+      eprint={2405.07354},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      doi={10.48550/arXiv.2405.07354}
+}
+</code></pre>
+

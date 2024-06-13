@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this dataset in your work, please cite it."
+title: "SoccerNet-Echoes: A Soccer Game Audio Commentary Dataset"
+authors:
+  - family-names: "Gautam"
+    given-names: "Sushant"
+    affiliation: "SimulaMet, OsloMet"
+    country: "Norway"
+  - family-names: "Houshmand Sarkhoosh"
+    given-names: "Mehdi"
+    affiliation: "OsloMet, Forzasys"
+    country: "Norway"
+  - family-names: "Held"
+    given-names: "Jan"
+    affiliation: "University of Liège"
+    country: "Belgium"
+  - family-names: "Midoglu"
+    given-names: "Cise"
+    affiliation: "SimulaMet, Forzasys"
+    country: "Norway"
+  - family-names: "Cioppa"
+    given-names: "Anthony"
+    affiliation: "University of Liège, KAUST"
+    country: "Belgium, Saudi Arabia"
+  - family-names: "Giancola"
+    given-names: "Silvio"
+    affiliation: "KAUST"
+    country: "Saudi Arabia"
+  - family-names: "Thambawita"
+    given-names: "Vajira"
+    affiliation: "SimulaMet"
+    country: "Norway"
+  - family-names: "Riegler"
+    given-names: "Michael A."
+    affiliation: "SimulaMet"
+    country: "Norway"
+  - family-names: "Halvorsen"
+    given-names: "Pål"
+    affiliation: "SimulaMet, OsloMet, Forzasys"
+    country: "Norway"
+  - family-names: "Shah"
+    given-names: "Mubarak"
+    affiliation: "UCF Center for Research in Computer Vision"
+    country: "USA"
+version: 1.0
+abstract: "This repository contains the SoccerNet-Echoes dataset, an augmentation of the SoccerNet dataset with automatically generated transcriptions of audio commentaries from soccer game broadcasts, enhancing video content with rich layers of textual information derived from the game audio using ASR. These textual commentaries, generated using the Whisper model and translated with Google Translate, extend the usefulness of the SoccerNet dataset in diverse applications such as enhanced action spotting, automatic caption generation, and game summarization. By incorporating textual data alongside visual and auditory content, SoccerNet-Echoes aims to serve as a comprehensive resource for the development of algorithms specialized in capturing the dynamics of soccer games."
+doi: "10.48550/arXiv.2405.07354"
+keywords:
+  - football
+  - soccer
+  - dataset
+  - match
+  - game
+  - sports
+repository-code: "https://github.com/SoccerNet/sn-echoes"
