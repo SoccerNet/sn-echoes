@@ -202,7 +202,7 @@ for caption_file in tqdm(all_files):
     \n{post_instruction}
     '''
     },]
-    dump_file_name = caption_file.replace("/global/D1/projects/HOST/Datasets/SoccerNet-Caption/",  "/home/sushant/D1/DataSets/SoccerNet-Echoes/Dataset_summary/").replace("Labels-caption", file_name)
+    dump_file_name = caption_file.replace("/global/D1/projects/HOST/Datasets/SoccerNet-Caption/",  "/home/sushant/D1/DataSets/SoccerNet-Echoes/summaries/").replace("Labels-caption", file_name)
 
     # check if file already exists
     if os.path.exists(dump_file_name):
@@ -222,9 +222,9 @@ for caption_file in tqdm(all_files):
     with open(dump_file_name, "a") as f:
         data={
             "input": message[1]['content'],
-            "output": text
+            "summary": text
         }
-        json.dump(data, f, indent=4)
+        json.dump(data, f, indent=4, ensure_ascii=False)
     print(f"Dumped: {dump_file_name}")
     
     
